@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
@@ -123,6 +123,23 @@
    "topic": "Society"
   },
   {
+   "id": "a198f1cc1b",
+   "title": "Wta Finals: Andreeva batte anche la riserva Shnaider",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnRPc0VjQ0FteE9Ib0QxUGphcG5lcWVoa0VIN3hWMlBWbHMxZVJhQlZfOGE0UTQ2UVMyUXM2c1pMTXI5VXBpVHV5SEpqOGQ4TnpBTXA3b245QUs4c2dadjItYTJhd2xTcFVDNE0zUjFnNDVCYnMxRXlqVEx1WmVnYU1aZi05VVpQNUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SuperTennis",
+   "region": "IT",
+   "date": "2026-11-13T21:32:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a7a906fd75",
    "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWp4RmJHcDNSenUzVGVINjlkV1oxbE5RMGtta1V5Zm1scEFtdURfRldrR0puTVNaZkpzRUxnTy11cDFkMEg4UWdFVl9LcUhSdDcyckVsQWV4NEh5N2wyNnBEaHdOVGlYcHE4SDMtU2cxeDhlRmZTYWdfNUNoUm1UNnRlY1Jkd9IBiwFBVV95cUxPSHRkblIwMEJ5UmgwOWlMUkFhN2JJOG5SbkVUSDNvNWVtQU5JUEJNemY2TjdRWC1ZNUtKSENoOUhYZkVJLW5GeWtCcmhJNGZMNWhMWkJlc3lIYThrdTQxMnUyX1BqWllLdWowVWVONy1qcTdGWU1iMEd6V2hYM0xxbm1ITUdtTVB4dnZv?oc=5",
@@ -191,21 +208,21 @@
    "topic": "Society"
   },
   {
-   "id": "37359ce5c0",
-   "title": "Meloni ai sindacati sulla scuola e il dietrofront: «Perché non erano tagli: nessuno avrebbe perso il posto» - Il video",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2x0TkhpaXBNYzAxOUkyM3JoUHZzWGRPYzBJRjY3dVhsZzhZMFBPVV9zSi1XTzVVd2ZBNXd1UnlBX3oyM0pxYlR3M1lnX3dpeVRoNzdINjF1UnlpZDh2T2lCaXNKX0FZY0c3eEREN2x5aHRDVmFLYmpBWTVEWjBmdlBVdm84Zk85eks5UU1yT09paDFkWnc?oc=5",
+   "id": "4cf81df28e",
+   "title": "Meloni fa marcia indietro sui tagli alla scuola: \"Non erano tagli\"",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2lCaDFkUDlwWlVTcVFRSjFIUEMtTTBSTTlMN25Eel9hbEdQNllqMkJtRS1HemRKN2lNbUpOOVNybDlteXRMRXJrNDBpTFRObVFHZFNmOVNzZC1SamdJcFJwRkwtczBTYkcySjJ2R0JLOFNyQU5vYzJCV3JsLVI2TlQ4cW5ZMEVNUThqckhQenhjUTBMOWxV?oc=5",
    "summary": "",
    "image": "",
-   "source": "Open",
+   "source": "Il Fatto Quotidiano",
    "region": "IT",
-   "date": "2026-11-13T18:38:08+00:00",
+   "date": "2026-11-13T18:55:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "66c75b3374",
@@ -216,23 +233,6 @@
    "source": "Corriere dello Sport",
    "region": "IT",
    "date": "2026-11-13T18:11:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0c625fa405",
-   "title": "«Le tue fidanzate amano più te o i regali?»: Fedez provocato sui social, Giulia Honegger spiazza tutti (e c'entra Paolo Rotelli)",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQlplQXZVc1drMlJrbWtiSjZVRTYtT3poaEpob2xTcGFhOTFETVFPcWFLSDlfYnI5WkoyX3FhYVZ1NEIxbHM3SGxlMi1zZDhsdFg0Qm56TllRNWt5WVpReWhYcXVKLTY4QmREMVZjSTU2MUNWQ29NdHdyRlZqYVVXdGtlNkFpbnZyeGJUcVVJYU80QUJDUmpsU0liY3FuU0s0dThKeUx0cWd1VTQ5bE56b2hkU0dWOC15aE9XVkVlWG1aUdIBqgFBVV95cUxQSGFqdlFEOVk1TFZ1MS1wUHV1QUdrNS1yaTF1bjBXN3ptVTdJdkFQb2dFb2luWG0yd1JxaW43NXhxZnBmUERwNDZ4QTVULVJpbVNEbkxUX2FxT0FnWlBfMUZ4dTM5ekhqZWgycWNTNTNVUEZBMXIxaExXaXVlYUoyQlBLU0pkTGhLOXA1dElxM0ZLV2xHbExicHA5WTFwa1RmalRDdmhLa2Vmdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Leggo.it",
-   "region": "IT",
-   "date": "2026-11-13T17:33:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -293,14 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "00a6337a4d",
-   "title": "Mancini e Sebastiano Esposito, il rigore sbagliato e il rimprovero: \"Perché tu?\"",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0FGYy1aRjZlbTRDdlBIWUVoWTRDMVdxdXB1QzU1VUhQUzRBQmstUHc5amNGRXZyZ0stdHRXa2pLSk1CTFNHZXZEZ1pqeVJMTFhPbTBDd00xYWEyZGxMNjN1Y2tiSGZuRmFrQk1XVnByTlhzYlNLenNWY0I0ZnMwS3N0YjZkejFBdUVxRmI2b25NeVdtcFFqaTZmRXRwRU15ZHpfY3hNYmdVbU96Ti1FRk8ybWY3ZnlWWEJCdUdfWThfRGUwZzNwMVFCc3VpaW8?oc=5",
+   "id": "65d6c197af",
+   "title": "Crédit Agricole insiste su Banco Bpm: «La fusione ha un forte potenziale». Ma Tononi frena: «C'è molto da fare»",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPOVJZN0hVWkp5dERlZUc0dDJ0LWh1SllycG80RFdVUDFqMmZKY0xqdTFjcFNuc3Vsenk5YlZzcUd3UDItMF9DbWxaYjRSYkxoZnBKVnFmbVE1WjlXeVFPOUxvZ216ejRiNHc0N1BIQlNaYkxsbVE4V3RnV0VyeDBJV2Z1RkZVLWM0UjVoY25lY0ZEaE1Qc3VHYkJnRzVqUDdyQmo5cWpTM0RHSnBXX3NqUUZaQTlNOXdDcndBaUN0cjlLR1k4UDE2eVFhODh5TEpxTHgyVldfUjJienBwVEEzcTd0djNRMnVheHd0Rm1SZUMtMWlSaGpGM0J2RXJoMkhLNW16b3ZhZ0x6WUJIOVphLXJLR1VlbXBFbzdYVjVQeTdiQVJROTltOTVhSdIBsAJBVV95cUxNWVhLN2lCNnhOaGJGNE1rbHM4OXhxLTdYdGNEaGhxWjRwbi1OSlg1cUcwdmQwMnNFTThhcmxQSGUzajZtU0ktRTM3aWVtN2UtTXNNM3ZMeDE4VHVsTkg0MlN3dEpmR001VVEwaFdMcFJnS2NCVXhrSVl1UGpZbGhlcGoxY0otNmlnMVh6c3JiTzk1emRRLXlIT3lsQklKQ0JDby1MUE5zdVV5ZTVLOUZqYjZXWjhxeGxmMk1kMmpIMS15cmU1d2lPaGZrZGYzQWdPREZuczh5RFhKMGxNM3lBVzlLOHlOclc3alU5QlJDNHhxOEp3TVpNb0lpSmlDQ1h5dW5tSms3UWNFcl83RUdSNUl2eUxYOV9VR2xWb2hwcnR2TnlTR1gyRk9vVWpLMHV5?oc=5",
    "summary": "",
    "image": "",
-   "source": "Il Fatto Quotidiano",
+   "source": "Corriere della Sera",
    "region": "IT",
-   "date": "2026-11-13T14:56:42+00:00",
+   "date": "2026-11-13T16:09:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -378,23 +378,6 @@
    "topic": "Society"
   },
   {
-   "id": "e5f7eedcdb",
-   "title": "Lori Huang, la donna che ha costruito Nvidia accanto a Jensen: lo scandalo può portare al divorzio più costoso della storia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjlxNTdPSllmZmdQRVhnVGQyNWlicVlObENOOUZfeVI1RjdtRU1yRXFpSEZqYW5PYmpmdmE1ZlJCOEN6Qy1hamE5TXNyeUh3RXJKV2V1TkN5M29XYUw4SXp6d3lpR3lvbjZwVVVIbVNrM3ZDS2tzcnRianVJU1pLdDRMbGRDMnhEczJZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vanity Fair Italia",
-   "region": "IT",
-   "date": "2026-11-13T10:00:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "6ed04bb430",
    "title": "Outlook e Microsoft down, cosa sappiamo e quali sono le conseguenze",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2RMbGczSHhOYTJaWk1LWnphdFRDSm1rN1p2dl9LSVJnRkN6TnJwaWxKNFZ1blItSXJSdnJsVm1tUTZvLTVWMWx1RHFqZW1uSjVCdzNvME5QeW5Cc0Y3YWF4QTVuYklhdkFxS1kxRVQyWFNWWDc5SkJudXRoaENPUi1FTFM?oc=5",
@@ -410,23 +393,6 @@
     "flag": "🇮🇹"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "5e09c5daf7",
-   "title": "Esplode un’auto a Mosca: ferito Serhij Zavorotnyj, consigliere dell’ex premier ucraino Azarov. “E’ in condizioni critiche”",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVBWRnd0cHVRNGtQTXl5VnMyVFMyNVoxZmlqenlxRFBTdDV2cFZUaHd2VHZVNEtHOHFzNnVTYnBHQXl4OFBzOW83U0R3R0ZyZnVtbks3b0dmTXpmZ1FkSWpTUjdNbGlMRDZxQ1pmSmd0amtRX211SGM5c2sxbG9Sb2N6dFM4cy1scDZVaEl0bFh1UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Fatto Quotidiano",
-   "region": "IT",
-   "date": "2026-11-13T09:50:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
   },
   {
    "id": "b99f8c38af",
@@ -480,6 +446,40 @@
    "topic": "Society"
   },
   {
+   "id": "b8797b25e0",
+   "title": "Perché Leone XIV è un grande Papa",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUR0akdQY1cyTFhFTkdnSE8yMVNWSkNaR1JFMi11S1VIM2h2QURBUkZScXJYMWR5YkQ5X0paVGt0ZW9INlpBVW9hMUVVTUk2TnJmZXFOTDFFWG9Oc2U1ekdSUUVBeUxaYlJSS1ZTSUJ6cHNKRUZ3UUtWZUhuMTNoM1FzZzR3Uk1ETjNveF81X3k0b0dzYXVxZXo1bEx5aS1aRjRwRXZMLTlmMEplX2FXeVFFMnRXT0RXNjM3THRTc2xZWmlfOWsyM0pJM1Q3d03SAdQBQVVfeXFMTUdKT3lFenRlUEZZWUhVMDdTT1dvSXh0ZFNEQmlXSXZsbUVkVUZxOEhwNVo2N3BjVHo1Q1pYUkVzY3F0TjFkYnZBS0o5YTlCYXpSQlVKa3V1N2hfcmRiNHVRWU5saW83d3RlX0VmMnJBbXcxUWRBMDM2eXhLQV85TWVtSDhhWU5tMWlTMmduY2x6S2FSOUw5bmJhM0dMZXFGRzJnSnBuSkVYZlVORzE4S2JraHFBdWdubkt2cG5iZU5OVjR4UWhMVVhURGpTY2E1di1UVXA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Corriere della Sera",
+   "region": "IT",
+   "date": "2026-11-12T17:26:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b74a4977ac",
+   "title": "5 fatti sorprendenti su Colette Kress, nuova CEO ad interim di Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVRPNXp0a1N0ZlY5LUNZZWpnUWVJdEpFMG5RdTlSOGtxb2RLeVpMMjRUS3AxX1c3eEllMnFXWV9pcXIwTFFJVmdwUUxkQ3JRR1U4YVk5VTRMQS1TWV9oSXpYTUQyVmdHc1RlX28yX3JGNzd3QWRvRndLaUVpaVQ0MjVUdHM3dlJtNjN3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Finanza",
+   "region": "IT",
+   "date": "2026-11-12T14:41:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "92a21927fe",
    "title": "Giornata mondiale contro la Polmonite: l'importanza della diagnosi precoce",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzZvZjE1UC1LUUVQR1VERDM1Q05PM2EwSDFtLW03Y3JIM2xKenFPWVRhQW83RXdrRUlUYXRoUGNoN2d5SVNILXYzWmUxS0FXbVI1YlQyRGc0TmhzX3RwMDRhR0psdEUwRjVuckJjYUMwSFBzQ3hRMG50eWw3Yzh3QVFnRlNndkdZOUpYSWd4R0swVm12eUR3SWwzU3ZHOWRCY0E?oc=5",
@@ -531,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "2e96380843",
-   "title": "I candidati alla presidenza francese, fin qui",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmFIMEdZTVg1SEVnbUUtQUVFY0I3Sndjc0JWWHdWWHNWcUNoUHowWng1NG40X3NFUXc5ZVBmZXpKUG1ydlBweHpzLVJzS2QxRXQwVnVYSkw2RWpsTHhDUGpCa3BiT3RramJuMmdrNU11RVpUS1BoNGZRMFJoVTJnX0h4ZTQtMmxhdGtlZXVDSQ?oc=5",
+   "id": "e5f5e8cd70",
+   "title": "Cristina D'Avena: \"Sono la colonna sonora dell'infanzia di intere generazioni\"",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSm5UNS1aMlJINS1DUWVQOVF4MWt0X25naTRWemJ1aDM5NG80clNhSzZ3MnkwZ05tbXRQMlh3VGd4cFJTVlhoMjE0YjhDcUlHbVU3VFVfYXhyOGMzamZ5U044VEFYRlNzQjdQUElWNXNqX25TVkVMS1EtNlBCYnBEVnVWV2JZamFOUDVJVVhGUTV4bkQ4d3R1eE1sYXNjRDNWaWdTVGlyUThNOEQxWnJwY1dialrSAWhBVV95cUxNTzd5X3Vmd0JXQkQ5OG90TFBQOUxFSVZzN0pJWlB1UXNGdkVaZ2h6Qlp5ZEFLVzQxdXZQa2wwVFg4ZjNCTURqUDgzQWRsdldjRTNRSnpkamwwOEJ2UVdiTE9SVDgzSV9fLQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Il Post",
+   "source": "Tgcom24",
    "region": "IT",
-   "date": "2026-11-12T10:00:55+00:00",
+   "date": "2026-11-12T11:17:54+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",

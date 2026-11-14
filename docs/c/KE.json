@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
+  {
+   "id": "5bf141960c",
+   "title": "Inside Eastleigh, Nairobi’s commercial powerhouse and the price of success",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQek9Nbk1pNVUxNnpzWUViWFN4eVNiMUgwM0NDeWNTVkpLYS1hU3ZMYmc4X0dHbGpMS01DM25PQU80U3NEUVpMMDgzN3Z0YU5RRjA1T1g1Y1ZmaExnWDhQMUdSLXpiR055NEJsS01jaXRKbG53X3A5THBHN2xHdTVMckhqRjdKa3hVd2VlRVltb2VDU1UxX181RFFteTJxMEpRMWZhal9XSTAwWTdfMU16ZzFRYXRXY0lLQWNSV2dMaldhSVlF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Nation",
+   "region": "KE",
+   "date": "2026-11-14T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "76d12d181b",
+   "title": "Self-sensing artificial muscles made with graphene fibers play piano and move robotic eyes",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRElXd1ZFcFktUFhwZEZuSy1VMW5rLWNZYzFrMXNSbEwwV3JsQTF3SEhvOXI4ekxpYUtaSTRoMVA2eVRJRmNYWHNCS0YwZ19uNWpkWGZJRVhPME9MbjRtX1lLa1NDOF83OEVBZk9vMWJGV2k5cVhBZ0R1RTMyT0lTSnZYU20wNEltQkRHWURYSFZ2ek5BYm9PcDFCODVBV1dzSV9sWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphene-Info",
+   "region": "KE",
+   "date": "2026-11-14T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "cbf8acd0db",
    "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
@@ -55,19 +89,22 @@
    "topic": "Society"
   },
   {
-   "id": "7e541f0e94",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Z3cxc3ZwT0p4VE9jQk9CR1B4MDdmd3Zta1ludHh1SjAtM2ppWmN0LTEwV0hkSDM4bUdRZm9HcXFXMDhYX1NsYXc0ekdzckktaXdiSWF0TGhJZWlCVjhhM1FxRFNMWXFMN1lobjhn?oc=5",
+   "id": "7a97af3ffd",
+   "title": "Sifuna intensifies diplomatic outreach as he meets UN, Italian and Japanese envoys",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkN1SFZfVGdvNzBXcndBNjBESTJUSVNWSGt5WFdwZlhlT2JTS3NJcGV4ajNCZHVsRWp4eVhoVW85UG1xcjFsd0tYVUhSUmtjZEZFcEQxTjFoVHNxYXZ6QzNiMWpvNHRyVEYzLWFwRTl1Q1pvU3NlR3ZKVFF0bGJtaTJSbk1QZk1MU3BpZi1DbzRMYklmTHdZZ3V5QXJIR3dJMHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Science Daily",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-14T01:14:51+00:00",
+   "date": "2026-11-14T01:54:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "Italy",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇮🇹 🇯🇵",
+    "also": [
+     "Japan"
+    ]
    },
    "topic": "Society"
   },
@@ -89,6 +126,23 @@
    "topic": "Business"
   },
   {
+   "id": "d298231c65",
+   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "KE",
+   "date": "2026-11-13T19:53:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "2880d6d5eb",
    "title": "Yeztugo PrEP Shot: Dosing, Side Effects, Cost (2026)",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPRXhLR3BqRFZEUW5OMXZJZEpfNGdJUi1hZjlFT0xIQlR3S05GTUdOSFRpSXhqZWhsM0NLbGdCM0lyRWlPUGNsR0dfU1c?oc=5",
@@ -106,14 +160,14 @@
    "topic": "Society"
   },
   {
-   "id": "ef7f6f4108",
-   "title": "EACC Chairperson challenges accountants to uphold integrity, reject corruption",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUVXLXZMTklHYTBDRnFLUkZDamNUbTQtYnJJeE1PNGx2bllvdGVmdk5aSWgtUE9nMWhUb2NrNGo1dVpDYk5IZHFpV25DSEo1d1dVUnpiNEp3RHI1d3dfVmgtZ0FMak82Y0VGOHU2TE54V3M1aFU2alVHVUJjWFlFZmpxVGczQzRLeXpIcGNfR2cwb1BPOEpTYnRpNVhZOFBOdEE?oc=5",
+   "id": "92cf8d3e1e",
+   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SGEwOVBLUHZEOUtMRkQ0T3RmNDJ1a0lyRGhYNWFZb2tWal80bEFYTHJfa29NOVRJbFo3cmxLR2RqbkJIY2lwMjJqd2x5RGdyNkx5dXA0MA?oc=5",
    "summary": "",
    "image": "",
-   "source": "KBC Digital",
+   "source": "UN News",
    "region": "KE",
-   "date": "2026-11-13T18:15:50+00:00",
+   "date": "2026-11-13T19:22:08+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -123,14 +177,14 @@
    "topic": "Society"
   },
   {
-   "id": "d64e8e5f04",
-   "title": "Access to quality education key to community development, says CS Tuya",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZktVclI2N1g3YTBXa2dlVXFZZlM4Nk4wa0ZweVo1SDJDdXNRbzNFUlE2dFFnX1ROQWJZaHFWVWNBRU1JaldiUllzejg5dVJIejZtcjFsSmVJQTY0ekhhVzBBSWNJekYxcjg4RlJ1U3kyT283aXJxcjlxZlNvSWxWUnJDZzZJeDVGWmdEbmtNdTVPaEdaTi1tT0lHSG1JZw?oc=5",
+   "id": "ef7f6f4108",
+   "title": "EACC Chairperson challenges accountants to uphold integrity, reject corruption",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUVXLXZMTklHYTBDRnFLUkZDamNUbTQtYnJJeE1PNGx2bllvdGVmdk5aSWgtUE9nMWhUb2NrNGo1dVpDYk5IZHFpV25DSEo1d1dVUnpiNEp3RHI1d3dfVmgtZ0FMak82Y0VGOHU2TE54V3M1aFU2alVHVUJjWFlFZmpxVGczQzRLeXpIcGNfR2cwb1BPOEpTYnRpNVhZOFBOdEE?oc=5",
    "summary": "",
    "image": "",
    "source": "KBC Digital",
    "region": "KE",
-   "date": "2026-11-13T18:11:11+00:00",
+   "date": "2026-11-13T18:15:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -293,23 +347,6 @@
    "topic": "Society"
   },
   {
-   "id": "3f5a0b3172",
-   "title": "Equitable Party formally changes name to Linda Mwananchi Movement",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDdacEpSVDNTV1JVSm8xYWRsT29JLWlDNXd1c0V6bEJoV2taYXR3NERGbDFwd0RaSHJMOHU5N1c3Zk96YXQ5eHowb0FDX1JRYzBTbjRRc05jNzA5eThwYjcyM1NwUTU3T0hxVlhmZ2N1WGttVUdNakNmZ0FNTXVNTkM5bHFjZzh3WjBNandHUnJvaThCLTdhbWo4Skw3U3U5cnB4bU5LeU5xWEJ1?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-13T11:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "662212a225",
    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqQ01qb3lwNWhSR0VzZy1pZ2Rxa0VKNllXa0FOaGVJeWg5bnROUm9VaGZhODYwbnQ0Rl9VbXd3THBCMU5LR2tyQkVUWVl1cmFDZV8xckVvaw?oc=5",
@@ -412,21 +449,21 @@
    "topic": "Tech"
   },
   {
-   "id": "504facfce3",
-   "title": "COP 31: Why global climate finance cuts could make Africa sicker",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORC1fNk8tNUlNbm5CMWx4bUZVU1lpMU5sckJvZnRWUWlPNGVfRUppcWpsanR0UHFDVGJSTVRzWHhJYU9sTC1NZGlLdUtuLUdEZnVQbTlrdjl1TVA3ME5CRUt0NVhXTWRvdVBNQnVmUEpnWUE4SUVLblpwMGdYZEV1a3RtUVRrYTZuUEFoYndQWHZacnExcjFzR2hzdm51a2g4VzNCRlpfZ3JWV0tfSWlhQjJITmdwYUp5TE5uSzQxazRZUEFvdlRKVXBpYXFkQ2lPRVNFcU9yY2I3ZW8?oc=5",
+   "id": "0157278389",
+   "title": "The origins of Friday the 13th and the associated movies to watch",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjFnQV90ZU1OYjE5NTU5Z1VsaGF1OTd5Z0JPTUhIb1JpMmdQNUdqM01pY19jZngxbVdFLXAyMDJkZmJ4R0Q3UDVjX3VEVUNkcGRqYXFGMkhJdFlDQUpaV3NFcFdMaHdyQ1lDaTVMeWNuUmxuN04tLUFFTlpHZW9kZFNNZFZUd2s3LWpYVF9UTGdxdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Standard",
+   "source": "KBC Digital",
    "region": "KE",
-   "date": "2026-11-13T05:00:00+00:00",
+   "date": "2026-11-13T06:39:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "349e450dad",
@@ -527,40 +564,6 @@
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1a66bff1e8",
-   "title": "Jensen Huang resigns as NVIDIA president and CEO after leadership crisis",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFp0ejdNU0U2c2tBNlplc2NSTmZjY1FicjFVdmI3ZzBzbjdLaEttRWcyV09DUFp0enQtUXFzc0RrNFh6cVhUNlI2V21adG9NZUI5b0NwWWk5VVNfYlRZSjlQeUU4bXpiVkNQUmdVZGdKcHY0RjFfak5WZFF6WG5lemtjSi1uekhtamtaVEo2NUFiVnVCTjBwNzUzNkNQak9LSUEtbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawan Africa",
-   "region": "KE",
-   "date": "2026-11-12T14:17:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "f1d304090b",
-   "title": "Mudavadi heads to Ghana for AU financial reforms meeting",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzhWLTgzb0d0aUlENXpSeWxPanNpZE4zcjNTX2EwNThCOWNEUjQ0U3drZUtYMlJZXzItNzZDbGxTU2tKNnRrSmE4SDZVOTlXYlJhVWxMdExYME5wel9xT2xUMVJaNFc5Y3piTG5QVUN6TEg3ZzdPRDBDbmd5aVRLeEFlSmVCMEJjcm5Ra2hjLXdHbUd1NEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-12T14:16:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
    },
    "topic": "Society"
   },

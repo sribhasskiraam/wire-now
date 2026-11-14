@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "NG",
  "name": "Nigeria",
  "stories": [
+  {
+   "id": "084e7f7b00",
+   "title": "Tourism is intentionally designed around inclusion, accessibility, gender equality",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLW5ZLUtDbUVIWnByUUk4aE1fVFhmUHRpOUNlenRNQk40dU5GRmh2Z09TUlZDSEJ1TDl3YmFNLWFfMVdkMU9aZzBiaDNRSWJ5T2Zid0xvZHllOEt4Tm92dGVMaEpqZDBKZ1JiNEtEdTIzWEZ4TS1iVzFRanVwQTF5WlBnNmpvYTJ6c2dIdkJkLXJGRkxNUk12S2lLMkhEZGo2TndFM3ZuVjBhU3RLejktZmV1VUZTbVJoYW5XYXZTOHUyY2llc0dpNVlaOExIX0dfR1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian Nigeria News",
+   "region": "NG",
+   "date": "2026-11-14T03:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "76d12d181b",
+   "title": "Self-sensing artificial muscles made with graphene fibers play piano and move robotic eyes",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRElXd1ZFcFktUFhwZEZuSy1VMW5rLWNZYzFrMXNSbEwwV3JsQTF3SEhvOXI4ekxpYUtaSTRoMVA2eVRJRmNYWHNCS0YwZ19uNWpkWGZJRVhPME9MbjRtX1lLa1NDOF83OEVBZk9vMWJGV2k5cVhBZ0R1RTMyT0lTSnZYU20wNEltQkRHWURYSFZ2ek5BYm9PcDFCODVBV1dzSV9sWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphene-Info",
+   "region": "NG",
+   "date": "2026-11-14T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
   {
    "id": "cbf8acd0db",
    "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
@@ -38,9 +72,9 @@
    "topic": "Society"
   },
   {
-   "id": "7e541f0e94",
+   "id": "d72dba43e7",
    "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Z3cxc3ZwT0p4VE9jQk9CR1B4MDdmd3Zta1ludHh1SjAtM2ppWmN0LTEwV0hkSDM4bUdRZm9HcXFXMDhYX1NsYXc0ekdzckktaXdiSWF0TGhJZWlCVjhhM1FxRFNMWXFMN1lobjhn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUEtuaTR5Vzh3VzM2RXFzek1rVFQ5cmZKOV9TX01mS3ZSM3ZqVU9oZjYxRzJ1cEJsSjUzSnFlQXhIdkRoZnlYS25jNHRxcHdHdVpuTEhaYkVsTG1jZ2EyNEhiSy01bjQweF9xaXFIYw?oc=5",
    "summary": "",
    "image": "",
    "source": "Science Daily",
@@ -71,23 +105,6 @@
     "also": [
      "Nigeria"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dec95a6a9c",
-   "title": "More than 100 companies and groups linked to fossil fuels represented at Cop31, study says",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3RhNkxiczF6YzRyZ3FaWDQ1VERuSjRscGczUTJfeXRiRlRfS0dxY2hvMzVoR1REd3R3dVhNMFdnMjVQMUpqNWlLT28tbS0zWEk3bVhCNDdkdTVUUjlZajhyeHJGUzRtZUg3bDBCLWtja1FfaXFoay1YZ1ZuQkthZmxQRzdYQjhKaEV5ZmcyTGF1dTZLdlBLb1M0Yy1BUmN4aGhoTThBRUUxUWo5b3ptN3ZzVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "NG",
-   "date": "2026-11-13T22:13:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
    },
    "topic": "Society"
   },
@@ -143,23 +160,6 @@
    "topic": "Society"
   },
   {
-   "id": "6edcf48076",
-   "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlNuaU5QNUNJVFRFV2MzbWVCUm8xUG9PMkVKT29mMzM0cTkwU3d5WVZOT1MtY2ZBWWM2eGtoOFhXSk1IQmIzV0ViYU9RX194OGhGblpNVks1enhPWVozUkQ1aDR0SkRhRXdaQVgxMzJzY0JtZHNERjh1dFhxWlFGdERSaw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Space",
-   "region": "NG",
-   "date": "2026-11-13T21:25:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1dafccfdce",
    "title": "Finance must break developing countries from ‘debt and disaster’ loop – UN climate chief",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORFNzSkF0dzl6dlB6TXdXQmxUTlVnNTdRYVlvZlJSVjF3UVRWaTdWUi1WM1FuX3pxMVhsR2R5MldkdFRZLW51bEtmTGM0YVRTZS1ZWGN6aDU4MVlUaHpSdEdxeEZZaUJ3aE4xWF83Q2FkMWo3LUtLZFpiLVpGXzV3bkFmbUR4NURjX2NJSmFJRzJCOG9XclI2SXp1STNTeUpBWTNkQXVhRDdwMGdIZVVBOTVVY21KU0hGSi1Gc3pNcnhuN05xNW1oazMxTFdoVXNHMnN2N1F2eS1uV3ZHcFA4bHVlMlY?oc=5",
@@ -175,23 +175,6 @@
     "flag": "🇳🇬"
    },
    "topic": "Society"
-  },
-  {
-   "id": "f77b1fbcd1",
-   "title": "2027 Elections: ‘We Shall Not Tolerate Irresponsible Conduct’, Tinubu Warns",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHVyajVEbEtBb0dGZTJSRjZSOTRpVllXTWswZEdrQng3NWhsc2puWkg4c3VLTGc3MFljaUlUczVlZGhwcmI5MDJGM2UxWGVOWEVJdmFnc0ZjQVFoZGVKWENNcGF4X1VZNmFoN0dzUUpTMzV6MUxHVzdsZDBSUnhRZzhrNnRDR1plVjJCQXM0R0QyLWpmUWQzZDBtM09XR2hKSVdSMXlRZ2tkdk1nTGJj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Channels Television",
-   "region": "NG",
-   "date": "2026-11-13T21:16:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Politics"
   },
   {
    "id": "2fa453bc1d",
@@ -228,6 +211,23 @@
    "topic": "Society"
   },
   {
+   "id": "eea203c8fc",
+   "title": "Fueled by Democratic gains, women will hold a record of state legislative seats",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjZCQUNvdFN6WlpnOHZFS1pfYzNNWThFR3k5YS04WDNyTFFMZElYaG9xeks2dnJnenpGb0xZclB2T084ZkVvQzljWVNtRzk5blRQdlVVTkJ5SksyVktyckJrTjNJU2VnOFpNT3h1QVBuTFR3eFNEZk5nMFMtY3o4M28ta2xMN0RCdE1ZQ2Jaa1RrbHpBS2t5cFVmNkZ4RDc0NkV6TEo4aUZPb2NVZjB3STBn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stateline",
+   "region": "NG",
+   "date": "2026-11-13T20:01:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c011261507",
    "title": "Kano confirms 12 diphtheria cases at boarding school",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaW1DOVFRRU5weGxtbW90b1Y2ZGY1Xzdxd2xSYTV5US1xSlpBb2QxbDNDUmF6dzZqVmE3X0Nzc2huY2p4ajQtMEZWRm84R3hiVHg1dUU3eXNHaGhleGE5TU9GNmZfeVpqZ2U0T2IwVUZqSklIOXhBSXJaNEs0RnB0WnR3?oc=5",
@@ -236,6 +236,57 @@
    "source": "Peoples Gazette Nigeria",
    "region": "NG",
    "date": "2026-11-13T19:50:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f7f30ff831",
+   "title": "Latin Mafia’s Fan Engagement Masterclass Leads This Week’s Best Music Marketing Moves",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXBSWHFXUUlWVEFoc283T3N6cVhwXzFWb2FtUE5ZYnhBVkp1TjJ6TndjeHpIR3d5ZS1hZndiazBoSmhNM1RsakRqNzdoTXFseW0xMENvaUx6T1dFVFB2YTJNd2xWbzdENlI1MUd2UW85TEhMdWhTeERMOVN2Uk0zRTkxd2liTXNCSXg3dGhrS0JDd2E5elpsYldyZld3UDk2MXNyZURKbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "NG",
+   "date": "2026-11-13T19:44:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "7cf56efe25",
+   "title": "2027 Elections: If Court Rules Against Atiku, INEC Must Comply, Says Prof Amupitan",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1lvcldaMFFZaHlmd3U3MFlLRG1MekZYMWFLMkdZSmNTZ05SdVIxTjNOd2NjZ3hQOFRQeUdORUh0SUxjQW84RVZwdkdvU2tacTFVdC1wSzRPekJ6cFdib29MaGE2Z0Z5QjJqaW9PY0QzQU5IWGpYcmpMRHptMDJMSTMtZmdkazJQTVp3ZVJvMnZ4endiRXNnRjZyb2F6VkVzTEQtWWV6b0hBRHFuY0NKaFU1ZFhveS01TUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sahara Reporters",
+   "region": "NG",
+   "date": "2026-11-13T19:26:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "e1a3346656",
+   "title": "Evening recap: Tinubu orders crackdown on thuggery, Super Eagles win, other top stories",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHZWR3FvLUZFTDZzRHh1U3FGVWFYV1BleS1hb0sxalFQSDRNYW9MYkVUdFU1VHA3bDZoSWwzXzgxVmlCTXlTWk03eGUzaEJlbkFCQUtuZGNqTzFnV3NuSlpDbUdsWnVSTTltNFRienpsUVRweHpLNEFNZVQtVEtsVi1uNTkwbDEtOUg2NzZWVW5YNFlWNjRhZ1hSR01oY2QwRktkUWkxSlI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Punch Newspapers",
+   "region": "NG",
+   "date": "2026-11-13T19:17:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -279,6 +330,23 @@
    "topic": "Society"
   },
   {
+   "id": "f0ed912ae4",
+   "title": "D’banj’s CREAM secures equity investment from Afreximbank’s CANEX",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDhJX3VlWm42UFc2bHpMOXkwS1paSHQ4dF8xZW5udjg4cUprZHdFR1JIOWZaMmlHSVN0SzItejFGZWpENU1qN1lTVUdDdFBOdXRKTkFBLTg0d053SDNjcGVMNi1STW9hQUFCcW9IVkU5VFdYWTdCQzZLWUk0UEplLWlET0V6VnJlcXZVMEljNW0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TheCable",
+   "region": "NG",
+   "date": "2026-11-13T17:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Business"
+  },
+  {
    "id": "fcbc87140f",
    "title": "Bitcoin Slides Under $70,000 as ETF Outflows and Binance Hack Shake Confidence",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vYXdoZTZkclZvZ2xRYUlnZ1VfOXFjRkgwcVlpRDhRUmFEY3EyTldiSTdhblB6MFhaYTVnMUtSZTJldVRNV2tGYjBmMVB2bG1aV0hPRFZ5TGtQZnV2Q1h6bmlnWHNOOEJ1ckNfQ2ZGOW5lQS1oSGc?oc=5",
@@ -313,40 +381,6 @@
    "topic": "Business"
   },
   {
-   "id": "4b93fcc5c1",
-   "title": "Davido Joins Forces with PUBG MOBILE as PUBG MOBILE FLASH Launches Worldwide",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSW1tWXlPOWV1ekRrSHI3RlQwczdxVHItTXBiVF84d0JpOVdLNFRSZHhvVFNQTkgtUmRrZWdEak5ySFhaaU1XblRjZi1vRF9vdnJ5S1RpdzBQX1RZOEF1RWg3M3oxODY3UEpMUzNoaU5VUWJ3SHJ2dko0M2x2eWJCdEoxODFia092WjA3TmZiaTljZ2ltLXB3cS1xVkVEZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Punch Newspapers",
-   "region": "NG",
-   "date": "2026-11-13T15:22:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7a95db8eb7",
-   "title": "‘Nigerians Are Sick, Tired Of APC’s Illegality,’ NDC’s Ife Salako Condemns Lagos Attack",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc283TVp5d0p3Q1lSWHZKbmNVT3U5UUN0U0lPVUxPb0xmYlZlTWdsTHRwOTNBOHcybXcxU1J6a1JickR5QXBiMWN5cnBCV2lhZGFBZkQwZnIxQ1VMMmRLTzhmWi1PUWFaR2kyMTFtal9lY05FZFBjRHBZZGFLQVZyaVdfVnpYbnpBQkEwbG91RUpmR1JkTzNnV01XcmxWMDRIQWEyZ3NHRE5uRWY2MUx5UFp3bFJoN2pQZWxCTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Channels Television",
-   "region": "NG",
-   "date": "2026-11-13T15:06:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "435d97add5",
    "title": "COP31 Deal Wish List Includes Fossil Fuel Transition",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUdEUWU1Zm55a2VLNUdGX3hBbmdDT1dGcXJCbzZOSHlLcEQ1RnZjZVpadnY5X01nZHYzZmxKTWlzZ2lLWlZDT2ZRVFFYdW96cGZaaTBUb3ZKcF9yclQzNEc5NFJOOUpLd0s5cThyYl9uRGhaUFhPRFhWOW1JM2ZHUWoxODdVWWJBTE9SNmphcmozcl9BMXc?oc=5",
@@ -355,6 +389,23 @@
    "source": "Channels Television",
    "region": "NG",
    "date": "2026-11-13T14:25:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "529e95ce13",
+   "title": "PUBG MOBILE teams up with Davido as PUBG MOBILE FLASH takes world-class gaming to more players",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaE1DVU9QbE9LNmNiZXBGUF84bUV1Rkp6NUx6RVVKcHhVaDl0WVNSVzU0aENWV2pHTVJ6TVlEVjQtMF9iZGJHcC1nSExMUUZDSzlmWWthN2hBcDYxclgzdVFrdDVHRU5JSFB2NE80NHY5UldSVTQ0emRvUU1aTlZsWWltODVwLUVPd1ZxcWloS2NFSnR1SU1KZ25iZGk4VXRGWGxFMGF2TENZSU9KMWFzTGloSVZRVkE2R1ZmMElqQlR5OTVs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian Nigeria News",
+   "region": "NG",
+   "date": "2026-11-13T13:15:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -398,14 +449,14 @@
    "topic": "Society"
   },
   {
-   "id": "04e17a2491",
-   "title": "Court orders INEC to recognise Adebutu as Ogun PDP guber candidate",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTBQQzJmT2I4aFh0eTUtZFhTbEl5Z2l2RENsb2NvVC00MVUwSGEzRE14VEtFanJXazZVaXhyM3dSUWJDY2xLRVVzcEdnM2pRVHMxM0FiTlBBeVBPRUNXNEttbXV2cE9BTzM1OEVja040VE0xc193aFA3M09Qdi03bzRsWXRud2duZkFobkxHdWE3WDNMMTNfNDhpd2lUbVQ3?oc=5",
+   "id": "62a29b350f",
+   "title": "Court orders INEC to publish Adebutu’s name as Ogun PDP governorship candidate within 24 hours",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTkxXajZsNUlVM0Q2MFFsVVFhandTNFhXVjdhZ2hqbTh1MnlnWi1RR3hQZTV1T2xpVDcycnFsM0RBZXkyU0pmbk5FRE9zeXVyaTZfWUx4LWhYclViaHFIcUh4SjlZTmNOWGR0ZlVpcnpocVBPMVRWUmNUVjdrYmpZb3cyUmk0aGZYOGcyaUNnWDRXNWczcGVGdHZmMTJJeFJWRFlwOFBqQ0NreVpBVjFoekwzYlg2aWhKRXlFeUpfb3A1bVFjcmRQSDFuZGwtTEFDUmVFMWl6WTAzSWJvOEhYSXdaVGpjdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "TheCable",
+   "source": "Premium Times Nigeria",
    "region": "NG",
-   "date": "2026-11-13T10:44:00+00:00",
+   "date": "2026-11-13T10:45:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -413,23 +464,6 @@
     "flag": "🇳🇬"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "a48cec7c3f",
-   "title": "5 smartphones with the best zoom cameras in 2026",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGRMSDRWcU1FLXZrYUJRejMtTTJSUVhkb2JRQzZfV2NaRm1EaHVjbDdmZVQ4TjB3TkdPdUJnazg1YmJCMWdRd0JsaGFtUmxHdVdqdXZnRUlwaERac0RwdFRJSTlkUjMtS2Jhc3JHeFZOY3VrUGdzTkdxLXFOU3dnY19IS1hrb3BXZGI5c1RR0gGTAUFVX3lxTE1MYnBDRjJYTm15U2t4MjU0THBwV3A1T090ZE1mSkZWMmQ3c21tbEhiZGlOZlZweEJEWEI4WHFJbF84dWNrWm5FNDNmZUtkZmV2U2RkWXlaYmJNcmlfVFRoZFRQMUQ3dzExY2hMV254YmF1SjFXeVFkWjM4eFBWUHVpMDhjQm9Bemc5dTZoTWtjMkZrQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vanguard News",
-   "region": "NG",
-   "date": "2026-11-13T09:31:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Tech"
   },
   {
    "id": "3c9ed0ee3d",
@@ -447,23 +481,6 @@
     "flag": "🇳🇬"
    },
    "topic": "Health"
-  },
-  {
-   "id": "a0823cf191",
-   "title": "2027: INEC will obey court ruling on Atiku’s candidacy – Amupitan",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkJicmd1aVk5bDFiSGxDd3JVdUx1OWxzeUZKTXFCTGJCRUs2OVRsRjVIZ05Lem0wVHN2SnJVUTV4NzJEZlRrREVuNHZtaDdDQ3BodDFKNlV5ODZQbjhGT09wYmdZYm5XTGQ0WkZpWndEYjBlTjVCczNpNEREazl2ejJvb1lrY1QyakE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Punch Newspapers",
-   "region": "NG",
-   "date": "2026-11-13T06:17:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Politics"
   },
   {
    "id": "0fbb45c88c",
@@ -488,16 +505,33 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjJwS2EtcGtFYjEtbEpJZEVvcUZCS1RYcmtWM0FiQ1ZlMEItU2Y3QnZIUkExRkJHUzVIRzB3Q1BONnpCaFl3NFdRSENVOEp0cUFGUWd4bF9zZk45ZXRER2c3TXc5MWw1X2gycTFKVmpYOWUtMEl3RUpjRFExeDNjVlJ5V09lWkFWaHNHRGd2NG9Fbnk4bEVPTGpNODlpSUdoTG92b1ZLWHJmb3c0?oc=5",
    "summary": "",
    "image": "",
-   "source": "https://thefact.ng/",
+   "source": "Channels Television",
    "region": "NG",
-   "date": "2026-11-12T17:09:44+00:00",
+   "date": "2026-11-12T21:02:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
    },
-   "topic": "Economy"
+   "topic": "Society"
+  },
+  {
+   "id": "a8756b3599",
+   "title": "Children of Blood and Bone Trailer Unveils Paramount's Epic Fantasy Based on 8-Year-Old Book",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMWlmM0dUbGFFZ1ZhN0hsWWlZUFI5SXluMXQ0RFJqM1FRdzIxTGtKM2tvTDROeHRoTDhhcVpPaTJuOEozajEzdl9jZXhKNk5HZ3NiUE10bjRJSHlNQ1lrcGs3cUtVcDdJN2RTLVZR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Comic Book Resources",
+   "region": "NG",
+   "date": "2026-11-12T19:05:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "cf7bdbe966",
@@ -549,23 +583,6 @@
     "flag": "🇳🇬"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "6e2123fad1",
-   "title": "Apply for Low Value Grant for Plastic Circularity Community Engagement in Indonesia - fundsforNGOs",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS3NsSnpvcDZzX1JLS1J2eUpxX1JmZXNfay1zcVpONWV6ZWNleE5NQ2lrb2Z1X0xrcUJHYnJyWEJDS1lMSDJBYVpIb3VfeHhrNGZNcWZkOWo1MUl5ODFfQm5acFNsM01Qa1JpQnlFODVqczY0Z3Y3c0lwSjRHZ1h1N2RwNVB2czZMVnNkNGRadDRwaWZmZDBkZHVqZjh6Rkwwc25xZFd4cVFXOHlZNEpDMHRkTGw0a0pScC16aW42OGNLS0FCSVZyU2IyVXhobDRmclBuWNIB2gFBVV95cUxNbTAtUWlIMC1UQjdkSGdRZ1dKS0VkNTd1MXM2NzhjQ1BYVUo1QzA2aUtxaWVEcU9BMVRRX2pZc2U0V0JTOWNmS3QyMVhJd3hPYUk0X1NJNzZaMUZ6bmVTZVQ1VXdjWWhaSkhfWTNWcHFUQU4xeFYwUWV1YS1NRmp2VS1qRHBfZ1p6VUdLMG9xTVJKMk9Tb3JVYm9JRVVZc0dWWVFaWHFkeGdQZUxlZDIzc2dwZl90RTZhT1JYbmplOEk5Q1ZUaEp5ZXhiS2w0eDhUbE14b1haRDBSdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Grants and Resources for Sustainability",
-   "region": "NG",
-   "date": "2026-11-12T04:54:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Indonesia",
-    "place": "",
-    "flag": "🇮🇩"
-   },
-   "topic": "Society"
   }
  ]
 }

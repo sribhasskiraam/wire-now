@@ -1,24 +1,75 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
-   "id": "869070af4d",
-   "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
+   "id": "ab8fb0adeb",
+   "title": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlNhWk5pSFNqTUFqUWN1YTYwMHV1aEpNQUQ4cjcyNVJhZ1lBSmM1RW52b09ZVjEzMkpZdHY4WlhoZlc1czE3U1JjSXVhV2pSTFUtLTM0cjM2UjJGMktVeWc3a0xfZ1RVbUtCcy1uYWx3c3hUT0FkcjhyOUZ0cnNyRDNEUjBOdVk2bGVUNkd0R2N5YWpJVHl0VHBCLVRndTRBZ1hydzd4bUk2MUFORE1XNUtlbWl4Qm1hTXg1OHln?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
    "region": "PK",
-   "date": "2026-11-14T02:37:30+00:00",
+   "date": "2026-11-14T04:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "43c23f7e30",
+   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "PK",
+   "date": "2026-11-14T03:46:25+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "88eff6a1ab",
+   "title": "World Diabetes Day being observed today",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWV0VjFFYUZ0eHgyWGIwd3pvVzRSc3EtLVRSZ21aSkpiUjcxY1hXZzhqeW9NaHVMTnFkQ3FLbjhkS1h6dzA4TlJrQVVvUk1FR1JYdnljUmZkQk5OWjc0OTNTV29qT29BU3BLdEo0ekZlWjhxdFRVWFhic2ZObHNxZQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RADIO PAKISTAN",
+   "region": "PK",
+   "date": "2026-11-14T03:11:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4bdb408160",
+   "title": "COP31 must deliver climate justice, not empty pledges, says Sherry",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9McmczWFVHak9SX2pIMGRBMkYxN0p3XzVjb2YxSTdDanNxQ3VobVZGTjduSlFmTlMxWlRDVDlQanZvSTNMNGlvaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-14T02:31:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
   },
   {
    "id": "6e85a8bac0",
@@ -55,38 +106,25 @@
    "topic": "Society"
   },
   {
-   "id": "861986ff66",
-   "title": "Lahore CCPO orders supervisory officers to lead raids, operations against criminals",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1VIbHJONEthWC1mY3RreXVQbE5BcWdiNlRHakJoT3dteWk4VE1oU25jYUtMQlduT3BEaEFQZUMyTmE3WEZpbGhfVS1qRkRVS3czYWpRZW9yMmlfRE5xbDRtLTFjaHFYWHljWE1yazJsQWExaUVJZEc2QWdKZVBxRXRPRkVHMzhMNEJ2ZUZLS2QySVlZODB4dXV4V0JzR3pUejJna2hLLWdOcDRyYVE?oc=5",
+   "id": "0f156993d9",
+   "title": "Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVFBRWNTOVlKblQ5Y3Y1bXBuM0VPTGVXdVBkVkFCYmFPbVJvSk9WN211a19NWHFkejduQS03UDZCbWtMQi1HOWotOTROdjZyc1E2U1JMYVVsUFpFbmpyVEw5dnNlXzgzT0RqODBvY1Z1enhMYXRLX2pXUWF4bTk1WUd1T0NUcXBEYUwxOXZyRWk5bEoxeElPT0NLX2o5Sll1YUlWekRR?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Nation (Pakistan )",
+   "source": "WSJ",
    "region": "PK",
-   "date": "2026-11-14T00:40:28+00:00",
+   "date": "2026-11-14T01:34:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "United States",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇺🇸 🇨🇳 🇷🇺",
+    "also": [
+     "China",
+     "Russia"
+    ]
    },
    "topic": "Society"
-  },
-  {
-   "id": "d08b5f2841",
-   "title": "Three men shot dead shortly after court hearing in Satiana",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHBmWk9OWm4ySDN1a2pBeDlTVWh0ZkhEcnR6NFFpcnl2WElmc0ZJc19NakdLT0JUdktVYmFmc1hRR3djYkpIbG9NMUduZG9WX3h3Z082Umt3VlZXLTFXckhCd0RCdi02cVBhOHcwdU9QMVRTNHEwTGdnV1JBTmF2YjA1Umt3V1ZTd0tYMm0zamM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Nation (Pakistan )",
-   "region": "PK",
-   "date": "2026-11-14T00:40:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Politics"
   },
   {
    "id": "0ebaa317c6",
@@ -97,40 +135,6 @@
    "source": "ScreenRant",
    "region": "PK",
    "date": "2026-11-14T00:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6763720bd7",
-   "title": "Referendum talk",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HVENWVGJDVTlGeXpPcmxUZjFsVkFIbVdySVhIcUJYTlVvRk1GVFBQazg2VGVrckdVR0tJRUZySE02TVFlZlZ4Yg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-14T00:24:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bf2e098e99",
-   "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQy0wTmVod1ZaQUZpSFNoZjhGc1BkRWVuVUNCYWNVUUVOU0NLSWxEZXAwMmFTR1hxQ015S0lKSEkxQmFnWDdicEZGVVJ3YmlnWFRBUmFzQmd3TVl6QmxZTTlDMllJT0VtU1ZyalozZHN5N1FoMkdXTklkS0VnMHQtRlRqVWMxd2k3LTRFNDNVVXNyOV9TNWN4REkycDc3YzBzeXMyYmdNU0ZuM3g3ZW1tMHdpZm0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Engadget",
-   "region": "PK",
-   "date": "2026-11-13T22:50:13+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -155,6 +159,23 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
+  },
+  {
+   "id": "04a28220a4",
+   "title": "PM courts mineral investors, CDF promises protection",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcElMb0pNME9nN1ZOM0o2MjdvRWVtOW5PazlrZG5TWVRxRXM5RVc2N21oY3RXTzRYeVV2bC1YYmRXcUNPd251b2xzdzRGZ1ZaV2I5UXg4ekZaN0hIdlVkcjdwSFVsbUoyUTRlc3V2bnA1SkUwQ3JhN2ktbndFLWFBZUtMNzhCcTFoMjlrYU0wSDhieW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Nation (Pakistan )",
+   "region": "PK",
+   "date": "2026-11-13T20:05:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Politics"
   },
   {
    "id": "fcbc899da0",
@@ -212,6 +233,23 @@
    "topic": "Society"
   },
   {
+   "id": "0f2a35f750",
+   "title": "ECP suspends programme for local government elections in Islamabad",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXZscTdPYTgtOGpLVmdYTkNUdnhueTgyMWpMT2JxbkUxcDBKV2lDRTVId3FXTkh2cktzUWRXZ3dod2Vpek8xR3I1dzZ1SkJ5WEtDSkp2VFRheFN4MjRqTDQwTF9lN2xmWEgzNnppMXpQb3BWSXl3a2xYblI3dGtMUEdHMmRFNkxZRXdHdVk4VUh2eDVENkhoaEc4QmtXbUFOc24yTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RADIO PAKISTAN",
+   "region": "PK",
+   "date": "2026-11-13T16:05:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "14fe4ea9b3",
    "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zQW96X29FMFZfUTIxV25TYUNRZlBGLW9xbnhQTnJZYjctZm9iRnFZMWREdndqeFBzLTZTTXFZamlNSTdBTDNRVw?oc=5",
@@ -246,6 +284,23 @@
    "topic": "Society"
   },
   {
+   "id": "ce25660a59",
+   "title": "Thousands of UK Gamers Face Downloading GTA 6's Pre-load For Over a Week Due to Poor Internet Speeds",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFVqUHZ0MXRfWEw1Q1dBMUs0T1dlM2gtRzBJbHNJdzBLVkZJQnpGaUg5MS0ydTl1LUVYUTU4QW9SVjJVcngxajNYWmtLbU04WGZyNlk0U1RwVWhlQmF4QUJZOEVWVENCZmhySFlNRVNlYWV1Y2RaVVF1aEhHeGkxYWYzRDluc2ZhZ2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IGN",
+   "region": "PK",
+   "date": "2026-11-13T15:12:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "7697e10de9",
    "title": "'I'm not gonna be cowered': US Treasury chief on moving to military base over Iran threats",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVnZ2dGM4RWxBVF80X2M1dHh2d3o4cUdqbktsanpCcG1aVnpHYUNneFBOTWpYTURXSWEyd1piSFRCaGZtRnlGeWpLZUtPRDhOeUw0bXhmaHZBXzBwakFlQ1VUZnJxYm9KdUdGMGd5ZXFVRkQ5RDVHY2V2Q0p5dlRaY1JHN2RKTWI0eW9qSnBWU2ZiSmh5a0haek1GWkQxV3Z4ZkdUbnpHZlBGNmw1Yk5kWWU1dDFudWNNOUVJY0RDNmJsWFY2VUMwWnl2RGFsNXhwNWdlaDNrZTJRWHRFZGdfaW53dklXRHRMcGliSjdn?oc=5",
@@ -262,23 +317,6 @@
     "also": [
      "Iran"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "661a4fe1f2",
-   "title": "Deepti Sharma bags second ICC Player of the Month award after Zimbabwe series heroics",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVFGSnpIcC13MWdsVDRLajY0bHBDTFRFcjFrQ0JHMWszYjJoN3ZScC1Yc0tRV3pHSXI4MFE4UDZMSGpFa0RKTVhiMGtNbGdzc2lERFhZcEtxbDVXM2d3VHI1MXVIWmxfcEJvWnllQzNXODh1VUUtWThuUlYwMjQydEFCTzdiS3k0aWlWQWpGbTRwYmJUVm9GMWRfNzBWNDZYY3FCS0hVc3FjRFpRMXBkQzdDdEcteThoMWlnd2pYSm02a012MndF0gHMAUFVX3lxTE1Qd0s1eVlLV1NuNFBkaWF5SXM2T0dyemRjQWE0STg4YjBTQ21BaUZTSVJoTHFvaUI1QTlVQWJia1dXbXFwcW12b0xrdVk0LTBWaVFMMFFrOGFGTVM2TXRmYk02dzVmR3BxVE5DZkR2N09HMF81NEJUeHZqaEJtWjNfR3VHU3lBdllpWnJVWVFxVmtKN0JhNTl3YW9NSm8yTUxZTDR2cURPZm5qQUZRbmZvaTc4SmZNR1hhTzdkajZRTzJWb2VQRnB5WThDeg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "India Today",
-   "region": "PK",
-   "date": "2026-11-13T13:37:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -300,14 +338,14 @@
    "topic": "Society"
   },
   {
-   "id": "dc260ed5b2",
-   "title": "What Italy need to win Nations League group after 3-1 France victory",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnN2dzB3NEM5eGZ1MXBFSmdKeHhGcFdpakZNVnBnQm1GTTJZX3NTTzJxbTJpOF96Vk8yQWE2enpsQjJLVXNQMXpCOVV4YXhCbS05dDgzN3lGaTl0ZFhiMzN0dmNtcWZWVmt2WTd3VnRKWGtLejBRRkRKd2VfcWhFYWhhd2EwUQ?oc=5",
+   "id": "e8249607dd",
+   "title": "Italy rise in FIFA World Rankings after 3-1 victory over France",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVyYUxFbG1KcU85N1FrdHk0d3hZWXRWenB2RGU5RWtJV1FSSS1fRnBaZHliekg5VG5fSENjRDhfeVZ4YUE0UTBobUZNWmFmM2RzYmZjRi1pOUd0THdZdERtMV95TThjN1E5OE5lQ3JJdkNSTjR0YUhIeDU2VkhnSjItemtYdw?oc=5",
    "summary": "",
    "image": "",
    "source": "Yahoo Sports",
    "region": "PK",
-   "date": "2026-11-13T10:19:00+00:00",
+   "date": "2026-11-13T11:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -317,7 +355,7 @@
      "France"
     ]
    },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "e17900cacc",
@@ -408,57 +446,6 @@
    "topic": "Society"
   },
   {
-   "id": "84b79ddd8d",
-   "title": "DPM, Uzbek FM vow to strengthen bilateral ties",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1RncThfOUdBTlVSX1VUTTV3eHRuRWpzaEo3VHJ0M1RWbTVIdktOajZNa3MwaS1YMmRvb25PNlVURDJELWowU2dFTkxFQ3ZIYUtEenlGZFhrQnVNSGZkdE0xNjBqZk92VFpUWndrTzJJaFZINlFzOHBjWDRKTEx0Tzltc3ZSN1l4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RADIO PAKISTAN",
-   "region": "PK",
-   "date": "2026-11-13T07:46:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7aa6707a01",
-   "title": "Lisa’s ‘Viva La Lisa’ Las Vegas Residency Setlist: Every Song From Night 1",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDN3dmxKUVNraW5RME9iemhsTGkzcVl2YWZUYXJqM3Nld3B1UjFFWldOclFpRXpyanBHalVEUGl1aGtaU0FJREJpMUt2d3Z1d2U3Y0tJdDlLYWJYWkFIZmJDbW9Vekpucmd1bkZRLWp1Ny10NnlLd3lFa2UtSlItSENBSnBSWGVHM1YycExmSzM3Z1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Billboard",
-   "region": "PK",
-   "date": "2026-11-13T07:43:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "3e54392097",
-   "title": "Pakistan’s mineral exploration increasingly focused on strategic resources, minister tells investors",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmlpM2ZkOTVIZWZ1N1ZUX2ZJckJpSnh2czh4cC1LZ3oyeVR6WHNxSW1qaEVRNUZiMmZ5eDNlYUNIMUpwR0RUcTlfYWtGdFh3ZXNTN2RyTDN5cTZwTklodmZINl9TNlJ6T0txYjZKOWtJcjFKTWtjZ3NmcElMcVh3UzNueUdiOHJFTFEzNnNQejRRVjBhQk1TUjNGcXZ5eUhxZEVNYkZ5NjBNdlljdGozU0FhZWZyUW5qNjhFT3hCRnVmcldvbG1CSEl1ZFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-13T07:03:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "4d32cba2d4",
    "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
@@ -476,6 +463,23 @@
    "topic": "Society"
   },
   {
+   "id": "74cbdc67ea",
+   "title": "Oil prices set for second straight weekly drop on signs of growing supply surplus",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-13T03:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a3dfdc543e",
    "title": "Constrained partnership",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83S0lROU1qU2cwVGxmdXNKd1A2X0ZFT29OUWNhM1MwZjc0ZnVFbTFmbC1ja21WZTd5bnpKZTRMWUs5N2tjX3BTOA?oc=5",
@@ -489,44 +493,6 @@
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "496443d329",
-   "title": "Health minister urges stronger diabetes prevention policies",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeS1pT1l2M3ozRVdGLTVxRGN6X25NUjhvRWVoanFsWktXZFRUQ1BXWUQyX2pBNklnQ2JuSzd4eGl0RW9XQmYyckYxV1hleC1VNzJmVTJodnRzUXdueXVFWlRjaFlkX21JMjRUa1NQRzlUR2pSN2NJcWRPbXEwNmVOSnNHSVJSbUM1VDlldmtKd1Ftazk5ZHlCSg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-13T02:02:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "d55cd94840",
-   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yM3NJUTZ5WV9rdTBqcjJOdGhwakZkUnVFWHhpcExGMnFmYWluVWU2Y3l0ekIwYU9iamVZYTM2cU50aUo5dzM1VXloSGJPUFRtNUpBeXE0UmNkQ28?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-13T02:01:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇺🇸 🇷🇺",
-    "also": [
-     "United States",
-     "Russia"
-    ]
    },
    "topic": "Society"
   },
@@ -565,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "258bff2e39",
-   "title": "Johnny Depp Opens Up About Moving 40 Times When He Was Younger and How He Found ‘Total Peace’ at His Bahamas Home",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXpaZ0JYMFBCbGlXN3F3X2cxOG03NzRHSDA3djVzbnpFUF8ycDdpeWFzZVNDbUhWSUkzUUFkbFhsVU9QZmtpMHdxYndvZFRYVUlFN2thZTBwU1lqWjJhY2REWkw2cVlSSjFIWk1jMjZDakVOUnJ5bWdWTXdoaFpiVmU3SXhERFhCVnhyczQxNGJSVVIySE91WkhsWFIyRXZ2SzN6ZzJRYzc0ZXlR?oc=5",
+   "id": "0c65e3d467",
+   "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTEybk43ODZTYmdLWGp2cGN1dlp0M19tbTBqZXNucVI4WkdxdHVDalRneDNpRWVuZ0hYLUdrU1M0M2FuZi05N09iTEVGX2lZcFhPVGluTDRnQzN0eWh6bVI2Y2dfbWh4WDNCSS1MZGVRdS1Ram9KMnFwTmwyUnVJV3BR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "Phys.org",
    "region": "PK",
-   "date": "2026-11-12T22:16:17+00:00",
+   "date": "2026-11-12T22:00:06+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -582,14 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "0c65e3d467",
-   "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTEybk43ODZTYmdLWGp2cGN1dlp0M19tbTBqZXNucVI4WkdxdHVDalRneDNpRWVuZ0hYLUdrU1M0M2FuZi05N09iTEVGX2lZcFhPVGluTDRnQzN0eWh6bVI2Y2dfbWh4WDNCSS1MZGVRdS1Ram9KMnFwTmwyUnVJV3BR?oc=5",
+   "id": "6f3390f129",
+   "title": "Wrist device for Tourette’s changes teenager’s life",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmlRbDNjR1dGTUxjbW85c3VPSVFKUVFqeFd5T1hmVTJqZVNkVC1nOW9NM1I5RFFJbFZKRFNFWG1ORUZSMVJpSVNaMEhqWVNONHRsbHdNbUY2cjFjUktOaktVZnk2QkVUbFN6RUR0UUVkRGlNWlFXT2loYWpvemlaQXhTWGRBUVhkLUZR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Phys.org",
+   "source": "The Times",
    "region": "PK",
-   "date": "2026-11-12T22:00:06+00:00",
+   "date": "2026-11-12T22:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -631,6 +597,27 @@
     "flag": "🇵🇰"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "2e33cee564",
+   "title": "Lahore VXR festival brings together 70 artists from Pakistan, France, Spain, US and Canada",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaF91Ri1RVnMyUTJocHRfOEdhRklScGtBM2QxWWlWTXJNNUUzV0NpRXgxZ1hZNEc2clRsOXpXOHEtQVVLeFE5MG9MN1lsejR3RHdxSGpCSjBLV1V2dG5rWlhvVmNzR0M0LW1BNG9YNVRzTzc5R3VheW8zcktEOFlfNnBqeXZkM2M1RnFJamdBYXBYckMwZ1pqTVB3MlVETjZzYjFCWllScllQLV83N0x0UmFvYXdZd1FVc3pUSTgyWTdhQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-12T08:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰 🇫🇷 🇪🇸",
+    "also": [
+     "France",
+     "Spain"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "7edc541b98",

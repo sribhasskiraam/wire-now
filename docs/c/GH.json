@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
+  {
+   "id": "76d12d181b",
+   "title": "Self-sensing artificial muscles made with graphene fibers play piano and move robotic eyes",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRElXd1ZFcFktUFhwZEZuSy1VMW5rLWNZYzFrMXNSbEwwV3JsQTF3SEhvOXI4ekxpYUtaSTRoMVA2eVRJRmNYWHNCS0YwZ19uNWpkWGZJRVhPME9MbjRtX1lLa1NDOF83OEVBZk9vMWJGV2k5cVhBZ0R1RTMyT0lTSnZYU20wNEltQkRHWURYSFZ2ek5BYm9PcDFCODVBV1dzSV9sWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphene-Info",
+   "region": "GH",
+   "date": "2026-11-14T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
   {
    "id": "cbf8acd0db",
    "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
@@ -89,23 +106,6 @@
    "topic": "Society"
   },
   {
-   "id": "1fb9711f68",
-   "title": "Razer’s Wild $1,000 Gaming Chair Has 6 Motors, Built-in Speakers, RGB Lighting",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmRELWtHMWR6VGJYLUYzamlmQk9uUXlTRDJvWk1yRmtBTDU3clhIekpPa0pLODdob3NDNWltNXRVdVZsQmd1Mjg2Q2lnaUsxdldyc0FxbFNjM1lqeGhSNmhIbklfSHN3czBPM0xmN3h0eF9aZGFLZldQV2w1VG95NnpHYlBEYXpRR05NWUZpM0V6a2llR2xKMHRlckRlYkFfNUVIQXJpajg3djlOOFRNb2lR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNET",
-   "region": "GH",
-   "date": "2026-11-13T23:59:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3c8154c2f2",
    "title": "Who Really Loves Africa? Superpowers Have Interests, Not Affection",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmZabWQ5NHQwM1lSRHliVXRuRXZsWDZyMmcyNng3NDlvTTBySHJUQVgxNUNWS2xGY2lfS21VWjBfaUpvMDl6SEZ5bHFHeVQ4em9Jd1hxZWtzdjhfRHRyRnpMam1JUWNHMWIxV3BrMUdVY0VHa3JkSXpSS3F2WVo3VW9tSDNLcW01TmN1dU9pdVFKZjB1UURGSHdBZw?oc=5",
@@ -174,21 +174,21 @@
    "topic": "Politics"
   },
   {
-   "id": "6edcf48076",
-   "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlNuaU5QNUNJVFRFV2MzbWVCUm8xUG9PMkVKT29mMzM0cTkwU3d5WVZOT1MtY2ZBWWM2eGtoOFhXSk1IQmIzV0ViYU9RX194OGhGblpNVks1enhPWVozUkQ1aDR0SkRhRXdaQVgxMzJzY0JtZHNERjh1dFhxWlFGdERSaw?oc=5",
+   "id": "7e97c5fb50",
+   "title": "GRA intercepts smuggled goods concealed under okro powder",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1JDdDVNVXNncWJwN0hiU2dMdU5QLUsxeHlrWmxzTWFUcno1Y1Y4YWpJclVXUU5VYVpibTQ1US1XTEFMbzVOSkRhUVdnc2ZuTGpna0VIWW9tS21hMGFKRmh2bWpmY0ZlT2hZejRHTFdtOXZTUnhOcVJ6YjZsazUzcE5EaTZyMEhTYUZxV0o5NVJodThvTHpaWmQxcG5QQU1LbF9Jamp2cF90aVk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Space",
+   "source": "Graphic Online",
    "region": "GH",
-   "date": "2026-11-13T21:25:55+00:00",
+   "date": "2026-11-13T22:35:37+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "9f84d13afc",
@@ -206,6 +206,23 @@
     "flag": "🇬🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e6a6e9383b",
+   "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuTG5Mc1g4SHFlbnhyWkk4MlE3VjhzRG91bDVoUDRBZXRUM2M3azN1cXhzSkRxRDR6bjBGdi1PTlhUTGRtek1pOXRoRDdmV0tsMlhud1FobXY5TkxHSHg0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "GH",
+   "date": "2026-11-13T19:26:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Tech"
   },
   {
    "id": "dded3a825f",
@@ -228,21 +245,21 @@
    "topic": "Society"
   },
   {
-   "id": "6cb6932b08",
-   "title": "Government to train over 2,000 scientists for Ghana's nuclear power programme – Ato Forson",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUY5OG90RHZJWG5wT1lfNDNpdTN2ajJXZWVxdDZwSGwtNW1JU2VQQ0thRTRINWdtMGdNSlI2VjV2bGk5N0FjcDNhNEMyQmEzTTZZQlNDLUlyUmt4alI2UktKdWpjdTJCYmZQQmhudEs5Tzg5a194SFdvWHFMOFhKUmx3X0NGU05TU0t1MVBQOUlySUo0dmlBMVhDONIBmgFBVV95cUxQOUlWOF9xcTduTEpDZDNqZW5nQWdOVUtzTEJ0aWdfUXJWdk4wT3d2Y2hZbjNtN2V3LUp6QmxQQm9pMzRLNC1HZF9YT1k0VUYtcGdFT2xmRWhKN0hiemtPMVhMblJDTEQ5cGFHMWYzOGR0MjlNLUFSWWhkZUtfenpXYVdYSV9lVDBUeEFqSEhfWHZMUEtGczNHVVVn?oc=5",
+   "id": "e049572527",
+   "title": "Ghana, Côte d’Ivoire urged to deepen cooperation on border security",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlBDbldXdEtjbnUyWkpnejJ1c0MxR0JCWFA4X2NxVUc1aXBVOFc5U0ZDM0VpZ3M3cHNzSGJ6eFU0SDB2STR4MFNIN3laLVBBWWJMQk1NU1NIQVBZU1FnX24tcEFVWUI4MElobGdiMFA2bE13ZWhvWXc1MkNxXzZBT3RKRE9XX0Zxa1Vzck5YNU9QZVZ5ZUHSAZQBQVVfeXFMTjZzbzdndHVZU0s2aWRVRHBnUm1nUlkwZnR2TnBVVlJDcjBHMGJkMzQ4SGJNbVFJdkdpYmY1ZmN4cDFmTlY5MDQ5cjllWGw5N3lXMl84LXJRRWJwTVRDRGpEbXB0WHM1cDFvVVg4N1NtLTBmOG4tZmJFYXFRVHY2amZvSTNJYmd2WWpUYWdpZEQxR1BLbA?oc=5",
    "summary": "",
    "image": "",
    "source": "Modern Ghana",
    "region": "GH",
-   "date": "2026-11-13T13:49:00+00:00",
+   "date": "2026-11-13T14:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "bf6e2ba7ec",
@@ -347,23 +364,6 @@
    "topic": "Society"
   },
   {
-   "id": "7c783e547f",
-   "title": "Muntaka reiterates need to strengthen border security cooperation between Ghana and Côte d’Ivoire",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFFLeDB4SmxON1A4YjFxV3VodEg2aHBmOGNZcjJxTUw0UnQxU1JIVUd5R0o0RG9GczhlSHR1SGFqZ21ma2d1VUh2NUxVZHZRQ0pHRDlnUEdjdFp5SkV6dXVVNW5CRnlFQ01Uay1JN0c4YjZlX3FtN2RudS1TNkNSZkFPUXFaRm5WZ1RyS2NXZXN4XzIwc1VzckZfSmzSAZsBQVVfeXFMTmtDUnNPYkRIZk1XZ05IRmFJS0dpa0NhVGcxaktkZWtKbXpGbm9QdVhabHk1TldGQ19kaThqYXVZbEhzMEtKNXhOVE5hZ2xXLUlIU1RZMzhVY1NNUU9MMUJpRDVFQWlWbklYRTVhS3FoejVTODY0bXNuSnRHazUzQ0lMMG04dlBxVmUzUmlKR3E1VGNPVTBXYnZmbFk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Modern Ghana",
-   "region": "GH",
-   "date": "2026-11-13T01:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a501b0254c",
    "title": "WATCH: Diomande’s Assist Vs Gambia",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDZQOEt1YkItQzIwNE1GN1l0M0JyRDBrcDk3M2dtZmJPelZRdGZNZnNjS3NyRFVSdmVlUmJiNmVoaUhlSVg3SThicVJpa3VSRWIzaWxZeEtZbnpZWEdyTlhnOU9kR01qUmZUZkFuMHRMX1dlc05RRVB2bjY2aThHLVB1UXcyT0E?oc=5",
@@ -379,23 +379,6 @@
     "flag": "🇬🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "b8ee0ae9ba",
-   "title": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpiVnhweGgtUnh2TlMwYzFJalVYZ3NBdklEbjZpdkxaeXZMUzVmUXpPbXpJYXFsYjBfd1puVjFUVmFmUTdOSExEQUMtRS1YLThiMXduclEtM3g4MlY0S1AwVy1xQ1d3V193NzlfTGxwNXJRMkNHcTJiMnVTUTFNNHR0bHhCNFlGbk5PU1NmOHl6aG01emdCNzBVM2lSNG9MMW1sUA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "GH",
-   "date": "2026-11-12T21:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Economy"
   },
   {
    "id": "556de1d9e7",

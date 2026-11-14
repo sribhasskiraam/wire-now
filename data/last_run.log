@@ -1,20 +1,20 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 13/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 18/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 92 stories
+OK   Ada Derana: 94 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
-OK   Daily Mirror: 53 stories
-OK   Hiru News: 100 stories
-OK   Newsfirst: 13 stories
-OK   Daily News: 59 stories
+OK   EconomyNext: 14 stories
+OK   Daily Mirror: 50 stories
+OK   Hiru News: 98 stories
+OK   Newsfirst: 15 stories
+OK   Daily News: 57 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 1 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
-OK   Google Warnings LK: 10 stories
+OK   Google Warnings LK: 11 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 25 stories
 OK   The Guardian: 45 stories
@@ -23,111 +23,17 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 93 stories
 
-Biggest stories right now: All passengers and crew on New Orleans cruise (8 outlets) | Microsoft services begin recovering after glo (8 outlets) | US flights resume after FAA lifts hours-long  (6 outlets) | 23 killed, 20 injured in bus-truck collision  (5 outlets) | Zelensky welcomes US bringing Europe into Rus (5 outlets)
+Biggest stories right now: River cruise ship, tanker crash in New Orlean (8 outlets) | Microsoft services begin recovering after glo (8 outlets) | US flights resume after FAA lifts hours-long  (6 outlets) | SEC ‘warmly welcomes’ inclusion of two of its (5 outlets) | Europe and Ukraine get a boost in peace talks (5 outlets)
 
-6 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: Two suspects arrested in Nawagamuwa with over 1kg of ice, heroin
+* Newswire [1 outlets]: Another suspect arrested over murder of restaurant owner and wife in K
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
+    attempt 1 rejected: The card states the arrest occurred on 'November 13' (in details[1] and key_facts[5]), but the article only says 'Friday evening (13)' without specifying the month.; The spoken section says 'made anot
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Ada Derana [1 outlets]: Father and 9-year-old son killed in motorcycle-van collision in Chavak
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Politico [2 outlets]: MAGA firebrand Lauren Boebert falls to Democrat Eileen Laubacher in Co
-    important (also on AP News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* CNN [1 outlets]: Live updates: SpaceX lifts off, aiming to make history in Starship’s 1
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [1 outlets]: Eurovision is finally coming to Asia - meet the stars gearing up to ta
-    normal news - one-paragraph summary
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Reuters [2 outlets]: US urges owners of 720,000 BMW vehicles to park outside over fire risk
-    important (also on Hiru News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    search failed: not well-formed (invalid token): line 1, column 41
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 14 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-  headline translation failed (no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code")
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-  summary translation failed (no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code")
-  Fact Base: 9 facts and 0 people saved
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -136,10 +42,71 @@ What people are saying: looked up 0, 0 stories with Reddit discussions
   "error": {
     "code": 404,
     "message": "This model models/)
-  meaning check failed (no AI available for checkers (last error: AI error 404: {
+    attempt 2 failed: no AI available for checkers (last error: AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+    -> no cards; posting with the site's own summary
+* Hiru News [1 outlets]: Hiru CIA tip-off leads to arrest of four Indonesians in Rs. 4 Million 
+    important (serious news) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [2 outlets]: Over 30 injured after tanker collides with docked riverboat in New Orl
+    important (also on Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+    attempt 1 failed: no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+    -> no cards; posting with the site's own summary
+* Newswire [2 outlets]: Sri Lanka included in $238,000 Four Seasons private jet world tour for
+    no AI summary: saving the rest of today for important news
+* Hiru News [1 outlets]: Prices of all exercise books to drop by 18% from next month
+    no AI summary: saving the rest of today for important news
+* Daily News [2 outlets]: Evening showers expected in several parts of the island today
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: After a summer win, India's Gen Z protesters face a winter of uncertai
+    no AI summary: saving the rest of today for important news
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 rejected: the name/word 'Islands-flagged' is not in the article; the name/word 'Mississippi'' is not in the article; the name/word 'T-boning' is not in the article
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 2 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 14 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+    gemini failed (The read operation timed out)
+  headline translation failed (no AI available for writers (last error: The read operation timed out))
+    gemini failed (The read operation timed out)
+  summary translation failed (no AI available for writers (last error: The read operation timed out))
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
   "error": {
     "code)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 10 story pages for Google)
 
-Countries: IN 36, PK 37, BD 36, US 36, GB 37, IE 35, CA 37, AU 38, NZ 32, SG 31, MY 32, PH 36, AE 36, IL 35, NG 34, KE 33, ZA 36, GH 24, FR 33, DE 34, JP 14, IT 32, ES 34, BR 34
+Countries: IN 37, PK 36, BD 36, US 36, GB 37, IE 35, CA 37, AU 37, NZ 32, SG 31, MY 31, PH 37, AE 36, IL 35, NG 34, KE 34, ZA 37, GH 24, FR 33, DE 34, JP 12, IT 32, ES 34, BR 34

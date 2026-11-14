@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
@@ -29,6 +29,23 @@
    "source": "WELT",
    "region": "DE",
    "date": "2026-11-14T02:52:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1863252826",
+   "title": "Präsident Miguel Díaz-Canel: Kubas Führung bereitet sich auf Angriff der USA vor",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmNFLWpuLUQyb205NmQ0b25oaXdJVzI1NDA2bmk4UEhhdU94TUdSZHRJcGpRaWlKVWpKZVQ2ZHhBYUxuNmRZbEVETnZ6dkxvYVFsMUp1Q1AxWmtDRDJPX0t0WEdidVFOTGNYZGl5bGk0TTBiMkVoM1I4NFEzMmk5OHQ3cjdpMHJRZ2Z4c2U1WXREczh1OG1uSVVId20zUFZvSkZ2bWFqWmFTZ1RoeVdOM2twcEFlNXJPSklBR0VKR1A4b0xFcGo3OTlkS0Zkc2xzRk1tajNObUJ1eDNXdk5LWFB4SFRwZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-14T02:38:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -259,6 +276,23 @@
    "topic": "Society"
   },
   {
+   "id": "06f1bd2fb7",
+   "title": "Siegesserie beendet: Deutsche U21 verliert gegen Belgien",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnJyeUVGeGJxaEdzSjZBdV9zQk1uM29JS0I4TmdIcHhIWW5iT0NhWnp2cGtJYnFhY0tWQ1VHbGdKckg3M1JDSVdERFN2dkNZYjhaMjZJRTV6MGVUVUtOb0FWdlhKM3dOelFsTlotNFRMNW1CeHRLclZVS1pHeXgtYXBQZEF0SHBwbmE4enQ5SkZNYXJJQzZtZ2NKeWF1eklWRmZKU2FEeUlzV1hFUUxqM05XQmxndzVxSzc5R3VZdUI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WEB.DE",
+   "region": "DE",
+   "date": "2026-11-13T19:00:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9637354acb",
    "title": "Gina-Lisa Lohfink: Eine missglückte Beauty-OP macht ihr immer noch zu schaffen",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVBGcFZSTEJ4YldIWHFTb2RtNHg4aXJmZ0ZJSE1LUlVzdlFwYWpJRmVZQXlCQjBiSjFFVGl4cTE0UlZwNXNlempHYWhBWGRPZ0FjcldEZ09MenFzS1A3MU0ta2RkV2RQUlVWU0ljWnRBd2xUcE5aWTBwR2FyaFZ5SDZUS29XUFhiZjBLRm5OMzY3UXlKZkJaeHBXLWZ0MFAxNmNJSFRkOGNOY1VJRDNYSTFqTnBGdVhyRTYzUzlrZVRRWFlHSW9wNTd0Y29KTjJE?oc=5",
@@ -276,23 +310,6 @@
    "topic": "Society"
   },
   {
-   "id": "bcd76394d5",
-   "title": "Video-Clip aus Doku-Film: Thunberg lacht deutsche Fridays for Future aus",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNa2otMm9fMUxGZVVwSWNSN0hBRTROb3NLLUQxUHdYTDdCVldtX1AxYkF5UzF0dnlYdnVWSVZ5bXdJVml3M2J2aXM0a2xxRElpYXp6RlVybklING9TNFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "taz.de",
-   "region": "DE",
-   "date": "2026-11-13T18:22:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a45d38e6e5",
    "title": "Bereit fürs Upgrade? Samsung S26 in der Vodafone Black Week",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmE2a3JGMW8wMXUzeDJiaVd3eVhWT0daaWVKd3hxajhRa2syTExYZXVlNlFtNUxrY2Nva0hSRV9DYjV0NzZPT0c4bkh2bEtDNmM0cEk0ZzJfTkhpOUZwZFNnQW1fSkI0djJLY0g4MFZPZzFid0ZkZFhfSlVZRWxrTTk3aExtcGNES09hcnE2Q0g2d1VzbWVBVDdR?oc=5",
@@ -301,23 +318,6 @@
    "source": "SMARTWEB.de",
    "region": "DE",
    "date": "2026-11-13T18:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7c2f2ef779",
-   "title": "Migrationsstreit bei der AfD Die Hardliner um Weidel zeigen Chrupalla offenbar seine Grenzen auf",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMFI0eGJQYjczTTktODlnV1RkRHItYjJRZGtULXNJeTlwOXQ0OTJhRkE5MjBNa3JXZ2VYWUtzQ2NmWjdJV1NwYW5oQTNtUUtvSUFGb0dUQ3YwYlNlUW5PR3ItQ3lKUHZZeGZtUWVraHNYQnQ3TVdXWXRiN2VXQm5kcTRBQ0lyR092NG1wSnJKS0ZFY2NLZWNpS3kxVkFCeTJ1Ni10UjB2S01qYjBUMm9oQ01VQTdfMkNiWmpXaC1CZ3JqSWxpYkpyWUFYUF82dV9PeE9hRVBfQUlCTVVkOEVV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tagesspiegel",
-   "region": "DE",
-   "date": "2026-11-13T17:09:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -365,9 +365,9 @@
    "topic": "Society"
   },
   {
-   "id": "b5d8dcb79a",
+   "id": "e76dc98318",
    "title": "SpaceX: Musk plant nächsten wichtigen Starship-Testflug - Aktie tiefer",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajRBQ1hQMFhyNHA0R05vbHNUbVpGR2hDakczeTNtUFZpdDM1Ny14SHhLd1JpZ0EtM2VEQWs5cXR0NV9sSGszekUxMGdpel9NRHZYZkRwOWxqOTlWYU9hRnJleFJWYmlhWEVTeGZtRV90SEhaYVZ5bXVpM3RUN2tGa1FCekFJYTRTLUYtZWowUEN1VG5wR1pz?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc25xdVN2NUwyUEhHRjRFaUxpaWpLZzVXaTNBbUNyUDZhZTFGdndiN2dSTFlIdG9SNFRqZHB3Q3cycElRRmtXX3ZtQV84SlZjVVZpTWVZNlhnclB3UDN5Zl95Y0R2d1FXLXJ3RlhySkV0YzBsNjd5dUdhMG8yUm9mWUFEWjU2ODRESFdLaDY0VFB3TUM4U21WdlNIU1BFbXFYblRYeFctQmp5SnJROEcwckJYUlJQZXZTM01wdnBpSFllQVZkaGhtYXYtVjJWZUNqUnNadg?oc=5",
    "summary": "",
    "image": "",
    "source": "Finanzen.net",
@@ -518,57 +518,6 @@
    "topic": "Society"
   },
   {
-   "id": "3207a9aded",
-   "title": "Nach Angriff auf Klinik: \"Ärzte ohne Grenzen\" kritisiert Israel scharf",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmhGLWM4NDQtaHNVV0QzQVRydkh0QmE5SDhkT3RObG9vd0c4dWcycmZRTDlzRm5WQXc5MnlyVi1RMkk3SDR2MURxeEt6X2hzYWYwcDEwZDh5UnNoNkZ4MWtEU1BQTHBMSkZZUm1sWm80ck00bUNGdmxJTGJSV2RSVVRvWWk3OEloUEpDRjhMU29ROFRZUnJsaTFENXMzbkl1cW1mSVNqV3d2aE55MXRB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WEB.DE",
-   "region": "DE",
-   "date": "2026-11-13T09:59:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "fb299da76f",
-   "title": "Nach lautem Lachen an Denkmal: Soldat brüllt Gruppe um US-Minister Hegseth an",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUVCVGdEbkZ6bkFxTnl5TzJMOVJLYWJYV2ZiNTU5OHdWSzFtcm5aSGltb2tUY1UybzhyQUVUb1RXZlp2SmlyNjh1dmp6NWplQXVwOEkxQW14blBkSjRBbU1EUVU1T0xpQlVoM05xY3BuT3pzN0NaaXc4RFVCdnhLMDk2NE94cFBIdE13UUpqUmtNRTBYdlh5ZnZkVEZ6WjVKeDlYLTNiN2Q2eVllTUlkd3pERDgza2tlSVBINQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "STERN.de",
-   "region": "DE",
-   "date": "2026-11-13T07:22:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "692f4ca8c5",
-   "title": "DFB-Nachwuchs: Deutschland U21 vs. Belgien heute live im Free-TV sehen",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWjU4N1FjTjM3bVp0YWU5UWxDMHBESzljLXdlVkwtc1U3RVFnVTY1YnRPTlFseWVIcVpoMm43YXhnNkZNZDJqblNzR2RGa2NvcDgtZTc2YWY2M0JEaVRIS1dmN256QmVYWTJaaDdhb0ZOUEZrLTlucm5KaWdTMTYzQkVDUk1pQlJTOHFVdnZfN0x3QjIzdkdSV2MxbnBXeWw0emNzQl9mTThSYWg2SzhHZDdqbDhtanI1c2RXMUxOLV9LdXFLU3BXaHJGUjZBUjVzdDZaX0k0T3djVTZSVWtPUXlkZ3ZRYlZTaGo2aEVORzRaY1pPQmFEV29jbFkxanc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SPOX.com",
-   "region": "DE",
-   "date": "2026-11-13T06:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0190145c74",
    "title": "In den USA sollen sehr viele Arbeiter auf Rinderfarmen mit H5N1 infiziert sein",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnNZbzBhUWhsU0s5X2FsM21IRVZJODI4aDZfNWxqRTNIM2locHlPU2hlVy1QZzFGQ1haYjJJVkZsclVxdDhzdmdsTHhkNnFNMVNNdVVBUW1wbEtaMzh2bDhmRnJFeVhHTFFkSHhZeUNMeWJRcmM3b2J3cElXYjJmWkE1bGJidWFmU0wzakNVR0c5S2EtQmh5dmE5alVPREZHVkgtRC1wXzF0YWlLYktqZXhGTC1RRGNSTHZPaXJvOFF5Mk03SnZaMERjYw?oc=5",
@@ -586,6 +535,23 @@
    "topic": "Society"
   },
   {
+   "id": "7f340e27f7",
+   "title": "Nasser-Krankenhaus im Gazastreifen: Elf Tote bei israelischen Angriffen im Gazastreifen",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTQxQ0hyU0dpS3NsdTdnUDB3ZVhvUXRsbF84Xy15QnZmcmhjOXVRT0RCV0Y3TzdJUmRFeFNRanVhRTgzTXA3aF9XVjEyNGVjaTBYa2FHZGc3cjVUa004VW9DRXJtTjBpU3BGdlBQZnc4S1Z4MjBueHBpeTVJVGdhTmF6MEtSRENmd1BCbEpMQTBKVVh5OTdRXzhvamduemVLWG9OQW1qckhvT1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-12T19:00:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "35a7edd65e",
    "title": "(S+) Wie die Demokraten Pete Hegseths Impeachment verkorksten",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXRpR05YeVBRUXlYNHhkQjM0cTNuVFRsTFh3UENqU2tINnVCdnVadS1GRVliQjRmZ0NjNEdOcDBBQWJTT2VRSmRTSjZZOTJtRG5ZTVgwMDNtUUp1bnZVTklTVWo2NTNUTW1aa2hSSU5ScDEtTG02NEg2Mm1iTmZRa3NCVkRnZW1HMmk3empGUlFrWHBXRkJHX09sZ1pMc2pqb0NsSm4wWXhlMzA4YUpVWDluQjhrQkZ6N1NyMTR4VDFoa1VDVU0yRVBaT0Q0dw?oc=5",
@@ -594,6 +560,23 @@
    "source": "Spiegel",
    "region": "DE",
    "date": "2026-11-12T11:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fb8ca9df24",
+   "title": "Pflegegrad vor der Reform beantragen? Warum eine Expertin dazu rät, noch 2026 zu handeln",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeng0dERxa3lQWVVsQ21mNGpUSHlQTzN0V0MzNl82T1FYZjRhSE5nUE8xYjF3QVV5OEJNbldISHNWb2stUnNiMml3V2VZaHdtbnkwcTgxbHVnSGtRakt6VVp2bU9feGVFdEJjZmdUZ3dwWHpSWV9rYlp5a3RSWE9lS0N1X3RZWHpKVFhhWmNMRUI0RUF5?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ZDFheute",
+   "region": "DE",
+   "date": "2026-11-12T08:15:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",

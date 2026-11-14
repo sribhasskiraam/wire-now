@@ -1,25 +1,39 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
   {
-   "id": "df534cc22a",
-   "title": "Biden slams Benjamin Netanyahu over Gaza war in new memoir",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SSkg2OGtFVWt1ckxvNnJwcXR4N0QzQ0RXNUh2bmtGcmZnZG5EMmZOZUVGZXpnRGtpLUFILTZIM0otX3NTdWZQNUc0SzlCcnpLNUxtNnhPdlJSMUpnLTFv?oc=5",
+   "id": "3c17fea293",
+   "title": "US flights allowed to take off again as nationwide ground stop lifted but delays expected",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Jerusalem Post",
+   "source": "BBC",
    "region": "IL",
-   "date": "2026-11-14T03:00:14+00:00",
+   "date": "2026-11-14T03:13:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "76d12d181b",
+   "title": "Self-sensing artificial muscles made with graphene fibers play piano and move robotic eyes",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRElXd1ZFcFktUFhwZEZuSy1VMW5rLWNZYzFrMXNSbEwwV3JsQTF3SEhvOXI4ekxpYUtaSTRoMVA2eVRJRmNYWHNCS0YwZ19uNWpkWGZJRVhPME9MbjRtX1lLa1NDOF83OEVBZk9vMWJGV2k5cVhBZ0R1RTMyT0lTSnZYU20wNEltQkRHWURYSFZ2ek5BYm9PcDFCODVBV1dzSV9sWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphene-Info",
+   "region": "IL",
+   "date": "2026-11-14T03:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
     "place": "",
-    "flag": "🇮🇱 🇵🇸",
-    "also": [
-     "Palestine"
-    ]
+    "flag": "🇮🇱"
    },
    "topic": "Society"
   },
@@ -41,31 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "2c88e0dfaa",
-   "title": "Old air traffic control equipment regularly disrupts US flights",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
+   "id": "aca37c0da7",
+   "title": "Niels Bohr, Nazis, and 'Jewish physics' in new book 'The man who broke reality'",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qdGEtT3JPQVVvNnVUaUFRakU2QWdQQjE4eE9vMEp3Nk9xNlRuV2FTQVlOQmEtaWUwNUtxVlNVRFRJamVINXY0cl9CUE1QeXBva2RseFQ3aw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "The Jerusalem Post",
    "region": "IL",
-   "date": "2026-11-14T02:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b08aa074d6",
-   "title": "Evolutionary DNA changes may explain differences in primate brain development",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEVkUVJvOXcyTGtwMFhtVWZuQlNpclRoMGpxNnFubGdzMlV3S1FwRHpKSXYyMGgzaUtEYUpVRmxtdks2OFNBUWNvcFFWMFpOU3NMOXhnTG84VlpHSy1zdkJJT1hoeEM2VDZYcW8xZHc2NXdZelJwREItTWU4SUlKcUZia2lPU1NDSGNWRzFuYXU3UnJQOTdsR2R3bWs1SGU0bGNESC10ZjQwZlZ1Q0RCUUVfcDQ5Q1EySVdsMF81c01LWWM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News-Medical",
-   "region": "IL",
-   "date": "2026-11-14T02:41:00+00:00",
+   "date": "2026-11-14T02:14:11+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -126,12 +123,12 @@
    "topic": "Society"
   },
   {
-   "id": "faf76491c4",
-   "title": "New schizophrenia drug offers hope, but $2,500 price puts it out of reach",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYk5xc2ZtNjk3YzFObzZOMG5jaTJIUWpfRlNmU24wbTJlbVRINTE3X2xpVy1Kb0xaZlVZSDkyYXFQanNUVlRnV2tvR2l3cllsVTJTNnAyUXRpVk9qeDkxMFVLYW9ia1NzWEE?oc=5",
+   "id": "4458b06d0c",
+   "title": "‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1U0RkFDbFh2b3BpclRWQXg5Mk5CZ181Mklja2ZwQ3cxOGFwSU54bHlqa2xEVkRTbVpTbkNzS0JNLUpVcXZxSTBsNlhYNXotOXB1QlZVb0U2amxJRHMwa01tUVB3dmp5MXRwdXFFZWI2aTE1TkxYcFI1UTZESnk4ZDkwRGllUjZIZDk0N05B?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ynetnews",
+   "source": "Politico",
    "region": "IL",
    "date": "2026-11-14T00:20:00+00:00",
    "coverage": 1,
@@ -177,27 +174,6 @@
    "topic": "Society"
   },
   {
-   "id": "202e7cf190",
-   "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG5hUEtNekVUelhnUVFLRmVVZC10UC1fbmNIWjJ2a3R3UFY4V09EbWRVQ0ZNWkNBTGtTSXJxOWw0dEJrd09SRHp6LTB6REVLeDNpVGx4eWRtd1hlclREVV96VjNnbHYtX19kbXh3M3FDZm1sd3JmM25lY0g2THJNdXZya3RBZXJCVmJmUU56UUdhWDFRRGRBQXpnX1NRYkFYQTZwYjRQVkZSYTlaRkNIVGt1TWpJQdIBuwFBVV95cUxNNHNCUjZHRVhKRFJsZ3o0U0V1bWtlTkp3SHBzWU42N2xfcEd2LVRHWUxNUDhJYXluVklMTkdFQjJ6bndDS09kUHBOVmR2TGJaV3lIc2l6c29lVkFIekNCeGNJc2hhYTVOMDJTb2FqeDg0X2RrdHVMMjBOODhnU0RGVkx5eUxLdFlHVmVhaXlkYWRodDhOVnBoVzBteTNaQ2ZXU0FVZVNiUHBRSVU3RDc1WVdTOEN6VXY2NjV3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of Israel",
-   "region": "IL",
-   "date": "2026-11-13T23:03:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇮🇷 🇶🇦",
-    "also": [
-     "Iran",
-     "Qatar"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3bffbf6ffc",
    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjRfY0E0Q2VJSE9YeVdSWjhJOGlWa0lSTXhiZzFUYmo0OW9qNFVQOWVwNUl4RTBNVGRmR1BDcEh5RDZoR21PeGJQanZWQWJzYlhsTnd1cHRoZGdVRGQ1VnFoYWtQT3VVTEVXMGdPOXgwZ1gtT2pUQTJuRm83Vks4b3hETDhLQVl2d1BOUVRzazR5bllabnVFWWJrTERJaTNRTjJFZ3NlbFdoQQ?oc=5",
@@ -215,14 +191,35 @@
    "topic": "Society"
   },
   {
-   "id": "e76af93292",
-   "title": "Nvidia’s Retail Investors Say They’re Not Rattled by Jensen Huang Scandal",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3hRYVl2ZlBudTlwWk42bDZoWnI0bjJxWVJDVFJ6VU93M0tPSV9mNWE2RTNtTjQ3WW1Ja1RzX0VzX0pzNGJUb2VMX3F5YUppLU1NSVFlZDNQRjhzRG5obU9kTUxGN1RjNEJ3NGhSNU5hNGVXaUhxR0I4S3RudThXVmUyVkw4WVktWU1ldWhWRUFWWXZlUkMtWlQyRUVhRU9RbExQMWlNZU0ydk9JbURabXFzaktLU0dNNEE?oc=5",
+   "id": "c0b95d8e31",
+   "title": "Report: Mossad chief in US for talks on Iran; Netanyahu didn’t update Eisenkot on visit",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaV9VSkxSWUVFcEUzdC1zV19zSjZtUWRWSmdEVlN0QzBCZV81TWpmN2plUkNHbEF5VHpGcnRTOG9DMGxwbGlYaWQ4am8zVnFURzRxdkdaeTQ5d241eldNdDBzbkVYTTlmMHZlYU9RYTBfUlZRZkVudGhkb2lDUllRTW5TcEZoM3J6SU53ZWtiQ21SZjBCVjJCcXVwX1NxNlVYNm1tU1lyWWxRQWcwTVh0MU1IajdLZ9IBuwFBVV95cUxQdC1DSVBuZllWd1FuNFNpTk1TQjcyNXV5cUt3S1BmMlNMRkRDNFBrdDFRYmhDelVqNmIybUw4MkFaQUpRMVBYSGY4bnRDYTVmdXdzQ2xCQWRfdzZCTmJ6LUlwYjhLbVUzRDg5RTRVM3FRZmZEc1diVUFNWTJWVER3ZW1hdy1WOEpUNzR0TGJkdTl0OHpobVllamxidzdKZlBhQnJZeVNfZnhSNlp5T0RRazRkRHFsT2xPUHJR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
+   "source": "The Times of Israel",
    "region": "IL",
-   "date": "2026-11-13T21:52:46+00:00",
+   "date": "2026-11-13T21:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇷 🇮🇱",
+    "also": [
+     "Iran",
+     "Israel"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "32c8b3c352",
+   "title": "AI Stocks Close Lower Friday As Markets Absorb Jensen Huang’s Exit From Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODBOSU5fTm9LbHJwSGxFSkZoUHRlX0VGT2JHa1FyNnNoek5zOFJqTS1QZUJkNy1FWXd5NEtsLVBPT1JoZnJJbndwdVlXOWdOWHQ2eEtGRFZ6T0Zvc3BCbWJzdDI2a1BOLVF5M19xcWRZSnFybjJwREZTNi0xUU91WV8xMFdjT1RmYjJ0aWE2aGNSS1Z4SjRsNEJGbkY0Wlh0UmRRVV9fdHBoMGN2NkVLYkZPZ0xzR1p2VFBSRGtjcUI3UDg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Forbes",
+   "region": "IL",
+   "date": "2026-11-13T21:36:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -230,6 +227,23 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "8a5a227468",
+   "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "IL",
+   "date": "2026-11-13T21:32:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
   },
   {
    "id": "547c9414c6",
@@ -240,23 +254,6 @@
    "source": "MeriTalk",
    "region": "IL",
    "date": "2026-11-13T21:28:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "33a02f5965",
-   "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12TlM5andXTTlTZ2JlWWI3d2MteWkyTV80ODY2eEp4NDZob0ItWGhHNjBxRC1ya1czRFpqT0g1WGlseDk2Z3ByMW1MMUFfSzJaVVc3eUpQdUZzaVlsTkJhbWxMUGIwd3FjN3VPRmVYX3VSZ0RsWm5R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NPR",
-   "region": "IL",
-   "date": "2026-11-13T21:06:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -321,6 +318,23 @@
    "topic": "Society"
   },
   {
+   "id": "26b84342ef",
+   "title": "In new memoir, Biden accuses Netanyahu of putting political survival ahead of Israel",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfMkhQa3M5VE9nOVRZcHNILVYtcncwY05wbzNmWE40c1dQODlZb1VBalRsRnZLbVM1aC1sZUFPakZTM0RLcGVYdTdGNW9NYm5uanNneFdOYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ynetnews",
+   "region": "IL",
+   "date": "2026-11-13T18:45:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9bae61c32d",
    "title": "Van Zandt's education initiative gets music back in school and students interested in class",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdZRGYyczhqR0VmdU93b1ltM3BIUXdUYTF2SUR2ckkzNVR4cV9hZTFGS01WNE1vVWpuRDhqXzF3YTJ1RU9KNGJrLWNyZnJJdFV6VkZwOXhfWFFOQ0pDZmx1bndKQXM2MVctdnZULXY3QS0tV19pU3YwdkJFdlY3Q0I4OTZaZG5CQkVvaHVBRUtDNFdIdjlnTHRmQU5qSUxwV3BkUDJicE1fYVB4M2FrMUJBQUtBcFlMaGpOSDJEUzRfOHZTRXpxZzVxOUI?oc=5",
@@ -375,23 +389,6 @@
    "topic": "Society"
   },
   {
-   "id": "1d86d54956",
-   "title": "The beginning of the end: Israel at the heart of America’s political civil war",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUFFMmZVNndrLTEydXFzTEc2RnlTc0hLdGYtalhtcjhxQ2ZwWEFQWUdLOFhybmlNb2Y4MTZISjEyZW1mdlg2RV9FN1pJanZzNVRDQ2pTcW9zVWw1amRlV0JNek9sNnNnY1F6Z1FfczRfamlLVjgxR1poeENGYWVhQ1RTU2E3OXBiY24tckNvTjFWejVGLTZoQlZnMHBidXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Middle East Online",
-   "region": "IL",
-   "date": "2026-11-13T15:41:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "da40ee5a44",
    "title": "How to Watch Hallmark Channel's 'My Christmas Cowboy' Starring Amy Acker & Luke Macfarlane",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkRKMFAzYW9RWjBCV25zaXNPVmhYb1NQN1NiQXpPUFhfOEZ6eEJqYVgxc2lXdkxfTTlxRE9CbXhSR3lDRkZDWTBobWlfX3VmWjR5YTh4WHIxZ1RCRGFnNlZ5MUVlZFJCajMtSUpaRE9BdVNMLUpfNWxsRUVrQnlwOGxySzdzR0UzcmFVYWN3XzFkU0dFZDR0QVNTYTdrcVJ1SEJObXVnUDFWUXVvMFg0eWdZQ3d3dUNrQi04anlabm4?oc=5",
@@ -422,40 +419,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e21933604d",
-   "title": "The US Dollar Firmed Ahead Of Data And Fed Speakers",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWE4Mk13Q1RHYzFnLWtmVnQtSzVRTldBbDV2NXNBZWxRQnpQQTQ3TGVVdDItVGtpYzNSVzFzdGpmRkE0d1ViZHhJeGNLX3lvZjBOVDdhYzVOTmNwUW81Mmo0RGRhMnpCdzFaTzRpZl95OFVlNUJTUlB6bHE0WFZmQVduX1psems?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Finimize",
-   "region": "IL",
-   "date": "2026-11-13T13:48:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "af1ea35cc3",
-   "title": "Would Pep Guardiola coach USMNT? What legend said about 'fascinating' job",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3NVUGV5X3JTa05yaE5YUGd4M2piNHV1T3pkWWRDWVV2UC1nbVB0SERrcThtLTBscThFeTBVMF8zYTdrb3B4Y2VkTW9SUTdyZm9yWnFLTG5PR2J5Qy0zRU42M1ZDQlNMRkxGVUdsQ2VqRFVwS2UxMUtkcFQ4WUFkTzJYYUNpdGFfM2lyaGtXS3dvb3EwVEswUHV4ZDZidE84dmNRdGtmMjNEQU5CN0hoTjNEeTFGVkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "USA Today",
-   "region": "IL",
-   "date": "2026-11-13T12:46:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
    },
    "topic": "Society"
   },
@@ -556,6 +519,23 @@
    "source": "Optics & Photonics News",
    "region": "IL",
    "date": "2026-11-12T18:00:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a158456097",
+   "title": "Netanyahu ally approached Mansour Abbas over Israel coalition",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTnFnV0w0Q0FIRVo1U2dlZmJ1ZHZuQ18wbGtGNmh3RE8xM0NDdURMb1BNZFlaRTJZbnpQMjBRUmptSm91R3l5dEIyRWhvN0s4TUxGeGk2U2NMa2JsQnBrdGxSY0V6RzBsRFdQY1ltejVRRkNnZEFnRW5Nc2lhckJDVjVON1g4S3RCVm5scWh0RGZMeXFk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New Arab",
+   "region": "IL",
+   "date": "2026-11-12T17:58:31+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",

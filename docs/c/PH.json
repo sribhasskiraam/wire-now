@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
+  {
+   "id": "0468f1e72e",
+   "title": "PH, Canada conclude negotiations for free-trade agreement",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW5hRjAtdUVmZ0VtWU85MlZyc2U2eHBrNW9SWlVEMzJSWktGbm00Ulp1Z21pcWtuVElvQVBWcTdPOHZMUmFsZ0pmQ0UxeW9mX3BJOW9lLTVtcTVPOVVScE9xemR3ZHFRX01YejFsX01GVHpxZGpkNVRUcWw4OU40ZUhwVHB6b3BvLWlwaldjV1c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine News Agency",
+   "region": "PH",
+   "date": "2026-11-14T04:05:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
   {
    "id": "98980aa965",
    "title": "NBA Cup Live updates: scores, highlights for November 13",
@@ -12,6 +29,23 @@
    "source": "NBA.com",
    "region": "PH",
    "date": "2026-11-14T03:22:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "57d6a6042c",
+   "title": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSE5hSjdZNTc2WVZzRUhKQXQwbW15T1JIUU1OUlF4VVgzVWYybm1QdXZEUW4wSGVOQkEtWV9JZVhlOUxwZHFxMFpTaThRTEtiQTl1bHJnVVAwMEhOaDRlRjFXdlBSenAxcHFua2IwQzU4cmVBTzhSelkwSElsT2VJVnhyLWFGaXZCS1N3dDRRaU5xVHNMczdXanRwTzN2ZUYxWWRMeWpOU0Y3b0ExbE5TUzZDZkYyNXBFYzZv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "PH",
+   "date": "2026-11-14T03:08:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -34,6 +68,60 @@
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "76d12d181b",
+   "title": "Self-sensing artificial muscles made with graphene fibers play piano and move robotic eyes",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRElXd1ZFcFktUFhwZEZuSy1VMW5rLWNZYzFrMXNSbEwwV3JsQTF3SEhvOXI4ekxpYUtaSTRoMVA2eVRJRmNYWHNCS0YwZ19uNWpkWGZJRVhPME9MbjRtX1lLa1NDOF83OEVBZk9vMWJGV2k5cVhBZ0R1RTMyT0lTSnZYU20wNEltQkRHWURYSFZ2ek5BYm9PcDFCODVBV1dzSV9sWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphene-Info",
+   "region": "PH",
+   "date": "2026-11-14T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "be656b41b0",
+   "title": "The Loyalty Game: Ana, binalikan ang pag-ibig na nagdulot ng matinding sakit kay Imelda | Episode 30",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX1NZRTdzamp5N0Vobm9YWjZtNGVUaXVQeXIwM19vVHZTQW8ycWRWMmMzenVLYWYwMTNfNFpUV2NGZDhDcEZCWkE0bWtneWJEQ2hNaHJDUXFOanR3NWdveEd3TW9vUi1zcHY2d2xMWTc3UGVzRWFodTFVS3N3TDdyNk5fb0o3SjA5dW9XRllMSldzaXVzeHVaSUJfN01VWTR1VFZ6OGw5aTRkRERoZ3hGZmNyS2xqUnlGTzVHZHk4cTlYNjl6c1Y4YV9MNHlDelNoTkZuX2xpS3N2aGlaYm9TTXljbTZ4R2RPb2pkNl85Unlqckk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABS-CBN",
+   "region": "PH",
+   "date": "2026-11-14T02:57:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e6d722130e",
+   "title": "Rubio says further US military action is not needed against economically weakened Iran",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc09rb21lSlF2THlWNUdkYXhsX0hmZzlVV2dSLUpHSnQweFMtbXk5cFpfMEc0LWRTM2NsM2ZUODMwWUhRdXU5NTNYMGd1TmlzMEY4T2k2Y2M4Y2pNX280YjBlT1k0R1dmeF9xZ1hCQ3pQV0lUWTVJN1p1YVVEWmhrT2VNV0trMlBOQ2xrNHZKZ2VkanVjZ3l6d0lUcDdBU2hCY0RNQjdpN0w2YXI1Snl2clZOVER5QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manila Bulletin",
+   "region": "PH",
+   "date": "2026-11-14T02:57:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇷",
+    "also": [
+     "Iran"
+    ]
    },
    "topic": "Society"
   },
@@ -89,91 +177,6 @@
    "topic": "Tech"
   },
   {
-   "id": "1443a6b81b",
-   "title": "The Loyalty Game: Ben, agad na binalaan si Mara tungkol kay Ana | Episode 30",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFhDWDRyTUMxTkkxVFVGM2lYalBvUG96V25Udy1zaUUyMV8wZl9DZ2JQYVJHMlp4UDdDd2xCUnpKUU8wOE0yVjBwSkt1a3NPMFdvZzJHZDVid2pZaXRDY1hCQUZiU2VWVTBzbDNMQVZ5alE0cmkxa2RLVUJIM2hkQVFHZEJHTURWM0JCUVIzQ0NuRjhWRDZJWmE0TGl3YkJhUDI0RkFaV3lsVmtoWUF0UXFVQUlZYVd0LXd2bmxpQXctZkhHNV91QmJpWW9EUjRqVEJr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-14T01:58:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "78d874e41e",
-   "title": "Dimples Romana admits being ‘more emotional’ as she turns 42",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVhUS19ybFN4cXdwMVRPa0c4WlFKU0xOWTVqMG1Id0hSUkRXdlB2a1VFNVY0NUJ6eGgxNGlsZE5UNXp2djhIMElIUlV2NWVObno1U25DclhtTUFaNkp0NWR4UldrZHhXY3FVOXJ6UGNibWxtd0lxckNYV1ZMR3NPUzhld2MyU1BZem9Nb001UFA1N1NYR0tuNjQtMW5UaXRFN1JZdExlZDBJYUR3WWd3UndnNXYzaWpZdDA4SktBTFI3UTZsazJPTEVjNE0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-14T01:38:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7e541f0e94",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Z3cxc3ZwT0p4VE9jQk9CR1B4MDdmd3Zta1ludHh1SjAtM2ppWmN0LTEwV0hkSDM4bUdRZm9HcXFXMDhYX1NsYXc0ekdzckktaXdiSWF0TGhJZWlCVjhhM1FxRFNMWXFMN1lobjhn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Science Daily",
-   "region": "PH",
-   "date": "2026-11-14T01:14:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bf14efb4a9",
-   "title": "FAA Grounds Flights Across US Until Further Notice",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVpNOE11WFV6SC0wZVdHcE1sRjRGRTVnQXZvREpJNVViemFhOXVaS1JUX0IwcFRucl9iMDFUX0hVMXJyeGx3LWdKRmowazFyZEV0ajFZdnlpT2EyOWVRZC1LWll3OXhuVWVnZHBXMWhhX3EtNWlFMWNxT2xiOUlzY3dEREVTTlNaelI2QkQyUjdHV2JpSjhnV0JtNlE0VlJfdDg4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg.com",
-   "region": "PH",
-   "date": "2026-11-14T01:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dc98401444",
-   "title": "Recto urges new PNP generals to uphold public trust, respect human rights",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmJvdFEwNGNhcllubmotMTdacElwWDVuc1ZuRzlaenFWODlfcl9ldHFhdlRIdTRSOTcySDlYVHVHMGtLdXZOdG9YWDdKMndIX1R3Q1JYRi1BWHVsbDNobi1mLUgwTDhfODBCRWRkZUdZLTB2ZTB1akZWc2NtWGFITGQ0NG4weXJ5d0F2aTdnM1NRenZZWVc0VHdlNjJIQjByd1Uw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Manila Bulletin",
-   "region": "PH",
-   "date": "2026-11-14T01:03:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9c6fd3a95a",
    "title": "More Should Be Done to Protect Reproductive Health Data in FemTech Apps",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56SmUxMzBRenl1V05Nak1lTW1zZkI1M3hyNkNKSGRObmljeFBrZTh1TXRyX0tFVy1tVWlXa1VqbVdQM0RMcFJFRmRnQQ?oc=5",
@@ -204,26 +207,6 @@
     "country": "Philippines",
     "place": "",
     "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ab5357f8db",
-   "title": "Canadian PM Mark Carney, Cambodian Deputy PM Hang Choun Naron arrive in PH for ASEAN Summit",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNm5qdV9KLURPMTFxSXFtdWU4Y2FieXpDb2xkb1dnRkR1UVRzOUI1amgyWnl5QzVZWlZRMmFEc0ZQOEhNOG5wNXdBODZFX2lVY2Y2ajNSUEN6dmZBTFEySUFZQXN6N2d4QlpDbm1OdGJmYXJQeUo2ZTNBWXN5cFI2WVl5Uk82UTdpcWNLU1gwWWpJbzNiRWU0dmJuWXF0SnRjZWFKRVBlN2ozV29zTzJjWmVqQV9FWmRVSERxZTkxU044d1g1TklGV1FnSkdjMmpXUE9mRl93ODVVRFZzR1k2OVJibWZidGszRDRN0gHwAUFVX3lxTE1VeVltMGJkMVhEbFRVamZjTGJaUkNyUG16RzFxYWZPWVVLUF8xRENqb1FTMlZZczQwQ09INWtaZUtYUkRseDIyVTNaSW1RbkwwVTliRmc3SUQwTElURjZ1QmN3LVFnVWxHUDlyR2l4ZnZYanFlazA2c1drX0I1NU45YmpQWHRZN1Z4bGhmUnVJYXlrZElvTnBRa1J1dHF0TU4tMDA2WjB1ZkV3LV9YTHRhSVFaZGgwSFJBY3phcDhUV1FlSUlKZ2hNSjFmWHlFVC1fLU13Y2dDMVFRdVhjb2tkUUIySy1JY2IwV2pWOGtkNg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GMA Network",
-   "region": "PH",
-   "date": "2026-11-14T00:03:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦 🇰🇭",
-    "also": [
-     "Cambodia"
-    ]
    },
    "topic": "Society"
   },
@@ -313,23 +296,6 @@
    "topic": "Society"
   },
   {
-   "id": "9cd6daa96e",
-   "title": "Wescom chief Javier assumes new role as Navy head",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnptNWYzbnVYREJORVBMeGdPYVU3aEJsYzdjSDNFWE9sZDZCTGl2YzZhaUg0bFlwZmtxc3IwZXI5Q0xhYktvS2pOUHJteGxzekJiVTAwUU9iNUYtc0drd1BWcnYzVGE1UmVkVG1yTWRPNWtnc1BweWpnNnhiTlBiQzBhdE54cVNyUkNCVWE1UUfSAZYBQVVfeXFMTm5aMHdXMlgyOUJHdnB2djk0YnhISEhObHFFdGZSMmpLVEROT1VleEJENzlGM2NWd2hUUUxSeHV6Z241cERDUGJKLTQzc2haRDBlN3VwZVB5MXdZNUVfYUE1TmpOS0JsVHctQl84d2g5amx1TDMtNmNnZjN2eHhDVlhPSkx0SWlXY3R4c0U4VDVBbm10c0N3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Inquirer.net",
-   "region": "PH",
-   "date": "2026-11-13T21:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "6edcf48076",
    "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlNuaU5QNUNJVFRFV2MzbWVCUm8xUG9PMkVKT29mMzM0cTkwU3d5WVZOT1MtY2ZBWWM2eGtoOFhXSk1IQmIzV0ViYU9RX194OGhGblpNVks1enhPWVozUkQ1aDR0SkRhRXdaQVgxMzJzY0JtZHNERjh1dFhxWlFGdERSaw?oc=5",
@@ -396,6 +362,26 @@
     "flag": "🇵🇭"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "20d5a691b8",
+   "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "PH",
+   "date": "2026-11-13T18:24:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "2576ecdcc5",
@@ -517,6 +503,23 @@
    "topic": "Society"
   },
   {
+   "id": "622138ef35",
+   "title": "NCR, most of PH to experience cloudy skies, possible rain showers during ASEAN Summit",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2lHcGJPNHVSX25kcGI1ZWJfV0VNUjdxMFB3LWhjbVFOVWhkX1BfdTN3RXRFbjhVWXZNYXZwaTMtTGRXQnRSbHVMMFNmQmlVMWFSUUlDYU5qajR6N1RrN1VDTmhobmNXOUtzNkZUS1o2UFptaEpZOVlhZ25zbGc3dWRPRE5UTk1KZ3hES1FlM3pQRjgwMy1lNG5iRFVZZVIxNHRUejNySFZUM1dtSW95OXU3Rks?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine News Agency",
+   "region": "PH",
+   "date": "2026-11-13T10:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Weather"
+  },
+  {
    "id": "303a816a8c",
    "title": "News Releases - DOT showcases best of PH at 49th ASEAN Summit",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm11bGE4allOZjhwa0pzczdWVDVWbXNuaGZrYldzeHZDTTZ4OWx4N2JSYVpjaXdhNjBlVDBiRjRIWHUwcWhNQ3dsc2hrWGVyOW1CcmlITkExQm9fcHVhRjZkRUhVcXZzdE1OU0d4VVJJVTB6b1BGYnlPa2pvRURfN0xxQldGUQ?oc=5",
@@ -534,31 +537,14 @@
    "topic": "Society"
   },
   {
-   "id": "1dd1e46c36",
-   "title": "South China Sea COC negotiations 70 percent complete – DFA",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdndtUnk3LW4wTnpoYVdabTNHYk1CcDg2Ujh0TVV2LThCZDFjZ3Nuai1MV2NNdmQ2U0FMc2RZOC0takhOUnhLU2VZd3FSSzZJZTF6eHpaZnk5ZmFEY3VhWnFqcFV3TXMxQUR2MU9BejFRN0dGLVNaWGRBcm5HRlJYVV9pTVQ5ZjRjZWQwcUQ5MlY?oc=5",
+   "id": "33b13a486a",
+   "title": "Luistro: Sara Duterte trial ‘bloodbath’ real, but it’s on defense’s side",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGR1ekxHejhYN3VxaVhlY3dmLXl1YWE4RUxZdmk0aEVsdmRVbEVNdGhKS0FJbkoxRGk3WnJGYk5rWUx5YkZsemIzYlRFajdxOVdNVENxWWFDYW1laTBHMU9oUzFPVHVMZlVnODZWWFNKOGxQRUQ4SlVKMVdVOFdCbnVWUHkyVHBnNHpQc2VrU3JFSXRGWUI0YWdROVBaOW4tNWxCMDVzSdIBrAFBVV95cUxOOUFpUGxlWDJDdnRPaWxscHRBTkNFbDZWSnJpamxaYVp3NXhYV3pHalNjNjlha082ODd3WWwzck5fbG1wRFE0dUxYU2hGSmk5Nm1VN2pqTGo0Z093SGtnM2NwTS05NTZEM2NyemQxZmVubC1xZGtYcjZrSXJUUXBIVEQ1a1BvbjkxTGtDV0tUZUg3NVRZajhINXlmbjg5dGNITTlxRkFJVWdHX0ZZ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Philippine News Agency",
+   "source": "Inquirer.net",
    "region": "PH",
-   "date": "2026-11-13T06:34:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "744cf900c2",
-   "title": "Philippine VP Duterte Drops Bank Witnesses for Impeachment Trial",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGZlakE3QjNURHEyYlNnOTYxenRhSGM4N3VDZ1QxamJiUEg4SzRDMXhJWEpDWTZPNzVmZ2szUnc1dHdNR1doU1VPM3MxWndVQXFzanljbmhGUktRVmpGWVhKcjI4YTUxSUNJRGg5d3UtRzJOa2VtVjNISWE3ZjRtZHpXYWtVaFhJUl9ka1pCU01FNHdCOTJZaTM1NWh3MThTUlRIQWItUGN4eG9mcGFBd3BsbEJQTnFPY1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg",
-   "region": "PH",
-   "date": "2026-11-13T04:33:00+00:00",
+   "date": "2026-11-13T07:03:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -585,6 +571,23 @@
    "topic": "Society"
   },
   {
+   "id": "f7c8f0725a",
+   "title": "Tech accessories worth discovering at the Power Mac Center x ADAM elements pop-up",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3Q4MDRtZXNKU1prdGpmZFR2ek5FMVhZRklTUTVjbUJWM2E1QllwaFlucldiaHFqZzBSSU1MMnRHXzF6SzV4ejRZQjJvWVVqODJXa2ZUM1ctenY3YXgzMm1SWkp3OWhLWUszZGx4cGgwR3MwTk1VV3VnWkxGT0liS1IyT1RsS292X0RXWXdqNU16RGdjMm44UUZwQmtfb1lhOTlDMkNTS3ZBOGlVT1ZF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manila Bulletin",
+   "region": "PH",
+   "date": "2026-11-12T23:59:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "7296100828",
    "title": "535 dengue cases, 8 deaths recorded in Estancia; IPHO faults poor household sanitation",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSlFkY2xqXzk0VEJLZWtnVjg0WWxSS3RJRjU0d19PNG1WdlBqRUdxTWVOUmZ5SGZ0c1hCelhkc01ValgzNDA5SXJmaTdOUlJTb3lXS3J2M0FjX3RrcEkxRktxY0ZNSGN2WHB3OVZFMlk4VWFjak5mQUZxWU9MazQwaUNpalZiMlFORW9ZVndJcXRhcEREVEtscGNuQ2EzQjdxdF9tSzM3LWhfSUdYSU00Qg?oc=5",
@@ -600,6 +603,23 @@
     "flag": "🇵🇭"
    },
    "topic": "Health"
+  },
+  {
+   "id": "dd86c88cb1",
+   "title": "2 suspects killed in Manila shootout",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFFmOUwySzdpTjRKMlRoN0ZabEYxSEgwemtIT2YwXzFMLUFXdFlMVEpBUDlsYUphNjcwRV9qbHdzVURsdjhyYTJqMTlLVHJuR240cUNVd2dMSFBtOUtxOHI3UVlFdDdqeVAwT2xra25zLXhXakk4amJXUGxmUW1aU3F6YlFOTnJXWnNuaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Xinhua",
+   "region": "PH",
+   "date": "2026-11-12T07:41:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
   },
   {
    "id": "3912d5d0d1",

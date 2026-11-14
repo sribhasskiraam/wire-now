@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
+  {
+   "id": "e9f5b8d3f0",
+   "title": "What the Microsoft Outlook outage reveals about risks, limitations and gaps in communication",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTI1WTVKT28yV2ZNazltbGdjTUhPNHF2d0ZyV3RySXlDX2plRUdiMjJVYzhRWkYzTjdQb05MZVJ3ZGNXMDg5VVVydlg5dmtxWXEzS0l1R2p4QTRGcVBCcEVyWXZjYzZaaUg1RFNtbjNFanJOOWdiRGhKa2FGc0VkVGxKXzUtcjQ2cHYzVUtEOG5NTnZyNHFYN3NBLXRsQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-14T02:20:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "cce5a580a1",
+   "title": "Former teacher, 60, becomes canteen stall owner at same school after leaving 10-year career",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3k2MTN4b1pEWjdjYVJkOVR0YUdMaDdfclpvQmZhY0Q3UzdZaFluNXFxYmxDMDRWUE94SzVzUzhJc0JLSjlLME1DZXExa3ZJZE1sUWJ3TlFDTUVEdUdqYmptZU05bFpvei1JZklIRl9GZk0zN29lcnVENzRoeWcxUV94UVVCUWEtSVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AsiaOne.com",
+   "region": "SG",
+   "date": "2026-11-14T01:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
   {
    "id": "21e2b20b2f",
    "title": "17-year-old goes on walkabouts and meets with residents to address community issues like 'an MP'",
@@ -21,12 +55,12 @@
    "topic": "Society"
   },
   {
-   "id": "bd5f1e329d",
+   "id": "97f8b8c8f7",
    "title": "Singapore start-up taps peptide power to tackle pet infections, seeks to replace chemical preservatives",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3lTV0U2UUN4a0ZhN3VyZExYTGtQcWJRaE51cVRFVjJnaVVhUmJxV09VcE1zRWE0eWI5WWNiYURzMFhYZFBWSXE4bmNmb1lKdGozN2pFOUxEY1NpcVpzUHJvd0NBSDNuS0EtWGdSeVVtZzRHVnFfbG9iaTdyanU5RW5WUWx3QVFScTJUaGtrV0duT0dwSlRGNlhTcm16YW9fREN3Vm55b0MtaFVyazdPM3cwQlVpLUdzblpsajB1YkZHSUZDa0lTSjFsRy1OWHM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnl3MHZpRkZobmVIVGV0eXJkemZLVWpERFY2bEJ3aEtPZG1GZ0ZuSTRnZU5IbUdVOEZ3cnBnNU8xTFZTSkxnV3Rsd2lBY0FEWVBXeTVBU19pemt4d3RMQWtKR01YX1Z4UUhBcmhlaHVKeW5Wd3ktUUd1SFRtUEZ3ag?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Straits Times",
+   "source": "Yahoo News Singapore",
    "region": "SG",
    "date": "2026-11-14T01:00:00+00:00",
    "coverage": 1,
@@ -36,6 +70,23 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "61ecec50e6",
+   "title": "Bristol Stool Chart: What your poop reveals and what to eat for healthier bowel movements",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1pyZUtFcXlSNHF5Sk0xVDgyZ2dYaTBrNFNGWkNRZmI1TkExZDBGT3FfcnEzLXFEWXlmMDAtbnFtQ3lNM2drUThaVFJGQnltbzAzWmRIYTcwWmtlaDg4NkF6NjlYT3pQTml4ZFg3TmtGMjFlbnZlU3IxTU9hNUYtUXZZQ1R1TTcwN2ZFYXIzMDNYQVRqVWg0MHF1M1NaUTF3TzhpS0dVcnZzMGlzQlNUMnNPRW5UUmZ0bkRDVmNERmFPYkRFd3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T00:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Health"
   },
   {
    "id": "afb05d7f90",
@@ -55,19 +106,23 @@
    "topic": "Society"
   },
   {
-   "id": "783a991a7f",
-   "title": "The hidden toll of diabetes on vital organs",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFZqTTNvRDR0dTBHZTNYMC1Kdkp2c0JJRVhoUVU3Vm81eS1Ob3U2WExtS0tGai1nQ1ZYaC12dko2ZjREbTNkWWRtVHVheXlSOUUyZTZvWVV5a1V2a2NybE1hUDg1bW83bVBiQVJybVpUYzF1MkdqYWV1WHVnTXh2Q2dNUDZ4bWFaZTBVMGduWkZLaGt2cXd2MXdKU05pQ3hPZFk1bUJkdmxEeFM3?oc=5",
+   "id": "af85762042",
+   "title": "White House confirms US-China-Russia trilateral on Apec sidelines",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUQ0eHVXbzA0bDFwak45Zm4zdFd6REJ2SnVLYUNVS3F5M3RNM1MtSmlSNmp2c01NbmNHSkNUcjd1REEtS1hKSTROQTZjUzhQNnpyLW83ay1la1RwTFRnQTlvOEdMUmh5dkp2aEV4T1VoYW1CNUtBYUJncWpuNFZqOVg2cVhHb3h4X1hzWmFCYjFmYk5mZDNyUXA1ZkNOU2hjQi16QXE0UkJleGQ3dG0tMlBGa09jc3lJYzN3Q9IBvAFBVV95cUxOYlBkRl8tMXo3dlZDM296Zjh0UGtEalk3TVFEdW95N0ZHYU5pZFZMWEdaZ0NLN3hzT0F1TjZWajZEQjJ4UFZuSUdsMWY3WjFCZ2hBbDFNazItZ2tBSW16dUkyUDM2UTRoR2pFX0FqTkdBZHgwUkM5SG9uWjdWREN4UmhKbDBub3dwRG5UaUFLVE9iRjIxWWRxck5VZl9aa1c3QnRvMHowOE5fMzJpZC1UOG42dW5NQmx5ZUMxag?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Daily Star",
+   "source": "South China Morning Post",
    "region": "SG",
-   "date": "2026-11-14T00:22:30+00:00",
+   "date": "2026-11-14T00:30:57+00:00",
    "coverage": 1,
    "location": {
-    "country": "Singapore",
+    "country": "United States",
     "place": "",
-    "flag": "🇸🇬"
+    "flag": "🇺🇸 🇨🇳 🇷🇺",
+    "also": [
+     "China",
+     "Russia"
+    ]
    },
    "topic": "Society"
   },
@@ -106,25 +161,63 @@
    "topic": "Sports"
   },
   {
-   "id": "2bf37eee2c",
-   "title": "Experts divided on whether Najib's house arrest sets royal pardon precedent",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVW4wVnBtcnlrQ0tGajZnMFM2V29qcnJOeWtnNGlJVTB6akJoNjlqSUFGcktRSndTekc4WUpwVlBCWHVocXZ1eGdOVW5PN09YX251M2tGcjZLZGdYcHJPenEzb3d1YUFyY3p2TlI4VTVHd25tQVNoaXphWFlYZWhYMWZyeHdxVXI5bm9oQjJ5NmZra3hiVXd5bmM0QzZteGNYeUN3VFhCd1FsTGM4NGpTMmUzZHBSUUt6cFlOWEFHUdIBxAFBVV95cUxOOW11QUVZSzNJMDR2US1XVGNVdTFKS3NnWUJPbHJmY2VRU0c4Tm1EcmdlYzcwTjNBLTJmQkN6QWxlRDNUYkZhaW4zSzFSaDZMWUJKeUdCdmRUMDFQZVU3SDhzQW1sRVV0ZmhfUXp6a1J1aGFaN05KWmxFY1d4enl6dlpnTE94MFR0RlZtQlp5c05jaDhTWWI5cUY0a0RoMDBEXy1NeHllVlR4VDliNE9LZ0xpOEQwV1lfN2ZRUm1uazYxd3VJ?oc=5",
+   "id": "7f3a24f2be",
+   "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "NST Online",
+   "source": "BBC",
    "region": "SG",
-   "date": "2026-11-13T23:02:01+00:00",
-   "coverage": 1,
+   "date": "2026-11-13T23:00:31+00:00",
+   "coverage": 2,
    "location": {
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
    },
+   "topic": "Tech"
+  },
+  {
+   "id": "2d063fccda",
+   "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeE9wUlNhZDFoeHgzUVdadWQxYnFKTmZZSmZCSkVKUjd1VkM3dXpxTV9acVExbzNZdElxTC1DbHpRWGlKV09aSmsySEprSHBGUHRvUzBISUFfUVdkdmlLU0xFUzlnbWJ5cmJleHR6eFIwcTlJTFVMUzVFNm9tMHRUU0gwd2Y2Z05TLUdXNHowQUdDT0w2b2NxTGRGYmk4TURxSlBJbTAyTk82VTNmQ1N6UTln?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN Singapore",
+   "region": "SG",
+   "date": "2026-11-13T22:19:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d64af320cb",
+   "title": "ASEAN leaders gather in Manila with South China Sea, Myanmar in focus",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGtIbDM5WFFycHhxZndnX0lWcG9mUlNIVDNfSHcwOWNXYXlaU2hWeUo5Rmg4ZG1qRFpzeHRIdE5Vdkd4dWQ2Y1FsY1FTYzVhN3BxOEpjV0g5eVU5VTNURV9pUEVzMEZESXFyRkJBb2lLR3R5cVJNOVpHdG5WSU5XZzNvZGxHZVF3cFNhM3ZnRjNyUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-13T22:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭 🇨🇳 🇲🇲",
+    "also": [
+     "China",
+     "Myanmar"
+    ]
+   },
    "topic": "Society"
   },
   {
    "id": "ec40da45a6",
-   "title": "Flights grounded across US after air traffic communications outage",
+   "title": "US lifts nationwide ground stop on flights caused by communications failure",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlBfRi1DNWpWaDFYdjRNS2ZZSFp3YUY5ZDFVTTJoeWt1bkwyRjl6OV85Ti1NQVBMdlJNRVlTVC1OVEU0TmtIUjZjeGZkTjJzdUJKbEJGVmIyVEFzNnpkZXBJUmFRUDZlWExPd3ZRejR5Qjh5WkdKSDdodkZlMzZXbWZjYlc3WnBJSjA2UEJtRlVJdnNGbDE3VDg5UWxuT1hQdWRWUGQ5ZHRjSGZFZURiNkhrZFRyaTFYbS1jSWdUeXdRODNpVUtfR1h0VmFBcTA?oc=5",
    "summary": "",
    "image": "",
@@ -136,40 +229,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "08c929a71a",
-   "title": "New smart video system on roads can help identify cause of traffic accidents, detect illegal parking",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUVJxcnpPZ0c5Nkg4ZUFfc09tSFdISExQZFBxOUNGcEh0WDRmTEd1dTdQZVBadWUwbVRIWE9yOGJEQ2hJTW1Pb0lhQlpHYTJyN3BSMm16YUVwZGRLbkpBamp4WFBVMXl6clVVNE54aVd2RHdVYkowV0JjbXpVMS1JSWpaRTMyQ3d3UFFnZGgxdU1ET3oxd2p6UkxCNWlTWWlrQTE0MnJIVFdTUzlRdnhQRGYxQWpSTUI2RUh3aDV6UjBGRVJDY2ZPVW52S0RBYndoc3F6Ry1IRm5LUjR4OUdhUFpR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-13T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4443c8e1ef",
-   "title": "Seniors take to the water in Singapore’s first dragon boat race for older adults",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0lGMzh4ZllCMExYYVdzSHVPTnEtVF9VZ2k0d0FQZGZFNExqcDJ0VS1CbWtuTFdzaE15TWE2a05YUDB1V3RRRENnbmhSRmJCU2NHOWp2d3BvN0ZlQVdCa0dwUmdKNlV1QzFaUVRBQXZwYnk0cXZpOUc3TlloT293VzhLOFpiaEVWQklxZEl5WTUxZmZQSjlrYjhYa2xYQUxGbXptVnIzVjI5anZUdE5fSGExZTBRRVZvN2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-13T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
    },
    "topic": "Society"
   },
@@ -191,40 +250,6 @@
    "topic": "Health"
   },
   {
-   "id": "08c929a71a",
-   "title": "New smart video system on roads can help identify cause of traffic accidents, detect illegal parking",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUVJxcnpPZ0c5Nkg4ZUFfc09tSFdISExQZFBxOUNGcEh0WDRmTEd1dTdQZVBadWUwbVRIWE9yOGJEQ2hJTW1Pb0lhQlpHYTJyN3BSMm16YUVwZGRLbkpBamp4WFBVMXl6clVVNE54aVd2RHdVYkowV0JjbXpVMS1JSWpaRTMyQ3d3UFFnZGgxdU1ET3oxd2p6UkxCNWlTWWlrQTE0MnJIVFdTUzlRdnhQRGYxQWpSTUI2RUh3aDV6UjBGRVJDY2ZPVW52S0RBYndoc3F6Ry1IRm5LUjR4OUdhUFpR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-13T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4443c8e1ef",
-   "title": "Seniors take to the water in Singapore’s first dragon boat race for older adults",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0lGMzh4ZllCMExYYVdzSHVPTnEtVF9VZ2k0d0FQZGZFNExqcDJ0VS1CbWtuTFdzaE15TWE2a05YUDB1V3RRRENnbmhSRmJCU2NHOWp2d3BvN0ZlQVdCa0dwUmdKNlV1QzFaUVRBQXZwYnk0cXZpOUc3TlloT293VzhLOFpiaEVWQklxZEl5WTUxZmZQSjlrYjhYa2xYQUxGbXptVnIzVjI5anZUdE5fSGExZTBRRVZvN2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-13T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d177828254",
    "title": "Introducing: The Raul Pages RP2 The Hour Glass Edition",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVV3UjVJTFN5azhRWFVYNHgxRzJ4dXd3TlY2Yi1JZ3VkbVAwZEdidU5kNkRVbDJOMUxQY1FPY25PU0FBM0pWX0piZ2VDTHNvNjdVckJGVkkta2EtdW5GMlQ2QVo5NFNSZEo0czc3dnluVVhaRVNHbnFmNW5mbGJpVFhOSExXendmejBlTEtnaG5SVm5WbXVueTBnUElMd3RPQjNsSFNrVmVNNWwxQXNOVw?oc=5",
@@ -240,6 +265,23 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "358b64a813",
+   "title": "Secretlab to open first experience store in Los Angeles, targets S$500 million in global revenue",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUTZmNXNNRlJuQktENVhlZ1hPazZnUmxrX1FUMnRzVTNQbWRCcjhUNFlhb3BQZk1xNTRXOHAyTjNjWHRlWFFyY3I2RXRqdWJtTHJTdno0aFQ0eFF0VUlKYmZDSkp2SGdoS3lvUEY4UkRFdENPVUlNMjNyN1QyS2VNRUx6ZDQ5WnNBenVyR1U3U1B6TmxJM0xmZVV2Qk9oMHRQZXAtZDB4akgxR1lhRzdSZEdiak15T2VCVnZyNVAxajAxSVZkVWVJRzF3cnVSY1N1Q3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Business Times",
+   "region": "SG",
+   "date": "2026-11-13T16:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Business"
   },
   {
    "id": "0a275fb7fb",
@@ -364,23 +406,6 @@
    "topic": "Society"
   },
   {
-   "id": "4a93d5b1af",
-   "title": "Microsoft Outlook outage: Governments, businesses affected worldwide as tech giant works to restore services",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Nrckt4RE5xc0V5Um9mUXREdW5kUmNwUDZjVFRGaVZYSl93eG0tTms1dDJFYnBpVU1BMU1FSG1tY0dpdmtiLWhOMF9jRXZDQThUZXpLRURNTzF2a0F4THZ1cnZ6UFQ1QmVjUUp5RExKRk80Y2p3NG1FN1VIYm9xMWhxYWRjazhrb0JhaTc2ZnY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-13T09:28:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "3777d03f9f",
    "title": "No clear link between recent data breaches; incidents appear to be result of 'opportunistic attacks': PDPC",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1pVNmYtZlA5Mmx3Q0RLTkRsM0M4UFZhRjltZ3BjalkydU1CQ1hhQ0l6VGNBR2JPOFdoWDhOcHZ0X0dlcjVrbXBON3VnbDFuX3U2TkJLSjlnWmstYVV5RC1IcUJXdUlyUmF0blBubkM2dEZyWXJDTlQzWWZTSm5XeDNLcHFjU0lxb0QxaFdKV2l2RE5QTUJBY0U0c2lkMzZXa1E?oc=5",
@@ -479,57 +504,6 @@
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5e4289a056",
-   "title": "Inside Jensen Huang’s last hours as Nvidia CEO",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjZWNDk2bjVSblhwNHdLbUgxVGUxNXM0N1ExWXpSdTFCLUJIYkVqRXh1X0NVN0NUTjdYaXB3NktOUVBFcS1qRnlRbDlYUzRtaGc4c3BIbUU3dGNpTGozZjhRQ25DZlhCY3d2YW93b24tTWFOZXpVdklJVkM2bGd5VUZRd1RUcWoycXdDSG5od2lHU0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Business Times",
-   "region": "SG",
-   "date": "2026-11-13T03:21:00+00:00",
-   "coverage": 3,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "7a3582a12b",
-   "title": "Euclid mission data release spans more than 900 million galaxies",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFZkVnNUeGlBLTQ4R3lRTHFkb2NPV2l1VzhIbUluaXNDT25iTUFvYVlFVG9tTlVjUDRXYmNfaGV5VmtkekJ4dzBtWWxLWmxBVkFpb2FQSTEtNV9IUmI4ZHFobmpaM1kyNUpYZ0oweWpWTnloMzhvZWVkY1RIamZMV1pHTy1tWDFTbXdWamxCRTJCVzBDdUdwWnQzb1Y0cXlVZElJQ0s5UkZxUXFC?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-12T11:06:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c362e49dd1",
-   "title": "Introducing: Indie Watchmaker Mickaël Gaspar Launches the Souscription, His First Wristwatch",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1N1SGktSGhpd0ZWQmtCWTRoekpYNVZOdVlxU0tQMzlZMFVkTXNNSktzbHdiZDV5eFVaZ2lPaW5MVEt5UkE3Zk9oTm15TGoxSXBZWGI5YUxDN3JsQlJCVS14ZEx3bjViUDdHOTdNbnA2TnJZLXJfU1d6OXFVM3dFMVo1cG9fb0J4MGtVXzBqWm9yeUhjYjVNWkdaYzgwMVpnVVhEMjg0MFVEODNway1N?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Monochrome Watches",
-   "region": "SG",
-   "date": "2026-11-12T11:00:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
    },
    "topic": "Society"
   },

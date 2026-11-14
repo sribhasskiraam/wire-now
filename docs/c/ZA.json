@@ -1,24 +1,61 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
   {
-   "id": "40d0ff7db2",
-   "title": "France hold on to break drought against Boks in Paris",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZElIZDg0akNXWDUxWmhCYVpNZlJoTnJkYzlSa3BWYzN2cGh5YXdqX0VqX05QMVVkUE5FNmd6aHBFQ3ZKRDlYaF92Tll5b1JqMGkzeThDbVBIMVY5SFp6SWh3REtnQ0J5M3ZXR1R1ZHExMi05bEZrUTNPam9OdlhuZk4wZUZqVVkyQy03YmMtY3dwLWdpVkkydFFFVjdiY1U0N3RmMmVOUC1hVm1ZdjZORkhxVENmVzRPUkxnWFFPY3N1dw?oc=5",
+   "id": "d4286aecc7",
+   "title": "From Parly to the Palm Tree State: Ex-ANC MP and Zuma man now a US ‘refugee’",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFNlTENqZi1vNVVWdTVrMDJFcEROc1lPdWFneEQzWFRfdy1PZXdyV3VySWVER2tib3k3R0ZaS1pYcGN6Mm85aUd2Vm5UVW9JWW5qRGZnSlc2UzIxUVFtTzl1UjFEUzJCV3F4a3BfSWRocXVPSm9HbmNMT1lXV3FDWmlHZGJXcXlSRGlfSUE0YmUyOFgtR2Iwakw3VWxoNENNRmRmbDBuMnZaSFl0aEp1a0k2djBMdE1TdXhJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "SuperSport",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T03:11:15+00:00",
+   "date": "2026-11-14T02:00:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "839f80ddde",
+   "title": "France vs. South Africa - as it happened - Springboks suffer Nations League loss",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjk0cXgwd3ZTWkhveE5wMUV1S1ZTdzZISEZhZjNDRHdpNGNCZGhRZTVUSGxEd2Y5MEdmWEZlb2N2eFI1TmlrVGk1eEN5NVM3bkRVVVA2WC1udU5FZ1NFVWJKc2xlcHFsMFFJS0IzSkpiaGV6TkRnek01ODkyNlROLWo3WEhaUElmanVTQmduWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "ZA",
+   "date": "2026-11-14T00:03:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2aabbd3e99",
+   "title": "Jasper sees red as France edge Boks",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqRGl1Nk1uQjFJSXZYYVotTWhrLTJDZ1ppZ3ZCV1JIT3QzSEhtUlAzUGRfMExWMHlOc0wyWk1td0lENGdWN1V3MGIyQnVabDVCWkpydmNGUUJ3cFhXZFF1enRWTjQzQ2RLQzFZQVdsVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SA Rugby magazine",
+   "region": "ZA",
+   "date": "2026-11-13T22:25:16+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
    "id": "baf5cf0ac3",
@@ -55,39 +92,36 @@
    "topic": "Society"
   },
   {
-   "id": "c510ab4ea1",
-   "title": "South African billionaire Johann Rupert’s Cartier empire delivers $2.8 billion profit and builds an $8.6 billion cash pile—but shares fall 9% over jewellery slowdown fears",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmxuNWxnWDBkb0hOX3EyY3FoQU44bjFYVTlFYWdPUklSTVR2aFhXUG5LUUNIVUQzVjNLZHEtaV9sR2dkSktZdllZa3JZUm44X3Q3MUVoR3Y5ZlI1Q1E0dVNzYTNPcU1UUV92clR1ZndfX2xDWmh0TlFNbjVYaDhUN1NnclRQSF81eldobFl1Ujl4QlFXTTRYU09wdlRjaUcxNVQ0M2JHTklkd19xajZFWE5LZmZYdUJ5U29lZXlqZ0ZEanUzbjVEdV9nSEs2WmRVVFdWZg?oc=5",
+   "id": "443bc60084",
+   "title": "Kenya strike late to peg back Bafana Bafana",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEpBMy1iMS1LZmFnVDRXMllwdGZBdWlvbGlOTGhGS2hIN3VzUDZvclJkX0F0TnlQV2VraVZfLWJwQkM4bGs2WVZLRTNfYndIN1ZPd0U4a1FvVXFQU1R6ZEhhZ01BcHd5Z1hpVllaaFRtQk1pNzB3a2ZMQzRKMzJtWThINV9IUmhsa2VzbXFYTTBBcWE2MDRhTjVSRnBfYzZPbVR2SkxYcVBkSnNXQkRwQmNCV3djcDZH?oc=5",
    "summary": "",
    "image": "",
-   "source": "Business Insider Africa",
+   "source": "SuperSport",
    "region": "ZA",
-   "date": "2026-11-13T18:29:20+00:00",
+   "date": "2026-11-13T19:34:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e4680f6ce1",
+   "title": "Five by-elections on the cards as IEC finalises 2026 polls",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlRNSUdKNnVuVzRQbEhMZHZrYnh3SkI0a0NfQWtzZl9xQlZLaDRId3hOc2hGcmlmbGFsdkZISlFUZzlIeEczb0NSLTY4bF9idk0zdGFZVFNCYjVUZk04SDA0YXpXdDNUdXdqUDFqd2dIWThRbGwwcjVJRVpxS0dTRkFMWDJ0cXVVeEUxdTFuTjEteGYteHlTM1g4Ni0tbjZWV0RRcA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-13T18:38:00+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "0d5fa77171",
-   "title": "South Africa vs. Kenya - AFCON qualifier LIVE updates, as it happens",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWZGbm1RN3czNGc0eDFhY1pRUnVsMGNpdUk4cXVaaHd5bWUxRVRPb1ZwUnJMampmYW5mb3NVanNDRFRwdlZRVmRPRWh6dW5kbUJHTVN2Y0JpdHRmTXhDcmFuX0xDMUFkN3RxdWJBRUpLakloUTdkRjRmMksyeHhtOTM2bUgtMl9JeVNRWkQ5X01OMW9yaXpqR2pCd1dJeC1B?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "ZA",
-   "date": "2026-11-13T18:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦 🇰🇪",
-    "also": [
-     "Kenya"
-    ]
    },
    "topic": "Society"
   },
@@ -126,21 +160,21 @@
    "topic": "Society"
   },
   {
-   "id": "55ca7f9414",
-   "title": "Dual ward wins, candidate deaths: 5 by-elections announced following 2026 local elections",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmhqV2hWaTB1Y1BLTC0zdlVKQzBHUEhOOWgwREJHanc0dFl4SzdDZWd1TV9mSEhUZEFoWHhFaE42bXdBbFJOWS15NllqYlpaZWE1OGxEV1ZTc2JYRFVpa3lvaU1Eb0ticE5KZjNVNGRNT29aemFDckx5UlRaMnVxMEY4SDlzMUwyclVkR1VrcWwybF9TSHQ2Q0tlaHdBUkl0NnMtU2M2TWg1XzdrLXVrUVpYaEVGb1d2dUVOWlQ2dl9QUzlsZFlDdXlaR0podw?oc=5",
+   "id": "9c2faec2c3",
+   "title": "She said yes! Former Miss South Africa Ndavi Nokeri announces her engagement",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1phNEZjVUFvcXQ0b0MyNlQ1VWZiaDdmU3FfTkt2b0ZsUGxlYW1DWGk0aVdaVWF3Z2dhdnRQZjYxUHU2THVMOGJhdXdJN0hvMjFCdDkyeXliNXJqV0dkNkk3RWdjaktXdXFIc1JjUWEzMVRVRjJ0dlVmeGR5UnhCWnc3N0dBRVZFV3pxSnFvQkRGTHR4WGgtQTdlSmllRF9MX3I0dDcweUxEa3FaRG5VSGpyVUtVS052TTVkbm5ZWmlTSTY1T0JDNGVxTWRweTcyaUZZbDluOA?oc=5",
    "summary": "",
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-13T16:00:41+00:00",
+   "date": "2026-11-13T15:40:11+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "785543c2d8",
@@ -370,14 +404,14 @@
    "topic": "Society"
   },
   {
-   "id": "f416355840",
-   "title": "Integrated but not trading: Weak bloc commerce worries experts in eastern and southern Africa",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDgzQjhEYVR6TGtqTlg4S0UwaWEwbU1jUXhCcDdhNUpOUE1ZUGxWMUdXVUdrbFh2dl9admdfaWQ1VGlRVzlFVVJ4N2JtRWFmaldueWxFZENpbW1RMnI2Zk03bWhxQlJZQ09hNDJydExwU05DOWQ0SUh1bjIySEU5b1Z3ZjBaa0d5RUE5OGoxdklFd0JVUlN5WmV5N1hCVk5ZRDk0?oc=5",
+   "id": "b86b8e0b39",
+   "title": "‘National security’ drove spies to protect cops investigating Big 5 – Sifolo",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTlIbnFrZ0s5MHFvMWJhelZFV0N3QTdORzVuUWxORC13d3FEVEZRdmpIUmRnb21KWlZPcDNubHhzZi1qX3RPeVFzV1JLR1hnMHV6RmsxTDZFWHZocmlvVUhxWWJqVWJuM01keXYtd2VWYU9IMlYxcXd0akphb3NYOW50M0V0enpYenlhcjhUazltMEpuamhROGxEVWlSYUtNZzRKR3AtemFfNFlnSlhSYnpMR3FaZ2lyaGFDU29oQTNaRmZq?oc=5",
    "summary": "",
    "image": "",
-   "source": "The EastAfrican",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-13T03:00:00+00:00",
+   "date": "2026-11-13T02:04:36+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -404,38 +438,21 @@
    "topic": "Society"
   },
   {
-   "id": "5e9453a815",
-   "title": "Intelligence testimony reveals mafia-like networks, corruption and political interference inside government",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3lTSkNOcGQzUGxPR0dtMl84czhhZ1FQVUk5bHlTeHR2eWo2ZVg2cFVUdV9MY1doOE5GNTBEYnRnOG5jOHpjSnJ6NW9MeTRDbVBkRVp3YWxtZ2M4NmJjc2ZFVFZLaTQ2aU1Rd2N5WWp3NEhpQUUxd2FnU0todkwzZ1J6R2V5eTZrdWZyR3RCaDN4Z0FWMWFZOWpzbWpZemkyeWJJOFdmVjJvY1AxeUNBMXZKekRjSWM0eU9tR3BtU0FHWXk2VWtVWQ?oc=5",
+   "id": "23ef08f213",
+   "title": "The anti-Jensen now runs Nvidia: Meet Colette Kress",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGxYMUsxMjRDWFhZMnU2WlVVQ0RjNnRHb2lzZ19FTHd0b3VNSWkydE1nVzVpZnlMQkFSeUVtTVE0N3RVbDFkV0VlMmlvbnJsUjI4MnNTbWxlY250Z09kcXNqV1I5MFRxME1xM1Zfd0MwaWhCSUpkN2RZVTdvX25tUVJ6cTk1NFU5U0J0WTdXTEVsNXBsRkh5TmNBRUM1YVBzMGQw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Maverick",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-12T20:32:08+00:00",
+   "date": "2026-11-12T20:00:56+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
    },
-   "topic": "Politics"
-  },
-  {
-   "id": "8bbd38c257",
-   "title": "Man Utd closing in on Pochettino after sacking manager Carrick",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcEFvMHdvRmpfMTNHNWxlc3VZcHFrNkxwYmhmUWdjZThQUXNBUkM2NVBtQ3BLSTV1WUpiNV9aeW4zU1JoWDNUQ3EtNUEza0JMaHYyZ01zQnhxeWoyV3h6aXRnaTV2NzJ2UkhGNko4VlNLWlFFempNdHdCMWFLSS01b2NVWjVXZWhBVVgySkRsbDJCZHRuYzRhTXZjTmdvdW1zaEhscmIzdFNaR0EzTWFzazBzZlptU1FuVlkxQXgwcnRLbU92WUdTSUhNbkNwRlM4ZGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SuperSport",
-   "region": "ZA",
-   "date": "2026-11-12T19:43:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "27286ac775",
@@ -487,23 +504,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "a026127bfa",
-   "title": "Three fairytale dresses and an explosive ‘I do’: Nadia Jaftha and Reece Meyer’s wedding in pictures",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX3pNUTZaaU9kbmxJQmFuUEh6TS1qSFdocUhvTWZNY2V4VGYya0hOZl9abFA1M0Y0c3pkSF9UZHFYajQ3V0VQSFNaVkVqa0RmbzU3bGQ3UUR4SW1FU1ZBTVNkeWIzODloY2YxdXRiVE56aDJicXpLUVBObTBjOFBtMHNnS0EzaVphaTBqblR4MFFXa1VhWDVRWTlycC1LY2VDdlRqTmhJeWFWTWx3TlpqbWE0Vm5vdWNXTF9BaWVHLXZaVi1jVTZ2cU1OWVJDVWstcGlYaXlRZ0xDM0Q0Y0tpeS0wbWJielFpeEk4RzlrN3J6Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-12T14:37:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "584fc88e47",
@@ -608,6 +608,23 @@
    "topic": "Society"
   },
   {
+   "id": "5b4d316e6d",
+   "title": "Nadia Jaftha marries Reece Meyer in stunning Cape Winelands wedding",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpaa1FXc2NsX19uNG5xVmVDRlg3bFN5dU92WndzNWJjMm5vaDZXTmg1Z1B3ZWUwcC1sMTVQX3Q1RjZxUXFNeXRiMk4wUVNwam13bmtUNFVQYk01S1NROG9kLWVmcTl6UVMxRXNoeElWWm1CTDZYYy1NY05FaThvNnZscHZCZV9wQnZwZmxSTlVRM1p1NVREWHRvdVhtVlRycVFQVkdTeVJyNjBwWmFUWHlJTTU4cmpT?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-12T10:36:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e48fa1ad53",
    "title": "Ashley Oosthuizen’s transfer to Bangkok prison brings family closer, renews hopes of release",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEF5QTdrSVB5WUxwVzlKeDQ4VDVLdk5veFBxb2FBWlF0V2w3REMtd08tbVhVdFk4eE9jSHVLdHk2UzZ0UFRnb2ZhV1FoejVMd2E1eDcyaXJqZnRMUjNrbkp6aXl4Y1RxTmlyQUVmeXpuTnFkRjM3dkQwUUU2XzFHVklReGpJakxLYzZFWG9JdEJzWGpYQkdmVTl2clhqdFUxR25CWWhobHk0Q0tlM1EyMHFnODF6U1Y1Wjl1UDAzR0pfQUZVcjZVa0ZZcHc4QlE?oc=5",
@@ -621,23 +638,6 @@
     "country": "Thailand",
     "place": "",
     "flag": "🇹🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e77c591165",
-   "title": "Moving dance performance explores our connection to the Earth and each other",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHZ5VmZyS3BJQ2swVFdzUW9yYWVtSFpTWnZjODhPVGZZUno0MGNqMUxwX21rTW43eVlnb3RnWmlFWWx0ek5NSTBsdlZRN192SnV1c1F5SGs3MW5BNFY5c2dWSnBBYmdIMVU5bmFDNVRzTFJWb3FMMXVVWWpLb1ZxRTRybVRhZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Maverick",
-   "region": "ZA",
-   "date": "2026-11-12T08:15:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
    },
    "topic": "Society"
   }

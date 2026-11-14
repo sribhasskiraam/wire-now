@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
+  {
+   "id": "df0a840ec0",
+   "title": "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWWpNeVZVaDE4R1dncm1VQVMxWEZka05nVnFnMVNjLVBOeWdPV2hCbU9YNjQyYVlIbGFwcEtnZXM0MW9zWFpKcmY2WnpFNmNKTjNHdGJXQ3doZGtONWNUZjIyd05iRjNDTEMtajk5bTdyRnYwaEZDck1vcXZzeGZZeTlwUVlXR3MtQWN1LVNMSnFqYmo3NG9tS1lvQ29INmhPR1dxbG9qYzd2anAtM1UzcGVkUzRWNjJhSU1seVluOFZONnVzOHpqV3FEaWNMUEZYZWJ1cU5WZ3RINmhyUUl2ak5qaEZEREZqcDhOM3N1dGxLc0ZTRG9mMnNwQkNjUzhxWkQ2MF85TFZGVmZxOWdiTGJHd0VaUU5KLXhoZEtmMmlkT1hSTm5uczY3Nl9ZcUxyVmJqOEgyRjF4ZDhFMUxEM3F3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T04:01:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3c9e61d2a5",
+   "title": "Porté par un Antoine Dupont omniprésent, le XV de France, héroïque, se défait de l’Afrique du Sud",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVnVSZ01QaDJCQUxvN3BlajNFVXd4VUJQTWQxYVdja0pfQnJUaGtWSjB6RnVIdzFqZldYZkZWMV9HeUI3Y19WRHBPcWJpQWZDa29TZDVmaXZ3ZjRHM3VvWkV1aU9iSS01aGkwbFRpaU9JUnZzZWZaN3p6Q3U3ZTQzdzhoYWJ5MmtVOVpWZ3VEdGRxaG0wM2laTFI5YnVEUVMxM21JMTlpMHhiS09uTDBwdlk5dThlX09BdXdEWDFQRTljWVozWXQySTNRcUxhbTVTRG81TVNqSHV5SVktRzRkMW1DSEdDM3VHQ1Yyb0N4czVXUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T02:58:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
   {
    "id": "2afff49353",
    "title": "EN DIRECT, guerre en Ukraine : des discussions sur l’Ukraine ne sont pas prévues lors de la rencontre trilatérale entre Trump, Poutine et Xi annoncée par la Maison Blanche",
@@ -24,14 +58,14 @@
    "topic": "Society"
   },
   {
-   "id": "efdae234c0",
-   "title": "Suspension des vols aux États-Unis : l’espace aérien a rouvert",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSkxGcWZmcmJQTFM3b2ZoWDIxXzljX3FPNmh6QzhjV0llU1VuZlk1LUthaF8zdjBOczdGZS1lTk9hV1hMN1MtSUVCZk9seHUwMnpIUm9zOXAzMmhVQmFMNUJ1QW9kcm1sTnVlQWxzVE1rNWxEZEhndDR2aUZLTWlreDhraFY1MlZGNnpJdEtVYTQyRlVlVXlRNFpPZ0lQdkxoNlVpYWFpcWNsbndlTHF0bXFDWWllaXFyVk9DQW5vTENFZGxKcEJfTGR3ZkNzVjVyLVpQeEhqX214UlJleXhteWw2RFJwbEIxbTRyVUNB?oc=5",
+   "id": "c2e6b91523",
+   "title": "Après avoir échoué à rattraper le premier étage de Starship, SpaceX se concentre sur le second",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdTUyLWlRN1Z0eHZfdDE5TkdqSHB3Ym9oVU5xclR0OVdWNjV1bVhQdGpCamZLMngxU054S2Rac3Z1bnFnSldhMkRnRWZXTFM2WGN1NEt2LWtna3JuYmVlRHNsamlLVkhGeW5JUWFTbGJ0bXdYYlRCZ2cwbl8xWDh6LWJ2QXRmdjRvSE8xWmFmb25nSzloVnJpcmlOVzNuRkdLeklwSWlTYTl5RUpRbmFJcUlmZ0hoRDQ5Z3VuTjZRTUNDUkxEcWVpQ2hOSDRCbERMYlNNRzlIeDR3eTZfOU1kNzJvV0c0SVhQOFRkSFVkUEJVSDFMRGVraXQ3bDRtazZX0gGGAkFVX3lxTFA3LW9rbjhndE1MM0pIbFJJZ2J0UDhyZ08zZ0FSRUYzWVBqbUtZY1lvLU9ZSnA3X1c2bHRGYmtBUGNnX1pfcVAteWhVT2ZlLXVRMjJIUFBhcXZBRlhXSWJkWTV5a3FwSFBVcWpOUUx6bWFjRi1sXzY3UmpvQmk3aURYY0NQOThWNy1fY0ozX0xUV0lqN1NFZ1pMSG9WUFFSOWNwSkJaNUlmdHlrNUZKU2ZSaUxnQ1MwWk91X0xSZTQ4NnZWSE5rOU5GOV9VYV83SXhyZTI4TnU3MHFDVVF0STA3dzdYaG42MTdlTTJwTUZnYXJrLTdMTmU2OE41VU1hclpQZ1VQTWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "Boursorama",
    "region": "FR",
-   "date": "2026-11-14T01:48:18+00:00",
+   "date": "2026-11-14T01:53:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -58,23 +92,6 @@
    "topic": "Society"
   },
   {
-   "id": "7f1f51e59d",
-   "title": "Les notes des Bleus après France-Afrique du Sud : Dupont en président, le sécateur Cros, le guerrier Verhaeghe",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOUNxaVI5M1FaNEJJOWhqN2ItUmtRdjJzam1xc2VINUdsWFJva2FXdGJKWFFZbFJQYXRGdW1ocld5R1B3S3NxcnIwWFJ4dTg2TWNhMzNkY3VWR25zSFdGZmNVbFNsaHgyM2llZXRZTlpPUHJzZEdSWTMzVmdDVWZTMkY0RUVrRVlTbDVwRjhEdUlTY1JHVF92UWFzdHVQZ2RUcXlGUlc3Z1dYdFljYkVLZHlXMUtwLW02UmNyeWVhSlhGek9SZ2FoVDRGMTc5M0RoYW51aHZ1WnJBUHR5aWJVdTAxdlhzZl9nYXJzS18wZ2w2NVRGQnZFdA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-13T22:43:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9f5a69c1ad",
    "title": "Wall Street termine orientée en baisse, le secteur des puces boudé",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUduVS03VldiSDVtX21IUlpaVUdfYjZKU2tfWnhLLTd2MXcyUmpneUJjeG9OX2JNcTBIWjBiRjBoeHpSZHBZVmdGNUZMTFRVNThNcTI1dDcwNHJGRlZrSGxhOHVySzdQWC1wMjRXTzlMR3BKel92OVRPYy0yYTFfOXpiaFE2ZjF5QXZwYnNVVHRwcHNZR18wYkRIeU1XVGNRLW4ta01FRFJGWk4yc0YzeTJpUDltVThkTlA1V3lVVHhPNTZ2dEhTeWtxVDFuUHZLaUlGcG5aNXZqRGvSAeABQVVfeXFMUEs2d3l3Y2cxaHFhakhfNlBUSV9USEpXS1ZlQTNyODlFcklJQ092eHBZaUNKbHJIMkNVamgxWWRGM2ZHa1BIOEotb3hQeFNoLXc4RXJiOEo4UkpoRW05RExMTV9mN2IxNzZIVUVEX2ZpMmlkaDdZR3I1YThXamhxT05QM2NhTHBsOU9tdkJFamsyOUhvdEgzWEVzWXhDZ3lJMmV1c25nMndVRDQxV1lKb3R0X2Fpd3pveUE2aVB2T3N1aVFGeXpzaE5fMnZDMXh3cklaTmF2SlNvZXZNWk1XYlM?oc=5",
@@ -92,21 +109,38 @@
    "topic": "Society"
   },
   {
-   "id": "11d220d258",
-   "title": "Décès du footballeur Jesus de Miguel : on connaît la suspension du gardien d'Andorre Onowo, à l'origine de la mort de l'attaquant espagnol",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMXBza2t4MHJFcTNOQ2VqNDE3dFpvTG1GeTJwcDFPckVuM1c0b1BCSk0yeDJ4MTZjc0VJU1NtQnEzeXE1MjN1MFJnQ3BDY092U2hzUW9ycWhuMHh2YWdzWFpzeXNRLWp2b2JDUzhhcW54QVQ4dnVuWFFxSzk5OTlhOWZOdTQzV2I5TXphelJ2WE42NEwtMkdwZlJHbjRsd1ZhdzBsMV96QmhrejdvMVJ1a21QTU9BbklTRVItWmZrTl9Ia0w2WkpCNC1rMTVnVkp5SllGempzaTVoUnhuUVNzci1zbjZ3ZzhORTZMRUp5eEJDUGMwY1VMM19MWFE1ZzlPRkNpdlFqTVNKZFllM3JUSU13?oc=5",
+   "id": "6b1bd4d3ea",
+   "title": "La Madrague de Bardot ouverte au public l’été prochain",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNl90NTg3QnVDWjVNY1FaRExFZi1jTnVlNkUtOFI4NGxwNDIybDNCZjRPSjBMRTBMYXNaSTdQOWt3Z3FCY2V5S0FhVVlLZ2xnbHpqekpRbWlsQzYzbWpnMHFYa3duX1JRMWh6NFpGT0ZjSVVpZnkzV0trNkRwSkJLUWYxV0NENEYtd2t3UDJsRmRzMVVTRmowa2RqMS05UTgwaHlBSmJDWUR4WExlTzR0RENFX1JTaGM?oc=5",
    "summary": "",
    "image": "",
-   "source": "ladepeche.fr",
+   "source": "20 Minutes",
    "region": "FR",
-   "date": "2026-11-13T21:13:00+00:00",
+   "date": "2026-11-13T20:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Sports"
+   "topic": "Society"
+  },
+  {
+   "id": "00e57cdff9",
+   "title": "« Je prends du recul » : l’ex-ministre de la Santé François Braun se retire déjà de la campagne présidentielle de Teddy Riner",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQc0lYbk1kREI2OXJQMTBZMk9kekNPbHVOZjk1Qk9RUHdHRkE2NVc2Wi1hSWJ5Uk10SGR1Mi1YOXJXQUZIbGk3WVdIdVRMaW5UVWduTTBjTzl4Y2J3R29QME9oMWNyMEt2NkUtaFB2VjhQUENJeHlLSTVXWTQtS3RzTFRfVU80d2JoeHRDcUQ4eV9BeURib0xNenFlT0xQRE5YUHVCMksxWUVwTURMVmRLaUpQemFwLXFCakttdVNyOVdpRXpwZTJWbS14LXpFWHUtZm5jTXlQNHlpVWQwNHBMWGdoZ1o2TDlab2kySm1YaWp0S0tXQ3NDLXN1d2F1YWVZTEFEYVNSc2h1RXl4T0tzalJaQTlWQ19KSTVsOURFeDM4Sk45dkd1M2VUNXROMF9SRFJKMmlR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Parisien",
+   "region": "FR",
+   "date": "2026-11-13T20:54:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
   },
   {
    "id": "cfbcd0bae8",
@@ -160,57 +194,6 @@
    "topic": "Society"
   },
   {
-   "id": "5f82714774",
-   "title": "« Rends l’argent » : La visite très chahutée de Marine Le Pen au salon made in France",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOXBmam94dHVYZm0tUVZFVnoxU2NfakI5YmtXZ1ltT0lBU1JzZS10SG5yR2hCZmFoVmtBTWtLMEF5LWlYVm4tQnl5c2VPV3VKNXNzTDdHWUF2X09nYXFyV3hNakdVYUlvSkV2b3RPblZLOTRKX1kyRnd4QXcxRFdjV0UzWjFyWW5DY2R5QzdFYnVRbHItY2VZaTB6cUVLNFdaRk55ZHpjRUJRcGFLNE9KVlhQWVpqbFFLdW9CSzVnR1JvblRvU3hLbTRBX1p4QzVmY2tjYVNB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le HuffPost",
-   "region": "FR",
-   "date": "2026-11-13T19:08:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b70c9d5835",
-   "title": "DÉCRYPTAGE. Disparition de Marion Wagon : pourquoi le nouveau témoignage récupéré par les enquêteurs est-il autant pris au sérieux par la justice",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVi13RDlGdldWNHdRS0RvSUl2U0Vudm4tTWNOLXdZb1RmdVJBR1dWYld6bGZvdmo5ZXBvVlVmTm9CRlRYVHpOMXNTQlllbHpsNUs0b29YRThXdkJhcktqMU1YYTRnVGVudC16RUNLVFdieGJieFlrS0VzTVRxdGdQbEEwY1FNdHVLOE5naHlpQldlNEJ3RHF2eWpRUXNmX0lkV1VLcWw4M2dVQWp3V2M3LTlHUkZEc0tleDh5U1pkMVZ3Z3ZiUVZDdUJ4VFNkV2pqcUs0VklwdWVmUlR4V3hMOEpqSWxJZV9keXRNTXZVaGkyTTlSLVRxbllhWS1yb0lGQjl4OU8weGlPcDRfYnZndk94OTRsUXozU3Bz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ladepeche.fr",
-   "region": "FR",
-   "date": "2026-11-13T19:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "26989b2ce7",
-   "title": "« La pire vague depuis vingt ans » : malgré l’intense actualité, une rentrée décevante pour l’audience des radios généralistes",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUlVxYTRTeWhoWTlmQklXNGRUd2dITFEwSWRtYWpkc1lZV1E2eVFjdEVlSHlKMkJZNDN2aDBOOEFJZHljUTQ1bUkzb0lkLUtIdkZPU3BWUzNxTXMtVmZVZGVvM3NJTGpSSF9LSGhrOEdWN2JaX1Vla092RDVXYmlIVVNuR0szRkd6d0ZzZXZwb0J6UDE0eGRPTnZFQ3R5c2dpdDZyN1Z4MkRxYVBza0U4R25zNkVna2djdmRWdVVoSWlKanhfVW1YeXlBSE5mWE1UZmxyM2w4QVp3X3ZIZlhNM2E1aW9SWGpvZDFwUmQzSTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-13T18:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3e5f878319",
    "title": "Tir de mortier en plein cours de maths à Chelles : un lycéen de 18 ans relaxé après un témoignage surprise",
    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMW1jZF9UUlc4eEtuOU5oZ1VRR1AyVm9PUm5yTDZsTHdTV01UajRTbXpuWUFXaTNvY29uMlVrVGdrMXF1ajZaUGhGcVNrQ0NMbEdnenBPNE05VkxIeGx2dEhLa2hPLTItU1dZel9OaDRBOTd3Wld5N3pwN2lqNGtiSVNTbGpiekRza0owRmt4eEpRRHk0LUNOcm9sUVRIeUF3QzZudVNWZHBaQ1ZZVFhyd2NEM1A3OW9QcDVua3d6V00ybzcwbnQ3V25UX3JnbTZDS2J0MThkQkVZS2hKczJNLVdoaGZWWFpITE9XM3BYd1hBVEs4SUVSbEhDQzZMMFlXRk8ya2pJZ092RklVcHRHLVI3RTlUelpBbWc?oc=5",
@@ -245,6 +228,23 @@
    "topic": "Society"
   },
   {
+   "id": "c087677361",
+   "title": "Les Européens reviennent dans le jeu mais se méfient d’un coup de Trafalgar de Trump",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMFBxaFNYTU9RSXZteng3TW55SzhlMktoQUFLMW55ZVNCeE9fT3FQVDF5UU1BRlpneHZZcTh5eHdyWGNmMkx6bFlOaWQzdWlKTmtQMTRyZ0Y1OWFUNXN2YnVKREpiS0g2T205VDEtaUt4a3RZRGVlcXk4NWxqWjYyTmtwdTUtMGNhdmNxenJYR0dBZjBteGxBN2stNlhHbUdra0o2d1FqVzdwQXpxOElHbktVSU00YllnVm5uTEtnSWlrbDdJaS1qTzdqa3lWcFo4SVRz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "20 Minutes",
+   "region": "FR",
+   "date": "2026-11-13T18:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "04d458cd4d",
    "title": "« Il y a eu non-assistance à personne en danger » : les confidences de Rosalie van Breemen, l’ex-femme d’Alain Delon",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUUFlQW83aWhVOEUzQlREZXcxUDF3NnRyZ0Q2ODBpR1hDRVZtbEpUREN5UXJjWmY1elVUakktWDNEWTFRckpsMWdjTmJsWWNqSnlSeVoyWEdfanhBYy1zRWxGR3lLR09BVmdQaVZNdUZrbDh5dzZKU05CS1E1aXpvcnlmSnZEWjlkQkExZHlTanRkeGUzSFpfZDkxSmZkSXpDckFPdHJ4bG04NmhNQTFDQ1p2UWNKSmFqTWlDbDR2RlVDTHNwenFmeHE2a2VOYUNwZV9jcE5OZ2ptLVM0bDhQcWdkSzhOM1BYSVhONDNJRDFoRERBM2YyenBlWnM0MzhFUDZianlEMm1YbG9ldzFQZktRbGJ3a2JaTTFTU3Q2T0UzalNt?oc=5",
@@ -262,40 +262,6 @@
    "topic": "Society"
   },
   {
-   "id": "130b51b77b",
-   "title": "La mythique Madrague de Brigitte Bardot va ouvrir au public : plage privée, ponton… l’intimité de l’icône dévoilée",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNnlWQVIwN1l1ZXBKZm1hbTNudzhYUkVMc3NwZEN4TmhvX3JQRE9CY0YyTWE3TFBzZVZEUG96Vm5ING1UZXhFTDBlWWItUlFEaHhJME9MYlc3RTU0aUQzc1dmYWkxTTZXZC1mRnFLbUZXTnFlall0cWloa2RGenJzeXZpb2QxYTBzaHgyYS1acHlFRWFJajJxUmVOeEtqUlJKcE1yTm1tb1o0WWF6ZkZzRGRSZWN4WEZlZnBYcklyRlh4S0pmcXNTUVI5a2YtX2hUXzlYaTZvRkpoTDRxNzJNX3hZV29fWi16N3RBS2R3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Midi Libre",
-   "region": "FR",
-   "date": "2026-11-13T17:53:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4da444ce6c",
-   "title": "Le Cac 40 n'aura pas baissé une seule fois cette semaine",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHpYV2FzZk1ROU4xZjBGZ20xNC04VkJQR0VDLWMwREhhUE9EeXRtQ1Q4QzBqT3otdTJxMUxJY1R5VWNyYlZxMl83elZZMTdCdWZHRkJRbzNWVVF3VHVxbkNIM3hObThDUldIdWozTm9xNjRQUndVaDd5cDYzYjhMaVpKUG90UkEwNlVrM05QNVVETVRXRUltdWJ2bkQzVkNzYWphRVAyX3FKU2FObHB1ekRyVndaa1lqcGVNU3BEQ2xoelF1?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Investir Les Echos",
-   "region": "FR",
-   "date": "2026-11-13T16:58:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d3a6d4c8bd",
    "title": "On connaît déjà le nom de la marraine de Miss France 2027",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUkZhbHZQMDFBeENJWERiWENDNVRFNGlPVTl0ZEZmYUIxdW96ZHdwYVQtMEduRzc0UEZVUGtGUF9VaGoxMDVZWUxmRXdJZVd5RzNaTG5abjQzVGFHRnlOeHZibkJ5d05idTBJVWdxVW1nb012dTdBSVAySmowRXVDSnpaeHlxckg2dm13Z2M1aFNRNFhQcWpwOFNadG5ZcXRaZVV5YlZxeUdrVW9WZ2J4S3VZcTFVSk1UcEFiR3RhVnQ0dWljSmhObVFkSzRnSk5H?oc=5",
@@ -304,6 +270,23 @@
    "source": "20 Minutes",
    "region": "FR",
    "date": "2026-11-13T16:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ef36b17905",
+   "title": "« Ne nous oubliez pas » : dans l’ombre de Michel Zecler, neuf autres victimes surgissent au procès",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY19YT2hWVl91VUlPQjg1MmN1ZXU2SDd4U2lyeE96SUI1WWdlZzhhNUg3aDJKdGV3TWttYlVOUG1iSGNHV3VBbnhWcU5oRmY1NENub2FKS3VHUnRaN0R2S3YtWWJSaUhhSTlqLUxDLUFiRWlkS2RvREZEUGtFd2JJb1ZKbDhhaGd6ZDRHcmhQb0FtWHFHTWZfNXpsNzFIMVZPU05jNmNicjBJaTg4aTc1R2FnYU9jWXB3LUdUc05XNW1PTXZreG80QVRDNTJvbU1tQWJpZA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mediapart",
+   "region": "FR",
+   "date": "2026-11-13T16:27:43+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -345,6 +328,23 @@
     "flag": "🇫🇷"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "c9cfd913d6",
+   "title": "\"Carnaval de Luz\" : le groupe U2 fête ses 50 ans avec un nouvel album studio",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWphYlcyWGJMWjlkdktFcTdfUXY5SWV4RGhkcmF4UHBtUWViaXg0Rm5Pb3FiUHRhcFI0eVE5WHBPLTJ5Rm01T2wzZHB5Z1BrUVVlZ1lHaVhSLXpXd3dMVmw5T3E0Vmp4YzZMR2IyOE9Kb0xPWUpFbHJzcTNzU0ppUUVtWHVCdUFPZVdSOXNqR1RxQ1RURDBockpBTU5FMDlfdE94aXhNNnExeGhZRWdIeF9XUTllVklBUFdfVGdJd2FFSnlOaWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "franceinfo",
+   "region": "FR",
+   "date": "2026-11-13T14:04:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "748a9dd6db",
@@ -469,70 +469,19 @@
    "topic": "Society"
   },
   {
-   "id": "25d4925e2a",
-   "title": "Italie-France: \"premier couac\", \"gros pétrin sans Mbappé\"… La presse sonne l’alarme après la défaite des Bleus de Zidane",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMm9VTnV2UGt4bl83WnZYQm5NY1NzNnBIUFFETHprLTlBSnc2QlRicllLdkU0T2tuQl9lcm1FeDYwQVgzdDNpRW5LNE5vTWJOUkdBeDc1RHlCUTlsb0prd05McXl5VHdmeGozZ3EyendXdmE2MXdUbGVNNTZKWVFGcGtSck9WQmlINTUzcWkxeFZDRnk3WTh4MzZncWNuTm9JbHVJVWtlTTY0ZnZWbWlBTms0cTViTGJ4V0RoTVVwNmk4Wmg5SnVFSGpuS2tDNFF0WDM4WFVuSVZIOEd6VDhUVHlaT3oteC1MRXQ1MHBfYWR3UTB2dlNIQzBIUTVvU2FITGdzZTN3WS0xSkpRSlBXZ3VMMVRJams?oc=5",
+   "id": "79c91486ce",
+   "title": "« Une mentalité machiste » : au Pérou, Léon XIV dénonce les violences faites aux femmes et aux petites filles",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNVo5MFNZT0htS05nbzdjNmxmalJwam1BSTlfYko4M21ZYi1keU9JOUwxd1RYTFM4QnFGX2k2UHhmaXRwdTZrWUNtNlRoRlYwWkd3c3pzZkR6ell4cjFTdDEzR0VYTWYyQjlfZHB1bjBtaVFlbzdPVUpVa2lZcW4xeV9tTlZFSGZpSlF3QTQ5N0hTZlJONXptUW0wZzNXa2xKNjVwM216WHBhMEFSWHBZbWcyQVBkdDdjWk85Y3dvcEpMbjdhNHR6ZDV4TDV4dlA5bDVQOUp1S202ZUk3dWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "RMC Sport",
+   "source": "La Croix",
    "region": "FR",
-   "date": "2026-11-13T08:48:04+00:00",
+   "date": "2026-11-13T05:38:07+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e399d16a07",
-   "title": "« Il savait que s’il en parlait à quelqu’un, ça ferait foirer le projet » : le seul ami de Kevin, le terroriste de l’attentat de Trappes, n’a rien vu venir",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPalJVcHA0ZF9pRlhEa3dUaURqaXVIdkZkQnFrNGV2RHFUdmU5QlJEWUh3cWVUZGNZM3RLSDlUeGFycnk2cy1nZm1ncmpsVFV3c2lWWko1el91cmdOay02cGY4bFlJaFdXWjFvX1VwdDBSQ0E5amhWS3U1THppcDg0RzZFY1lzVWJmOWxBQVZmdGpwUkJaTHh4X1R0Y0xvMkF4VDVOZDNYVkY5LWlDYVBXdW91a01nSWRuRWdMVndPeHVpR0NmTTBQSHRIMy0wWGNZeUs5bTRyWThOcDUzQnZUQ0I0MFZFVUxUWk9ZZGdQLUQ0UjFsLUdQMThlNFJsTWstUEFHUGZQdlRZendXWHdSQVBpbUQxRHFxUUFkZUNLS0hSS3RobnhOSA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Parisien",
-   "region": "FR",
-   "date": "2026-11-13T06:35:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3a1eb706ee",
-   "title": "Alertes à la bombe en Europe : qui se cache derrière le mystérieux Mikhaïl Andropov ?",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUUJ3clZSS1JaLVJocm5BWUxYRjBaTXNXNG53ZzJiZU5UY0dvRXY1ZWFtVC14OHlxeTZ3V3c0c0lNLUxrcHQyVnphTDZWaHN5dE85c05ybnU5a0hXOHhEbjc1UkhoSldldlJxQi10WE02bWRJVW54Q2lyOEN6dThndUZqQmNHS0JrM0pTMTYwYTB6QlZpVk9sTktvNEw5V1czZlg4aHp6dU13aUxvazdEcXg2VGt0ZC1ZRDVZVkhRN1RQbVZVTk85REttOHlsNnlqWWpUdk15UHhlbVl2d2RVM256T3hGUXFUS3VKWGVsNm9tdXlpYTcycDI5alBCMlA1RzVvbk5R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Parisien",
-   "region": "FR",
-   "date": "2026-11-13T06:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0f1a9d90c7",
-   "title": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTUt4NWsxczhrMFQwSVozbWFaX1k5QlhIV2RzalczTkdaMGZ3ejdJUkFxTEliM0ZsQW5HZURwRXFjMnNmTFp5R0x1Q3Jld3FVTGJNUDZpQVdNQWxlNExUZ3BqZEx0ZG5uVGZtTkhwdVd5U2hfRndvWkJJTlowOEluRk9XYldhRnYwYmc3QjlaNHBNSjhEYlZnZmh5LTVIMmwtNHN3Z0I5bm5PSTFTRDlSNVpTX1h5S2lORDdGVEFNZHRIdHlTUWlyc0RRcVRiV2t0cERVR2hTdGVNTUk5ZzZ5d0dtRjBoWnI2S1plU0hiVWJ4MllsR3dOZzhLd0NXNEFmdURRTlBVR3RhbnFCNTN3S3lJV09tdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-13T00:01:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -545,6 +494,40 @@
    "source": "Le Monde.fr",
    "region": "FR",
    "date": "2026-11-12T19:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "64445d5dd6",
+   "title": "Désignés par le suspect de l’attentat de Trappes, David Guiraud et Sandrine Rousseau ripostent en justice",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0MySURGUHZ4dG5iWjR1ckVXMEtIbU1falp4TUd4Tlo0UXQyOFhxS18ydnlfX2JQcy1hNmFOX21lQWtFUndHZ2w5cXpDLTJseHJPVy1HVGJoaWN3NXFMNU5fckpmZkJZdWkzVFdPeXpnelZhNUJhZ1JVVEVFcV9OdmRuUVVjalNCSWFRUnNzU2I1Yk8zdVhJQnBQOFNRR0Vta2l0cUo2UVVDSXNVNmoxdFlKN29fcm5OVFJYQkdSQkFDTUN2am5uYQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "La Voix du Nord",
+   "region": "FR",
+   "date": "2026-11-12T18:22:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7f387b3bc3",
+   "title": "Disparition de Marion Wagon : un appel à témoins lancé pour retrouver un homme d’une soixantaine d’années",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSGt3eWZSdG1RT2F4Y2g4VGw4SEhhVDN2aVNKbjJHWVhWemtGaVU4V19LbjZOSVJyazFWeDk0T0gwYzRjbk5PcmE3eUM4elZjbk1ycThBV1pXb2p1UlgzbE03ZnRNNklQaWNOaDRnMUtOc1Vjb3VvOHNHQTQyOFRqcXlleGJyei1vYVlaZjJWZGVDc1VnU2pEcFU3cENUeUVKbjJGVjhEYXNsMHBXX2lTYnhkbFV4bGNoQWxEZmlNdkR0TlRQVzJHbXRvSl8tSEs0dEZ2UnBLMkpOT3BYRmRQNWY1Y0dFVjhqU2RIOVhGUjNRV2lZSlNCd3p0LUIxNVE4cjhoay1lbWF2TFNJUHMw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Parisien",
+   "region": "FR",
+   "date": "2026-11-12T18:19:37+00:00",
    "coverage": 1,
    "location": {
     "country": "France",

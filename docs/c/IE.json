@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
+  {
+   "id": "30fbc313db",
+   "title": "US air travel ground stop lifted, flights set to resume",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZZzN5RDA1ZUJKLWw5SkV6RHkybURmTEduTXA0MEpZQW1xY2ZhbXJMbmI0ZkpSYlc3TFgxNjlDRXpCamJ3dkQ3aDBvT2lNZzJyVHVZMXI5OWkwNnBYQ05RdUpVRzF3QTdFSDhyV3VR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T04:18:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "3b9a10e24b",
    "title": "'OMG look at that': Scurvy and pellagra warning over Ozempic-type drugs",
@@ -109,6 +126,23 @@
    "topic": "Society"
   },
   {
+   "id": "3f9c05dc8b",
+   "title": "Europe selects negotiating team for Ukraine talks",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BZ2FFSjZnSVNvQnN0cHJlS3ptaGh1eHprMFpmc2puNm8xUkx0WTBHRzdES0lwamFiYUlFMEstRWcxTU51OHVWSC1QV0JSQWZXTjVRZTJrVi1oQzVBaXlxSXlaczhpT1lyRDZjNl84dmhYNS1Ld0NJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-13T21:11:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a9c28e56b3",
    "title": "Fair City on Sunday: 'I'm going to have to call you back...'",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1NwNXFZNlBfdWhGS081bDA1Z0I0bUtwbVVGa3R5aDNtOEN1MlB4bUM0WmM2dnRzT3lYM1RiS0xCOEtzc0xHUE9YQ1Y2Y1AwSzY1YVJ1NXo0UWc1ZkMzdnVXOFhuV0piWDZFMzVVekFyRklLaTJxZ1B6X1dRYTcwQi1iV1FMVXU4RW5XcXlYQUlnY09yRmtlSnZ3NElyX1FTWWF4b0tGUlI?oc=5",
@@ -154,40 +188,6 @@
    "source": "The Journal",
    "region": "IE",
    "date": "2026-11-13T19:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a57c6cc81a",
-   "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjdnYmtseDIzOVFxVzBGRzFVVUFKZmpNUEtwUHFQR1N4MTBLY29aX0dWd196OVo4eW1iTWQtSGp0b3U1dElMR0dPcDNVVEdyOUhTRFVXMWY4SUlhX1FyaDl3Mk1FcEtURUtTN3dnYVZXWmlaVHREbjdiSUZYSDNHeEpaRVNjLVBUQlE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "IE",
-   "date": "2026-11-13T18:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "906c274e33",
-   "title": "Gardaí want to speak to couple after body found in Dublin",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13WE52Q2pLYWhKaXlzTmZ5NldZa3lYMzZVS05HdHJ4ODhTY0dsWnI4bXN3REVOMm5ncnJfd1IxbHRZRzdneEdoM3NvemhCZU5WTkpMR0tqYjRjSFlnbzZieGFiNWcxVV9JRUF3RWpSYm5UN1VONzA1WQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-13T18:32:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -265,21 +265,21 @@
    "topic": "Society"
   },
   {
-   "id": "37f37e3668",
-   "title": "Advice to patients in the West as Microsoft Outlook outage disrupts emails",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNFVCWDFmbDd3U0F0bmZ4RVo1YzFPdkdzN1FFVzB4a1c5bU15YUpIc3YyOENMNEVsY1dVQjVfU29TVzJtSVpHMy1yTGNKMVFncGNmUlRSUll1Uzg?oc=5",
+   "id": "1b4ca519f0",
+   "title": "Gardaí investigating ‘unexplained’ death in Phoenix Park call for couple to come forward",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1VFdzJuVnFVM1I4ZW9NeXl5bXhnUEdYZ0F5aDEydDA0d2VYRy1USXRrdjc1enR5Wm9ucTZNS2FCNFhoNllRQ2xjWklOTUF6OG83eG0tLXE1RFpyNUNKOTZtYUJGNkdtZTlTRmphQzdLLW1oZDFqQzRHakk3aUF0RXE5bDVhWXFheG5ZOEZQMlcydHpPTWt3T1AzTWE?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "BreakingNews.ie",
    "region": "IE",
-   "date": "2026-11-13T17:34:22+00:00",
+   "date": "2026-11-13T17:29:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
    "id": "32d15d0584",
@@ -503,26 +503,6 @@
    "topic": "Tech"
   },
   {
-   "id": "43a98afee6",
-   "title": "EU intrigue over whom to send to Russia-Ukraine talks as top diplomat suggests herself",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzV5dXExMERjZzRVQlhpcGN3NkFCY1AtS0xuZXlsVHZEcVMyNTZyR2FnNDhoTlVsaGhlOFg4TUNPNU1xT3l5YTMwT0RpQV9uakRCSnM3OXhmOC1HVjZ0M1k1WE9qckNDWGhvOEkzUC0xbDFJZ1poTmN1OTVYVV81MUY1NlhpSHha?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Journal",
-   "region": "IE",
-   "date": "2026-11-13T10:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇺🇦",
-    "also": [
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1a823c0ad7",
    "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2Z0JHS0I2N29wcVZJN0V1a2ZLWkNxcV9QdVpEUThncUVleGJSRUNKblFOd3I3U3QxeDA4S1lzcnNRTFFYeWZmSXB2TGFWWVJlQl9MV3JoakJ4dnc?oc=5",
@@ -531,6 +511,23 @@
    "source": "BBC",
    "region": "IE",
    "date": "2026-11-13T06:22:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5212cc3843",
+   "title": "Frank McNally: Welcoming Taoiseach finds hugs and kisses the first political pitfall at Dublin’s EPC summit",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUU93dzlwaEctNHBwWTY5MDY4d0tCSXRuZnlNcFlxREV1UThRNFVuMC1pWjBBblZQdHhzOU1FeThrRWxMRnhCci1pcjh3RC1RN2JVMXJTaGlId3ZmWlBtWjZRbjdXNExfejZELW1ndjE5eVcweldoVm1Ob2JKNVEzSlEwbzNxR0RxNUJ5bHJaVWNJYlR2NTR0eGxla2JLcy0xdUpfbWVhdjhqcFBlRlloZEROWjdBd1dNRERTd09uQktUWXhlcXozb1VDZHhGX3JVVWhiRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-13T06:06:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",

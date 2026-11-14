@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "232c6b0c3f",
+   "title": "U.S. flights resuming as nationwide ground stop lifted; Canadians warned to expect delays",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUC1BRWRabVNXQnRDOXg3bDRDRE9PaDhjYXNUT3ItQzJIT1JvZWc3Tk14LV9RTWhiUXBHanBFeXZuNWExNFBnSk5oLUcyR0pDX1FpbE90ZHJNMmVoVzN2eUM2UmlDZk9RWjlYcGs0OA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-14T03:47:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "b295149d7d",
    "title": "WWE SmackDown Winners, Live Grades, Reaction and Highlights After Crown Jewel 2026",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "Bleacher Report",
    "region": "CA",
-   "date": "2026-11-14T03:33:45+00:00",
+   "date": "2026-11-14T03:36:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -21,34 +38,34 @@
    "topic": "Society"
   },
   {
-   "id": "232c6b0c3f",
-   "title": "Canadian airports cancel flights after U.S. orders nationwide ground stop",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUC1BRWRabVNXQnRDOXg3bDRDRE9PaDhjYXNUT3ItQzJIT1JvZWc3Tk14LV9RTWhiUXBHanBFeXZuNWExNFBnSk5oLUcyR0pDX1FpbE90ZHJNMmVoVzN2eUM2UmlDZk9RWjlYcGs0OA?oc=5",
+   "id": "37e791b9ab",
+   "title": "Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHNpbDR1ZzVuOUtTdFJVZzJFVG9sZ3JLZENUbTVHNkhsdS1uWWVCV0dzVXVnWDVDNHg1alR2YXJYY1pKRENQWm5qT1hOVEFqOHdHaUFaTnZhNC1melB0R2o1azlIamZiRGtnWHJyb2tSVkdjZnV5bXlwdGRfcG01aWd0bzdTd3hzQXRTM0pUc1g0dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Global News",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-14T03:04:33+00:00",
+   "date": "2026-11-14T03:27:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
-    "flag": "🇨🇦 🇺🇸",
+    "flag": "🇨🇦 🇵🇭",
     "also": [
-     "United States"
+     "Philippines"
     ]
    },
    "topic": "Society"
   },
   {
-   "id": "8d325e190b",
-   "title": "More than just streaming: TwitchCon drives $60M economic boost in San Diego",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGZlWFpVNjlxVkUycFh0UkVPZGFCYmtsM25YcjQ5VGFWaG9aUWJBQmpGREJvTFBfbzF6WUlyOHRkNm1SV2FSaFl0VGtqV1RFSUtDUVZVQzJaTXdORzVnV0hnOE9yUUhFcTZncGw4MExwWGJ6RFlYT1VER3hBb0RfM0ZCZGNVR0RROXNFOUQyUzM4RS1kN1YtZm8zVmNSVlk3TFlEUkJHcHVndGNZSWdiVUgtU3pZZnY0MU02V2JIUURFN29DWXFpcg?oc=5",
+   "id": "6c17f9e31b",
+   "title": "Canada's Alphonso Davies exits vs. Guatemala with injury",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXpCQkFpUXJDV1NTcWc5N3h4bHRNOVhIeEp1WHZuTnFKZUFaYWx3VTUxaDFPaEJGbnVsRWNLWlZCbFNnX1JsR09KZmpIWUd6QWE3YjlmVXFkck94MFpCV0FBNEtwTkZIaVhScjVpVnZudjZyTXRPUzZFXy1PU2JjdnYwaWdiaTA3SHp3YkNzLXpzLWVXRjc1Z1hHUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "KPBS",
+   "source": "Sportsnet.ca",
    "region": "CA",
-   "date": "2026-11-14T01:58:00+00:00",
+   "date": "2026-11-14T02:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -66,40 +83,6 @@
    "source": "CTV News",
    "region": "CA",
    "date": "2026-11-14T00:57:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1c71717326",
-   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1Zub2xqb3dzYTFILXNXXzF5TkJOZmRDWFRXc25zbVFkNkU5Mll5aEZDVTB3aFJjQmFiZFo4Qzd1RXFnLTE5em1ROEQtNEctMTMwZmhMYUFMZDFRVjY1cF9nMGVOREJXc3VhbFlhSEtNdTNtb1JxS1BfTjdyNTdmMkp4TEN0VXd2eG43ZWJoUXR0dlRydy1zaWZsQWgwZkFSRDBaQUZueTIwMDZwdHZIWWZCNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ars Technica",
-   "region": "CA",
-   "date": "2026-11-14T00:49:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2fd5b91c5f",
-   "title": "CFL commissioner, Regina mayor exchange words over stadium turf",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3RJV2J3eHR3b19ZdUJ2Vnd5cWVxVGI5dVlhLUl6ZWJvTEdLMnBwaXZaV0dZcHZ5eWNDNzg2SnpENy1FSXJ1U202SFFRLW5qN3dZYmpKdFpDVFhCUTlQN1c1UmpYZzRpTDdNLWEzMU9kZ19IZVBVVVNBWk5lVUpUODBYTzlDS0VRR0kxYkZ1M2RoaF9JdS12QzUwam1xT3R2elE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sportsnet.ca",
-   "region": "CA",
-   "date": "2026-11-14T00:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -228,6 +211,23 @@
    "topic": "Society"
   },
   {
+   "id": "b37083dd7c",
+   "title": "Flu activity ‘high’ in several provinces including B.C., Alberta and P.E.I.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWJNbjd4YXlKbGowLUhzbUxtdU9TOEVyR3o5YlRScVFydWtWbnhDOWQ3NmNvZmJ0WmRIMDBHN1E3cXhLSjdCazFiSGFIUXhzWG5hZjBVSmRWdlBsUkw0MFRjZ0tOQWxqTjBpUGJXdTRmdzVpVjBEMm9VZEtpekVKT3RKaTU5aGZMMzNaOVJZQ3lScDgzQW9KMjJTMlpTUGlIcUY4eFYydWxUN1NULXoxRlhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CityNews Kitchener",
+   "region": "CA",
+   "date": "2026-11-13T22:34:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9403628b67",
    "title": "Ford government proposes enrolment caps, online learning restrictions in private college OSAP crackdown",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnhPMC1KTlY1N05RNnAzbi1lV2MzbmgwMFdmUWZXU0ZfeTJDVnpXcXlQdlpucHdHYy1scUdlVGYxMFRtWHE2Tnk2SFNrUVNUbngzdkdjdkI0TmE2M3VHcGU3V2Z3VUZXWHVPWHZNcjQ4ZnRhbXU1MTFjc1k3NzlhMGNfNUU0QlFMaS1DeThoenFrVDYzT3I5alN1bE9nOHl5TWpVY0ZHMzN6S1NMbS1yMGxvU1paTWVQN0lUaUY0bENYalVQdVdLaU4yZ2VZclljR3l5MmZOTHc5TE1kZVpSMg?oc=5",
@@ -243,23 +243,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "b37083dd7c",
-   "title": "Flu activity ‘high’ in several provinces including B.C., Alberta and P.E.I.",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWJNbjd4YXlKbGowLUhzbUxtdU9TOEVyR3o5YlRScVFydWtWbnhDOWQ3NmNvZmJ0WmRIMDBHN1E3cXhLSjdCazFiSGFIUXhzWG5hZjBVSmRWdlBsUkw0MFRjZ0tOQWxqTjBpUGJXdTRmdzVpVjBEMm9VZEtpekVKT3RKaTU5aGZMMzNaOVJZQ3lScDgzQW9KMjJTMlpTUGlIcUY4eFYydWxUN1NULXoxRlhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CityNews Kitchener",
-   "region": "CA",
-   "date": "2026-11-13T22:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "f07042031b",
@@ -330,23 +313,6 @@
    "topic": "Society"
   },
   {
-   "id": "e6b6766802",
-   "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNENSQWo2eG9BYl85Q0NnYUFfY291R0wxMmhqYTZRYkJMSkhpNVBhOF9lQjlKcFY3a1d1RGRhMHNVVUt0OVFjQWVnaVo3UDczdkdPSW1zSGhyNVNNWjZiTUtaajlEMW91d2RidkdNYWZmcEtaanNOSXdqMjRJZ0t1cmNYRmdQZUVVS3BMMXFIZEdZNkZCcV9EVXkzWVltTXhtMGVoQ2JYWHRfZERCZkFKTXFaT1BlUGVwYmJSSlBYaUtEeUhNMWtNR0RWSksyaWZGVjZDTDJoWXg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Space",
-   "region": "CA",
-   "date": "2026-11-13T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0623cf5028",
    "title": "Apartment fire causes $1M in damage, arson charges laid: Winnipeg police",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUS1JTTF0d0U3elRWendOR2VWQVdMYld4TFNSZEw2MjhfVkMyLUpkRUhCWlJFbjUwZTdwZDNVemJVQnBaSThnNEQ3TlBRc01tRDdzYzZqdUVwenJrRGpPbmpaYTF3ZG1RYmdpbVcxcGljTUJKVWRkZTdoajRYdjZqTS1jNExQbmxjLUViOXdVMXJhaEFQS1R4Y25UWG0wcldJU3F0SklOS0RCU3pXSTVR?oc=5",
@@ -364,14 +330,14 @@
    "topic": "Politics"
   },
   {
-   "id": "88af74d1de",
-   "title": "Tanker collides with river cruiser near Port of New Orleans",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjRJRXc0Q3pleXZsN1NkZlVkbGFiQ1Y5cDFWb2lzXzBfSXNsOWF6bmRRTlgxQnBwR3Z2UWRhS3JSbHNQRUM5OGkzNHhQcnR0X3Z2d0ZvZ19wMXVEMGcwT1B0dmtGVkJCVXIxbUFaMHRGSE0yRk1FcnJRbHBvODNCS1JpODVHc2lOUWVkUi03U1hfVUVPRklUQWt6MmcyZw?oc=5",
+   "id": "3019964230",
+   "title": "$11.5M in drugs seized, one arrested - Thunder Bay News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUpLMTVzTmhNV0RCT0ZtX0w0LXlCelJvQ3NkWk1tTXBzZ3ZDT1dCc2tIeEtsaGdkQXlYNWNHUXhTUk9fcWxPMFZPbGtHSFRKOXFMNUt0RGN1YXBUTmRjX2hBUTQwTzFmMmE1LWg0TkZyY1gwN3ZRQkh1QjRtOVJ5eVYtY09pcHZH?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "TBNewsWatch.com",
    "region": "CA",
-   "date": "2026-11-13T20:34:50+00:00",
+   "date": "2026-11-13T20:24:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -398,6 +364,23 @@
    "topic": "Society"
   },
   {
+   "id": "7b69a295fd",
+   "title": "Watch: How the Microsoft outage affected North America",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mVHVUTndEeFdNeXFteWdrSGNhUndKQUVOaFE1U3ZmT2NMQzg1Tmc5N2t0TmlLZDBrbVlMTXpZWXlXNThZeEgzMm1nUXQxWG8ydll3UVFfcWo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "CA",
+   "date": "2026-11-13T20:12:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "283da8b1a6",
    "title": "‘Hell, I was living it’: Joe Biden airs his frustration with Democratic critics in new memoir",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNE1ldzZTdWNLMHI0YURRU0RhZDRtUlNKSUdLMXBWRVhOWHpkc0NzSTFvQ1pjaHdtTGVqbnhZakZmd1VMR2E1azFBMTZBd25kaXE2MmZBbENpMjY4SWhzbV9STHVVcGoyV0pvT1NhUjZwOE05a3RhazQtV2lSMjBTOHR4M3dvMDk1MUdvMkxNZkhPMlFWMzBkcU1TeUJmdnBSdmhWa19NWWJYaVNJaWlKb09OMEpadUlteWtYdTVrZk53aVBIUEE?oc=5",
@@ -413,6 +396,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "2dd2f9378b",
+   "title": "Canadian government investing $200M in B.C.’s Woodfibre LNG",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVFyblpMaWJkbFBlTzdOVjNiRXF0LVdmQU1HVjZZbkJFTzZBX3U4SC1ma01VSm9oTkpnckNpamxIYVVMVWdnN2RfZXdaZWhRUW9qSlBXdmI3ck5sSlRoSWMyOXBfd3FsVzdaNDdtZTlrUC1jeEx0SkZYMjV0RzBWaWRUejd1RV91cVpubG5iQ0NtZnFfYTNEWkh3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-13T18:30:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
   },
   {
    "id": "4330a9062b",
@@ -449,21 +449,21 @@
    "topic": "Society"
   },
   {
-   "id": "37f37e3668",
-   "title": "Advice to patients in the West as Microsoft Outlook outage disrupts emails",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNFVCWDFmbDd3U0F0bmZ4RVo1YzFPdkdzN1FFVzB4a1c5bU15YUpIc3YyOENMNEVsY1dVQjVfU29TVzJtSVpHMy1yTGNKMVFncGNmUlRSUll1Uzg?oc=5",
+   "id": "172be58d62",
+   "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0dWX0RGbVFpVmZHRmZpSUdVQUMwNmFsejUtRGcyVkVBY3FDVXhIRDBkY1pzWjNSTl9tamVpbWdHZzZzZmN0NzB5M0pNWGVmTmNadlFVYVZMUHhSNWE5WllCVmtYNFpWWV90eTFoeUpLbE5qRmktOEdzQUYwcHNONEU0QlA3S2xRWVB6WlBfQzctM0l2bFJVVW5QVzh1b3pIY3pxT2xONmtsams?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Universe Today",
    "region": "CA",
-   "date": "2026-11-13T17:34:22+00:00",
+   "date": "2026-11-13T17:51:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
    "id": "f329030e3f",
@@ -534,23 +534,6 @@
    "topic": "Society"
   },
   {
-   "id": "e0a7a220ad",
-   "title": "Heart Health Matters in Beef Herd",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pVDljY3dHSTBYemFKMWtoSE9zVEE3SmFXQ2RpYVY2WE5jOUxaQzZyZ0Q5S3hGbHdGMnZjRWRJTGxsNE9jNTBSNEZCaWFrc3NsdlhjTk04bWpCVmE2M19EUno2U21nbkd6NTc1QnpxbnB1Q1VWZnZMaERNT0Y4Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABP Daily",
-   "region": "CA",
-   "date": "2026-11-13T16:02:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "0843ddf5d6",
    "title": "This Week’s Sky at a Glance, 2026 November 14 – November 21",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lrNWtTSVQ4RE9pU1BOV1RLMHhhLU92OC1iWjNhcC1hNWotZFZ3VHNQdkFnMnptTGpyUmVuSWREeXQ4ZmlfOFJlX3VPcnE5U29qRy1tNW9XLUllaXpEZGxUT2dpNTlMSGpmNEF6QjJxeEtZdnBhQ0lOcUJPOG1DN0Ryd2s5V2ZNWDlyMHFBYw?oc=5",
@@ -566,6 +549,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "10c842c5cb",
+   "title": "Google opens AI glasses preorders with a privacy pitch to rival Meta",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zN0NvQ3dNV1dBSlVySjZab1pLeVJ3MkE3bTVyVUhwMndGWWRCM3dHbDR5R1VMN3JPTVIzWHdzQWEwV2NpbWRMT3NGRDlpaWJzSV9EN2lqUFJuNm1SZ0lvNy13dHdGNE5tU09ZdzlxQzVpQ1EzRnRrbFlfQXgwZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Rundown AI",
+   "region": "CA",
+   "date": "2026-11-13T13:28:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Tech"
   },
   {
    "id": "f52a80a710",
@@ -585,21 +585,21 @@
    "topic": "Tech"
   },
   {
-   "id": "2d3ed67aeb",
-   "title": "Canada to invest C$200 million in Woodfibre LNG to grow project's capacity, source says",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG9FMWVSeGhlb2hKb1JMN1VRZWNCWEsxR1pFanBrUGFEdkRUZmJySFh6SEk5RnU1WFc3U1NldWRNZVJONmU4VHhsb1lCTUxRZkVOcmxOS0pJODJCNjhaelJCbS01MWlVem1sUkpaYXFWVWVCVmVXUzBYOEVydlNZRVRVYUtmajl1NE5GSmMzczBPQzctd1I1NTNReGtGU3hiclZkSklsNmVnS1RfQ1BTVElnQ1V4WXktZnJlNlp3SWtuMVJoUHc?oc=5",
+   "id": "7d8e2d0154",
+   "title": "What we know after Jensen Huang resigns as Nvidia CEO",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDJxejRYdUdIc3FZcmtKVzhrVVhZRXZRSU02NTUtUU5LNU9XcTlNRWRtVDVFbHhSMmFoNGNZQTJINDZZRXl3WnlWa0RjcEVSY0tiRXRqNmp5Z3k0UEFfV1ptMVlfcV80M2h0RDJ4bXFnM2h5M20xMXRqVEUwMjVVZjVQTW1IZVRY?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "Yahoo! Finance Canada",
    "region": "CA",
-   "date": "2026-11-13T11:58:12+00:00",
+   "date": "2026-11-13T04:03:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "f1895c2e25",
@@ -619,21 +619,21 @@
    "topic": "Society"
   },
   {
-   "id": "ab5f5cfd9d",
-   "title": "Carney wraps meetings on security, trade with European leaders in Ireland",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5cXk4Vk9zVnltV21OZV9XVjJfaEN3V1RPMTlJVHdIZkxxeXp1Nmo1Wk1xRi1tYjlSYXZsams4bjhWYm5VZ1pUQm9mcDJWb1k2Ylo4X0NWY3lUYzZ4UmFpQXBmd3ZSb3hVaHllRjE2akUtNEZCY213SUFiT2Q2dw?oc=5",
+   "id": "db678a2cff",
+   "title": "Endometriosis care in Quebec inadequate, says women's health group in open letter",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXFxNWhKZS1NYU1TMk13WjgxY29WbW1QcVJMSFVtWWRGd3V3eWhPTEJteFNZdFRHd0U4NXF3Tm1zaE9FRmt6X245Q2Vhc3ZFaTh2VTBqUUtDSEZqcm1NZzhZM1hBcEo4bDVmUFdiWlpLaTFSd3JzbU9vaEtMakNRVmhVbE9HZU1S?oc=5",
    "summary": "",
    "image": "",
    "source": "CBC",
    "region": "CA",
-   "date": "2026-11-12T21:22:04+00:00",
+   "date": "2026-11-12T22:26:38+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ireland",
+    "country": "Canada",
     "place": "",
-    "flag": "🇮🇪"
+    "flag": "🇨🇦"
    },
-   "topic": "Society"
+   "topic": "Health"
   }
  ]
 }

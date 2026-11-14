@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T03:50:02.442754+00:00",
+ "updated": "2026-11-14T04:33:52.119609+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
   {
-   "id": "224abeea35",
-   "title": "「これは1枚しかないから…」矢口真里のお宝写真に驚きの価格ついた (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PUWdKTUNxUXl0bmJXQWxhbUVmVVo0djFlSHVCM1RoMDRYSjBnRUlZZ2NxYnI4a1ZSd3dTVVpGd0w0R2t3R0t5ZHN1MXRtMlctZm1sLXVpVk1wb1J0Z3c?oc=5",
+   "id": "1b62b92d73",
+   "title": "マイクロソフト365障害、20時間経て広範に復旧 謝罪し報告書公表へ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtejUzcVJudTFTbzBXQ29tSlhnUVQ4RXV1Q2pGNVdubzRLQWk3b0NRcTBqTkQ2OTRyVWNoM29COUpBb0did3Z0aFU0eUdHcm9yUHloTXEzYTZiSmxURmRNOXU3UnZmcjFpbkUzVQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "ライブドアニュース",
+   "source": "日本経済新聞",
    "region": "JP",
-   "date": "2026-11-13T23:05:00+00:00",
+   "date": "2026-11-14T03:43:11+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -21,14 +21,65 @@
    "topic": "Society"
   },
   {
-   "id": "f631a187cd",
-   "title": "Windows 11のライセンス認証不具合を修正--Microsoftが23H2向け臨時更新",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybDR5RW5CTGlqWldxQTM3TlpKT3ItdHRfcWlVT09YSm42S2UwSEo3MHJfa18wcm9GeEJTdTducThSTzlVV1FvLVRQOWlMTnhqX1E?oc=5",
+   "id": "6cbeb7d306",
+   "title": "「全部XSサイズの水着…」井桁弘恵、グラビア撮影での衝撃体験語る (2026年11月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tYmVaV28ybHZvMzdmZ2pWWjdFb0hvUkFVVGZkN1JTNTQxeDNFXzZKbWg2Z20yX0lFOXlhVm9Uc0VmRUdleTVvZmNRWGh6QXdCMURHTExfNmJULXZPMUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNET Japan",
+   "source": "ライブドアニュース",
    "region": "JP",
-   "date": "2026-11-13T22:50:00+00:00",
+   "date": "2026-11-14T02:55:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "37e19fa63c",
+   "title": "測量の作業中に突然岩が崩れ... 大きさ1メートル程の岩にはさまれる 現場は沢筋の「ガレ場」 29歳の男性が死亡【長野・天龍村】",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZURhUkpvcjBWWVZEMkZyWEJZWTRiR1JmTVVkZUVGcGd1R1lSaWw2aG9lX1F0bW1XT1NCZHpwZk11aEZ2VlZKVXBveDNZdmpwenRuSVNmUnhqa2pWTlI4T3pLT1ppRTVHSkg5Yw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ｄメニューニュース",
+   "region": "JP",
+   "date": "2026-11-14T00:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4a186d3211",
+   "title": "海老名2人死亡 ひき逃げ疑い、トラック運転の49歳会社員逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TTBPaFdlVzBFSW5ZS3B3NmMxaGRlM2txZGZQZUItdUw4YXMyTk5Ta2cxQnNLaGRmdzFFTE82TDl3OEhKQW5KN2R1Y0k3RjRNdDh6d0VDbGhfclFCQ3JKZk9xSkxCNE9Z?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "毎日新聞",
+   "region": "JP",
+   "date": "2026-11-13T23:28:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "224abeea35",
+   "title": "「これは1枚しかないから…」矢口真里のお宝写真に驚きの価格ついた (2026年11月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PUWdKTUNxUXl0bmJXQWxhbUVmVVo0djFlSHVCM1RoMDRYSjBnRUlZZ2NxYnI4a1ZSd3dTVVpGd0w0R2t3R0t5ZHN1MXRtMlctZm1sLXVpVk1wb1J0Z3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ライブドアニュース",
+   "region": "JP",
+   "date": "2026-11-13T23:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -72,14 +123,14 @@
    "topic": "Society"
   },
   {
-   "id": "634f394694",
-   "title": "堺雅人の出身高校が明らかに…ネット上で驚きの声「知りませんでした」 (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRV3pncnhGTmxUV01YdnE1a0Z4ZmloUzJpX1Uycm9XYnNUZ2lReEVUVS1fdkhNZ3oxb2ZPOFhrS2RnLXR2aWpLOWdlc1M0RXhERFVQODk1c1dSS09fcHc?oc=5",
+   "id": "b1699fd103",
+   "title": "テネリフェFWの急逝…衝突したアンドラGKは12試合の出場停止に「規則が許す最大レベルの処分」（DAZN News）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VWhidGxRRmVQQVdJb2JQV013eHlYS2pUM3ZSZlU0aDdlcENvTDRIUHN3NEh3SW5jVmlLbnV0b3VnMlFRU2YxdGlhMHl3QUdVdTJOZE5LQWI1eFZHVGtkRmFydkJGMFVEbzlPaDRrRWw0WVpkVTlzUW0tNEFYdXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "ライブドアニュース",
+   "source": "Yahoo!ニュース",
    "region": "JP",
-   "date": "2026-11-13T21:25:00+00:00",
+   "date": "2026-11-13T21:42:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -89,31 +140,14 @@
    "topic": "Society"
   },
   {
-   "id": "41435f34ed",
-   "title": "櫻井翔主演 占拠シリーズ第4弾 『XXXX占拠』放送決定！新春2時間スペシャルドラマとしてOA",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBleWxPTDRSem5KZFB0ckM5NUlETnpwTnhaT1NGTVQxeTBLQWJEblZRdFVYR3Bxd3pvajg0U3VDVVJxUXhxQlowTklhM1h1cnhnSzhRUUVKLUZfS090bGRjeHdSY3hDRGRiNl9qZHhn?oc=5",
+   "id": "fe65073dbe",
+   "title": "櫻井翔 占拠シリーズ第4弾 『XXXX占拠』放送決定にあたりコメント「毎回大きな喜びを感じながら撮影に臨んでいます」",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82NHZaMVdUSlExcXdXdkoyZ3RZYUlvSWVva0tWTkswN01LWXlZTVVHUWwzU1BhSjFaV185eEhqd1ozZGFfbG1qdzZFY29welhWQXJHQ042OGZfNWpEMEdVWENlZ1E5b2VDWlE1Q0dn?oc=5",
    "summary": "",
    "image": "",
    "source": "日本テレビ",
    "region": "JP",
    "date": "2026-11-13T21:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c86b2716d1",
-   "title": "アンソロピックCEO、IPO「期待上回る成果出す」 投資家需要は6倍",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WC1Vb0RveUh2U0Y5cmptYTVHRXBnSWdMenRMdDhseGtlbFFaM3VSUXg2Sno0STg1SVBYSTRqaEZTb0RMWVlkVlNYMkFDZWl2UXdteTY1VTJsMlVaREJTQzNYdDBWdzZ3MC1KWg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "日本経済新聞",
-   "region": "JP",
-   "date": "2026-11-13T21:18:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -157,40 +191,6 @@
    "topic": "Society"
   },
   {
-   "id": "1b62b92d73",
-   "title": "マイクロソフト365障害、20時間経て広範に復旧 謝罪し報告書公表へ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtejUzcVJudTFTbzBXQ29tSlhnUVQ4RXV1Q2pGNVdubzRLQWk3b0NRcTBqTkQ2OTRyVWNoM29COUpBb0did3Z0aFU0eUdHcm9yUHloTXEzYTZiSmxURmRNOXU3UnZmcjFpbkUzVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "日本経済新聞",
-   "region": "JP",
-   "date": "2026-11-13T20:43:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1771abad9c",
-   "title": "【アジアCS】韓国は侍ジャパンに5対9敗戦も、一時は4点ビハインドを追いつく奮闘 指揮官は選手を称賛「とてもありがたいと言いたい」（THE DIGEST）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBabnBhcXZTZWdKMjVrOXNCSEcxeGRKdjh1UnQ1dlZDS0xiSkZlMVlrOE1YNXd0MjNYalNQMjRvZ3pmTm9rZE40UkJyRHlGcjBPZ2tic3RBRHM4T2hERHVxNndhT2RiUFFRVFdyelBvM243c1p6SERvMHVwSTJmdTA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "日本経済新聞",
-   "region": "JP",
-   "date": "2026-11-13T20:43:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "09a95435fc",
    "title": "届いたその日から追加費用ゼロで遊び尽くす！「2026年版・無料PC VRゲーム＆体験おすすめ10選」を公開",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rMkxVWWE1eE9uOWkzU3FDOWRpYTdSLV9sdlFyMVFfS2YxN1BnNF9FS1hFWkZyRjRVWTNrcGZiZ2hzVEx1b3poc2hLQWJiTmowVElIMnJUTkxrWUg4V2FySFlyUDQ3a0tQc3c?oc=5",
@@ -199,23 +199,6 @@
    "source": "PR TIMES",
    "region": "JP",
    "date": "2026-11-13T13:00:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "98a7cde2fd",
-   "title": "タマホーム保険金“不正請求” 損保側が求めた「全店調査」など応じず 損保3社、タマホームを通じた火災保険の新規販売・募集の停止を検討も（2026年11月13日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OT0Q4OS1IN2hOMm1IckRoVDFmZzV5RkRxdVljMVdUOFA2VnZmOG1pSGdMTXlZay1LSUVLcjRRb2h4dFlDTXNjZV9JLTYxY3VQSnV3VERPTTJCdUhKeGVRbUhXeE1tSVVBREpkRDFRNkNUejJlNHNraWs4NkI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "日テレNEWS NNN",
-   "region": "JP",
-   "date": "2026-11-13T11:46:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

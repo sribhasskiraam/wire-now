@@ -62,6 +62,7 @@
   .actbar button{flex:1;color:#fff;font-weight:900;font-size:15px;padding:12px 4px;border-radius:12px;background:rgba(255,255,255,.08)}
   .story.held{transform:scale(.97);box-shadow:0 0 0 3px var(--acc)}
   .installbtn{display:none}
+  .byline{font-size:13px;font-weight:900;color:var(--ink);margin:2px 0 4px}
   .lead .t{font-size:24px;line-height:1.25} .lead .b{font-size:16px;-webkit-line-clamp:5} .lead .img{height:230px}
   .kick{font-size:12px;font-weight:900;letter-spacing:.06em;color:var(--acc);text-transform:uppercase;margin-bottom:4px}
   .fsec{background:var(--card);border-radius:22px;padding:6px 14px 8px;margin:0 0 14px;box-shadow:0 2px 0 var(--line)}
@@ -375,7 +376,7 @@ const TXT = {
   what_happened: ["What happened", "සිදුවූයේ කුමක්ද", "என்ன நடந்தது"],
   full_story: ["The full story", "සම්පූර්ණ කතාව", "முழு விவரம்"],
   why: ["Why it matters", "මෙය වැදගත් ඇයි", "இது ஏன் முக்கியம்"],
-  facts: ["Key facts", "ප්‍රධාන කරුණු", "முக்கிய தகவல்கள்"],
+  facts: ["Key information", "ප්‍රධාන තොරතුරු", "முக்கியத் தகவல்கள்"],
   next: ["What's next", "ඊළඟට කුමක්ද", "அடுத்து என்ன"],
   summary: ["Summary", "සාරාංශය", "சுருக்கம்"],
   from_src: ["From {s}", "{s} වෙතින්", "{s} இலிருந்து"],
@@ -491,6 +492,8 @@ const TXT = {
   sofar_s: ["{n} reports, oldest first. This section grows as the story goes on.", "වාර්තා {n}ක්, පැරණිම ඒවා මුලින්. කතාව ඉදිරියට යන විට මෙය වර්ධනය වේ.", "{n} செய்திகள், பழையவை முதலில். கதை தொடரும்போது இந்தப் பகுதி வளரும்."],
   lead_t: ["Top story", "ප්‍රධාන පුවත", "முதன்மைச் செய்தி"], latest_t: ["⏱️ Latest", "⏱️ නවතම", "⏱️ சமீபத்தியவை"],
   see_all: ["See all ›", "සියල්ල ›", "அனைத்தும் ›"],
+  byline1: ["✍️ Wire Now Desk · from the original report", "✍️ Wire Now පුවත් අංශය · මුල් වාර්තාවෙන්", "✍️ Wire Now செய்திப் பிரிவு · மூல அறிக்கையிலிருந்து"],
+  byline: ["✍️ Wire Now Desk · from {n} reports", "✍️ Wire Now පුවත් අංශය · වාර්තා {n}කින්", "✍️ Wire Now செய்திப் பிரிவு · {n} அறிக்கைகளிலிருந்து"],
   say_hello: ["This is the news from Wire Now.", "මේ Wire Now පුවත් ප්‍රකාශයයි.", "இது Wire Now செய்திகள்."],
   say_what: ["Here's what happened.", "සිදු වූයේ මෙයයි.", "நடந்தது இதுதான்."],
   say_why: ["Why does this matter?", "මෙය වැදගත් වන්නේ ඇයි?", "இது ஏன் முக்கியம்?"],
@@ -791,16 +794,18 @@ function slidesFor(s){
       : `<div class="ci noimg" style="--tc:var(--${esc(s.topic)},var(--acc))">${noPhoto}</div>`}
     <div class="cb">${s.warning ? `<span class="badge wrn">${T("warning")}</span>` : s.breaking ? `<span class="badge brk">${T("breaking")}</span>` : ""}${tagHtml(s.topic)}${s.location ? `<div class="loc">${esc(locText(s))}</div>` : ""}<h1>${esc(titleOf(s))}</h1>
     ${untranslated(s) ? `<div class="note" style="margin-bottom:6px">${T("translating")}</div>` : ""}
+    ${c ? `<div class="byline">${(c.sources || []).length > 1 ? T("byline", {n: c.sources.length}) : T("byline1")}</div>` : ""}
     <div class="note">${ago(s.date)}${srcNote} · <a href="${esc(s.link)}" target="_blank" rel="noopener" style="color:var(--acc);font-weight:800">${T("read_on", {s: esc(s.source)})}</a></div>
     <div class="hint">${more ? T("hint_more") : (LIVE ? T("hint_sum") : T("hint_src"))}</div></div></div>`);
   if(c){
     const card = (emoji, label, pieces) => pieces.forEach((pc, i) => out.push(`<div class="sc"><div class="emoji">${emoji}</div><div class="lbl">${label}${pieces.length > 1 ? " · " + (i + 1) + "/" + pieces.length : ""}</div><div class="txt ${pc.length > 480 ? "l" : pc.length > 300 ? "m" : ""}">${esc(pc)}</div></div>`));
+    // our signature: the KEY INFORMATION first (the key facts), then the full story
+    const facts = c.key_facts || [], groups = [];
+    for(let i = 0; i < facts.length; i += 4) groups.push(facts.slice(i, i + 4));
+    groups.forEach((g, gi) => out.push(`<div class="sc"><div class="emoji">🗝️</div><div class="lbl">${T("facts")}${groups.length > 1 ? " · " + (gi + 1) + "/" + groups.length : ""}</div><ul>${g.map(f => `<li>${esc(f)}</li>`).join("")}</ul></div>`));
     card("📌", T("what_happened"), splitText(c.what_happened));
     card("📖", T("full_story"), (c.details || []).flatMap(d => splitText(d)));
     if(c.why_it_matters) card("💡", T("why"), splitText(c.why_it_matters));
-    const facts = c.key_facts || [], groups = [];
-    for(let i = 0; i < facts.length; i += 4) groups.push(facts.slice(i, i + 4));
-    groups.forEach((g, gi) => out.push(`<div class="sc"><div class="emoji">🔢</div><div class="lbl">${T("facts")}${groups.length > 1 ? " · " + (gi + 1) + "/" + groups.length : ""}</div><ul>${g.map(f => `<li>${esc(f)}</li>`).join("")}</ul></div>`));
     if(c.whats_next) card("➡️", T("next"), splitText(c.whats_next));
   } else if(hasSum){
     out.push(`<div class="sc"><div class="emoji">📰</div><div class="lbl">${T("from_src", {s: esc(srcOf(s.source))})}</div><div class="txt">${esc(lang === "en" ? s.summary : (DYN.get(s.summary) || T("translating")))}</div></div>`);

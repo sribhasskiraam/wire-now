@@ -4,43 +4,145 @@
 <meta charset="utf-8">
 <link rel="icon" type="image/png" href="favicon.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>About Wire Now: Sri Lanka news, explained simply</title>
-<meta name="description" content="Wire Now brings you Sri Lankan news first, then world news, as short fact-checked summaries with links to the original reports.">
+<meta name="theme-color" content="#FF6B4A">
+<title>About Wire Now: news and the key information, explained</title>
+<meta name="description" content="Wire Now: Sri Lankan news first, then the world. The key information of every story, checked across several reports, in English, Sinhala and Tamil.">
 <style>
-  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#FFF8F3;color:#1E1B2E;line-height:1.65}
+  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,"Noto Sans Sinhala","Noto Sans Tamil",sans-serif;background:#FFF8F3;color:#1E1B2E;line-height:1.65;-webkit-tap-highlight-color:transparent}
   main{max-width:680px;margin:0 auto;padding:18px 18px 60px}
   a{color:#E5532F}
   .top{display:flex;align-items:center;gap:8px;font-weight:900;font-size:20px;text-decoration:none;color:#1E1B2E}
-  .bolt{width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,#FF6B4A,#FFB23F);display:grid;place-items:center}
+  .bolt{width:32px;height:32px;border-radius:10px;object-fit:cover}
+  .langs{float:right;display:flex;gap:6px;margin-top:2px}
+  .langs button{border:2px solid #F0E6DE;background:#fff;border-radius:999px;padding:4px 10px;font-weight:800;font-size:13px;color:#1E1B2E}
+  .langs button.on{background:#1E1B2E;color:#fff;border-color:#1E1B2E}
   h1{font-size:28px;line-height:1.25;margin:22px 0 8px}
   h2{font-size:18px;margin:26px 0 6px}
   .card{background:#fff;border-radius:18px;padding:16px 18px;box-shadow:0 2px 0 #F0E6DE;margin:14px 0}
-  .btn{display:inline-block;background:#229ED9;color:#fff;font-weight:800;text-decoration:none;padding:11px 16px;border-radius:12px;margin-top:6px}
+  .btn{display:inline-block;background:#229ED9;color:#fff;font-weight:800;text-decoration:none;padding:11px 16px;border-radius:12px;margin:6px 6px 0 0}
+  [data-l]{display:none} body.en [data-l=en], body.si [data-l=si], body.ta [data-l=ta]{display:block}
 </style>
 </head>
-<body>
+<body class="en">
 <main>
-  <a class="top" href="./"><img src="logo.png" alt="" class="bolt" style="object-fit:cover">Wire Now</a>
+  <div class="langs"><button data-set="en">EN</button><button data-set="si">සිං</button><button data-set="ta">தமி</button></div>
+  <a class="top" href="./"><img src="logo.png" alt="" class="bolt">Wire Now</a>
 
-  <h1>About Wire Now</h1>
-  <p>Wire Now is a free news service for people in Sri Lanka. It brings you <b>Sri Lankan news first, then the world</b>, explained in short cards you can read in under a minute.</p>
+  <!-- ================= ENGLISH ================= -->
+  <section data-l="en">
+    <h1>About Wire Now</h1>
+    <p>Wire Now is a free news app for everyone in Sri Lanka: <b>Sri Lankan news first, then the world</b>. Our idea is simple: give you the <b>key information</b> of every story first (what happened, why it matters, the key facts and what comes next), then the full details if you want them, in English, Sinhala or Tamil.</p>
 
-  <h2>How it works</h2>
-  <div class="card">
-    <p><b>1. We follow the news.</b> Every 15 minutes, Wire Now checks Sri Lankan and international news outlets, and puts the stories reported by the most outlets first.</p>
-    <p><b>2. We read across sources.</b> For big stories, we read several reports of the same event. Where outlets disagree, for example on a number of people injured, we show both.</p>
-    <p><b>3. We summarise and fact-check.</b> An AI writes the summary using only facts from those reports. Every number and name is then checked automatically against the original articles, and a second AI checks every claim. A summary that fails is not published.</p>
-    <p><b>4. We always link the source.</b> Every story links to the original report, so you can read the full article.</p>
-  </div>
+    <h2>How it works</h2>
+    <div class="card">
+      <p><b>1. We follow the news.</b> Every 15 minutes, Wire Now checks Sri Lankan and international news outlets. Stories reported by more outlets come first.</p>
+      <p><b>2. We read across sources.</b> For each story we read several reports of the same event. Where outlets disagree, we show both versions and who said what.</p>
+      <p><b>3. We summarise and check.</b> An AI writes the summary using only facts from those reports. Every number and name is checked against the originals, and a second AI from a different company checks every claim. A summary that fails is not published.</p>
+      <p><b>4. We always link the source.</b> Every story links to the original report.</p>
+      <p><b>5. We remember.</b> Facts from every checked story go into the Wire Now Fact Base, with who reported them and when. It powers "Is this true?", the story so far, and our explanations.</p>
+    </div>
 
-  <h2>What we are not</h2>
-  <p>Wire Now does not do its own reporting or take sides. Our summaries are only as accurate as the reports they come from, so for important decisions, please read the original article.</p>
+    <h2>Editorial standards</h2>
+    <div class="card">
+      <p><b>Accuracy first.</b> Only facts from published reports. No guesses, no invented details. Numbers and names must match the source exactly.</p>
+      <p><b>Fairness.</b> We do not take sides. When reports disagree, both versions are shown.</p>
+      <p><b>Confirmed means confirmed.</b> A fact is marked confirmed only when two or more independent outlets report it.</p>
+      <p><b>"Is this true?"</b> answers only with evidence from reliable reports and fact-checkers. With no reliable source, the answer is "can't verify", never a guess.</p>
+      <p><b>Every language, properly.</b> Translations must be complete and correct, or the story waits until they are.</p>
+      <p><b>No drawn faces.</b> We never make up pictures of real people.</p>
+    </div>
 
-  <h2>Contact &amp; corrections</h2>
-  <p>Spotted a mistake, or have a suggestion? Message us on Telegram and we'll look into it.</p>
-  <a class="btn" href="https://t.me/wirenow_lk">Wire Now on Telegram</a>
+    <h2>Corrections</h2>
+    <p>When we get something wrong, we fix it and learn from it: every mistake becomes an automatic check so it cannot happen again. Tell us about a mistake through our Telegram bot.</p>
 
-  <p style="margin-top:30px"><a href="./">← Back to the news</a></p>
+    <h2>What we are not</h2>
+    <p>Wire Now does not do its own reporting yet. Our summaries are only as accurate as the reports they come from, so for important decisions, please read the original article.</p>
+
+    <h2>Contact</h2>
+    <a class="btn" href="https://t.me/wirenow_news_bot?start=tip">📣 Send news or report a mistake</a>
+    <a class="btn" href="https://t.me/wirenow_lk" style="background:#1E1B2E">Wire Now on Telegram</a>
+    <p style="margin-top:30px"><a href="./">← Back to the news</a></p>
+  </section>
+
+  <!-- ================= සිංහල ================= -->
+  <section data-l="si">
+    <h1>Wire Now ගැන</h1>
+    <p>Wire Now යනු ශ්‍රී ලංකාවේ සැමට නොමිලේ ලැබෙන පුවත් යෙදුමකි: <b>පළමුව ශ්‍රී ලංකා පුවත්, පසුව ලෝකය</b>. අපගේ අදහස සරලයි: සෑම පුවතකම <b>ප්‍රධාන තොරතුරු</b> (සිදු වූයේ කුමක්ද, එය වැදගත් වන්නේ ඇයි, ප්‍රධාන කරුණු සහ ඊළඟට සිදුවන දේ) මුලින්ම ලබා දීම, ඔබට අවශ්‍ය නම් සම්පූර්ණ විස්තර පසුව. සිංහල, දෙමළ හෝ ඉංග්‍රීසි භාෂාවෙන්.</p>
+
+    <h2>එය ක්‍රියා කරන ආකාරය</h2>
+    <div class="card">
+      <p><b>1. අපි පුවත් අනුගමනය කරමු.</b> සෑම මිනිත්තු 15කට වරක්ම Wire Now ශ්‍රී ලාංකික සහ ජාත්‍යන්තර පුවත් මාධ්‍ය පරීක්ෂා කරයි. වැඩි මාධ්‍ය වාර්තා කළ පුවත් මුලින් පෙන්වයි.</p>
+      <p><b>2. අපි මූලාශ්‍ර කිහිපයක් කියවමු.</b> එකම සිදුවීමක වාර්තා කිහිපයක් අපි කියවමු. මාධ්‍ය එකඟ නොවන විට, අනුවාද දෙකම සහ කවුරු කුමක් කීවේද යන්න අපි පෙන්වමු.</p>
+      <p><b>3. අපි සාරාංශ කර පරීක්ෂා කරමු.</b> AI එකක් එම වාර්තාවල කරුණු පමණක් භාවිතා කර සාරාංශය ලියයි. සෑම අංකයක්ම සහ නමක්ම මුල් වාර්තා සමඟ සසඳා බලන අතර, වෙනත් සමාගමක AI එකක් සෑම ප්‍රකාශයක්ම පරීක්ෂා කරයි. අසමත් වන සාරාංශයක් පළ නොකෙරේ.</p>
+      <p><b>4. අපි සැමවිටම මූලාශ්‍රය සම්බන්ධ කරමු.</b> සෑම පුවතකම මුල් වාර්තාවට සබැඳියක් ඇත.</p>
+      <p><b>5. අපි මතක තබා ගනිමු.</b> පරීක්ෂා කළ සෑම පුවතකම කරුණු, ඒවා වාර්තා කළේ කවුද සහ කවදාද යන්න සමඟ Wire Now කරුණු දත්ත ගබඩාවට එකතු වේ.</p>
+    </div>
+
+    <h2>සංස්කරණ ප්‍රමිතීන්</h2>
+    <div class="card">
+      <p><b>නිරවද්‍යතාව මුලින්ම.</b> පළ වූ වාර්තාවල කරුණු පමණි. අනුමාන නැත, ගොතන ලද විස්තර නැත.</p>
+      <p><b>සාධාරණත්වය.</b> අපි කිසිදු පාර්ශවයක් නොගනිමු. වාර්තා එකඟ නොවන විට අනුවාද දෙකම පෙන්වයි.</p>
+      <p><b>තහවුරු යනු තහවුරුමයි.</b> ස්වාධීන මාධ්‍ය දෙකක් හෝ වැඩි ගණනක් වාර්තා කළ විට පමණක් කරුණක් තහවුරු ලෙස සලකුණු කෙරේ.</p>
+      <p><b>"මෙය සත්‍යද?"</b> විශ්වාසදායක වාර්තා සහ කරුණු පරීක්ෂකයන්ගේ සාක්ෂි මගින් පමණක් පිළිතුරු දෙයි. විශ්වාසදායක මූලාශ්‍රයක් නැත්නම් පිළිතුර "තහවුරු කළ නොහැක" වේ.</p>
+      <p><b>සෑම භාෂාවකින්ම නිවැරදිව.</b> පරිවර්තන සම්පූර්ණ සහ නිවැරදි විය යුතුය, එසේ නොමැති නම් පුවත ඒවා සූදානම් වන තුරු රැඳී සිටී.</p>
+      <p><b>ඇඳි මුහුණු නැත.</b> සැබෑ පුද්ගලයින්ගේ පින්තූර අපි කිසිදා මවා නොගනිමු.</p>
+    </div>
+
+    <h2>නිවැරදි කිරීම්</h2>
+    <p>අපි වැරදීමක් කළ විට, අපි එය නිවැරදි කර එයින් ඉගෙන ගනිමු: සෑම වැරැද්දක්ම නැවත සිදු නොවන ලෙස ස්වයංක්‍රීය පරීක්ෂාවක් බවට පත් වේ. අපගේ Telegram බොට් හරහා වැරැද්දක් ගැන අපට දන්වන්න.</p>
+
+    <h2>අපි නොවන දේ</h2>
+    <p>Wire Now තවමත් තමන්ගේම වාර්තාකරණයක් නොකරයි. අපගේ සාරාංශ ඒවා ලබා ගන්නා වාර්තා තරමට පමණක් නිවැරදිය. වැදගත් තීරණ සඳහා කරුණාකර මුල් ලිපිය කියවන්න.</p>
+
+    <h2>සම්බන්ධ වන්න</h2>
+    <a class="btn" href="https://t.me/wirenow_news_bot?start=tip">📣 පුවත් එවන්න හෝ වැරැද්දක් දන්වන්න</a>
+    <a class="btn" href="https://t.me/wirenow_lk" style="background:#1E1B2E">Telegram හි Wire Now</a>
+    <p style="margin-top:30px"><a href="./">← පුවත් වෙත ආපසු</a></p>
+  </section>
+
+  <!-- ================= தமிழ் ================= -->
+  <section data-l="ta">
+    <h1>Wire Now பற்றி</h1>
+    <p>Wire Now என்பது இலங்கையில் உள்ள அனைவருக்குமான இலவசச் செய்தி செயலி: <b>முதலில் இலங்கைச் செய்திகள், பின்னர் உலகம்</b>. எங்கள் நோக்கம் எளிது: ஒவ்வொரு செய்தியின் <b>முக்கியத் தகவல்களை</b> (என்ன நடந்தது, அது ஏன் முக்கியம், முக்கிய உண்மைகள், அடுத்து என்ன) முதலில் தருவது, நீங்கள் விரும்பினால் முழு விவரங்கள் பின்னர். தமிழ், சிங்களம் அல்லது ஆங்கிலத்தில்.</p>
+
+    <h2>இது எப்படி இயங்குகிறது</h2>
+    <div class="card">
+      <p><b>1. நாங்கள் செய்திகளைப் பின்தொடர்கிறோம்.</b> ஒவ்வொரு 15 நிமிடத்திற்கும் Wire Now இலங்கை மற்றும் சர்வதேச செய்தி ஊடகங்களைச் சரிபார்க்கிறது. அதிக ஊடகங்கள் வெளியிட்ட செய்திகள் முதலில் வரும்.</p>
+      <p><b>2. பல ஆதாரங்களைப் படிக்கிறோம்.</b> ஒரே நிகழ்வு பற்றிய பல அறிக்கைகளை நாங்கள் படிக்கிறோம். ஊடகங்கள் வேறுபடும்போது, இரண்டு பதிப்புகளையும் யார் என்ன சொன்னார்கள் என்பதையும் காட்டுகிறோம்.</p>
+      <p><b>3. சுருக்கி, சரிபார்க்கிறோம்.</b> அந்த அறிக்கைகளில் உள்ள உண்மைகளை மட்டும் பயன்படுத்தி ஒரு AI சுருக்கத்தை எழுதுகிறது. ஒவ்வொரு எண்ணும் பெயரும் மூல அறிக்கைகளுடன் ஒப்பிடப்படுகின்றன; வேறொரு நிறுவனத்தின் AI ஒவ்வொரு கூற்றையும் சரிபார்க்கிறது. தோல்வியடையும் சுருக்கம் வெளியிடப்படாது.</p>
+      <p><b>4. எப்போதும் மூலத்தை இணைக்கிறோம்.</b> ஒவ்வொரு செய்தியிலும் மூல அறிக்கைக்கான இணைப்பு உள்ளது.</p>
+      <p><b>5. நினைவில் வைத்துக்கொள்கிறோம்.</b> சரிபார்க்கப்பட்ட ஒவ்வொரு செய்தியின் உண்மைகளும், அவற்றை யார் எப்போது வெளியிட்டார்கள் என்பதுடன் Wire Now உண்மைத் தரவுத்தளத்தில் சேமிக்கப்படுகின்றன.</p>
+    </div>
+
+    <h2>ஆசிரியர் தரநிலைகள்</h2>
+    <div class="card">
+      <p><b>துல்லியமே முதன்மை.</b> வெளியான அறிக்கைகளில் உள்ள உண்மைகள் மட்டுமே. ஊகங்களோ புனையப்பட்ட விவரங்களோ இல்லை.</p>
+      <p><b>நடுநிலைமை.</b> நாங்கள் எந்தப் பக்கமும் சாய்வதில்லை. அறிக்கைகள் வேறுபடும்போது இரண்டு பதிப்புகளும் காட்டப்படும்.</p>
+      <p><b>உறுதிப்படுத்தப்பட்டது என்றால் உறுதியானது.</b> இரண்டு அல்லது அதற்கு மேற்பட்ட சுயாதீன ஊடகங்கள் வெளியிட்டால் மட்டுமே ஒரு உண்மை உறுதிப்படுத்தப்பட்டதாகக் குறிக்கப்படும்.</p>
+      <p><b>"இது உண்மையா?"</b> நம்பகமான அறிக்கைகள் மற்றும் உண்மை சரிபார்ப்பாளர்களின் ஆதாரங்களைக் கொண்டு மட்டுமே பதிலளிக்கிறது. நம்பகமான ஆதாரம் இல்லையெனில் பதில் "உறுதிப்படுத்த முடியவில்லை".</p>
+      <p><b>ஒவ்வொரு மொழியிலும் சரியாக.</b> மொழிபெயர்ப்புகள் முழுமையாகவும் சரியாகவும் இருக்க வேண்டும்; இல்லையெனில் அவை தயாராகும் வரை செய்தி காத்திருக்கும்.</p>
+      <p><b>வரைந்த முகங்கள் இல்லை.</b> உண்மையான மனிதர்களின் படங்களை நாங்கள் ஒருபோதும் உருவாக்குவதில்லை.</p>
+    </div>
+
+    <h2>திருத்தங்கள்</h2>
+    <p>நாங்கள் தவறு செய்தால், அதைத் திருத்தி அதிலிருந்து கற்றுக்கொள்கிறோம்: ஒவ்வொரு தவறும் மீண்டும் நிகழாமல் தடுக்கும் தானியங்கிச் சரிபார்ப்பாக மாறுகிறது. எங்கள் Telegram போட் மூலம் ஒரு தவறைத் தெரிவியுங்கள்.</p>
+
+    <h2>நாங்கள் எது அல்ல</h2>
+    <p>Wire Now இன்னும் சொந்தமாகச் செய்தி சேகரிப்பதில்லை. எங்கள் சுருக்கங்கள் அவை பெறப்பட்ட அறிக்கைகளின் அளவுக்கே துல்லியமானவை. முக்கிய முடிவுகளுக்கு, தயவுசெய்து மூலக் கட்டுரையைப் படியுங்கள்.</p>
+
+    <h2>தொடர்பு கொள்ள</h2>
+    <a class="btn" href="https://t.me/wirenow_news_bot?start=tip">📣 செய்தி அனுப்புங்கள் அல்லது தவறைத் தெரிவியுங்கள்</a>
+    <a class="btn" href="https://t.me/wirenow_lk" style="background:#1E1B2E">Telegram இல் Wire Now</a>
+    <p style="margin-top:30px"><a href="./">← செய்திகளுக்குத் திரும்பு</a></p>
+  </section>
 </main>
+<script>
+  // the same language as the rest of the app (remembered on this phone)
+  const pick = l => { document.body.className = l; document.documentElement.lang = l;
+    document.querySelectorAll("[data-set]").forEach(b => b.classList.toggle("on", b.dataset.set === l)); };
+  let l0 = "en"; try{ const l = localStorage.getItem("wn_lang"); if(l === "si" || l === "ta") l0 = l; }catch(_){}
+  pick(l0);
+  document.querySelectorAll("[data-set]").forEach(b => b.onclick = () => { pick(b.dataset.set); try{ localStorage.setItem("wn_lang", b.dataset.set); }catch(_){} });
+</script>
 </body>
 </html>

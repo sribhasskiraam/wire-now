@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "countries": {
   "IN": {
    "name": "India",
@@ -39,11 +39,11 @@
   },
   "SG": {
    "name": "Singapore",
-   "count": 32
+   "count": 31
   },
   "MY": {
    "name": "Malaysia",
-   "count": 34
+   "count": 33
   },
   "PH": {
    "name": "Philippines",
@@ -63,7 +63,7 @@
   },
   "KE": {
    "name": "Kenya",
-   "count": 32
+   "count": 31
   },
   "ZA": {
    "name": "South Africa",
@@ -79,11 +79,11 @@
   },
   "DE": {
    "name": "Germany",
-   "count": 34
+   "count": 33
   },
   "JP": {
    "name": "Japan",
-   "count": 9
+   "count": 8
   },
   "IT": {
    "name": "Italy",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
@@ -38,6 +38,23 @@
    "topic": "Society"
   },
   {
+   "id": "d9f2c7b471",
+   "title": "接触GKに12試合出場停止 FW選手の胸に膝、心停止で死去 スペイン2部リーグ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRR0hJckMxV1VQMmwydWphM0RUdDA3QVZYV1JKM3hIMWo1bk9CWHlQYThQb0lrOGw5YWUtRy1nTVhacE1HZUdWQVNMU3paQ1NocnVpbzVXbndpUlVFUWV1VXpGYVBkRWNibDBOaUhQTjhPeGk4NlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "産経ニュース",
+   "region": "JP",
+   "date": "2026-11-14T04:16:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4a186d3211",
    "title": "海老名2人死亡 ひき逃げ疑い、トラック運転の49歳会社員逮捕",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TTBPaFdlVzBFSW5ZS3B3NmMxaGRlM2txZGZQZUItdUw4YXMyTk5Ta2cxQnNLaGRmdzFFTE82TDl3OEhKQW5KN2R1Y0k3RjRNdDh6d0VDbGhfclFCQ3JKZk9xSkxCNE9Z?oc=5",
@@ -46,40 +63,6 @@
    "source": "毎日新聞",
    "region": "JP",
    "date": "2026-11-13T23:28:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cd5f00ba08",
-   "title": "九州北部で夜遅くに非常に激しい雨 気温は高めで20℃超えの所も 今日14日の天気(気象予報士 日直主任)",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyQ3FXdUpKWTB3aXV2cGM0S0tIZDg4UWRYSWJudjhTYnpPT1ZraVBHS1hkTzRWNm5LQmU1NmMxaWdsajBJSlV3YThXd054OUhzSTRGekdmbWZ0OVZraFhTaWpjMHVrQjBQT3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "tenki.jp",
-   "region": "JP",
-   "date": "2026-11-13T23:15:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f631a187cd",
-   "title": "Windows 11のライセンス認証不具合を修正--Microsoftが23H2向け臨時更新",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybDR5RW5CTGlqWldxQTM3TlpKT3ItdHRfcWlVT09YSm42S2UwSEo3MHJfa18wcm9GeEJTdTducThSTzlVV1FvLVRQOWlMTnhqX1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNET Japan",
-   "region": "JP",
-   "date": "2026-11-13T22:50:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

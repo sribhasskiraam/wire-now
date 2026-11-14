@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
@@ -119,6 +119,40 @@
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "18fd51c8a4",
+   "title": "Albrim Pay launches Small Small App, recognises first business partners",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaS1ZMFoxWkFQaGxhX2FkNDJWdXhWYjhtY0w1eWpFN0duLTdzNEJwRG5salVkT0ZwM0h4VFNZSUVGQzBZc0h6TWNUaF96NHR4Q0dsZkplUEx0VnZOTEpBMGlsNzFRT2c4d2Z1dDhYbWYtaEVOVUx0ZTNLZ1NWNzNjMTkzYS1KNGNzdzN6MkpIalQtbUpLcXhieVI2NWU4ZVRBT3RKMGxyZkRsd2ZKbDBjMzdBeGV2VFlrUWQyNEpn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GBC Ghana Online",
+   "region": "GH",
+   "date": "2026-11-14T04:40:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "01d58c0798",
+   "title": "What we know about the longest US nationwide flight ground stoppage since 9/11",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GH",
+   "date": "2026-11-14T03:45:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },

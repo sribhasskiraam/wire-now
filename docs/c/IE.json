@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
@@ -29,23 +29,6 @@
    "source": "The Irish Times",
    "region": "IE",
    "date": "2026-11-14T06:03:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7aba801e65",
-   "title": "Here’s what happened when... I tried really resting",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0F6Q041bDBQOEJsSFU0ZEhOelNTYjQ2OEpvY3BFOVJFcGo5WlgzZW93UmloUUloT1laY19zUTR2aVBraS16SDR6a2dvU1U5d0VJanBxMnhFUW9YS3dIOE1QOWVNWWxTaW15QXpGVktna29iOE9SeEhpT2Y5dGc1Q0pMQzBVY3F5WGtNX1paSEFjZ29TUEg3NU5iRExYZDdJZkN1aUxmQ0JKOGcteEtRUUpoQkZnRDUzajBRMWZn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-14T05:47:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -486,23 +469,6 @@
    "topic": "Tech"
   },
   {
-   "id": "dfbe1b7e66",
-   "title": "Frank McNally: Welcoming Taoiseach finds hugs and kisses the first political pitfall at Dublin’s EPC summit",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc2lMZXpnNzI1cTJOSDVZYmNNVW5weHRQbjFmdm1zdGVZWE9LRmNEZTVJWXA5dXVtMmZ0ZlJvYVhMNWJIOElyS1l2TFFxeUhka1ptQ3FVaG04VWl5LUI1MF9VbGotNFJBeU1ZdXdhTmVNeEZabDl2MEdMMFQ3ZkdfeDBrSWc2S1lUNjJ5OUVEdE1fXzVmZEpOSkRfU1hXeE04V0RMTzhLWURCNldNbzJQb1Y3MFhTZjRBNmtPaGdKeFpvYWE3a1kwWXZNWlEwWVBTcGtKQ0FZQUphQU1naEo5RVVPUWc4Si1Bbnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BreakingNews.ie",
-   "region": "IE",
-   "date": "2026-11-13T08:12:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1a823c0ad7",
    "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2Z0JHS0I2N29wcVZJN0V1a2ZLWkNxcV9QdVpEUThncUVleGJSRUNKblFOd3I3U3QxeDA4S1lzcnNRTFFYeWZmSXB2TGFWWVJlQl9MV3JoakJ4dnc?oc=5",
@@ -520,14 +486,14 @@
    "topic": "Society"
   },
   {
-   "id": "457d61b274",
-   "title": "Springboks battle looms large in Andy Farrell’s selection for Fiji clash",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGV3M2FvM1ZwVi13LUdTMlNIUTgzaW5Kc18yMFFTdGJXb3VYZHFER0ZNdTl3djQ2ODRBLUxKZ0F4RWQ0akQ4M0U5LXZieGwxelFPOWNsWjhDdk1ZdWd4ZnpBNEVlWV9kdksxRk5YRDZVczUyRXZ2alh2Wlk4UW0zdV9mSDJCY1hjelE2Z0dQUGQxZC00UlhTYzdON1N6YnNmTlIzQWZUeXIzNTZiUEM2U1ExNjdpdEFyQ1RjMFZDUQ?oc=5",
+   "id": "a69b0ad468",
+   "title": "Taoiseach rejects criticisms of major European summit as a talking shop - so what is happening on Friday?",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSE1tdjduZ1RYTGhsQlNaVlN0VzY4V05KS01CTUkwaWV0LTkwQ2V3ZG1EQUNvSTZOczA2ejdHVGxTcDRpVnBYRTZKTWtsalI2dWtGa3pCY1ZwUUltb0dBd0NXZ0R2X3RrblFVRzVtb1JuMVU0cV9PdFppdS1ndVFmR0ltWDBEVHd5MFZNLUNnaFVIY2NUVlhkNkN1VXhYbVBlNkhWSFBMcEFfXzVQbk94STdJOXNMdmpuY0Q2UUF4N3JXeXl5dVE0blB1UXVGX3M4SU1jckJQaG1PUGM1WXhETENKV0tsRElnTHZaZkJYZ1FYRDhKTGdLTTlB?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Times",
+   "source": "Irish Independent",
    "region": "IE",
-   "date": "2026-11-13T06:00:39+00:00",
+   "date": "2026-11-13T06:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",

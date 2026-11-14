@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
   {
+   "id": "b172198d97",
+   "title": "HTLS 2026 LIVE: Tata Trusts Chairman Noel Tata speaks at HT Leadership Summit | Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWkNaQVZxWWEwdERsTVRrX0tlQVVXY0ZaMnlqMVQ2ZzlCY2drc0FWVmZRTU8xM0hiS3k0NXdmMjRoRE5ISGpfX0U2aHFTUEhGcmRYWk9zZVdtU0RXcU1FcXpvZ3pZUEpudkNLZDhfcy1oVkJWWEpTZzdKNkVUVGhhQm00N3lRTnNudW1Ob2lkZFp4Nm9XVl9jVjBSZURGVWladUdOcXFQLUhuWFVoTkRkdWFGcUZhVVY5SmtEcXFLemJpRUFkVTZlWEFGRnAtaHRFdl9aNGNxWnk2X2hKcUJ5SVpsV0xNYmVZSmNPTEw2MkdZTUZqZHFsZWR6Tm5CdDRseFRDWEtiV1pNbmfSAZACQVVfeXFMTWxybkZtNGROLThNTE1qV0R0S3NjTzRla1dxTHd6c1hjTXAzdkFQdVhVVF9VXzcwTlNWalpGd2UySVBXazFPQ2hwWmdYaWN5Y2NtVHRuUTlHc0cxM1dpWnhjTktYZlNFMU40MVlHSkIyc1RFc0Vjb0g1cE85WGh6Qk9sanlZMURfX1QwSnlsOGxXZ1dKcWoyYnVSWHRDNFNWNFoyZmtNaFQ2OGpzd2VkMjJxNnh3aWJfNG5ldk9IWlBETW5FckxnMHRHYWRHM2pSY2dKSmxzX0ppcWRpY0pWbU5MYnF6R0hYaUVvTlIxaGdDZVhwTVVVQm1JZEFRQi1vZG1NSjBzUWVfWk5hZm9hWDI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Hindustan Times",
+   "region": "IN",
+   "date": "2026-11-14T07:36:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9395451d7f",
-   "title": "India vs Pakistan Live Score, U19 Asia Cup Final: PAK 210/2 vs IND in Al Amerat",
+   "title": "India vs Pakistan Live Score, U19 Asia Cup Final: PAK 197/2 vs IND at Al Amerat",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORVdnaS12SnlCdEJZYWZYZHlNSkZ3MjdvZUs2V2hSVTI3Mm9mYkZzSXNYREQ2SWVhZ0RvYTRxaDJmZXV2Yl8tZnJZTDB2R2xuek9wWUdSWGFOS3FPaHkyeVZROUtmOUtXZXUwSnVXOHNNOVB4VjlraF9UZjZyTnN5THY4al9iV1hxYWRNRXk3ek53N2lfeWRYeXpNNm4tTDUtbWxibDRfSWNyOWRXYVVaLWp6Rlh1MVJqbWczRVNTYUlZODM2SHpyX2xtcUgxNF9pQVBOMEV3OGZlYUpNckhEdjlsMklFd2hnakowQl9NdmlycUHSAfoBQVVfeXFMT3pXT1dyVGpVbDdOaTFVeUJFallBM3I3R251NFpsQURNMnZPZTE1bFY4YmtVRjVhMDBDYWlfaVRvZTVBRnFJNDkyVWhid3B1bC1HTW5wUWliOVo1Tm1GUTJUdUY1VHBVeGlONFZpcVFxLXQ5Y1Z2azZOMFFNNzlsRk14X1pRMW9Gb1FzcWdJMkZ3UWVXTU4zaUpWT3V1WTg1Rkx3SENTTVhDU2hZbUpmNmRObFUwMkpTUzZDaTVXbG02WFZnYjQ4M2VKaE9PQ3ZKY2ZkZDlERzFweDhzYjg0MXNuMkYtdDNtLTdCbWN6ZENPdGtubzBmX1FtQQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The Indian Express",
    "region": "IN",
-   "date": "2026-11-14T07:31:47+00:00",
+   "date": "2026-11-14T07:34:46+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -58,6 +75,23 @@
    "topic": "Society"
   },
   {
+   "id": "7fd82a479b",
+   "title": "Samsung announces Google co-developed pricing and sale details of its smart glasses",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORy1QQ2tlQmN3ZUZSeTR1VUU0OVJtOXgtVDBXNkxvSGpyaXVpdm9vMUxjd3FwemhKNWV4eHF0TmtFM2lmTTlZQk1IS3hNdU9HSHBIYWQzSnRLbEkwczlFc2o5TXRpdnlZcnF2eUlvUDljUnJBOWd5VEVWajNOZDBPYV84Nm8zUVdPZS1kRXRoMEtGaGhhTDJ2YWIxS1JXckY2ckRYX29oeERPUGF1SDQ2bGJ3MmRDdTNmSjZIdnBGSTFtQW5seDNNWF83cVBLd3QxSDNlNlkwbEVpb19wU2VyOHpmcWtHNEtDTzF1ONIB8wFBVV95cUxPVVh0dTlJNjNLcFZ4cktUX3plMnN3QWx2TlpXQ091dFlTd0I2LTZvUkx3eG5IdUF0cGFQQlhfX2E4SjVHemFSbHBYdGNtdW5WUGxGcGhmay1QTjl2eGNoREwwUDZTcFRfaEVOTzVQcEtDbjRHSlJsQjhtZExVNER6ajVQN1JHd3NrUlMySnU5NDFST1Naa05OYjNaa1lMTWNOVUhBUzUyTnlVNEtFNjlHWkxqVzl6bm1vZEhvbElVMC1NZFp1RnU5S0ZNYlNlTTM3Y3M3SGpYUWduelg2U25EZHlBN2k4ZFRSTWJGSmkzeWp3TE0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manorama Yearbook",
+   "region": "IN",
+   "date": "2026-11-14T06:36:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "96ebb1fc00",
    "title": "1.13 million people died from TB in 2025",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmdpVWhkSGVHMXlDV053c1JWWGNqMUNmUUp0RTM2R3RTVjV4SnVkMURWY3U2Mk96bk52TlUwcHRxNGhya05GSE1nck1MUjZjS0R0VjJPMWc2T2xVUzRYOEVuYmcyRWI3NWRGTV9vSDFHS0dyYmpkeVhhajJMd2E3RTJ1ZUtmX1NFWW5BRS1fV2hkZ1RYS1BrSnZRMk82YTAxdzlFMWFPd2I?oc=5",
@@ -75,63 +109,6 @@
    "topic": "Society"
   },
   {
-   "id": "9aa9a5d34d",
-   "title": "HTLS 2026 LIVE: Tata Trusts Chairman Noel Tata speaks at HT Leadership Summit",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWkNaQVZxWWEwdERsTVRrX0tlQVVXY0ZaMnlqMVQ2ZzlCY2drc0FWVmZRTU8xM0hiS3k0NXdmMjRoRE5ISGpfX0U2aHFTUEhGcmRYWk9zZVdtU0RXcU1FcXpvZ3pZUEpudkNLZDhfcy1oVkJWWEpTZzdKNkVUVGhhQm00N3lRTnNudW1Ob2lkZFp4Nm9XVl9jVjBSZURGVWladUdOcXFQLUhuWFVoTkRkdWFGcUZhVVY5SmtEcXFLemJpRUFkVTZlWEFGRnAtaHRFdl9aNGNxWnk2X2hKcUJ5SVpsV0xNYmVZSmNPTEw2MkdZTUZqZHFsZWR6Tm5CdDRseFRDWEtiV1pNbmc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hindustan Times",
-   "region": "IN",
-   "date": "2026-11-14T06:30:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "26e4698c02",
-   "title": "Sheikh Hasina's return to Bangladesh: India wants Dhaka to fulfil two conditions, says report",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOTk5WU5lVXF2WlpLcUhfS21NV1E2ajBUdGpsbWlQSWctcGliMTZBeFgwWEZGcmVyMkxlNl9veDlBOFBSQlV0TWVhN2xWUC1jb25pcTBwRnNSVnJaejRmczhidG9Xazdfb05yVEhRYXBMemxPTWxKdlhaLXIzRFRLVmlOY2NwV1NyT1J6T2VGUkZNZHNLN0g5dmk2OXh2ZHo4bllUdVN3eHFvS1pDQzltNmdVYzNQcHdXMURHVjdpUm5LbTZrUlJORm5EaDd3Rzl5TkxQUDg3eHk3Mld4NDZNSm9qSkN5SHFHcUpTS0xRQllyLTFhM1RUbDJwZHUydw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-14T06:29:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩 🇮🇳",
-    "also": [
-     "India"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2fd0fc7afe",
-   "title": "Border with China has become ‘more alive’: Jaishankar at HT Leadership Summit | India News",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQWhFclNsNS1TTF9TRHdNdXo1bi1mNG56UGlESmg4VWt0SlFLN3JCQ3BPRUZXb2tPWEZrQlhnRllKUFNndi1sV2NTdEU1MTl6OXhIaHNUUFdfY1pidEFsLVRjX1Q4eXNXRnFIOTdkdEtzMjdLWWR5dmpPTmRXYURvSGUwT09iZE9VUldiQWs5SHNMN21aMW1CUXRnY0trMG5PSHZuSy1JNVRtWFNZRzN6NVZsWS1oNWJJOXdKNGtxTmkwUFVWWFE0c3VQVUtFZ2dvTmpsdVJjREJZNl94aV91ZjhZV1NRUVQzM0ZlMWdMYWNIX2owQ0IwVVRGSGktRmpybDN5cw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hindustan Times",
-   "region": "IN",
-   "date": "2026-11-14T05:24:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇮🇳",
-    "also": [
-     "India"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2edaec0523",
    "title": "NZ vs IND, 2026: Kuldeep Yadav released from Test squad; Gurnoor Brar included",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSm1SYmp4VnhrXzY0RkhfN3V2ZEpueDNLNmVUeDZmOEpfRHdXcDVDdXlPaEo1dFFaOHpjWVNBdGVEM3l1WlZ6QjFzZ0ZRMDE2anc1SHJDVmNwTGFleVpLRkZqREFwNXNFS21uN0Jhd2NEQVdSYVZKMFZPSkJYN2tNVFNzSW1jOGdkV1NtU1BkcDI5Z1ZpMVNTZmJ0eVBIUHl4UXJaTmFiQks?oc=5",
@@ -140,57 +117,6 @@
    "source": "Cricbuzz",
    "region": "IN",
    "date": "2026-11-14T05:09:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8ad163549a",
-   "title": "Diabetes In Children: Understanding The Types, Risk Factors And Treatment Advances",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVNuYkwyaUVOT0xWUEEwZlRtVlNxQnVXcHdZWWZlSmxOSlltWmVOc3JvaFZUTE5BQk1WT1A1UHNFYzF5NTZBM3JiRWpzQXphUy1CTkhPNzZCeXRrekhOc0lDMVhiYkt1b0t0aU1yMDVMUGtBa3lKZlphU0JBQ0lJdF9zdTEwZUhoaDcza1dQaUlOdEJHNEgtdGtORks3MnFOMmZCdGZaSHdTbnNhWkRDYkdxejRxRE52dlhIVVBUcXdSNjUweTkzTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BW Healthcare World",
-   "region": "IN",
-   "date": "2026-11-14T04:49:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8b4386ba66",
-   "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1d6N19YcmViZG5XbjRVV2V3enhYQ0M3R2VyLWxsNDZJRFZtZGZZMTBhRWtWY0lyRkJPdWU2cGhfSHRKZ1J3TWxNLVRlcWJVc0Zya29maHhsYXJHaDBZcExpUGg0bC04UF83eW50Yjl3Q2hiVnR5ZWMtM2xibEc2T0R4bkNvMTQyenRxTlVXWGNjX3gwalA4cU1oY25qVzVmd05fWGxPWXdGZlhrMmRfYzc2QnNGY3M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Android Police",
-   "region": "IN",
-   "date": "2026-11-14T04:29:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "82f38d0593",
-   "title": "Warner claims 2018 ball-tampering investigation 'stinks of a cover-up'",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnNjVXBHSnNXa2ViRklGOWpjN0pRaVNNUlItWjU5OGc2Sk1UUWE5MU5HNG93NThQZHZyWGFYMVhQbGgtSHJqWmFEWld5QUcxbVRROWg4VXByaHljZjdGN2liU3NQNFdzMm5MaDlGVWlZcGNlVDZZQTJJVHN4YnhyZWotV2E1ZTNzdHFmeV94M2NTcXllS1V4WTAtU19FemhOeWNwRVNDdk9oN2tIbDZYcGF6UdIBxAFBVV95cUxOS001Z0x6dFV2dmNaZ05HaEJ3TURSaWQxb3dvSWVMQTlEUTJOSWE2MDhDaXAwN2tNMjRVc0UxT0lIUjhXeGd5OHZlODNFVm1lalhxLTl4LUZ5eUQtRnJuRXBPT0MyLTRsbllwenFzNlVzMm5nVWUtVTVQZ2hIRWRPTmNYR0x1cWtVN0pWUjF2WU5iZk1ibFcyWHBLY0Z6NU1ZaDZFZHVNOWZGMmVPYVN4cFo1NUhMbzJVY19jRnBmdWFWOHJn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cricinfo",
-   "region": "IN",
-   "date": "2026-11-14T04:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -267,23 +193,6 @@
     "also": [
      "United States"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1844d32948",
-   "title": "Dhvani Bhanushali Gets Engaged To Yash Bhanushali, Drops Dreamy Proposal Pics: ‘Found Me My Cupcake For Lif",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV29HLV9LYkZWZUVDTlhHNG5RV2Y5N045Z05KTnpTRGFVZ3VxenRtTGJMSDhYYU1hSDdaZ0hXSjZzUnV2MDFQMVNUZnlJOVgzNFBpbW5nd2NreXV6endqczRfQzdBZkJ2WlNJZTJ2ZGlIdFN2YzRmTGNQNUZwaHZocXJNMFBXMWJVTk1iZG1CRThkVzN5RmFYNEN3OXZRcmU4eXZEekFmWlU4d0MyWlVIS0plTHNNa1lSZWtrMkV1Q3ZCMlhCeXdhaklKNFpNT0dIZ2JXY3BzVm1YdTBRTEVueU5KbjJaVTFiRkRSZ2c5QnBjQdIB9wFBVV95cUxPeGlPVjhaVGswVGhRWXRBbjM5NFBFcVJwRWlIdFdHQU02a3JPenVUNXNYRUhzSlg2aDdjUXJ0MzB3UDd6RmF2dVREdi1pUWFacW1SUjlYVTItWl9qNTc0STl2M21iVzZHaXZ3cGFnOF9IYTVxMjRQVFF1M0RSZVozemhXb2VPNmNpV3p0OFY1dVgtemREaDVnYXpDMGc4OEFRYmJDQmJSWUd3Y2hVenNkSE5JWGsxSnNEZkdwS085NG44OTBhMmlrYUJYWS1seGRSN2pKM1k3eFlldlNVOEx2MUFqdnRwZjc3NW41Qy1ZRnZndGVpQ1A0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News18",
-   "region": "IN",
-   "date": "2026-11-14T02:13:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
@@ -411,6 +320,40 @@
    "topic": "Society"
   },
   {
+   "id": "ba5d2c19bc",
+   "title": "Argentina vs. Uruguay Lineups & Confirmed Team News- Is Lionel Messi Playing Today?",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0ppXzU3N2JHYXZBSE51OWRodXNlZVExZVd5NVNyb3hqQ0JCX29wQnlHaVdjMHVCbjZBd05RMXNIQVZ6eHFLaDd1eGRxN1VpdF8xQ0JUUXpSYUxyUFg1WEJ0LWpVdlh1aWZiUUZubFVvOGVINzJqa0FLUWRJNmR6cHdwdmdQVHJfaEZsWXpUT1BDT3NMM2dOalpnZE9nRGE4N1o3aGdCZXhmeFJhbzhN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Athlon Sports",
+   "region": "IN",
+   "date": "2026-11-13T20:25:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "29f8df88d9",
+   "title": "Identifying diabetes type crucial for right treatment, say doctors",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHl0VExiQU5Eb0pvRDJJQ3hIZzVWZlBleGFnci1rZ2RJMVEtYWxzb00xbWU5NGEyY2l0RWZDNmtaRFBvMElIQTZ0M2F3SEpKdWtnNno2V2ZuNl92TVA2Q3NfdE1MbHBfNzNhSGpqZFhmODdEaTVLVHFYWXUtbXNKSk1heEc3TlFjTjVydUFFZnR1Mm5QR2c5c29GVmNxdkRrLUNmVnpyVnVWU1FNS1poNlIyaTlOQ1ctdEk0Q2dacmVNOXR2ekRBYl95M3V2dEVkWUg1TTV6UHNuUdIB3wFBVV95cUxPdzBmdjNWN1RrVDNmUGJ3U3h1eHdvdlg2REFiY2NxbDVyWERCMjNtcW9iejB5WFpGai1TUjdVX2o1NUR3cmZGLVlWUC1nSXF5QWJFRVl3Rm03UC1DSWtJSEdYSlc3MWE3eEMxM1dQQUFCb3pQMi1qZnRhbXlHZlJ4Zk5NYXN6NXdZWTVkY2pMVml4LUdLa3A3Yl9fNDY1Y1dLdDNzRVZnUlhVU2tsWjY2MWtFaU92NlNrNFV5QWEtTUJUYUNLLVdxOHRocmhRVzFNOW41N04zbkhxdlEwZlIw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T18:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "d97dfd1988",
    "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFMDR3Wkt1RFUwMzBfWE5VbVppVFdKVmNaZTJuTWpKQkN4WlFheWx6a0xBMEM2dnNjaVJieHBfSmZWdjl1TXlWdkIwajQ2SFdhdW5kM3B6aDc1ZTBvNDdrNUJ4bjJseUp5eDdDaXc4d0RMYlZZelJkQw?oc=5",
@@ -424,6 +367,60 @@
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b8401822a8",
+   "title": "Huang's China affair may fix Howard Lutnick, the man who wanted to fix India",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDdQQXdrci1QLTVUVzhVMU5ULXhvTFo5SnpreFBiZWE5QjIwUzl1Yi1oM1ZnTmdldzAyc0RaVmtJclJFNFFHcklhcUR0dGEzZ1cxejdiSUFXM3lUV25KaTI1dG52RFM5dml0a0RiZm9YaWZhWDVlZU0yaUNWRXBIcldBdWE4NDJ6WDllb0pTQ3JaTXNrXzhNQTJPTl9LS3M0aWJzTTZEYno4ek91eEw4OXdtRnVFcUJJV1hfMXVKM1k4S1VldDdmNlZ0cTFxbVFodDJRT3phX2xwWW1WWDMtclMzeWp3OE5oSDdVT2dOWUIydFQyU3FmdW1vNm8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T16:59:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇮🇳",
+    "also": [
+     "India"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9039af1acc",
+   "title": "Delhi's air turns 'hazardous' as AQI hits 494; 16 stations record severe pollution, 50% workforce told to",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTFpfUHRRX3hHQjRzLVNOYnBaaktCQ0tQcl8zRDR0RjNLNFRjRE9nMlA0ZFlnMVQ0VlRsYWpkZFRCNzVSTnNmYVI1VlZGMTJsOFB5dktqRFdVanRaazN0VkUyR1ZpVEtFS1pVelVEakppZzhOLXdnS3lqZ1IxeDFKNXJ0QTBONHVCQzBYQ0otaTlhVHZ1bHRwUnVCU0FWaXdPd285RW90dVQ0TWVIWUR4QXdNSGdCLVJYU1FmRnFtd1NkWC1PR2VOVGZtT1cxTG5PQkFFOWRjMzBUblFHMEVuMjYyVlJUYnFwMnBZQ1dDenFoUVN6RjVCMUkxX2xlOEloQXh0WjRGUDc1N3FKY2NVNldMcE5VQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T16:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e08119fa06",
+   "title": "Sheikh Hasina Wants To Return To Bangladesh In December. 5 Reasons Why It's Unlikely",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0xIM011ZzJ2X3Bya0xyNi1JQnBOTEluVHZBSnd5N01tdTJyUkR2RVNmU0JCdGpRRE1vZXdrdHlNV2dxWG1waXZ4YkcwUkNOeU1mYTRRdThGU2xOUEU5aE4xblZSbDgzMVBGMWJFTU1oRFdvejU0Z3F6aDRPOHprekRaMWpObThFTEpQa0h6d2JnUUtpMHh3NjkyUGpJd0ppZ3BZYi1lcEhKNnE5Q0c1dzdCRW0zWWNOWFI3ZGpvYk_SAcgBQVVfeXFMUFdxc3NhdW8yZjBuWXhhSkNBRFhtM2dOMGtzYjgwNnNHcjRucFg1eHpvQ2pUZ3lfN09VSUl5Z3RjTTBEZUhWTVRlbVhLbjdJRTZ3V1RPeGZ3WGVHNnJoaHQzQVVZZUlPZzNaMmlTTzlVVTNTU2JLS0M1UzRxcG5jVmlMVnlWWGthLTNVcms5d2NjaGZMUVh4TDhpYnZfS0x2UGZkVjdueEdaQ2lpU0VpWVd2T3poeE0zcnlJOFpNbHd3RFZ1aTU1S0I?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NDTV",
+   "region": "IN",
+   "date": "2026-11-13T16:02:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
    },
    "topic": "Society"
   },
@@ -513,23 +510,6 @@
    "topic": "Society"
   },
   {
-   "id": "0e2efe5ac0",
-   "title": "Tata Sons-Noel Tata Dispute: Boardroom recording row, six exits and Tata International leadership change",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wZjRBdjd1TFF0a1l2czBlV3BpT2tDVUdvejV1c0VocUx2RFJWU2tOZWo4d05aNEk5c3JmXzBESXE3amZxd0k2aVFuOVBrX1lObVA1ZjB0NDBtN2FiYmRwLQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SME Futures",
-   "region": "IN",
-   "date": "2026-11-13T10:58:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d93f23ed3b",
    "title": "Who Is Maruthi R. Akella? IISc Honours Aerospace Scientist Whose Algorithms Guided the IM-1 Lunar Lander",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUd2RU1XU0M4eG1iVDJKNm1UaTcwWElpVkNPZEs4emQwSEdscWJicGJ3ZXIxZ1VFWVUySVJHRWhsamZDYkhrbFdwZWtZa2xXVDZKU1ZuZ0dGbDRmek1oN0ZydWFxdnNncnpRZ0RRLWtMNEJaNTlOQ1ZXeTRIa2tXZWhsRV8xM3lsUlRnN2dyd3oyd2c3MkFRU05tdFZvN2FWRDZjak1FWXNlM2NLVU9rQlJIWTdKSmZnakxjZEJOLXlqRHNZbWRKVV9NYW9EZjFWazFJag?oc=5",
@@ -547,14 +527,48 @@
    "topic": "Society"
   },
   {
-   "id": "30253cc561",
-   "title": "PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjdKTjBOY2otMHNQek9nZjF2N2QwMTN1WGVSSlhsUjR3aWNDNEZTak9PLWQ4UzU5aFB2TExqX1FwRWwwZXpOWVVlRldkR0N6QzM4eFh0RWt4eDcwVjF4Vm95NXdVbU5oUHdmYjRWdHdHRnM2WXNHUE5nM1JGTkVYX0dtbW0yVC1hSkhTdzBLSlFacjd2SXZyU1BUWUZibVZlelZ5VnJYUWtlbXY4b1FDQnVhZ29wYm5KbUNKa2930gHGAUFVX3lxTE1qQnM0dkZINGgxYTBvdkZtclNKeExmRUdJSkZCV3p3TUhkRHRKTFdwZTg2Qlc2SXdoTVZOS2lERlNfMXdFLXpQdXczeER2M04tYXdEaDR3SUE1aGszUVlWbmoxX3MzWk0yRUNXal93VTBBT2VZOHhuazR0MUZ6OXV5U2lBV1owVWRVVl9yb0pCT3JSVkE0QUtPbXZXMGQzVjZQeXpyWW55a280WTlYR1pZb1Q4N2x1WExNZWwxUWNzNE00ZVNRZw?oc=5",
+   "id": "983259c865",
+   "title": "Google launches Gemini 4 Hydrogen AI model for faster coding, search and everyday tasks",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRkc1VVp1bWkwV01XelZuRm1XUVhHN1l5ME9uY2N2YjBiRUZNNVgzQUJKTEFsRXRZMUlxbWJac0d0YUF1b09PaUdUTTVPRllROHZyQ2dQZkFCdUhYYU9CYlZVUDJSZF9mUVhXQWxqNkJKNnY2Z01sRTJvTHA0V3lJYUtBMGZJUVJkUWZiQ2kxdGRGdnFaTWw4RzNmTWZkM1lVZm1iRmRKeTIxWS1HUVhsZXZzVl9DeFdIa1l5M09zSmJya0pYQnhNOVMyTHgtUzdwRmJ6M3FBYkxyaHd6M0FSVFVMSThpZmN0MzB0ZGFZRUhKWVdvcHhHQ1VRZUtpZ9IBgwJBVV95cUxOaFVPRmZmSFRtb0o3WHhBWncyU0ItY3BBSjVJWGVmNHYyNG1MU3Q1ZHpuX0loVUs0OE4tSEpEZVJFeTh2M1QzSUcwSU1Xc2xkT01jNmVpVTVwU2piTWN6YjdSRkNXUmpGX3BjQ0VHWXZqUHFIaG9PU2FnMDV6QmpwWF9wc1FhVGNZd05TMDA1aG1QX29tR21lNEpKZklldnU3eEFYTzFEQ0MwbVN0VTJSOGhjUWdpVGM0akFCRFE4Qi03bFp4aHA4SHE1X2MwZGh6Q2NyUVFaQWVGMEV0Q2ZUYXVIVzRwYUI1RUZRMkZUd0NXcEFIQzVLekdXcnZFYXhXdUdR?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDTV",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-13T08:19:46+00:00",
+   "date": "2026-11-13T09:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "989805e8dc",
+   "title": "Ramayana Vs Dhurandhar The Revenge Box Office Comparison: Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZVg2UDc0UHNzdDh5OFZ0ZXpBUkxhNW1PNmZYZVJsZVpIR01lZEJDVEE2VHF5WFhUaWR6dTM4cTRRa2RJYnIxaFV3VllTRUV4dGJVeUhHa0FhNTNCa2xxUDJEeVpXNXV0dmh4VVRPcTE4cEFYY3VRa0IyQzFWNkg5UmtDNllOUV8tcFRzNUVsRUV5TndaQUh4cGtpSmlsMUhVRHhxcWJHTE5Ub051U1d2S1VpNGFremJ2UUg1UnM3ZFdPTUdicUZrazFISk8tR2JfS1JEcmhiZVBCbk5NTlpCcnpEUnRZT05CUmlfV2VZb2dMMXlYZldqbG5fOG1Jd0xkcy1NSXV2b1lJU1NJZ3kxRkFScE84cE9qSWVNamM5TW3SAaYCQVVfeXFMUFdRbDRoUTZLalFhMy1xNUZPdkI4SFU4RWM2cDBBT0F3OTNDSGEzWlJNYWZzeUFXSmhGeEdhWk1qWDRtWGFwdElGeXpERlVKNnc4NDFMblRyZ0s4NzEtaUszSjVNSGxsMnRZLWIxM0dOMlYwVVpCU1d5NkgtYnlkMVZtU3lTWU5ybWstVlRsSVFqU0tKM1ctQXJjWWZ4Ym5XOEFiZ1ZHcWhYSUstdUNHY0ZhVmNKdzUtMTg2MXg5dkVjY2dycmxIQ2JuaWw0cjU4Vi1DOEdSdHVydm5WckFjNXd5djN0MG1Qejl0dE9IUWprWHk0VWpzSnczSTAwWnB3aGJzbi1YeGlVY0hlQUNEbWtOOTZZYlhxRmlXOXctR0FvN3RNakFB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Pinkvilla",
+   "region": "IN",
+   "date": "2026-11-13T08:08:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "2db3368790",
+   "title": "Cummins threw Khawaja under the bus - David Warner",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1dWeFRpR2tFblNDM3psU1VIdjU5SzRxUk9ZRWw3M0Y1VndEcFVkUDZjN21mXzRlUkE0S2lxM3paTG84aWJYZEw1N1Fxd0FSVDRIQkM0aWYwQnEyRC1FVlRhbWZGR3JnQzAyT2ZsQVd3RFB1ZXBUTHRkc1JDZzJsSXdyWmdYWEhwS0xoT0U0TWhaa1ZsUHdMeA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "IN",
+   "date": "2026-11-12T10:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -564,14 +578,14 @@
    "topic": "Society"
   },
   {
-   "id": "a7f5978082",
-   "title": "Asia’s Stock Rebound Fades as Nvidia Uncertainty Lingers",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVZoTk5zU2dUYjU1MktNdTFKQjJRMGl0bFBMYVVBMnhPTHJnOVREcWhtczJFYlVpWTIyQWdzU2xzMXRLMXUycFZySk96RzNPYnFZajdvQkhPWHpTSjQ3VVRud20xenc0NjdXaGY5cEk2S09mRGNfemt2aTRnaWgxNTlZSlVLa0gwc3E5VEI5eGlkMDljUTNhczh4QVlLVHVyX1B4U1B3UjVJR3R5NHc?oc=5",
+   "id": "b04640c7ee",
+   "title": "Nvidia stock crash: 13 Indian mutual fund schemes and ETFs hold shares, exposure as high as 12%",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNakNrUi05TnpRN04xOTRLM3VGaVdlSTltLWM0NmZMR1VsQTVCREpYM0l1Wk5mcTZwdmV4V214ZGc0NHBNWDlRamI1ekdHR3VvNUg2SVIxdG43V3E2UzUycWNaTVNvLUU0bVlQR1NJZFpLRGpuNlFuYkRXOFRTMWhma19TUUV1TngwLVM0NUhGRHVoTWRXeF9tRXp6YnBvUG5LMXNYRkk1a1VldGQwQUhiZnRfLURyNlRveHFLeHdyb05YNENZb1VSR0Z3Z3hpMEZ0QUdScUwzQlg0TDcwdkxtM1piODN3WVVWUWJDbC1MclhxdGJBNEJuYkpn?oc=5",
    "summary": "",
    "image": "",
-   "source": "WSJ",
+   "source": "Moneycontrol.com",
    "region": "IN",
-   "date": "2026-11-13T07:09:00+00:00",
+   "date": "2026-11-13T02:13:15+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -581,38 +595,24 @@
    "topic": "Tech"
   },
   {
-   "id": "2c0d82df97",
-   "title": "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYWtKVC1pM3h2c3NtdkFaQUxrN3d6V0I4WnNtbW5GNVUxTXp0Um1mWkp6SlltVGVsT1FEWG16eXpSTnZMNzVZS0VrMFhHUlAyOXZFRUZFOVdvdzdvQUV3WlZRSDVOMGNWcjFGdkRCUlJkWTdBTWlaQWVEeXp4Q0FrdlhIeDBSZTlEOUZUS0V0bHJKcTlIOEJjeGxkTWdzMGFoU2dEV0xieXFtUFBlWmFpanZfLUx1WG5wb1BCekJXc29qaDJuOXFMa1ZMU2h2anVsWUVkVzN1Nzh3NGc?oc=5",
+   "id": "7ba8731097",
+   "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSC1vVVQzbERPQzBpMkRJeWM2SVNvZGFPZFE1RTdPVU5WcnJYV1psaFVsVHRiaVE3dmRMRWh0RHFtTXltdkdZdU83QlJjaExDYXRacWlydnI1cUUwY1BsdHdpaDdIa1JBVWdBVWF0aWdzaGkySGhHSmk3dFJYUG5Wd0xraFdrYUc1TUYtQ0Q3b1RwSkxqdmM3Z0VXSFpnSmFWY3hhOWxkY29SanJCR1JlRnZpcE83cTFwYXVqOE5tY3FZSFM5ZkZ5dFQ2SWw1YlVuaU93MmZtQ2h3OVBLa2xnV1VOeldTSW5RTFVtZ2gzV1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Hindu",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-13T06:22:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "d401914b33",
-   "title": "Google launches Gemini 4 Hydrogen AI model: Know features, price, and more",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3drUVBzVEE1aXFGeDB3dDZXU3U2NV9NMUNzTjk3TjlwVDJxdVZQNHdlcHdRdmJwMEc4cGp3OEVicVdhR0Nfdl9MZXpYNnlWb1k1YURRT3RBSkZsdlZKcUtWdXpBa2xxWEh5TldOUTBCaDhVS2N1Zk1TVmtvUVJqZklJdDJZRHhmcEcyQmM2T0RMQW1mZmtFZl9VR3huQ2g0US1kaHhhRU9KdU1SMklhMU95eDZRazFVQjlidHBzZVN4R2dnY1RIQ202Ri16ZmtPNkItOGtBeGl6OEdieS1B0gHkAUFVX3lxTE8wQ0twQ3hiaWp0LTlEanJnZlJjMUR6V0txWEttMWxuLU1NVG54ZHNYZldJVDZfRW5ObFNxSkY4TWpUa2FKWGZMSnd2aWJJS283Nk9LOUhCYS1LeFlFMkZsODFXQUNlZGxCcE1MWUNua0lrUnBIRDhmeGFBM3NTTC1uQ0xnX25kUXp4YXpkQTNMbXhXVTkwa19haTRtZlpoM3NPdXFxWVZHYTZDZHdObmJ6XzF3UmhxUXVOSUkyQkVDWF9ESmdsN2xBOWlBWFdJNDZVcTg4anpEMVZHRUh4azRNdS01bA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Business Standard",
-   "region": "IN",
-   "date": "2026-11-13T06:19:17+00:00",
+   "date": "2026-11-12T18:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
-    "flag": "🇮🇳"
+    "flag": "🇮🇳 🇦🇪",
+    "also": [
+     "UAE"
+    ]
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "c178b240e7",

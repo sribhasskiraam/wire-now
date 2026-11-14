@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
@@ -21,21 +21,21 @@
    "topic": "Politics"
   },
   {
-   "id": "6c3d96945c",
-   "title": "Singapore government’s Outlook services fully restored after global Microsoft outage",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkVTR2NQeUFORmlEVzVObVJjVk5iNk1YcTY0cDFzbDhaa0szbWpzLVhDSE5Yd0ZJcm1YSUhyRElFOXdGVjVlVUVSTjlSS25FTWxHUTZ4d1l1V29QcFRZVlRITEl0c0tyRzU1SS1PZXAyWkNWckJyai1Eek9odWh4eGQ4UU9JWkphbXktVVZQNl84RS15a0xnMHNXb1NtbmtSV1M5Y21OYVpqRllfNnhHWjdR?oc=5",
+   "id": "65be98a0b0",
+   "title": "UOB sells 36 of 38 Marina Collection units within two hours",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOF9ETlh4ZTlxYmM4cDRaT2puNkRJdF91LXVwWWRCZmlnOE93eHlnZ0piX21GTFNoRWF5WjkxZGNTazB0Unh3VW01eWhmV3AwYklMOEpHQlNET0pELTd5dTN1X0hLdnN2STF1Y3pIMk9GNG5wWVptSE5NejFENV9XT2hCd3EwVS1HY01SVHdlRjNYV1ZmN2NFXzVR?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNA",
+   "source": "EdgeProp Singapore",
    "region": "SG",
-   "date": "2026-11-14T05:04:00+00:00",
+   "date": "2026-11-14T05:55:31+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "0c543cb19a",
@@ -208,27 +208,6 @@
    "topic": "Society"
   },
   {
-   "id": "af85762042",
-   "title": "White House confirms US-China-Russia trilateral talks on Apec sidelines",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUQ0eHVXbzA0bDFwak45Zm4zdFd6REJ2SnVLYUNVS3F5M3RNM1MtSmlSNmp2c01NbmNHSkNUcjd1REEtS1hKSTROQTZjUzhQNnpyLW83ay1la1RwTFRnQTlvOEdMUmh5dkp2aEV4T1VoYW1CNUtBYUJncWpuNFZqOVg2cVhHb3h4X1hzWmFCYjFmYk5mZDNyUXA1ZkNOU2hjQi16QXE0UkJleGQ3dG0tMlBGa09jc3lJYzN3Q9IBvAFBVV95cUxOYlBkRl8tMXo3dlZDM296Zjh0UGtEalk3TVFEdW95N0ZHYU5pZFZMWEdaZ0NLN3hzT0F1TjZWajZEQjJ4UFZuSUdsMWY3WjFCZ2hBbDFNazItZ2tBSW16dUkyUDM2UTRoR2pFX0FqTkdBZHgwUkM5SG9uWjdWREN4UmhKbDBub3dwRG5UaUFLVE9iRjIxWWRxck5VZl9aa1c3QnRvMHowOE5fMzJpZC1UOG42dW5NQmx5ZUMxag?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "South China Morning Post",
-   "region": "SG",
-   "date": "2026-11-14T00:30:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇳 🇷🇺",
-    "also": [
-     "China",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "92867c2878",
    "title": "Ramen Keisuke's Tori King at 100AM mall closing after 14 years, last day on Nov 29",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFRBR0hCQmZhS1NLbG14VnlaTWJ3V3FPQkYtZzhzMzY0dEI4UTNnNk0taGxoR2ptUUxCTU1PQy1BNW9wbzRkaWVpY2NKRDRXR0NMb3pwQmVNUkRjVGRZMmwwQURualNhbnktQ3BEQjd4Q2JtMk9ia29Obm5IWHE1RDliLXFxTUZJNlQzUnVIU2xhQVk?oc=5",
@@ -278,23 +257,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Sports"
-  },
-  {
-   "id": "0b3eb302e1",
-   "title": "Jensen Huang is out of Nvidia, but his family is still inside. What roles do his kids Madison and Spencer hold?",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2VnVTJubXIweVI5Q0IyMGx5ektlNmFEZUgxMjRYR1J2dno5YmRySDlhTnctYk9ubnFOSzZoRV9oWklLb0JENWZDZFBpeGVUMWFXU3Q0T18wZFVzSTctcG91Z3hKWWYzd3FjWGhLYUZEWS1lNzNkZlpLa2UzOHROZG14TUdGdzVRcjBsWA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AsiaOne.com",
-   "region": "SG",
-   "date": "2026-11-14T00:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
   },
   {
    "id": "7f3a24f2be",
@@ -533,6 +495,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Society"
+  },
+  {
+   "id": "a7e652ec87",
+   "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for businesses and governments",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSFFlTHVEd3ZQMVhZblptTTBEZC1hbEpDLWFORW05eEFSQ3M1czFwN2p4N3o0VEEycUtpYmZpcmo5Tkl2QlpIOTJrQ0RfUmlHVWNFZ0lZTnU0UXItR2R2Q1p1MGZidGh5MVdQTmlhYlNyNGxpM1dlN3M2REtJVHVZaHJOc2Fmc1Etd0pmREx1TEN5X3RsbXUwU3IwcWs4Uk5keTVlOWZhVkdDWVdiUWVnQlhoVkJCbVFDdVc0d3FuZnFJN1VkMlpXMU5ZRXRxdXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Business Times",
+   "region": "SG",
+   "date": "2026-11-12T22:50:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
   },
   {
    "id": "d5c6817c33",

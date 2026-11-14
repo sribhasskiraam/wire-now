@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
+  {
+   "id": "3c17fea293",
+   "title": "US flights allowed to take off again as nationwide ground stop lifted but delays expected",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-14T07:36:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
   {
    "id": "01bc16c7cf",
    "title": "SpaceX Starship launch as it happened: Booster crashes into sea in flames - ending hopes for breakthrough",
@@ -334,6 +351,43 @@
    "topic": "Society"
   },
   {
+   "id": "607436900e",
+   "title": "US military responds to ‘suspicious drone activity’ at UK air base",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFdFR3AzbjZwMUczaEpya2t5TVJ2dnM3VDdhVXcyLUxkbWM5SlUxQ2hEVHdlai10WnFQSmc4NHBubXo2RDdNcmUwb3lPaVhyV05aS0NVMTNYU3RQQTZEVUh5c3dWenN4RlhCVS1aajBXYWdOY1R1S2JKRGRNZzlONGJ3ZDc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-13T22:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7d38c45cfd",
+   "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUNST2NOSFpoRGJ0OXl0aHAxQnRuMFVPM1pjb3hpaFNBcDc3Z2dDdGZ2Tnd1VVBtVmRzUDRNcFlINjNrMXgyeTU2STFObGt2aExKSEFIZUdnNHBnbHdyTjM1c0JQWkdvRDZRaVl2UWxzRjRVUEJjUFhraTRGdFd5ekRYT1ZLb2xHUnk2RXQtMUNJYnJWRXFDTWhlZFNSUi1MSUZpTEpPMWEzOVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-13T20:59:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "8e9cb2db62",
    "title": "Nvidia approaches boss of Britain’s biggest tech firm to replace Huang",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFRVWFRRUXdHX3g5MmU0MG5UbDJPdXRtTnMyUXhNeWhlSUtfUlF1ZzZ6aWw5OU5UTXRuU0dhR0RrSWZPenREWnFiSWxTR3owSE5CQ2c2d0lTMldSZmpwS1FvcmlGY1ZWc1lJS2I3UUwtWUFicnBpWEswak1aWXZxR3JZMUUtbGZTaVQ4SGNQd2l1V3VxdGVSTTdJX1JSMTJMMVlv?oc=5",
@@ -453,23 +507,6 @@
    "topic": "Society"
   },
   {
-   "id": "40561a91a3",
-   "title": "Everton 'nervous' over rising star's future, Dominic Calvert-Lewin is to blame",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkotOERLay1kV2pSM0d2R1ZGTGRlR0tWbE5CZzROdXNtcHZVZEU1dE5OYzBNdGItaTF4YWE0dDVVTTFWaG1DZEdfeHo3THZTaFV5TkgtajlIVjNjcFJEZFQ1U1BLUnBjdmROT1p5SlZIMEwwS1pEeGV0MDg2VlZCdVkxUzVvbFNkalZ6YU5PU3EtREdhMUlpeVZpWVE4dzVrVDI2Z1NCRlVJQ2VxQk5SbXlDQ2F1MXV0UWNGd0NKN1FIU2RZWHhYb1BR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Football Insider",
-   "region": "GB",
-   "date": "2026-11-13T18:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7caaf44d05",
    "title": "Children sing Happy Birthday to King as he visits market",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVY5MkNYdTRUSGhJc2YwSkYydFRvVC1SdzczTmtOUkdEaWxqSGtram1MMnNOYzdSdkhocGZlNlN2VG81NWJWVmNfVzNEOEF1UzlNbEk2Q29jMDJSZVYtZWVyekhsbGVZR3ZWbEgxTDNQQjA4RGNVa29tSmRvdmx6NWw3dHNYcFBNcTI0YjlGZ3l2VlotamZfM2JFNFg5VXRfa09POU1aY3dxZw?oc=5",
@@ -504,21 +541,21 @@
    "topic": "Politics"
   },
   {
-   "id": "0eb6bd0ee7",
-   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
+   "id": "ee6e19202b",
+   "title": "Washington gunman was furious about damp $1.1m penthouse",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb192eE1vcXRQTEszUXZBdHNOc0F2TnJ3VUl0aVROOE9zeFBIYVUybkNETEVtNTF3VV9QNHpNS1BQWkFmSUN5ODlXdkV0czhaS2RZdFhMQmhiU3lRX2ZuSkk5eVVEYTRGX3pzWGd3ZElSM2NhOEp3eUlBNlJHR05Yel9ERGJlNTU4akpkSWY3aWZMLVJpMGZlQUs5U3ZGczNlWFMtdE1HRGU?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Google",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-13T13:30:00+00:00",
+   "date": "2026-11-13T13:14:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "United States",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "262dc83650",
@@ -555,14 +592,31 @@
    "topic": "Health"
   },
   {
-   "id": "a06f3ab108",
-   "title": "Object said to be 'long-lost spacecraft' mysteriously accelerating as it heads toward Earth",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEQ5c0k3X1dfOE4xMEFQOC1Xb2hsUUN3SkszcG0ybEU5bzFzc1p5NkdpSkJPVGV2OXlpQnlHTTBNTXd0clpqZG9yN0VTOUx4SFdPMHFhM19mV19UN2pNdkhLVlhIWUQyS09DTzYwSW1ERUdLSjZMcURqeXN6LUJCMVBaRmh4UTJjUzFVaFB3a3JnSHpkMFQyN2xxc1V5c29mNnp5Rm90b24wVHRBYUNjR1NZR2kyeFBZVUE?oc=5",
+   "id": "67bdb8a6b0",
+   "title": "Samsung's Android XR Smart Glasses Now on Sale, 30 Models to Choose From",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVlhckNHMk1vZjBKNUJfeXBxRExoMll2YUdyTmk1NHU1ckFFX0RFVldZUDgzelRzTFZCQ0FDRERIZmVSNE5ZQW83QkRid19neWJfOFNEM2d5UVg0Y1RlQ0FxVGd0aW1ZNWNvbjJJclBaVlpsak1VV2RmUW16cWFXM3N6MnJ1eUpuTjhfN2ZMUGxDdVBkZm52TFFWcF95V3YwbzJJb214eTl6WE9HSzhFeC03S1czdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Metro.co.uk",
+   "source": "PCMag UK",
    "region": "GB",
-   "date": "2026-11-12T18:29:00+00:00",
+   "date": "2026-11-12T15:30:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "be9f037e80",
+   "title": "Scientists baffled over mystery object the size of a BUS hurtling toward Earth",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkRrWkhZLTNPWE9KMXZ3NWItemZwbVNoZ2lDVDVDYnBYZF9GeGhxNmRIVmhKOWw1NlROSFkwdERYUm1ocUFJblhNVTFEODkxQ1FuQWEzck9IVTVqVVR4TXItaEtYUnotOTZmTVdjaUhwejY5ZXBqX2ZaLUIwcDNjWVVNSmZCa05mdDVDTFZvOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Sun",
+   "region": "GB",
+   "date": "2026-11-12T14:48:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",

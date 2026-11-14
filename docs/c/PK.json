@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
+  {
+   "id": "43c23f7e30",
+   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "PK",
+   "date": "2026-11-14T06:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "6653fa296b",
    "title": "Turkey's approval of Makkah pact takes effect as it signs defence agreement with Qatar",
@@ -32,6 +49,23 @@
    "source": "Dawn",
    "region": "PK",
    "date": "2026-11-14T05:53:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "88eff6a1ab",
+   "title": "World Diabetes Day being observed today",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWV0VjFFYUZ0eHgyWGIwd3pvVzRSc3EtLVRSZ21aSkpiUjcxY1hXZzhqeW9NaHVMTnFkQ3FLbjhkS1h6dzA4TlJrQVVvUk1FR1JYdnljUmZkQk5OWjc0OTNTV29qT29BU3BLdEo0ekZlWjhxdFRVWFhic2ZObHNxZQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RADIO PAKISTAN",
+   "region": "PK",
+   "date": "2026-11-14T03:11:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -92,23 +126,6 @@
    "topic": "Society"
   },
   {
-   "id": "0ebaa317c6",
-   "title": "Ebenezer Doesn’t Have A Post-Credits Scene, But There’s A Reason To Stay",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kby1FZ0ZPUVhfRnlYSGdIYlpVMTJtTWhRZmpVMG50VkdSTXplUHA0R1p2WGxqYVBVbU8tcDJsTmNBVzlLYTF0SjlScDE5MUpzY2EyenhORnNudjczVW9rcE9fczEzNzhCVGtfWEozSG0za1JScmwtSw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScreenRant",
-   "region": "PK",
-   "date": "2026-11-14T00:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4b44f966d5",
    "title": "Showcase event yields over dozen mineral deals",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWk0VEVIejdFYzVmOWtUeER0VTNEbnBTQ0RQYXBWYVhNQ2VpdXBpazRxQ1M0Sm1NTmRXSVpOVFhFeFlldWZjMUY5bjh0eFRnSWwyUnFtZWcxSXl2SWVpZkZRbGtWWFlmeDV1WDNRQVZJb05HMElkZVBhRV9oaFQ5aWs2ajhJVTA?oc=5",
@@ -117,23 +134,6 @@
    "source": "Dawn",
    "region": "PK",
    "date": "2026-11-14T00:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7d692b9291",
-   "title": "Some International Physical Copies Of GTA VI Can Allegedly Be Redeemed Without Opening The Box",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjBkWGNTaWNwYVRaRnhSd1lKMElYOVJiOUZZcmdRYnJMODc0WEYyUUUzQk9jRjk3bU9BNkR6MjZZdzNueTZfcVhpMGtza1BOMXFIWnphal82VG8wX3RKcWlQYkoxU2tZY3BEYVJtV1RpVkNMU1JDWDl4MktqTXhvYkFCWng3alh5a195VG1mem5yQUxL?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Tech",
-   "region": "PK",
-   "date": "2026-11-13T22:50:13+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -194,14 +194,14 @@
    "topic": "Society"
   },
   {
-   "id": "a6a4d0160d",
-   "title": "Russell Brand accused of sexual misconduct by six more women following conviction: report",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUxJTGxZU2txY09vNlR5SzBYbjJvS3ZpN3lobng3RVZDb1IwLVBESENFTzBnQWszNElZcHQ5ZTl4VkdocGlHMEliOE5IQWZfV0UzSUZNN2E0NmJHS3UycTAxMlU4anVKdDVEc2txSlRnTHVWWXplUkJIbGpON0o0SlhPQTZNRnZ5Z3NyS0tBeExCZGt2ZXFDLVQwVVpkbkRDSWhrYWdRMlpEVkFOMUVsc1p0ak5Lbnc1dHlKcGNIZnFXVDZmMnU5Ng?oc=5",
+   "id": "e0e6095042",
+   "title": "'GTA 6' PS5 unboxing video reveals what's inside",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTOFY2NGE1Y0tZMWxQWFp1Q3lVaXY3RVU1d3JpQk1UWm5SeWoyOXpsaTFaLUlaQ2ZmdjhaU0hOazZwTHQ2UEtlNTlwczB2enhhbmF2UEtsRQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Los Angeles Times",
+   "source": "Mashable",
    "region": "PK",
-   "date": "2026-11-13T19:04:01+00:00",
+   "date": "2026-11-13T18:15:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -294,6 +294,23 @@
    "source": "TechCrunch",
    "region": "PK",
    "date": "2026-11-13T15:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2ef822c1cf",
+   "title": "Johnny Depp's yuletide jeer",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjVWLUJ5S1RBaktWYzJTZkpiOEhGUkIxVU54ZWJyZjhRSnEzNlpsS0pwQ01UTTR3eW9qcjhHMTk3aWktZzI5T3c3WWJNdjVfSWlxbjMwdHZ0WVN4QlliMG9KbVV0cV9zZm9WSUNpdTZfZ3VIeWtWa1pQeS1rT3VTUlZJM09OX1JmQWIwUEJmX0VvS3VKdmNIWi1JbEtBZHJ4ZXdyaTFGLXBmbXdUYWg5Y0p4ZU5faUM2a2F6NXl6dmVzMUVUSWFBQzVR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Central Oregon Daily",
+   "region": "PK",
+   "date": "2026-11-13T13:56:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -530,14 +547,14 @@
    "topic": "Society"
   },
   {
-   "id": "e8d7784de9",
+   "id": "1f2a3144bb",
    "title": "Cause of death for Anthony Clark, comedian and ‘Yes, Dear’ star, revealed",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb3lMYzdOajVPRlR6cFV6Qkx0Q2JpZnVxemR0a2ZBc284VjhLQWx0Qms2VVF3X3JVQUZpelNma2hRWUNrSGpTWTAwSk5MTUYxWEJhc0VndUU2cGNMdElVdWpVWTJhSW9VTlBGUzJPTl9TUmNVTFJ5cThuYlBWeDFZdzB0Qm9hVjNUQUNOSTBUaEVrOFN6Z3REbE5ISVZJU3lvcU4waU5rc2ZxcHhSOVp4dXpPOEtmQkFncTJyLVUzcHVYZXdjV1VTMGlkcEdLLWFLaTBxU3hwMGxTdzRIY3g2S3JzT0l5YnRLUDFOUF84VzRTbGJTYVRva3AzWnAzOXJvdENJeWcxTjg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2VZU3lRU3E1cGswY19YUTlGSHlEdm9ZRjUwSW1OLXdnWkM1S2loY2ZSUkdrYldyRGxTUDlKczlUUzZlaTJ0Mlo4TkVOTEhFZVlKRmFKUlp3Q1RHSFdfWGJmb044NzFfYmo1QzRBdHlGeVFWMlFiY0IzMHFJT19IeHlyamhac1VOQy1tMy1hNmNvSnFpVWVDT2l4QjVna2J1amZlUHRyMWNBcjg1RkYxMw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Porterville Recorder",
+   "source": "Los Angeles Times",
    "region": "PK",
-   "date": "2026-11-13T00:23:00+00:00",
+   "date": "2026-11-12T23:45:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -613,6 +630,27 @@
     "flag": "🇵🇰"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "2e33cee564",
+   "title": "Lahore VXR festival brings together 70 artists from Pakistan, France, Spain, US and Canada",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaF91Ri1RVnMyUTJocHRfOEdhRklScGtBM2QxWWlWTXJNNUUzV0NpRXgxZ1hZNEc2clRsOXpXOHEtQVVLeFE5MG9MN1lsejR3RHdxSGpCSjBLV1V2dG5rWlhvVmNzR0M0LW1BNG9YNVRzTzc5R3VheW8zcktEOFlfNnBqeXZkM2M1RnFJamdBYXBYckMwZ1pqTVB3MlVETjZzYjFCWllScllQLV83N0x0UmFvYXdZd1FVc3pUSTgyWTdhQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-12T08:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰 🇫🇷 🇪🇸",
+    "also": [
+     "France",
+     "Spain"
+    ]
+   },
+   "topic": "Society"
   }
  ]
 }

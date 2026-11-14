@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
@@ -48,7 +48,7 @@
    "date": "2026-11-14T06:30:58+00:00",
    "coverage": 1,
    "location": {
-    "country": "Germany",
+    "country": "United States",
     "place": "",
     "flag": "🇩🇪"
    },
@@ -72,19 +72,19 @@
    "topic": "Society"
   },
   {
-   "id": "449472618d",
-   "title": "Tanker in den USA kracht in Kreuzfahrtschiff „Ein Wunder“ – keine Toten nach Schiffsunglück in New Orleans",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTBkUTJ6a01vTjAxUEMycjRLR2lFOTRhWE1zMzB2dldYQUZqMUt4S2xjT3pnQzU2c2NjUFhVYUVlMGo3V3dRbG5nVEhfOFptcG5IMUh4QzJFUk9lcXJ4Nk1GT2Z0VWlOS3VudW9zWXQxYUhfNElINHNnVTZGZi1ybnpKRWEybXJWZmIxU01rNkJSelJ4YVFLYWJlLThjelBLNUhDdlppUUhVcVJrT1F6bXRMRUE0MnA1OHhucUlXOW1LT1BUVzAwSjNObkpoYnNMUDJjMlJxUlJCRHlQRFBzVEJSMFBPZVpHMThhcmpwODF3Y1JJem1NNlluRXBzUW42?oc=5",
+   "id": "da33369270",
+   "title": "Nationalmannschaft | Klopp über Nmecha-Jubel: \"Wir mussten reagieren\"",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGphOFI5NnpHMG1ZUXQ3S0JtcFVCWVFfRmp5b3hPWS1GOFF1UlE5NmZWbnZHS3ppdnVKb2Z5ODI3NHY2ek55MmlNLUdOS19rX3B5RkRDQlItM1VPQUd5cHFRZVFTcHVRcGJmcFVkOS1FXzE5M0RPNk14SHNrWjBPdlkwY2ZtT0JLMmhaUHMxaC1tZ3FzdmpjMEJpN0lvMFRhVG9wcGh5bw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Tagesspiegel",
+   "source": "sport.de",
    "region": "DE",
-   "date": "2026-11-14T06:13:06+00:00",
+   "date": "2026-11-14T06:28:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Germany",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -280,6 +280,23 @@
    "topic": "Society"
   },
   {
+   "id": "449472618d",
+   "title": "Tanker in den USA kracht in Kreuzfahrtschiff „Ein Wunder“ – keine Toten nach Schiffsunglück in New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTBkUTJ6a01vTjAxUEMycjRLR2lFOTRhWE1zMzB2dldYQUZqMUt4S2xjT3pnQzU2c2NjUFhVYUVlMGo3V3dRbG5nVEhfOFptcG5IMUh4QzJFUk9lcXJ4Nk1GT2Z0VWlOS3VudW9zWXQxYUhfNElINHNnVTZGZi1ybnpKRWEybXJWZmIxU01rNkJSelJ4YVFLYWJlLThjelBLNUhDdlppUUhVcVJrT1F6bXRMRUE0MnA1OHhucUlXOW1LT1BUVzAwSjNObkpoYnNMUDJjMlJxUlJCRHlQRFBzVEJSMFBPZVpHMThhcmpwODF3Y1JJem1NNlluRXBzUW42?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T22:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "20ffbd7a4a",
    "title": "\"The Voice\": Mel haut alle mit Radiohead-Hit um und zieht ins Halbfinale ein",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOElWTHNLQksyMmtnQW4yUVk2enJ4eV9zZ3NvOFNxdGowY09aQW9TZzRoa0k3TlMzTXo1eU43UVZzWjlrVlZvc3kySndkazAtRTdjLW5XSmI2TmpTVWhCTDdBeFNnallLbkl5VEtJdnZFdTJEZTNzNU44UmpMWlhXakZGV2hKd05leHlPSTJDanZqaEIzaEFfRkJxXzg?oc=5",
@@ -288,23 +305,6 @@
    "source": "Joyn",
    "region": "DE",
    "date": "2026-11-13T22:06:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4468bb9698",
-   "title": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmhLVlY0c2tZMGZ4dGhLTTVkOFZ4enlITlRnOHJOVUFUaE4wbVdzZWoxTDQ5RmJYbXZuQ2NPVGtIUU84bXhsbFo4SDA2bVIwVlFUbDgyT1pnVm5HOWVkb183Z3k5cm5qT3J4YTI5SUltWVRoT1lDeGFyYjZFd1F6cm9sWXVpNXlfdU5STWZkLUZ2M1hhQU8xS2tucmlHZkFTQVdrWEtFQ05LaVBIOUtMcVBabEctaXBKNmxMeS1yaTViZVh5bmRXZ01mSjhTeXhTRUhhalVFa3dUWlY4cXBZY1FQRU9wbnNhUDB3ZnlLVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Spiegel",
-   "region": "DE",
-   "date": "2026-11-13T21:59:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",

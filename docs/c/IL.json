@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
@@ -55,14 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "5d90c479a5",
+   "id": "1d085601ab",
    "title": "Israeli scientists use common drugs to cure 30% of mice with ‘Type 1.5 diabetes’",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZqWW52V0I4ZEFFb1ItTzNNOGhJVFNkaW8zWmdla0FtNGxUUGJtUHo4eDFLVVlIWUJZbVlfczJwMlo3eUpOWV80YWstUWtOaTFzelQ4Z0NXaFBmR1dfOGZ6SzdSc3Q3WEFhWUl6YU9pM0JncHhJWjhWX2lUY0stQ0ROaUJNanJ4NTVvM3VWS2Z0ZGtDTkh4ZlZ6clNJMl9EakJKeUx3MWNobUFR0gGyAUFVX3lxTE5tVzZyU1NfVFN1NEhfSGlwbVlFN0xMOGJFX29lbmNNVHdhdUh1NGItN3huc3Y4Ylhsc09TN2tLVm1VU184UHJaU3E3WmwtUThqVm1ucWc0ei1fOWk5ZWpvR25mRDlkLV9Mbm1SVGNPMjRvbmZMZlpZd3VoNUJ1Q0pBSThON3BqZVg5ZzBWZVNfblhkbzllZHRWanpqNkd4SHNNUVFqS0pqRUY5U0FCMTdlcVE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQzBsTmZWcU1WUE9wdUItdmE5OGFFOW4xdkwzS0FIVXVGVWxkZzRYT2RqUmo3RHZxejdwbmE5T1lVTUVoc1lwcWhLSUJyZkhYRTU3NV9YZlF1VW1vaVJKT1YxcDBKa2xfZWFHRHdGMVhaNWFua0VudzlLNGlFek9Md3ZFcGN1N21zOEhKOU5WN2lQbkNFcUFRd2dpVDFxZ1N0X3l1dTZZMjhuUUYtSUZhY1lMandFSXRZNm5N?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times of Israel",
+   "source": "Jewish Rhode Island",
    "region": "IL",
-   "date": "2026-11-14T05:58:07+00:00",
+   "date": "2026-11-14T05:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -130,7 +130,7 @@
    "image": "",
    "source": "Yahoo Sports",
    "region": "IL",
-   "date": "2026-11-14T00:48:36+00:00",
+   "date": "2026-11-14T00:48:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -246,14 +246,14 @@
    "topic": "Society"
   },
   {
-   "id": "e76af93292",
-   "title": "Nvidia’s Retail Investors Say They’re Not Rattled by Jensen Huang Scandal",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3hRYVl2ZlBudTlwWk42bDZoWnI0bjJxWVJDVFJ6VU93M0tPSV9mNWE2RTNtTjQ3WW1Ja1RzX0VzX0pzNGJUb2VMX3F5YUppLU1NSVFlZDNQRjhzRG5obU9kTUxGN1RjNEJ3NGhSNU5hNGVXaUhxR0I4S3RudThXVmUyVkw4WVktWU1ldWhWRUFWWXZlUkMtWlQyRUVhRU9RbExQMWlNZU0ydk9JbURabXFzaktLU0dNNEE?oc=5",
+   "id": "32c8b3c352",
+   "title": "AI Stocks Close Lower Friday As Markets Absorb Jensen Huang’s Exit From Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODBOSU5fTm9LbHJwSGxFSkZoUHRlX0VGT2JHa1FyNnNoek5zOFJqTS1QZUJkNy1FWXd5NEtsLVBPT1JoZnJJbndwdVlXOWdOWHQ2eEtGRFZ6T0Zvc3BCbWJzdDI2a1BOLVF5M19xcWRZSnFybjJwREZTNi0xUU91WV8xMFdjT1RmYjJ0aWE2aGNSS1Z4SjRsNEJGbkY0Wlh0UmRRVV9fdHBoMGN2NkVLYkZPZ0xzR1p2VFBSRGtjcUI3UDg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
+   "source": "Forbes",
    "region": "IL",
-   "date": "2026-11-13T21:52:46+00:00",
+   "date": "2026-11-13T21:36:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -261,6 +261,23 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "8a5a227468",
+   "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "IL",
+   "date": "2026-11-13T21:32:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
   },
   {
    "id": "547c9414c6",
@@ -436,23 +453,6 @@
    "topic": "Society"
   },
   {
-   "id": "e21933604d",
-   "title": "The US Dollar Firmed Ahead Of Data And Fed Speakers",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWE4Mk13Q1RHYzFnLWtmVnQtSzVRTldBbDV2NXNBZWxRQnpQQTQ3TGVVdDItVGtpYzNSVzFzdGpmRkE0d1ViZHhJeGNLX3lvZjBOVDdhYzVOTmNwUW81Mmo0RGRhMnpCdzFaTzRpZl95OFVlNUJTUlB6bHE0WFZmQVduX1psems?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Finimize",
-   "region": "IL",
-   "date": "2026-11-13T13:48:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4afc5d2174",
    "title": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUQ4VUJVcUlWTXZmUG9DbVh4R2h2UEJ1NS1mcW9vM1QydmdQWmVYc1ZpWFNEdEc0a0NDQ1pIM3pTNk94dXZrWHlNMGpISDJJaUh4aVF4ZUlXSkdFLXUyamZTU3JWREFpSEU4b08yQXpTbGVnN3pZaTJBa3pPUXlCczhfOVF1YjRFZlI2ZlEwcFlMVHdCYmQ1V253UUZ2ck5HcHJnaWJqakl2T1V5YXpHM25lU3VHcFpkWm9kZVVYR1BUV0EyeG44bFp4a3M5TUI4eXRqWmVyT0s2alBWOUlrZEV4OA?oc=5",
@@ -544,6 +544,26 @@
    "topic": "Society"
   },
   {
+   "id": "e2042d649d",
+   "title": "Six-year-old Gaza burn victim caught in Israeli dispute over aid",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFo1ZDdUVlo4bHVVckx2ZkpOazJxa2Z6ZjhDNmhfamN4Q3g0LWdsaGNudjllVHBKYzlJRWgzSzJZbi01RlZJZXFTdk4wY3BFUDFIekFoMWh3M1J3amNfaFUtXzE4Z21OMDVYcV9YMVBoXzdHVzN4LXJIbG9DRFdCUzU1S3gwcGVTOWFRcFVBNXp3Y0ZVb01wbjd0WW1FekgwUEZDNnBnVllLcGJmYTJOcW83aWtmYnZYT3EteEduZWJmMnowOEJjN1dIX0dtZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "IL",
+   "date": "2026-11-13T10:22:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Palestine",
+    "place": "",
+    "flag": "🇵🇸 🇮🇱",
+    "also": [
+     "Israel"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4bcefa03eb",
    "title": "This AI finds patterns in visual brain activity and turns them into pictures",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3JDazJKNVBsNG1hUnFjVVA3T1dZd194cm5vWGllbExxckg1ZFRwcmZMdzRydkZJaDVvTFNZSDV2SGMzSHZkY0xuanJOQ0pxNWJYVTQ0QlhlZUk4X21ZWnNEalpsUHlZUDhfSi10MGdlWnNLUHNRTmU5MzZfamQ5MjRwSndENGNNWDZjVldiVEEtVEE2U3FXa29zQlcyN3Y3N1lvNWs0YWlzV1FIampmd3VBVkE2NUk2MDhSaXFHSWpUckQyWnFqSEgwWDg5ZFBkWlBoVlhR?oc=5",
@@ -610,23 +630,6 @@
     "flag": "🇵🇸"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e76d6e0aca",
-   "title": "Toddler hospitalized in intensive care due to flu complications: 'Her condition is stable'",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NVVdOWGJKV21Nbk5ZTWpXNnFXaklXT01aVFJzcU9Qb1FXVGRDdjZnUVhzWTBLaXc3VDE4OVJXQWtOUTBkNFVoZFA2bkdwY2Z2NkFuUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ynetnews",
-   "region": "IL",
-   "date": "2026-11-12T11:55:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Health"
   }
  ]
 }

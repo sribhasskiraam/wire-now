@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
@@ -126,9 +126,9 @@
    "topic": "Society"
   },
   {
-   "id": "76b3e47867",
+   "id": "c9bd7e9e55",
    "title": "Giannis, Bam join LeBron, Wade in exclusive Miami Heat club",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXhmWjJtc0tXU3F0dlR1WlhkUmRHOHYtTW9XbUZDRFJoYUV2ZGVJRTdQWm5oOWFwaGp0a192enF0QkZqRGJjX1hINUNMRkFlMXVPdEx4bkZNMFpRT214dGEteERhaURMUkwzZVlaNHFNaVBzeEZUVmtTS3FEMzR1VTlVcGFrVzJDOVFKT0toWF82Mjd1N2E4QjVuUjhGYW5BbkZrTVlYUEZzT1VKdGNETzE0SU1wUGJNcEhpUmF1R2tndXhjbWY3aG55eXFFbXEtRWtwUHpweGRhX08z?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkZpR1kxNFJXWVZfbWg5SDRTa1dQV0VtZGZqOHNxMnQtRTA4OTlPMWM1ZEhENlB3Ukp2d1kzYWV6Q09TcjBUOE1kLWxicFVNWjdxRDJwT3RKQlhEaHhmTWpGX1p4VTVSVkhsVUxPUnFaWFhWdHd1S1lrME9QVXdSZXJzSQ?oc=5",
    "summary": "",
    "image": "",
    "source": "USA Today",
@@ -151,6 +151,23 @@
    "source": "Mashable",
    "region": "PH",
    "date": "2026-11-14T05:02:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1443a6b81b",
+   "title": "The Loyalty Game: Ben, agad na binalaan si Mara tungkol kay Ana | Episode 30",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFhDWDRyTUMxTkkxVFVGM2lYalBvUG96V25Udy1zaUUyMV8wZl9DZ2JQYVJHMlp4UDdDd2xCUnpKUU8wOE0yVjBwSkt1a3NPMFdvZzJHZDVid2pZaXRDY1hCQUZiU2VWVTBzbDNMQVZ5alE0cmkxa2RLVUJIM2hkQVFHZEJHTURWM0JCUVIzQ0NuRjhWRDZJWmE0TGl3YkJhUDI0RkFaV3lsVmtoWUF0UXFVQUlZYVd0LXd2bmxpQXctZkhHNV91QmJpWW9EUjRqVEJr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABS-CBN",
+   "region": "PH",
+   "date": "2026-11-14T04:52:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -194,19 +211,19 @@
    "topic": "Society"
   },
   {
-   "id": "57d6a6042c",
-   "title": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSE5hSjdZNTc2WVZzRUhKQXQwbW15T1JIUU1OUlF4VVgzVWYybm1QdXZEUW4wSGVOQkEtWV9JZVhlOUxwZHFxMFpTaThRTEtiQTl1bHJnVVAwMEhOaDRlRjFXdlBSenAxcHFua2IwQzU4cmVBTzhSelkwSElsT2VJVnhyLWFGaXZCS1N3dDRRaU5xVHNMczdXanRwTzN2ZUYxWWRMeWpOU0Y3b0ExbE5TUzZDZkYyNXBFYzZv?oc=5",
+   "id": "1add29635d",
+   "title": "US airports latest: Airspace reopened after 'extraordinary circumstances' grounded thousands of flights",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdGJYcFJ5MWJ2c25tWldLc0RPaWZ2SXpsS3B1TFFYQzFESUlHLV9jQ3NuR3k1SnNsR0x3U2dxeEJwZ3FpdXBkREh4VE9ydEgwOEdqUHVOaFVZU0NUWEJaZTJ4SE80b1l1TTJLU25lRXM0dkMyZXZwVFpjVld6aG5ZLWlhN2xRdDk5VlhLZ0ZrbUJFQVd2NU84Q1R6Z2pvRUlPVWNkNTJEbmFCLWU3NG50U1FOT3JGYnBtUW1JNGtjaVNzbVBEUExuRDMzYWVhalhDcXJ5X3ZmMTdqTDlrMkxXWVRjMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "USA Today",
+   "source": "Sky News",
    "region": "PH",
-   "date": "2026-11-14T03:08:00+00:00",
+   "date": "2026-11-14T01:10:41+00:00",
    "coverage": 1,
    "location": {
-    "country": "Philippines",
+    "country": "United States",
     "place": "",
-    "flag": "🇵🇭"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -394,6 +411,23 @@
     "country": "Peru",
     "place": "",
     "flag": "🇵🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a243d9b0cc",
+   "title": "Orlando Magic vs. Milwaukee Bucks: Game Preview",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0FhcndhSmp0bkxNeHN6NjREOXc2ZzcwSmdoT2pkajJkU2xrWmpHaE9xOWdQZXhWS1Rmem5HdzM0emxnd0tSNlVfbmhmOGdBWU9zbzBwTVZ4d0hCX0hKZ1FTWDFlZ1dzbmtoOWhWeFpKN3g2cHFWUUxpRTNvSVBRRTRHTEZqZnZfWTZOOWMycTRVajNydHdRcUx4TWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NBA.com",
+   "region": "PH",
+   "date": "2026-11-13T18:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
    },
    "topic": "Society"
   },

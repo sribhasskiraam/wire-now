@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
@@ -12,23 +12,6 @@
    "source": "healthcare-in-europe.com",
    "region": "KE",
    "date": "2026-11-14T07:03:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a58d87b7e1",
-   "title": "Man, 26, dies during domestic dispute with elder brother in Siaya",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORjJydk9QZVpWTUFzYWpDdk9CLUpzNkxvUjZfTjV6cFdPRVVzTGVSMFJIdXZOclRuSW1LdGY5QWdrUF9qRzdaV05BdUdUajU1eGxlbVE2aFJRN2hEVmZHUDAyTkUxemIzeDB0aDg3MndLU2NydkY5QXVmUEszbjMzbmg3VVdZeGlDM0Fhb0JSMVdFbUlnNmRn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-14T06:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -160,6 +143,23 @@
    "topic": "Society"
   },
   {
+   "id": "04339a7ed1",
+   "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zc0libDZ4RFNRb3dBWmxHcTFBalRNUldnRjAzUG15T3FIYkMyYlNLdHZzMVpBNHBkUVBLMEdaenBETEFGRi1YSDc3R0o5SV9fYzFNU0R2VDdFMGYtMmozZHN2WDVFVEV0ZDBJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "KE",
+   "date": "2026-11-13T22:53:17+00:00",
+   "coverage": 2,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "92371dadcc",
    "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2ozaDZHbkhsRk5ETmtLRHlicTEta2hsOW5EMGI2Qlc4THBOLUdsZDVmQlhwSEFWNUphSWRjSy1YWDVVUVI2bU9IdmstVkhwTFBtRWVrcTllYjNYamJuOUNQSVdWSXpha1V3Ylh5TVh5MGlzRF9sMlNyRF9FMGcwSjJUSTBkYllOY25ld0JOMXRsd1FTM0xQeHZYbmlrcnhOd0pMWkk1Rk0?oc=5",
@@ -177,23 +177,6 @@
    "topic": "Society"
   },
   {
-   "id": "d298231c65",
-   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-13T19:53:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "92cf8d3e1e",
    "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SGEwOVBLUHZEOUtMRkQ0T3RmNDJ1a0lyRGhYNWFZb2tWal80bEFYTHJfa29NOVRJbFo3cmxLR2RqbkJIY2lwMjJqd2x5RGdyNkx5dXA0MA?oc=5",
@@ -202,23 +185,6 @@
    "source": "UN News",
    "region": "KE",
    "date": "2026-11-13T19:22:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "71b596a501",
-   "title": "Tearful Mauricio Pochettino admits Manchester United job too big to turn down",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjBsZjN2R05kUGF3emFGTmxncEdlWWU3OG92WGtad0VGRmVZVmZ3RVo1bzhPaVRUWl8xX3BRUU5YU2RFQ0FIWXVMdGRZOUVTVE5DdTVEakxxeHVGcHFqdkQ3VzhyYXQ0M0NRNVprczY0VmRqc0FzQ1Q5LTd0MkhWTFpNejBDNmFIem9BcE9oRDV3Nl9JbTQ3OG5IQUxEcVNYUllnOHZJZ3oyWjV2N0NJQXhZWXRGWmcxQ3ZzV0FkU3BRU2tORkxvdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "KE",
-   "date": "2026-11-13T18:10:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -260,23 +226,6 @@
     "flag": "🇨🇳"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "7bd5356b33",
-   "title": "From an iconic river to an ancient city, here are five places where nature is on the rebound - UNEP",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR004U2NDeVBzeHByWGptSVFJNGZ3N2hJNlp2ckFmSi1aVEYxUWp1SVlUajJwTmpTcXZkUjB5T0NDajJIb01Hc2JxUDhxWjlaYTItUjNvNGNsQmhxX2JHNy1FdjBHcWVZS1dGLXFPUEJlZ2UzZmxNTXhBUUhSdjkwOUp3TlZxYm9wSHV5YndjSzVlWEMwOExCR2N0ZE9GM0ZuMUVNdnR1aFlXU1dqZDR4dVBfYk4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "UN Environment Programme",
-   "region": "KE",
-   "date": "2026-11-13T17:01:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "68e4c4fef6",
@@ -520,14 +469,31 @@
    "topic": "Society"
   },
   {
-   "id": "0f07233ceb",
-   "title": "Samsung takes 69% of foldable shipments in Q3 2026 on the back of the Galaxy Z Fold8",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVV3MVBPYWp1OHBZN1hzb1h4SnZKWjZmYjNyWmtRWnZsajV3SlFEdkRTbWxhQ2Y2MmVNMUF4LUNIOUV6a1FNZ3MxMDR1VGZmb2NCMm9nekpfdUt2US1GTjFmelRQQTF6eXFXZ3VVcGRUSUJKcFlFeXpKRXFpZGM4aFpZd0cwQQ?oc=5",
+   "id": "c3d7cfc7f2",
+   "title": "Mudavadi heads to Ghana for AU talks on sustainable financing",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHM5S0xWaDdXbVBzS0x0OWFZMERmcHpSNGZVMFUwa0t5VktOVVo1RXRRQkZWM3JGeE90UmQtVXgtd25uSDBmTDJ5NzRzc25TcE4yRWdLLUE1MVRTM0o2TXA5eHVXaVBiQmFTd0YyLWM4U01FT3djMlQ0Nm1tN0kwWHlyRUZ4Tl90N1hJd1l5eHhXNGRHbVJVbjAyRTlhTDFQb3VxZlRBVW5VZ2JzVmFqMFF5eERRTGVKM05ZRlZB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Techish Kenya",
+   "source": "The Standard",
    "region": "KE",
-   "date": "2026-11-12T14:36:52+00:00",
+   "date": "2026-11-12T15:31:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "58f924cb77",
+   "title": "Mozambique: Number of Arrestees Allegedly Involved in Bishop's Murder Rises to Four",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcGNRRGFkVlQ3a2liZWQtVUphbHU5ZmJKbW5mTWMyMGlTWDd5bVpaTnI0Tzk4OVppSlhnRE92ZXFfSV9TMklnelJuSm5XWlpDejNmZXhnVUlrdVU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "allAfrica.com",
+   "region": "KE",
+   "date": "2026-11-12T10:48:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",

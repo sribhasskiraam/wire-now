@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
@@ -21,8 +21,25 @@
    "topic": "Tech"
   },
   {
+   "id": "1ca6fb3e7c",
+   "title": "Quattro petroliere a fuoco a Hormuz. Pasdaran: 'Rotta non autorizzata'",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtY1h0MV9OWndPeUVHR0Fic3JIc2ZMVVcxV3BscjRRU1lFT3QxMEhLV0M1T3g0QUdxT01STm9MTS16dHVyNVF5OVhqUTl0dUdLWF9fUDZlY3hVUkJKQWpTREtMSDk0SFlKV24xV0FlWEhnbHYtbEw4TDlqZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky TG24",
+   "region": "IT",
+   "date": "2026-11-14T06:59:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a198f1cc1b",
-   "title": "Wta Finals: Andreeva batte anche la riserva Shnaider",
+   "title": "Wta Finals: Svitolina manda ko la Sabalenka",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnRPc0VjQ0FteE9Ib0QxUGphcG5lcWVoa0VIN3hWMlBWbHMxZVJhQlZfOGE0UTQ2UVMyUXM2c1pMTXI5VXBpVHV5SEpqOGQ4TnpBTXA3b245QUs4c2dadjItYTJhd2xTcFVDNE0zUjFnNDVCYnMxRXlqVEx1WmVnYU1aZi05VVpQNUE?oc=5",
    "summary": "",
    "image": "",
@@ -89,9 +106,43 @@
    "topic": "Society"
   },
   {
-   "id": "0871957c03",
-   "title": "Teheran, tre petroliere in fiamme dopo aver urtato mine nello Stretto di Hormuz - Onu, emergenza a Gaza per maltempo e restrizioni Israele",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaEZuTk00RWtPUS1IaEJEdmQ0Q2NoczNSTnhiX05XWDVKU3djajd5ZFA3OVNqc1VXUEFkZkZncmJyblNXdHVDYnp2ZHJHUzBpSEFSQ2dkUWhERGszc1UtbXhHa1NMbUFFUTFyNWdlRmNaSGRLUERaZjVwNHh2azRZRndpdVZZbEF0SC1CUkVwYXA4SEc3T0RDMWl6eXdFSVZNRkZFdjhzeE1aczFnSFVlZTEzOWZUUE1LUGhaZGg1ZnlpbmNRWXBtY1BKQkVPMmo00gHWAUFVX3lxTE9fWnRxVmU1UXlJY1VfQ0Q1UVBVbnJhNVZkcWVVUWU1SGNBSDBmTE92RV9JVGRpWXFmTzBORE02QTlXOWVjQ0JqVVJGWmFMMWpSdkJUVjlES1RiSkJIeEFGY0Y1a2ItaFpBUjc2c0RpRU5fLW1iemVRYW9WdUd5YVF6bHR2ZS1sQ0toTWR6ZHBTSkdDOTdGNlQyOV9vazJGSnhFalVDQjAyamxNZkdKOV9mUjIwX1BUdG5saFlPaWc3T0lMckpUZTEtczg3b2hURjZrTUxBamc?oc=5",
+   "id": "0e40e8c9b4",
+   "title": "Così il Microsoft down ha mandato il tilt il mondo, cos’è successo e perché può ricapitare",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzIwMzZ2NlFfUjNMZkRONGZjZXA3Vl9lem9sbWZ5dUlvVWN5QXljbTBGenlhem1xaVVodkxxQk02ZTdxZWlXM2FjdjRfNjZMM05BWkN4bjZWZzlfR2VCcEJfOVR2ZGMwUFVxNDduNE5PT3lqeHljZjRHQmFqN0ptRmxB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky TG24",
+   "region": "IT",
+   "date": "2026-11-14T05:45:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "3c3adaff7d",
+   "title": "Tutti gli aerei a terra. Voli fermi negli Stati Uniti",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLW5HbFptZUZsUFVyZFROOTd0b2tHMHY2c2NzazlXc0tiVFRYNTc0cUJGem93dlFsNnFLMHNhN0VrYjE4RjluOGFuV0NiRUNwN25ERHNxbUZ6NDJhdDVCUDVjNEw1ZHNDeXlGMk1FSzIzNzlVX2VpaU9KUFc3WXBsTnNnSnJJYl96T1VVM2JwQW41Nk1Pc2JiNXhwVDR3eko0a21VZkZKNXdRTUxLM1ROSUtZQ3FSbGlUa3RUMkYxdDFOcktwX0hhLVkxa0FTaU0xclV2OUlVbTZYYUJaOXBMTGtyWGXSAeoBQVVfeXFMT1RZUFBVajYwSjNfcmNxUnlWM2pxXzVGeEN2Mm92emNWWVZmS2E5MzFZZ1BMVGZLdjJjNDU1UnJUREZyRDkwbmtka1RRaDdtYXNnbkhwQUpyLWk1RmhXZFBWMWN4dEdrNEE2akt4UFB3ZDBNbXZXNE80MUFJbGc2X2xRcmN5Z1NhbDFETW5aU1g5WW4zZkc4a0RNTDR0SFl4M1VnN3ZtWjg2aUxCalltcXd4ZUdQTWNIY29LXzQzbUNtbTZQSWQtSmxSMjdTamR4SFJqMW5ieHFpcTdERmNjRktuYUc5a2xYdnJR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RaiNews",
+   "region": "IT",
+   "date": "2026-11-14T02:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1db65c9104",
+   "title": "The Voice Senior, trionfa Giovanni Scribano",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZi04Y3M0LWt6Vm5rOVNoUUhYaXJ0VlVfUERDOWF0R1NlNkc4cWN0U0hGemJ3S1ZGdkc3UWcxNXJyVWdXWUU3YndONmV4OU9XaXlxdWRpaEozejZWdGVCT1UySUxpdlBWNVpwSGRiYk1nVUJ2cmV6S0RMMFBwbGcyZmZYTDktTElVNWJzTEFkbnhoX0VmUDI1dGlHQkk3MERyMkJBTUxnZ1dJU0lINGxLZVJvUnhmZnRMdkFzRnJzb3pfd9IBxwFBVV95cUxQdkhBMTlGWmJYUGtXeWxNSmFvNjU1clZ0N1B0bG9mRXA1N0VhMzN3UXVLcUFVcTByajZ2RlVtUXBCOXM3T2pTa2o4Zkc4MnpmOVZlQkN6QktQNk9CanJmYzJMNjdveFB3WnJFd1hXeWJTcXFfcm1sRGU1Q2l1cnY5TktLbUhFSzhBdjdPc2tYek1HREtLa21ZSzJxSVE4UEV3Q3gyeFpfNnVWX3JmT1YtQnRsTW4wYVlBV2d5RkF5TUU3aXdZRGhB?oc=5",
    "summary": "",
    "image": "",
    "source": "RaiNews",
@@ -191,14 +242,14 @@
    "topic": "Society"
   },
   {
-   "id": "baf4dda842",
-   "title": "La Germania di Klopp ritrova il sorriso, dilaga l'Olanda: 7-0 alla Grecia. Fa festa la Svizzera per la promozione",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMnI4dWd1OWlUX3NKZlB4NENaWU82XzhrS1VqOFdqMEFsb0k2ZUlmenNsTFpTUi0xOXZndVU3dFkzbExUbUJzTEppOThJX3FlM2Jhd2EzUUd3U3NDeExQdmZxU0I0WVRpTGJBQzVwaHU4dF81R3czYXpmZlJrZ2hBdGljT3RjNVRoR1ZUQ0JmdHZTZ3g0WEJaeEEzcFFOejVnaXRFSUxfelJwNjBGWVlCeDI4T0k1YV9EU1Y4VjNCRkxTZXpJa19qeVNpZkg1MEdfSVpBb2JHOEd1ZjBKNUZqMkVKZXdpNEJNT0VOV1V1akFLbVo1ZmwwZ1p1bnAzOTR1TkxpZVFaelp5aVVES1RfdGpJN0pxNEhuLWNSY0ExUlR5Zw?oc=5",
+   "id": "52a3b0505c",
+   "title": "Stefano De Martino annuncia i Big di Sanremo 2027 ma abbandona il Tg1 per riportare tutto in prima serata. La data ufficiale",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcERLbTh2bXR2bFZDN1hBcmJ2bEdWYklqNHVYUnJweFdyMEh0VWM2NTFWY0dIelhQRk00NzZKSVVwTmVGSnpxTW0yN0hXaWpuU3NDLTFudk1qcG1xaVVxSFg5Yk9nUWJrSmdMdmJHcGFrRVR3TkZqQWs0d0F0Yl9zVHp0NjZGTk5WcVBKZm45eUlObGdoRDVvLXROR2J1Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Eurosport.it",
+   "source": "Libero",
    "region": "IT",
-   "date": "2026-11-13T22:21:57+00:00",
+   "date": "2026-11-13T22:23:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -206,6 +257,23 @@
     "flag": "🇮🇹"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e67d46072a",
+   "title": "Garlasco, Andrea Sempio e l'intercettazione su Soldani: \"Magari hanno allungato mille euro ai carabinieri\"",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZk9Dbzd0YVRoNWktLW9SWHZnV1pLNGh4NXVIbVhHSEFnZEYwcWZTaElUZDB1S2dJME1McUlLMmp0cXlWMV9LUXB0UlR3REd4TGpEQ0NnQVhuRXpoSjNyT2I3cHF0RVV2YVE4WHYtVTZRRy1mXzNSY25uWUhrRFhiVHRVQzFMR00xVC16Tms0NzRueU9ZSXJydHM5am1QOXpIMUZxdmtPVU9JR2RkOWU3V2k4ejNNZnNHVW1jQ21xSXFCWDdZWk1OY2t4TEtNbWFGOWp0RG1VV1JUUdIB3wFBVV95cUxQWXF3ZE9mQy1tM1VlZXJzY0dFZnZYT0VBT2JIVmZGZDRMZy0xemtENjNlYko0N1VWMzl2YmM1OUdpOGJsd05BV1dMd2ltbVY2aEljMEpyQlZHTlZfbUVJbENoNHZWUXlsVTR4MllUdkt2V2dPMVc5SlBQRHo0VVNUeFM0T2pRRVMxc0dvM2tFV2k4WnQxZU51aHpWc0NaTDJuTmFtbWdrVFF1bmk2MTRqeTNxQU5xalZyX19BLU1aM1pDNE9aZEZybmVaM0xudHJza1dkLXl0Nkc1TXQ2dkFR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Virgilio",
+   "region": "IT",
+   "date": "2026-11-13T21:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
   },
   {
    "id": "e67d46072a",
@@ -301,6 +369,23 @@
    "source": "Il Fatto Quotidiano",
    "region": "IT",
    "date": "2026-11-13T18:55:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5f32008dd0",
+   "title": "Pilato e Quadarella si confermano al top nel day-2 degli Assoluti in vasca corta. Menicucci sugli scudi",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmI2TjRkUXVZaW5wOTh2bWJVTDFGcVdHblBuam1EVkhGQlE5Q2EtYmtkRlVsc3l5RFBFajZoNTl5akViMjE0eDNScDZtUVp0U3gyT3N1QjBIOXVFdFNqWXBZdDZOU2NZVmZrVHlEdDdMbmRDczByWUE1dmVPUWxpTHVQOUpMUndjWWEyS2hTcDVVNXVJLUhnSldJQXl0ZGhhZEg3eDFnZmd3VW1HSTZFdkxoVEhEN2JfbG1jaUZSNWNnVVJ6QUF3cG5UOWd5eHFiRVM40gHYAUFVX3lxTE9BU29nWkduSmQybktnU3k4MW9fWk4xck9FbVRXbU5KLWJDOFQtTGRGNGJyNW9GMlVVX2V4Tl8tYmJLWTRkTTJDVVNNVTV1Q3BpNUt2YXRyNGxZaHJob1NiOXJiTzdrVXJVekstMmtIVEduX3d5LVdacVNnNHk0RGIwV3dHS2pPM2JXVVNpMk9xU0VYbkdXOEZqTW5EampGdTEwRjV4bXpTamdQT3RvbHBzWGJ0NmtLRU1zVlJ5YUZHVVg1VlVkc0l2V254bHBKRWFVZ3ZFY3R1YQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "OA Sport",
+   "region": "IT",
+   "date": "2026-11-13T18:40:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:29:44.308773+00:00",
+ "updated": "2026-11-14T07:39:06.509920+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -34,6 +34,26 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6167e53703",
+   "title": "Update: Flights resume, but chaos at U.S., Canadian airports continues after FAA ground stop",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUlQTUpZQWtYelNoUTFZV2ZleV9kQU54bGg5dV9vaTNadlc2YUdPR2lxTDdoaXNfOEhnTWJ0VXpBWkh1bndFWW55aE5ZcnJ6bzhqLWQ1TTJvbGc2RlVIN2JkX1B6UElyZENtQVplbHNLbVlJb3VYRnBPNHd4d0lvVjJ5MHVOdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Vancouver Sun",
+   "region": "CA",
+   "date": "2026-11-14T03:49:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇦",
+    "also": [
+     "Canada"
+    ]
    },
    "topic": "Society"
   },
@@ -192,6 +212,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "c84e07323c",
+   "title": "‘I breathe, I’m in pain’: Woman suffering from endometriosis urges Quebec to take action on disease",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIRWtVVkNHcHNxZXlTVTYzaGF5UURlcElXWGh1a1JCcWIzNEtqamhFLU1VaXpQQ3NwUVJPalpKN0U2Y0Q2NE9GbkpUbUNhZXByaF9qdjBkeUJSVlpyMGRfVnp1eUlaOEtNTUVTc3kyT09iRDRXUFBXMlZvVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo News Canada",
+   "region": "CA",
+   "date": "2026-11-13T23:33:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
   },
   {
    "id": "4b045dda9a",
@@ -365,6 +402,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Health"
+  },
+  {
+   "id": "90a3894765",
+   "title": "From Bollywood to Clippy: Nvidia scandal, Outlook glitch fuel meme storm",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVhnd293Z1pDMURYSGdRZ2NPMVRTVEsydHp1WTRYT2RacEZRalNCZHc3dDB0eHREVGNIZzM2UFhpMnFDakdwZHAzekFkcWRyTlE0WlY5UXB6OTJGZ3pjZ1I1dEhaLVcxclhWNDRNa0lRd3JES1JMSnNJM2ljTUl6YXR0R1lYMHQ5MEdZLWdTWnFFQnhOekp2ZlZ6aVdRa2xIY2dyYVpUU1licDVESDhFVHNTeF9vSW8wak81QXdB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "CA",
+   "date": "2026-11-13T21:31:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "495d988ccd",
@@ -603,44 +657,6 @@
     "flag": "🇵🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "c386cb4923",
-   "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "CA",
-   "date": "2026-11-13T07:11:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺 🇺🇸 🇮🇳",
-    "also": [
-     "United States",
-     "India"
-    ]
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "db678a2cff",
-   "title": "Endometriosis care in Quebec inadequate, says women's health group in open letter",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXFxNWhKZS1NYU1TMk13WjgxY29WbW1QcVJMSFVtWWRGd3V3eWhPTEJteFNZdFRHd0U4NXF3Tm1zaE9FRmt6X245Q2Vhc3ZFaTh2VTBqUUtDSEZqcm1NZzhZM1hBcEo4bDVmUFdiWlpLaTFSd3JzbU9vaEtMakNRVmhVbE9HZU1S?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-12T22:26:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Health"
   }
  ]
 }

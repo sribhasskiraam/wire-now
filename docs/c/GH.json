@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
@@ -38,21 +38,21 @@
    "topic": "Society"
   },
   {
-   "id": "7e541f0e94",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Z3cxc3ZwT0p4VE9jQk9CR1B4MDdmd3Zta1ludHh1SjAtM2ppWmN0LTEwV0hkSDM4bUdRZm9HcXFXMDhYX1NsYXc0ekdzckktaXdiSWF0TGhJZWlCVjhhM1FxRFNMWXFMN1lobjhn?oc=5",
+   "id": "877e03355e",
+   "title": "2027 Budget: Ato Forson contradicted himself on borrowing – Amin Adam",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1h5NHlrQzhxMmtDaU1NRUZ1dzZsN0IyRm5McjhCdmpha2pUYjZmdEpybEVuc1lCUUFxTjlQbG1OWFZjaTMwWUFtaHpjNDdveG1tUG5pX0g3WURXWVlsc1NBSVUyamh3QlhBM2NvbEZobWZqcTM2aUVsc09DeDJhWXN4OTBneDVGckNfU081VE9icXJVTkR30gGWAUFVX3lxTE95b0F2QUNwb1AweTZBQk53d3FOb1puLXJ1MVhHeFpYcW9UTlNSaV92NkZCdVFFY3BObXFiRHFRZ0tHZFZlbVYzdDMyUmZnS2FCa1VxMUEtS3F6bGZvQ21nNnJNVWhMXzlIbkdfRFhsb2tyWEVGT1FlWG9oOEZia2VUbVNIMExfMm5jYl9mandPU3ZDT01YQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Science Daily",
+   "source": "Modern Ghana",
    "region": "GH",
-   "date": "2026-11-14T01:14:51+00:00",
+   "date": "2026-11-14T01:51:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
    "id": "a8e481e3b2",
@@ -165,6 +165,23 @@
    "source": "Jurist.org",
    "region": "GH",
    "date": "2026-11-13T22:49:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "6edcf48076",
+   "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlNuaU5QNUNJVFRFV2MzbWVCUm8xUG9PMkVKT29mMzM0cTkwU3d5WVZOT1MtY2ZBWWM2eGtoOFhXSk1IQmIzV0ViYU9RX194OGhGblpNVks1enhPWVozUkQ1aDR0SkRhRXdaQVgxMzJzY0JtZHNERjh1dFhxWlFGdERSaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Space",
+   "region": "GH",
+   "date": "2026-11-13T21:25:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",

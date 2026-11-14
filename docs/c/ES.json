@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
@@ -55,6 +55,23 @@
    "topic": "Society"
   },
   {
+   "id": "0324d5d7fb",
+   "title": "En una ráfaga, Uruguay le marcó dos goles a Argentina",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2xydDdkb1NWTDJxY19tTHBJdVlsN3Q3ZFZ6UzRjRHVmWjRxSlR1SFdMd0ZTOXpnM1NZd3pkR1Utelk5Y0I2cFBHbkFTTkNIeDlBY2dvNFM2Wi15NkptWi1lOUEtSHBQWXZ1ZEZKdGFPUklTdUlBcTkybkJMa2gxVTB5dUpja2s5YmNYSGxDYmMzMXB2NWVhRWpNRTF1Um05ekpMYXhZcFNxZXpBUkZmTXFiN2VZREZVLVBzQ205NXQ4TlNYRGhJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "ES",
+   "date": "2026-11-14T00:47:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "5de299b663",
    "title": "Rescatan a decenas de pasajeros de un crucero que volcó en Nueva Orleans tras ser embestido por un buque cisterna",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ycFVjNDNkd0VOSjFQRVJ6X053Uk5zUnRTaXFwZUtZYVNZaVR0TmdaNXZTdkhYS3FnRVgtOWdkeWxXU1drOUJaajlzNjhQbFRaOEhuSUFxQXdkbzVn0gFiQVVfeXFMTmFpNnB3Y1NRRWZrRTh0MF8zM3Y2N0J6RHF0VjhZMzk4QnpIdHZKNVlXUm53RGxMOU1zbktCOGpzMDQtVjlwbWx2el9SWHBZRk1JNkRWeTk5Tjc4QTlCRE1LLUE?oc=5",
@@ -80,6 +97,40 @@
    "source": "EL PAÍS",
    "region": "ES",
    "date": "2026-11-13T22:36:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c3a0fe9362",
+   "title": "El Celta se impone en el Helmántico y firma una manita ante el Salamanca para avanzar en la Copa",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUFdlSV9qa2hrdUJjYThyTGNIaDJjWk55OG52eEVLclQ4dU9YbFMzRFA0M1NkdWVvMmd0ckE5X3JwQ3F2SVdVUjdJLW52TVhRZXp5ZjRwcXBXdVFqZENNN0Z1SU5Ea1VpSnZRN3p4QjFNUWl2WGNUV3hNQ1dtczYwUjJCa0ZqS1poQUxTTnlIdXJXVm9nQXJYS1ZHRWwxdjVPM3VOT2V1aktwNjVfaWdSMUx2ai1jMGJWSGZnVVM2UHJ4WE5yWUE2U2dpTk5qLWtzSjJCYQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTVE.es",
+   "region": "ES",
+   "date": "2026-11-13T22:35:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "06fabeaba6",
+   "title": "Países Bajos se da un festín griego y Alemania resurge en la Liga de Naciones",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkczNThMMnozeDFQODlQX25SWTdfRHVWNkJSYXBJekJYNVJCYS1KTGZlczNEMy12eGl1blc0SWRKdFZyZjlIRjNsaGdfdmNfSlNKaHltX3NCQUdHZklWcU9nZHFWbmVjbUhPZ0diSjA4dEs0ajhCWGRmVWJnR2lJNVNNRFBSb1NKRmU2RHR6NlZYR3h0QnIwVXlvaXRYbkp1MmpVLWdidjRPeEYyWXAtOUVPZzYyamMwLWQ3V3RKRDgtU3RNSEhCbDdOR1NOZ1lUX3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RFI",
+   "region": "ES",
+   "date": "2026-11-13T22:31:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -191,23 +242,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "03b693923f",
-   "title": "Inicio de campaña: Sánchez reivindica a los sindicatos, Feijóo tira de insulto, Vox de internacional ultra y Colau dice que \"no todos son iguales\"",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNblBXLThVVUE2MVdkZGVIRjJod3ZPSE0xOE9DZUpJY3ZVZm9zejgzMWsxcjB5M1J6T19LdkU5TEg5NEh3YmdaTklVWXVzSjNmbENvRlZsSHFQbGUtN3NvN0c1bnFuaGxuOXVtcDRHak1mbW9KSEVqbU15bU5RNjZhZGFTM3FlR1lPSmd6LWw2UVFwM1ZYWGpxQ0NQLXBSU2I1MVpKWUZqWU8tSW56a2ZmZHdyQmRtUlIzeG5ydVZzeTFHbUJ5bDgwbHZfdUdLT1ZsMlY3TF9qcDYzQzgyMDNwT1FoaUZRZ2JzeWRUaGI1OWw2M09JMTY2cG1hTlVVbEI0QjNfTVVvZjBOWjdaWmtmWGlUUXFpV1gyU3FFWHhpQmtzX3U4S3FqbGxEYU5vNW1Z0gGwAkFVX3lxTE9Bay1DNEhLRDFBM1lkZWJyNnpSdWlzX0Jyb1NqVHJjVzF5OVlCV2RaLTE4clRLa3NjMVNISkEzaFNNOHM3RHpTeG9xcmpfU0p0ZDNvejRobmpJYWFaSkhhMU1qbUw0WkpFdXlqaUNtTUc2MzhhRjM2T0lFRl9ZRjUyRHh6cm4wdzVrdlBITWc3S21pUF9qNXpBM2pkZ1IwbkZKd0hVdE93YjBra1VydTkwUWo0U1p3ZXVheUlGTU5FRERCSFdYOWc2eDZ0SkFjZFBsVUtRdEhSRmMyNllzUmVhSjVWMWN4REhIUnhlVHRMTjZ6bW0zZTdiRDMwUUxHWDViVjdVaUlTc3o3T1VnMnR1T0k5MWhjRGpQbVBGOHBMZnhWUlF6YWRHMHRoXzFkSGs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "LaSexta",
-   "region": "ES",
-   "date": "2026-11-13T20:15:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "42f59dfc0e",
    "title": "Tu PS5 mejora Spider-Man 2 con IA: Sony amplía los juegos con QSSR",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NbHhwRmRmVFpMLVdxa2J6Rm5DRVFpSXUxOHJ6ODVrYUFjX0NrVEszVFlPcFFKd0hFMUxIdE9ZR2ZkXzhiMl8xZExsb0k4Y042d1NZQ3VBV214TUNnZGphbmlLektZcVdVT3BURA?oc=5",
@@ -281,23 +315,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmVreWo4R1gwbEZJYkpQNjl3YWExcmtjZVdFckFZTWNyQTRlR01wQkJSVVJ2MmJNQjJKVW1icnhWTkM4VXVZZFN2aG5QSDljWl90cVBnNjVueXJGc0RGWVY2MFlONFBBd1V0R3h1dnQxOGw0WE1WUzV1al9oMkhtOGQ5U3FXMVVBVjBZ?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTVE.es",
-   "region": "ES",
-   "date": "2026-11-13T17:41:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6a4744ca1e",
-   "title": "A través de TikTok: Piqué dispara contra la Federación Española",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWUtY0dkNkwzOFp5clg3eEdWRUM5eE8zNk01REoyY2ZiSlhXaHZnU2ZnaFZndUhob2JXWGsxQkx3OEF3cHdhRVhoRmtFOFJVTFA4QkZjVWUwZVdsUWs3LTFTbkNyR1VVZ3ZjczRBb2VnM0pkUVk5ZUVSRlJVaXA3dGpfbEI1NWlVWXF6a19IX2ZvX09oRDhnSDBNeE5rVVhtdFk4NDdSX05iZGtGNWNUb09BOUVQQQ?oc=5",
-   "summary": "",
-   "image": "",
    "source": "Goal.com",
    "region": "ES",
    "date": "2026-11-13T17:03:44+00:00",
@@ -308,23 +325,6 @@
     "flag": "🇪🇸"
    },
    "topic": "Society"
-  },
-  {
-   "id": "b751b96345",
-   "title": "Las últimas horas de Jensen Huang en Nvidia: “Soy un pedazo de mierda”",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGxxN09vZ0RtTHNkLVczcFZEV1ZnVDRSZkg0TFN0VmstRGEybURVUUxZVkkzUmhESHM3SEhOSTlFNXVlWlBZYTBFMV92STlmMFZqMW5FYWhiaUg3THdWQVNhc1Z5SllIbE5DX245SVRXcjVKQVgxeWFhZHFnamxVRklOOW5Pd1dCc2hmTU55VHl0Z1RzUXpjR2MyVk9UQWNWV0JSQkFzTEc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EL PAÍS",
-   "region": "ES",
-   "date": "2026-11-13T16:43:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Tech"
   },
   {
    "id": "e5942fab1e",
@@ -352,6 +352,23 @@
    "source": "Diario Sur",
    "region": "ES",
    "date": "2026-11-13T16:05:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "655eaf9a64",
+   "title": "La aerolínea Plus Ultra restringe sus operaciones y prepara despidos por la deuda y el alto coste del combustible",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEliMW1tMlk4d292VW9Sdm5uOExmM3FvZ3NUbk5PRTRtcWNZQnB6NldDaGtDbmhOWFd4RUNUOHpOMFA4cVdGUUNaNE4wNmxvMHhXdzctMV9Xa2EzVFNHYWdib3N5WWFLNDJtR0JNRzkwN0NBelVvZi0xaUpHTlo3VldGWjl1M3hBX3dEb3dIamJkQjdLOW9EVXFWWGY5NHBZMEFYMXZfUjZIYzk2YzJycTVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EL PAÍS",
+   "region": "ES",
+   "date": "2026-11-13T16:05:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -463,6 +480,23 @@
    "topic": "Society"
   },
   {
+   "id": "7b151ef786",
+   "title": "Pedro y Manu Sánchez mandan un mensaje de apoyo a Broncano tras su entrevista a Santiago Abascal: \"Ahora más que nunca, que lo sepas\"",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNXzEwcVJrNXdvTW96WDRqU0FsdlAxUS1qZkpyY0RySnlteVZOMlAwNzFneHVQMUZEV0NzSjgtNzRZeUZmYm5qQXJwbUwzLXZob2M3TnhtaUV5QmhQaXBPelpOYW1QYm5KTHhiY3VqQjUtUGs1QmJWR05rN2w1NFdPbmh2eldfZ0VxTkJOWGNiYUJJOFJzQXNPQlpBaElkYmtjRC04V0p3VUlQR3pYZmRfYU45UlNNaC1BbFo2aDZZZ3BmYlpEN2JLd0VOTGhvb0NQbUdjZlFPdXZtZ0JnNTM1aGpyWFpybVhSWEZpY2ZrS0w1b1VkZllTdlhQMGwzZ1Z5Q1FvdXZtdDBVdzdhcFlRTGU5cnlhUm50RXhpY2lKbmhYWjVwZHpVU09DcjBRRGpvX0RQSXJIbjBPVE1K0gGnAkFVX3lxTE14a2tDc2t0TzJILUpHTmduS1NBZDh5ZlBHdllaNkluWEV6bEJpUHhXTExwbF9ESEw1TEtsckprSHQya1JFOWhOdUhrbUU5bkl6YnZXRGM2OWF1aS1EbjJmWVVNZGJyY0VEbkMycGpWMnVxeS1NTTVrNDU2anpubWZrZlNfV29nbjNCZXNYRGtEUlZ3bHhodU0tLWlpNUpCTnpTYVJITWxjOFI3cGkyY1N6N245X1BHdjBDcHdEWmZRSGFsVE9LNk5JUnhMSWhZblA4VHRxWDFEY3RZdWpTejYyLVlYSGFwN05rSzFwY2xvU01Vdkcwb19abUl5Q1dJUHBEckNYS2l3TFhLZGtoall0RDY2VFQ1WHpsRGctUmdIQjg3ajVtdnM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "El Economista",
+   "region": "ES",
+   "date": "2026-11-13T11:53:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e0cada22d3",
    "title": "El Centro de Salud Tomelloso I acoge una charla sobre diabetes y salud bucodental",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGpvQmg3WHFaX0JOX3V1aDlQUXJIbVRMTkFYeGF3MGdxZDNKRm9ZQXhNaFdsdG52QVdZR2lqVGF0VWZJQTEtb0VrNy1GZnN3QjBaQ2wxRHV2aVgyczVzTXlpTGJqMjZQZm8yS3VvMUluSmpKNERhOUhqMUdUTnQyVnQ3UDVSdFgtZnROQUYybDZzaGZHNjA5RVk4VzhIcV9EblFpaE41TnVwdw?oc=5",
@@ -514,23 +548,6 @@
    "topic": "Society"
   },
   {
-   "id": "ad487b9457",
-   "title": "La selección española Sub-21 despide el año como local en un amistoso ante Japón en Almendralejo",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXUzOXZ3aVI1VHdpOWx6T1Uwa0RLQzlOU1c5RGtMVW9XVnFkYkFJODQ1clF3N3E2akNJS1NLNGNJNkNyUjh1aE1XRU5TQmhpMVFkc1loMTZkLVlncGhhVUgya0QwcXpVSXVhWk4xVEU4UXNUU1B2aTcyTTZrYU5scXNJcU85cmdNUlp4clZwaGpzNmJyRnBmUzVHUG8xdk0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTVE.es",
-   "region": "ES",
-   "date": "2026-11-13T09:39:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b43190ac27",
    "title": "Los últimos sondeos anticipan mayoría absoluta de PP y Vox, con entre 189 y 202 escaños a dos semanas de las elecciones generales",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcHhVTFZRWkVyM2RvOTN6VHBrN05oM0VfcUFyZkxNTEkyQzYxb3RlcW82UFV2RHlfQ1FpQUEwNlBnSDNPRHhCRVE4eC1zdVl5NDN0cHpHWFFVaXp1eGtWNngxM05VQ1d0RmJYeUs5WUdwbWl0empkaVVCWV9SOU1tMGRNZnluMGwyZmNISEFzdXpWbWtxeFB6Y3hESUhlM0FrdzZIeHlZdzZiRW51OVoybWJwTWdtZGQ2U01ZN0xkdVFQdTFaUFJRM056QkVwOGRoNUtkM29nNlBRSDNIZDJBTnBEWmlEeFpUak9qTnZHbmVwRmvSAY4CQVVfeXFMTTRvOXNLSWdkNXlGV2RxTTNnZG5aWlN4RmlJemRfZmR6TG5vWGFWVzREbXZQd1VhTEwxTjl1OVlKbzdLUWJDQUh1UTB2V0tfVDl2YmtneVRZMUZCeEZRRmJOWnpUUkJUbVdGYmt2X0pPTXd5THczVmhva25wVzJlcHR5OGJoWUVOTnJYRldpRVRwX3ZLR19EaS1HTzcxbWlYSW95VTBpR2c4dGRLOFp1NUJidmVtZmwzajNtMm5sbFBGUWhjdWUtYTBlaVBnaDRZcVdMV2FMR08tdmxxWlR4Njh3c3o4ckhhTDFHNTZzRW9pd1JkbFBKR1hRTHdNQXlCRlZUN000TWV3QXFZdktR?oc=5",
@@ -548,23 +565,6 @@
    "topic": "Society"
   },
   {
-   "id": "e5638b390c",
-   "title": "Warby Parker materializa su entrada el mercado de las gafas inteligentes de la mano de Google y Samsung",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGpNRTc3bktXVWRzMnJHNXZ1X2tGLUQ2V2YyLVJXcjFfM3Y5Y2J0c25VQ05iTlI2Q1BtWFF3M254YU50bHFXNUtBdE5xNXZyQ3lEcEw2QVhmNWhYUy1NVTNva2JUVXpBMHRFUXdfbU1pQW5GVktRR1VsT1pHTHNsR1ZWTmwyWE5KcEVQMFJPaGsxYWl0Sld6MncwOXRXYTBmYkNfbDU2U1NkbFhVQ1YtUkF1R2NXanNLY2ZtX0d5T2ZHM2pmU1Nz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Modaengafas.com",
-   "region": "ES",
-   "date": "2026-11-13T08:54:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "df4b31f1fb",
    "title": "Día Mundial de la Diabetes",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORm1pWmZuV1lOTVNJWVVHRlFJT20yOHFLVEF0aDBCMzZOZEVscDVxaHF6UkpXZGNFVmxucGhROGlxOW52LVV1RkNST3dibnFnLVR1UGhsRDd0UzkxY2RTY3N1M3E3c3kwWUJ3Wi1lQlk3TTVmY2UyRlI1dEY3a1AtRTMwQXB0bDNlSXQ5NnFJb3ViWW5jTVN3Sy0tTGtxRGN6SW01eVlrV0hyUlM1WEVXRXBOS2VEWXVrZmtMS2RZWlQ1NzZ0TEY4d05KQnZabkw1dkxGUkV6SGVwZ2l2V3h6ZklYbmh6eXFEUVE?oc=5",
@@ -573,6 +573,23 @@
    "source": "Somos Pacientes",
    "region": "ES",
    "date": "2026-11-13T07:21:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "893ad441b0",
+   "title": "Khadija Shaw lidera el Team of the Week 9 de EA Sports FC 27 junto con Florian Wirtz y Grace Geyoro",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVzNDcXJucG9yVU9GVWVDbXpoTS03N0w3VUZOa1MwOFZNMVFXdkh3N3NWcGxYallXREVIblVLS0laS19PcE5EMHNMeGgtUVgyN0VzZ0NtNXNtR0d3SXdPaV9BeExOVXVidEpwOS1zZE5iY2FBQWNNQnA3VHI2WGJxWW0zSFlRWnFwdlRfaWk3R2p6RmZkb1MzRFBTemJLT0FZYWs1Wko2VUJaOXkxN3ZOcUhJR0ZfMkxhTUlXQV90Q25WNjjSAcgBQVVfeXFMTlpOc2hlRS1FSDNwMGk1THR3UVAzUEcyb0Myb2hLUmtKUkpoTUhfaG85bXA1NVpPRHB0V3RLSDhzX0hiYWdfNS1vMmc2akV0VmF2UXZJcHRERy01b2ZjdkRBcy1MNENrU1Ftc0JZTTlMTXhBNWFNTzhPeF9rU0wxTHpXVTRQakc3V3JmaS1kcTBfa0VOY0IydTBfc2hEVmw2eEctLWc2VkQzVkRoZHFYZXdsdkVJQkFrVDBzejFMUW5GWkZlTlNYSFI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Vandal",
+   "region": "ES",
+   "date": "2026-11-12T07:13:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "NG",
  "name": "Nigeria",
  "stories": [
@@ -177,21 +177,21 @@
    "topic": "Society"
   },
   {
-   "id": "ce67013b39",
-   "title": "BREAKING: 12 Diphtheria Cases Confirmed At Kano Girls’ College",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxenNPNmRCanpoN2pRV1dMeDBlbWdGSUdKX1pFcUVDbi1sWTVVb3hSeGhlYmFhb1FoQTVZRjhEdW9mRVJBSGJfN0RVYVpiNmZOYi11RWY4RWREY2xYUUR6QXZOZEduRW5iSk11X1lfT0tNSTl5dGk3NVZRZXpMalk?oc=5",
+   "id": "f77b1fbcd1",
+   "title": "2027 Elections: ‘We Shall Not Tolerate Irresponsible Conduct’, Tinubu Warns",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHVyajVEbEtBb0dGZTJSRjZSOTRpVllXTWswZEdrQng3NWhsc2puWkg4c3VLTGc3MFljaUlUczVlZGhwcmI5MDJGM2UxWGVOWEVJdmFnc0ZjQVFoZGVKWENNcGF4X1VZNmFoN0dzUUpTMzV6MUxHVzdsZDBSUnhRZzhrNnRDR1plVjJCQXM0R0QyLWpmUWQzZDBtM09XR2hKSVdSMXlRZ2tkdk1nTGJj?oc=5",
    "summary": "",
    "image": "",
-   "source": "LEADERSHIP Newspapers",
+   "source": "Channels Television",
    "region": "NG",
-   "date": "2026-11-13T21:14:29+00:00",
+   "date": "2026-11-13T21:16:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "2fa453bc1d",
@@ -228,48 +228,14 @@
    "topic": "Society"
   },
   {
-   "id": "f7f30ff831",
-   "title": "Latin Mafia’s Fan Engagement Masterclass Leads This Week’s Best Music Marketing Moves",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXBSWHFXUUlWVEFoc283T3N6cVhwXzFWb2FtUE5ZYnhBVkp1TjJ6TndjeHpIR3d5ZS1hZndiazBoSmhNM1RsakRqNzdoTXFseW0xMENvaUx6T1dFVFB2YTJNd2xWbzdENlI1MUd2UW85TEhMdWhTeERMOVN2Uk0zRTkxd2liTXNCSXg3dGhrS0JDd2E5elpsYldyZld3UDk2MXNyZURKbw?oc=5",
+   "id": "c011261507",
+   "title": "Kano confirms 12 diphtheria cases at boarding school",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaW1DOVFRRU5weGxtbW90b1Y2ZGY1Xzdxd2xSYTV5US1xSlpBb2QxbDNDUmF6dzZqVmE3X0Nzc2huY2p4ajQtMEZWRm84R3hiVHg1dUU3eXNHaGhleGE5TU9GNmZfeVpqZ2U0T2IwVUZqSklIOXhBSXJaNEs0RnB0WnR3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "Peoples Gazette Nigeria",
    "region": "NG",
-   "date": "2026-11-13T19:44:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "e1a3346656",
-   "title": "Evening recap: Tinubu orders crackdown on thuggery, Super Eagles win, other top stories",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHZWR3FvLUZFTDZzRHh1U3FGVWFYV1BleS1hb0sxalFQSDRNYW9MYkVUdFU1VHA3bDZoSWwzXzgxVmlCTXlTWk03eGUzaEJlbkFCQUtuZGNqTzFnV3NuSlpDbUdsWnVSTTltNFRienpsUVRweHpLNEFNZVQtVEtsVi1uNTkwbDEtOUg2NzZWVW5YNFlWNjRhZ1hSR01oY2QwRktkUWkxSlI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Punch Newspapers",
-   "region": "NG",
-   "date": "2026-11-13T19:17:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cb6306e925",
-   "title": "Bitcoin Slides Below $70,000 as Dollar Strength and Middle East Tensions Ignite $1.3 Billion Liquidation Wave",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82SFY2eWk5R3NxcF9lVV9nNGI2TDJaVnFvY1F2LUFaMzM1UUdzMWFKSmljTVl6a01fU3JCWENzOW51YXV1YmFlcEF6bzlsY21uNVRmdUpKYkgxTEtZdmdTMlVQYXhscGhvTXIzZ1BiRjdVempMakE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BigGo Finance",
-   "region": "NG",
-   "date": "2026-11-13T18:16:00+00:00",
+   "date": "2026-11-13T19:50:06+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -313,21 +279,21 @@
    "topic": "Society"
   },
   {
-   "id": "f0ed912ae4",
-   "title": "D’banj’s CREAM secures equity investment from Afreximbank’s CANEX",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDhJX3VlWm42UFc2bHpMOXkwS1paSHQ4dF8xZW5udjg4cUprZHdFR1JIOWZaMmlHSVN0SzItejFGZWpENU1qN1lTVUdDdFBOdXRKTkFBLTg0d053SDNjcGVMNi1STW9hQUFCcW9IVkU5VFdYWTdCQzZLWUk0UEplLWlET0V6VnJlcXZVMEljNW0?oc=5",
+   "id": "fcbc87140f",
+   "title": "Bitcoin Slides Under $70,000 as ETF Outflows and Binance Hack Shake Confidence",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vYXdoZTZkclZvZ2xRYUlnZ1VfOXFjRkgwcVlpRDhRUmFEY3EyTldiSTdhblB6MFhaYTVnMUtSZTJldVRNV2tGYjBmMVB2bG1aV0hPRFZ5TGtQZnV2Q1h6bmlnWHNOOEJ1ckNfQ2ZGOW5lQS1oSGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "TheCable",
+   "source": "BigGo Finance",
    "region": "NG",
-   "date": "2026-11-13T17:51:00+00:00",
+   "date": "2026-11-13T17:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
    "id": "1dbc69d28c",
@@ -483,14 +449,14 @@
    "topic": "Health"
   },
   {
-   "id": "7ba59dcf79",
-   "title": "INEC to obey court on Atiku’s ADC candidacy – Amupitan",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEN5RnFad282M2xVNDljVlhiWFFLRGZraG9GQk55U2x2MV9ZMWg1dUgtOVF6Y3NpUVJaRVI1TUF5NFJGZ3JqTlpkT1FONTNQbW9jTHp5WHFyWG94NDRvWFdDZ3FHbFlvc0dqZEZ1eDRyaXdDbndfOEtCRmdxMVliNG43ZjBNNlYtQlVXS2drMnp2Z9IBlwFBVV95cUxQM2lyTHVyclhFS0JXZkRaRnhPcmg4eHBMc00yZjh5ZDJKbEl6WUtraVQwMmlaY0t3aXNUWlI2MndPS2duMm5BQnpXLVdkYkYzNGppanFURnZidVNsVDR4TFM3WVZja0UyeGNrdTR0c2ttSGMxenJsRS11aXFfLVFRdENKMUlIeWhDQkxJQ1ZuUXZMbzR2VEFZ?oc=5",
+   "id": "a0823cf191",
+   "title": "2027: INEC will obey court ruling on Atiku’s candidacy – Amupitan",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkJicmd1aVk5bDFiSGxDd3JVdUx1OWxzeUZKTXFCTGJCRUs2OVRsRjVIZ05Lem0wVHN2SnJVUTV4NzJEZlRrREVuNHZtaDdDQ3BodDFKNlV5ODZQbjhGT09wYmdZYm5XTGQ0WkZpWndEYjBlTjVCczNpNEREazl2ejJvb1lrY1QyakE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Vanguard News",
+   "source": "Punch Newspapers",
    "region": "NG",
-   "date": "2026-11-13T06:47:46+00:00",
+   "date": "2026-11-13T06:17:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -498,23 +464,6 @@
     "flag": "🇳🇬"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "9f17b83998",
-   "title": "‘Children of Blood and Bone’ teases royal revolution in new film trailer",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3YyQjcxMHE4Zkh1S25qcmlNbW4zZ2xob3FtS0xqR2lBTGFTRkNzY3FicE5zb1BoVnlqV3pfRVlFUUdCc0kwV3NaVzBLbjRhV255akZnYVNPR2lKV21RVTB6ZHRfbTNfQVVzcHNYM1ROTnlzWDBGc2ZMdmNoZnUtRzY5ODczSlhFNy1PYWtkc2JWeVBieHRQZ05BUHJsVkhNT2tZTGVXa2hrZkFO?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo",
-   "region": "NG",
-   "date": "2026-11-13T02:54:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "0fbb45c88c",
@@ -532,6 +481,23 @@
     "flag": "🇳🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "1c26731573",
+   "title": "APC Condemns Attack On NDC Lagos Meeting, Seeks Arrest Of Perpetrators",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjJwS2EtcGtFYjEtbEpJZEVvcUZCS1RYcmtWM0FiQ1ZlMEItU2Y3QnZIUkExRkJHUzVIRzB3Q1BONnpCaFl3NFdRSENVOEp0cUFGUWd4bF9zZk45ZXRER2c3TXc5MWw1X2gycTFKVmpYOWUtMEl3RUpjRFExeDNjVlJ5V09lWkFWaHNHRGd2NG9Fbnk4bEVPTGpNODlpSUdoTG92b1ZLWHJmb3c0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "https://thefact.ng/",
+   "region": "NG",
+   "date": "2026-11-12T17:09:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Economy"
   },
   {
    "id": "cf7bdbe966",

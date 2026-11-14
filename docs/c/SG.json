@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
+  {
+   "id": "21e2b20b2f",
+   "title": "17-year-old goes on walkabouts and meets with residents to address community issues like 'an MP'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmw3RmsxTjBYTVEta0tRN2VNT3l6cDZnTjdUblZPVGZUU2FhQndZc3JxQjdINGkzQzFDczlhZ01vUVBWZGhUQVlPOVlLZkFuZHpzOHBCc25iblRscmlOMUZXMUVwSDZMam9McldpUDdYVVp0RzBBSFJXUW1kSzQ4SEw0TzczWU5yOTdTMjlEOGI2YVZESjh5MEl5N0Rud0x6?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AsiaOne.com",
+   "region": "SG",
+   "date": "2026-11-14T01:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
   {
    "id": "bd5f1e329d",
    "title": "Singapore start-up taps peptide power to tackle pet infections, seeks to replace chemical preservatives",
@@ -107,7 +124,7 @@
   },
   {
    "id": "ec40da45a6",
-   "title": "US lifts nationwide ground stop on flights caused by communications failure",
+   "title": "Flights grounded across US after air traffic communications outage",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlBfRi1DNWpWaDFYdjRNS2ZZSFp3YUY5ZDFVTTJoeWt1bkwyRjl6OV85Ti1NQVBMdlJNRVlTVC1OVEU0TmtIUjZjeGZkTjJzdUJKbEJGVmIyVEFzNnpkZXBJUmFRUDZlWExPd3ZRejR5Qjh5WkdKSDdodkZlMzZXbWZjYlc3WnBJSjA2UEJtRlVJdnNGbDE3VDg5UWxuT1hQdWRWUGQ5ZHRjSGZFZURiNkhrZFRyaTFYbS1jSWdUeXdRODNpVUtfR1h0VmFBcTA?oc=5",
    "summary": "",
    "image": "",
@@ -119,6 +136,40 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "08c929a71a",
+   "title": "New smart video system on roads can help identify cause of traffic accidents, detect illegal parking",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUVJxcnpPZ0c5Nkg4ZUFfc09tSFdISExQZFBxOUNGcEh0WDRmTEd1dTdQZVBadWUwbVRIWE9yOGJEQ2hJTW1Pb0lhQlpHYTJyN3BSMm16YUVwZGRLbkpBamp4WFBVMXl6clVVNE54aVd2RHdVYkowV0JjbXpVMS1JSWpaRTMyQ3d3UFFnZGgxdU1ET3oxd2p6UkxCNWlTWWlrQTE0MnJIVFdTUzlRdnhQRGYxQWpSTUI2RUh3aDV6UjBGRVJDY2ZPVW52S0RBYndoc3F6Ry1IRm5LUjR4OUdhUFpR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4443c8e1ef",
+   "title": "Seniors take to the water in Singapore’s first dragon boat race for older adults",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0lGMzh4ZllCMExYYVdzSHVPTnEtVF9VZ2k0d0FQZGZFNExqcDJ0VS1CbWtuTFdzaE15TWE2a05YUDB1V3RRRENnbmhSRmJCU2NHOWp2d3BvN0ZlQVdCa0dwUmdKNlV1QzFaUVRBQXZwYnk0cXZpOUc3TlloT293VzhLOFpiaEVWQklxZEl5WTUxZmZQSjlrYjhYa2xYQUxGbXptVnIzVjI5anZUdE5fSGExZTBRRVZvN2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
    },
    "topic": "Society"
   },
@@ -377,23 +428,6 @@
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "eba9cd6e34",
-   "title": "Li Nanxing wanted a low-key 62nd birthday, but his friends in Beijing had other plans",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1BkYkNPTVo5RmVwU2lLVzA4QWt0NC1XREFwZ2tMZl85OEFNNXNZOVdBXzd4Q3BPUG1VTEJHZUlHUWxvYk9UeHZoVE11T0ZVZjJ6QnZnMkZYS0MxaHM1UlVIQy1USzJWZUZzNnZhQTdfeW11Q0RyZ1VLUENTS19JekhEX1NjYlFL?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA Lifestyle",
-   "region": "SG",
-   "date": "2026-11-13T04:50:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
    },
    "topic": "Society"
   },

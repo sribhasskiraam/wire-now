@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
@@ -38,21 +38,38 @@
    "topic": "Society"
   },
   {
-   "id": "c2e2e42048",
-   "title": "Predicting weather in the Southern Hemisphere is challenging. Here's why",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcF96a2tDZ2JJdW5mYjVJZUhMS3lkRnpNTWZrWmY0SnZ1VmwwOXBDOWFXNXNhMXZzbjZ2dmtvZjBKUUVIc1B3ak5wRW1TaEt6MmpZV29MT2pOVnVUS1pDVk5pVDFwdWhIcmc4T2dLWGlFSEdrYXhnaUZFeVBOSG9UOWVlczRTMjVtdVVOdnpjNjdEalZJSkk5dTFaZjVqR3VvRjhyN2gxVl9OOWwydHFEQnRGY1VnTU0?oc=5",
+   "id": "1543bfcb2b",
+   "title": "Breaking: Major police incident underway in Perth's south",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXd6cjViejdNTmlhenFYZ2wxMV9UMkxfSUZ6WVk3SHJOcTI3dklWZDFEUUUyY2g0bzFPZDRReGN1LXFqZnp1QnA5Z1VhVXo3bVo1aWFUNjVFTmdhcU82aDRYdXZNVHp0RXdpVVBJUnYyYnhSdERvMS14aU1JN0JRbzdmZmtDOEhsQ3RMbU9Yc0g1dHlxQlE?oc=5",
    "summary": "",
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-14T02:22:36+00:00",
+   "date": "2026-11-14T02:52:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Weather"
+   "topic": "Politics"
+  },
+  {
+   "id": "c55aac9072",
+   "title": "Four bidders vie for $2.26m Edwardian house in Melbourne’s east",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjFFVEZVNGxUcEhMdGFLMXJ3T3FBcDJjYTZZV3I1TFJrZGpRdHBzMnR5YzhuQW1EU0NuZTJYYUJTd0RzT1dSZFgwNjBzMzRsMWNadlNXMmR5QldFRVg1UnJ6eVl6aEpzQmZ2enZHeTEyUnFpeHJmZnFnQXpWSVUxOWtZd0liR19Bbm1oRHpLR3ZXeERSd1Mya0JCTG41dVluMllCZEdOdHhuRmxMWlZfQ1FaN2lueTZFbFlBTEptSWIwbHA1WUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Age",
+   "region": "AU",
+   "date": "2026-11-14T02:15:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
   },
   {
    "id": "c55aac9072",
@@ -93,23 +110,6 @@
    "topic": "Society"
   },
   {
-   "id": "c35203a660",
-   "title": "Scientists Discover a 98-Million-Year-Old Mantis With 'Leaves' on Its Abdomen, Trapped in Amber",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlJUSnMtZTF4RWRQaUYxUlRlUlU4VkxmbThXSnB6bnFpLU1uT0RrVmRXNV9neG9lMWxSZnBGcUFVdzQ3RFQ5Q20yb0hvZTFkbEdkN29RM1A3ckFVWkswR0R1NHZxZEpmdExQRGljU2lUaFFsUkRYaktaT1hXbzZuWUZlTDBjWUJLQWZwdTZqaVJrTWVEWGtaWnBtZmdENndtSXFzUTZuZm15cDdBYVF6UG0zTTRNWFA2OXZXc0dn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScienceAlert",
-   "region": "AU",
-   "date": "2026-11-14T02:03:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5c555cf447",
    "title": "‘Extraordinary circumstances’: US lifts nationwide grounding of flights",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVG5XcHl5Y1hHRzJRLTYwRS05UllDQXV4UzVPV3Bud3hkSnF6bFVpQ1FlTU0xRjByZVlkTUIwX3ZzVFpMNjZtTkNibm5pRlVhY1BlQm1jTXQ4OHZueG1VVVkwV0R3eGJDalNERVpFZERScXZpbTE4RGlUN3dLcl8yY1IzdlQ1TmQxd0hoUmh6VDRxRmdJdFl6LTA2SlFPaklPQVN6SXFFTjFHQ0dlQ1pRdE4wMzlkOE5MTEpyQUtTOU9mam1vb21qV3JVOXVaY21qMDNrdWg4d09Yc2ozejZPcXRwUTBzSlE?oc=5",
@@ -127,23 +127,6 @@
    "topic": "Society"
   },
   {
-   "id": "7ee428eea8",
-   "title": "Police make arrest at Keysbrook ‘serious incident’, public urged to avoid area",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnFBdGdOd3pFSmxmU0J4M2I2Si1yU3F0eTdETmlDYTNqOXBacWtPMndOUzBzNVc3REhvaVAyV2NVSUN5aF9fTS1vTHlMLUlZdU5mem5KWWZ2RlItTFhuTzdiMWZFZHRLTl9uVHd6MFdHWHlIMDNkVFBjZmFRTTBWOVRJVE9CX2xacVg4U2dadWpNcXVWam5JQTV1QlZqU2JYLUMwTmFPaldydzDSAbABQVVfeXFMTVI4cTdYVTBoZGpkVXdIZGl0TkhSbjNRN25DRDJ3QkVHakE3a1F2bUFpSUU4T3RDblhKR3ZxYksyWWJnOF9zTjNYM1FjaVVIZ05nNzdaa1A0c19RU2ZTaEJSYnpyX1BTMFJ5QzR6ZWxOM0UwV2NrdVRFN0lWRmx3d1NlYUVrZXdHeHNlcFc5NUFxN2hIQ2E4WC1mQS11ZGxrSHd5eThFZVVRTWRtb2twa08?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The West Australian",
-   "region": "AU",
-   "date": "2026-11-14T01:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "52da90176c",
    "title": "Questions left to answer in wake of Huang's departure from Nvidia",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaU81cHVzQ1J6Wjd4eWhNdHJaSXVObF9TWHN6bGNQTEVsY3ZfNVZLRG01Z1BDbzNKRDdCSWh3WllQVkRaUzB1OVduOG9YZ25nQjBuTmF6UnlwbTZINTl0SFF2NG5iTGg1RWowSHBZbFpoaHpBdzNpUVZlSUx2cXg3QmZlM2ozVXpSS0hQbElPRGY1RnZZUWJ1MENSOU9NT1ZEcThRTDUwQjZxYWVOTkxnMWt3?oc=5",
@@ -152,23 +135,6 @@
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
    "date": "2026-11-14T00:52:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "6c78ea7ccc",
-   "title": "Smartphone app shows promise in fighting late-night snacking for diabetics",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSS1yeTRuSTB5Tm1HX04wdGVHUzJHa0kxdmc5YTloQlFZOWRLNGVlc05NODQ4QUJxYy1QeXpWMktJdU5Vb0RrMzlybkVRZWJOdE1faW9ZLWhmakRyVzVlOFlCaVR0akZYUHV0c08xRkwzUGU1TUlWcmdHRmpYYUdoYnRmS0NRNWw2ZFJYdFh3Y01JN05CSXVOMTNUX2NyenRheUlSbDRoZE55VWU4T0prVEZ5dnBlS1E5dS1hMXR2ZVhMQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Brimbank & North West | Star Weekly",
-   "region": "AU",
-   "date": "2026-11-14T00:50:10+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -368,6 +334,23 @@
    "topic": "Society"
   },
   {
+   "id": "423125c844",
+   "title": "Early-Life Environment Linked to Health Through Adolescence",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOam9JTDliSDV0eF9mUHRUYy1mUjRfR2xNY3RPMVJsZXFCbkpFZ2VRMEcyNzRoUk1uSkl0b3p1VWdrZFFjTVZPVlFGODVTampBYU1LUjNmeHJiaWhBWkk5YV9MTDVKU0hWSmQ0RmVId0dzbXhmOVFRRkRsa2FlRi1IekF2UzJoUm1NMjNF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mirage News",
+   "region": "AU",
+   "date": "2026-11-13T19:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "a95bc6c254",
    "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3M1VHZTVmc0FHZDloQkxsVi1jRm9ZQ0xDRlA3eEltYmNvdHdjLTM4RzJqZmxXZ0xPeWoxVUtLQUQ2SnpNVG8wZHZpMktWZ1F0Y0tGQk5ITl96SG8?oc=5",
@@ -521,6 +504,23 @@
    "topic": "Society"
   },
   {
+   "id": "edfd25bc36",
+   "title": "‘Because of your d***?’: Albanese and Bowen caught in bizarre exchange",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWDFCVFpab29UWHRMVUdtaTFKWFgtY0ROeEdmemZZUjZZdzNrUWRmOVVWLVNuU1dxMzBpOGRUdlZGVnQyYkdEQzNrVDNsd3Vud2F5ZnlVMVc5azJyRkMwQ1ZhbnB5X0l6b2ZTeFJPYUw4aS1CcjJvS3oxVEoyckFxT2IxNmpERHRSaTd4R2Z0dlpHNzJKMTBwRmkwdWFRXzdSYlVWWFB1a0ZUUV9Eekp5dGx2b1NmWHdQUm5zSUZDakxISGFndjJIZDVvUU9KeU52VUZvZEFBX2pQdWtnN3Y5YlVOSXNwbzZrMzNSdTdRdkh3N1VyNTd3Q09IVVlCWU5adkhUb0llcDhfdzd4LWZHWnpnZm1GNFBfdVRpNlYtTzR0d2hIWk1TQTFidkRobHBXcVhTaHpIbE5YOVpEWHdNZDBLTGk0b1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News24",
+   "region": "AU",
+   "date": "2026-11-13T10:22:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a428049048",
    "title": "How Jensen Huang’s fall could ensnare Donald Trump",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTUt0WE9kNU5ZV3RCa2pNRS1tam56ZmV0Vmppb0ViNklxYkpCUkhEOEoyOE0yQXhBTmVmdG9rWVp0ZUQzbUlpbFRyMFNnU090dk91ZWJacVh1UnhRTVhOd1Z3ZGRsTG1xMFNaTll6cXBRaGtDMlZGTnA3M3ZsS1hOTl8xWnFlRVN1VGxucWlkcXYwZzBzbk00UnFBOEJUdFBMdmtKWUZmc0h1U3VJR3JRMmF1LVROQlNUa3RER0tNSWVZVElEdldueXBnVnY5aGt6dlVTZkYxTUJOOFlrWTZrT0h3RFpIUjdiWWRXeFh2azhQYk1yMVNtS1dYMWU4a1NLYzRRVTN2ekEwQQ?oc=5",
@@ -659,6 +659,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
+  },
+  {
+   "id": "082b3772fe",
+   "title": "Perth scientists confirm famous black hole image using AI",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT25QaWZDZDFGbXNmMGZORXV6YVBUMW1WSjJVQW1hSFBubkVUcVM2ZVdkQzk5Q21fU2ExSnhoQ0hucTZnN2Y1V2l6S09oSDJ2QzU4YU9RWjNod3VjUEVPVTN4R2NRaF9ZeF8yeDBVS2tCX01tclZVMzBEbGVYSG13dWdGem16MnNxZFBWZHUzZ3c1dTlZUzE0UFNZVHpxallvZjRmT1FVLWJkUkpfR09RaVhUcW0tZHRaM2huVkI4R1o0cmRveE9pR3VfeFBMbWtLY21VcHdVS2hCdFd6U09PX1hFaER5dlJ2R0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "PerthNow",
+   "region": "AU",
+   "date": "2026-11-12T10:12:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Tech"
   }
  ]
 }

@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
-  {
-   "id": "4a186d3211",
-   "title": "海老名2人死亡 ひき逃げ疑い、トラック運転の49歳会社員逮捕",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TTBPaFdlVzBFSW5ZS3B3NmMxaGRlM2txZGZQZUItdUw4YXMyTk5Ta2cxQnNLaGRmdzFFTE82TDl3OEhKQW5KN2R1Y0k3RjRNdDh6d0VDbGhfclFCQ3JKZk9xSkxCNE9Z?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "毎日新聞",
-   "region": "JP",
-   "date": "2026-11-13T23:28:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
   {
    "id": "224abeea35",
    "title": "「これは1枚しかないから…」矢口真里のお宝写真に驚きの価格ついた (2026年11月14日掲載)",
@@ -123,6 +106,23 @@
    "topic": "Society"
   },
   {
+   "id": "c86b2716d1",
+   "title": "アンソロピックCEO、IPO「期待上回る成果出す」 投資家需要は6倍",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WC1Vb0RveUh2U0Y5cmptYTVHRXBnSWdMenRMdDhseGtlbFFaM3VSUXg2Sno0STg1SVBYSTRqaEZTb0RMWVlkVlNYMkFDZWl2UXdteTY1VTJsMlVaREJTQzNYdDBWdzZ3MC1KWg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "日本経済新聞",
+   "region": "JP",
+   "date": "2026-11-13T21:18:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "22c8e1e46d",
    "title": "京都・嵐山は17日頃、東京・六義園は12月初めに紅葉見頃へ 各地の最新予想(気象予報士 石榑 亜紀子)",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqSHhtenJCdUNDYnVQcS0zVXlwN0NhdjBrTVZEeXliR1dXLWJZcmFGaFYwRXBSeEYtSzJSR2h5QnZSLUk2YW9xN05LUFFfWUh6YThmd3NqUmt6UUlkV3FvajZaeFNlMmZta2hiTF9n?oc=5",
@@ -160,6 +160,23 @@
    "id": "1b62b92d73",
    "title": "マイクロソフト365障害、20時間経て広範に復旧 謝罪し報告書公表へ",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtejUzcVJudTFTbzBXQ29tSlhnUVQ4RXV1Q2pGNVdubzRLQWk3b0NRcTBqTkQ2OTRyVWNoM29COUpBb0did3Z0aFU0eUdHcm9yUHloTXEzYTZiSmxURmRNOXU3UnZmcjFpbkUzVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "日本経済新聞",
+   "region": "JP",
+   "date": "2026-11-13T20:43:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1771abad9c",
+   "title": "【アジアCS】韓国は侍ジャパンに5対9敗戦も、一時は4点ビハインドを追いつく奮闘 指揮官は選手を称賛「とてもありがたいと言いたい」（THE DIGEST）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBabnBhcXZTZWdKMjVrOXNCSEcxeGRKdjh1UnQ1dlZDS0xiSkZlMVlrOE1YNXd0MjNYalNQMjRvZ3pmTm9rZE40UkJyRHlGcjBPZ2tic3RBRHM4T2hERHVxNndhT2RiUFFRVFdyelBvM243c1p6SERvMHVwSTJmdTA?oc=5",
    "summary": "",
    "image": "",
    "source": "日本経済新聞",

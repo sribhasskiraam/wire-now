@@ -1,44 +1,24 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
   {
-   "id": "839f80ddde",
-   "title": "France vs. South Africa - as it happened - Springboks suffer Nations League loss",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjk0cXgwd3ZTWkhveE5wMUV1S1ZTdzZISEZhZjNDRHdpNGNCZGhRZTVUSGxEd2Y5MEdmWEZlb2N2eFI1TmlrVGk1eEN5NVM3bkRVVVA2WC1udU5FZ1NFVWJKc2xlcHFsMFFJS0IzSkpiaGV6TkRnek01ODkyNlROLWo3WEhaUElmanVTQmduWQ?oc=5",
+   "id": "40d0ff7db2",
+   "title": "France hold on to break drought against Boks in Paris",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZElIZDg0akNXWDUxWmhCYVpNZlJoTnJkYzlSa3BWYzN2cGh5YXdqX0VqX05QMVVkUE5FNmd6aHBFQ3ZKRDlYaF92Tll5b1JqMGkzeThDbVBIMVY5SFp6SWh3REtnQ0J5M3ZXR1R1ZHExMi05bEZrUTNPam9OdlhuZk4wZUZqVVkyQy03YmMtY3dwLWdpVkkydFFFVjdiY1U0N3RmMmVOUC1hVm1ZdjZORkhxVENmVzRPUkxnWFFPY3N1dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN",
+   "source": "SuperSport",
    "region": "ZA",
-   "date": "2026-11-14T00:03:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷 🇿🇦",
-    "also": [
-     "South Africa"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2aabbd3e99",
-   "title": "Jasper sees red as France edge Boks",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqRGl1Nk1uQjFJSXZYYVotTWhrLTJDZ1ppZ3ZCV1JIT3QzSEhtUlAzUGRfMExWMHlOc0wyWk1td0lENGdWN1V3MGIyQnVabDVCWkpydmNGUUJ3cFhXZFF1enRWTjQzQ2RLQzFZQVdsVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SA Rugby magazine",
-   "region": "ZA",
-   "date": "2026-11-13T22:25:16+00:00",
+   "date": "2026-11-14T03:11:15+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
    "id": "baf5cf0ac3",
@@ -75,19 +55,39 @@
    "topic": "Society"
   },
   {
-   "id": "443bc60084",
-   "title": "Kenya strike late to peg back Bafana Bafana",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEpBMy1iMS1LZmFnVDRXMllwdGZBdWlvbGlOTGhGS2hIN3VzUDZvclJkX0F0TnlQV2VraVZfLWJwQkM4bGs2WVZLRTNfYndIN1ZPd0U4a1FvVXFQU1R6ZEhhZ01BcHd5Z1hpVllaaFRtQk1pNzB3a2ZMQzRKMzJtWThINV9IUmhsa2VzbXFYTTBBcWE2MDRhTjVSRnBfYzZPbVR2SkxYcVBkSnNXQkRwQmNCV3djcDZH?oc=5",
+   "id": "c510ab4ea1",
+   "title": "South African billionaire Johann Rupert’s Cartier empire delivers $2.8 billion profit and builds an $8.6 billion cash pile—but shares fall 9% over jewellery slowdown fears",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmxuNWxnWDBkb0hOX3EyY3FoQU44bjFYVTlFYWdPUklSTVR2aFhXUG5LUUNIVUQzVjNLZHEtaV9sR2dkSktZdllZa3JZUm44X3Q3MUVoR3Y5ZlI1Q1E0dVNzYTNPcU1UUV92clR1ZndfX2xDWmh0TlFNbjVYaDhUN1NnclRQSF81eldobFl1Ujl4QlFXTTRYU09wdlRjaUcxNVQ0M2JHTklkd19xajZFWE5LZmZYdUJ5U29lZXlqZ0ZEanUzbjVEdV9nSEs2WmRVVFdWZg?oc=5",
    "summary": "",
    "image": "",
-   "source": "SuperSport",
+   "source": "Business Insider Africa",
    "region": "ZA",
-   "date": "2026-11-13T19:34:51+00:00",
+   "date": "2026-11-13T18:29:20+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "South Africa",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇿🇦"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "0d5fa77171",
+   "title": "South Africa vs. Kenya - AFCON qualifier LIVE updates, as it happens",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWZGbm1RN3czNGc0eDFhY1pRUnVsMGNpdUk4cXVaaHd5bWUxRVRPb1ZwUnJMampmYW5mb3NVanNDRFRwdlZRVmRPRWh6dW5kbUJHTVN2Y0JpdHRmTXhDcmFuX0xDMUFkN3RxdWJBRUpLakloUTdkRjRmMksyeHhtOTM2bUgtMl9JeVNRWkQ5X01OMW9yaXpqR2pCd1dJeC1B?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "ZA",
+   "date": "2026-11-13T18:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦 🇰🇪",
+    "also": [
+     "Kenya"
+    ]
    },
    "topic": "Society"
   },
@@ -421,6 +421,23 @@
    "topic": "Politics"
   },
   {
+   "id": "8bbd38c257",
+   "title": "Man Utd closing in on Pochettino after sacking manager Carrick",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcEFvMHdvRmpfMTNHNWxlc3VZcHFrNkxwYmhmUWdjZThQUXNBUkM2NVBtQ3BLSTV1WUpiNV9aeW4zU1JoWDNUQ3EtNUEza0JMaHYyZ01zQnhxeWoyV3h6aXRnaTV2NzJ2UkhGNko4VlNLWlFFempNdHdCMWFLSS01b2NVWjVXZWhBVVgySkRsbDJCZHRuYzRhTXZjTmdvdW1zaEhscmIzdFNaR0EzTWFzazBzZlptU1FuVlkxQXgwcnRLbU92WUdTSUhNbkNwRlM4ZGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SuperSport",
+   "region": "ZA",
+   "date": "2026-11-12T19:43:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "27286ac775",
    "title": "South African Fossil Reveals New Species of Early Sauropodomorph Dinosaur",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94dFd0MFRodjZuNW1kZFVTRmtPT0FfT24wTm0tQ2l1VndNQW1sT1ZGRmlOdjJWdWJCUlhOdTRLTEdPeEMyWTAwZ0dKMndKUkprWERZQ0VkRjV4VkdWV0w5SjdIbnFzTVoxeElrYnpiTmI?oc=5",
@@ -455,6 +472,23 @@
    "topic": "Society"
   },
   {
+   "id": "eafb18e57b",
+   "title": "President Ramaphosa to lead delegation seeking AI investment in the US",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEpUaFVPMUtUbm5PV245UlM0Wlo2ZGxJZ2FlQ3J4WVdlRjlCMlQ0eC1WUzdqRlRyaU90RWtUbTlqRXBqNV9idE4zUC1YZU90clotaV95RWE5bzZBc2pUaV8ta3Fveklib1NETi13VW1UU2hfMXNzWWJJMzBCcFNvZ2xtVFlLbE96YWZEU3pTS2xHZG1JQlpTTmNlMW1VQ1ZycHNxbkRiMEVOWkRWU2QwdkQ5OEJSaEYwSmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-12T14:38:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "a026127bfa",
    "title": "Three fairytale dresses and an explosive ‘I do’: Nadia Jaftha and Reece Meyer’s wedding in pictures",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX3pNUTZaaU9kbmxJQmFuUEh6TS1qSFdocUhvTWZNY2V4VGYya0hOZl9abFA1M0Y0c3pkSF9UZHFYajQ3V0VQSFNaVkVqa0RmbzU3bGQ3UUR4SW1FU1ZBTVNkeWIzODloY2YxdXRiVE56aDJicXpLUVBObTBjOFBtMHNnS0EzaVphaTBqblR4MFFXa1VhWDVRWTlycC1LY2VDdlRqTmhJeWFWTWx3TlpqbWE0Vm5vdWNXTF9BaWVHLXZaVi1jVTZ2cU1OWVJDVWstcGlYaXlRZ0xDM0Q0Y0tpeS0wbWJielFpeEk4RzlrN3J6Zw?oc=5",
@@ -470,23 +504,6 @@
     "flag": "🇿🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "eafb18e57b",
-   "title": "President Ramaphosa to lead delegation seeking AI investment in the US",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEpUaFVPMUtUbm5PV245UlM0Wlo2ZGxJZ2FlQ3J4WVdlRjlCMlQ0eC1WUzdqRlRyaU90RWtUbTlqRXBqNV9idE4zUC1YZU90clotaV95RWE5bzZBc2pUaV8ta3Fveklib1NETi13VW1UU2hfMXNzWWJJMzBCcFNvZ2xtVFlLbE96YWZEU3pTS2xHZG1JQlpTTmNlMW1VQ1ZycHNxbkRiMEVOWkRWU2QwdkQ5OEJSaEYwSmc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-12T14:36:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
   },
   {
    "id": "584fc88e47",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
@@ -70,6 +70,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Weather"
+  },
+  {
+   "id": "8bb063cc50",
+   "title": "Why your work email died: Tech expert explains Microsoft outage in plain English",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ0h6SGVmeFJtUUMyYUdUWkZaWkhmTVNRX05iTjMzUnVRRE5VRkNkRkJWM2NiNXVtYTc0N1lKcnJIeTdlczRNQURWVW9DNmFwU096OTJVak51RU1UY241UmFBWGp0MzFYMzBUV0oyM21rbVhfMVhZMVlCdXNjZmF0MG5jTFdla2tOcTZXR21TWHBxREU4SUpWaTFSZy1fYmx4bER4dVpDc0dLUjhfS0x6cWZSWWRRelEtNF9VdWNyM25hT2JORDFWem5oODVpZVI2VjBORmpGdms0T3drMHdJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-14T02:25:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "8bb063cc50",
@@ -157,19 +174,19 @@
    "topic": "Society"
   },
   {
-   "id": "4eddc6c815",
-   "title": "Flights across US resume after communications failure grounds planes",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFZpRjBnb19sX2QtZmRzSUFlY3djUjE4X2l4VUZEaS0tRm8tMWU1eHFxSzdEZTBTZUVYbkV4NFFQM3djYlVZUUxvdHROeS1hYW80MUFBMTNiV0Y4VmlUZW5ZWmRUZ0VfN0lURmF6ZW1UUVhqeXRJWXZ0bjVKVXJFQ0RZa3lRbmYzTERKdUJCTUt0TklNZG1lOThJeHllbVpiNkRkcWs2OGRSaFkxQnc?oc=5",
+   "id": "f6c3b4a524",
+   "title": "Active front moving north prompts 27-hour rain warning",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTVkSmxfV0M5T0pmTF9mTFFmRnhDTThLZDdfVTZBUUhEdFBfWmVtajFsS3FpYndBR1hFSGNyVzlqdjhBMXNCYlREZ1JDRHNDbGFiR2RVemdFNHAySXJ6T2dlNDZjT2ktRjR4ekdxSzJrYzNTb25EeDUtMWpfT1JfX0g2NHc5NEpOQ2RCUEh1aFRhTGJVSHpoVDU5WnY?oc=5",
    "summary": "",
    "image": "",
-   "source": "RNZ",
+   "source": "Newcastle Herald",
    "region": "NZ",
-   "date": "2026-11-14T00:04:39+00:00",
+   "date": "2026-11-14T01:10:35+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "New Zealand",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -206,23 +223,6 @@
     "flag": "🇫🇷"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e8370051d6",
-   "title": "New Zealand election: A government by Christmas is the present New Zealand needs – Cecilia Robinson",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVWpzRWFGNTNjakdNaGxJVmt4bV9XMVRJTk42RTAxeEZ5clRtNU9SU0hwVmR3SzdoRUxFbTVXZkVOd3RKRHItYi1GdjlvRzNJWkdQUHNZb0FRb0o0ZGdOYXFWYVJmV0RhMmtEaGt1N0MyR3pQSGM2alMzTnl2cXoxWkZpTEVtQ3dYd3kzZDRlZzBxNnN6NUF6X1hlU0ZiYnNxdGNPOVZBRGlUeHllalRVYzNGMkwzWTRDODRPRjdWUXprZnRpellpcUQ2OHoyYWhlSU1KUXpqSjhYODNBbzAzMGotNlNGWjExSWxYRXNYSjc5WVFDV3doR1VHS3o?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-13T22:03:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Politics"
   },
   {
    "id": "2184136424",
@@ -333,31 +333,14 @@
    "topic": "Tech"
   },
   {
-   "id": "c70aab311b",
-   "title": "Country Life: Woodchester Station 10 years after the Kaikōura quake",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk12ZXFad1BSZWRON1k2UURMQm45ZTZvSUpNT19tYlB5NmdGZjIxZzlURkF2RDlJODRVaDRKWndfWlVQN1BjNlNJZ1VwbW5RSkhtMVNIc1pEY3hVWGdCZ1Y5ekNSWEo1SEczUjBlNmhnTHVyNG53RlZlcEFCOWZGUVdBQTRaVW1pN19nTE9Lby0zRl83d3FVY3RPQ0tvcy1qd0RqaFdST05za1VCZUE?oc=5",
+   "id": "aada1684b7",
+   "title": "UK police open probe into David Walliams allegations",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeml2dFJCZnFnWkFudnpjdm5LMHRwd2IxajV2WTAxdlctM2xLckFqb0JoTjRzUWJPSUVqSUpqVlh4UWpKbHlrLVNTZjRhN19mRGctcWVYSE11a1BEbFVxeXhBZURYX3g1SHpVS0J2TXd2SUNNcmlDMEhJS1pMRms2QTBnRDh2djllVDZ1VTZVUDVJWDU3NVVGZw?oc=5",
    "summary": "",
    "image": "",
    "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-13T17:41:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "53679dbfa9",
-   "title": "UK police launch sex offense investigation into children’s author and comedian David Walliams",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3kxQWRGZndIY2I0dkRtdzJrYkdCZm1TdElwaUxobWQ1M0NVRzM4eWlvMDZuSC1BTklsd3pmemg3bGs5ckV5dFNmQU4wNmpBNGZiQ1hLMlJWYUNjc2hTaUZ2N00zbHpES3dic2xia2MzUlZmamZRTmw0WWg4cHJLa01aNEpjNEh2SnVqczJTZFFOa19iZG5sSWx6RXBaaWZPVkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-13T17:16:47+00:00",
+   "date": "2026-11-13T17:52:48+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -401,12 +384,12 @@
    "topic": "Entertainment"
   },
   {
-   "id": "df2518049d",
-   "title": "Air New Zealand to launch direct flights between Hamilton and Queenstown",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORi04SlZfcmR0VTR4OWpLX2d3ZVF5MWZQZ3RrSE9WdjFPNWV3cmhVLXRMRDB4Z3FRNWVfV0pUOVNXV2RNaEhkVlB4RW5lOWlpSl93UWVQMHBtdGg2OE50UWFnczluUGJqMUZVSXp3SHFJbkZGU0ZhYXFlWWtkT2s5d0ptY05fWGF3Wm9DS0lFSC1UMGFHeGw5a195aThYUTc4em4tWUtwSWpIN0lTb040?oc=5",
+   "id": "ffbf559406",
+   "title": "Airport lands new Queenstown to Hamilton route",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVktxWDQ3bkJZMS1wMHVaNHktOTNtbWxfcTY2VGZ4eTgtd3NFN1AyRTFoeUJtUV96VWlJOWd6bDdMcWNDQjRPMGlSZVdmdWNvODlQekJBaGVZV0s3aDFVQkg3cXl6UDRLRjZVdXExcFJ1Yi1aeDdacTNQVV9aRGhOcklxWE1pVkhXVHFuYVlENHJHM2M3QUxz?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff",
+   "source": "Waikato Times",
    "region": "NZ",
    "date": "2026-11-13T15:00:00+00:00",
    "coverage": 1,
@@ -486,6 +469,23 @@
    "topic": "Tech"
   },
   {
+   "id": "6aa9d1fb71",
+   "title": "Neighbours watched helplessly as building next door came crashing down",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzQ5YnVzOUw5ZGttNmtxNU1HQWRKTDF4WVR4dk9sVUdBRTRMT3REbTdYTlNaWUdHem9KdlRPa2tFS0E1NzRJOEdrRlZ3d3lRU1M2aW9oWW50ZnVyVUxYTmxwSGhKNUFxeS1JSU9Ja09vSk1TMTR4RzV1N0d6VlprMFVyeHlKVlRRcE4yNHhfZldFUU51OUh0a2tLUzNOY2FrcGw5NmZR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-13T00:59:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d7d43a9920",
    "title": "'Immensely proud': Liam Lawson's dad says son 'always had to fight'",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXhVNW1lN2EtX3ZmcVVsc3hFdnVHaVRTeldvdGVxNFRDWGpaMExrdkpHS3pfWnhHYTA1UlBhYWY5Z2ZzTEJEUEpNa04yM2t0N2JZbkV3TndJd2lQeGtfWUc4UkdnNllvcTJsZS1oNXVtM2NPWXdmbkdnWmlmWkhMU1Q1dk94Q2NlaXFORU94QnZLNW1rMDAyc053bElQQQ?oc=5",
@@ -520,14 +520,31 @@
    "topic": "Society"
   },
   {
-   "id": "2267819b11",
-   "title": "Housing market stumbles in October as sales slump and prices stagnate",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEdXTGhrUjI5OF9HWHh2YTNzVG5scGs5UFV3eW5tS3I4QTVoLVJLOW53U3E4eC1vNl9XeUotN3pTd1MyQjIxVkI5Zzd0MnJKc3R2QjRXcDVTS0RNZ1VxN0h4a0w0OFNBRlhZeGI3NWROUUhiaGUzMmxfVFRIMmM1LWwtblBLRk8zcnJLYWJHdXhMLUQzZDN6ZTRmOWtuc1FNR2kzRHZDX0E0LXlnSzBqNXZZOUdLeHEzYWlJSjctWQ?oc=5",
+   "id": "348dfdc066",
+   "title": "Mushroom murders: Evidence in Erin Patterson case to stay secret due to ‘massive publicity’",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeG5vaExUSkpMajRSX0xCNUQ3RDFsMGs3eEVUcko0VVN6OXNMM2c4NG1jNlpwTkEwcFhJUmNIZ3Y0Zjh0dkVhMS0wNzJGM2czTk83c0xuNGhqSjFBVzZvY2YzNUhjRzBZYWp4WTkxdHh4Wm5vLTJOczlaTFdNMjFsOGpsWFQ2dU9ZVzJQczQySFh5M3RQZDBZRDNGMzdrcVhadVBxSUtNTlFsWTdVeG9wbUI1M3AtVDJhOWFRNklGZWhFSWlsSFhtTjNLdGZhdW43S3FteW5neXRlNG8weTJXcHNCQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Interest.co.nz",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-12T18:30:00+00:00",
+   "date": "2026-11-12T19:45:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cc818750f5",
+   "title": "Three-week vote count no barrier to negotiations - expert",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWZ4azFrRW5UOUxDZmZCazluLXpkRnBRbW5mQmZQQzhvSGxrX3ZVNlo2aEhpX3pORll1eVZZSFMwdHQ4TllpWFBFTjZYVUNxVHpLT2tHTjNfVjEzWENZUnIzWWs4cFBqV3lTaXBETDhwNWFKYmtFdlp5eFVCSHg5cUt3NnJEVTBVdmN1Sjh4OXZYU0lJRUdQb1VwcnpFTkZVYm9Ydl9Xd3RkTmtSREZEOW04OA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-12T18:49:47+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -552,6 +569,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Society"
+  },
+  {
+   "id": "bbc8d936f6",
+   "title": "Megaspeed, firm central to Nvidia CEO Jensen Huang's scandal, pledges to cooperate with US probe",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3B6UXFqV1NaUE9oTmlVeHB0U3lFel9pTndmekJsV1ZWRlR2aGR2N3VzNlVob0ptUGFRbEJzTmt1a2ZNUHc4T25velA4Vm13Ny15MTA0eXhwOW45QmtpQjZrSmU4Y09pSWtYX05rMUd4OFlYdlFjTDdQUjdLdFdWOTZERWxuSlNVSnFPN0NlMWNfcjRnU0Q1Y2FyaERjcTh2ZXFXQw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-12T10:09:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   }
  ]
 }

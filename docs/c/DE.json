@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
@@ -208,6 +208,23 @@
    "topic": "Society"
   },
   {
+   "id": "21ace3ec36",
+   "title": "Erdbeben bei Nvidia: Was Trumps Haltung zu Huang über ihn und seine wahren Interessen verrät",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnB4a1BjLWktZVVYY185RUVGWk9LSG05QVUzblREUHNYLU14OFFGM2ZNRGdMcmJiTmhrdm5ISUNmN0FFMTFlRTZxZHpybWtJMFpiM2dXNU5yV3FubGI3cFdJUFVMSXFfN0xHTnFiYjRHRVA5WjQ5QWxwNWZnZVNsaUgxWXFSRXlOeWtwQTBtVXJRZTQ2cTFsUFc4V2pCTVNyVGgxUUlSQWN3UlBz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Frankfurter Rundschau",
+   "region": "DE",
+   "date": "2026-11-13T20:09:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "a8197ef837",
    "title": "Weltweite Microsoft-Störung ebbt ab Unternehmen führt Problem auf Netzwerk-Update zurück",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRVRpWXhxY0lrMllBVlNGbE1kUTNrZzE0a2pnS0hONV84MmY4OGpNT1lzYU9BVXdnWmpneFBlT3JmcFhxXy1BcURUS3RVbTBZQ0hMbk9qaG1hQ3ZUMmtySHVQSkxoTTVMUjhmNUQ5YlRrM2tDQmlBTnktd0ljS0IzcXVudFF3SHRLS0FPaE1IclBfYm82NjJmMndtVkZGanRSdnBwQ1pPVnFlUWVNbG5OYWlRR3FiMTNsalJSaUFsc2JCOGJsV2FxWUl2UmlvQ0VBZWM4VWJTMTR1c3RGRzAzNV9tWWNQOWFzWlI4?oc=5",
@@ -223,23 +240,6 @@
     "flag": "🇩🇪"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "dce371f8de",
-   "title": "Mecklenburg-Vorpommern: Linke stimmt Koalitionsvertrag in Mecklenburg-Vorpommern zu",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdElSRDEtZWV0ajB1d0hreG8yRUFyenl5Z2dfUkQyYkxROVhlakI0aW85NmJPZHNQTEtiNTJ5ZDlSOWNtbFQzTEZJc25wRFR3RVdjLVJCempMR2pRYUFYN2pwbjZ4dklvbll5WnQ0WlRENUMwTFpUWExOTTdDcDBaVF80OTBWRXJ1cjN0WVh3Ml9GMFpkSEU2d2EwRzZmYWFZd0RkTWhkMFFGOGNnV0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DIE ZEIT",
-   "region": "DE",
-   "date": "2026-11-13T20:07:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "9accf11d41",
@@ -484,6 +484,23 @@
    "topic": "Society"
   },
   {
+   "id": "8e8618e37b",
+   "title": "Regierungsbildung in MV: Kritik der Opposition an rot-rot-grünen Regierungsplänen",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3ZOaDN0eUxOZ2lLenJQRTF4MTd0OTRWSkItUm1LMDd1TzdGbktKZXg2aEdmcGlyYjBmM0RTVGl5ZEw4MmEtYTFuYUJjVzhFdVVzRmo5el8xdmVoaGlhT1F5Y0lIdHVIMFJCMENNYlVfZVhFRzhCQXRnUWE0SE03SkpJUS1zbjZkV29ZcVlCeG53WUtVOEtzc2Rn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-13T11:18:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "109a8b5e1b",
    "title": "Demenz vorbeugen: Warum gutes Hören und Sehen das Gehirn schützen können",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMG8wTDhfdHZ2Z0VQX2YxZXFZRFdPZGp3N2sxUjd3OWcyTDcxcVl1NHB1U2lrY0dGT3oxUjFvV0pQVlp6X2JXSDJRM2FUbE9ycUxMdWpVUGVCYnZQRW9COEpBa0Npa0pxOEE2MTQ3WHBiUjJZUTh0QWQwcTAyb1BOUmYxcUxTMEdxRG5SOU5UQ1pic29XREpDSWtIZXg0TzBDZi1wUTE4cHVmS0NkMGdhay1BU3FWZzM1WnBIOUpGR0ItMVNfR1F3dmRhTE5CdGM2ZmlsR3RXaFJMbmpULVkxcDg1Y2RZSHNhYzF0em9adHBoMHItTG9HUlZ0UmRHWE1xR3c?oc=5",
@@ -501,19 +518,19 @@
    "topic": "Society"
   },
   {
-   "id": "1f28c603a8",
-   "title": "„Ich bin ein Stück Sch …“ – Jensen Huangs letzte Stunden als Nvidia-CEO",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbkpVa3JQZE1PdkFFak05ZmdxNHl4YnpMV2dZTUtjVGtLZXhrN1E5em9JV2NMaEZsZUR2UVBidFVWbFJXY0RjRURFVFMtOGl3MFRZZlFDNy0tREp6emp3U2Rvd2tfZ2V0azlSd2RReGNFdENwVzJRY2owd0c3TmxadF9mb2hfeG1GeG1YV0xXdFdTdjVPdjdyYjZWMjltLXg5c05hYzlLa0FRUWZ1SDdyWlljVXAyaHdpTlpudW5KX3JLdlJlaUhINU9NNVFvdkk?oc=5",
+   "id": "3207a9aded",
+   "title": "Nach Angriff auf Klinik: \"Ärzte ohne Grenzen\" kritisiert Israel scharf",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmhGLWM4NDQtaHNVV0QzQVRydkh0QmE5SDhkT3RObG9vd0c4dWcycmZRTDlzRm5WQXc5MnlyVi1RMkk3SDR2MURxeEt6X2hzYWYwcDEwZDh5UnNoNkZ4MWtEU1BQTHBMSkZZUm1sWm80ck00bUNGdmxJTGJSV2RSVVRvWWk3OEloUEpDRjhMU29ROFRZUnJsaTFENXMzbkl1cW1mSVNqV3d2aE55MXRB?oc=5",
    "summary": "",
    "image": "",
-   "source": "WELT",
+   "source": "WEB.DE",
    "region": "DE",
-   "date": "2026-11-13T09:50:09+00:00",
+   "date": "2026-11-13T09:59:23+00:00",
    "coverage": 1,
    "location": {
-    "country": "Germany",
+    "country": "Israel",
     "place": "",
-    "flag": "🇩🇪"
+    "flag": "🇮🇱"
    },
    "topic": "Tech"
   },
@@ -535,19 +552,36 @@
    "topic": "Society"
   },
   {
-   "id": "7f340e27f7",
-   "title": "Nasser-Krankenhaus im Gazastreifen: Elf Tote bei israelischen Angriffen im Gazastreifen",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTQxQ0hyU0dpS3NsdTdnUDB3ZVhvUXRsbF84Xy15QnZmcmhjOXVRT0RCV0Y3TzdJUmRFeFNRanVhRTgzTXA3aF9XVjEyNGVjaTBYa2FHZGc3cjVUa004VW9DRXJtTjBpU3BGdlBQZnc4S1Z4MjBueHBpeTVJVGdhTmF6MEtSRENmd1BCbEpMQTBKVVh5OTdRXzhvamduemVLWG9OQW1qckhvT1E?oc=5",
+   "id": "692f4ca8c5",
+   "title": "DFB-Nachwuchs: Deutschland U21 vs. Belgien heute live im Free-TV sehen",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWjU4N1FjTjM3bVp0YWU5UWxDMHBESzljLXdlVkwtc1U3RVFnVTY1YnRPTlFseWVIcVpoMm43YXhnNkZNZDJqblNzR2RGa2NvcDgtZTc2YWY2M0JEaVRIS1dmN256QmVYWTJaaDdhb0ZOUEZrLTlucm5KaWdTMTYzQkVDUk1pQlJTOHFVdnZfN0x3QjIzdkdSV2MxbnBXeWw0emNzQl9mTThSYWg2SzhHZDdqbDhtanI1c2RXMUxOLV9LdXFLU3BXaHJGUjZBUjVzdDZaX0k0T3djVTZSVWtPUXlkZ3ZRYlZTaGo2aEVORzRaY1pPQmFEV29jbFkxanc?oc=5",
    "summary": "",
    "image": "",
-   "source": "DIE ZEIT",
+   "source": "SPOX.com",
    "region": "DE",
-   "date": "2026-11-12T19:00:40+00:00",
+   "date": "2026-11-13T06:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0190145c74",
+   "title": "In den USA sollen sehr viele Arbeiter auf Rinderfarmen mit H5N1 infiziert sein",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnNZbzBhUWhsU0s5X2FsM21IRVZJODI4aDZfNWxqRTNIM2locHlPU2hlVy1QZzFGQ1haYjJJVkZsclVxdDhzdmdsTHhkNnFNMVNNdVVBUW1wbEtaMzh2bDhmRnJFeVhHTFFkSHhZeUNMeWJRcmM3b2J3cElXYjJmWkE1bGJidWFmU0wzakNVR0c5S2EtQmh5dmE5alVPREZHVkgtRC1wXzF0YWlLYktqZXhGTC1RRGNSTHZPaXJvOFF5Mk03SnZaMERjYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "top agrar",
+   "region": "DE",
+   "date": "2026-11-13T06:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },

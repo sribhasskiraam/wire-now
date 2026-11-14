@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -90,23 +90,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "94dba92f76",
-   "title": "Montreal student protest turns chaotic as police deploy tear gas and flash bangs",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkRPRGo3U0xma19ueTRFWGNhaDhOUUVnXzJmMFgzNlNnX3R1dXlYYjBwc2ZxenZsSmp5NGJISjB0VFNoejBhWDJFZElSNzUwbm9EekoyQ01BNFMxN2JwVDNfd1JBZS1US19aNGlQTzlGc2liRUJGemFTTURwZVRGenJkdndVX0FhRUFhalROdFlya2lxRmNIQVRFWkJtUHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Montreal Gazette",
-   "region": "CA",
-   "date": "2026-11-14T00:49:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
   },
   {
    "id": "2fd5b91c5f",
@@ -245,6 +228,23 @@
    "topic": "Society"
   },
   {
+   "id": "9403628b67",
+   "title": "Ford government proposes enrolment caps, online learning restrictions in private college OSAP crackdown",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnhPMC1KTlY1N05RNnAzbi1lV2MzbmgwMFdmUWZXU0ZfeTJDVnpXcXlQdlpucHdHYy1scUdlVGYxMFRtWHE2Tnk2SFNrUVNUbngzdkdjdkI0TmE2M3VHcGU3V2Z3VUZXWHVPWHZNcjQ4ZnRhbXU1MTFjc1k3NzlhMGNfNUU0QlFMaS1DeThoenFrVDYzT3I5alN1bE9nOHl5TWpVY0ZHMzN6S1NMbS1yMGxvU1paTWVQN0lUaUY0bENYalVQdVdLaU4yZ2VZclljR3l5MmZOTHc5TE1kZVpSMg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SooToday.com",
+   "region": "CA",
+   "date": "2026-11-13T22:31:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "b37083dd7c",
    "title": "Flu activity ‘high’ in several provinces including B.C., Alberta and P.E.I.",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWJNbjd4YXlKbGowLUhzbUxtdU9TOEVyR3o5YlRScVFydWtWbnhDOWQ3NmNvZmJ0WmRIMDBHN1E3cXhLSjdCazFiSGFIUXhzWG5hZjBVSmRWdlBsUkw0MFRjZ0tOQWxqTjBpUGJXdTRmdzVpVjBEMm9VZEtpekVKT3RKaTU5aGZMMzNaOVJZQ3lScDgzQW9KMjJTMlpTUGlIcUY4eFYydWxUN1NULXoxRlhB?oc=5",
@@ -347,6 +347,23 @@
    "topic": "Society"
   },
   {
+   "id": "0623cf5028",
+   "title": "Apartment fire causes $1M in damage, arson charges laid: Winnipeg police",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUS1JTTF0d0U3elRWendOR2VWQVdMYld4TFNSZEw2MjhfVkMyLUpkRUhCWlJFbjUwZTdwZDNVemJVQnBaSThnNEQ3TlBRc01tRDdzYzZqdUVwenJrRGpPbmpaYTF3ZG1RYmdpbVcxcGljTUJKVWRkZTdoajRYdjZqTS1jNExQbmxjLUViOXdVMXJhaEFQS1R4Y25UWG0wcldJU3F0SklOS0RCU3pXSTVR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-13T20:43:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "88af74d1de",
    "title": "Tanker collides with river cruiser near Port of New Orleans",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjRJRXc0Q3pleXZsN1NkZlVkbGFiQ1Y5cDFWb2lzXzBfSXNsOWF6bmRRTlgxQnBwR3Z2UWRhS3JSbHNQRUM5OGkzNHhQcnR0X3Z2d0ZvZ19wMXVEMGcwT1B0dmtGVkJCVXIxbUFaMHRGSE0yRk1FcnJRbHBvODNCS1JpODVHc2lOUWVkUi03U1hfVUVPRklUQWt6MmcyZw?oc=5",
@@ -372,23 +389,6 @@
    "source": "CBC",
    "region": "CA",
    "date": "2026-11-13T20:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a3b8a87fa5",
-   "title": "Owner says they can keep dog-wolf hybrid Onyx, at least for now",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2RSUm0wY1JMOGpUNFZCSUpLWWZPdC1nMjBJdFpISGx3bEtNSEdHRDVjUHljVnA5bHdtUkJqN083VEg1cHN0MThLeUNLTGp0bm4zY0lzc1NuMHJzSm10YmxwWVhGVVlTNnd3cUo4ZGpGX3RDUXdQNHNnOTQ5TEZ2cUMyM2I1TXNhMm54VmJ0ZTZoNUpFVnVodDZ3cGdialppYmFzdUNWSVFXMl9xZk9qVw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-13T19:48:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",

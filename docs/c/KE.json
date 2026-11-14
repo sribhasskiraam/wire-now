@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
@@ -72,21 +72,21 @@
    "topic": "Society"
   },
   {
-   "id": "6edcf48076",
-   "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlNuaU5QNUNJVFRFV2MzbWVCUm8xUG9PMkVKT29mMzM0cTkwU3d5WVZOT1MtY2ZBWWM2eGtoOFhXSk1IQmIzV0ViYU9RX194OGhGblpNVks1enhPWVozUkQ1aDR0SkRhRXdaQVgxMzJzY0JtZHNERjh1dFhxWlFGdERSaw?oc=5",
+   "id": "ae87096465",
+   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Space",
+   "source": "Reuters",
    "region": "KE",
-   "date": "2026-11-13T21:25:55+00:00",
+   "date": "2026-11-14T00:25:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "China",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇨🇳"
    },
-   "topic": "Society"
+   "topic": "Business"
   },
   {
    "id": "2880d6d5eb",
@@ -114,6 +114,23 @@
    "source": "KBC Digital",
    "region": "KE",
    "date": "2026-11-13T18:15:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d64e8e5f04",
+   "title": "Access to quality education key to community development, says CS Tuya",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZktVclI2N1g3YTBXa2dlVXFZZlM4Nk4wa0ZweVo1SDJDdXNRbzNFUlE2dFFnX1ROQWJZaHFWVWNBRU1JaldiUllzejg5dVJIejZtcjFsSmVJQTY0ekhhVzBBSWNJekYxcjg4RlJ1U3kyT283aXJxcjlxZlNvSWxWUnJDZzZJeDVGWmdEbmtNdTVPaEdaTi1tT0lHSG1JZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "KBC Digital",
+   "region": "KE",
+   "date": "2026-11-13T18:11:11+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -393,23 +410,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "4cbe43cffc",
-   "title": "FirstRand International Postgraduate Scholarships for South African Citizens - fundsforNGOs",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTThaN0tianBvYVkzU2NxY1l1VDlrZEUyYWQ5SGpaRDlnUGxHVWNiSXRTRHJuU201Nl8zSmo3NGVBQ0huTFpQNWJjNENvb0tNVV9CUlFmTTR6cTZQaXJkLVNkV0xDdG1XMW5kVlo3REVQOXlfWk1CNVp5NDZDU1B2dEpSa1RtVE9rWFpoNzlZdFJuc1J5MURmU3pSZzhERFJQd0p3aU1vTG5CY0Mya2xoZnFTUnU2NFotRFZn0gHAAUFVX3lxTE5ra0plc2xjeDZ0ejhnZEtXY1E5c2dWYmRtMC14RWNacDRzNmFYZXZGeFB1dWJoalhfZ2tnWW1zWV9ZN2ZJdXZhZzFCbGlHNkozQ0RjLTNwZDJvd0NSdjNGakw2UjNNMlZiOGVsbkhlb2JsclA3TUJIQWpFR2R0QlpqclBtS2lLRUhBYnRvX2ZIWjlmRUVHZEpmaUJzLWprUFhZbC10UGFBMnVfR01idm12b1hlSjVybldKd0todkR1YQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Grants and Resources for Sustainability",
-   "region": "KE",
-   "date": "2026-11-13T07:14:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "504facfce3",

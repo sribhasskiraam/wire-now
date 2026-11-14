@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
@@ -29,23 +29,6 @@
    "source": "BreakingNews.ie",
    "region": "IE",
    "date": "2026-11-14T01:07:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b5080f3479",
-   "title": "Widespread disruption as departing flights grounded in US",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNzBjYng3TU1NYy1nUDJaQjZqclgtZGJidVp2MEdXeUhjeXNIMmluNzdfSlVJbWktZGVFSW0zMUZZcy1ReHNNQW9xc0p5TmFaRzJtbVotU3lRX0RnMDZZY0p4YmxqeHZTLXFV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-14T00:36:12+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -494,6 +477,23 @@
    "source": "RTE.ie",
    "region": "IE",
    "date": "2026-11-13T10:32:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "ee44d07c6a",
+   "title": "Euronext asks listed firms to phone after Outlook outage",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZWlYU281UkNMZ3piTVgtSWJNSHczZU5pNU0yaEtLMk9ZSlpKMHBvVXdHMzVoVjVJRFF1UnlUTEtnTDA1UWdWcDN2eXJNVjhtN2c5VHNTdnF3UWVXUGxkSDRKVXhHRXV3Q3drTlBycXNhQmRvSXZBdDh0SFBQbTdKYlhSa0g4SWtfcFoydWlhY0RhSldrdmVHQkIybDREa2JweFRVRDNLQndtQUFO?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-13T10:20:23+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",

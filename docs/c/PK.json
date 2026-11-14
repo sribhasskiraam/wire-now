@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
    "id": "869070af4d",
-   "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+   "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
    "summary": "",
    "image": "",
@@ -87,6 +87,23 @@
     "flag": "🇵🇰"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "0ebaa317c6",
+   "title": "Ebenezer Doesn’t Have A Post-Credits Scene, But There’s A Reason To Stay",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kby1FZ0ZPUVhfRnlYSGdIYlpVMTJtTWhRZmpVMG50VkdSTXplUHA0R1p2WGxqYVBVbU8tcDJsTmNBVzlLYTF0SjlScDE5MUpzY2EyenhORnNudjczVW9rcE9fczEzNzhCVGtfWEozSG0za1JScmwtSw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScreenRant",
+   "region": "PK",
+   "date": "2026-11-14T00:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
   },
   {
    "id": "6763720bd7",
@@ -249,40 +266,6 @@
    "topic": "Society"
   },
   {
-   "id": "2ef822c1cf",
-   "title": "Johnny Depp's yuletide jeer",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjVWLUJ5S1RBaktWYzJTZkpiOEhGUkIxVU54ZWJyZjhRSnEzNlpsS0pwQ01UTTR3eW9qcjhHMTk3aWktZzI5T3c3WWJNdjVfSWlxbjMwdHZ0WVN4QlliMG9KbVV0cV9zZm9WSUNpdTZfZ3VIeWtWa1pQeS1rT3VTUlZJM09OX1JmQWIwUEJmX0VvS3VKdmNIWi1JbEtBZHJ4ZXdyaTFGLXBmbXdUYWg5Y0p4ZU5faUM2a2F6NXl6dmVzMUVUSWFBQzVR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Central Oregon Daily",
-   "region": "PK",
-   "date": "2026-11-13T13:56:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9629b2b467",
-   "title": "Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WUUl5MGVaRnUycDhqVGVGUUM4ZEFLMklxcGNlYUVRaTJ3cy03UUZmMVEtZWlnWnpSaVBUQWlUVGZlaENTOTAtRw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-13T13:42:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "661a4fe1f2",
    "title": "Deepti Sharma bags second ICC Player of the Month award after Zimbabwe series heroics",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVFGSnpIcC13MWdsVDRLajY0bHBDTFRFcjFrQ0JHMWszYjJoN3ZScC1Yc0tRV3pHSXI4MFE4UDZMSGpFa0RKTVhiMGtNbGdzc2lERFhZcEtxbDVXM2d3VHI1MXVIWmxfcEJvWnllQzNXODh1VUUtWThuUlYwMjQydEFCTzdiS3k0aWlWQWpGbTRwYmJUVm9GMWRfNzBWNDZYY3FCS0hVc3FjRFpRMXBkQzdDdEcteThoMWlnd2pYSm02a012MndF0gHMAUFVX3lxTE1Qd0s1eVlLV1NuNFBkaWF5SXM2T0dyemRjQWE0STg4YjBTQ21BaUZTSVJoTHFvaUI1QTlVQWJia1dXbXFwcW12b0xrdVk0LTBWaVFMMFFrOGFGTVM2TXRmYk02dzVmR3BxVE5DZkR2N09HMF81NEJUeHZqaEJtWjNfR3VHU3lBdllpWnJVWVFxVmtKN0JhNTl3YW9NSm8yTUxZTDR2cURPZm5qQUZRbmZvaTc4SmZNR1hhTzdkajZRTzJWb2VQRnB5WThDeg?oc=5",
@@ -317,14 +300,14 @@
    "topic": "Society"
   },
   {
-   "id": "e8249607dd",
-   "title": "Italy rise in FIFA World Rankings after 3-1 victory over France",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVyYUxFbG1KcU85N1FrdHk0d3hZWXRWenB2RGU5RWtJV1FSSS1fRnBaZHliekg5VG5fSENjRDhfeVZ4YUE0UTBobUZNWmFmM2RzYmZjRi1pOUd0THdZdERtMV95TThjN1E5OE5lQ3JJdkNSTjR0YUhIeDU2VkhnSjItemtYdw?oc=5",
+   "id": "dc260ed5b2",
+   "title": "What Italy need to win Nations League group after 3-1 France victory",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnN2dzB3NEM5eGZ1MXBFSmdKeHhGcFdpakZNVnBnQm1GTTJZX3NTTzJxbTJpOF96Vk8yQWE2enpsQjJLVXNQMXpCOVV4YXhCbS05dDgzN3lGaTl0ZFhiMzN0dmNtcWZWVmt2WTd3VnRKWGtLejBRRkRKd2VfcWhFYWhhd2EwUQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Yahoo Sports",
    "region": "PK",
-   "date": "2026-11-13T11:24:00+00:00",
+   "date": "2026-11-13T10:19:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -334,7 +317,7 @@
      "France"
     ]
    },
-   "topic": "Sports"
+   "topic": "Society"
   },
   {
    "id": "e17900cacc",
@@ -457,6 +440,23 @@
     "flag": "🇵🇰"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "3e54392097",
+   "title": "Pakistan’s mineral exploration increasingly focused on strategic resources, minister tells investors",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmlpM2ZkOTVIZWZ1N1ZUX2ZJckJpSnh2czh4cC1LZ3oyeVR6WHNxSW1qaEVRNUZiMmZ5eDNlYUNIMUpwR0RUcTlfYWtGdFh3ZXNTN2RyTDN5cTZwTklodmZINl9TNlJ6T0txYjZKOWtJcjFKTWtjZ3NmcElMcVh3UzNueUdiOHJFTFEzNnNQejRRVjBhQk1TUjNGcXZ5eUhxZEVNYkZ5NjBNdlljdGozU0FhZWZyUW5qNjhFT3hCRnVmcldvbG1CSEl1ZFU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-13T07:03:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Politics"
   },
   {
    "id": "4d32cba2d4",

@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "3c17fea293",
-   "title": "US flights allowed to take off again as nationwide ground stop lifted but delays expected",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
+   "id": "869070af4d",
+   "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T03:36:54+00:00",
+   "date": "2026-11-14T02:45:23+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -93,14 +93,14 @@
    "topic": "Society"
   },
   {
-   "id": "bed8ce47d9",
-   "title": "Mauricio Pochettino: New Man Utd head coach in tears as he labels leaving USMNT 'toughest decision of career'",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVU5lb3ZFanoxUkJVSmVjUUl3T3hJWGg2QjNmN0hIZERLaVFTTGFZTy1lLTNIbXdUckQtSWR6R2lPX01mcV84cFVtTXI2N2ZRNEh0TXNscnowenlHalU0RnZENi1vYXQ5RGc2SnE3ZTNnODZiaDRUdURtb08tV1VGVlMzMXZJSWVFdEhtMS13YWhOZ2pDNHF1a2Q1VjA4dUNhSGQ0QUlGZWN1SlJRa0diTVE0YUhXajRjRTZIT0VWTFdNdnN4SHRPTFIyaFlLRDRIUFdiOFRpOWY1VmRwT0hMbWdwMnFOMXVHQmdr?oc=5",
+   "id": "824dbad70a",
+   "title": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14THdCbDg3ekh6SVFRYkxvdWo2aXUtNDlOVE9sLVl4WGpQNE51QlQ1RWYzM1MtZjg4OWc4ZjlBcGtvb1ZkVkhnd2lXYjBoQ1phTVpFX2tLTndRYThYQUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-13T23:49:56+00:00",
+   "date": "2026-11-14T00:09:02+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -110,14 +110,31 @@
    "topic": "Society"
   },
   {
-   "id": "23cef44704",
-   "title": "SpaceX aborts attempt to catch Starship booster rocket",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNnWFZjVm4xQnc4N1VLS2pwTjUtNGlIM1hGLW1xeDVnLUZJaFhfSXlneFhrel9kRFB5eU1fZURhSEMyWml0SWx3NVZJTi12WVluY01BdWRpLUU3NlV1a3liaHk4V0dDbm1EdldPS2JielZPTTlUMEhmRlJYbVRIeTJyTUc?oc=5",
+   "id": "db389c8154",
+   "title": "Colorado Democrat beats Maga firebrand Lauren Boebert in House race",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0lRdHRLY3RicWpuV3JHT3RDQUJXRmV2ODk0MERsRDlxWFJNM1NUYm1EdlVYcGdOS19uMzY5UmhLWGRSS25mSUd0bm5iaWVwWkpBUXhUYTViaHdoaVZHM1lXTTcwOEpWU2M5TE5Ed0RsenM4eVNCdnlzblhuS2VsLWNhOGk?oc=5",
    "summary": "",
    "image": "",
    "source": "Financial Times",
    "region": "GB",
    "date": "2026-11-13T23:43:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bed8ce47d9",
+   "title": "Mauricio Pochettino: New Man Utd head coach in tears as he labels leaving USMNT 'toughest decision of career'",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVU5lb3ZFanoxUkJVSmVjUUl3T3hJWGg2QjNmN0hIZERLaVFTTGFZTy1lLTNIbXdUckQtSWR6R2lPX01mcV84cFVtTXI2N2ZRNEh0TXNscnowenlHalU0RnZENi1vYXQ5RGc2SnE3ZTNnODZiaDRUdURtb08tV1VGVlMzMXZJSWVFdEhtMS13YWhOZ2pDNHF1a2Q1VjA4dUNhSGQ0QUlGZWN1SlJRa0diTVE0YUhXajRjRTZIT0VWTFdNdnN4SHRPTFIyaFlLRDRIUFdiOFRpOWY1VmRwT0hMbWdwMnFOMXVHQmdr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky Sports",
+   "region": "GB",
+   "date": "2026-11-13T23:49:56+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -283,19 +300,19 @@
    "topic": "Tech"
   },
   {
-   "id": "77f4fb82e9",
-   "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
+   "id": "45e91f834a",
+   "title": "Setback for SpaceX Starship rocket's double-catch test",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wY1lvZHdnMS12VUlPWjYzWjFqcTQtMFhtOEIyQjhLY0dBSUxrdDlLaFh1b0pZbGc4djlnekl0MVVLVEtCc0k3b3pNcUNiOEFsRU01T0JPdjlqRmpGRHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-13T20:09:00+00:00",
+   "date": "2026-11-13T20:12:02+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -351,23 +368,6 @@
    "topic": "Society"
   },
   {
-   "id": "280bff5522",
-   "title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "GB",
-   "date": "2026-11-13T19:56:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e6a6e9383b",
    "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuTG5Mc1g4SHFlbnhyWkk4MlE3VjhzRG91bDVoUDRBZXRUM2M3azN1cXhzSkRxRDR6bjBGdi1PTlhUTGRtek1pOXRoRDdmV0tsMlhud1FobXY5TkxHSHg0?oc=5",
@@ -402,23 +402,6 @@
    "topic": "Society"
   },
   {
-   "id": "cce7b1d99a",
-   "title": "Families clear homes of David Walliams books after sexual offence allegations",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzF1NGlDbFhkV0pZVWdLcFBDbzJiZmF5TXBVcVRuSFEtUjFQLWtTb1NHWVZXM21sVWRMc1RhZ0xpSGdLcWV0ZUtuM0I5aVctaUFuV0JGeU44cmVzc2w2alRqa2FENzVwTlRieEhhLTh3WkNDOVZQa1p0bFpNTk5VcG9WWTBBSjlUT2x5Z2lZdTRUZ19vZVZmZjhMX3ZJYkVVMk1XUWlhSEhMa09VLWpYWGFJRU9HSDc2dkdFS1RFZ1JDa3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-13T18:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "22acb7c595",
    "title": "Snapchat sexual predator jailed for 30 years",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3pLSm5aNjBjVldOLWtaNkZqNTVhT3lsWllXQjVNSWhnNzh3a19Dem1rUkxBQnZmb0hIdzQ3eTJTa2Z4cnlXbDU3RDU2SnNfZndvQllOM2tPWnYxNWF5cmV5Nm4tMUYwMlZQbG9NR2ZGbDlVbG1BVHNTSU9iR3pLUlBNTVM?oc=5",
@@ -436,14 +419,65 @@
    "topic": "Society"
   },
   {
-   "id": "f3b8d8cb01",
-   "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VUDRfRFRhbnMzN3pHMDZOTzJQNk9xcW51d2JhTVRXazNjUENGel9yQXE5Y1NoN3FmYURTbkh6X2lDUUlKUC1zTGhJbk5rTDFkNjFrUHI0UXU0aHBudHc?oc=5",
+   "id": "36ff70fb10",
+   "title": "Scott Colom: the Democrat who conquered the reddest of red states",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdhQXV4elFzWU5fUmF5TlFGMFpoeUt0emJ4dmZadVdHZ3Rrb3ZsdmZ2cjFLbzFtbmlaQW44ZGlrWjZ3X0VtZm10Z3lRY29nMk9LVUxJaUJTVzRBeHZWM0F4ZWZQZnRIMklIMGtpcUhYRUNNWFVvamZtX04wQUVhclpFcUs?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-13T14:34:21+00:00",
+   "date": "2026-11-13T17:08:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "13f3776357",
+   "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-13T16:53:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "9d8533d8bf",
+   "title": "Piddington migrant camp a risk to women and girls, Government admits",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnZQVVE0Tm9OSG9qOGRXeElseW1vMlZ4Y2lfMjFOYVp1b0dSQkREMlEzaDc2ekE1QWxuWUtyN01DVlVQSmk2dVZzZ1RiNzBEUUNzRGRPQXFkcW91NndNNEFaRl9VSG5SMDFUUk5YU0ZaY3U1OEdVRWlyTEY2ZE12RDVVWjVEZVN1NTN5UDNocl82U3ZWVENsQ2UtN09uZWlRVUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-13T16:17:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "4e065e9c62",
+   "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-13T15:25:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -466,23 +500,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ee6e19202b",
-   "title": "Washington gunman was furious about damp $1.1m penthouse",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb192eE1vcXRQTEszUXZBdHNOc0F2TnJ3VUl0aVROOE9zeFBIYVUybkNETEVtNTF3VV9QNHpNS1BQWkFmSUN5ODlXdkV0czhaS2RZdFhMQmhiU3lRX2ZuSkk5eVVEYTRGX3pzWGd3ZElSM2NhOEp3eUlBNlJHR05Yel9ERGJlNTU4akpkSWY3aWZMLVJpMGZlQUs5U3ZGczNlWFMtdE1HRGU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-13T13:14:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },

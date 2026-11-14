@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
@@ -63,6 +63,40 @@
    "source": "News-Medical",
    "region": "PH",
    "date": "2026-11-14T02:41:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "869070af4d",
+   "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "PH",
+   "date": "2026-11-14T02:37:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "1443a6b81b",
+   "title": "The Loyalty Game: Ben, agad na binalaan si Mara tungkol kay Ana | Episode 30",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFhDWDRyTUMxTkkxVFVGM2lYalBvUG96V25Udy1zaUUyMV8wZl9DZ2JQYVJHMlp4UDdDd2xCUnpKUU8wOE0yVjBwSkt1a3NPMFdvZzJHZDVid2pZaXRDY1hCQUZiU2VWVTBzbDNMQVZ5alE0cmkxa2RLVUJIM2hkQVFHZEJHTURWM0JCUVIzQ0NuRjhWRDZJWmE0TGl3YkJhUDI0RkFaV3lsVmtoWUF0UXFVQUlZYVd0LXd2bmxpQXctZkhHNV91QmJpWW9EUjRqVEJr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABS-CBN",
+   "region": "PH",
+   "date": "2026-11-14T01:58:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -174,6 +208,26 @@
    "topic": "Society"
   },
   {
+   "id": "ab5357f8db",
+   "title": "Canadian PM Mark Carney, Cambodian Deputy PM Hang Choun Naron arrive in PH for ASEAN Summit",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNm5qdV9KLURPMTFxSXFtdWU4Y2FieXpDb2xkb1dnRkR1UVRzOUI1amgyWnl5QzVZWlZRMmFEc0ZQOEhNOG5wNXdBODZFX2lVY2Y2ajNSUEN6dmZBTFEySUFZQXN6N2d4QlpDbm1OdGJmYXJQeUo2ZTNBWXN5cFI2WVl5Uk82UTdpcWNLU1gwWWpJbzNiRWU0dmJuWXF0SnRjZWFKRVBlN2ozV29zTzJjWmVqQV9FWmRVSERxZTkxU044d1g1TklGV1FnSkdjMmpXUE9mRl93ODVVRFZzR1k2OVJibWZidGszRDRN0gHwAUFVX3lxTE1VeVltMGJkMVhEbFRVamZjTGJaUkNyUG16RzFxYWZPWVVLUF8xRENqb1FTMlZZczQwQ09INWtaZUtYUkRseDIyVTNaSW1RbkwwVTliRmc3SUQwTElURjZ1QmN3LVFnVWxHUDlyR2l4ZnZYanFlazA2c1drX0I1NU45YmpQWHRZN1Z4bGhmUnVJYXlrZElvTnBRa1J1dHF0TU4tMDA2WjB1ZkV3LV9YTHRhSVFaZGgwSFJBY3phcDhUV1FlSUlKZ2hNSjFmWHlFVC1fLU13Y2dDMVFRdVhjb2tkUUIySy1JY2IwV2pWOGtkNg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GMA Network",
+   "region": "PH",
+   "date": "2026-11-14T00:03:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦 🇰🇭",
+    "also": [
+     "Cambodia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "606dd679ae",
    "title": "Meralco Bills to Rise Again in November as Peso Slump, Middle East War Lift Power Costs",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUnZELVBpZ1haOGdhVkFGUlJ4ZXN1WktqaHRmeDVDbm9EWDc1ejgyb1djd1BYT245c3VXZUFvRUhLRjMwT0MyT3REaXloQ3ZmUFF1UjlGa0tHUEFPSlFRRVJkQ2pnN2lVajJPZDJkUWMzc24zQ1E?oc=5",
@@ -206,60 +260,6 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e1b6a1117c",
-   "title": "CO26233 | Beyond Summit Diplomacy: Sustaining US-China Cooperation After APEC 2026",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWdBZVctSUxKbWVmVk9QQXRIZndaaDd5OVA3eVpQd3Q3cE85eGtEbUhteUNBci1LVEhIX3RMMzJRdzgzYkx4TTAzaUxNdENGOFhLdjdJM2MxVzJoTjcza0hBeFVpM0JvT2cwSDNlZ3F5RUhHUlR5R1BYRW1pSWpDa18wUlY4ck83VEQ3S2JfLWFXSzFwM1FWNkZxRWdGVW01ZmxoaG9fLS13V2xsMVFUWVBRS2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "S. Rajaratnam School of International Studies (RSIS)",
-   "region": "PH",
-   "date": "2026-11-13T23:22:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇳",
-    "also": [
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "41ac723a1b",
-   "title": "Lakers provide Austin Reaves injury update. Will star guard miss games?",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEdaV2prU21mcVJ5ZVZLM1l0TlQ5UmV1bjBPNmxfRm5NamtDQ2NEb2NDY0NCWWJLS0VRdzNpOWVZcGxYUGE2eXA5R1lOLXYxUmJrbkdYcUdjV055Mms3dm9KRHZPMG5vZG83S3V2dnl0eGdZUzJaV2dFeGxmd1MzUGY3ZTRNSGhYSlViSVM5UmFBcHJDTUp0a3Jpak1BX0NWTGpBZzY4SGM2UXBpR3VOTEtyYVlNeUR0dm1mNw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "USA Today",
-   "region": "PH",
-   "date": "2026-11-13T21:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "54f659f4e8",
-   "title": "Court process for Quiboloy US extradition gets going",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1NVM0lBZVZyVi1fdkZxdU45OVFSZjhxNWxXbWVWTDlEb2JNblhmTnNkYUNjNFVlYU5CaklaNFdaRjZhZWM1ZzMweWNhQW1YRTY1TmFLSGxqRVFWMWJOeENYeGZuTFREVFVuMHdnc0xsMmxuQ19FbWFvRm5DSkF5ZHBNNEpBZ2h0NkFPaFk1ajAtLXh60gGaAUFVX3lxTE9oTm1fUTV1WGI4V0VabC1zcHlmd0N4ZG5fTnBiZVF3OXZYMllGU3NfVVA2MnFoLWNDc0o3Z2ZrbG11Y3dSckVnTU9BMlI4SExEcFNKMlJCRmIwcElyUUFfWFVheW1mbXdQaDlCT2VLSnBFM0ZoNHBLX3luVmt3V3pfRC1qdmZOeUFUNTM4aFJGQWlIRDNfTmFRQXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Inquirer.net",
-   "region": "PH",
-   "date": "2026-11-13T21:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Politics"
   },
   {
    "id": "0e4c882f1d",
@@ -517,23 +517,6 @@
    "topic": "Society"
   },
   {
-   "id": "be65f54cc4",
-   "title": "MSI Crosshair A16 HX MLG Edition: Gaming Power Meets Anime-Inspired Design",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lXzZOMmtTcXhHY2JyMHBPeHBaaG41Qm5nYllwSVhIUXN6OU9jT1BMbkxLbzF0Z2VvalZXcDdTX3N3Y0J4YnZzdE5FSkl1Nkw3TkdvNDhvbFRkN1c1emJFYjM4ekFtVnh3MHh2WTUwT3ZNZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WalasTech",
-   "region": "PH",
-   "date": "2026-11-13T12:18:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "303a816a8c",
    "title": "News Releases - DOT showcases best of PH at 49th ASEAN Summit",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm11bGE4allOZjhwa0pzczdWVDVWbXNuaGZrYldzeHZDTTZ4OWx4N2JSYVpjaXdhNjBlVDBiRjRIWHUwcWhNQ3dsc2hrWGVyOW1CcmlITkExQm9fcHVhRjZkRUhVcXZzdE1OU0d4VVJJVTB6b1BGYnlPa2pvRURfN0xxQldGUQ?oc=5",
@@ -582,7 +565,7 @@
     "place": "",
     "flag": "🇵🇭"
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
    "id": "e682b8bea0",

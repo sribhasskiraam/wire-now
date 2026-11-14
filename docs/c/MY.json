@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:40:06.627502+00:00",
+ "updated": "2026-11-14T03:50:02.442754+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
@@ -55,6 +55,23 @@
    "topic": "Health"
   },
   {
+   "id": "a0fed2db16",
+   "title": "Making diabetes care fit more naturally into everyday life",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3E2amdzRXJySTFTU1NDQ0hKNFBFaHRwdXhEQ2JhTTVkTllWb3MtRGgzeWhYcDFBWFhaaHJ4RjM3RHUyQkFrUlhtaWtBa18yb1E1cGo0amVXQVBNZE5iNDFQSWNnWElXOHhMWEpCVGxPRVJ6RGZwUmRtNU80THhaZnFZX2NEMEdGbXlGZWdfSk8zRzY2dWU4S3ROUU1PM2VvTDZXQmdxMEtpRjdISV9iT3ZRZjFaQVFsSjU0RA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Free Malaysia Today",
+   "region": "MY",
+   "date": "2026-11-14T00:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e74389530f",
    "title": "Jeryl Lee’s decade in music",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2kwb2l2eV85TmpNTWUteXgyRVd0R3FjdnBpZWh5T0h1cng0aHFWV09DcWJrZ1Z2My1aNzR0WGR3ejR4SmJ5aEtoMndORndGZFhSRkNTOEdYVWlaenlZMUZTT2hJTVBtaG9qWXlvNDlUT0xkdDJMZFc2NWRZRm00WlRR?oc=5",
@@ -73,7 +90,7 @@
   },
   {
    "id": "78fc34125d",
-   "title": "Melaka polls: Voting begins (Live updates)",
+   "title": "Melaka polls: Voter turnout at 9.24% as of 9am, says EC (live updates)",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTZaNzZpS1B3SjM3aTUzTzFKdUdNM0staXN6YVpHNVlGNzlvU2Joc2FiR19GVkZ1MERCV3JOb29kWHFkcFVvV0hGNzdsN2I0bG9qbWlFbG5BWkhqVURFelZBdzV0Y3JmaGRuNHNvZl9Ld0FhRnV6QkN4clZQekZYMw?oc=5",
    "summary": "",
    "image": "",
@@ -226,23 +243,6 @@
     "flag": "🇲🇾"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "515a5d3f0e",
-   "title": "Port Klang low-cost flats named dengue hotspot",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkdJRE1tZTZIb19uOHp1dW9iemNoUklnUDVyb0JObEdPUEtVcmUtb0o2aE9DT3hRaHJBX05JV3JDLWdiUG9TVGI5R2JnTVY2U1lsM3RkbFJ2N0FzTzkxeEpqNHlIblF5T09TRW4yWVJjVzZJVzlPekZLcnRXNThzZmJ6NkRhQmtrRElKX210b21VMEp4al9WV0lKeC1IUjNTai1N?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-13T12:14:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Health"
   },
   {
    "id": "8be049d081",
@@ -499,6 +499,23 @@
     "country": "Thailand",
     "place": "",
     "flag": "🇹🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "91adea134f",
+   "title": "[UPDATED] Anwar confirms he has yet to receive Loke's resignation letter",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVRQd3BIX1RzZVF0Q0FXRnAxMWhwWHlsb3A5cVFXekJZT2JGSTJHTjdsTVFaeWk2Wm1FZzN2YktyZjF4cTVQSjRXNkZFUy1fdEZYYXNLaHpLX1k3RWZsN3FYNmJwNEFya3YxbE53d01XMXBPRVpkd0NCMHhuMDAzc0J6QldGTmZNa3MwMFBES3ptcU4yWEE3bndTSG0wU0x4aU8xem5HM3B3anA0S3RzUW54aWlib3dz0gG-AUFVX3lxTE13b0haVjdEdUdkNE4yaFU0TEtlM0ZSbFBOOVpIc2dxQjBaSTVjS01WUWJWWE8xQjAteFEtb2tyVVdxQ3pMbmpTVXZ2MjlsUG9ULUNQcVl0Sjl4aGJsVjBwX2t1U1l5Rm84OGZaNWFDX19UWVZfdjg3MU80X3R6WGNDZ1pfZllyVXlqc2hXZGkzVlFFWm52SW5nelJZemFFWG9uTC1sTFBodEM0Ui12ZFdvV1h4ZFZhNV8wNFR4Snc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NST Online",
+   "region": "MY",
+   "date": "2026-11-12T14:07:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
    },
    "topic": "Society"
   },

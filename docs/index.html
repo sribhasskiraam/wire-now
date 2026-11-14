@@ -62,6 +62,20 @@
   .actbar button{flex:1;color:#fff;font-weight:900;font-size:15px;padding:12px 4px;border-radius:12px;background:rgba(255,255,255,.08)}
   .story.held{transform:scale(.97);box-shadow:0 0 0 3px var(--acc)}
   .installbtn{display:none}
+  .lead .t{font-size:24px;line-height:1.25} .lead .b{font-size:16px;-webkit-line-clamp:5} .lead .img{height:230px}
+  .kick{font-size:12px;font-weight:900;letter-spacing:.06em;color:var(--acc);text-transform:uppercase;margin-bottom:4px}
+  .fsec{background:var(--card);border-radius:22px;padding:6px 14px 8px;margin:0 0 14px;box-shadow:0 2px 0 var(--line)}
+  .fh{display:flex;align-items:center;justify-content:space-between;border-left:5px solid var(--acc);padding:8px 0 8px 10px;margin:6px 0 4px}
+  .fh b{font-size:18px;font-weight:900} .seeall{font-weight:900;font-size:14px;color:var(--acc)}
+  .row{display:flex;gap:12px;width:100%;text-align:left;padding:10px 0;border-top:1px solid var(--line);background:none;box-shadow:none;border-radius:0;margin:0}
+  .row .th{flex:none;width:86px;height:86px;border-radius:14px;background-size:cover;background-position:center}
+  .row .th.ic{display:grid;place-items:center;font-size:34px}
+  .row .rt{min-width:0} .row .t{font-weight:900;font-size:15px;line-height:1.3} .row .b{font-size:13px;color:var(--muted);font-weight:700;margin-top:3px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .row .meta{font-size:12px;margin-top:4px}
+  .lrow{display:flex;gap:10px;width:100%;text-align:left;padding:10px 0;border-top:1px solid var(--line);background:none;box-shadow:none;border-radius:0;margin:0}
+  .fsec .row.story,.fsec .lrow.story{display:flex;background:none;box-shadow:none;border-radius:0;margin:0;overflow:visible}
+  .fsec .row.story:first-of-type,.fsec .lrow.story:first-of-type{border-top:0}
+  .lrow .tm{flex:none;font-size:13px;font-weight:900;color:var(--acc);width:64px;padding-top:1px} .lrow .t{font-weight:800;font-size:14px;line-height:1.35}
   .living{display:flex;gap:8px;overflow-x:auto;margin:-2px 0 10px;scrollbar-width:none}
   .living:empty{display:none}
   .living button{flex:none;padding:7px 12px;border-radius:999px;font-weight:800;font-size:13px;background:#e9f7ef;color:#1b6b45;border:1.5px solid #bfe6cf}
@@ -475,6 +489,8 @@ const TXT = {
   v_unverified: ["❓ Can't verify yet", "❓ තවම තහවුරු කළ නොහැක", "❓ இன்னும் உறுதிப்படுத்த முடியவில்லை"],
   sofar: ["📖 The story so far", "📖 මෙතෙක් කතාව", "📖 இதுவரை நடந்தவை"],
   sofar_s: ["{n} reports, oldest first. This section grows as the story goes on.", "වාර්තා {n}ක්, පැරණිම ඒවා මුලින්. කතාව ඉදිරියට යන විට මෙය වර්ධනය වේ.", "{n} செய்திகள், பழையவை முதலில். கதை தொடரும்போது இந்தப் பகுதி வளரும்."],
+  lead_t: ["Top story", "ප්‍රධාන පුවත", "முதன்மைச் செய்தி"], latest_t: ["⏱️ Latest", "⏱️ නවතම", "⏱️ சமீபத்தியவை"],
+  see_all: ["See all ›", "සියල්ල ›", "அனைத்தும் ›"],
   say_hello: ["This is the news from Wire Now.", "මේ Wire Now පුවත් ප්‍රකාශයයි.", "இது Wire Now செய்திகள்."],
   say_what: ["Here's what happened.", "සිදු වූයේ මෙයයි.", "நடந்தது இதுதான்."],
   say_why: ["Why does this matter?", "මෙය වැදගත් වන්නේ ඇයි?", "இது ஏன் முக்கியம்?"],
@@ -663,6 +679,7 @@ function render(){
            : [[myLabel, mine], [restLabel, rest]];
     const lv = livingNow().find(x => x.key === subjectKey);
     if(lv){ const all = allStories(); groups = [["🌱 " + esc(livingName(lv)), lv.stories.map(id => all.find(x => x.id === id)).filter(Boolean).reverse()]]; }
+    else if(view === "all" && topic === "All"){ renderFront(mine, rest, myLabel, restLabel); return; }   // 📰 the front page
   }
   let out = subjectKey && livingNow().some(x => x.key === subjectKey) ? `<button class="sofar" id="sofar">${T("sofar")}</button>` : "", waitingTr = 0;
   currentList = [];
@@ -696,6 +713,59 @@ function render(){
     ? `<div class="empty"><div>❤️</div>${T("no_saved")}</div>`
     : `<div class="empty"><div>🗞️</div>${T("no_stories")}</div>`);
 }
+
+/* ---- 📰 the front page: like a newspaper / news channel ----
+   lead story big, then a section per topic (stories with summaries first), then the latest news in time order */
+function thumb(s){
+  return s.image ? `<div class="th" style="background-image:url('${esc(s.image_small || s.image)}')"></div>`
+                 : `<div class="th ic" style="background:var(--${esc(s.topic)},var(--acc))">${(ICONS.find(([re]) => re.test(s.title)) || [0, TOPIC_ICON[s.topic] || "📰"])[1]}</div>`;
+}
+const lineOf = s => { const c = s.cards ? (cardsOf(s) || {}) : null; return c ? (c.blurb || c.what_happened || "") : W(s.summary); };
+const rank = s => (s.cards ? 4 : 0) + (s.image ? 1 : 0) + Math.min(3, (s.coverage || 1) - 1) + (s.breaking || s.warning ? 3 : 0) - (Date.now() - new Date(s.date)) / 864e5;
+function renderFront(mine, rest, myLabel, restLabel){
+  const pool = [...mine, ...rest].filter(hasLang).filter(s => !s.promo);
+  const all = allStories(), byId = id => pool.find(s => s.id === id);
+  const lead = (data.top || []).map(byId).find(s => s && s.cards) || (data.top || []).map(byId).find(Boolean) || pool.slice().sort((a, b) => rank(b) - rank(a))[0];
+  const used = new Set(lead ? [lead.id] : []);
+  currentList = [];
+  let out = "";
+  if(lead){
+    currentList.push(lead);
+    const c = lead.cards ? (cardsOf(lead) || {}) : {};
+    out += `<button class="lead story" data-id="${esc(lead.id)}">
+      ${lead.image ? `<div class="img" style="background-image:url('${esc(lead.image)}')">${tagHtml(lead.topic)}<div class="ovl">${iconCover(lead)}</div></div>`
+                   : `<div style="--tc:var(--${esc(lead.topic)},var(--acc))">${iconCover(lead)}</div>`}
+      <div class="body"><div class="kick">${T("lead_t")}</div>${lead.location ? `<div class="loc">${esc(locText(lead))}</div>` : ""}
+        <div class="t">${lead.breaking ? `<span class="badge brk">${T("breaking")}</span>` : ""}${esc(titleOf(lead))}</div>
+        <div class="b">${esc(c.what_happened || lineOf(lead))}</div>
+        <div class="meta">${esc(srcOf(lead.source))} · ${ago(lead.date)}${lead.coverage > 1 ? ` · <span class="cov">📰 ${T("outlets", {n: lead.coverage})}</span>` : ""}</div></div></button>`;
+  }
+  // a section per topic: Sri Lanka's own news first in each, the best 3 (summaries first)
+  for(const t of TOPICS){
+    const list = pool.filter(s => s.topic === t && !used.has(s.id)).sort((a, b) => (isMineOrLK(b) - isMineOrLK(a)) || (rank(b) - rank(a))).slice(0, 3);
+    if(!list.length) continue;
+    list.forEach(s => used.add(s.id)); currentList.push(...list);
+    out += `<div class="fsec"><div class="fh" style="border-color:var(--${esc(t)},var(--acc))"><b>${T(t)}</b><button class="seeall" data-t="${esc(t)}">${T("see_all")}</button></div>` +
+      list.map(s => `<button class="row story" data-id="${esc(s.id)}">${thumb(s)}<div class="rt">
+        <div class="t">${s.breaking ? `<span class="badge brk">${T("breaking")}</span>` : ""}${esc(titleOf(s))}</div>
+        ${lineOf(s) ? `<div class="b">${esc(lineOf(s))}</div>` : ""}
+        <div class="meta">${esc(srcOf(s.source))} · ${ago(s.date)}</div></div></button>`).join("") + `</div>`;
+  }
+  // the latest news, in time order (like a live feed)
+  const latest = pool.filter(s => !used.has(s.id)).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, limits.front || 25);
+  if(latest.length){
+    currentList.push(...latest);
+    out += `<div class="fsec"><div class="fh"><b>${T("latest_t")}</b></div>` + latest.map(s => `<button class="lrow story" data-id="${esc(s.id)}">
+      <span class="tm">${esc(new Date(s.date).toLocaleTimeString(lang, {hour: "2-digit", minute: "2-digit"}))}</span><span class="t">${esc(titleOf(s))}</span></button>`).join("") + `</div>`;
+    if(pool.filter(s => !used.has(s.id)).length > latest.length) out += `<button class="more" data-more="front">${T("more_stories", {n: 25})}</button>`;
+  }
+  const waiting = [...mine, ...rest].length - pool.length;
+  if(waiting > 0 && lang !== "en") out += `<div class="upd">${T("tr_waiting", {n: waiting})}</div>`;
+  setTimeout(translateVisible, 50);
+  $("list").innerHTML = out || `<div class="empty"><div>🗞️</div>${T("no_stories")}</div>`;
+}
+const isMineOrLK = s => (s.location && s.location.country === "Sri Lanka") ? 1 : 0;
+document.addEventListener("click", e => { const t = e.target.closest(".seeall")?.dataset.t; if(t){ topic = t; render(); window.scrollTo({top: $("topics").offsetTop - 80, behavior: "smooth"}); } });
 
 /* ---- story viewer ---- */
 // stories with a full summary have their own page (better for Google and for link previews)
@@ -966,7 +1036,7 @@ function openSoFar(){
 $("list").onclick = e => {
   if(justHeld){ justHeld = false; return; }               // a long-press already opened the action bar
   const m = e.target.closest("[data-more]")?.dataset.more;
-  if(m){ limits[m] = (limits[m] || 30) + 30; render(); return; }
+  if(m){ limits[m] = (limits[m] || (m === "front" ? 25 : 30)) + (m === "front" ? 25 : 30); render(); return; }
   const id = e.target.closest(".story")?.dataset.id; if(id) openStory(id);
 };
 /* long-press a story (like a WhatsApp message): Copy · Share · Save */

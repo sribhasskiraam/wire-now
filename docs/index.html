@@ -70,13 +70,16 @@
   .fh b{font-size:18px;font-weight:900} .seeall{font-weight:900;font-size:14px;color:var(--acc)}
   .row{display:flex;gap:12px;width:100%;text-align:left;padding:10px 0;border-top:1px solid var(--line);background:none;box-shadow:none;border-radius:0;margin:0}
   .row .th{flex:none;width:86px;height:86px;border-radius:14px;background-size:cover;background-position:center}
-  .row .th.ic{display:grid;place-items:center;font-size:34px}
+  .waitbox{margin-top:18px;padding:16px;border-radius:16px;background:var(--bg);font-weight:800;font-size:15px;line-height:1.4;color:var(--muted)}
+  .waitbox a.btn{display:block;margin-top:12px;text-align:center;text-decoration:none;background:var(--acc);color:#fff;padding:13px;border-radius:14px}
+  .row .th.ic{display:grid;place-items:center;font-size:34px;position:relative;overflow:hidden}
+  .row .th .ph{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
   .row .rt{min-width:0} .row .t{font-weight:900;font-size:15px;line-height:1.3} .row .b{font-size:13px;color:var(--muted);font-weight:700;margin-top:3px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   .row .meta{font-size:12px;margin-top:4px}
   .lrow{display:flex;gap:10px;width:100%;text-align:left;padding:10px 0;border-top:1px solid var(--line);background:none;box-shadow:none;border-radius:0;margin:0}
   .fsec .row.story,.fsec .lrow.story{display:flex;background:none;box-shadow:none;border-radius:0;margin:0;overflow:visible}
   .fsec .row.story:first-of-type,.fsec .lrow.story:first-of-type{border-top:0}
-  .lrow .tm{flex:none;font-size:13px;font-weight:900;color:var(--acc);width:64px;padding-top:1px} .lrow .t{font-weight:800;font-size:14px;line-height:1.35}
+  .lrow .tm{flex:none;font-size:13px;font-weight:900;color:var(--acc);width:52px;padding-top:1px;white-space:nowrap} .lrow .t{font-weight:800;font-size:14px;line-height:1.35}
   .living{display:flex;gap:8px;overflow-x:auto;margin:-2px 0 10px;scrollbar-width:none}
   .living:empty{display:none}
   .living button{flex:none;padding:7px 12px;border-radius:999px;font-weight:800;font-size:13px;background:#e9f7ef;color:#1b6b45;border:1.5px solid #bfe6cf}
@@ -145,7 +148,8 @@
   .share3{display:flex;gap:8px;width:100%}
   .share3 a{flex:1;padding:12px 6px;border-radius:14px;color:#fff;font-weight:900;font-size:14px;text-align:center;text-decoration:none}
   footer{max-width:720px;margin:0 auto;padding:10px 16px 40px;color:var(--muted);font-size:13px;font-weight:700;text-align:center}
-  footer a{color:var(--acc)}
+  footer a{color:var(--acc);display:inline-block;padding:6px 2px}
+  footer .fnote{display:block;margin-top:8px;font-weight:600}
 
   /* story viewer */
   #viewer{position:fixed;inset:0;z-index:20;background:var(--bg);display:none;flex-direction:column}
@@ -166,7 +170,9 @@
   @media (max-width: 420px){ #streak{display:none} .logo{white-space:nowrap} }
   .ratebox{cursor:pointer}
   .rates .r{display:flex;align-items:center;gap:10px;padding:9px 2px;border-bottom:1px solid var(--line);font-weight:700}
-  .rates .r b{margin-left:auto;font-size:17px}
+  .rates .r b{margin-left:auto;font-size:16px;white-space:nowrap}
+  .rates .r > span:nth-child(2){min-width:0;overflow:hidden;text-overflow:ellipsis;line-height:1.25}
+  .rates .r > span:last-child{flex:none;min-width:64px;text-align:right;white-space:nowrap}
   .rates .up{color:#2e9e6a;font-size:13px;min-width:62px;text-align:right} .rates .dn{color:#d84a3a;font-size:13px;min-width:62px;text-align:right} .rates .eq{color:var(--muted);font-size:13px;min-width:62px;text-align:right}
   .chart{width:100%;height:150px;display:block}
   .chips2{display:flex;gap:6px;overflow-x:auto;margin:8px 0;scrollbar-width:none}
@@ -256,7 +262,7 @@
   <div class="upd" id="upd" data-i="loading">Loading…</div>
   <div id="list"></div>
 </main>
-<footer><a href="https://t.me/wirenow_news_bot?start=tip" data-i="send_news">📣 Send us news</a> · <a href="community/" data-i="community">👥 Community</a> · <a href="about.html" data-i="about">About Wire Now</a> · <a href="sitemap.xml" data-i="all_stories">All stories</a> · <span data-i="footer_note">Summaries are written by AI from the original reports and fact-checked. Always see the source for the full article.</span></footer>
+<footer><a href="https://t.me/wirenow_news_bot?start=tip" data-i="send_news">📣 Send us news</a> · <a href="community/" data-i="community">👥 Community</a> · <a href="about.html" data-i="about">About Wire Now</a><br><span class="fnote" data-i="footer_note">Summaries are written by AI from the original reports and fact-checked. Always see the source for the full article.</span></footer>
 
 <div id="viewer">
   <div class="vbar" id="vbar"></div>
@@ -451,6 +457,14 @@ const TXT = {
   rates_s: ["Rupees for 1 unit. Market rates, not a bank's buying/selling rate.", "ඒකකයක් සඳහා රුපියල්. වෙළඳපොළ අනුපාත, බැංකු ගැනුම්/විකුණුම් අනුපාත නොවේ.", "1 அலகுக்கு ரூபாய். சந்தை விகிதங்கள், வங்கியின் வாங்கும்/விற்கும் விகிதம் அல்ல."],
   all_rates: ["All rates ›", "සියලු අනුපාත ›", "அனைத்து விகிதங்கள் ›"],
   trend: ["📊 Last {n} days", "📊 පසුගිය දින {n}", "📊 கடந்த {n} நாட்கள்"],
+  chg_up: ["Up Rs. {a} in {n} days", "දින {n}කදී රු. {a}කින් ඉහළ ගියේය", "{n} நாட்களில் ரூ. {a} உயர்வு"],
+  chg_dn: ["Down Rs. {a} in {n} days", "දින {n}කදී රු. {a}කින් පහළ වැටුණි", "{n} நாட்களில் ரூ. {a} வீழ்ச்சி"],
+  chg_eq: ["No change in {n} days", "දින {n}කදී වෙනසක් නැත", "{n} நாட்களில் மாற்றம் இல்லை"],
+  chg_small: ["(a very small change)", "(ඉතා කුඩා වෙනසක්)", "(மிகச் சிறிய மாற்றம்)"],
+  chart_week: ["📊 The chart appears once we have 7 days of rates.", "📊 දින 7ක අනුපාත ලැබුණු පසු ප්‍රස්තාරය පෙන්වයි.", "📊 7 நாட்களின் விகிதங்கள் கிடைத்ததும் வரைபடம் தோன்றும்."],
+  in_english: ["in English", "ඉංග්‍රීසියෙන්", "ஆங்கிலத்தில்"],
+  sum_wait: ["⏳ Our summary of this story isn't ready yet.", "⏳ මෙම පුවතේ අපගේ සාරාංශය තවම සූදානම් නැත.", "⏳ இந்தச் செய்தியின் எங்கள் சுருக்கம் இன்னும் தயாராகவில்லை."],
+  read_full: ["Read the full story on {s} ↗", "සම්පූර්ණ පුවත {s} හි කියවන්න ↗", "முழுச் செய்தியையும் {s} இல் படிக்கவும் ↗"],
   trend_wait: ["The chart grows day by day.", "ප්‍රස්තාරය දිනෙන් දින වර්ධනය වේ.", "வரைபடம் நாளுக்கு நாள் வளரும்."],
   numbers_t: ["📊 Today in numbers", "📊 අද අංක වලින්", "📊 இன்று எண்களில்"],
   listen: ["🎧 Listen", "🎧 අසන්න", "🎧 கேளுங்கள்"],
@@ -570,6 +584,13 @@ const ICONS = [[/\b(parliament|budget debate|speaker of)\b/i, "🏛️", "ic_par
   [/\b(rupee|dollar|inflation|imf|central bank|cbsl|economy|tax|taxes|budget|prices?)\b/i, "💰", "ic_economy"],
   [/\b(hospitals?|health|dengue|virus|disease|doctors?)\b/i, "🏥", "ic_health"], [/\b(schools?|exams?|university|students?)\b/i, "🎓", "ic_education"],
   [/\b(airport|flights?|airlines?)\b/i, "✈️", "ic_travel"], [/\b(microsoft|google|apple|outage|ai|software|internet|cyber\w*)\b/i, "💻", "ic_tech"]];
+// which icons fit which topic (an empty list = any topic): no rain cloud on a cricket story, no money bag on a health story
+const ICON_FITS = { ic_weather: ["Weather", "Society", "Environment"], ic_economy: ["Economy", "Business", "Politics"], ic_tech: ["Tech", "Business", "Economy"],
+  ic_education: ["Society", "Politics"], ic_health: ["Health", "Society"], ic_parl: ["Politics", "Economy"] };
+const SPORT_ICONS = ["ic_cricket", "ic_football"];
+function iconHit(s){
+  return ICONS.find(([re, , key]) => re.test(s.title) && (s.topic === "Sports" ? SPORT_ICONS.includes(key) : (!ICON_FITS[key] || ICON_FITS[key].includes(s.topic))));
+}
 const TOPIC_ICON = { Politics: "🏛️", Economy: "💰", Business: "💼", Sports: "🏅", Tech: "💻", Health: "🏥", Weather: "🌧️", Entertainment: "🎬", Astrology: "✨", Society: "👥" };
 function iconCover(s){
   const c = s.cards || {}, l = s.location || {};
@@ -580,7 +601,7 @@ function iconCover(s){
     const who = [l.country ? cName(l.country) : "", role].filter(Boolean);
     return `<div class="icv"><div class="ib" style="font-size:24px">${esc((ini[0] || "") + (ini.length > 1 ? ini[ini.length - 1] : ""))}</div><div><div class="l1">${esc(who[0] || where)}</div><div class="l2">${esc(who[1] || T(s.topic))}</div></div></div>`;
   }
-  const hit = ICONS.find(([re]) => re.test(s.title));
+  const hit = iconHit(s);
   return `<div class="icv"><div class="ib">${hit ? hit[1] : (TOPIC_ICON[s.topic] || "📰")}</div><div><div class="l1">${esc(where || (hit ? T(s.topic) : ""))} ${l.flag || ""}</div><div class="l2">${esc(hit ? T(hit[2]) : T(s.topic))}</div></div></div>`;
 }
 
@@ -720,8 +741,8 @@ function render(){
 /* ---- 📰 the front page: like a newspaper / news channel ----
    lead story big, then a section per topic (stories with summaries first), then the latest news in time order */
 function thumb(s){
-  return s.image ? `<div class="th" style="background-image:url('${esc(s.image_small || s.image)}')"></div>`
-                 : `<div class="th ic" style="background:var(--${esc(s.topic)},var(--acc))">${(ICONS.find(([re]) => re.test(s.title)) || [0, TOPIC_ICON[s.topic] || "📰"])[1]}</div>`;
+  const ic = `<div class="th ic" style="background:var(--${esc(s.topic)},var(--acc))">${(iconHit(s) || [0, TOPIC_ICON[s.topic] || "📰"])[1]}`;
+  return s.image ? `${ic}<img class="ph" src="${esc(s.image_small || s.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"></div>` : ic + `</div>`;
 }
 const lineOf = s => { const c = s.cards ? (cardsOf(s) || {}) : null; return c ? (c.blurb || c.what_happened || "") : W(s.summary); };
 const rank = s => (s.cards ? 4 : 0) + (s.image ? 1 : 0) + Math.min(3, (s.coverage || 1) - 1) + (s.breaking || s.warning ? 3 : 0) - (Date.now() - new Date(s.date)) / 864e5;
@@ -759,7 +780,7 @@ function renderFront(mine, rest, myLabel, restLabel){
   if(latest.length){
     currentList.push(...latest);
     out += `<div class="fsec"><div class="fh"><b>${T("latest_t")}</b></div>` + latest.map(s => `<button class="lrow story" data-id="${esc(s.id)}">
-      <span class="tm">${esc(new Date(s.date).toLocaleTimeString(lang, {hour: "2-digit", minute: "2-digit"}))}</span><span class="t">${esc(titleOf(s))}</span></button>`).join("") + `</div>`;
+      <span class="tm">${esc(new Date(s.date).toLocaleTimeString(lang, {hour: "2-digit", minute: "2-digit", hour12: false}))}</span><span class="t">${esc(titleOf(s))}</span></button>`).join("") + `</div>`;
     if(pool.filter(s => !used.has(s.id)).length > latest.length) out += `<button class="more" data-more="front">${T("more_stories", {n: 25})}</button>`;
   }
   const waiting = [...mine, ...rest].length - pool.length;
@@ -796,6 +817,7 @@ function slidesFor(s){
     ${untranslated(s) ? `<div class="note" style="margin-bottom:6px">${T("translating")}</div>` : ""}
     ${c ? `<div class="byline">${(c.sources || []).length > 1 ? T("byline", {n: c.sources.length}) : T("byline1")}</div>` : ""}
     <div class="note">${ago(s.date)}${srcNote} · <a href="${esc(s.link)}" target="_blank" rel="noopener" style="color:var(--acc);font-weight:800">${T("read_on", {s: esc(s.source)})}</a></div>
+    ${more ? "" : `<div class="waitbox"><div>${T("sum_wait")}</div><a class="btn" href="${esc(s.link)}" target="_blank" rel="noopener">${T("read_full", {s: esc(srcOf(s.source))})}</a></div>`}
     <div class="hint">${more ? T("hint_more") : (LIVE ? T("hint_sum") : T("hint_src"))}</div></div></div>`);
   if(c){
     const card = (emoji, label, pieces) => pieces.forEach((pc, i) => out.push(`<div class="sc"><div class="emoji">${emoji}</div><div class="lbl">${label}${pieces.length > 1 ? " · " + (i + 1) + "/" + pieces.length : ""}</div><div class="txt ${pc.length > 480 ? "l" : pc.length > 300 ? "m" : ""}">${esc(pc)}</div></div>`));
@@ -1205,7 +1227,7 @@ function openCheck(prefill){
     if(j.status === "busy"){ $("chkout").innerHTML = `<div class="verdict v-unverified">${T("chk_busy")}</div>`; return; }
     if(j.status !== "ok"){ $("chkout").innerHTML = `<div class="verdict v-unverified">${T("chk_fail")}</div>`; return; }
     const v = ["confirmed", "false", "misleading", "unverified"].includes(j.verdict) ? j.verdict : "unverified";
-    $("chkout").innerHTML = `<div class="verdict v-${v}"><span class="v">${T("v_" + v)}</span>${esc(clean(j.explanation || ""))}
+    $("chkout").innerHTML = `<div class="verdict v-${v}"><span class="v">${T("v_" + v)}</span>${esc(clean(j.explanation || ""))}${j.tip ? `<div class="note" style="margin-top:8px">💡 ${esc(clean(j.tip))}</div>` : ""}
       ${(j.sources || []).map(x => x.link ? `<a href="${esc(x.link)}" target="_blank" rel="noopener">↗ ${esc(clean(x.source))}${x.date ? " · " + esc(x.date) : ""}</a>` : `<span class="note" style="display:block;margin-top:6px">${esc(clean(x.source))}${x.date ? " · " + esc(x.date) : ""}</span>`).join("")}</div>`;
   };
   $("sheet").classList.add("open");
@@ -1224,15 +1246,15 @@ function weatherText(t){   // "☁️ Cloudy" -> the same in the reader's langua
 }
 function drawExtras(){
   const n = data.numbers || {}, w = n.weather, boxes = [];
-  if(n.usd_lkr) boxes.push(`<div class="num ratebox" id="ratebox"><div class="k">${T("usd")} <span style="color:var(--acc)">${n.rates ? T("all_rates") : ""}</span></div><div class="v">Rs. ${n.usd_lkr.toFixed(2)}</div><div class="s">${T("rate_note")}</div></div>`);
+  if(n.usd_lkr) boxes.push(`<div class="num ratebox" id="ratebox"><div class="k">${T("usd")}</div><div class="v">Rs. ${n.usd_lkr.toFixed(2)}</div><div class="s">${T("rate_note")}</div>${n.rates ? `<div class="k" style="color:var(--acc);margin-top:4px">${T("all_rates")}</div>` : ""}</div>`);
   if(w) boxes.push(`<div class="num"><div class="k">${T("weather")}</div><div class="v">${esc(weatherText(w.text))} ${w.now_c}°C</div><div class="s">${T("today_w", {a: w.min_c, b: w.max_c, r: w.rain_pct ?? "?"})}</div></div>`);
   $("nums").innerHTML = boxes.join("");
   if($("ratebox") && n.rates) $("ratebox").onclick = openRates;
   drawNumbers(); $("listenrow").style.display = (VOICE_ON && "speechSynthesis" in window && (data.top || []).length) ? "flex" : "none";
   const warns = (data.sri_lanka || []).filter(s => s.warning).slice(0, 4);
   $("warnbox").style.display = warns.length ? "block" : "none";
-  $("warnbox").innerHTML = `<h3>${T("warnings")}</h3>` + warns.map(s => `<button data-id="${esc(s.id)}">${esc(titleOf(s))} <span style="color:var(--muted);font-weight:700">· ${esc(s.source)}, ${ago(s.date)}</span></button>`).join("");
-  const ids = data.top || [], all = allStories(), top = ids.map(id => all.find(s => s.id === id)).filter(Boolean);
+  $("warnbox").innerHTML = `<h3>${T("warnings")}</h3>` + warns.map(s => `<button data-id="${esc(s.id)}">${esc(hasLang(s) ? titleOf(s) : s.title)}${hasLang(s) ? "" : ` <span class="note">(${T("in_english")})</span>`} <span style="color:var(--muted);font-weight:700">· ${esc(s.source)}, ${ago(s.date)}</span></button>`).join("");
+  const ids = data.top || [], all = allStories(), top = ids.map(id => all.find(s => s.id === id)).filter(s => s && hasLang(s));
   $("top5").style.display = top.length ? "block" : "none";
   $("top5").innerHTML = `<h3>${T("top5")}</h3>` + top.map((s, i) =>
     `<button data-id="${esc(s.id)}"><span class="n">${i + 1}</span><span>${s.location ? (s.location.flag || "📍") : "📰"} ${esc(titleOf(s))}${s.coverage > 1 ? ` <span class="cov">· ${T("outlets", {n: s.coverage})}</span>` : ""}</span></button>`).join("");
@@ -1259,16 +1281,20 @@ function renderFactcheck(){
 /* ---- 💱 exchange rates + 📊 30-day chart ---- */
 function chartSVG(vals, dates){
   if(!vals || vals.length < 2) return `<div class="note" style="padding:20px 0;text-align:center">${T("trend_wait")}</div>`;
-  const W = 340, H = 150, P = 26, mn = Math.min(...vals), mx = Math.max(...vals), span = (mx - mn) || 1;
+  const first = vals[0], last = vals[vals.length - 1], d = last - first, pc = first ? d / first * 100 : 0;
+  const said = `<div class="note" style="margin:6px 0 2px;font-weight:800;color:var(--ink)">${T(d > 0 ? "chg_up" : d < 0 ? "chg_dn" : "chg_eq", {a: Math.abs(d).toFixed(2), n: vals.length})}${Math.abs(pc) < 0.5 ? " " + T("chg_small") : ""}</div>`;
+  if(vals.length < 7) return said + `<div class="note" style="padding:14px 0;text-align:center">${T("chart_week")}</div>`;
+  const W = 340, H = 150, P = 26, mn0 = Math.min(...vals), mx0 = Math.max(...vals), pad = Math.max((mx0 - mn0) * 0.15, mx0 * 0.002);
+  const mn = +(mn0 - pad).toFixed(2), mx = +(mx0 + pad).toFixed(2), span = (mx - mn) || 1;   // never zoom in so far that a tiny change looks huge
   const x = i => P + i * (W - 2 * P) / (vals.length - 1), y = v => H - P - (v - mn) / span * (H - 2 * P);
   const pts = vals.map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");
   const up = vals[vals.length - 1] >= vals[0], col = up ? "#d84a3a" : "#2e9e6a";
-  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="trend">
+  return said + `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="trend">
     <polyline points="${P},${H - P} ${pts} ${W - P},${H - P}" fill="${col}22" stroke="none"/>
     <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="3" stroke-linejoin="round"/>
-    <text x="${P}" y="14" font-size="11" fill="#6B6880">${mx}</text><text x="${P}" y="${H - 8}" font-size="11" fill="#6B6880">${mn}</text>
+    <text x="${P}" y="14" font-size="11" fill="#6B6880">${mx}</text><text x="${P}" y="${H - P + 13}" font-size="11" fill="#6B6880">${mn}</text>
     <text x="${W - P}" y="${H - 8}" font-size="11" fill="#6B6880" text-anchor="end">${esc((dates[dates.length - 1] || "").slice(5))}</text>
-    <text x="${P + 40}" y="${H - 8}" font-size="11" fill="#6B6880">${esc((dates[0] || "").slice(5))}</text></svg>`;
+    <text x="${W / 2}" y="${H - 8}" font-size="11" fill="#6B6880" text-anchor="middle">${esc((dates[0] || "").slice(5))} →</text></svg>`;
 }
 function openRates(){
   const n = data.numbers || {}, rates = n.rates || [], h = n.history || {dates: []};
@@ -1281,9 +1307,9 @@ function openRates(){
       <div class="chips2">${rates.map(r => `<button data-c="${r.code}" class="${r.code === pick ? "on" : ""}">${r.flag} ${r.code}</button>`).join("")}</div>
       <div class="rates">${rates.map(r => {
         const ch = r.prev ? r.lkr - r.prev : 0, pct = r.prev ? (ch / r.prev * 100) : 0;
-        const cls = !r.prev || Math.abs(pct) < 0.005 ? "eq" : ch > 0 ? "up" : "dn";
-        return `<div class="r"><span>${r.flag}</span><span>${esc(r.name)} <span class="note">${r.code}</span></span><b>Rs. ${r.lkr.toLocaleString(undefined, {maximumFractionDigits: r.lkr < 1 ? 4 : 2})}</b>
-          <span class="${cls}">${cls === "eq" ? "–" : (ch > 0 ? "▲ " : "▼ ") + Math.abs(pct).toFixed(2) + "%"}</span></div>`; }).join("")}</div>
+        const cls = !r.prev || ch === 0 ? "eq" : ch > 0 ? "up" : "dn";
+        return `<div class="r"><span>${r.flag}</span><span>${esc(r.name)} <span class="note">${r.code}</span></span><b>Rs. ${r.lkr.toLocaleString(undefined, {minimumFractionDigits: r.lkr < 10 ? 3 : 2, maximumFractionDigits: r.lkr < 1 ? 4 : r.lkr < 10 ? 3 : 2})}</b>
+          <span class="${cls}">${cls === "eq" ? "0%" : (ch > 0 ? "▲ " : "▼ ") + (Math.abs(pct) < 0.01 ? "<0.01" : Math.abs(pct).toFixed(2)) + "%"}</span></div>`; }).join("")}</div>
       <button class="btn" style="margin-top:14px;width:100%" id="sheetclose">${T("close")}</button>`;
     $("sheetbox").querySelectorAll("[data-c]").forEach(b => b.onclick = () => { pick = b.dataset.c; draw(); });
     $("sheetclose").onclick = closeSheet;

@@ -102,8 +102,12 @@ Judge it ONLY with the EVIDENCE below (fact-checkers, confirmed facts and news r
 - "confirmed": reliable reports clearly say the same thing (prefer items marked confirmed or reported by 2+ outlets).
 - "misleading": partly true, exaggerated, missing important context, or about a different time or place.
 - "unverified": nothing in the evidence clearly confirms or denies it. When in doubt, choose "unverified".
-Write the explanation in ${LANGS[lang]}: 1 to 3 short, neutral sentences saying what the evidence shows, and its date.
-Reply with ONLY this JSON: {"verdict": "confirmed|false|misleading|unverified", "explanation": "...", "evidence": [item numbers you relied on]}
+Write the explanation in ${LANGS[lang]}: 1 to 3 short, neutral sentences, speaking directly to an ordinary reader, saying what the
+reports show and their date. Never mention "the evidence", "provided", "items", "the list" or these instructions: say for example
+"We found no news report or fact-check about this so far" or "Ada Derana and Newsfirst reported on 14 Nov that ...".
+If the claim is too short, unclear or misspelled to check properly, also give a "tip" in ${LANGS[lang]}: one short sentence on how to
+ask better (for example the likely word they meant, or "write the full message you received: who, what, where"). Otherwise "tip": "".
+Reply with ONLY this JSON: {"verdict": "confirmed|false|misleading|unverified", "explanation": "...", "tip": "...", "evidence": [item numbers you relied on]}
 
 EVIDENCE:
 ${list || "(none)"}`;
@@ -114,9 +118,10 @@ ${list || "(none)"}`;
     const used = (Array.isArray(j.evidence) ? j.evidence : []).map((n: unknown) => evidence[Number(n) - 1]).filter(Boolean).slice(0, 5);
     if (verdict !== "unverified" && !used.length) verdict = "unverified";            // never a verdict without a source
     const explanation = clean(j.explanation, 1200) || "";
+    const tip = clean(j.tip, 300) || "";
     const sources = used.map((e: any) => ({ source: clean(e.source, 80), link: /^https?:\/\//.test(e.link) ? e.link : "", date: String(e.date).slice(0, 10), kind: e.kind }));
     await sb.from("claim_checks").upsert({ key, claim, lang, verdict, explanation, sources, asked: (old?.asked ?? 0) + 1, created_at: new Date().toISOString() });
-    return reply({ status: "ok", verdict, explanation, sources });
+    return reply({ status: "ok", verdict, explanation, tip, sources });
   } catch (_) {
     return reply({ status: "failed" });
   }

@@ -139,5 +139,14 @@ _src = open(os.path.join(os.path.dirname(__file__), "..", "community", "schema.s
 check("readers can't read the reader numbers", "grant execute on function public.reader_stats(integer) to anon" not in _src
       and "revoke all on public.visitors, public.visits from anon, authenticated" in _src)
 
+# 14 Nov 2026 (owner's site review): rain icon on a cricket story, money bag on a health story, blank photo boxes,
+# exchange chart that made a 0.04% change look huge, prices breaking onto two lines
+_html = open(os.path.join(os.path.dirname(__file__), "..", "docs", "index.html"), encoding="utf-8").read()
+check("icons must fit the story's topic", "function iconHit" in _html and 'SPORT_ICONS.includes(key)' in _html)
+check("a broken photo leaves the topic icon visible", 'onerror="this.remove()"' in _html)
+check("no rate chart until there are 7 days", "vals.length < 7" in _html)
+check("prices stay on one line", ".rates .r b{margin-left:auto;font-size:16px;white-space:nowrap}" in _html)
+check("readers are never sent to the raw sitemap", 'href="sitemap.xml"' not in _html)
+
 print(f"\n{'ALL PASSED' if not failures else str(len(failures)) + ' FAILED'}: {len(failures)} of the never-again checks failed")
 sys.exit(1 if failures else 0)

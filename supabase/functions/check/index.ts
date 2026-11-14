@@ -26,7 +26,7 @@ async function sha(t: string): Promise<string> {
 }
 const clean = (t: unknown, n: number) => String(t ?? "").replace(/[<>]/g, "").trim().slice(0, n);
 
-const GEMINI_MODELS = (Deno.env.get("GEMINI_MODELS") ?? "gemini-flash-latest,gemini-2.5-flash").split(",");
+const GEMINI_MODELS = (Deno.env.get("GEMINI_MODELS") ?? "gemini-flash-lite-latest,gemini-flash-latest").split(",");
 async function askGemini(prompt: string): Promise<string> {
   const key = Deno.env.get("GEMINI_API_KEY");
   if (!key) throw new Error("no gemini key");
@@ -49,6 +49,7 @@ async function askGemini(prompt: string): Promise<string> {
   throw new Error("gemini failed");
 }
 
+let fallbackCount = 0;
 let siteCache: { at: number; items: { kind: string; text: string; source: string; link: string; date: string }[] } | null = null;
 async function siteItems() {
   if (siteCache && Date.now() - siteCache.at < 600e3) return siteCache.items;
@@ -78,8 +79,9 @@ Deno.serve(async (req) => {
     await sb.from("claim_checks").update({ asked: (old.asked ?? 1) + 1 }).eq("key", key);
     return reply({ status: "ok", verdict: old.verdict, explanation: old.explanation, sources: old.sources, cached: true });
   }
-  const { data: ok } = await sb.rpc("ai_take_for", { kind: "check", cap: DAILY_CAP });
-  if (!ok) return reply({ status: "busy" });
+  const { data: ok, error } = await sb.rpc("ai_take_for", { kind: "check", cap: DAILY_CAP });
+  if (!ok && !error) return reply({ status: "busy" });          // today's allowance really is used up
+  if (error && ++fallbackCount > 30) return reply({ status: "busy" });   // counter not ready yet: a small safe limit
 
   // evidence: our Fact Base (word search) + fact-checkers + today's news
   const words = claim.replace(/[^\p{L}\p{N}\s]/gu, " ").split(/\s+/).filter((w) => w.length > 2).slice(0, 12).join(" or ");

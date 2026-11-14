@@ -53,7 +53,7 @@ async function loadSite(country: string): Promise<string> {
 const onSite = (t: string, site: string) => site.includes(t) || site.includes(JSON.stringify(t).slice(1, -1));
 
 // newest Google model first ("-latest"; new keys can't use some older ones), the older name as backup
-const GEMINI_MODELS = (Deno.env.get("GEMINI_MODELS") ?? "gemini-flash-latest,gemini-2.5-flash").split(",");
+const GEMINI_MODELS = (Deno.env.get("GEMINI_MODELS") ?? "gemini-flash-lite-latest,gemini-flash-latest").split(",");
 async function askGemini(prompt: string): Promise<string> {
   const key = Deno.env.get("GEMINI_API_KEY");
   if (!key) throw new Error("no gemini key");

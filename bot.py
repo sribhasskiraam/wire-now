@@ -935,7 +935,7 @@ def read_article(url):
     return text, og
 
 
-GOOGLE_READS = {"left": 6}                        # per run: each one uses one Gemini request
+GOOGLE_READS = {"left": 3}                        # per run: each one uses one Gemini request
 
 
 def read_with_google(url):

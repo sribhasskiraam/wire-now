@@ -71,7 +71,7 @@ Deno.serve(async (req) => {
   catch (_) { return reply({ status: "bad" }, 400); }
   if (claim.length < 8) return reply({ status: "bad" }, 400);
   const sb = createClient(Deno.env.get("SUPABASE_URL")!, serviceKey());
-  const key = await sha(claim.toLowerCase().replace(/\s+/g, " ") + "|" + lang);
+  const key = await sha(claim.toLowerCase().replace(/\s+/g, " ") + "|" + lang + "|v2");   // v2: plain-words answers with tips
 
   // asked before (last 24 hours): the saved answer, no AI used
   const { data: old } = await sb.from("claim_checks").select("*").eq("key", key).maybeSingle();

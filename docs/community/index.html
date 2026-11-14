@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Wire Now Community: a calm place to talk</title>
+<meta name="description" content="A quiet social space for introverts and ambiverts: write your thoughts, talk about the news, and chat privately. No follower counts, no pressure.">
+<link rel="icon" type="image/png" href="../favicon.png">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="theme-color" content="#FBF7F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17171D" media="(prefers-color-scheme: dark)">
+<style>
+  :root{--bg:#FBF7F2;--card:#fff;--ink:#2A2733;--muted:#7A7686;--line:#EEE6DD;--acc:#E0704F;--soft:#F7EAE2;--calm:#EEF1EC;--me:#F3E4DA;--blue:#6E7FD8}
+  @media (prefers-color-scheme: dark){
+    :root{--bg:#17171D;--card:#212129;--ink:#ECE8E3;--muted:#9D98A6;--line:#2F2F39;--acc:#F08A69;--soft:#34282A;--calm:#262C27;--me:#3A2D2A}
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;font-size:16px}
+  a{color:var(--acc);text-decoration:none}
+  button{font:inherit;cursor:pointer;color:inherit}
+  header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+  .top{display:flex;align-items:center;gap:8px;max-width:680px;margin:0 auto;padding:10px 16px}
+  .logo{display:flex;align-items:center;gap:8px;font-weight:800;font-size:17px;color:var(--ink);white-space:nowrap}
+  .logo img{width:28px;height:28px;border-radius:8px}
+  .logo small{font-weight:600;color:var(--muted);font-size:13px}
+  .grow{flex:1}
+  .btn{border:0;border-radius:999px;padding:9px 16px;background:var(--acc);color:#fff;font-weight:700;white-space:nowrap;display:inline-block;text-align:center}
+  .btn.ghost{background:var(--soft);color:var(--ink)}
+  .btn.small{padding:6px 12px;font-size:13.5px}
+  .btn:disabled{opacity:.5}
+  .nav{display:flex;gap:6px;overflow-x:auto;max-width:680px;margin:0 auto;padding:0 16px 10px;scrollbar-width:none}
+  .nav:empty{display:none}
+  .nav::-webkit-scrollbar{display:none}
+  .chip{white-space:nowrap;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 13px;font-size:14px;color:var(--ink)}
+  .chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  main{max-width:680px;margin:0 auto;padding:14px 16px calc(96px + env(safe-area-inset-bottom))}
+  .bar{display:flex;align-items:center;gap:8px;margin:2px 0 12px;flex-wrap:wrap}
+  .bar h1{font-size:20px;margin:0}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin-bottom:12px}
+  .post{display:flex;gap:10px}
+  .votes{display:flex;flex-direction:column;align-items:center;min-width:34px}
+  .votes button{border:0;background:none;font-size:17px;line-height:1;color:var(--muted);padding:3px}
+  .votes button.up.on{color:var(--acc)} .votes button.down.on{color:var(--blue)}
+  .votes b{font-size:14px}
+  .meta{font-size:13px;color:var(--muted)}
+  .meta a{color:var(--muted);font-weight:600}
+  .meta .name{color:var(--ink);font-weight:700}
+  .ptitle{font-weight:700;font-size:16.5px;color:var(--ink);display:block;margin:2px 0}
+  .link{font-size:13.5px;display:inline-block;margin:2px 0;word-break:break-all}
+  .body{white-space:pre-wrap;word-wrap:break-word;margin:6px 0}
+  .status .body{font-size:16.5px;margin:6px 0 4px}
+  .preview{color:var(--muted);font-size:14.5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-wrap}
+  .actions{display:flex;gap:16px;font-size:13.5px;color:var(--muted);margin-top:6px;flex-wrap:wrap;align-items:center}
+  .actions button,.actions a{border:0;background:none;color:var(--muted);padding:0;font-size:13.5px;font-weight:600}
+  .actions .on{color:var(--acc)}
+  .badge{background:var(--soft);color:var(--acc);border-radius:6px;padding:1px 6px;font-size:11px;font-weight:700}
+  .repostby{font-size:12.5px;color:var(--muted);margin-bottom:4px}
+  .removed{opacity:.55}
+  input,textarea,select{font:inherit;width:100%;border:1px solid var(--line);border-radius:14px;padding:11px 13px;background:var(--card);color:var(--ink)}
+  textarea{min-height:110px;resize:vertical}
+  label{display:block;font-weight:700;font-size:14px;margin:14px 0 4px}
+  .hint{font-size:13px;color:var(--muted)}
+  .row{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+  .compose textarea{min-height:70px;border:0;padding:4px 0;background:transparent;resize:none}
+  .compose textarea:focus{outline:none}
+  .compose .row{justify-content:space-between;align-items:center;margin-top:6px}
+  .seg{display:flex;background:var(--soft);border-radius:999px;padding:3px;margin-bottom:12px}
+  .seg button{flex:1;border:0;background:none;border-radius:999px;padding:7px;font-weight:700;font-size:14px;color:var(--muted)}
+  .seg button.on{background:var(--card);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+  .cm{border-left:2px solid var(--line);padding:6px 0 2px 10px;margin:8px 0 0 4px}
+  .cm .body{margin:2px 0}
+  .reply{margin-top:6px}
+  .reply textarea{min-height:70px}
+  .empty{text-align:center;color:var(--muted);padding:34px 12px}
+  .empty .big{font-size:34px;margin-bottom:6px}
+  .more{display:block;margin:10px auto}
+  .toast{position:fixed;left:50%;bottom:calc(84px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:14px;max-width:90%;z-index:20;display:none}
+  .modal{position:fixed;inset:0;background:rgba(20,18,28,.45);display:none;align-items:flex-end;justify-content:center;z-index:15;padding:12px}
+  .modal .card{max-width:460px;width:100%;margin-bottom:max(12px, env(safe-area-inset-bottom));max-height:85vh;overflow:auto}
+  @media (min-width:600px){.modal{align-items:center}}
+  .list .card{display:flex;justify-content:space-between;align-items:center;gap:10px}
+  .list b{display:block}
+  .rules{font-size:14.5px;color:var(--muted)}
+  .rules li{margin:4px 0}
+  .tabbar{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--card);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+  .tabbar div{display:flex;max-width:680px;margin:0 auto}
+  .tabbar a{flex:1;text-align:center;padding:8px 0 9px;color:var(--muted);font-size:11.5px;font-weight:700;position:relative}
+  .tabbar a span{display:block;font-size:20px;line-height:1.2}
+  .tabbar a.on{color:var(--acc)}
+  .dot{position:absolute;top:5px;left:calc(50% + 7px);min-width:17px;height:17px;border-radius:9px;background:var(--acc);color:#fff;font-size:10.5px;font-style:normal;line-height:17px;padding:0 4px}
+  .ws{text-align:center;padding:22px 16px}
+  .avatar{width:64px;height:64px;border-radius:50%;background:var(--soft);display:inline-flex;align-items:center;justify-content:center;font-size:26px;font-weight:800;color:var(--acc)}
+  .avatar.sm{width:38px;height:38px;font-size:16px;flex:none}
+  .ws h2{margin:8px 0 0;font-size:21px}
+  .ws .handle{color:var(--muted);font-size:14px}
+  .ws .bio{margin:10px auto 0;max-width:420px;white-space:pre-wrap}
+  .ws .row{justify-content:center}
+  .chatrow{display:flex;gap:12px;align-items:center;padding:12px 4px;border-bottom:1px solid var(--line);color:var(--ink)}
+  .chatrow:last-child{border-bottom:0}
+  .chatrow .t{flex:1;min-width:0}
+  .chatrow .t b{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .chatrow .t span{display:block;color:var(--muted);font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .chatrow.unread .t span{color:var(--ink);font-weight:600}
+  .chatrow .new{width:9px;height:9px;border-radius:50%;background:var(--acc);flex:none}
+  .msgs{display:flex;flex-direction:column;gap:6px;padding-bottom:10px}
+  .msg{max-width:82%;padding:8px 12px;border-radius:16px;background:var(--card);border:1px solid var(--line);white-space:pre-wrap;word-wrap:break-word;align-self:flex-start}
+  .msg.mine{align-self:flex-end;background:var(--me);border-color:transparent}
+  .msg .who{font-size:12px;font-weight:700;color:var(--acc)}
+  .msg .when{font-size:11px;color:var(--muted);margin-top:2px}
+  .msg .when button{border:0;background:none;color:var(--muted);font-size:11px;padding:0 0 0 6px}
+  .chatbox{position:fixed;left:0;right:0;bottom:calc(58px + env(safe-area-inset-bottom));background:var(--bg);border-top:1px solid var(--line);z-index:5}
+  .chatbox div{display:flex;gap:8px;max-width:680px;margin:0 auto;padding:8px 12px;align-items:flex-end}
+  .chatbox textarea{resize:none;min-height:44px;max-height:120px;height:44px;border-radius:22px;padding:10px 14px}
+  .chathead{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+  .chathead b{flex:1}
+  .alert{display:flex;gap:12px;align-items:center;padding:12px 4px;border-bottom:1px solid var(--line);color:var(--ink)}
+  .alert:last-child{border-bottom:0}
+  .alert.unread{font-weight:600}
+  .alert .ic{font-size:20px;width:30px;text-align:center}
+  .quiet{background:var(--calm);border:0}
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <a class="logo" href="#/"><img src="../logo.png" alt=""><span>Wire Now <small>Community</small></span></a>
+    <div class="grow"></div>
+    <a class="btn ghost small" href="../">📰 News</a>
+    <span id="who"></span>
+  </div>
+  <div class="nav" id="nav"></div>
+</header>
+<main id="app"><div class="empty">Loading…</div></main>
+<nav class="tabbar" id="tabbar"><div>
+  <a href="#/" data-tab="home"><span>🏠</span>Home</a>
+  <a href="#/topics" data-tab="topics"><span>🗂️</span>Topics</a>
+  <a href="#/chats" data-tab="chats"><span>✉️</span>Chats<i class="dot" id="dotchats" style="display:none"></i></a>
+  <a href="#/alerts" data-tab="alerts"><span>🔔</span>Alerts<i class="dot" id="dotalerts" style="display:none"></i></a>
+  <a href="#/me" data-tab="me"><span>🪴</span>Workshop</a>
+</div></nav>
+<div class="toast" id="toast"></div>
+<div class="modal" id="modal"><div class="card" id="modalbox"></div></div>
+
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+"use strict";
+const CFG = window.WN_SUPABASE || {};
+const READY = !!(CFG.url && CFG.anonKey && window.supabase);
+const sb = READY ? window.supabase.createClient(CFG.url, CFG.anonKey) : null;
+const PAGE = 20;
+let me = null, session = null, communities = [];
+const app = document.getElementById("app");
+const $ = id => document.getElementById(id);
+
+// ---------------------------------------------------------------- helpers
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const linkify = t => esc(t).replace(/https?:\/\/[^\s<]+/g, u => `<a href="${u}" target="_blank" rel="noopener nofollow ugc">${u}</a>`)
+                           .replace(/(^|\s)@([A-Za-z0-9_]{3,20})\b/g, (m, a, u) => `${a}<a href="#/u/${u}">@${u}</a>`);
+function ago(t){
+  const s = Math.max(1, (Date.now() - new Date(t)) / 1000), m = s/60, h = m/60, d = h/24;
+  if (s < 60) return "just now"; if (m < 60) return Math.floor(m) + "m"; if (h < 24) return Math.floor(h) + "h";
+  if (d < 7) return Math.floor(d) + "d"; return new Date(t).toLocaleDateString(undefined, {day:"numeric", month:"short"});
+}
+const clock = t => new Date(t).toLocaleTimeString(undefined, {hour:"numeric", minute:"2-digit"});
+function domain(u){ try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return ""; } }
+const initial = n => esc((n || "?").trim()[0].toUpperCase());
+const nameOf = p => p ? (p.display_name || p.username) : "?";
+function toast(msg){ const t = $("toast"); t.textContent = msg; t.style.display = "block"; clearTimeout(toast.t); toast.t = setTimeout(() => t.style.display = "none", 3500); }
+function nice(err){
+  const m = (err && (err.message || err.error_description)) || String(err);
+  if (/duplicate key.*username/i.test(m)) return "That username is taken. Try another.";
+  if (/duplicate key.*slug/i.test(m)) return "A community with that short name already exists.";
+  if (/duplicate key/i.test(m)) return "Already done.";
+  if (/check constraint.*username/i.test(m)) return "Usernames are 3–20 letters, numbers or _ only.";
+  if (/check constraint.*slug/i.test(m)) return "Short name: 3–24 small letters, numbers or _ only.";
+  if (/check constraint.*title/i.test(m)) return "The title must be 5–200 characters.";
+  if (/check constraint.*url/i.test(m)) return "The link must start with http:// or https://";
+  if (/check constraint.*bio/i.test(m)) return "Your bio can be up to 300 characters.";
+  if (/row-level security|permission denied/i.test(m)) return "You're not allowed to do that.";
+  if (/Failed to fetch|NetworkError/i.test(m)) return "No connection. Please try again.";
+  return m.replace(/^.*?ERROR:\s*/, "");
+}
+let modalLocked = false;   // the authenticator code box can't be closed by accident
+function openModal(html, locked){ modalLocked = !!locked; $("modalbox").innerHTML = html; $("modal").style.display = "flex"; }
+function closeModal(force){ if (modalLocked && !force) return; modalLocked = false; $("modal").style.display = "none"; }
+$("modal").addEventListener("click", e => { if (e.target.id === "modal") closeModal(); });
+function needLogin(why){
+  if (me) return false;
+  if (session) { askUsername(); return true; }
+  openModal(`<h3 style="margin-top:0">Come in, quietly</h3>
+    <p class="hint">${why || "Log in with Google to write, reply and chat."} Reading is open to everyone, no account needed.</p>
+    <div class="row"><button class="btn" onclick="login()">Continue with Google</button><button class="btn ghost" onclick="closeModal()">Not now</button></div>`);
+  return true;
+}
+function gate(why){
+  if (me) return false;
+  app.innerHTML = `<div class="card empty quiet"><div class="big">🌿</div>${esc(why)}<br><br><button class="btn" onclick="needLogin()">Log in</button></div>`;
+  return true;
+}
+
+// ---------------------------------------------------------------- login and profile
+async function login(){
+  const { error } = await sb.auth.signInWithOAuth({ provider: "google", options: { redirectTo: location.href.split("#")[0] } });
+  if (error) toast(nice(error));
+}
+async function logout(){ await disablePush(true); if (me) await E2E.forget(me.id); await sb.auth.signOut(); me = null; session = null; drawWho(); badges(); route(); }
+async function loadMe(){
+  const { data } = await sb.auth.getSession();
+  session = data.session; me = null;
+  if (session) {
+    const { data: p } = await sb.from("profiles").select("id,username,display_name,bio,dm_policy,is_admin,banned,created_at").eq("id", session.user.id).maybeSingle();
+    if (p) me = p; else askUsername();
+  }
+  drawWho();
+  if (session && !(await checkAuthenticator())) return;
+  badges();
+}
+function drawWho(){
+  const w = $("who");
+  if (!READY) { w.innerHTML = ""; return; }
+  w.innerHTML = me ? "" : `<button class="btn small" onclick="${session ? "askUsername()" : "login()"}">Log in</button>`;
+}
+function askUsername(){
+  openModal(`<h3 style="margin-top:0">Pick a name</h3>
+    <p class="hint">This is how people will see you. It doesn't need to be your real name. 3–20 letters, numbers or _.</p>
+    <input id="uname" maxlength="20" placeholder="e.g. quiet_reader" autocomplete="off">
+    <div class="row"><button class="btn" id="usave">Save</button><button class="btn ghost" onclick="logout();closeModal()">Log out</button></div>`);
+  $("usave").onclick = async () => {
+    const u = $("uname").value.trim();
+    if (!/^[A-Za-z0-9_]{3,20}$/.test(u)) return toast("Usernames are 3–20 letters, numbers or _ only.");
+    const { error } = await sb.from("profiles").insert({ id: session.user.id, username: u });
+    if (error) return toast(nice(error));
+    closeModal(); await loadMe(); toast("Welcome, " + u + " 🌿"); route();
+  };
+}
+
+// ---------------------------------------------------------------- red dots on the bottom bar
+async function badges(){
+  if (!READY) return;
+  if (!me) { $("dotchats").style.display = $("dotalerts").style.display = "none"; return; }
+  const [c, a] = await Promise.all([
+    sb.from("my_chats").select("id").eq("unread", true).eq("muted", false),
+    sb.from("notifications").select("id").eq("read", false).neq("kind", "message")
+  ]);
+  const nc = (c.data || []).length, na = (a.data || []).length;
+  $("dotchats").style.display = nc ? "" : "none"; $("dotchats").textContent = nc > 9 ? "9+" : nc;
+  $("dotalerts").style.display = na ? "" : "none"; $("dotalerts").textContent = na > 9 ? "9+" : na;
+}
+setInterval(() => { if (READY && document.visibilityState === "visible") badges(); }, 45000);
+
+// ---------------------------------------------------------------- navigation
+async function loadCommunities(){
+  const { data, error } = await sb.from("communities").select("id,slug,name,description,is_official,created_at").order("is_official", { ascending: false }).order("created_at");
+  if (!error) communities = data;
+}
+function drawNav(active){
+  if (active === null) { $("nav").innerHTML = ""; return; }
+  $("nav").innerHTML = `<a class="chip ${active === "" ? "on" : ""}" href="#/topics">All topics</a>` +
+    communities.filter(c => c.is_official).map(c => `<a class="chip ${active === c.slug ? "on" : ""}" href="#/c/${c.slug}">${esc(c.name)}</a>`).join("") +
+    `<a class="chip ${active === "*" ? "on" : ""}" href="#/communities">👥 More</a>`;
+}
+function setTab(t){ document.querySelectorAll(".tabbar a").forEach(a => a.classList.toggle("on", a.dataset.tab === t)); }
+window.addEventListener("hashchange", route);
+let leaveChat = null;
+
+async function route(){
+  closeModal();
+  if (leaveChat) { leaveChat(); leaveChat = null; }
+  document.title = "Wire Now Community: a calm place to talk";
+  if (!READY) return drawNotReady();
+  const [a, b] = location.hash.replace(/^#\/?/, "").split("/");
+  window.scrollTo(0, 0);
+  const tab = { "": "home", topics: "topics", c: "topics", communities: "topics", "new-community": "topics", submit: "topics",
+                chats: "chats", chat: "chats", alerts: "alerts", me: "me", edit: "me" }[a || ""] || "";
+  setTab(tab);
+  if (a !== "topics" && a !== "c" && a !== "communities") drawNav(null);
+  if (a === "topics") return showFeed("");
+  if (a === "c" && b) return showFeed(b);
+  if (a === "p" && b) return showPost(b);
+  if (a === "submit") return showSubmit(b);
+  if (a === "communities") return showCommunities();
+  if (a === "new-community") return showNewCommunity();
+  if (a === "u" && b) return showWorkshop(decodeURIComponent(b));
+  if (a === "me") return me ? showWorkshop(me.username) : gate("Your Workshop is your own quiet corner: your thoughts, your posts, your page.");
+  if (a === "edit") return showEdit();
+  if (a === "chats") return showChats();
+  if (a === "chat" && b) return showChat(b);
+  if (a === "alerts") return showAlerts();
+  if (a === "admin") return showAdmin();
+  if (a === "rules") return showRules();
+  return showHome();
+}
+function drawNotReady(){
+  drawNav(null);
+  app.innerHTML = `<div class="card empty quiet"><div class="big">🌿</div><h2 style="margin:0">The community is almost ready</h2>
+    <p>Soon there'll be a calm place here to share your thoughts, talk about the news and chat privately, without the noise.</p>
+    <p><a class="btn" href="../">Read the news meanwhile</a></p></div>`;
+}
+
+// ---------------------------------------------------------------- votes, likes and reposts
+async function myVotes(kind, ids){
+  if (!me || !ids.length) return {};
+  const table = kind === "post" ? "post_votes" : "comment_votes", col = kind === "post" ? "post_id" : "comment_id";
+  const { data } = await sb.from(table).select(`${col},value`).eq("user_id", me.id).in(col, ids);
+  const out = {}; (data || []).forEach(v => out[v[col]] = v.value); return out;
+}
+async function myReposts(ids){
+  if (!me || !ids.length) return {};
+  const { data } = await sb.from("reposts").select("post_id").eq("user_id", me.id).in("post_id", ids);
+  const out = {}; (data || []).forEach(r => out[r.post_id] = true); return out;
+}
+async function setVote(kind, id, mine, next){
+  const table = kind === "post" ? "post_votes" : "comment_votes", col = kind === "post" ? "post_id" : "comment_id";
+  if (next === 0) return sb.from(table).delete().eq("user_id", me.id).eq(col, id);
+  if (mine === 0) return sb.from(table).insert({ [col]: id, value: next });
+  return sb.from(table).update({ value: next }).eq("user_id", me.id).eq(col, id);
+}
+async function vote(btn, val){
+  if (needLogin()) return;
+  const box = btn.closest(".votes"), kind = box.dataset.kind, id = box.dataset.id, mine = +box.dataset.mine;
+  const next = mine === val ? 0 : val;
+  const paint = v => { box.dataset.mine = v; box.querySelector("b").textContent = +box.dataset.score + v;
+    box.querySelector(".up").classList.toggle("on", v === 1); box.querySelector(".down").classList.toggle("on", v === -1); };
+  paint(next);
+  const res = await setVote(kind, id, mine, next);
+  if (res.error) { paint(mine); toast(nice(res.error)); }
+}
+// a quiet like: only the writer sees how many
+async function like(btn){
+  if (needLogin()) return;
+  const id = btn.dataset.id, mine = +btn.dataset.mine, next = mine ? 0 : 1;
+  const paint = v => { btn.dataset.mine = v; btn.classList.toggle("on", !!v); btn.querySelector("span").textContent = v ? "♥" : "♡"; };
+  paint(next);
+  const res = await setVote("post", id, mine, next);
+  if (res.error) { paint(mine); toast(nice(res.error)); }
+}
+async function repost(btn){
+  if (needLogin()) return;
+  const id = btn.dataset.id, on = btn.classList.contains("on");
+  btn.classList.toggle("on", !on);
+  const res = on ? await sb.from("reposts").delete().eq("user_id", me.id).eq("post_id", id) : await sb.from("reposts").insert({ post_id: id });
+  if (res.error) { btn.classList.toggle("on", on); toast(nice(res.error)); } else toast(on ? "Removed from your Workshop" : "Shared to your Workshop");
+}
+function sharePost(id){
+  const url = location.href.split("#")[0] + "#/p/" + id;
+  if (navigator.share) navigator.share({ title: "Wire Now Community", url }).catch(() => {});
+  else navigator.clipboard.writeText(url).then(() => toast("Link copied"));
+}
+
+// ---------------------------------------------------------------- cards
+function postCard(p, ctx){ return p.community ? topicCard(p, ctx) : statusCard(p, ctx); }
+function statusCard(p, { votes = {}, reposts = {}, full = false, by = null } = {}){
+  const liked = votes[p.id] === 1, own = me && me.id === p.author_id;
+  return `<div class="card status ${p.removed ? "removed" : ""}" id="post-${p.id}">
+    ${by ? `<div class="repostby">↻ shared by <a href="#/u/${esc(by)}">${esc(by)}</a></div>` : ""}
+    <div style="display:flex;gap:10px">
+      <a href="#/u/${esc(p.author)}" class="avatar sm">${initial(p.author)}</a>
+      <div style="flex:1;min-width:0">
+        <div class="meta"><a class="name" href="#/u/${esc(p.author)}">${esc(p.author)}</a> · ${ago(p.created_at)}${p.removed ? ` · <span class="badge">removed</span>` : ""}</div>
+        <div class="body">${linkify(p.body)}</div>
+        <div class="actions">
+          <button class="${liked ? "on" : ""}" data-id="${p.id}" data-mine="${liked ? 1 : 0}" onclick="like(this)" aria-label="Like"><span>${liked ? "♥" : "♡"}</span>${own && p.score > 0 ? ` ${p.score}` : ""}</button>
+          <a href="#/p/${p.id}" aria-label="Replies">💬 ${p.comment_count || ""}</a>
+          ${own ? "" : `<button class="${reposts[p.id] ? "on" : ""}" data-id="${p.id}" onclick="repost(this)" aria-label="Share to my Workshop">↻</button>`}
+          <button onclick="sharePost('${p.id}')" aria-label="Send">↗</button>
+          ${full ? postTools(p) : ""}
+        </div>
+      </div>
+    </div></div>`;
+}
+function topicCard(p, { votes = {}, full = false, by = null } = {}){
+  const mine = votes[p.id] || 0;
+  return `<div class="card post ${p.removed ? "removed" : ""}" id="post-${p.id}">
+    ${voteBox("post", p.id, p.score, mine)}
+    <div style="flex:1;min-width:0">
+      ${by ? `<div class="repostby">↻ shared by <a href="#/u/${esc(by)}">${esc(by)}</a></div>` : ""}
+      <div class="meta"><a href="#/c/${esc(p.community)}">${esc(p.community_name || p.community)}</a> · <a href="#/u/${esc(p.author)}">${esc(p.author)}</a> · ${ago(p.created_at)}${p.removed ? ` · <span class="badge">removed</span>` : ""}</div>
+      ${full ? `<div class="ptitle">${esc(p.title)}</div>` : `<a class="ptitle" href="#/p/${p.id}">${esc(p.title)}</a>`}
+      ${p.url && /^https?:\/\//i.test(p.url) ? `<a class="link" href="${esc(p.url)}" target="_blank" rel="noopener nofollow ugc">🔗 ${esc(domain(p.url))} ↗</a>` : ""}
+      ${p.body ? (full ? `<div class="body">${linkify(p.body)}</div>` : `<div class="preview">${esc(p.body)}</div>`) : ""}
+      <div class="actions">
+        <a href="#/p/${p.id}">💬 ${p.comment_count} comment${p.comment_count === 1 ? "" : "s"}</a>
+        <button onclick="sharePost('${p.id}')">↗ Share</button>
+        ${full ? postTools(p) : ""}
+      </div>
+    </div></div>`;
+}
+function postTools(p){
+  let t = "";
+  if (me && me.id === p.author_id) t += `<button onclick="deleteItem('post','${p.id}')">🗑 Delete</button>`;
+  else t += `<button onclick="report('post','${p.id}')">⚑ Report</button>`;
+  if (me && me.is_admin) t += p.removed ? `<button onclick="mod('post','${p.id}',false)">♻ Restore</button>` : `<button onclick="mod('post','${p.id}',true)">🛡 Remove</button>`;
+  if (me && me.is_admin && me.id !== p.author_id) t += `<button onclick="ban('${p.author_id}','${esc(p.author)}')">🚫 Ban</button>`;
+  return t;
+}
+function voteBox(kind, id, score, mine){
+  return `<div class="votes" data-kind="${kind}" data-id="${id}" data-score="${score - mine}" data-mine="${mine}">
+    <button class="up ${mine === 1 ? "on" : ""}" onclick="vote(this,1)" aria-label="Upvote">▲</button><b>${score}</b>
+    <button class="down ${mine === -1 ? "on" : ""}" onclick="vote(this,-1)" aria-label="Downvote">▼</button></div>`;
+}
+async function renderPosts(box, posts, byMap){
+  const ids = [...new Set(posts.map(p => p.id))];
+  const [votes, reposts] = await Promise.all([myVotes("post", ids), myReposts(ids)]);
+  box.insertAdjacentHTML("beforeend", posts.map(p => postCard(p, { votes, reposts, by: byMap && byMap[p._key || p.id] })).join(""));
+}
+
+// ---------------------------------------------------------------- home: thoughts from people you follow
+let homeMode = sessionStorage.getItem("wn_home") || "following";
+async function showHome(){
+  const mode = me ? homeMode : "everyone";
+  app.innerHTML = `
+    ${me ? `<div class="card compose">
+      <textarea id="say" maxlength="1000" placeholder="What's on your mind, ${esc(nameOf(me))}?"></textarea>
+      <div class="row"><span class="hint" id="saycount">No public like counts here. Just say it.</span><button class="btn small" id="saybtn">Share</button></div>
+    </div>` : `<div class="card quiet"><b>A calm place to talk 🌿</b><div class="hint" style="margin-top:4px">No follower counts, no "seen", no pressure. Read freely, write when you feel like it.</div>
+      <div class="row"><button class="btn small" onclick="needLogin()">Join quietly</button><a class="btn ghost small" href="#/rules">How it works</a></div></div>`}
+    ${me ? `<div class="seg"><button data-m="following" class="${mode === "following" ? "on" : ""}">People I follow</button><button data-m="everyone" class="${mode === "everyone" ? "on" : ""}">Everyone</button></div>` : ""}
+    <div id="posts"></div><button class="btn ghost more" id="more" style="display:none">Show more</button>`;
+  app.querySelectorAll("[data-m]").forEach(b => b.onclick = () => { homeMode = b.dataset.m; sessionStorage.setItem("wn_home", homeMode); showHome(); });
+  if (me) {
+    const ta = $("say");
+    ta.oninput = () => { $("saycount").textContent = ta.value.length > 800 ? (1000 - ta.value.length) + " characters left" : "No public like counts here. Just say it."; };
+    $("saybtn").onclick = async () => {
+      const body = ta.value.trim(); if (!body) return toast("Write something first.");
+      $("saybtn").disabled = true;
+      const { error } = await sb.from("posts").insert({ body });
+      $("saybtn").disabled = false;
+      if (error) return toast(nice(error));
+      ta.value = ""; toast("Shared 🌿"); showHome();
+    };
+  }
+  const box = $("posts");
+  let offset = 0;
+  const load = async () => {
+    let q = sb.from("feed").select("*").order("created_at", { ascending: false });
+    let byMap = {}, extra = [];
+    if (mode === "following") {
+      const { data: f } = await sb.from("follows").select("followee").eq("follower", me.id);
+      const ids = [me.id, ...(f || []).map(x => x.followee)];
+      q = q.in("author_id", ids);
+      if (offset === 0 && ids.length > 1) {   // things the people you follow shared
+        const { data: rp } = await sb.from("reposts").select("post_id,user_id,created_at").in("user_id", ids.slice(1)).order("created_at", { ascending: false }).limit(20);
+        if (rp && rp.length) {
+          const { data: rposts } = await sb.from("feed").select("*").in("id", [...new Set(rp.map(r => r.post_id))]);
+          const { data: people } = await sb.from("profiles").select("id,username").in("id", [...new Set(rp.map(r => r.user_id))]);
+          const uname = Object.fromEntries((people || []).map(p => [p.id, p.username]));
+          rp.forEach(r => { const p = (rposts || []).find(x => x.id === r.post_id);
+            if (p && !ids.includes(p.author_id)) { const k = r.post_id + ":" + r.user_id; extra.push({ ...p, _key: k, _at: r.created_at }); byMap[k] = uname[r.user_id]; } });
+        }
+      }
+    }
+    const { data, error } = await q.range(offset, offset + PAGE - 1);
+    if (error) { box.innerHTML = `<div class="card empty">${esc(nice(error))}</div>`; return; }
+    const first = offset === 0;
+    offset += data.length;
+    const seen = new Set(data.map(p => p.id)), once = new Set();
+    const items = [...data, ...extra.filter(p => !seen.has(p.id) && !once.has(p.id) && once.add(p.id))]
+      .sort((a, b) => new Date(b._at || b.created_at) - new Date(a._at || a.created_at));
+    if (!items.length && first) {
+      box.innerHTML = mode === "following"
+        ? `<div class="card empty quiet"><div class="big">🌱</div>It's quiet here. Follow a few people whose words you like. Their thoughts will appear here.<br><br><button class="btn ghost small" id="toeveryone">See everyone</button></div>`
+        : `<div class="card empty quiet"><div class="big">🌱</div>Nothing here yet. Be the first to share a thought.</div>`;
+      const te = $("toeveryone"); if (te) te.onclick = () => { homeMode = "everyone"; sessionStorage.setItem("wn_home", homeMode); showHome(); };
+    }
+    await renderPosts(box, items, byMap);
+    $("more").style.display = data.length < PAGE ? "none" : "block";
+  };
+  $("more").onclick = load;
+  await load();
+}
+
+// ---------------------------------------------------------------- topics (Reddit-style)
+let feedState = null;
+async function showFeed(slug){
+  const comm = slug ? communities.find(c => c.slug === slug) : null;
+  if (slug && !comm) { drawNav("*"); app.innerHTML = `<div class="card empty">That community doesn't exist. <a href="#/communities">See all communities</a></div>`; return; }
+  drawNav(comm && comm.is_official ? slug : comm ? "*" : "");
+  const sort = sessionStorage.getItem("wn_sort") || "hot";
+  feedState = { slug, sort, offset: 0, done: false };
+  app.innerHTML = `<div class="bar"><h1 class="grow">${comm ? esc(comm.name) : "Topics"}</h1>
+      <button class="btn small" onclick="location.hash='#/submit/${slug}'">✏️ Post</button></div>
+    ${comm && comm.description ? `<p class="hint" style="margin-top:-6px">${esc(comm.description)}${comm.is_official ? "" : ` · <span class="badge">community</span>`}</p>` : `<p class="hint" style="margin-top:-6px">Talk about the news and shared interests.</p>`}
+    <div class="seg">${["hot","new","top"].map(s => `<button class="${s === sort ? "on" : ""}" data-sort="${s}">${{hot:"Popular",new:"Newest",top:"Top this week"}[s]}</button>`).join("")}</div>
+    <div id="posts"></div><button class="btn ghost more" id="more" style="display:none">Show more</button>`;
+  app.querySelectorAll("[data-sort]").forEach(b => b.onclick = () => { sessionStorage.setItem("wn_sort", b.dataset.sort); showFeed(slug); });
+  $("more").onclick = loadMore;
+  await loadMore();
+}
+async function loadMore(){
+  const st = feedState; if (!st || st.done) return;
+  let q = sb.from("feed").select("*").not("community", "is", null);
+  if (st.slug) q = q.eq("community", st.slug);
+  if (st.sort === "hot") q = q.order("hot", { ascending: false });
+  else if (st.sort === "new") q = q.order("created_at", { ascending: false });
+  else q = q.gte("created_at", new Date(Date.now() - 7*864e5).toISOString()).order("score", { ascending: false }).order("created_at", { ascending: false });
+  const { data, error } = await q.range(st.offset, st.offset + PAGE - 1);
+  const box = $("posts");
+  if (!box || st !== feedState) return;
+  if (error) { box.innerHTML = `<div class="card empty">${esc(nice(error))}</div>`; return; }
+  const first = st.offset === 0;
+  st.offset += data.length; st.done = data.length < PAGE;
+  if (!data.length && first) box.innerHTML = `<div class="card empty quiet"><div class="big">🗂️</div>No posts here yet.<br><br><button class="btn small" onclick="location.hash='#/submit/${st.slug}'">✏️ Start a conversation</button></div>`;
+  await renderPosts(box, data);
+  $("more").style.display = st.done ? "none" : "block";
+}
+
+// ---------------------------------------------------------------- one post with its replies
+async function showPost(id){
+  app.innerHTML = `<div class="empty">Loading…</div>`;
+  let { data: p } = await sb.from("feed").select("*").eq("id", id).maybeSingle();
+  if (!p && me) {
+    const { data: raw } = await sb.from("posts").select("id,title,body,url,created_at,score,comment_count,removed,author_id,community_id").eq("id", id).maybeSingle();
+    if (raw) {
+      const c = communities.find(x => x.id === raw.community_id) || {};
+      const { data: au } = await sb.from("profiles").select("username").eq("id", raw.author_id).maybeSingle();
+      p = { ...raw, community: c.slug || null, community_name: c.name, author: au ? au.username : "?" };
+    }
+  }
+  if (!p) { app.innerHTML = `<div class="card empty">This post was removed or doesn't exist. <a href="#/">Back home</a></div>`; return; }
+  setTab(p.community ? "topics" : "home");
+  if (p.title) document.title = p.title + " · Wire Now Community";
+  const [votes, reposts] = await Promise.all([myVotes("post", [p.id]), myReposts([p.id])]);
+  app.innerHTML = `<a href="${p.community ? "#/c/" + esc(p.community) : "#/"}" class="hint">← ${p.community ? esc(p.community_name) : "Home"}</a>
+    <div style="margin-top:8px">${postCard(p, { votes, reposts, full: true })}</div>
+    <div class="card"><textarea id="newc" placeholder="${me ? "Write a reply…" : "Log in to reply"}" maxlength="5000" style="min-height:80px"></textarea>
+      <div class="row" style="margin-top:8px"><button class="btn small" id="sendc">Reply</button></div></div>
+    <div id="comments"><div class="empty">Loading replies…</div></div>`;
+  $("newc").onfocus = () => { needLogin(); };
+  $("sendc").onclick = () => sendComment(p.id, null, $("newc"));
+  loadComments(p.id);
+}
+async function loadComments(postId){
+  const { data, error } = await sb.from("thread").select("*").eq("post_id", postId).order("created_at");
+  const box = $("comments"); if (!box) return;
+  if (error) { box.innerHTML = `<div class="card empty">${esc(nice(error))}</div>`; return; }
+  if (!data.length) { box.innerHTML = `<div class="empty">No replies yet.</div>`; return; }
+  const votes = await myVotes("comment", data.map(c => c.id));
+  const ids = new Set(data.map(c => c.id)), kids = {};
+  data.forEach(c => { const k = c.parent_id && ids.has(c.parent_id) ? c.parent_id : "root"; (kids[k] = kids[k] || []).push(c); });
+  (kids.root || []).sort((a, b) => b.score - a.score || new Date(a.created_at) - new Date(b.created_at));
+  const draw = (k, depth) => (kids[k] || []).map(c => commentHtml(c, votes[c.id] || 0, depth) + `<div style="margin-left:${depth < 5 ? 12 : 0}px">${draw(c.id, depth + 1)}</div>`).join("");
+  box.innerHTML = `<div class="card">${draw("root", 0)}</div>`;
+}
+function commentHtml(c, mine, depth){
+  let tools = `<button onclick="replyBox('${c.id}','${c.post_id}')">↩ Reply</button>`;
+  tools += me && me.id === c.author_id ? `<button onclick="deleteItem('comment','${c.id}')" aria-label="Delete">🗑</button>` : `<button onclick="report('comment','${c.id}')" aria-label="Report">⚑</button>`;
+  if (me && me.is_admin) tools += c.removed ? `<button onclick="mod('comment','${c.id}',false)">♻ Restore</button>` : `<button onclick="mod('comment','${c.id}',true)">🛡 Remove</button>`;
+  if (me && me.is_admin && me.id !== c.author_id) tools += `<button onclick="ban('${c.author_id}','${esc(c.author)}')">🚫 Ban</button>`;
+  return `<div class="cm ${c.removed ? "removed" : ""}" id="c-${c.id}" style="${depth === 0 ? "border-left:0;padding-left:0;margin-left:0" : ""}">
+    <div class="meta"><a class="name" href="#/u/${esc(c.author)}">${esc(c.author)}</a> · ${ago(c.created_at)}${c.removed ? ` · <span class="badge">removed</span>` : ""}</div>
+    <div class="body">${linkify(c.body)}</div>
+    <div class="actions"><span class="votes" data-kind="comment" data-id="${c.id}" data-score="${c.score - mine}" data-mine="${mine}" style="flex-direction:row;gap:2px;min-width:0">
+      <button class="up ${mine === 1 ? "on" : ""}" onclick="vote(this,1)" aria-label="Upvote">▲</button><b>${c.score}</b><button class="down ${mine === -1 ? "on" : ""}" onclick="vote(this,-1)" aria-label="Downvote">▼</button></span>${tools}</div>
+    <div class="reply" id="r-${c.id}"></div></div>`;
+}
+function replyBox(cid, postId){
+  if (needLogin()) return;
+  const r = $("r-" + cid);
+  if (r.innerHTML) { r.innerHTML = ""; return; }
+  r.innerHTML = `<textarea maxlength="5000" placeholder="Write a reply…"></textarea>
+    <div class="row" style="margin-top:6px"><button class="btn small">Reply</button><button class="btn ghost small">Cancel</button></div>`;
+  const [send, cancel] = r.querySelectorAll("button");
+  send.onclick = () => sendComment(postId, cid, r.querySelector("textarea"));
+  cancel.onclick = () => r.innerHTML = "";
+  r.querySelector("textarea").focus();
+}
+async function sendComment(postId, parentId, ta){
+  if (needLogin()) return;
+  const body = ta.value.trim(); if (!body) return toast("Write something first.");
+  const btns = ta.parentElement.querySelectorAll("button"); btns.forEach(b => b.disabled = true);
+  const { error } = await sb.from("comments").insert({ post_id: postId, parent_id: parentId, body });
+  btns.forEach(b => b.disabled = false);
+  if (error) return toast(nice(error));
+  ta.value = ""; loadComments(postId);
+}
+
+// ---------------------------------------------------------------- write a topic post, communities
+async function showSubmit(slug){
+  drawNav(null);
+  if (gate("Log in to start a conversation.")) return;
+  const opts = communities.map(c => `<option value="${c.id}" ${c.slug === slug ? "selected" : ""}>${esc(c.name)}${c.is_official ? "" : " (community)"}</option>`).join("");
+  app.innerHTML = `<div class="card"><h2 style="margin-top:0">✏️ New topic post</h2>
+    <p class="hint" style="margin-top:-6px">Just want to share a thought? Use the box on <a href="#/">Home</a> instead.</p>
+    <label for="pc">Where</label><select id="pc">${slug ? "" : `<option value="">Choose a topic…</option>`}${opts}</select>
+    <label for="pt">Title</label><input id="pt" maxlength="200" placeholder="What do you want to talk about?">
+    <label for="pu">Link <span class="hint">(optional)</span></label><input id="pu" type="url" placeholder="https://…">
+    <label for="pb">Text <span class="hint">(optional)</span></label><textarea id="pb" maxlength="10000" placeholder="Add details, your view, or a question…"></textarea>
+    <p class="hint">Keep it kind and true. <a href="#/rules">Rules</a></p>
+    <div class="row"><button class="btn" id="ps">Post</button><button class="btn ghost" onclick="history.back()">Cancel</button></div></div>`;
+  $("ps").onclick = async () => {
+    const community_id = $("pc").value, title = $("pt").value.trim(), url = $("pu").value.trim() || null, body = $("pb").value.trim();
+    if (!community_id) return toast("Choose where to post.");
+    if (title.length < 5) return toast("The title must be at least 5 characters.");
+    if (url && !/^https?:\/\/\S+$/.test(url)) return toast("The link must start with http:// or https://");
+    $("ps").disabled = true;
+    const { data, error } = await sb.from("posts").insert({ community_id, title, url, body }).select("id").single();
+    $("ps").disabled = false;
+    if (error) return toast(nice(error));
+    location.hash = "#/p/" + data.id;
+  };
+}
+async function showCommunities(){
+  drawNav("*"); await loadCommunities();
+  const card = c => `<div class="card"><div><b><a href="#/c/${c.slug}">${esc(c.name)}</a></b><span class="hint">${esc(c.description)}</span></div><a class="btn ghost small" href="#/c/${c.slug}">Open</a></div>`;
+  const off = communities.filter(c => c.is_official), mine = communities.filter(c => !c.is_official);
+  app.innerHTML = `<div class="bar"><h1 class="grow">Communities</h1><a class="btn small" href="#/new-community">➕ Create</a></div>
+    <h3>Wire Now topics</h3><div class="list">${off.map(card).join("")}</div>
+    <h3>Made by readers</h3><div class="list">${mine.length ? mine.map(card).join("") : `<div class="card empty quiet">No reader communities yet. Start one about something you care about.</div>`}</div>`;
+}
+function showNewCommunity(){
+  drawNav("*");
+  if (gate("Log in to create a community.")) return;
+  app.innerHTML = `<div class="card"><h2 style="margin-top:0">➕ Create a community</h2>
+    <label for="cn">Name</label><input id="cn" maxlength="40" placeholder="e.g. Quiet Readers Club">
+    <label for="cs">Short name for the link</label><input id="cs" maxlength="24" placeholder="e.g. quiet_readers"><p class="hint" id="cslink"></p>
+    <label for="cd">What is it about?</label><textarea id="cd" maxlength="300" style="min-height:70px"></textarea>
+    <p class="hint">Your account must be at least 1 day old. Up to 3 communities each.</p>
+    <div class="row"><button class="btn" id="cgo">Create</button><button class="btn ghost" onclick="history.back()">Cancel</button></div></div>`;
+  const cn = $("cn"), cs = $("cs"), show = () => $("cslink").textContent = cs.value ? "Link: …/community/#/c/" + cs.value : "";
+  cn.oninput = () => { if (!cs.dataset.touched) { cs.value = cn.value.toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "").slice(0, 24); show(); } };
+  cs.oninput = () => { cs.dataset.touched = 1; show(); };
+  $("cgo").onclick = async () => {
+    const name = cn.value.trim(), slug = cs.value.trim().toLowerCase(), description = $("cd").value.trim();
+    if (name.length < 3) return toast("The name must be at least 3 characters.");
+    if (!/^[a-z0-9_]{3,24}$/.test(slug)) return toast("Short name: 3–24 small letters, numbers or _ only.");
+    const { error } = await sb.from("communities").insert({ name, slug, description });
+    if (error) return toast(nice(error));
+    await loadCommunities(); location.hash = "#/c/" + slug;
+  };
+}
+
+// ---------------------------------------------------------------- workshop: each person's own page
+async function showWorkshop(username){
+  app.innerHTML = `<div class="empty">Loading…</div>`;
+  const { data: p } = await sb.from("profiles").select("id,username,display_name,bio,created_at").eq("username", username).maybeSingle();
+  if (!p) { app.innerHTML = `<div class="card empty">No one here by that name.</div>`; return; }
+  const own = me && me.id === p.id;
+  setTab(own ? "me" : "");
+  document.title = nameOf(p) + "'s Workshop · Wire Now Community";
+  let following = false, followsMe = false, blocked = false;
+  if (me && !own) {
+    const [a, b, c] = await Promise.all([
+      sb.from("follows").select("followee").eq("follower", me.id).eq("followee", p.id),
+      sb.from("follows").select("follower").eq("follower", p.id).eq("followee", me.id),
+      sb.from("blocks").select("blocked").eq("blocker", me.id).eq("blocked", p.id)]);
+    following = !!(a.data && a.data.length); followsMe = !!(b.data && b.data.length); blocked = !!(c.data && c.data.length);
+  }
+  let counts = "";
+  if (own) {   // only you see your own numbers
+    const [fs, fg] = await Promise.all([sb.from("follows").select("follower").eq("followee", me.id), sb.from("follows").select("followee").eq("follower", me.id)]);
+    counts = `<div class="hint" style="margin-top:8px">Only you can see this: ${(fs.data || []).length} following you · you follow ${(fg.data || []).length}</div>`;
+  }
+  app.innerHTML = `<div class="card ws">
+      <div class="avatar">${initial(nameOf(p))}</div>
+      <h2>${esc(nameOf(p))}</h2><div class="handle">@${esc(p.username)}${followsMe ? " · follows you" : ""}</div>
+      ${p.bio ? `<div class="bio">${linkify(p.bio)}</div>` : own ? `<div class="hint" style="margin-top:8px">Add a few words about yourself, if you like.</div>` : ""}
+      <div class="hint" style="margin-top:6px">🪴 Workshop since ${new Date(p.created_at).toLocaleDateString(undefined, {month:"long", year:"numeric"})}</div>
+      ${counts}
+      <div class="row">${own
+        ? `<a class="btn ghost small" href="#/edit">✏️ Edit</a><button class="btn ghost small" onclick="settingsMenu()">⚙️ Settings</button>`
+        : blocked ? `<button class="btn ghost small" id="unblock">Unblock</button>`
+        : `<button class="btn small ${following ? "ghost" : ""}" id="follow">${following ? "Following" : "Follow"}</button>
+           <button class="btn ghost small" id="dm">✉️ Message</button><button class="btn ghost small" id="pmore" aria-label="More">⋯</button>`}</div>
+    </div>
+    <h3 style="margin:18px 4px 8px">${own ? "Your" : esc(nameOf(p)) + "'s"} words</h3>
+    <div id="posts"></div>`;
+  if (!own && !blocked) {
+    $("follow").onclick = async () => {
+      if (needLogin("Log in to follow people.")) return;
+      const res = following ? await sb.from("follows").delete().eq("follower", me.id).eq("followee", p.id) : await sb.from("follows").insert({ followee: p.id });
+      if (res.error) return toast(nice(res.error));
+      toast(following ? "Unfollowed" : "Following " + nameOf(p) + ". Only they will know."); showWorkshop(username);
+    };
+    $("dm").onclick = () => startChat(p.id);
+    $("pmore").onclick = () => { if (needLogin()) return; openModal(`<h3 style="margin-top:0">${esc(nameOf(p))}</h3><div class="row" style="flex-direction:column">
+      <button class="btn ghost" onclick="blockUser('${p.id}','${esc(p.username)}')">🚫 Block</button>
+      <button class="btn ghost" onclick="report('user','${p.id}')">⚑ Report</button>
+      ${me && me.is_admin ? `<button class="btn ghost" onclick="ban('${p.id}','${esc(p.username)}')">🛡 Ban (admin)</button>` : ""}
+      <button class="btn ghost" onclick="closeModal()">Cancel</button></div>`); };
+  }
+  if (blocked) $("unblock").onclick = async () => { await sb.from("blocks").delete().eq("blocker", me.id).eq("blocked", p.id); toast("Unblocked"); showWorkshop(username); };
+  const [{ data: posts }, { data: rp }] = await Promise.all([
+    sb.from("feed").select("*").eq("author_id", p.id).order("created_at", { ascending: false }).limit(40),
+    sb.from("reposts").select("post_id,created_at").eq("user_id", p.id).order("created_at", { ascending: false }).limit(20)]);
+  let shared = [];
+  if (rp && rp.length) {
+    const { data } = await sb.from("feed").select("*").in("id", rp.map(r => r.post_id));
+    shared = (data || []).map(x => ({ ...x, _key: x.id + ":r", _at: rp.find(r => r.post_id === x.id).created_at }));
+  }
+  const by = Object.fromEntries(shared.map(x => [x._key, p.username]));
+  const items = [...(posts || []), ...shared].sort((a, b) => new Date(b._at || b.created_at) - new Date(a._at || a.created_at));
+  const box = $("posts");
+  if (!items.length) box.innerHTML = `<div class="card empty quiet">${own ? "Nothing here yet. Your first thought can be small." : "Nothing shared yet."}</div>`;
+  else await renderPosts(box, items, by);
+}
+function showEdit(){
+  if (gate("Log in to edit your Workshop.")) return;
+  app.innerHTML = `<div class="card"><h2 style="margin-top:0">✏️ Your Workshop</h2>
+    <label for="dn">Name people see</label><input id="dn" maxlength="40" value="${esc(me.display_name || "")}" placeholder="${esc(me.username)}">
+    <label for="un">Username</label><input id="un" maxlength="20" value="${esc(me.username)}">
+    <label for="bio">About you</label><textarea id="bio" maxlength="300" placeholder="A few words, if you like. Hobbies, what you're reading, anything.">${esc(me.bio || "")}</textarea>
+    <label for="dmp">Who can message you</label>
+    <select id="dmp"><option value="following">Only people I follow (recommended)</option><option value="everyone">Everyone</option><option value="nobody">Nobody</option></select>
+    <div class="row"><button class="btn" id="esave">Save</button><button class="btn ghost" onclick="history.back()">Cancel</button></div></div>`;
+  $("dmp").value = me.dm_policy || "following";
+  $("esave").onclick = async () => {
+    const username = $("un").value.trim();
+    if (!/^[A-Za-z0-9_]{3,20}$/.test(username)) return toast("Usernames are 3–20 letters, numbers or _ only.");
+    const { error } = await sb.from("profiles").update({ display_name: $("dn").value.trim() || null, username, bio: $("bio").value.trim(), dm_policy: $("dmp").value }).eq("id", me.id);
+    if (error) return toast(nice(error));
+    await loadMe(); toast("Saved"); location.hash = "#/me";
+  };
+}
+async function settingsMenu(){
+  const pushOn = await pushEnabled();
+  openModal(`<h3 style="margin-top:0">⚙️ Settings</h3><div class="row" style="flex-direction:column">
+    <button class="btn ghost" id="pushbtn">${pushOn ? "🔕 Turn off phone pop-ups" : "🔔 Silent phone pop-ups"}</button>
+    <a class="btn ghost" href="#/edit">✉️ Who can message me</a>
+    <button class="btn ghost" onclick="closeModal();changeChatPassword()">🔑 Change chat password</button>
+    <button class="btn ghost" onclick="closeModal();authenticatorMenu()">🛡️ Authenticator app</button>
+    <button class="btn ghost" onclick="showBlocked()">🚫 Blocked people</button>
+    <a class="btn ghost" href="#/rules">📜 Rules & privacy</a>
+    ${me.is_admin ? `<a class="btn ghost" href="#/admin">🛡️ Admin: reports</a>` : ""}
+    <button class="btn ghost" onclick="closeModal();logout()">Log out</button></div>`);
+  $("pushbtn").onclick = async () => { closeModal(); pushOn ? await disablePush() : await enablePush(); };
+}
+async function showBlocked(){
+  const { data } = await sb.from("blocks").select("blocked").eq("blocker", me.id);
+  const ids = (data || []).map(b => b.blocked);
+  const { data: ppl } = ids.length ? await sb.from("profiles").select("id,username").in("id", ids) : { data: [] };
+  openModal(`<h3 style="margin-top:0">🚫 Blocked</h3>${(ppl || []).length ? ppl.map(p => `<div class="chatrow"><div class="t"><b>${esc(p.username)}</b></div><button class="btn ghost small" onclick="unblock('${p.id}')">Unblock</button></div>`).join("") : `<p class="hint">You haven't blocked anyone.</p>`}
+    <div class="row"><button class="btn ghost" onclick="closeModal()">Close</button></div>`);
+}
+async function unblock(id){ await sb.from("blocks").delete().eq("blocker", me.id).eq("blocked", id); toast("Unblocked"); showBlocked(); }
+async function blockUser(id, name){
+  if (!confirm(`Block ${name}? They won't be able to message you or follow you, and you won't follow each other any more.`)) return;
+  const { error } = await sb.from("blocks").insert({ blocked: id });
+  if (error) return toast(nice(error));
+  await sb.from("follows").delete().eq("follower", me.id).eq("followee", id);
+  await sb.from("follows").delete().eq("follower", id).eq("followee", me.id);
+  closeModal(); toast(name + " is blocked."); route();
+}
+
+
+// ---------------------------------------------------------------- end-to-end encryption for private chats
+// Each person has a key pair made on their own phone. The private half is locked with their chat password
+// (and a second copy with their recovery code) before it is stored, so the server can never open it.
+// Each chat has its own key, shared with every member locked to that member. Messages are locked with it.
+const E2E = (() => {
+  const enc = new TextEncoder(), dec = new TextDecoder(), C = crypto.subtle;
+  const b64 = buf => btoa(String.fromCharCode(...new Uint8Array(buf))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+  const unb64 = str => { const s = str.replace(/-/g, "+").replace(/_/g, "/"); return Uint8Array.from(atob(s + "===".slice((s.length + 3) % 4)), c => c.charCodeAt(0)); };
+  const rnd = n => crypto.getRandomValues(new Uint8Array(n));
+  const WORDS = "able acid aged also area army away baby back ball band bank base bath bear beat bell belt best bird blue boat body bone book born both bowl bulk burn bush busy cake calm came camp card care cart case cash cast cell chat chef city clay club coal coat code coin cold come cook cool copy corn cost crew crop cube cure dark data date dawn deal dear deep deer desk dial dish dock door dose down draw drop drum duck dust duty each east easy edge exit face fact fair farm fast fern file film fine fire fish flag flat flow foam fold food foot fork form free frog fuel full fund gain game gate gear gift girl glad goal gold golf good gown grid grow gulf hair half hall hand hard harm hawk head heat herb hero hill hint hole home hook hope horn host hour huge idea inch iron item jade jazz join joke jump just keen keep kind king kite knee knot lake lamp land lane last lawn leaf lean left lens life lift lime line link lion list loan lock long loop luck lung made mail main mango map mark mask meal meat melt menu mild milk mind mint mode moon more moss most move much mule name navy near neat neck nest news next nice nine node noon nose note oven pack page pair palm park part pass path peak pear pine pink plan plot plum poem pole pond pool port post pure quiz race rain rank rare reef".split(" ");
+  const ITER = 310000;
+  async function passKey(secret, salt){
+    const base = await C.importKey("raw", enc.encode(secret.normalize("NFKC")), "PBKDF2", false, ["deriveKey"]);
+    return C.deriveKey({ name: "PBKDF2", salt, iterations: ITER, hash: "SHA-256" }, base, { name: "AES-GCM", length: 256 }, false, ["encrypt", "decrypt"]);
+  }
+  async function lock(secret, bytes){
+    const salt = rnd(16), iv = rnd(12);
+    const ct = await C.encrypt({ name: "AES-GCM", iv }, await passKey(secret, salt), bytes);
+    return { ct: b64(ct), salt: b64(salt), iv: b64(iv) };
+  }
+  async function unlock(secret, ct, salt, iv){
+    return C.decrypt({ name: "AES-GCM", iv: unb64(iv) }, await passKey(secret, unb64(salt)), unb64(ct));
+  }
+  const importPriv = (pkcs8, extractable = false) => C.importKey("pkcs8", pkcs8, { name: "ECDH", namedCurve: "P-256" }, extractable, ["deriveKey"]);
+  const importPub = jwk => C.importKey("jwk", jwk, { name: "ECDH", namedCurve: "P-256" }, false, []);
+  async function shared(myPriv, theirPubJwk){
+    return C.deriveKey({ name: "ECDH", public: await importPub(theirPubJwk) }, myPriv, { name: "AES-GCM", length: 256 }, false, ["encrypt", "decrypt"]);
+  }
+  // ---- this phone keeps the unlocked key (it can't be copied out of the browser)
+  const db = () => new Promise((ok, no) => { const r = indexedDB.open("wirenow-keys", 1); r.onupgradeneeded = () => r.result.createObjectStore("k"); r.onsuccess = () => ok(r.result); r.onerror = () => no(r.error); });
+  async function store(op, key, val){
+    const d = await db();
+    return new Promise((ok, no) => { const tx = d.transaction("k", op === "get" ? "readonly" : "readwrite"), st = tx.objectStore("k");
+      const r = op === "get" ? st.get(key) : op === "put" ? st.put(val, key) : st.delete(key); r.onsuccess = () => ok(r.result); r.onerror = () => no(r.error); });
+  }
+  let mine = null;               // { priv: CryptoKey, pub: jwk }
+  const chatKeys = new Map();    // conversation id -> CryptoKey
+  async function load(uid){ try { const v = await store("get", uid); if (v && v.priv) mine = v; } catch (_) {} return !!mine; }
+  async function remember(uid, pkcs8, pub){
+    const priv = await importPriv(pkcs8);   // not extractable: only usable, never readable
+    mine = { priv, pub };
+    try { await store("put", uid, mine); } catch (_) {}
+  }
+  async function forget(uid){ mine = null; chatKeys.clear(); try { await store("del", uid); } catch (_) {} }
+  function recoveryWords(){ return Array.from(rnd(12), b => WORDS[b]).join(" "); }
+  const cleanWords = w => w.toLowerCase().replace(/[^a-z ]/g, " ").split(/\s+/).filter(Boolean).join(" ");
+  // set up: new key pair, locked twice (password + recovery words)
+  async function create(password){
+    const kp = await C.generateKey({ name: "ECDH", namedCurve: "P-256" }, true, ["deriveKey"]);
+    const pkcs8 = await C.exportKey("pkcs8", kp.privateKey), pub = await C.exportKey("jwk", kp.publicKey);
+    const words = recoveryWords();
+    const a = await lock(password, pkcs8), r = await lock(cleanWords(words), pkcs8);
+    return { pkcs8, pub, words, row: { public_key: { kty: pub.kty, crv: pub.crv, x: pub.x, y: pub.y }, locked_private: a.ct, salt: a.salt, iv: a.iv,
+                                       recovery_private: r.ct, recovery_salt: r.salt, recovery_iv: r.iv } };
+  }
+  async function open(row, secret, useWords){
+    const pkcs8 = useWords ? await unlock(cleanWords(secret), row.recovery_private, row.recovery_salt, row.recovery_iv)
+                           : await unlock(secret, row.locked_private, row.salt, row.iv);
+    return pkcs8;
+  }
+  async function relock(pkcs8, password){ const a = await lock(password, pkcs8); return { locked_private: a.ct, salt: a.salt, iv: a.iv }; }
+  // ---- chat keys
+  async function wrapFor(chatKeyRaw, theirPub){
+    const iv = rnd(12), k = await shared(mine.priv, theirPub);
+    return b64(iv) + "." + b64(await C.encrypt({ name: "AES-GCM", iv }, k, chatKeyRaw));
+  }
+  async function unwrap(wrapped, wrapperPub){
+    const [iv, ct] = wrapped.split(".");
+    const raw = await C.decrypt({ name: "AES-GCM", iv: unb64(iv) }, await shared(mine.priv, wrapperPub), unb64(ct));
+    return raw;
+  }
+  const importChat = raw => C.importKey("raw", raw, "AES-GCM", true, ["encrypt", "decrypt"]);
+  async function seal(cid, text){
+    const k = chatKeys.get(cid), iv = rnd(12);
+    return "e1:" + b64(iv) + "." + b64(await C.encrypt({ name: "AES-GCM", iv }, k, enc.encode(text)));
+  }
+  async function read(cid, body){
+    const k = chatKeys.get(cid);
+    if (!k || !body || !body.startsWith("e1:")) return null;
+    try { const [iv, ct] = body.slice(3).split("."); return dec.decode(await C.decrypt({ name: "AES-GCM", iv: unb64(iv) }, k, unb64(ct))); }
+    catch (_) { return null; }
+  }
+  return { load, remember, forget, create, open, relock, wrapFor, unwrap, importChat, seal, read, chatKeys, rnd,
+           get ready(){ return !!mine; }, get pub(){ return mine && mine.pub; }, raw: k => C.exportKey("raw", k) };
+})();
+
+// is this phone ready to read private chats? if not, show set-up or unlock
+async function chatsReady(){
+  if (E2E.ready || await E2E.load(me.id)) return true;
+  const { data: row, error } = await sb.rpc("my_locked_key");
+  if (error) { app.innerHTML = `<div class="card empty">${esc(nice(error))}</div>`; return false; }
+  if (!row) chatSetup(); else chatUnlock(row);
+  return false;
+}
+function chatSetup(){
+  app.innerHTML = `<div class="card"><h2 style="margin-top:0">🔒 Turn on private chats</h2>
+    <p>Your chats are <b>end-to-end encrypted</b>: they are locked on your phone before they leave it. Nobody else can read them, not Wire Now and not the people who run the servers.</p>
+    <label for="cp1">Choose a chat password</label><input id="cp1" type="password" autocomplete="new-password" placeholder="At least 8 characters">
+    <label for="cp2">Type it again</label><input id="cp2" type="password" autocomplete="new-password">
+    <p class="hint">You'll only need it on a new phone. You can change it any time.</p>
+    <div class="row"><button class="btn" id="cgo">Continue</button></div></div>`;
+  $("cgo").onclick = async () => {
+    const a = $("cp1").value, b = $("cp2").value;
+    if (a.length < 8) return toast("Use at least 8 characters.");
+    if (a !== b) return toast("The two passwords are different.");
+    $("cgo").disabled = true; $("cgo").textContent = "Making your keys…";
+    const k = await E2E.create(a);
+    app.innerHTML = `<div class="card"><h2 style="margin-top:0">🗝️ Your recovery code</h2>
+      <p>If you ever forget your chat password, these 12 words are the only way to open your old chats. <b>Write them down</b> or save them somewhere safe. We can't show them again, and we can't recover them for you.</p>
+      <div class="card quiet" style="font-size:18px;font-weight:700;line-height:1.9;word-spacing:6px;user-select:all">${esc(k.words)}</div>
+      <div class="row"><button class="btn ghost small" id="copyw">📋 Copy</button></div>
+      <label style="display:flex;gap:8px;align-items:center;font-weight:600"><input type="checkbox" id="saved" style="width:auto"> I've saved my recovery code</label>
+      <div class="row"><button class="btn" id="cdone" disabled>Turn on private chats</button></div></div>`;
+    $("copyw").onclick = () => navigator.clipboard.writeText(k.words).then(() => toast("Copied. Paste it somewhere safe."));
+    $("saved").onchange = () => $("cdone").disabled = !$("saved").checked;
+    $("cdone").onclick = async () => {
+      $("cdone").disabled = true;
+      const { error } = await sb.from("user_keys").insert(k.row);
+      if (error) { $("cdone").disabled = false; return toast(nice(error)); }
+      await E2E.remember(me.id, k.pkcs8, k.row.public_key);
+      toast("Private chats are on 🔒"); route();
+    };
+  };
+}
+function chatUnlock(row){
+  app.innerHTML = `<div class="card"><h2 style="margin-top:0">🔒 Unlock your chats</h2>
+    <p class="hint">This phone hasn't opened your chats before. Enter your chat password once.</p>
+    <input id="cpw" type="password" autocomplete="current-password" placeholder="Chat password">
+    <div class="row"><button class="btn" id="ugo">Unlock</button></div>
+    <div class="row"><button class="btn ghost small" id="useWords">Forgot it? Use recovery code</button></div></div>`;
+  $("ugo").onclick = async () => {
+    $("ugo").disabled = true;
+    try { const pk = await E2E.open(row, $("cpw").value, false); await E2E.remember(me.id, pk, row.public_key); toast("Unlocked 🔓"); route(); }
+    catch (_) { $("ugo").disabled = false; toast("That password doesn't match."); }
+  };
+  $("useWords").onclick = () => chatRecover(row);
+}
+function chatRecover(row){
+  app.innerHTML = `<div class="card"><h2 style="margin-top:0">🗝️ Use your recovery code</h2>
+    <textarea id="rw" style="min-height:80px" placeholder="Type your 12 words"></textarea>
+    <label for="np">Choose a new chat password</label><input id="np" type="password" autocomplete="new-password" placeholder="At least 8 characters">
+    <div class="row"><button class="btn" id="rgo2">Unlock</button></div>
+    <p class="hint" style="margin-top:18px">Lost both your password and your code? You can start again with new keys. Each chat opens again when the other person next opens it (their phone gives yours access).</p>
+    <div class="row"><button class="btn ghost small" id="restart">Start again</button></div></div>`;
+  $("rgo2").onclick = async () => {
+    const np = $("np").value; if (np.length < 8) return toast("Use at least 8 characters for the new password.");
+    $("rgo2").disabled = true;
+    try {
+      const pk = await E2E.open(row, $("rw").value, true);
+      const { error } = await sb.from("user_keys").update(await E2E.relock(pk, np)).eq("user_id", me.id);
+      if (error) throw error;
+      await E2E.remember(me.id, pk, row.public_key); toast("Unlocked. Your new password is set."); route();
+    } catch (e) { $("rgo2").disabled = false; toast(e && e.message ? nice(e) : "Those words don't match."); }
+  };
+  $("restart").onclick = async () => {
+    if (!confirm("Start again with new keys? Your chats will open again once the other people in them next open the chat.")) return;
+    const { error } = await sb.rpc("reset_my_keys"); if (error) return toast(nice(error));
+    await E2E.forget(me.id); chatSetup();
+  };
+}
+async function changeChatPassword(){
+  if (!me) return;
+  const { data: row } = await sb.rpc("my_locked_key");
+  if (!row) return toast("Turn on private chats first (open Chats).");
+  openModal(`<h3 style="margin-top:0">🔑 Change chat password</h3>
+    <input id="op" type="password" placeholder="Current chat password" autocomplete="current-password">
+    <input id="np1" type="password" placeholder="New password (8+ characters)" style="margin-top:8px" autocomplete="new-password">
+    <div class="row"><button class="btn" id="cpgo">Change</button><button class="btn ghost" onclick="closeModal()">Cancel</button></div>
+    <p class="hint">Forgot the current one? Open Chats on a new phone and use your recovery code.</p>`);
+  $("cpgo").onclick = async () => {
+    if ($("np1").value.length < 8) return toast("Use at least 8 characters.");
+    try {
+      const pk = await E2E.open(row, $("op").value, false);
+      const { error } = await sb.from("user_keys").update(await E2E.relock(pk, $("np1").value)).eq("user_id", me.id);
+      if (error) throw error;
+      closeModal(); toast("Chat password changed. Nothing was lost.");
+    } catch (e) { toast(e && e.message ? nice(e) : "The current password doesn't match."); }
+  };
+}
+// the chat's own key: open my copy, or make the very first one
+async function chatKey(cid, tries = 0){
+  if (E2E.chatKeys.has(cid)) return true;
+  if (tries > 2) return false;
+  const { data: mineRow } = await sb.from("conversation_keys").select("wrapped_key,wrapped_by").eq("conversation_id", cid).eq("user_id", me.id).maybeSingle();
+  if (mineRow) {
+    const { data: w } = await sb.from("user_keys").select("public_key").eq("user_id", mineRow.wrapped_by).maybeSingle();
+    if (!w) return false;
+    try { E2E.chatKeys.set(cid, await E2E.importChat(await E2E.unwrap(mineRow.wrapped_key, w.public_key))); return true; } catch (_) { return false; }
+  }
+  // members who have keys but no copy of this chat's key; if that's all of them, the chat key doesn't exist yet
+  const { data: members } = await sb.from("conversation_members").select("user_id").eq("conversation_id", cid);
+  const [{ data: missing }, { data: withKeys }] = await Promise.all([
+    sb.rpc("members_missing_key", { cid }),
+    sb.from("user_keys").select("user_id").in("user_id", (members || []).map(m => m.user_id))]);
+  if (!missing || !withKeys || missing.length !== withKeys.length) return false;   // someone has it: they will share it with me
+  const raw = E2E.rnd(32);
+  const rows = await Promise.all(missing.map(async m => ({ conversation_id: cid, user_id: m.user_id, wrapped_key: await E2E.wrapFor(raw, m.public_key) })));
+  const { error } = await sb.from("conversation_keys").insert(rows);
+  if (error) return chatKey(cid, tries + 1);   // someone made it at the same moment: use theirs
+  E2E.chatKeys.set(cid, await E2E.importChat(raw));
+  return true;
+}
+// give the chat key to members who don't have it yet (someone new, or someone who reset their password)
+async function shareMissing(cid){
+  if (!E2E.chatKeys.has(cid)) return;
+  const { data: missing } = await sb.rpc("members_missing_key", { cid });
+  if (!missing || !missing.length) return;
+  const raw = await E2E.raw(E2E.chatKeys.get(cid));
+  const rows = await Promise.all(missing.map(async m => ({ conversation_id: cid, user_id: m.user_id, wrapped_key: await E2E.wrapFor(raw, m.public_key) })));
+  await sb.from("conversation_keys").insert(rows);
+}
+
+// ---------------------------------------------------------------- chats (private and group)
+async function showChats(){
+  if (gate("Your private chats live here. Log in to start one.")) return;
+  if (!(await chatsReady())) return;
+  app.innerHTML = `<div class="bar"><h1 class="grow">Chats</h1><button class="btn ghost small" id="newgroup">👥 New group</button><button class="btn small" id="newchat">✉️ New</button></div>
+    <div id="chats"><div class="empty">Loading…</div></div>
+    <p class="hint" style="text-align:center;margin-top:16px">🔒 End-to-end encrypted. No "seen", no "online", no "typing…". Reply when you're ready.</p>`;
+  $("newchat").onclick = () => pickPeople(false);
+  $("newgroup").onclick = () => pickPeople(true);
+  const { data, error } = await sb.from("my_chats").select("*").order("last_message_at", { ascending: false });
+  const box = $("chats");
+  if (error) { box.innerHTML = `<div class="card empty">${esc(nice(error))}</div>`; return; }
+  if (!data.length) { box.innerHTML = `<div class="card empty quiet"><div class="big">✉️</div>No chats yet. Start one with someone you follow.</div>`; return; }
+  box.innerHTML = `<div class="card" style="padding:0 12px">${data.map(c => {
+    const name = c.is_group ? c.title : (c.people || "Just you");
+    return `<a class="chatrow ${c.unread && !c.muted ? "unread" : ""}" href="#/chat/${c.id}">
+      <span class="avatar sm">${c.is_group ? "👥" : initial(name)}</span>
+      <span class="t"><b>${esc(name)}${c.muted ? " 🔕" : ""}</b><span data-cid="${c.id}" data-body="${esc(c.last_text || "")}">${c.last_text ? "🔒 …" : (c.is_group ? "Group created" : "Say hello")}</span></span>
+      <span class="hint">${ago(c.last_message_at)}</span>${c.unread && !c.muted ? `<i class="new"></i>` : ""}</a>`;
+  }).join("")}</div>`;
+  // unlock the previews on this phone
+  box.querySelectorAll("[data-body]").forEach(async el => {
+    if (!el.dataset.body) return;
+    const cid = el.dataset.cid;
+    if (await chatKey(cid)) { const t = await E2E.read(cid, el.dataset.body); el.textContent = t ? t.slice(0, 80) : "🔒 Message"; }
+    else el.textContent = "🔒 Waiting for access";
+  });
+}
+async function pickPeople(group){
+  if (!E2E.ready) return toast("Unlock your chats first.");
+  const { data: f } = await sb.from("follows").select("followee").eq("follower", me.id);
+  const ids = (f || []).map(x => x.followee);
+  const { data: ppl } = ids.length ? await sb.from("profiles").select("id,username,display_name").in("id", ids).order("username") : { data: [] };
+  const row = p => `<label class="chatrow" style="margin:0;font-weight:400"><span class="avatar sm">${initial(nameOf(p))}</span><span class="t"><b>${esc(nameOf(p))}</b><span>@${esc(p.username)}</span></span>
+      ${group ? `<input type="checkbox" value="${p.id}" style="width:auto">` : `<button class="btn ghost small" onclick="startChat('${p.id}')">Message</button>`}</label>`;
+  openModal(`<h3 style="margin-top:0">${group ? "👥 New group" : "✉️ New message"}</h3>
+    ${group ? `<input id="gtitle" maxlength="60" placeholder="Group name, e.g. Book club">` : ""}
+    <input id="psearch" placeholder="Search a username" style="margin-top:8px" autocomplete="off">
+    <div id="presults"></div>
+    <div class="hint" style="margin:10px 0 2px">${ids.length ? "People you follow" : "You don't follow anyone yet. Search above."}</div>
+    <div id="plist">${(ppl || []).map(row).join("")}</div>
+    <div class="row">${group ? `<button class="btn" id="gmake">Create group</button>` : ""}<button class="btn ghost" onclick="closeModal()">Cancel</button></div>`);
+  let t;
+  $("psearch").oninput = () => { clearTimeout(t); t = setTimeout(async () => {
+    const q = $("psearch").value.trim().replace(/[^A-Za-z0-9_]/g, "");
+    if (q.length < 2) { $("presults").innerHTML = ""; return; }
+    const { data } = await sb.from("profiles").select("id,username,display_name").ilike("username", q + "%").neq("id", me.id).limit(8);
+    $("presults").innerHTML = (data || []).map(row).join("") || `<p class="hint">No one found.</p>`;
+  }, 300); };
+  if (group) $("gmake").onclick = async () => {
+    const title = $("gtitle").value.trim();
+    const members = [...new Set([...document.querySelectorAll("#modalbox input[type=checkbox]:checked")].map(c => c.value))];
+    if (title.length < 2) return toast("Give the group a name.");
+    if (!members.length) return toast("Choose at least one person.");
+    const { data, error } = await sb.rpc("create_group", { title, members });
+    if (error) return toast(nice(error));
+    const { data: inside } = await sb.from("conversation_members").select("user_id").eq("conversation_id", data);
+    const left = members.length + 1 - (inside || []).length;
+    closeModal(); location.hash = "#/chat/" + data;
+    if (left > 0) toast(left + (left === 1 ? " person wasn't" : " people weren't") + " added: they only accept messages from people they follow, or haven't turned on private chats.");
+  };
+}
+async function startChat(otherId){
+  if (needLogin("Log in to send messages.")) return;
+  if (!E2E.ready && !(await E2E.load(me.id))) { closeModal(); location.hash = "#/chats"; return toast("Turn on private chats first."); }
+  const { data, error } = await sb.rpc("start_dm", { other: otherId });
+  if (error) return toast(nice(error));
+  closeModal(); location.hash = "#/chat/" + data;
+}
+async function showChat(cid){
+  if (gate("Log in to read your chats.")) return;
+  const { data: info } = await sb.from("my_chats").select("*").eq("id", cid).maybeSingle();
+  if (!info) { app.innerHTML = `<div class="card empty">This chat isn't available. <a href="#/chats">Back to chats</a></div>`; return; }
+  const { data: members } = await sb.from("conversation_members").select("user_id").eq("conversation_id", cid);
+  const { data: ppl } = await sb.from("profiles").select("id,username,display_name").in("id", (members || []).map(m => m.user_id));
+  const who = Object.fromEntries((ppl || []).map(p => [p.id, p]));
+  const name = info.is_group ? info.title : (info.people || "Chat");
+  const other = who[info.other_id];
+  if (!(await chatsReady())) return;
+  const plain = new Map();   // unlocked text of messages on screen (for reports)
+  window.__plain = plain;
+  app.innerHTML = `<div class="chathead"><a href="#/chats" class="hint" aria-label="Back">←</a>
+      <span class="avatar sm">${info.is_group ? "👥" : initial(name)}</span>
+      <b>${info.is_group || !other ? esc(name) : `<a href="#/u/${esc(other.username)}" style="color:var(--ink)">${esc(name)}</a>`}</b>
+      <button class="btn ghost small" id="chatmenu" aria-label="Chat options">⋯</button></div>
+    <div class="hint" style="text-align:center;margin:-4px 0 10px">🔒 End-to-end encrypted</div>
+    <div class="msgs" id="msgs"><div class="empty">Loading…</div></div>
+    <div class="chatbox"><div><textarea id="msgin" maxlength="4000" placeholder="Write a message…" rows="1"></textarea><button class="btn" id="msgsend">Send</button></div></div>
+    <div style="height:70px"></div>`;
+  const box = $("msgs"), seen = new Set();
+  let haveKey = await chatKey(cid);
+  if (haveKey) shareMissing(cid);
+  const bubble = (m, text) => {
+    const mine = m.sender_id === me.id;
+    return `<div class="msg ${mine ? "mine" : ""}" id="m-${m.id}">${info.is_group && !mine ? `<div class="who">${esc(nameOf(who[m.sender_id]))}</div>` : ""}${text === null ? `<i class="hint">🔒 Can't open this message on this phone</i>` : linkify(text)}
+      <div class="when">${clock(m.created_at)}${mine ? `<button onclick="deleteMessage('${m.id}')">delete</button>` : text === null ? "" : `<button onclick="report('message','${m.id}')">report</button>`}</div></div>`;
+  };
+  const add = async list => {
+    const fresh = list.filter(m => !seen.has(m.id)); if (!fresh.length) return;
+    fresh.forEach(m => seen.add(m.id));
+    const texts = await Promise.all(fresh.map(m => E2E.read(cid, m.body)));
+    fresh.forEach((m, i) => { if (texts[i] !== null) plain.set(m.id, texts[i]); });
+    if (box.querySelector(".empty")) box.innerHTML = "";
+    const near = window.innerHeight + window.scrollY >= document.body.scrollHeight - 200;
+    box.insertAdjacentHTML("beforeend", fresh.map((m, i) => bubble(m, texts[i])).join(""));
+    if (near || fresh.some(m => m.sender_id === me.id)) window.scrollTo(0, document.body.scrollHeight);
+  };
+  const { data: msgs } = await sb.from("messages").select("id,sender_id,body,created_at").eq("conversation_id", cid).order("created_at", { ascending: false }).limit(80);
+  const list = (msgs || []).reverse();
+  if (!haveKey) box.innerHTML = `<div class="empty">🔒 Waiting for someone in this chat to give this phone access. It happens automatically when they next open the chat.</div>`;
+  else if (!list.length) box.innerHTML = `<div class="empty">🔒 Messages here are end-to-end encrypted. Say hello, no rush. 🌿</div>`;
+  else await add(list);
+  window.scrollTo(0, document.body.scrollHeight);
+  sb.rpc("mark_chat_read", { cid }).then(badges);
+  // new messages arrive live; a slow check every 20 seconds is the backup
+  let last = list.length ? list[list.length - 1].created_at : new Date(0).toISOString();
+  const pull = async () => {
+    const { data } = await sb.from("messages").select("id,sender_id,body,created_at").eq("conversation_id", cid).gt("created_at", last).order("created_at");
+    if (!haveKey && (haveKey = await chatKey(cid))) { box.innerHTML = ""; seen.clear(); const { data: all } = await sb.from("messages").select("id,sender_id,body,created_at").eq("conversation_id", cid).order("created_at").limit(80); await add(all || []); }
+    if (data && data.length) { last = data[data.length - 1].created_at; await add(data); sb.rpc("mark_chat_read", { cid }); }
+  };
+  const ch = sb.channel("chat-" + cid).on("postgres_changes", { event: "INSERT", schema: "public", table: "messages", filter: `conversation_id=eq.${cid}` }, () => pull()).subscribe();
+  const timer = setInterval(pull, 20000);
+  leaveChat = () => { clearInterval(timer); sb.removeChannel(ch); };
+  const ta = $("msgin");
+  ta.oninput = () => { ta.style.height = "44px"; ta.style.height = Math.min(120, ta.scrollHeight) + "px"; };
+  $("msgsend").onclick = async () => {
+    const text = ta.value.trim(); if (!text) return;
+    if (!haveKey) return toast("This phone doesn't have access to this chat yet.");
+    if (text.length > 4000) return toast("That message is too long (4000 characters max).");
+    $("msgsend").disabled = true;
+    const body = await E2E.seal(cid, text);
+    const { error } = await sb.from("messages").insert({ conversation_id: cid, body });
+    $("msgsend").disabled = false;
+    if (error) return toast(nice(error));
+    ta.value = ""; ta.style.height = "44px"; pull();
+  };
+  $("chatmenu").onclick = () => {
+    openModal(`<h3 style="margin-top:0">${esc(name)}</h3>
+      ${info.is_group ? `<p class="hint">${(ppl || []).map(p => esc(nameOf(p))).join(", ")}</p>` : ""}
+      <div class="row" style="flex-direction:column">
+        <button class="btn ghost" id="mutebtn">${info.muted ? "🔔 Unmute" : "🔕 Mute this chat"}</button>
+        ${info.is_group && info.created_by === me.id ? `<button class="btn ghost" id="addbtn">➕ Add someone</button>` : ""}
+        ${!info.is_group && info.other_id ? `<button class="btn ghost" id="blockbtn">🚫 Block</button>` : ""}
+        <button class="btn ghost" id="leavebtn">${info.is_group ? "🚪 Leave group" : "🗑 Remove chat from my list"}</button>
+        <button class="btn ghost" onclick="closeModal()">Cancel</button></div>`);
+    $("mutebtn").onclick = async () => {
+      const r = await sb.from("conversation_members").update({ muted: !info.muted }).eq("conversation_id", cid).eq("user_id", me.id);
+      closeModal(); if (r.error) return toast(nice(r.error));
+      toast(info.muted ? "Unmuted" : "Muted. No alerts from this chat."); route();
+    };
+    if ($("addbtn")) $("addbtn").onclick = () => { closeModal(); addToGroup(cid); };
+    if ($("blockbtn")) $("blockbtn").onclick = () => blockUser(info.other_id, name);
+    $("leavebtn").onclick = async () => {
+      if (!confirm(info.is_group ? "Leave this group?" : "Remove this chat from your list?")) return;
+      const r = await sb.from("conversation_members").delete().eq("conversation_id", cid).eq("user_id", me.id);
+      closeModal(); if (r.error) return toast(nice(r.error));
+      location.hash = "#/chats";
+    };
+  };
+}
+async function addToGroup(cid){
+  const u = prompt("Username to add:"); if (!u) return;
+  const { data: p } = await sb.from("profiles").select("id").eq("username", u.trim().replace(/^@/, "")).maybeSingle();
+  if (!p) return toast("No one found with that username.");
+  const { error } = await sb.rpc("add_to_group", { cid, who: p.id });
+  if (error) return toast(nice(error));
+  E2E.ready && await chatKey(cid) && await shareMissing(cid);
+  toast("Added"); route();
+}
+async function deleteMessage(id){
+  if (!confirm("Delete this message for everyone?")) return;
+  const { error } = await sb.from("messages").delete().eq("id", id);
+  if (error) return toast(nice(error));
+  const el = $("m-" + id); if (el) el.remove();
+}
+
+// ---------------------------------------------------------------- alerts
+async function showAlerts(){
+  if (gate("Replies, new followers and shares will show here.")) return;
+  const pushOn = await pushEnabled();
+  app.innerHTML = `<div class="bar"><h1 class="grow">Alerts</h1><button class="btn ghost small" id="allread">Mark all read</button></div>
+    ${!pushOn && "Notification" in window && "serviceWorker" in navigator ? `<div class="card quiet"><b>🔔 Silent phone pop-ups</b><div class="hint">A quiet pop-up on your phone (no sound, no vibration) when someone replies or messages you.</div><div class="row"><button class="btn small" id="pushon">Turn on</button></div></div>` : ""}
+    <div id="alerts"><div class="empty">Loading…</div></div>`;
+  if ($("pushon")) $("pushon").onclick = enablePush;
+  $("allread").onclick = async () => { await sb.from("notifications").update({ read: true }).eq("user_id", me.id).eq("read", false); badges(); showAlerts(); };
+  const { data } = await sb.from("notifications").select("*").neq("kind", "message").order("created_at", { ascending: false }).limit(60);
+  const box = $("alerts");
+  if (!data || !data.length) { box.innerHTML = `<div class="card empty quiet"><div class="big">🔔</div>Nothing new. Enjoy the quiet.</div>`; return; }
+  const actorIds = [...new Set(data.map(n => n.actor_id).filter(Boolean))];
+  const { data: ppl } = actorIds.length ? await sb.from("profiles").select("id,username,display_name").in("id", actorIds) : { data: [] };
+  const who = Object.fromEntries((ppl || []).map(p => [p.id, p]));
+  const icon = { reply: "💬", follow: "🌱", repost: "↻", mention: "@" };
+  const text = n => ({ reply: "replied to you", follow: "started following you", repost: "shared your post", mention: "mentioned you" })[n.kind] || "";
+  const link = n => n.post_id ? "#/p/" + n.post_id : "#/u/" + encodeURIComponent((who[n.actor_id] || {}).username || "");
+  box.innerHTML = `<div class="card" style="padding:0 12px">${data.map(n => `<a class="alert ${n.read ? "" : "unread"}" href="${link(n)}" data-id="${n.id}">
+      <span class="ic">${icon[n.kind] || "•"}</span><span style="flex:1"><b>${esc(nameOf(who[n.actor_id]))}</b> ${text(n)}</span><span class="hint">${ago(n.created_at)}</span></a>`).join("")}</div>`;
+  box.querySelectorAll(".alert.unread").forEach(a => a.addEventListener("click", () => sb.from("notifications").update({ read: true }).eq("id", a.dataset.id).then(badges)));
+}
+
+// ---------------------------------------------------------------- silent phone pop-ups
+async function swReg(){ if (!("serviceWorker" in navigator)) return null; return navigator.serviceWorker.register("sw.js"); }
+async function pushEnabled(){
+  try { const r = await navigator.serviceWorker?.getRegistration(); const s = r && await r.pushManager.getSubscription(); return !!s && Notification.permission === "granted"; } catch { return false; }
+}
+function keyBytes(b64){ const p = "=".repeat((4 - b64.length % 4) % 4), raw = atob((b64 + p).replace(/-/g, "+").replace(/_/g, "/")); return Uint8Array.from([...raw].map(c => c.charCodeAt(0))); }
+async function enablePush(){
+  if (needLogin()) return;
+  if (!("PushManager" in window)) return toast("This browser can't show pop-ups. Try Chrome.");
+  const { data: key } = await sb.rpc("vapid_key");
+  if (!key) return toast("Pop-ups aren't switched on for this site yet.");
+  const perm = await Notification.requestPermission();
+  if (perm !== "granted") return toast("Pop-ups are blocked. You can allow them in your browser's site settings.");
+  try {
+    const reg = await swReg(); await navigator.serviceWorker.ready;
+    const sub = await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: keyBytes(key) });
+    const j = sub.toJSON();
+    await sb.from("push_subscriptions").delete().eq("endpoint", j.endpoint);
+    const { error } = await sb.from("push_subscriptions").insert({ endpoint: j.endpoint, p256dh: j.keys.p256dh, auth: j.keys.auth });
+    if (error) throw error;
+    toast("Silent pop-ups are on 🌿");
+  } catch (e) { toast(nice(e)); }
+  route();
+}
+async function disablePush(quiet){
+  try {
+    const r = await navigator.serviceWorker?.getRegistration(); const s = r && await r.pushManager.getSubscription();
+    if (s) { if (me) await sb.from("push_subscriptions").delete().eq("endpoint", s.endpoint); await s.unsubscribe(); }
+    if (!quiet) { toast("Pop-ups are off."); route(); }
+  } catch (_) {}
+}
+
+
+// ---------------------------------------------------------------- authenticator app (6-digit codes)
+let aal = "aal1";
+async function checkAuthenticator(){
+  try {
+    const { data } = await sb.auth.mfa.getAuthenticatorAssuranceLevel();
+    aal = data ? data.currentLevel : "aal1";
+    if (data && data.currentLevel === "aal1" && data.nextLevel === "aal2") { askCode(); return false; }
+  } catch (_) {}
+  return true;
+}
+function askCode(){
+  openModal(`<h3 style="margin-top:0">🛡️ Enter your code</h3>
+    <p class="hint">Open your authenticator app and type the 6-digit code for Wire Now.</p>
+    <input id="totp" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="123456" style="font-size:22px;letter-spacing:6px;text-align:center">
+    <div class="row"><button class="btn" id="tgo">Continue</button><button class="btn ghost" onclick="closeModal(true);logout()">Log out</button></div>`, true);
+  $("tgo").onclick = async () => {
+    const code = $("totp").value.replace(/\D/g, "");
+    if (code.length !== 6) return toast("The code has 6 numbers.");
+    const { data: f } = await sb.auth.mfa.listFactors();
+    const factor = f && f.totp && f.totp.find(x => x.status === "verified");
+    if (!factor) return closeModal(true);
+    const { error } = await sb.auth.mfa.challengeAndVerify({ factorId: factor.id, code });
+    if (error) return toast("That code didn't work. Check the time on your phone and try the newest code.");
+    closeModal(true); aal = "aal2"; await loadMe(); route();
+  };
+}
+async function authenticatorMenu(){
+  const { data: f } = await sb.auth.mfa.listFactors();
+  const on = f && f.totp && f.totp.find(x => x.status === "verified");
+  if (on) {
+    openModal(`<h3 style="margin-top:0">🛡️ Authenticator: on ✅</h3>
+      <p class="hint">Logging in needs your 6-digit code. Your private chats and settings stay shut without it.</p>
+      <div class="row"><button class="btn ghost" id="toff">Remove authenticator</button><button class="btn ghost" onclick="closeModal()">Close</button></div>`);
+    $("toff").onclick = async () => {
+      if (!confirm("Remove the authenticator? Your account will only be protected by your Google login.")) return;
+      const { error } = await sb.auth.mfa.unenroll({ factorId: on.id });
+      if (error) return toast(nice(error));
+      closeModal(); toast("Authenticator removed.");
+    };
+    return;
+  }
+  for (const x of (f && f.all) || []) if (x.status !== "verified") await sb.auth.mfa.unenroll({ factorId: x.id });
+  const { data, error } = await sb.auth.mfa.enroll({ factorType: "totp", friendlyName: "Wire Now " + new Date().toISOString().slice(0, 10) });
+  if (error) return toast(nice(error));
+  openModal(`<h3 style="margin-top:0">🛡️ Add an authenticator</h3>
+    <p class="hint">1. Open Google Authenticator (or any authenticator app) and scan this code.</p>
+    <div style="text-align:center;background:#fff;border-radius:14px;padding:10px"><img src="${esc(data.totp.qr_code)}" alt="QR code" style="width:200px;height:200px"></div>
+    <p class="hint">Can't scan? Type this key in the app instead:<br><b style="user-select:all;word-break:break-all">${esc(data.totp.secret)}</b></p>
+    <p class="hint">2. Type the 6-digit code it shows:</p>
+    <input id="tnew" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="123456" style="font-size:22px;letter-spacing:6px;text-align:center">
+    <div class="row"><button class="btn" id="tok">Turn on</button><button class="btn ghost" onclick="closeModal()">Cancel</button></div>`);
+  $("tok").onclick = async () => {
+    const code = $("tnew").value.replace(/\D/g, "");
+    if (code.length !== 6) return toast("The code has 6 numbers.");
+    const { error: e2 } = await sb.auth.mfa.challengeAndVerify({ factorId: data.id, code });
+    if (e2) return toast("That code didn't work. Try the newest one.");
+    aal = "aal2"; closeModal(); toast("Authenticator is on 🛡️"); await loadMe(); route();
+  };
+}
+
+// ---------------------------------------------------------------- report, delete and admin
+function report(kind, id){
+  if (needLogin()) return;
+  const what = { post: "post", comment: "reply", message: "message", user: "person" }[kind];
+  openModal(`<h3 style="margin-top:0">⚑ Report this ${what}</h3>
+    <p class="hint">Only Wire Now admins see reports.${kind === "message" ? " Chats are encrypted, so this sends the text of this one message with your report, so an admin can read it. Nothing else from your chat is shared." : ""}</p>
+    <select id="rr"><option>Spam or advertising</option><option>Hate or harassment</option><option>False or misleading</option><option>Violence or threats</option><option>Private information</option><option>Other</option></select>
+    <textarea id="rx" style="min-height:60px;margin-top:8px" maxlength="400" placeholder="More details (optional)"></textarea>
+    <div class="row"><button class="btn" id="rgo">Send report</button><button class="btn ghost" onclick="closeModal()">Cancel</button></div>`);
+  $("rgo").onclick = async () => {
+    const reason = ($("rr").value + ". " + $("rx").value.trim()).trim().slice(0, 480);
+    let row;
+    if (kind === "user") {   // a person is reported through their latest post
+      const { data: last } = await sb.from("posts").select("id").eq("author_id", id).order("created_at", { ascending: false }).limit(1).maybeSingle();
+      if (!last) { closeModal(); return toast("Thanks. If they bother you, blocking them stops all contact."); }
+      row = { post_id: last.id, reason: "[Person] " + reason };
+    } else row = { [kind === "comment" ? "comment_id" : kind === "message" ? "message_id" : "post_id"]: id, reason };
+    if (kind === "message") row.message_text = (window.__plain && window.__plain.get(id) || "").slice(0, 4000);
+    const { error } = await sb.from("reports").insert(row);
+    if (error) return toast(nice(error));
+    closeModal(); toast("Thank you. An admin will look at it.");
+  };
+}
+async function deleteItem(kind, id){
+  if (!confirm(`Delete your ${kind === "post" ? "post" : "reply"}? This can't be undone.`)) return;
+  const { error } = await sb.from(kind === "post" ? "posts" : "comments").delete().eq("id", id);
+  if (error) return toast(nice(error));
+  toast("Deleted.");
+  if (kind === "post") location.hash = "#/"; else { const el = $("c-" + id); if (el) el.remove(); }
+}
+async function mod(kind, id, remove){
+  const { error } = await sb.rpc("moderate", { kind, target: id, remove });
+  if (error) return toast(nice(error));
+  toast(remove ? "Removed." : "Restored."); route();
+}
+async function ban(userId, name){
+  if (!confirm(`Ban ${name}? They won't be able to post, reply, message or create communities.`)) return;
+  const { error } = await sb.rpc("moderate", { kind: "ban", target: userId, remove: true });
+  if (error) return toast(nice(error));
+  closeModal(); toast(name + " is banned.");
+}
+async function showAdmin(){
+  if (!me || !me.is_admin) { app.innerHTML = `<div class="card empty">Only admins can see this page.</div>`; return; }
+  if (aal !== "aal2") { app.innerHTML = `<div class="card empty quiet"><div class="big">🛡️</div>Admin tools need an authenticator app, so nobody can use them with a stolen login.<br><br><button class="btn" onclick="authenticatorMenu()">Set up authenticator</button></div>`; return; }
+  const { data, error } = await sb.from("reports").select("*").eq("resolved", false).order("created_at", { ascending: false }).limit(100);
+  if (error) { app.innerHTML = `<div class="card empty">${esc(nice(error))}</div>`; return; }
+  const pick = k => [...new Set(data.map(r => r[k]).filter(Boolean))];
+  const posts = {}, cms = {}, msgs = {};
+  if (pick("post_id").length) (await sb.from("posts").select("id,title,body,removed,author_id").in("id", pick("post_id"))).data?.forEach(p => posts[p.id] = p);
+  if (pick("comment_id").length) (await sb.from("comments").select("id,body,post_id,removed,author_id").in("id", pick("comment_id"))).data?.forEach(c => cms[c.id] = c);
+  if (pick("message_id").length) (await sb.from("messages").select("id,body,removed,sender_id").in("id", pick("message_id"))).data?.forEach(m => msgs[m.id] = m);
+  app.innerHTML = `<div class="bar"><h1 class="grow">🛡️ Reports (${data.length})</h1></div>` + (data.length ? data.map(r => {
+    const p = r.post_id && posts[r.post_id], c = r.comment_id && cms[r.comment_id], m = r.message_id && msgs[r.message_id];
+    const kind = p ? "post" : c ? "comment" : "message", t = p || c || m;
+    const what = p ? `Post: <a href="#/p/${p.id}">${esc(p.title || p.body.slice(0, 140))}</a>`
+               : c ? `Reply: <a href="#/p/${c.post_id}">“${esc(c.body.slice(0, 140))}”</a>`
+               : m ? `Private message (as reported): “${esc((r.message_text || "text not attached").slice(0, 300))}”` : "(already deleted)";
+    const author = t && (t.author_id || t.sender_id);
+    return `<div class="card"><div class="meta">${ago(r.created_at)}${t && t.removed ? ` · <span class="badge">removed</span>` : ""}</div>
+      <div>${what}</div><div class="hint">Reason: ${esc(r.reason)}</div>
+      <div class="actions">
+        ${t && !t.removed ? `<button onclick="mod('${kind}','${t.id}',true)">🛡 Remove it</button>` : ""}
+        ${author ? `<button onclick="ban('${author}','this person')">🚫 Ban author</button>` : ""}
+        <button onclick="mod('report','${r.id}',true)">✓ Done</button></div></div>`;
+  }).join("") : `<div class="card empty quiet">No open reports. 🌿</div>`);
+}
+function showRules(){
+  app.innerHTML = `<div class="card"><h2 style="margin-top:0">🌿 How it works</h2>
+    <p>Wire Now Community is a calm place for quiet people: introverts, ambiverts, anyone tired of loud social media.</p>
+    <ul class="rules">
+      <li><b>No public numbers.</b> Nobody sees follower counts or how many likes you got. Only you see your own.</li>
+      <li><b>No pressure.</b> No "seen", no "online now", no "typing…". Reply when you're ready.</li>
+      <li><b>You choose who can message you:</b> only people you follow (the default), everyone, or nobody.</li>
+      <li><b>Silent alerts.</b> Pop-ups never make a sound.</li>
+      <li><b>Your Workshop</b> is your own page: your words, and what you chose to share.</li>
+    </ul>
+    <h3>Rules</h3><ol class="rules">
+      <li>Be kind. Disagree with ideas, not people. No insults, hate or threats.</li>
+      <li>Share true information. Add a source when you can.</li>
+      <li>No spam, advertising or scams.</li>
+      <li>Don't share anyone's private details.</li>
+      <li>Health posts are conversation, not medical advice.</li>
+      <li>Report anything that breaks these rules. Admins may remove posts and ban accounts.</li>
+    </ol>
+    <h3>Privacy</h3><p class="rules">Your email is never shown to anyone. Private and group chats are <b>end-to-end encrypted</b>: messages are locked on your phone and only the people in the chat can unlock them. Not Wire Now, not the server. If you report a message, its text is sent with your report so an admin can check it. You can add an authenticator app in Settings so nobody can get into your account with just your Google login.</p></div>`;
+}
+
+// ---------------------------------------------------------------- start
+(async () => {
+  if (!READY) { drawWho(); return drawNotReady(); }
+  sb.auth.onAuthStateChange(ev => { if (ev === "SIGNED_IN" || ev === "SIGNED_OUT") loadMe().then(route); });
+  await Promise.all([loadMe(), loadCommunities()]);
+  if ("serviceWorker" in navigator) swReg().catch(() => {});
+  route();
+})();
+</script>
+</body>
+</html>

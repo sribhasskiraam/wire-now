@@ -1,0 +1,572 @@
+{
+ "updated": "2026-11-14T03:14:42.229637+00:00",
+ "code": "DE",
+ "name": "Germany",
+ "stories": [
+  {
+   "id": "5b8b9f688c",
+   "title": "Starts an US-Flughäfen wieder erlaubt",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPendwLWhzU1dDVXJ4cG5fZkkzeHhMQXYwaGJQanNGVXVWeWtqLVBfQndVMmdxY3o2czlxei13ZU0xcHpuWHZESGhBWGZ5QWlsSl9hMzRkUmZSdDRyekpBTzQ1bC1kMkdURDdZUHNVOU1fX2xwZlc2T3NQS1huSzUzSDVWVDAwSmhxSU11OUJYeTBBalY1TmV1RXB4NFB3RHZLcGZOTHkwRGZ1elFNbGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-14T02:06:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "58ac79dd74",
+   "title": "Purer Wahnsinn! Paul Krohne fährt zur Darts-WM",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFg1SzBXR2c2OVBXNGlXemFNeDBjWExmOFRneWRQLVdERzJXVGpxR1hBVlVJd2ZaeFptUzdYYnBhdWNDRHpIRjFQSzRkem1DOWU4Ym5Nb2ZZaXFmcFN4c1ZZc3BRVFdBMkdsMERuWmVOekZQOWI1dnFMWWM5ZEtfdmhvNlRvTEZSVTFYY3o0eXZDeGNlUmIxZ2oyY1ZtWEk3MlBsd2tyS0ZDZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SPORT1",
+   "region": "DE",
+   "date": "2026-11-13T23:14:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ac54d2c80d",
+   "title": "DFB-Team sichert sich gegen Serbien sein Endspiel gegen Niederlande",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNy1jU2NkNGlES2J4NHh4dkxpQS1HWUF1Rm1mczZCNmNVNmFwMXFwN01GTVNsY201TkpDMm9ERGt6TXJMSldjVVpFa1JFUjdJM0pkcWpqSTRXaGlLblNGOW50S2JJcU8tVmk0b3d1MXpuVzA4eVg5MUZJR0p0ZGFaVkRZNHRmeFFWT3M2VWlMbGdGYzZqVXBBYV9tSkdZR2R4XzFpSERvR0pGZUZhekxrc0VNaDN1OHA0bnVWQ0RiQk9Wc0tiR0N2cEVWclZzVVF6enc5Vk5XUko4Qjg3Ml81YWloRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "sportschau.de",
+   "region": "DE",
+   "date": "2026-11-13T23:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "232d84e954",
+   "title": "Papst Leo XIV.: Eine halbe Million Menschen feiert den Papstbesuch an seiner alten Wirkungsstätte in Peru",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWjY2UXhDZEFpNjl6X3JyT3NzWmVDLWlWWXN6d1g0akozdDJtZHB3SVRSdFlwR0NtSmFRTHU2aEpmTFRRbFRFMC1NX1BkeWFteXlDQzR3aUI0dUJ5MS1VdjlTZk9rdUdYcmFDRC02d3F4QkZsdmdkSXE2c2NfSUd4azhETk9PWVNFZ0JCOWtxSTN6ajNKcVFBR2JKRUlPbDI5MDNqeV9sRWlhQ3FnVndwZTVXenJYV2NubHJUODJJM0ZxNUNac3BENmNFVjFsdnptWkdhemVMSWY2SG95WWJzWTlNX3lJMjlmUlB0QVF1WmRKLVhKc1pxTnVLa2JkLXhWUEF4dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-13T22:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Peru",
+    "place": "",
+    "flag": "🇵🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "449472618d",
+   "title": "Mehr als 130 Passagiere an Bord Tanker in den USA kracht in Kreuzfahrtschiff – „American Heritage“ geht teilweise unter",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTBkUTJ6a01vTjAxUEMycjRLR2lFOTRhWE1zMzB2dldYQUZqMUt4S2xjT3pnQzU2c2NjUFhVYUVlMGo3V3dRbG5nVEhfOFptcG5IMUh4QzJFUk9lcXJ4Nk1GT2Z0VWlOS3VudW9zWXQxYUhfNElINHNnVTZGZi1ybnpKRWEybXJWZmIxU01rNkJSelJ4YVFLYWJlLThjelBLNUhDdlppUUhVcVJrT1F6bXRMRUE0MnA1OHhucUlXOW1LT1BUVzAwSjNObkpoYnNMUDJjMlJxUlJCRHlQRFBzVEJSMFBPZVpHMThhcmpwODF3Y1JJem1NNlluRXBzUW42?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T22:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d0a7c35cfb",
+   "title": "Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdE1UV1NGOGRuS0dyck1neXY5X0s1X2dWVUFPX1J5NTdKQ0NWbzg2Y1lRWWVUWTFKSlZVaWZqS1FpT2UxNlYtcUdEa3FKSzRoZlUyMVpGS3d0MW8wYnlkRUU4UTQ1SXZ2dDhRQmdvZkJ6RVhBd0hwdW5GYXd2TWVBd2RpXzBhLUFVZk9ET3NmOFVycDNJa3hkR2FCdk9ta3dpVU0wbk1xdGM2VnBxb0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Deutschlandfunk",
+   "region": "DE",
+   "date": "2026-11-13T22:12:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4468bb9698",
+   "title": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmhLVlY0c2tZMGZ4dGhLTTVkOFZ4enlITlRnOHJOVUFUaE4wbVdzZWoxTDQ5RmJYbXZuQ2NPVGtIUU84bXhsbFo4SDA2bVIwVlFUbDgyT1pnVm5HOWVkb183Z3k5cm5qT3J4YTI5SUltWVRoT1lDeGFyYjZFd1F6cm9sWXVpNXlfdU5STWZkLUZ2M1hhQU8xS2tucmlHZkFTQVdrWEtFQ05LaVBIOUtMcVBabEctaXBKNmxMeS1yaTViZVh5bmRXZ01mSjhTeXhTRUhhalVFa3dUWlY4cXBZY1FQRU9wbnNhUDB3ZnlLVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-13T21:59:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6b3c4be3fa",
+   "title": "Massive Störung bei Microsoft ging auf Netzwerk-Upgrade zurück",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFXWGRlQklYU3BGYXU4MFhmeVY5VEN0dExuaVpSVHVmM0VDYk9UTWF5cm80RlFYNDlhcHN4MkM0NTQxRTNWVy1FX01WQldFM1RDd3FLY0FaalVuUExqdEx1bFJXLVd4YVZ6UkJvMkI1ZzEySWhnM1Z0RFRVYVRSQ3hRdzh0eG14bEpaU0JrbHdEY0k0cVNpc3pGOG9rSmM0NHNsN0xDM3FVektMMUh2ZnN0dUlkQXU0X3g2QlNDU1dEWGdoMTZtTUZwVE5INFZLMDhfOEpSakg5S0NFenRR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RND.de",
+   "region": "DE",
+   "date": "2026-11-13T21:07:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "bf0a8aa532",
+   "title": "Wie GTA aus Fehlern, Provokation und Skandalen entstand",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVExU29TSDZJMG8xMVo5Sl9Id3FuamM3elVWTTR0NHZZb09nWTFnTnE2Wkd5em5nMlNsWlkyYU9za1FnX0p4WWt2UUVNNzZzMjRUanM3NDk2QXVoSkgxSWM4dVVXRFpKdTBNaEoxVGF1dEg2M0hYcHVhVDBtS2t5eEd5U2xfUWhwS2Q2dFA4QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "it boltwise",
+   "region": "DE",
+   "date": "2026-11-13T20:38:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1a8b4e8a05",
+   "title": "Zu dick, zu schlecht gekleidet? Andrea Ballschuh spricht über bitteren Moment ihrer TV-Karriere",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFQwLTR6LU9UcXlBWTVhR0V1Zl9GOTE0S2xLMW9pTHBkek40SFpsWG5lV0JrQXVBV1dJdlhuYnU3M3Y3b01ELVFUaGJ0SDRGZ0FGOFVxbl9XQ2lENlNrUnYweEpvQ2pOTGpzd0tJamh6ZHdTdkpvVDFZQWhLSHU2ZGR2akMzaGpTMzlIVEFydDgyVS1qXzVpcnZLY2U0SFIwT1NGRHg3bmVZbEM4LUt4UU43dDM4cDJXQU8tTUREbkI5WG1raFVBTE9xUWJWYWNJZ1BFMG9DYWR3b0VNUkRocUVyVmM2OHV1cTFz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTL.de",
+   "region": "DE",
+   "date": "2026-11-13T20:28:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dce371f8de",
+   "title": "Mecklenburg-Vorpommern: Linke stimmt Koalitionsvertrag in Mecklenburg-Vorpommern zu",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdElSRDEtZWV0ajB1d0hreG8yRUFyenl5Z2dfUkQyYkxROVhlakI0aW85NmJPZHNQTEtiNTJ5ZDlSOWNtbFQzTEZJc25wRFR3RVdjLVJCempMR2pRYUFYN2pwbjZ4dklvbll5WnQ0WlRENUMwTFpUWExOTTdDcDBaVF80OTBWRXJ1cjN0WVh3Ml9GMFpkSEU2d2EwRzZmYWFZd0RkTWhkMFFGOGNnV0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-13T20:07:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9accf11d41",
+   "title": "Nations League - Niederlande vs. Griechenland heute live im Ticker: Elftal empfängt starke Griechen - Liveticker",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUxuX2NtS2c5TzdDNUJIc3N4M0lhOTAxTjNwS1RnMkFPR0ZDRVNVTWxWS0h5cnNTUkl3RXhSTTU2X3dTdi1xQUtXMTJlWmoxbUFGS3IzY1hidmdtQ1FvSDJGUnFjelBHaTNBd20xLXZDblhhLTY1MWNLbmNSVExRNUVyelN0LUlXWk16dy1UaGg4Snk5eGkzUjh5UnhSWEkwenQ2MktXOVFzQUhFOVJCTTFGYzg4aS05bmQ3Mk5rWWtLajNpYlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Eurosport",
+   "region": "DE",
+   "date": "2026-11-13T19:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9637354acb",
+   "title": "Gina-Lisa Lohfink: Eine missglückte Beauty-OP macht ihr immer noch zu schaffen",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVBGcFZSTEJ4YldIWHFTb2RtNHg4aXJmZ0ZJSE1LUlVzdlFwYWpJRmVZQXlCQjBiSjFFVGl4cTE0UlZwNXNlempHYWhBWGRPZ0FjcldEZ09MenFzS1A3MU0ta2RkV2RQUlVWU0ljWnRBd2xUcE5aWTBwR2FyaFZ5SDZUS29XUFhiZjBLRm5OMzY3UXlKZkJaeHBXLWZ0MFAxNmNJSFRkOGNOY1VJRDNYSTFqTnBGdVhyRTYzUzlrZVRRWFlHSW9wNTd0Y29KTjJE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GALA.de",
+   "region": "DE",
+   "date": "2026-11-13T19:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e79ff2d614",
+   "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sc3BrSFpmNm5YLTV6UXpKU0E5ZEVMQVpGWHhkaVpmZUhNa0plWkVXRml6d0hWdWg4NnhZNHRnSFFLY1Q0TktqWWJlZXdrM2l6UlVxeDNTNmFHa2JuNXc5czJ3NHhHWl9YaFBiVTZicmNzcEVvWWRWSExNTFF1VUk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "tagesschau.de",
+   "region": "DE",
+   "date": "2026-11-13T18:44:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d1c72f695e",
+   "title": "„GTA VI“: Wie ein Spiel zum globalen Phänomen wird",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTAxeS1UbE9zUTRwU3UySHVjZXdXRXk5WEFiUUJFTjBVUTVsWjREelQwbjJtQmkxUHBZUHFLcnhWcWFCbkVEb2xKUUYweEtuMnl0WkZqYXZUY1hBcTVRZkRNWjBfaUNTZTVYZWFCeWVnTlIzNmx6eW5xSlVQREh3VFpkQWFTVC1NZndzazVmVlhGd0IxU0pmc3FLS1A5UFNK?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GrenzEcho",
+   "region": "DE",
+   "date": "2026-11-13T18:39:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bcd76394d5",
+   "title": "Video-Clip aus Doku-Film: Thunberg lacht deutsche Fridays for Future aus",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNa2otMm9fMUxGZVVwSWNSN0hBRTROb3NLLUQxUHdYTDdCVldtX1AxYkF5UzF0dnlYdnVWSVZ5bXdJVml3M2J2aXM0a2xxRElpYXp6RlVybklING9TNFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "taz.de",
+   "region": "DE",
+   "date": "2026-11-13T18:22:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a45d38e6e5",
+   "title": "Bereit fürs Upgrade? Samsung S26 in der Vodafone Black Week",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmE2a3JGMW8wMXUzeDJiaVd3eVhWT0daaWVKd3hxajhRa2syTExYZXVlNlFtNUxrY2Nva0hSRV9DYjV0NzZPT0c4bkh2bEtDNmM0cEk0ZzJfTkhpOUZwZFNnQW1fSkI0djJLY0g4MFZPZzFid0ZkZFhfSlVZRWxrTTk3aExtcGNES09hcnE2Q0g2d1VzbWVBVDdR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SMARTWEB.de",
+   "region": "DE",
+   "date": "2026-11-13T18:20:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cb3686b1f9",
+   "title": "\"Jalta 2.0\" in China?: Trump macht Putin mit Dreier-Gipfel ein Geschenk",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2phUU9FeEJsdEVXTEJUWU5VWkZ2NmdPVmlEdXh0dVJfSEVub0pLX2xNQ0FtbVlhSnpiUmJQa0FBeEdjSm9UUkl4UVlvc1RsZU5QcnVJdkhrY0V5LTFBcUllWmVyRUl1dTdZV2MzRXZFYmFTZmJoOEN4U0lPMWlSYmttcENjNlBXME9OUUVWeVV5OFFXaDVr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-13T16:33:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇺🇸 🇷🇺",
+    "also": [
+     "United States",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2d65af039f",
+   "title": "Mehr als 200 Hinweise im Fall Lisa T. Obduktionen von Mädchen und Tatverdächtigem sind abgeschlossen",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOemRjU0ZPdDdlS19iSTVkQmJ3bmlKZC1ZVVNjbkgyUzFOcFBBbWczSnhtanhMSTRnWS04ZTE1YTJJZzJtT2dwSlZNeUU4aHdhZ1dUa1luclpUUEUxcTJPWnVmMk9DT3lpWGN2ZkdmV0o1WlgxX2VzdkVueC1kMUtnVEktZnNFZVd2cmJJNVNSSDgzQ3Q1Z0puVkFwcWtsMlBKUGI5NllOS2VIc09meF9seFFXZkdvQ21RUE1UOWkyRFAxWTRKQmxzR05tVmh3QVdnN09GdmlraTJNZ0hSZUFteXln?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T16:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3c279d77e5",
+   "title": "Systemische Sklerose: Stammzelltransplantation ermöglicht häufig langfristige Krankheitskontrolle",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeHFsb2g3cWpjNTdvSllMdW9nRmVYUVpVZTRDbXdDUUhUNmNnYkpRRURfLXFuc3B0NEhWaERDekI1U2ltZ2h4ZDV4RUw5MVhHMW9zQUpLMmwtMldqQlFGaG5mOE1mZTFPbGNCUDZuNnZjdnBSMXZyQ1IxNlJYVGxiODdIQVZDcDU5VzVFMDlEdkNkSEUwUllnTG5JVjZoamRPS1BiUHhTRU44Rl9DdnNfNjlXRnpibk81M2VINkVOSTFNcHpWMWtOMVlpdGJKb0NGVmFJd2JFLXRCbVhYSjhOSnQ2bFVOYklXNjR4Sm1BZFplVmJQUTlwNg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Deutsches Ärzteblatt",
+   "region": "DE",
+   "date": "2026-11-13T16:13:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b5d8dcb79a",
+   "title": "SpaceX: Musk plant nächsten wichtigen Starship-Testflug - Aktie tiefer",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajRBQ1hQMFhyNHA0R05vbHNUbVpGR2hDakczeTNtUFZpdDM1Ny14SHhLd1JpZ0EtM2VEQWs5cXR0NV9sSGszekUxMGdpel9NRHZYZkRwOWxqOTlWYU9hRnJleFJWYmlhWEVTeGZtRV90SEhaYVZ5bXVpM3RUN2tGa1FCekFJYTRTLUYtZWowUEN1VG5wR1pz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Finanzen.net",
+   "region": "DE",
+   "date": "2026-11-13T16:04:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7679754b3d",
+   "title": "Besser als BMI: Neue Adipositas-Definition bewährt sich",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkllLXRqZUJPSnNBaFM0eFRfMU9Sb1dMc21LRHF6bFZLdEVwcUh6SnlKV05sQ21LeU9xdnlvOUJXUGlsUThPZlZjdDRvU0swUnVFM0hmVThGZEI5X3k1TUI5LUhsdVZRUUpwZHdlV1pVUG4zUEpCeUN3UmRaZ3hOVl9JbE9TbjZnN051U2p5MXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Pharmazeutische Zeitung",
+   "region": "DE",
+   "date": "2026-11-13T15:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1369a50844",
+   "title": "„Ebenezer“ im Kino: Johnny Depp bittet um Vergebung",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMngzVU4yWXQydllYOTJRZldIOVQzUzVRM1UwajBWcUg0dllUVHV3bXd2ZU45YmZCMU1rRkNIWjg3dTY4QVZyOXJVT1lNX0Z2a0lyZzhUXzFkVUFPYURGcHhNMWxyVnJwaHNaS1FVSld2OWticzZWSlg2QzlmNXMta0FtZG9YV2ZtQXphdUVrRlhJSnlkdEpmbUJTclBCYnBIZUNyQU5UaHl4YXlpcHdEaFNCS2RiZ1JD?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-13T14:38:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bd0d1b4f2d",
+   "title": "„Hat ordentlich geknallt“ Wut in der Union – Merz will Stromsteuersenkung wohl noch im Koalitionsausschuss durchboxen",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0JYbDdSSFNvaUFmVURHSGtmenJvbWxFODR0eTlIRUpDTjYyRV9LUENsZEIyVUNzWVBITTN5ZXc0bHlWMG5CWHdoS1hKZVlCUDE5SnJYWmN5VE8xRWpmYVMxamhsQ2lVRUJpRG5qZFU0cHE0Z0Fna2V2dzVySmk3cVRKSWJaM21qTTJvQi1rQ3Y2MHpJQkxON2pmeGFWV3RRbmpsZlVjWmtyLUNEZjJkdHhLY1lmT2NJNnRGLTVub3k3eEVYUEY4andpbDVMY1A0TUJySGNZa2V4c0JYM3lxN01VdWlWaXJNTmxYTktQZFh1NDNsNEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T14:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3b50d03676",
+   "title": "Biograf des geschassten Nvidia-Chefs „Tobsucht und Narzissmus – Trump und Jensen Huang haben viel gemeinsam“",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSV94OGxpNm5XQ3kyLXhWZ2lLby1kN3h3YU5XLS15amdtYVVOdXU5Vm1na0JQWXJ1Qm5ldGYyRzg3bWZxcHAtUnFPTXBOMEpYZXZwUUtDMFV0NGRmM2RKeDRnc3pUNm5zSXlKSWR4blAxWk5tVFdEN0h6eVJtM0hrMnROZkU2UHp4UkcxMGpTUFZyU1Utc1lFc01Ra2cyTmIyR3Q2REZEWnhGbWZWRG9SSnhLdzNTTm0yeDJkWE4ycEVzc3ZBeV9mV3cwWi1qbm1uVHJ3Q3FUN1ZiMHh6S283cERMbzlGczFta3FHeDZydzE4N05tTHY2bkV1c3lUb081Y1dv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T14:10:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "715cbd1612",
+   "title": "Gesetzespaket: Bundestag beschließt „Jahrhundertreform“ für Geheimdienste",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWhyMGFrRDFfcWxiand5RGxIQW1ScHllY0NITDc4NVp3SENORWdRRXhVVzVKWUpaNjZ3T3N6OXNOUHJFaXlyNHZmRjlvRFplUkFabGpPdkhmNkUtbmNLZ2NxUGl2OTRLSVJVVDJhZDQ4ckdKTDZhc2JQUk9sM0FsSXc3OXVlOS0zYXRoeWppd29aTXVjcHZPYk96Qkk4NXd6WmRBenNTRU8yWXoxZFNmbGxFVkpCMUYwTzBpT3BuSXRtY2ZaVlVreml5V01WeEVfYWpVRF9zd0hrZ2RYaTNLYUk2dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-13T12:51:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4df15f133e",
+   "title": "Serientod bei \"Die Bergretter\" bringt dem ZDF Quotenrekord",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWotTEVpUEUxS3NVZjlaYjFJTGF3YzhqX1dsQ1JweVlMUHlTbjM2bnNKZy1XYktkV3FBTWpfZDlKei12QVdYLWJudWlVREo1SW94cEQ3T255TVNXZXBvZVpEeEZhTnFCZHBUcTZsaTZhWTUwVHFnbHo5QkV2ZDVNVDg5WXFJX0RnOV9RWGs5X0JScEJ5Y2pwT251V2ZhMkFZN3dnRVhtY25sWmhOTklCMGVwZ1dwRmM4RXlJcjhiVVFldnIxXzV6bEJ3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "T-Online",
+   "region": "DE",
+   "date": "2026-11-13T11:49:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "109a8b5e1b",
+   "title": "Demenz vorbeugen: Warum gutes Hören und Sehen das Gehirn schützen können",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMG8wTDhfdHZ2Z0VQX2YxZXFZRFdPZGp3N2sxUjd3OWcyTDcxcVl1NHB1U2lrY0dGT3oxUjFvV0pQVlp6X2JXSDJRM2FUbE9ycUxMdWpVUGVCYnZQRW9COEpBa0Npa0pxOEE2MTQ3WHBiUjJZUTh0QWQwcTAyb1BOUmYxcUxTMEdxRG5SOU5UQ1pic29XREpDSWtIZXg0TzBDZi1wUTE4cHVmS0NkMGdhay1BU3FWZzM1WnBIOUpGR0ItMVNfR1F3dmRhTE5CdGM2ZmlsR3RXaFJMbmpULVkxcDg1Y2RZSHNhYzF0em9adHBoMHItTG9HUlZ0UmRHWE1xR3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "mgo medizin",
+   "region": "DE",
+   "date": "2026-11-13T10:20:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "abfa544bdf",
+   "title": "Krebs: Viele unterschätzen diese Gefahr - 200.000 Fälle pro Jahr wären vermeidbar",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbS1GOTU0cHhtb0tCcEtEb05EaHprVUEtMUs1Rjh2TE9nQXB2dzc0ZXlNSjFMT29kVXJHWUg2Q3UwTWd3U01IYldtcWkwYVpvVFUzbDdFUi1ySWNFbzNlWGU1ZTlqVWdldnhwZlJwR05VZEpuZ1pGTDJJSTlMWkNRV21IVVVrblppYm1nd2JuQ1JVUHl0NXlVdGNXeGw4bEdHN1lLOHBXbUw2TjU1Vld1TjBmbEJueGNoNTlsTGRCUEpPMjBFN3A0T2lVSUVzd0N3a0Y3THFaWFNIQ3otaEZz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-13T07:26:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fb299da76f",
+   "title": "Nach lautem Lachen an Denkmal: Soldat brüllt Gruppe um US-Minister Hegseth an",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUVCVGdEbkZ6bkFxTnl5TzJMOVJLYWJYV2ZiNTU5OHdWSzFtcm5aSGltb2tUY1UybzhyQUVUb1RXZlp2SmlyNjh1dmp6NWplQXVwOEkxQW14blBkSjRBbU1EUVU1T0xpQlVoM05xY3BuT3pzN0NaaXc4RFVCdnhLMDk2NE94cFBIdE13UUpqUmtNRTBYdlh5ZnZkVEZ6WjVKeDlYLTNiN2Q2eVllTUlkd3pERDgza2tlSVBINQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "STERN.de",
+   "region": "DE",
+   "date": "2026-11-13T07:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fcf72ba7a8",
+   "title": "Regierungsbildung in Berlin: Banaszak sieht «hoch integre Leute» in Berliner Linke",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUxZT1MzSE1HV2RiM2pubXBZRVRnZXptWVdUYk9BVFRZUl9DbVhhc0RPSmI3ZTdPUG5vRGVkT050RjdLclNFT25mS2tFckxhVzVLcnEtUmtCWDNsM0FzWXpScU9YM09JdUdESXkxeFZrVkJhN20tZ1JUUlRkeS0yMm9KZ21mZHh3SnJMaXJOeWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-13T00:00:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "35a7edd65e",
+   "title": "(S+) Wie die Demokraten Pete Hegseths Impeachment verkorksten",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXRpR05YeVBRUXlYNHhkQjM0cTNuVFRsTFh3UENqU2tINnVCdnVadS1GRVliQjRmZ0NjNEdOcDBBQWJTT2VRSmRTSjZZOTJtRG5ZTVgwMDNtUUp1bnZVTklTVWo2NTNUTW1aa2hSSU5ScDEtTG02NEg2Mm1iTmZRa3NCVkRnZW1HMmk3empGUlFrWHBXRkJHX09sZ1pMc2pqb0NsSm4wWXhlMzA4YUpVWDluQjhrQkZ6N1NyMTR4VDFoa1VDVU0yRVBaT0Q0dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-12T11:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d558f2d9f0",
+   "title": "Die Hölle von Gaza: Eine Doku erzählt, was Ärzt:innen mitansehen mussten",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTBsTGNtNk1ldjRfUlZXdmN4RV9JSTJvUDNMN0tGVXJPSk9vbEdoR05xVloxQWh2MnRfVXR6c1cwYktXWU1FU0h6dXMtVkhkS1NkeDJZUzZJN2UwMVNRMzVrWUhtZ1FjZm1wc2w0R0EyNG1pbzRYZmNKMl9MQ1hQZ0ZMcXZiNlV0eTZZamJZaTJfMks0OTVQLUxfYURuQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "taz.de",
+   "region": "DE",
+   "date": "2026-11-12T11:13:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Palestine",
+    "place": "",
+    "flag": "🇵🇸"
+   },
+   "topic": "Society"
+  }
+ ]
+}

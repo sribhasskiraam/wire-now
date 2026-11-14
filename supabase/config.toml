@@ -1,0 +1,15 @@
+# Minimal settings for the Wire Now "push" function.
+[functions.push]
+verify_jwt = false
+
+[functions.summarize]
+verify_jwt = false
+
+[functions.translate]
+verify_jwt = false
+
+[functions.facts]
+verify_jwt = false
+
+[functions.check]
+verify_jwt = false

@@ -1,0 +1,1306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wire Now — Sri Lanka news in 30 seconds</title>
+<meta name="description" content="Sri Lanka and world news as quick swipe cards. Know what happened in 30 seconds.">
+<meta name="theme-color" content="#FF6B4A">
+<link rel="manifest" href="manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Wire Now">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:image" content="logo.png">
+<meta name="google-site-verification" content="NjE4oWu6vCxNB0jU_uby--yRorWmMFBxETh2NLn3I9I" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#FFF8F3; --card:#fff; --ink:#1E1B2E; --muted:#6B6880; --line:#F0E6DE;
+    --acc:#FF6B4A; --acc2:#FFB23F; --soft:#FFE9E1;
+    --Politics:#6C63FF; --Economy:#00A884; --Business:#0091EA; --Sports:#FF8F00;
+    --Tech:#7C4DFF; --Health:#E91E63; --Weather:#0097A7; --Entertainment:#D81B60; --Astrology:#5E35B1; --Society:#8D6E63;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{margin:0;font-family:Nunito,system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+  button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
+  a{color:inherit}
+
+  /* header */
+  header{position:sticky;top:0;z-index:5;background:rgba(255,248,243,.94);backdrop-filter:blur(8px);padding:12px 16px 6px}
+  .top{display:flex;align-items:center;gap:10px;max-width:720px;margin:0 auto}
+  .logo{display:flex;align-items:center;gap:8px;font-weight:900;font-size:22px;letter-spacing:-.5px}
+  .bolt{width:36px;height:36px;border-radius:12px;background:linear-gradient(135deg,var(--acc),var(--acc2));display:grid;place-items:center;font-size:20px;box-shadow:0 4px 12px rgba(255,107,74,.35)}
+  .stats{margin-left:auto;display:flex;gap:6px}
+  .pill{background:var(--card);border:1.5px solid var(--line);border-radius:999px;padding:5px 10px;font-weight:800;font-size:14px}
+  .tg{background:#229ED9;color:#fff;border-color:#229ED9;text-decoration:none;display:none}
+  .tabs,.topics{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;max-width:720px;margin:10px auto 0;padding-bottom:4px}
+  .tabs::-webkit-scrollbar,.topics::-webkit-scrollbar{display:none}
+  .tab{flex:none;padding:8px 14px;border-radius:14px;font-weight:800;font-size:15px;background:var(--card);border:1.5px solid var(--line)}
+  .tab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .topic{flex:none;padding:5px 12px;border-radius:999px;font-weight:700;font-size:13px;background:var(--soft);color:var(--ink)}
+  .topic.on{background:var(--acc);color:#fff}
+
+  main{max-width:720px;margin:0 auto;padding:8px 16px 60px}
+  .hello{background:linear-gradient(135deg,var(--acc),var(--acc2));color:#fff;border-radius:22px;padding:16px 18px;margin:8px 0 16px;display:flex;align-items:center;gap:14px;box-shadow:0 8px 24px rgba(255,107,74,.25)}
+  .hello b{font-size:18px;display:block}
+  .hello span{opacity:.92;font-size:14px}
+  .hello .big{font-size:38px}
+  .upd{color:var(--muted);font-size:13px;margin:0 2px 10px}
+  h2.sec{font-size:17px;font-weight:900;margin:22px 2px 10px}
+
+  /* feels like an app (like WhatsApp): only the news itself can be selected and copied, no tap flashes,
+     no double-tap zoom, no browser menus on long-press, no accidental pull-to-refresh */
+  html,body{overscroll-behavior-y:contain}
+  *{-webkit-tap-highlight-color:transparent}
+  button,a,.story,.topic,.pill{touch-action:manipulation}
+  img{-webkit-user-drag:none;user-drag:none}
+  body{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+  .actbar{position:fixed;left:12px;right:12px;bottom:calc(14px + env(safe-area-inset-bottom));z-index:70;display:flex;gap:8px;padding:8px;border-radius:18px;background:var(--ink);box-shadow:0 8px 30px rgba(0,0,0,.25);animation:up .15s ease-out}
+  .actbar button{flex:1;color:#fff;font-weight:900;font-size:15px;padding:12px 4px;border-radius:12px;background:rgba(255,255,255,.08)}
+  .story.held{transform:scale(.97);box-shadow:0 0 0 3px var(--acc)}
+  .installbtn{display:none}
+  .checkbtn{display:block;width:100%;text-align:left;margin:0 0 14px;padding:14px 16px;border-radius:22px;background:var(--card);box-shadow:0 2px 0 var(--line)}
+  .checkbtn b{display:block;font-size:16px;font-weight:900} .checkbtn span{display:block;font-size:13px;color:var(--muted);font-weight:700;margin-top:3px}
+  .chkbox textarea{width:100%;min-height:110px;border-radius:14px;border:2px solid var(--line);padding:12px;font:inherit;font-size:16px;background:var(--bg);color:var(--ink);resize:vertical}
+  .verdict{margin-top:14px;padding:14px;border-radius:16px;font-weight:800;line-height:1.45}
+  .verdict .v{font-size:18px;font-weight:900;display:block;margin-bottom:6px}
+  .v-confirmed{background:#e3f6ec;color:#1b6b45} .v-false{background:#fde7e4;color:#a12b1d} .v-misleading{background:#fff3d6;color:#7a5200} .v-unverified{background:#eef1f3;color:#455a64}
+  .verdict a{display:block;margin-top:6px;font-size:13px;color:inherit;opacity:.85}
+  .story .t,.story .b,.sc .txt,.sc li,.sc p,.cover h1,.quote,.fc .q,.src span,.rates .r span{-webkit-user-select:text;user-select:text;-webkit-touch-callout:default}
+  input,textarea{-webkit-user-select:text;user-select:text}
+
+  /* story list */
+  .story{display:block;width:100%;text-align:left;background:var(--card);border-radius:22px;overflow:hidden;margin-bottom:14px;box-shadow:0 2px 0 var(--line),0 6px 18px rgba(30,27,46,.06);transition:transform .12s}
+  .story:active{transform:scale(.98)}
+  .story .img{height:170px;background:var(--soft) center/cover no-repeat;position:relative}
+  .story .img.none{height:auto;background:none}
+  .icv{display:flex;align-items:center;gap:14px;padding:16px 18px;min-height:96px;background:color-mix(in srgb,var(--tc,var(--acc)) 14%,var(--card))}
+  .icv .ib{flex:none;width:62px;height:62px;border-radius:50%;display:grid;place-items:center;font-size:30px;font-weight:900;color:#fff;background:var(--tc,var(--acc))}
+  .icv .l1{font-size:13px;font-weight:800;color:var(--muted)} .icv .l2{font-size:17px;font-weight:900;color:var(--ink);line-height:1.2}
+  .cover .ci.noimg .icv{background:none;padding:0;min-height:0;flex:1} .cover .ci.noimg .icv .l1{color:#fff;opacity:.9} .cover .ci.noimg .icv .l2{color:#fff}
+  .cover .ci.noimg .icv .ib{background:rgba(255,255,255,.25)}
+  .ovl{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(rgba(20,18,28,0),rgba(20,18,28,.78))}
+  .ovl .icv{background:none;min-height:0;padding:34px 14px 12px;gap:10px} .ovl .icv .ib{width:46px;height:46px;font-size:22px;background:rgba(255,255,255,.92);color:var(--acc)}
+  .ovl .icv .l1{color:#fff;opacity:.85;font-size:12px} .ovl .icv .l2{color:#fff;font-size:15px}
+  .tag{display:inline-block;color:#fff;font-weight:800;font-size:12px;padding:3px 10px;border-radius:999px}
+  .story .img .tag{position:absolute;left:12px;top:12px}
+  .story .body{padding:12px 16px 14px}
+  .story .t{font-size:18px;font-weight:900;line-height:1.25;margin:4px 0 6px}
+  .story .b{color:var(--muted);font-size:14.5px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .meta{display:flex;align-items:center;gap:8px;margin-top:10px;font-size:13px;color:var(--muted);font-weight:700}
+  .quick{margin-left:auto;background:var(--soft);color:var(--acc);padding:4px 10px;border-radius:999px;font-weight:900}
+  .read .t{color:var(--muted)}
+  .empty{text-align:center;color:var(--muted);padding:50px 20px;font-weight:700}
+  .empty div{font-size:46px;margin-bottom:8px}
+  .nums{display:flex;gap:10px;margin:0 0 14px;overflow-x:auto;scrollbar-width:none}
+  .num{flex:1;min-width:150px;background:var(--card);border-radius:18px;padding:12px 14px;box-shadow:0 2px 0 var(--line)}
+  .num .k{font-size:12px;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+  .num .v{font-size:22px;font-weight:900;margin-top:2px}
+  .num .s{font-size:12px;color:var(--muted);font-weight:700}
+  .top5{background:var(--card);border-radius:22px;padding:14px 16px;margin:0 0 14px;box-shadow:0 2px 0 var(--line)}
+  .top5 h3{margin:0 0 6px;font-size:16px;font-weight:900}
+  .top5 button{display:flex;gap:10px;width:100%;text-align:left;padding:9px 0;border-top:1.5px dashed var(--line);font-weight:800;font-size:15px;line-height:1.3}
+  .top5 button:first-of-type{border-top:0}
+  .top5 .n{flex:none;width:26px;height:26px;border-radius:9px;background:var(--acc);color:#fff;display:grid;place-items:center;font-size:14px}
+  .cov{color:var(--acc);font-weight:900}
+  .badge{display:inline-block;font-weight:900;font-size:12px;padding:3px 9px;border-radius:999px;color:#fff;margin-right:6px}
+  .badge.brk{background:#D32F2F} .badge.wrn{background:#F57C00}
+  .warnbox{background:#FFF3E0;border:2px solid #FFB74D;border-radius:20px;padding:12px 14px;margin:0 0 14px}
+  .warnbox h3{margin:0 0 6px;font-size:16px;font-weight:900;color:#E65100}
+  .warnbox button{display:block;width:100%;text-align:left;padding:7px 0;font-weight:800;font-size:14.5px;line-height:1.3;border-top:1.5px dashed #FFCC80}
+  .warnbox button:first-of-type{border-top:0}
+  .fb{display:flex;gap:8px;width:100%} .fb a{flex:1;padding:10px 6px;border-radius:14px;background:var(--soft);color:var(--ink);font-weight:800;font-size:13px;text-align:center;text-decoration:none}
+  .mycountry{max-width:720px;margin:6px auto 0;position:relative;font-size:13px;font-weight:800;color:var(--muted)}
+  .mycountry button{color:var(--muted);font-weight:800}
+  .mycountry select{position:absolute;left:0;top:0;opacity:0;width:220px;height:100%}
+  .startbtn{margin-left:auto;flex:none;background:#fff;color:var(--acc);font-weight:900;font-size:16px;padding:10px 16px;border-radius:14px;box-shadow:0 3px 0 rgba(0,0,0,.12)}
+  .upnext{opacity:.85}
+  .loc{font-size:13px;font-weight:800;color:var(--muted);margin:2px 0 -2px}
+  .more{display:block;width:100%;padding:14px;border-radius:16px;background:var(--card);border:2px solid var(--line);font-weight:900;margin:4px 0 10px}
+  .share3{display:flex;gap:8px;width:100%}
+  .share3 a{flex:1;padding:12px 6px;border-radius:14px;color:#fff;font-weight:900;font-size:14px;text-align:center;text-decoration:none}
+  footer{max-width:720px;margin:0 auto;padding:10px 16px 40px;color:var(--muted);font-size:13px;font-weight:700;text-align:center}
+  footer a{color:var(--acc)}
+
+  /* story viewer */
+  #viewer{position:fixed;inset:0;z-index:20;background:var(--bg);display:none;flex-direction:column}
+  #viewer.open{display:flex}
+  .vbar{display:flex;gap:4px;padding:12px 14px 6px}
+  .vbar i{flex:1;height:4px;border-radius:4px;background:var(--line);overflow:hidden}
+  .vbar i b{display:block;height:100%;width:0;background:var(--acc);transition:width .25s}
+  #viewer{touch-action:manipulation}
+  .sheet{position:fixed;inset:0;z-index:60;background:rgba(20,18,28,.5);display:none;align-items:flex-end;justify-content:center}
+  .sheet.open{display:flex}
+  .sheetbox{background:var(--card);width:100%;max-width:560px;max-height:80vh;overflow:auto;border-radius:22px 22px 0 0;padding:18px 18px calc(18px + env(safe-area-inset-bottom));animation:up .2s ease-out}
+  @keyframes up{from{transform:translateY(40px);opacity:.4}to{transform:none;opacity:1}}
+  .sheetbox h3{margin:0 0 4px;font-size:17px}
+  .sheetbox .src{display:block;border:1.5px solid var(--line);border-radius:14px;padding:10px 12px;margin-top:8px;color:var(--ink);text-decoration:none}
+  .sheetbox .src b{display:block;font-size:13px;color:var(--acc)}
+  .sheetbox .src span{font-size:14.5px;font-weight:600}
+  .sheetbox .quote{background:var(--soft);border-radius:14px;padding:12px;margin:10px 0 4px;font-size:15px;line-height:1.55}
+  @media (max-width: 420px){ #streak{display:none} .logo{white-space:nowrap} }
+  .ratebox{cursor:pointer}
+  .rates .r{display:flex;align-items:center;gap:10px;padding:9px 2px;border-bottom:1px solid var(--line);font-weight:700}
+  .rates .r b{margin-left:auto;font-size:17px}
+  .rates .up{color:#2e9e6a;font-size:13px;min-width:62px;text-align:right} .rates .dn{color:#d84a3a;font-size:13px;min-width:62px;text-align:right} .rates .eq{color:var(--muted);font-size:13px;min-width:62px;text-align:right}
+  .chart{width:100%;height:150px;display:block}
+  .chips2{display:flex;gap:6px;overflow-x:auto;margin:8px 0;scrollbar-width:none}
+  .chips2 button{flex:none;border:1.5px solid var(--line);background:var(--card);border-radius:999px;padding:4px 10px;font-weight:800;font-size:13px}
+  .chips2 button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .numgrid{background:var(--card);border-radius:20px;padding:14px;margin:0 0 14px;box-shadow:0 2px 0 var(--line)}
+  .numgrid h3{margin:0 0 8px;font-size:17px}
+  .numgrid button{display:block;width:100%;text-align:left;background:none;border:0;border-top:1px solid var(--line);padding:10px 0;font-size:15px;font-weight:700;color:var(--ink)}
+  .numgrid button:first-of-type{border-top:0}
+  .numgrid .src{color:var(--muted);font-size:12.5px;font-weight:700}
+  .listenrow{display:flex;gap:8px;margin:-4px 0 14px} .listenrow .listenbtn{margin:0} .voicebtn{flex:0 0 auto;width:auto!important;padding:12px 14px!important}
+  .vlist button{display:flex;width:100%;text-align:left;gap:10px;align-items:center;padding:11px 8px;border-bottom:1px solid var(--line);font-weight:700;color:var(--ink);background:none}
+  .vlist button.on{color:var(--acc)} .vguide{margin-top:14px;padding:12px;border-radius:14px;background:var(--bg);border:1.5px dashed var(--line)} .vlist .note{margin-left:auto}
+  .listenbtn{display:block;width:100%;margin:-4px 0 14px;padding:12px;border-radius:16px;background:var(--card);box-shadow:0 2px 0 var(--line);font-weight:900;font-size:15px;color:var(--ink)}
+  .fc{background:var(--card);border-radius:18px;padding:14px;margin-bottom:10px;box-shadow:0 2px 0 var(--line)}
+  .fc .q{font-weight:800;margin:4px 0}
+  .fc .d{background:#FFF4E5;border-radius:12px;padding:10px;font-size:14.5px;margin-top:6px}
+  .fc a{color:var(--acc);font-weight:800;font-size:14px}
+  .vtop{display:flex;align-items:center;gap:10px;padding:4px 14px 8px;font-weight:800;font-size:14px;color:var(--muted)}
+  .vtop .x{margin-left:auto;font-size:24px;width:40px;height:40px;border-radius:12px;background:var(--card);border:1.5px solid var(--line);color:var(--ink)}
+  .slides{flex:1;display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none}
+  .slides::-webkit-scrollbar{display:none}
+  .slide{flex:0 0 100%;scroll-snap-align:center;padding:6px 18px 18px;display:flex;align-items:stretch}
+  .sc{flex:1;max-width:620px;margin:0 auto;background:var(--card);border-radius:28px;padding:26px 24px;box-shadow:0 2px 0 var(--line),0 10px 30px rgba(30,27,46,.08);display:flex;flex-direction:column;overflow-y:auto}
+  .sc .emoji{font-size:44px}
+  .sc .lbl{font-weight:900;color:var(--acc);text-transform:uppercase;letter-spacing:.08em;font-size:13px;margin:10px 0 8px}
+  .sc .txt{font-size:20px;line-height:1.5;font-weight:700}
+  .sc .txt.m{font-size:18px} .sc .txt.l{font-size:16px}   /* longer text, smaller letters, never below 16px */
+  .sc ul{padding:0;margin:4px 0 0;list-style:none}
+  .sc li{font-size:19px;font-weight:700;line-height:1.4;padding:12px 0 12px 34px;border-bottom:1.5px dashed var(--line);position:relative}
+  .sc li:before{content:"✓";position:absolute;left:0;top:11px;width:24px;height:24px;border-radius:8px;background:var(--soft);color:var(--acc);display:grid;place-items:center;font-size:14px;font-weight:900}
+  .cover{padding:0;overflow:hidden}
+  .cover .ci{height:46%;min-height:180px;background:var(--soft) center/cover no-repeat}
+  .cover .cb{padding:20px 22px;display:flex;flex-direction:column;gap:10px;flex:1}
+  .cover .cb .tag{align-self:flex-start}
+  .cover .ci{position:relative;overflow:hidden}
+  .cover .ci img{width:100%;height:100%;object-fit:cover;display:block}
+  .cover .ci.noimg{display:flex;align-items:flex-end;gap:10px;min-height:96px;height:auto;padding:18px 22px;background:linear-gradient(135deg,var(--tc,var(--acc)),var(--acc2))}
+  .cover .ci.noimg .srcname{color:#fff;font-weight:900;font-size:22px;letter-spacing:.2px;text-shadow:0 1px 2px rgba(0,0,0,.18)}
+  .cover .ci.noimg img.wn{width:34px;height:34px;border-radius:9px;opacity:.95;flex:none}
+  .cover h1{font-size:26px;line-height:1.2;font-weight:900;margin:0}
+  .hint{margin-top:auto;color:var(--muted);font-weight:800;font-size:14px}
+  .end{align-items:center;text-align:center;justify-content:center;gap:12px}
+  .end .big{font-size:60px}
+  .btn{display:block;width:100%;padding:14px;border-radius:16px;font-weight:900;font-size:16px;text-align:center;text-decoration:none;background:var(--card);border:2px solid var(--line)}
+  .btn.main{background:var(--acc);border-color:var(--acc);color:#fff;box-shadow:0 4px 0 #D9512F}
+  .row{display:flex;gap:10px;width:100%}
+  .note{font-size:12px;color:var(--muted);font-weight:700}
+  .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(20px);background:var(--ink);color:#fff;padding:10px 16px;border-radius:14px;font-weight:800;opacity:0;transition:.2s;z-index:40;pointer-events:none}
+  .toast.show{opacity:1;transform:translateX(-50%)}
+  @media (min-width:700px){ .story .img{height:220px} }
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <div class="logo"><img src="logo.png" alt="" class="bolt" style="padding:0;object-fit:cover">Wire Now</div>
+    <div class="stats">
+      <select class="pill" id="langsel" aria-label="Language / භාෂාව / மொழி" style="font-weight:800;max-width:80px;padding:5px 4px"></select>
+      <span class="pill" id="streak" title="Days in a row">🔥 0</span>
+      <button class="pill installbtn" id="installbtn" data-i="install">📲 Install</button>
+      <a class="pill tg" id="tg" target="_blank" rel="noopener">Telegram</a>
+    </div>
+  </div>
+  <div class="tabs" id="tabs">
+    <button class="tab" data-v="foryou" id="fytab" data-i="for_you">✨ For you</button>
+    <button class="tab on" data-v="all" data-i="all">All</button>
+    <button class="tab" data-v="mine" id="minetab">🇱🇰 Sri Lanka</button>
+    <button class="tab" data-v="world" data-i="world">🌍 World</button>
+    <button class="tab" data-v="saved" data-i="saved_tab">❤️ Saved</button>
+    <button class="tab" data-v="factcheck" data-i="factcheck_tab">🔍 Fact check</button>
+    <a class="tab" href="community/" style="color:var(--ink);text-decoration:none" title="Talk about the news" data-i="community">👥 Community</a>
+  </div>
+  <div class="topics" id="topics"></div>
+  <div class="mycountry"><span id="likes"></span> <button id="countrybtn"></button><select id="countrysel" aria-label="Your country"></select></div>
+</header>
+
+<main>
+  <div class="hello" id="hello"></div>
+  <div class="nums" id="nums"></div>
+  <div class="warnbox" id="warnbox" style="display:none"></div>
+  <div class="top5" id="top5" style="display:none"></div>
+  <div class="listenrow" id="listenrow" style="display:none"><button class="listenbtn" id="briefbtn" data-i="listen_brief">🎧 Listen to today's top news</button><button class="listenbtn voicebtn" id="voicebtn" data-i="voice_btn">🔊 Voice</button></div>
+  <button class="checkbtn" id="checkbtn" style="display:none"><b data-i="chk_btn">🔍 Heard something? Check if it's true</b><span data-i="chk_btn_s">Paste a message or rumour. Wire Now checks it against real reports and fact-checkers.</span></button>
+  <div class="numgrid" id="numgrid" style="display:none"></div>
+  <div class="upd" id="upd" data-i="loading">Loading…</div>
+  <div id="list"></div>
+</main>
+<footer><a href="https://t.me/wirenow_news_bot?start=tip" data-i="send_news">📣 Send us news</a> · <a href="community/" data-i="community">👥 Community</a> · <a href="about.html" data-i="about">About Wire Now</a> · <a href="sitemap.xml" data-i="all_stories">All stories</a> · <span data-i="footer_note">Summaries are written by AI from the original reports and fact-checked. Always see the source for the full article.</span></footer>
+
+<div id="viewer">
+  <div class="vbar" id="vbar"></div>
+  <div class="vtop"><span id="vsrc"></span><button class="x" id="vlisten" aria-label="Listen" style="margin-left:auto;display:none">🎧</button><button class="x" id="vsave" aria-label="Save" style="margin-left:auto">🤍</button><button class="x" id="vshare" aria-label="Share" style="margin-left:0">📤</button><button class="x" id="vclose" aria-label="Close" style="margin-left:0">×</button></div>
+  <div class="slides" id="slides"></div>
+</div>
+<div id="sheet" class="sheet"><div class="sheetbox" id="sheetbox"></div></div>
+<div class="toast" id="toast"></div>
+<div class="actbar" id="actbar" style="display:none"><button data-act="copy" data-i="act_copy">📋 Copy</button><button data-act="share" data-i="act_share">📤 Share</button><button data-act="save" data-i="act_save">❤️ Save</button><button data-act="x" aria-label="Close">✕</button></div>
+
+<script src="community/config.js"></script>
+<script>
+const COUNTRY_BY_CODE = {"LK": "Sri Lanka", "IN": "India", "PK": "Pakistan", "BD": "Bangladesh", "MV": "Maldives", "NP": "Nepal", "AF": "Afghanistan", "CN": "China", "JP": "Japan", "KR": "South Korea", "KP": "North Korea", "TW": "Taiwan", "HK": "Hong Kong", "SG": "Singapore", "MY": "Malaysia", "ID": "Indonesia", "TH": "Thailand", "VN": "Vietnam", "PH": "Philippines", "MM": "Myanmar", "KH": "Cambodia", "AU": "Australia", "NZ": "New Zealand", "US": "United States", "CA": "Canada", "MX": "Mexico", "BR": "Brazil", "AR": "Argentina", "VE": "Venezuela", "CO": "Colombia", "CL": "Chile", "PE": "Peru", "CU": "Cuba", "GB": "United Kingdom", "IE": "Ireland", "FR": "France", "DE": "Germany", "IT": "Italy", "ES": "Spain", "PT": "Portugal", "NL": "Netherlands", "BE": "Belgium", "CH": "Switzerland", "AT": "Austria", "SE": "Sweden", "NO": "Norway", "DK": "Denmark", "FI": "Finland", "PL": "Poland", "UA": "Ukraine", "RU": "Russia", "BY": "Belarus", "GR": "Greece", "TR": "Turkey", "HU": "Hungary", "RO": "Romania", "RS": "Serbia", "AL": "Albania", "IL": "Israel", "PS": "Palestine", "LB": "Lebanon", "SY": "Syria", "IQ": "Iraq", "IR": "Iran", "SA": "Saudi Arabia", "AE": "UAE", "QA": "Qatar", "KW": "Kuwait", "BH": "Bahrain", "OM": "Oman", "YE": "Yemen", "JO": "Jordan", "EG": "Egypt", "LY": "Libya", "SD": "Sudan", "ET": "Ethiopia", "KE": "Kenya", "NG": "Nigeria", "GH": "Ghana", "ZA": "South Africa", "SO": "Somalia", "CD": "Congo", "MA": "Morocco", "DZ": "Algeria", "TN": "Tunisia"};
+const CODE_BY_TZ = {"Asia/Colombo": "LK", "Asia/Kolkata": "IN", "Asia/Calcutta": "IN", "Asia/Karachi": "PK", "Asia/Dhaka": "BD", "Indian/Maldives": "MV", "Asia/Kathmandu": "NP", "Asia/Kabul": "AF", "Asia/Shanghai": "CN", "Asia/Tokyo": "JP", "Asia/Seoul": "KR", "Asia/Pyongyang": "KP", "Asia/Taipei": "TW", "Asia/Hong_Kong": "HK", "Asia/Singapore": "SG", "Asia/Kuala_Lumpur": "MY", "Asia/Jakarta": "ID", "Asia/Bangkok": "TH", "Asia/Ho_Chi_Minh": "VN", "Asia/Manila": "PH", "Asia/Yangon": "MM", "Asia/Phnom_Penh": "KH", "Australia/Sydney": "AU", "Australia/Melbourne": "AU", "Australia/Perth": "AU", "Australia/Brisbane": "AU", "Australia/Adelaide": "AU", "Pacific/Auckland": "NZ", "America/Toronto": "CA", "America/Vancouver": "CA", "America/Mexico_City": "MX", "America/Sao_Paulo": "BR", "America/Argentina/Buenos_Aires": "AR", "America/Caracas": "VE", "America/Bogota": "CO", "America/Santiago": "CL", "America/Lima": "PE", "America/Havana": "CU", "America/New_York": "US", "America/Chicago": "US", "America/Denver": "US", "America/Los_Angeles": "US", "America/Phoenix": "US", "America/Anchorage": "US", "Pacific/Honolulu": "US", "Europe/London": "GB", "Europe/Dublin": "IE", "Europe/Paris": "FR", "Europe/Berlin": "DE", "Europe/Rome": "IT", "Europe/Madrid": "ES", "Europe/Lisbon": "PT", "Europe/Amsterdam": "NL", "Europe/Brussels": "BE", "Europe/Zurich": "CH", "Europe/Vienna": "AT", "Europe/Stockholm": "SE", "Europe/Oslo": "NO", "Europe/Copenhagen": "DK", "Europe/Helsinki": "FI", "Europe/Warsaw": "PL", "Europe/Kyiv": "UA", "Europe/Kiev": "UA", "Europe/Moscow": "RU", "Europe/Minsk": "BY", "Europe/Athens": "GR", "Europe/Istanbul": "TR", "Europe/Budapest": "HU", "Europe/Bucharest": "RO", "Europe/Belgrade": "RS", "Europe/Tirane": "AL", "Asia/Jerusalem": "IL", "Asia/Gaza": "PS", "Asia/Hebron": "PS", "Asia/Beirut": "LB", "Asia/Damascus": "SY", "Asia/Baghdad": "IQ", "Asia/Tehran": "IR", "Asia/Riyadh": "SA", "Asia/Dubai": "AE", "Asia/Qatar": "QA", "Asia/Kuwait": "KW", "Asia/Bahrain": "BH", "Asia/Muscat": "OM", "Asia/Aden": "YE", "Asia/Amman": "JO", "Africa/Cairo": "EG", "Africa/Tripoli": "LY", "Africa/Khartoum": "SD", "Africa/Addis_Ababa": "ET", "Africa/Nairobi": "KE", "Africa/Lagos": "NG", "Africa/Accra": "GH", "Africa/Johannesburg": "ZA", "Africa/Mogadishu": "SO", "Africa/Kinshasa": "CD", "Africa/Casablanca": "MA", "Africa/Algiers": "DZ", "Africa/Tunis": "TN"};
+
+/* ---- the visitor's country: their own news comes first ---- */
+const flagOf = code => code && code.length === 2 ? String.fromCodePoint(...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65)) : "🌍";
+function detectCountry(){
+  try{ const c = localStorage.getItem("wn_country"); if(c && COUNTRY_BY_CODE[c]) return c; }catch(e){}
+  try{ const tz = Intl.DateTimeFormat().resolvedOptions().timeZone; if(CODE_BY_TZ[tz]) return CODE_BY_TZ[tz]; }catch(e){}
+  for(const l of (navigator.languages || [navigator.language || ""])){
+    const r = (l.split("-")[1] || "").toUpperCase();
+    if(COUNTRY_BY_CODE[r]) return r;
+  }
+  return "LK";   // Wire Now is a Sri Lankan service: default to Sri Lanka
+}
+let myCode = detectCountry();
+const myName = () => COUNTRY_BY_CODE[myCode] || "Sri Lanka";
+const CODE_BY_NAME = Object.fromEntries(Object.entries(COUNTRY_BY_CODE).map(([c, n]) => [n, c]));
+CODE_BY_NAME["Sri Lanka"] = "LK"; CODE_BY_NAME["United States"] = "US"; CODE_BY_NAME["United Kingdom"] = "GB"; CODE_BY_NAME["UAE"] = "AE";
+// Sinhala names as a safety net (some browsers don't have Sinhala country names built in)
+const SI_COUNTRY = { US:"ඇමරිකාව", GB:"එක්සත් රාජධානිය", IN:"ඉන්දියාව", CN:"චීනය", JP:"ජපානය", RU:"රුසියාව", UA:"යුක්රේනය",
+  IL:"ඊශ්‍රායලය", PS:"පලස්තීනය", IR:"ඉරානය", IQ:"ඉරාකය", SY:"සිරියාව", LB:"ලෙබනනය", PK:"පාකිස්තානය", BD:"බංග්ලාදේශය",
+  MV:"මාලදිවයින", NP:"නේපාලය", AF:"ඇෆ්ගනිස්ථානය", AU:"ඕස්ට්‍රේලියාව", NZ:"නවසීලන්තය", FR:"ප්‍රංශය", DE:"ජර්මනිය", IT:"ඉතාලිය",
+  ES:"ස්පාඤ්ඤය", SA:"සෞදි අරාබිය", AE:"එක්සත් අරාබි එමීර් රාජ්‍යය", QA:"කටාර්", KW:"කුවේට්", OM:"ඕමානය", BH:"බහරේන්",
+  MY:"මැලේසියාව", SG:"සිංගප්පූරුව", TH:"තායිලන්තය", KR:"දකුණු කොරියාව", KP:"උතුරු කොරියාව", CA:"කැනඩාව", BR:"බ්‍රසීලය",
+  EG:"ඊජිප්තුව", ZA:"දකුණු අප්‍රිකාව", NG:"නයිජීරියාව", KE:"කෙන්යාව", TR:"තුර්කිය", ID:"ඉන්දුනීසියාව", PH:"පිලිපීනය",
+  VN:"වියට්නාමය", MM:"මියන්මාරය", TW:"තායිවානය", HK:"හොංකොං", IE:"අයර්ලන්තය", PL:"පෝලන්තය", GR:"ග්‍රීසිය", MX:"මෙක්සිකෝව",
+  AR:"ආර්ජන්ටිනාව", YE:"යේමනය", JO:"ජෝර්දානය", SD:"සුඩානය", ET:"ඉතියෝපියාව", GH:"ඝානාව", CU:"කියුබාව", VE:"වෙනිසියුලාව" };
+function countryName(name){   // "Germany" -> "ஜெர்மனி" in Tamil, "ජර්මනිය" in Sinhala, "Deutschland" in German, ...
+  const code = CODE_BY_NAME[name];
+  if(!code || typeof lang === "undefined" || lang === "en") return name;
+  let out = name;
+  try { out = new Intl.DisplayNames([lang], { type: "region" }).of(code) || name; } catch (_) {}
+  if(lang === "si" && (out === name || /^[A-Za-z\s]+$/.test(out)) && SI_COUNTRY[code]) out = SI_COUNTRY[code];
+  return out;
+}
+const myNameShown = () => (myCode === "LK" && typeof T === "function" && lang in LI) ? T("LK") : countryName(myName());
+const isMine = s => { const l = s.location; return !!l && (l.country === myName() || (l.also || []).includes(myName())); };
+
+const TOPICS = ["Politics","Economy","Business","Sports","Tech","Health","Weather","Entertainment","Astrology","Society"];
+/* ---- every language people use, grouped by the visitor's country ---- */
+const LANG_NAMES = { en:"English", si:"සිංහල", ta:"தமிழ்", hi:"हिन्दी", bn:"বাংলা", te:"తెలుగు", mr:"मराठी", ur:"اردو", gu:"ગુજરાતી", kn:"ಕನ್ನಡ",
+  ml:"മലയാളം", or:"ଓଡ଼ିଆ", pa:"ਪੰਜਾਬੀ", as:"অসমীয়া", ne:"नेपाली", ps:"پښتو", sd:"سنڌي", fa:"فارسی", ar:"العربية", he:"עברית",
+  tr:"Türkçe", ru:"Русский", uk:"Українська", pl:"Polski", de:"Deutsch", fr:"Français", es:"Español", pt:"Português", it:"Italiano",
+  nl:"Nederlands", ro:"Română", el:"Ελληνικά", sq:"Shqip", ca:"Català", gl:"Galego", eu:"Euskara", cy:"Cymraeg", ga:"Gaeilge",
+  sv:"Svenska", no:"Norsk", da:"Dansk", fi:"Suomi", hu:"Magyar", cs:"Čeština", sk:"Slovenčina", sr:"Српски", hr:"Hrvatski",
+  zh:"中文", ja:"日本語", ko:"한국어", vi:"Tiếng Việt", th:"ไทย", id:"Bahasa Indonesia", ms:"Bahasa Melayu", tl:"Filipino", ceb:"Cebuano",
+  my:"မြန်မာ", km:"ខ្មែរ", mi:"Māori", sm:"Gagana Samoa", sw:"Kiswahili", am:"አማርኛ", so:"Soomaali", ha:"Hausa", yo:"Yorùbá", ig:"Igbo",
+  zu:"isiZulu", xh:"isiXhosa", af:"Afrikaans", st:"Sesotho", tn:"Setswana", ak:"Akan", ee:"Eʋegbe", dv:"ދިވެހި" };
+const COUNTRY_LANGS = {
+  LK:["si","ta","en"], IN:["hi","bn","te","mr","ta","ur","gu","kn","ml","or","pa","as","en"], PK:["ur","pa","ps","sd","en"], BD:["bn","en"],
+  MV:["dv","en"], NP:["ne","hi","en"], US:["en","es","zh","tl","vi","ar","fr","ko"], GB:["en","cy","pl","ur","pa","bn","gu","ar"],
+  IE:["en","ga","pl"], CA:["en","fr","pa","zh","es","ar","tl"], AU:["en","zh","ar","vi","pa","el","it"], NZ:["en","mi","zh","hi","sm"],
+  SG:["en","zh","ms","ta"], MY:["ms","en","zh","ta"], PH:["tl","en","ceb"], AE:["ar","en","hi","ur","ml","ta","tl","bn"],
+  SA:["ar","en","ur","hi","bn","tl"], QA:["ar","en","hi","ur","ml","ne"], KW:["ar","en","hi","ur","ml"], IL:["he","ar","ru","en"],
+  NG:["en","ha","yo","ig"], KE:["sw","en"], ZA:["en","zu","xh","af","st","tn"], GH:["en","ak","ee"],
+  FR:["fr","ar","en","pt","es"], DE:["de","tr","ru","pl","ar","uk","it","en"], JP:["ja","en","ko","zh"], IT:["it","en","ro","ar","sq"],
+  ES:["es","ca","gl","eu","en","ar"], BR:["pt","en","es"] };
+/* only languages Wire Now can translate properly are offered (the same list as the translator) */
+const SUPPORTED = ["en","si","ta","hi","bn","te","mr","ur","gu","kn","ml","pa","ne","ar","he","fa","tr","ru","uk","pl","de","fr","es","pt",
+  "it","nl","ro","el","sv","no","da","fi","hu","cs","sk","sr","hr","bg","zh","ja","ko","vi","th","id","ms","tl","sw"];
+Object.keys(LANG_NAMES).forEach(k => { if(!SUPPORTED.includes(k)) delete LANG_NAMES[k]; });
+Object.assign(LANG_NAMES, { bg: "Български" });
+for(const c in COUNTRY_LANGS) COUNTRY_LANGS[c] = COUNTRY_LANGS[c].filter(k => k in LANG_NAMES);
+const VOICE_ON = false;     // 🎧 Listen is switched off (owner's decision, 14 Nov 2026). true brings it back.
+const BUILT_IN = ["en", "si", "ta"];               // translated ahead of time by the robot
+const isDyn = () => !BUILT_IN.includes(lang);       // other languages: translated when someone first picks them
+const DYN = new Map();                              // English text -> translation, for the current language
+const clean = t => String(t ?? "").replace(/[<>]/g, "");   // a translation is plain text, never code
+
+/* ---- the reader's language (remembered on this phone; first visit: the phone's own language) ---- */
+const LANGS = LANG_NAMES;
+let lang = (() => { try { const l = localStorage.getItem("wn_lang"); if (l && LANGS[l]) return l; } catch (_) {}
+  for (const n of (navigator.languages || [navigator.language || ""])) { const c = n.toLowerCase().split("-")[0]; if (LANGS[c]) return c; }
+  return "en"; })();
+const TXT = {
+  for_you: ["✨ For you", "✨ ඔබට", "✨ உங்களுக்காக"],
+  all: ["All", "සියල්ල", "அனைத்தும்"],
+  world: ["🌍 World", "🌍 ලෝකය", "🌍 உலகம்"],
+  saved_tab: ["❤️ Saved", "❤️ සුරැකි", "❤️ சேமித்தவை"],
+  community: ["👥 Community", "👥 ප්‍රජාව", "👥 உரையாடல்"],
+  Politics: ["Politics", "දේශපාලනය", "அரசியல்"], Economy: ["Economy", "ආර්ථිකය", "பொருளாதாரம்"],
+  Business: ["Business", "ව්‍යාපාර", "வணிகம்"], Sports: ["Sports", "ක්‍රීඩා", "விளையாட்டு"],
+  Tech: ["Tech", "තාක්ෂණය", "தொழில்நுட்பம்"], Health: ["Health", "සෞඛ්‍යය", "சுகாதாரம்"],
+  Weather: ["Weather", "කාලගුණය", "வானிலை"], Society: ["Society", "සමාජය", "சமூகம்"],
+  Entertainment: ["Entertainment", "විනෝදාස්වාදය", "பொழுதுபோக்கு"],
+  Astrology: ["Astrology", "ජ්‍යොතිෂය", "ஜோதிடம்"],
+  stories_today: ["{n} stories today", "අද පුවත් {n}ක්", "இன்று {n} செய்திகள்"],
+  story_today: ["1 story today", "අද පුවත් 1ක්", "இன்று 1 செய்தி"],
+  day_streak: [" · {n}-day streak", " · දින {n}ක් අඛණ්ඩව", " · தொடர்ந்து {n} நாட்கள்"],
+  keep_going: ["Nice! Keep your streak going tomorrow.", "නියමයි! හෙටත් දිගටම කියවන්න.", "அருமை! நாளையும் தொடருங்கள்."],
+  hello_t: ["Know what happened in 30 seconds", "තත්පර 30කින් සිදුවූ දේ දැනගන්න", "30 வினாடிகளில் என்ன நடந்தது என்று அறியுங்கள்"],
+  hello_s: ["Swipe through the news, one story after another.", "පුවත් එකින් එක ස්වයිප් කරන්න.", "செய்திகளை ஒன்றன்பின் ஒன்றாக ஸ்வைப் செய்யுங்கள்."],
+  start: ["▶ Start", "▶ අරඹන්න", "▶ தொடங்கு"],
+  more_stories: ["Show {n} more stories ↓", "තවත් පුවත් {n}ක් ↓", "மேலும் {n} செய்திகள் ↓"],
+  no_saved: ["No saved stories yet.<br>Tap 🤍 at the top of a story.", "තවම සුරැකි පුවත් නැත.<br>පුවතක ඉහළ ඇති 🤍 ඔබන්න.", "இன்னும் சேமித்த செய்திகள் இல்லை.<br>செய்தியின் மேலே உள்ள 🤍 ஐத் தட்டவும்."],
+  no_stories: ["No stories right now.", "දැනට පුවත් නැත.", "இப்போது செய்திகள் இல்லை."],
+  company: ["Company news", "සමාගම් පුවත්", "நிறுவனச் செய்தி"],
+  full_badge: ["⚡ Full story", "⚡ සම්පූර්ණ පුවත", "⚡ முழுச் செய்தி"],
+  sum_badge: ["📝 Summary", "📝 සාරාංශය", "📝 சுருக்கம்"],
+  site_sum: ["Site summary", "මූලාශ්‍ර සාරාංශය", "மூலச் சுருக்கம்"],
+  headline_only: ["Headline only", "සිරස්තලය පමණි", "தலைப்பு மட்டும்"],
+  outlets: ["{n} outlets", "මාධ්‍ය {n}ක්", "{n} ஊடகங்கள்"],
+  warning: ["⚠️ WARNING", "⚠️ අනතුරු ඇඟවීම", "⚠️ எச்சரிக்கை"],
+  breaking: ["🚨 BREAKING", "🚨 උණුසුම් පුවත", "🚨 அவசரச் செய்தி"],
+  what_happened: ["What happened", "සිදුවූයේ කුමක්ද", "என்ன நடந்தது"],
+  full_story: ["The full story", "සම්පූර්ණ කතාව", "முழு விவரம்"],
+  why: ["Why it matters", "මෙය වැදගත් ඇයි", "இது ஏன் முக்கியம்"],
+  facts: ["Key facts", "ප්‍රධාන කරුණු", "முக்கிய தகவல்கள்"],
+  next: ["What's next", "ඊළඟට කුමක්ද", "அடுத்து என்ன"],
+  summary: ["Summary", "සාරාංශය", "சுருக்கம்"],
+  from_src: ["From {s}", "{s} වෙතින්", "{s} இலிருந்து"],
+  read_on: ["Read on {s} ↗", "{s} හි කියවන්න ↗", "{s} இல் படிக்க ↗"],
+  ai_sum: [" · AI summary", " · AI සාරාංශය", " · AI சுருக்கம்"],
+  ai_sum_n: [" · AI summary from {n} sources", " · මූලාශ්‍ර {n}කින් AI සාරාංශය", " · {n} மூலங்களிலிருந்து AI சுருக்கம்"],
+  hint_more: ["Tap → to read · Double-tap for more from the source", "කියවීමට ඔබන්න → · මූලාශ්‍රයෙන් තවත් දැනගැනීමට දෙවරක් ඔබන්න", "படிக்க தட்டவும் → · மூலத்திலிருந்து மேலும் அறிய இருமுறை தட்டவும்"],
+  hint_sum: ["Double-tap for a summary", "සාරාංශයක් සඳහා දෙවරක් ඔබන්න", "சுருக்கத்திற்கு இருமுறை தட்டவும்"],
+  hint_src: ["Double-tap for more from the source", "මූලාශ්‍රයෙන් තවත් දැනගැනීමට දෙවරක් ඔබන්න", "மூலத்திலிருந்து மேலும் அறிய இருமுறை தட்டவும்"],
+  in_english: ["🔤 Shown in English: translation coming.", "🔤 ඉංග්‍රීසියෙන් පෙන්වයි. පරිවර්තනය ඉක්මනින්.", "🔤 ஆங்கிலத்தில் காட்டப்படுகிறது. மொழிபெயர்ப்பு விரைவில்."],
+  read_all: ["You've read everything 🎉", "ඔබ සියල්ල කියෙව්වා 🎉", "நீங்கள் அனைத்தையும் படித்துவிட்டீர்கள் 🎉"],
+  saved_t: ["Saved ❤️", "සුරැකුවා ❤️", "சேமிக்கப்பட்டது ❤️"],
+  removed: ["Removed", "ඉවත් කළා", "நீக்கப்பட்டது"],
+  copied: ["Link copied", "සබැඳිය පිටපත් කළා", "இணைப்பு நகலெடுக்கப்பட்டது"],
+  act_copy: ["📋 Copy", "📋 පිටපත්", "📋 நகலெடு"], act_share: ["📤 Share", "📤 බෙදාගන්න", "📤 பகிர்"], act_save: ["❤️ Save", "❤️ සුරකින්න", "❤️ சேமி"],
+  text_copied: ["Copied", "පිටපත් කළා", "நகலெடுக்கப்பட்டது"], install: ["📲 Install", "📲 ස්ථාපනය", "📲 நிறுவு"],
+  more_src: ["More from the source", "මූලාශ්‍රයෙන් තවත්", "மூலத்திலிருந்து மேலும்"],
+  others: ["Other reports on this", "මේ ගැන වෙනත් වාර්තා", "இது பற்றிய பிற செய்திகள்"],
+  original: ["original article", "මුල් ලිපිය", "மூலக் கட்டுரை"],
+  own_desc: ["{s}'s own short description", "{s} දුන් කෙටි විස්තරය", "{s} வழங்கிய சுருக்க விளக்கம்"],
+  close: ["Close", "වසන්න", "மூடு"],
+  writing: ["✍️ Writing a summary…", "✍️ සාරාංශයක් ලියමින්…", "✍️ சுருக்கம் எழுதப்படுகிறது…"],
+  writing_s: ["Reading {s}'s article and checking every fact. This takes a few seconds.", "{s} ලිපිය කියවා සෑම කරුණක්ම පරීක්ෂා කරමින්. තත්පර කිහිපයක් ගතවේ.", "{s} கட்டுரையைப் படித்து ஒவ்வொரு தகவலையும் சரிபார்க்கிறது. சில வினாடிகள் ஆகும்."],
+  sum_ready: ["Summary ready ✅", "සාරාංශය සූදානම් ✅", "சுருக்கம் தயார் ✅"],
+  busy: ["Today's free summaries are used up. Try again tomorrow.", "අද නොමිලේ ලැබෙන සාරාංශ අවසන්. හෙට නැවත උත්සාහ කරන්න.", "இன்றைய இலவச சுருக்கங்கள் முடிந்துவிட்டன. நாளை மீண்டும் முயலவும்."],
+  working: ["Someone just asked for this one. Try again in a moment.", "කවුරුහරි දැන් මෙය ඉල්ලුවා. මොහොතකින් නැවත උත්සාහ කරන්න.", "யாரோ இதை இப்போதுதான் கேட்டார்கள். சிறிது நேரத்தில் மீண்டும் முயலவும்."],
+  failed: ["We couldn't write a safe summary for this story.", "මෙම පුවතට ආරක්ෂිත සාරාංශයක් ලිවීමට නොහැකි විය.", "இந்தச் செய்திக்கு பாதுகாப்பான சுருக்கம் எழுத முடியவில்லை."],
+  cant: ["We couldn't write a summary right now.", "දැන් සාරාංශයක් ලිවීමට නොහැකි විය.", "இப்போது சுருக்கம் எழுத முடியவில்லை."],
+  read_below: [" You can read it on the source below.", " පහත මූලාශ්‍රයෙන් කියවිය හැක.", " கீழே உள்ள மூலத்தில் படிக்கலாம்."],
+  usd: ["💵 US Dollar", "💵 ඇමරිකානු ඩොලරය", "💵 அமெரிக்க டாலர்"],
+  weather: ["Colombo weather", "කොළඹ කාලගුණය", "கொழும்பு வானிலை"],
+  today_w: ["Today {a}–{b}°C · rain {r}%", "අද {a}–{b}°C · වැසි {r}%", "இன்று {a}–{b}°C · மழை {r}%"],
+  warnings: ["⚠️ Warnings in Sri Lanka", "⚠️ ශ්‍රී ලංකාවේ අනතුරු ඇඟවීම්", "⚠️ இலங்கையில் எச்சரிக்கைகள்"],
+  top5: ["🔥 Today's Top 10", "🔥 අද ප්‍රධාන පුවත් 10", "🔥 இன்றைய முக்கிய 10"],
+  updated: ["Updated {t}", "යාවත්කාලීන කළේ {t}", "புதுப்பிக்கப்பட்டது {t}"],
+  waiting: ["Waiting for the first news update…", "පළමු පුවත් යාවත්කාලීනය බලාපොරොත්තුවෙන්…", "முதல் செய்திப் புதுப்பிப்புக்காகக் காத்திருக்கிறது…"],
+  cant_load: ["Couldn't load the news. Check your connection.", "පුවත් ලබාගත නොහැකි විය. සම්බන්ධතාවය පරීක්ෂා කරන්න.", "செய்திகளை ஏற்ற முடியவில்லை. இணைப்பைச் சரிபார்க்கவும்."],
+  LK: ["Sri Lanka", "ශ්‍රී ලංකාව", "இலங்கை"],
+  rate_note: ["market rate, not a bank's buying/selling rate", "වෙළඳපොළ අනුපාතය, බැංකු ගැනුම්/විකුණුම් අනුපාතය නොවේ", "சந்தை விகிதம், வங்கியின் வாங்கும்/விற்கும் விகிதம் அல்ல"],
+  w_clear: ["Clear", "පැහැදිලියි", "தெளிவு"], w_mostly: ["Mostly clear", "බොහෝ දුරට පැහැදිලියි", "பெரும்பாலும் தெளிவு"],
+  w_partly: ["Partly cloudy", "අර්ධ වශයෙන් වලාකුළු", "ஓரளவு மேகமூட்டம்"], w_cloudy: ["Cloudy", "වලාකුළු සහිතයි", "மேகமூட்டம்"],
+  w_fog: ["Fog", "මීදුම", "மூடுபனி"], w_drizzle: ["Drizzle", "පොද වැසි", "தூறல்"], w_rain: ["Rain", "වැසි", "மழை"],
+  w_heavy: ["Heavy rain", "තද වැසි", "கனமழை"], w_showers: ["Showers", "වැසි", "மழைத் தூறல்கள்"], w_thunder: ["Thunderstorm", "ගිගුරුම් සහිත වැසි", "இடியுடன் கூடிய மழை"],
+  your_langs: ["📍 Languages in {c}", "📍 {c} හි භාෂා", "📍 {c} இல் உள்ள மொழிகள்"],
+  all_langs: ["🌐 All languages", "🌐 සියලු භාෂා", "🌐 அனைத்து மொழிகள்"],
+  translating: ["🌐 Translating…", "🌐 පරිවර්තනය කරමින්…", "🌐 மொழிபெயர்க்கிறது…"],
+  tr_waiting: ["🌐 {n} more stories appear here once translated.", "🌐 තවත් පුවත් {n}ක් පරිවර්තනය වූ පසු මෙහි පෙන්වයි.", "🌐 மேலும் {n} செய்திகள் மொழிபெயர்க்கப்பட்டதும் இங்கே தோன்றும்."],
+  tr_later: ["Translation into this language starts once the site's translator is switched on.", "මෙම භාෂාවට පරිවර්තනය වෙබ් අඩවියේ පරිවර්තකය සක්‍රිය වූ පසු ආරම්භ වේ.", "இந்த மொழிக்கான மொழிபெயர்ப்பு, தளத்தின் மொழிபெயர்ப்பான் இயக்கப்பட்ட பிறகு தொடங்கும்."],
+  your_country: ["📍 Your country: ", "📍 ඔබේ රට: ", "📍 உங்கள் நாடு: "],
+  news_first: [" news first", " පුවත් මුලින්", " செய்திகள் முதலில்"],
+  world_sl: ["🌍 World & Sri Lanka", "🌍 ලෝකය සහ ශ්‍රී ලංකාව", "🌍 உலகம் மற்றும் இலங்கை"],
+  not_full: [" (we don't cover this country fully yet)", " (මෙම රට තවම සම්පූර්ණයෙන් ආවරණය නොවේ)", " (இந்த நாட்டை இன்னும் முழுமையாக உள்ளடக்கவில்லை)"],
+  fy_start: ["✨ For you starts working after you read a few stories. Here's everything for now:", "✨ පුවත් කිහිපයක් කියවූ පසු 'ඔබට' ක්‍රියා කිරීමට පටන් ගනී. දැනට සියල්ල මෙන්න:", "✨ சில செய்திகளைப் படித்த பிறகு 'உங்களுக்காக' வேலை செய்யத் தொடங்கும். இப்போதைக்கு அனைத்தும்:"],
+  you_like: ["✨ You like: {x}", "✨ ඔබ කැමති: {x}", "✨ உங்களுக்குப் பிடித்தவை: {x}"],
+  reset: ["Reset", "යළි සකසන්න", "மீட்டமை"],
+  interests_reset: ["Interests reset", "කැමැත්ත යළි සකසා ඇත", "விருப்பங்கள் மீட்டமைக்கப்பட்டன"],
+  send_news: ["📣 Send us news", "📣 පුවත් එවන්න", "📣 செய்தி அனுப்புங்கள்"],
+  about: ["About Wire Now", "Wire Now ගැන", "Wire Now பற்றி"],
+  all_stories: ["All stories", "සියලු පුවත්", "அனைத்துச் செய்திகளும்"],
+  footer_note: ["Summaries are written by AI from the original reports and fact-checked. Always see the source for the full article.",
+                "සාරාංශ AI මගින් මුල් වාර්තා ඇසුරින් ලියා, කරුණු පරීක්ෂා කර ඇත. සම්පූර්ණ ලිපිය සඳහා සැමවිටම මූලාශ්‍රය බලන්න. පරිවර්තන AI මගිනි.",
+                "சுருக்கங்கள் மூல அறிக்கைகளிலிருந்து AI மூலம் எழுதப்பட்டு சரிபார்க்கப்பட்டவை. முழுக் கட்டுரைக்கு எப்போதும் மூலத்தைப் பாருங்கள். மொழிபெயர்ப்புகள் AI மூலம்."],
+  loading: ["Loading…", "පූරණය වෙමින්…", "ஏற்றப்படுகிறது…"],
+  factcheck_tab: ["🔍 Fact check", "🔍 කරුණු පරීක්ෂාව", "🔍 உண்மைச் சரிபார்ப்பு"],
+  fc_disagree: ["⚖️ Where news sites disagree", "⚖️ පුවත් වෙබ් අඩවි එකඟ නොවන තැන්", "⚖️ செய்தித் தளங்கள் முரண்படும் இடங்கள்"],
+  fc_disagree_s: ["Different sites report different facts. Read both and check the sources.", "විවිධ වෙබ් අඩවි විවිධ කරුණු වාර්තා කරයි. දෙකම කියවා මූලාශ්‍ර පරීක්ෂා කරන්න.", "வெவ்வேறு தளங்கள் வெவ்வேறு தகவல்களைத் தருகின்றன. இரண்டையும் படித்து மூலங்களைச் சரிபாருங்கள்."],
+  fc_none: ["No disagreements found right now.", "දැනට එකඟ නොවීම් හමු නොවීය.", "தற்போது முரண்பாடுகள் எதுவும் இல்லை."],
+  fc_checkers: ["✅ From Sri Lanka's fact-checkers", "✅ ශ්‍රී ලංකාවේ කරුණු පරීක්ෂකයන්ගෙන්", "✅ இலங்கையின் உண்மைச் சரிபார்ப்பாளர்களிடமிருந்து"],
+  fc_checkers_s: ["Independent fact-checkers test claims that spread online.", "ස්වාධීන කරුණු පරීක්ෂකයන් අන්තර්ජාලයේ පැතිරෙන ප්‍රකාශ පරීක්ෂා කරයි.", "இணையத்தில் பரவும் கூற்றுகளை சுயாதீன உண்மைச் சரிபார்ப்பாளர்கள் சோதிக்கின்றனர்."],
+  fc_checkers_none: ["Nothing from the fact-checkers this month yet.", "මෙම මාසයේ කරුණු පරීක්ෂකයන්ගෙන් තවම කිසිවක් නැත.", "இந்த மாதம் உண்மைச் சரிபார்ப்பாளர்களிடமிருந்து இன்னும் எதுவும் இல்லை."],
+  rates_t: ["💱 Exchange rates", "💱 විනිමය අනුපාත", "💱 நாணய மாற்று விகிதங்கள்"],
+  rates_s: ["Rupees for 1 unit. Market rates, not a bank's buying/selling rate.", "ඒකකයක් සඳහා රුපියල්. වෙළඳපොළ අනුපාත, බැංකු ගැනුම්/විකුණුම් අනුපාත නොවේ.", "1 அலகுக்கு ரூபாய். சந்தை விகிதங்கள், வங்கியின் வாங்கும்/விற்கும் விகிதம் அல்ல."],
+  all_rates: ["All rates ›", "සියලු අනුපාත ›", "அனைத்து விகிதங்கள் ›"],
+  trend: ["📊 Last {n} days", "📊 පසුගිය දින {n}", "📊 கடந்த {n} நாட்கள்"],
+  trend_wait: ["The chart grows day by day.", "ප්‍රස්තාරය දිනෙන් දින වර්ධනය වේ.", "வரைபடம் நாளுக்கு நாள் வளரும்."],
+  numbers_t: ["📊 Today in numbers", "📊 අද අංක වලින්", "📊 இன்று எண்களில்"],
+  listen: ["🎧 Listen", "🎧 අසන්න", "🎧 கேளுங்கள்"],
+  listen_brief: ["🎧 Listen to today's top news", "🎧 අද ප්‍රධාන පුවත් අසන්න", "🎧 இன்றைய முக்கியச் செய்திகளைக் கேளுங்கள்"],
+  voice_btn: ["🔊 Voice", "🔊 හඬ", "🔊 குரல்"],
+  voice_t: ["🔊 Reading voice", "🔊 කියවන හඬ", "🔊 வாசிக்கும் குரல்"],
+  voice_s: ["Tap a voice to hear it. Your choice is remembered on this phone.", "හඬක් ඇසීමට එය තට්ටු කරන්න. ඔබේ තේරීම මෙම දුරකථනයේ මතක තබා ගනී.", "ஒரு குரலைக் கேட்க அதைத் தட்டவும். உங்கள் தேர்வு இந்தத் தொலைபேசியில் நினைவில் வைக்கப்படும்."],
+  voice_n: ["Voice {n}", "හඬ {n}", "குரல் {n}"],
+  speed: ["Speed", "වේගය", "வேகம்"],
+  voice_sample: ["This is how the news will be read to you.", "ඔබට පුවත් කියවනු ලබන්නේ මෙලෙසයි.", "இப்படித்தான் உங்களுக்குச் செய்திகள் வாசிக்கப்படும்."],
+  voice_more: ["Want more or better voices? Phone Settings → search \"Text-to-speech\" → Google → install voice data (free).", "තවත් හොඳ හඬ අවශ්‍යද? දුරකථන Settings → \"Text-to-speech\" සොයන්න → Google → හඬ දත්ත ස්ථාපනය කරන්න (නොමිලේ).", "மேலும் நல்ல குரல்கள் வேண்டுமா? தொலைபேசி Settings → \"Text-to-speech\" தேடவும் → Google → குரல் தரவை நிறுவவும் (இலவசம்)."],
+  voice_get: ["🗣️ Get a better, natural voice (free, works offline)", "🗣️ වඩා හොඳ, ස්වාභාවික හඬක් ලබා ගන්න (නොමිලේ, අන්තර්ජාලය නැතිවත් ක්‍රියා කරයි)", "🗣️ சிறந்த, இயல்பான குரலைப் பெறுங்கள் (இலவசம், இணையம் இல்லாமலும் இயங்கும்)"],
+  voice_steps: ["1. Open phone Settings and search \"Text-to-speech\". 2. Choose Google as the engine. 3. Tap ⚙️ → Install voice data. 4. Download English, Tamil and Sinhala (pick the voices marked high quality). 5. Come back and choose a voice here.",
+    "1. දුරකථනයේ Settings විවෘත කර \"Text-to-speech\" සොයන්න. 2. Google තෝරන්න. 3. ⚙️ → Install voice data ඔබන්න. 4. ඉංග්‍රීසි, දෙමළ සහ සිංහල බාගත කරන්න (උසස් ගුණාත්මක හඬ තෝරන්න). 5. නැවත පැමිණ මෙහි හඬක් තෝරන්න.",
+    "1. தொலைபேசி Settings-ஐத் திறந்து \"Text-to-speech\" எனத் தேடவும். 2. Google-ஐத் தேர்ந்தெடுக்கவும். 3. ⚙️ → Install voice data-ஐத் தட்டவும். 4. ஆங்கிலம், தமிழ், சிங்களம் ஆகியவற்றைப் பதிவிறக்கவும் (உயர் தரக் குரல்களைத் தேர்ந்தெடுக்கவும்). 5. திரும்பி வந்து இங்கே ஒரு குரலைத் தேர்ந்தெடுக்கவும்."],
+  voice_open: ["Open voice settings", "හඬ සැකසුම් විවෘත කරන්න", "குரல் அமைப்புகளைத் திறக்கவும்"],
+  ic_parl: ["Parliament", "පාර්ලිමේන්තුව", "நாடாளுமன்றம்"], ic_court: ["Court", "අධිකරණය", "நீதிமன்றம்"],
+  ic_flood: ["Floods", "ගංවතුර", "வெள்ளம்"], ic_weather: ["Weather", "කාලගුණය", "வானிலை"], ic_fire: ["Fire", "ගින්න", "தீ விபத்து"],
+  ic_accident: ["Accident", "අනතුර", "விபத்து"], ic_police: ["Police", "පොලිසිය", "பொலிஸ்"], ic_cricket: ["Cricket", "ක්‍රිකට්", "கிரிக்கெட்"],
+  ic_football: ["Football", "පාපන්දු", "கால்பந்து"], ic_election: ["Election", "මැතිවරණය", "தேர்தல்"], ic_economy: ["Economy", "ආර්ථිකය", "பொருளாதாரம்"],
+  ic_health: ["Health", "සෞඛ්‍යය", "சுகாதாரம்"], ic_education: ["Education", "අධ්‍යාපනය", "கல்வி"], ic_travel: ["Travel", "ගමන්", "பயணம்"],
+  ic_tech: ["Technology", "තාක්ෂණය", "தொழில்நுட்பம்"], ic_conflict: ["Conflict and peace", "ගැටුම සහ සාමය", "மோதலும் அமைதியும்"],
+  greet_m: ["Good morning.", "සුබ උදෑසනක්.", "காலை வணக்கம்."], greet_a: ["Good afternoon.", "සුබ දහවලක්.", "மதிய வணக்கம்."],
+  greet_e: ["Good evening.", "සුබ සන්ධ්‍යාවක්.", "மாலை வணக்கம்."], greet_n: ["Good night.", "සුබ රාත්‍රියක්.", "இரவு வணக்கம்."],
+  brief_wait: ["🎙️ Today's bulletin is being prepared. Please try again in a few minutes.", "🎙️ අද පුවත් ප්‍රකාශය සූදානම් වෙමින් පවතී. මිනිත්තු කිහිපයකින් නැවත උත්සාහ කරන්න.", "🎙️ இன்றைய செய்தி அறிக்கை தயாராகிறது. சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்."],
+  chk_btn: ["🔍 Heard something? Check if it's true", "🔍 යමක් ඇසුණාද? එය සත්‍යදැයි පරීක්ෂා කරන්න", "🔍 ஏதாவது கேள்விப்பட்டீர்களா? உண்மையா எனச் சரிபாருங்கள்"],
+  chk_btn_s: ["Paste a message or rumour. Wire Now checks it against real reports and fact-checkers.", "පණිවිඩයක් හෝ කටකතාවක් ඇලවන්න. Wire Now එය සැබෑ වාර්තා සහ කරුණු පරීක්ෂකයන් සමඟ සසඳයි.", "ஒரு செய்தியையோ வதந்தியையோ ஒட்டுங்கள். Wire Now அதை உண்மையான செய்திகள் மற்றும் உண்மை சரிபார்ப்பாளர்களுடன் ஒப்பிடும்."],
+  chk_t: ["🔍 Is this true?", "🔍 මෙය සත්‍යද?", "🔍 இது உண்மையா?"],
+  chk_ph: ["Type or paste what you heard…", "ඔබට ඇසුණු දේ ටයිප් කරන්න හෝ අලවන්න…", "நீங்கள் கேட்டதைத் தட்டச்சு செய்யுங்கள் அல்லது ஒட்டுங்கள்…"],
+  chk_go: ["Check it", "පරීක්ෂා කරන්න", "சரிபார்"], chk_wait: ["Checking the reports…", "වාර්තා පරීක්ෂා කරමින්…", "செய்திகளைச் சரிபார்க்கிறது…"],
+  chk_short: ["Please write a little more.", "කරුණාකර තව ටිකක් ලියන්න.", "தயவுசெய்து இன்னும் கொஞ்சம் எழுதுங்கள்."],
+  chk_busy: ["Too many checks today. Please try again tomorrow.", "අද පරීක්ෂා බොහෝය. හෙට නැවත උත්සාහ කරන්න.", "இன்று அதிகமான சரிபார்ப்புகள். நாளை மீண்டும் முயற்சிக்கவும்."],
+  chk_fail: ["Couldn't check right now. Please try again.", "දැන් පරීක්ෂා කළ නොහැක. නැවත උත්සාහ කරන්න.", "இப்போது சரிபார்க்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்."],
+  chk_note: ["Based only on reliable reports and fact-checkers Wire Now can see. No source means \"can't verify\", never a guess.", "Wire Now ට පෙනෙන විශ්වාසදායක වාර්තා සහ කරුණු පරීක්ෂකයන් මත පමණි. මූලාශ්‍රයක් නැත්නම් \"තහවුරු කළ නොහැක\", කිසිදා අනුමානයක් නොවේ.", "Wire Now பார்க்கக்கூடிய நம்பகமான செய்திகள் மற்றும் உண்மை சரிபார்ப்பாளர்களை மட்டுமே அடிப்படையாகக் கொண்டது. ஆதாரம் இல்லையெனில் \"உறுதிப்படுத்த முடியவில்லை\", ஒருபோதும் ஊகம் அல்ல."],
+  v_confirmed: ["✅ Confirmed by reliable reports", "✅ විශ්වාසදායක වාර්තා මගින් තහවුරුයි", "✅ நம்பகமான செய்திகளால் உறுதிப்படுத்தப்பட்டது"],
+  v_false: ["❌ False", "❌ අසත්‍යයි", "❌ தவறானது"], v_misleading: ["⚠️ Misleading or partly true", "⚠️ නොමඟ යවන හෝ අර්ධ සත්‍ය", "⚠️ தவறாக வழிநடத்தும் அல்லது பகுதி உண்மை"],
+  v_unverified: ["❓ Can't verify yet", "❓ තවම තහවුරු කළ නොහැක", "❓ இன்னும் உறுதிப்படுத்த முடியவில்லை"],
+  say_hello: ["This is the news from Wire Now.", "මේ Wire Now පුවත් ප්‍රකාශයයි.", "இது Wire Now செய்திகள்."],
+  say_what: ["Here's what happened.", "සිදු වූයේ මෙයයි.", "நடந்தது இதுதான்."],
+  say_why: ["Why does this matter?", "මෙය වැදගත් වන්නේ ඇයි?", "இது ஏன் முக்கியம்?"],
+  say_next: ["What happens next?", "ඊළඟට සිදු වන්නේ කුමක්ද?", "அடுத்து என்ன நடக்கும்?"],
+  say_nextstory: ["In other news.", "අනෙකුත් පුවත් අතර,", "மற்றொரு செய்தியில்,"],
+  say_world: ["Turning to international news.", "දැන් ජාත්‍යන්තර පුවත්.", "இப்போது சர்வதேசச் செய்திகள்."],
+  say_bye: ["That is the news from Wire Now.", "Wire Now පුවත් ප්‍රකාශය මෙයින් අවසන්.", "Wire Now செய்திகள் நிறைவடைந்தன."],
+  no_voices: ["This phone has no reading voices yet.", "මෙම දුරකථනයේ තවම කියවන හඬ නැත.", "இந்தத் தொலைபேசியில் இன்னும் வாசிக்கும் குரல்கள் இல்லை."],
+  stop: ["⏹ Stop", "⏹ නවත්වන්න", "⏹ நிறுத்து"],
+  no_voice: ["Your phone has no {l} voice yet. Add one free (steps below), then press Listen again.", "ඔබේ දුරකථනයේ තවම {l} හඬක් නැත. නොමිලේ එකතු කර (පහත පියවර), නැවත අසන්න ඔබන්න.", "உங்கள் தொலைபேசியில் இன்னும் {l} குரல் இல்லை. இலவசமாகச் சேர்த்து (கீழே உள்ள படிகள்), மீண்டும் கேளுங்கள் என்பதை அழுத்தவும்."],
+  no_speech: ["This browser can't read aloud. Try Chrome.", "මෙම බ්‍රවුසරයට හඬින් කියවිය නොහැක. Chrome උත්සාහ කරන්න.", "இந்த உலாவியால் உரக்கப் படிக்க முடியாது. Chrome ஐ முயலவும்."],
+  just_now: ["just now", "දැන්", "இப்போது"],
+  m_ago: ["{n}m ago", "මිනි. {n}කට පෙර", "{n} நிமி. முன்"],
+  h_ago: ["{n}h ago", "පැය {n}කට පෙර", "{n} மணி முன்"],
+  d_ago: ["{n}d ago", "දින {n}කට පෙර", "{n} நாள் முன்"],
+};
+const LI = { en: 0, si: 1, ta: 2 };
+function T(k, v){ const row = TXT[k]; let s = row ? (lang in LI ? (row[LI[lang]] || row[0]) : (DYN.get(row[0]) || row[0])) : k;
+  if(v) for(const x in v) s = s.split("{" + x + "}").join(v[x]); return s; }
+const dyn = t => (t && DYN.get(t)) || t;
+const TR = s => (lang !== "en" && s && s.tr && s.tr[lang]) || null;
+/* every word in the reader's language: the robot's translation first, then the live translator; English is never shown in another language */
+const trTitle = s => (TR(s) && TR(s).title) || DYN.get(s.title) || null;
+const hasLang = s => lang === "en" || !!trTitle(s);
+const titleOf = s => lang === "en" ? s.title : (trTitle(s) || T("translating"));
+const W = t => lang === "en" ? t : (t && DYN.get(t)) || "";      // any other text: translated, or nothing
+function cardsOf(s){
+  if(!s.cards) return s.cards;
+  if(lang === "en") return s.cards;
+  if(TR(s) && TR(s).cards) return { ...s.cards, ...TR(s).cards };
+  const c = s.cards;
+  if(!W(c.what_happened)) return null;               // summary not translated yet: treated as headline-only, never English
+  return { ...c, what_happened: W(c.what_happened), details: (c.details || []).map(W).filter(Boolean), why_it_matters: W(c.why_it_matters),
+           key_facts: (c.key_facts || []).map(W).filter(Boolean), whats_next: W(c.whats_next), blurb: W(c.blurb),
+           spoken: c.spoken && DYN.get(c.spoken), role: c.role && W(c.role) };
+}
+const untranslated = s => lang !== "en" && !trTitle(s);
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+/* ---- this phone's own memory (saved stories, read stories, streak) ---- */
+const mem = {
+  get(k, d){ try{ const v = localStorage.getItem("wn_"+k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem("wn_"+k, JSON.stringify(v)); }catch(e){} }
+};
+let saved = mem.get("saved", {});          // id -> story
+let readIds = new Set(mem.get("read", []));
+let streak = mem.get("streak", {days:0, last:"", today:0});
+const todayStr = () => new Date().toLocaleDateString("en-CA");
+
+let data = null, view = (mem.get("prof", {n: 0}).n >= 8) ? "foryou" : "all", topic = "All", current = null, currentList = [], limits = {};
+
+function ago(iso){
+  if(!iso) return "";
+  const m = Math.round((Date.now() - Date.parse(iso)) / 60000);
+  if(m < 1) return T("just_now"); if(m < 60) return T("m_ago", {n: m});
+  const h = Math.round(m / 60); if(h < 24) return T("h_ago", {n: h});
+  return T("d_ago", {n: Math.round(h / 24)});
+}
+function toast(t){ const el = $("toast"); el.textContent = t; el.classList.add("show"); clearTimeout(el._t); el._t = setTimeout(() => el.classList.remove("show"), 1700); }
+const cName = c => c === "Sri Lanka" && typeof T === "function" && lang in LI ? T("LK") : countryName(c);
+const placeOf = p => lang === "en" ? p : (DYN.get(p) || "");
+const locText = s => { const l = s.location; if(!l) return ""; const pl = l.place ? placeOf(l.place) : ""; const n = l.also ? [l.country, ...l.also].map(cName).join(" / ") : pl && l.country ? pl + ", " + cName(l.country) : (pl || cName(l.country) || ""); return n ? "📍 " + n + " " + (l.flag || "") : ""; };
+const srcOf = x => lang === "en" ? x : (DYN.get(x) || x);
+const tagHtml = t => `<span class="tag" style="background:var(--${esc(t)},#888)">${esc(T(t))}</span>`;
+/* neutral picture when there is no good photo: initials for a person, an icon for a subject. Never a drawn face. */
+const ICONS = [[/\b(parliament|budget debate|speaker of)\b/i, "🏛️", "ic_parl"], [/\b(court|courts|judge|verdict|bail|lawsuit)\b/i, "⚖️", "ic_court"],
+  [/\b(peace talks|war|missiles?|military|army|airstrikes?|strike on|ceasefire|troops)\b/i, "🕊️", "ic_conflict"],
+  [/\b(floods?|flooding|tsunami)\b/i, "🌊", "ic_flood"], [/\b(rain|rains|rainfall|showers|weather|monsoon|storms?|cyclone|met\. dept|thunder\w*)\b/i, "🌧️", "ic_weather"],
+  [/\b(fire|fires|blaze|wildfire)\b/i, "🔥", "ic_fire"], [/\b(crash|crashes|accident|collision|derail\w*)\b/i, "🚨", "ic_accident"],
+  [/\b(police|arrest\w*|murder\w*|suspects?|shooting|robbery|drugs)\b/i, "🚓", "ic_police"], [/\bcricket\b/i, "🏏", "ic_cricket"],
+  [/\b(football|fifa)\b/i, "⚽", "ic_football"], [/\b(elections?|vote|votes|voting|polls|ballot)\b/i, "🗳️", "ic_election"],
+  [/\b(rupee|dollar|inflation|imf|central bank|cbsl|economy|tax|taxes|budget|prices?)\b/i, "💰", "ic_economy"],
+  [/\b(hospitals?|health|dengue|virus|disease|doctors?)\b/i, "🏥", "ic_health"], [/\b(schools?|exams?|university|students?)\b/i, "🎓", "ic_education"],
+  [/\b(airport|flights?|airlines?)\b/i, "✈️", "ic_travel"], [/\b(microsoft|google|apple|outage|ai|software|internet|cyber\w*)\b/i, "💻", "ic_tech"]];
+const TOPIC_ICON = { Politics: "🏛️", Economy: "💰", Business: "💼", Sports: "🏅", Tech: "💻", Health: "🏥", Weather: "🌧️", Entertainment: "🎬", Astrology: "✨", Society: "👥" };
+function iconCover(s){
+  const c = s.cards || {}, l = s.location || {};
+  const where = l.place ? placeOf(l.place) : (l.country ? cName(l.country) : "");
+  if(c.person){
+    const ini = c.person.replace(/[^\p{L}\s.-]/gu, "").split(/[\s.-]+/).filter(w => w.length > 1).map(w => w[0].toUpperCase());
+    const role = c.role ? (lang === "en" ? c.role : (DYN.get(c.role) || "")) : "";
+    const who = [l.country ? cName(l.country) : "", role].filter(Boolean);
+    return `<div class="icv"><div class="ib" style="font-size:24px">${esc((ini[0] || "") + (ini.length > 1 ? ini[ini.length - 1] : ""))}</div><div><div class="l1">${esc(who[0] || where)}</div><div class="l2">${esc(who[1] || T(s.topic))}</div></div></div>`;
+  }
+  const hit = ICONS.find(([re]) => re.test(s.title));
+  return `<div class="icv"><div class="ib">${hit ? hit[1] : (TOPIC_ICON[s.topic] || "📰")}</div><div><div class="l1">${esc(where || T(s.topic))} ${l.flag || ""}</div><div class="l2">${esc(hit ? T(hit[2]) : T(s.topic))}</div></div></div>`;
+}
+
+/* ---- streak ---- */
+function markRead(s){
+  if(readIds.has(s.id)) return;
+  readIds.add(s.id); mem.set("read", [...readIds].slice(-500)); like(s, 2);
+  const t = todayStr();
+  if(streak.last !== t){
+    const y = new Date(Date.now() - 864e5).toLocaleDateString("en-CA");
+    streak.days = streak.last === y ? streak.days + 1 : 1;
+    streak.last = t; streak.today = 0;
+  }
+  streak.today++; mem.set("streak", streak);
+  drawHeader();
+}
+function drawHeader(){
+  const live = streak.last === todayStr() || streak.last === new Date(Date.now()-864e5).toLocaleDateString("en-CA");
+  const days = live ? streak.days : 0, today = streak.last === todayStr() ? streak.today : 0;
+  $("streak").textContent = "🔥 " + days;
+  $("hello").innerHTML = today
+    ? `<div class="big">🔥</div><div><b>${today === 1 ? T("story_today") : T("stories_today", {n: today})}${days > 1 ? T("day_streak", {n: days}) : ""}</b><span>${T("keep_going")}</span></div>`
+    : `<div class="big">⚡</div><div><b>${T("hello_t")}</b><span>${T("hello_s")}</span></div>`;
+  $("hello").innerHTML += `<button class="startbtn" id="startbtn">${T("start")}</button>`;
+}
+
+/* ---- personal "For you" feed: learns on this phone only, nothing is sent anywhere ---- */
+let prof = mem.get("prof", {topics: {}, n: 0});
+let openedAt = 0;
+function like(s, w){
+  if(!s || !s.topic) return;
+  prof.topics[s.topic] = Math.max(-5, (prof.topics[s.topic] || 0) + w);
+  prof.n++; mem.set("prof", prof); drawLikes();
+}
+const learned = () => prof.n >= 8;
+function favTopics(){ return Object.entries(prof.topics).filter(([, v]) => v > 2).sort((a, b) => b[1] - a[1]).map(([t]) => t); }
+function drawLikes(){
+  const f = favTopics().slice(0, 3);
+  $("likes").innerHTML = learned() && f.length
+    ? `${T("you_like", {x: f.map(x => esc(T(x))).join(", ")})} · <button id="resetlikes" style="color:var(--acc);font-weight:800">${T("reset")}</button> ·`
+    : "";
+}
+document.addEventListener("click", e => {
+  if(e.target.id !== "resetlikes") return;
+  prof = {topics: {}, n: 0}; mem.set("prof", prof); drawLikes();
+  if(view === "foryou"){ view = "all"; markTab(); } render(); toast(T("interests_reset"));
+});
+function forYou(list){
+  const vals = Object.values(prof.topics), max = Math.max(1, ...vals);
+  const w = t => Math.max(0, (prof.topics[t] || 0)) / max;           // 0..1 how much they like the topic
+  const urgent = list.filter(s => s.warning || s.breaking);           // always shown first, to everyone
+  const rest = list.filter(s => !s.warning && !s.breaking);
+  const scored = rest.map((s, i) => ({s, score: 0.65 * w(s.topic) + 0.35 * (1 - i / rest.length) + (isMine(s) ? 0.1 : 0)}));
+  scored.sort((a, b) => b.score - a.score);
+  const liked = scored.filter(x => w(x.s.topic) >= 0.34).map(x => x.s);
+  const other = scored.filter(x => w(x.s.topic) < 0.34).map(x => x.s).sort((a, b) => (b.coverage || 1) - (a.coverage || 1));
+  const out = [...urgent];
+  while(liked.length || other.length){        // every 5th story is from another topic, so nobody is stuck in a bubble
+    for(let k = 0; k < 4 && liked.length; k++) out.push(liked.shift());
+    if(other.length) out.push(other.shift());
+    if(!liked.length) out.push(...other.splice(0));
+  }
+  return out;
+}
+function markTab(){ document.querySelectorAll(".tab").forEach(b => b.classList.toggle("on", b.dataset.v === view)); }
+
+/* ---- list ---- */
+function allStories(){
+  if(!data) return [];
+  return [...(data.sri_lanka || []), ...(data.world || []), ...((countryData && countryData.stories) || [])];
+}
+let countryData = null;   // the visitor's own country's national news (not for Sri Lanka, which is the main feed)
+async function loadCountry(){
+  countryData = null;
+  if(myCode === "LK") return;
+  try{ const r = await fetch("c/" + myCode + ".json?t=" + Date.now()); if(r.ok) countryData = await r.json(); }catch(e){}
+}
+function render(){
+  if(view === "factcheck"){ $("topics").innerHTML = ""; renderFactcheck(); return; }
+  $("topics").innerHTML = ["All", ...TOPICS].map(t =>
+    `<button class="topic ${t === topic ? "on" : ""}" data-t="${t}">${t === "All" ? T("all") : T(t)}</button>`).join("");
+  let groups;
+  if(view === "saved"){
+    groups = [["", Object.values(saved).sort((a,b) => (b._at||0) - (a._at||0))]];
+  } else {
+    const lk = data?.sri_lanka || [], wd = data?.world || [];
+    let mine, rest;
+    let restLabel = T("world");
+    if(myCode === "LK"){ mine = [...lk.filter(s => !s.promo), ...lk.filter(s => s.promo)]; rest = wd; }
+    else if(countryData){ mine = countryData.stories || []; rest = wd; }        // their own national news
+    else { const all = [...lk, ...wd]; mine = all.filter(isMine); rest = all.filter(s => !isMine(s)); restLabel = T("world_sl"); }
+    const myLabel = flagOf(myCode) + " " + myNameShown() + (myCode !== "LK" && !countryData ? T("not_full") : "");
+    if(view === "foryou"){
+      const pool = [...mine, ...rest].filter(s => !readIds.has(s.id));
+      groups = [[learned() ? "" : T("fy_start"), forYou(pool)]];
+    } else
+    groups = view === "mine" ? [["", mine]] : view === "world" ? [["", rest]]
+           : [[myLabel, mine], [restLabel, rest]];
+  }
+  let out = "", waitingTr = 0;
+  currentList = [];
+  for(const [title, list] of groups){
+    const inTopic = list.filter(s => topic === "All" || s.topic === topic);
+    const all = inTopic.filter(hasLang);
+    waitingTr += inTopic.length - all.length;
+    if(!all.length) continue;
+    const key = title || view, lim = limits[key] || 30, shown = all.slice(0, lim);
+    if(title) out += `<h2 class="sec">${title}</h2>`;
+    currentList.push(...all);
+    out += shown.map(s => `
+      <button class="story ${readIds.has(s.id) ? "read" : ""}" data-id="${esc(s.id)}">
+        ${s.image ? `<div class="img" style="background-image:url('${esc(s.image_small || s.image)}')">${tagHtml(s.topic)}<div class="ovl">${iconCover(s)}</div></div>`
+                  : `<div style="--tc:var(--${esc(s.topic)},var(--acc))">${iconCover(s)}</div>`}
+        <div class="body">
+          ${s.location ? `<div class="loc">${esc(locText(s))}</div>` : ""}
+          <div class="t">${s.warning ? `<span class="badge wrn">${T("warning")}</span>` : s.breaking ? `<span class="badge brk">${T("breaking")}</span>` : ""}${esc(titleOf(s))}</div>
+          <div class="b">${esc(s.cards ? ((cardsOf(s) || {}).blurb || "") : W(s.summary))}</div>
+          <div class="meta">${s.promo ? `<span class="badge" style="background:#9e9e9e">${T("company")}</span>` : ""}${esc(srcOf(s.source))} · ${ago(s.date)}${saved[s.id] ? " · ❤️" : ""}
+            ${s.coverage > 1 ? ` · <span class="cov">📰 ${T("outlets", {n: s.coverage})}</span>` : ""}
+            ${s.cards ? (s.cards.mode === "short" ? `<span class="quick">${T("sum_badge")}</span>` : `<span class="quick">${T("full_badge")}</span>`)
+              : (s.summary && s.summary.length >= 80 ? `<span class="quick" style="background:#eef1f3;color:#607d8b">${T("site_sum")}</span>` : `<span class="quick" style="background:#eee;color:#888">${T("headline_only")}</span>`)}</div>
+        </div>
+      </button>`).join("");
+    if(all.length > lim) out += `<button class="more" data-more="${esc(key)}">${T("more_stories", {n: Math.min(30, all.length - lim)})}</button>`;
+  }
+  setTimeout(translateVisible, 50);
+  if(waitingTr) out += `<div class="upd">${T("tr_waiting", {n: waitingTr})}</div>`;
+  $("list").innerHTML = out || (view === "saved"
+    ? `<div class="empty"><div>❤️</div>${T("no_saved")}</div>`
+    : `<div class="empty"><div>🗞️</div>${T("no_stories")}</div>`);
+}
+
+/* ---- story viewer ---- */
+// stories with a full summary have their own page (better for Google and for link previews)
+const shareUrl = s => location.origin + location.pathname.replace(/index\.html$/, "") + (s.cards ? "s/" + s.id + ".html" : "#s-" + s.id);
+// long text continues on the next card ("1/2", "2/2"), cut at the end of a sentence
+function splitText(t, limit = 650){
+  t = (t || "").trim(); if(t.length <= limit) return t ? [t] : [];
+  const out = []; let cur = "";
+  for(const sn of t.split(/(?<=[.!?।])\s+/)){ if(cur && cur.length + 1 + sn.length > limit){ out.push(cur); cur = sn; } else cur = (cur + " " + sn).trim(); }
+  if(cur) out.push(cur);
+  if(out.length > 1 && out[out.length - 1].length < limit / 4) out[out.length - 2] += " " + out.pop();
+  return out;
+}
+function slidesFor(s){
+  // only the headline, then the summary (if we have one). Nothing in between.
+  const c = cardsOf(s), out = [];
+  const hasSum = !c && s.summary && s.summary.length >= 80;
+  const more = !!(c || hasSum);
+  const srcNote = c && c.sources && c.sources.length > 1 ? T("ai_sum_n", {n: c.sources.length}) : c ? T("ai_sum") : "";
+  const noPhoto = iconCover(s) + `<img class="wn" src="logo-small.png" alt="">`;
+  out.push(`<div class="sc cover">${s.image
+      ? `<div class="ci"><img src="${esc(s.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onload="if(this.naturalWidth<600)this.onerror()" onerror="const c=this.parentNode;c.classList.add('noimg');c.style.setProperty('--tc','var(--${esc(s.topic)})');c.innerHTML=this.dataset.fb" data-fb="${esc(noPhoto)}"><div class="ovl">${iconCover(s)}</div></div>`
+      : `<div class="ci noimg" style="--tc:var(--${esc(s.topic)},var(--acc))">${noPhoto}</div>`}
+    <div class="cb">${s.warning ? `<span class="badge wrn">${T("warning")}</span>` : s.breaking ? `<span class="badge brk">${T("breaking")}</span>` : ""}${tagHtml(s.topic)}${s.location ? `<div class="loc">${esc(locText(s))}</div>` : ""}<h1>${esc(titleOf(s))}</h1>
+    ${untranslated(s) ? `<div class="note" style="margin-bottom:6px">${T("translating")}</div>` : ""}
+    <div class="note">${ago(s.date)}${srcNote} · <a href="${esc(s.link)}" target="_blank" rel="noopener" style="color:var(--acc);font-weight:800">${T("read_on", {s: esc(s.source)})}</a></div>
+    <div class="hint">${more ? T("hint_more") : (LIVE ? T("hint_sum") : T("hint_src"))}</div></div></div>`);
+  if(c){
+    const card = (emoji, label, pieces) => pieces.forEach((pc, i) => out.push(`<div class="sc"><div class="emoji">${emoji}</div><div class="lbl">${label}${pieces.length > 1 ? " · " + (i + 1) + "/" + pieces.length : ""}</div><div class="txt ${pc.length > 480 ? "l" : pc.length > 300 ? "m" : ""}">${esc(pc)}</div></div>`));
+    card("📌", T("what_happened"), splitText(c.what_happened));
+    card("📖", T("full_story"), (c.details || []).flatMap(d => splitText(d)));
+    if(c.why_it_matters) card("💡", T("why"), splitText(c.why_it_matters));
+    const facts = c.key_facts || [], groups = [];
+    for(let i = 0; i < facts.length; i += 4) groups.push(facts.slice(i, i + 4));
+    groups.forEach((g, gi) => out.push(`<div class="sc"><div class="emoji">🔢</div><div class="lbl">${T("facts")}${groups.length > 1 ? " · " + (gi + 1) + "/" + groups.length : ""}</div><ul>${g.map(f => `<li>${esc(f)}</li>`).join("")}</ul></div>`));
+    if(c.whats_next) card("➡️", T("next"), splitText(c.whats_next));
+  } else if(hasSum){
+    out.push(`<div class="sc"><div class="emoji">📰</div><div class="lbl">${T("from_src", {s: esc(srcOf(s.source))})}</div><div class="txt">${esc(lang === "en" ? s.summary : (DYN.get(s.summary) || T("translating")))}</div></div>`);
+  }
+  return out;
+}
+/* ---- endless feed: the next story follows automatically, like Instagram ---- */
+let trail = [];   // stories already shown in this session, for swiping back
+function feedList(){ return currentList.length ? currentList : allStories(); }
+function nextOf(s){
+  const list = feedList(), i = list.findIndex(x => x.id === s?.id);
+  return list.slice(i + 1).find(x => !readIds.has(x.id)) || list[i + 1] || list.find(x => !readIds.has(x.id) && x.id !== s?.id) || null;
+}
+function openStory(id, fromBack){
+  const s = allStories().find(x => x.id === id) || saved[id];
+  if(!s){ return; }
+  if(current && current.id !== id && !fromBack){
+    trail.push(current.id);
+    if(Date.now() - openedAt < 3000 && !readIds.has(current.id)) like(current, -1);   // skipped straight away
+  }
+  current = s; openedAt = Date.now(); like(s, 1);
+  const sl = slidesFor(s);
+  const nxt = nextOf(s);
+  current._next = nxt ? nxt.id : null;
+  $("slides").innerHTML = sl.map(h => `<div class="slide">${h}</div>`).join("");
+  $("vsave").textContent = saved[s.id] ? "❤️" : "🤍";
+  $("vbar").innerHTML = sl.map(() => "<i><b></b></i>").join("");
+  const list = feedList(), pos = list.findIndex(x => x.id === s.id);
+  $("vsrc").textContent = s.source + (pos >= 0 ? `  ·  ${pos + 1} / ${list.length}` : "");
+  $("viewer").classList.add("open");
+  document.body.style.overflow = "hidden";
+  $("slides").scrollLeft = 0;
+  progress();
+  if(location.hash !== "#s-" + id) history.replaceState(null, "", "#s-" + id);
+  onOpened(s);
+  translateStory(s);
+}
+function closeStory(){
+  trail = []; closeSheet(); if(speaking) stopSpeaking();
+  $("viewer").classList.remove("open");
+  document.body.style.overflow = "";
+  history.replaceState(null, "", location.pathname + location.search);
+  render();
+}
+function slideIndex(){ const el = $("slides"); return Math.round(el.scrollLeft / el.clientWidth); }
+function progress(){
+  const i = slideIndex(), bars = $("vbar").children;
+  [...bars].forEach((b, k) => b.firstChild.style.width = k <= i ? "100%" : "0");
+  if(current && i >= bars.length - 1) markRead(current);
+}
+function go(dir){
+  const el = $("slides"), n = el.children.length, i = slideIndex() + dir;
+  if(i < 0){ prevStory(); return; }
+  if(i >= n){ nextStory(); return; }
+  el.scrollTo({left: i * el.clientWidth, behavior: "smooth"});
+}
+function nextStory(){
+  const nxt = current && current._next ? current._next : nextOf(current)?.id;
+  nxt ? openStory(nxt) : (closeStory(), toast(T("read_all")));
+}
+function prevStory(){
+  const id = trail.pop();
+  if(id) openStory(id, true);
+}
+// swipe up = next story, swipe down = previous story (like Reels)
+(() => {
+  let x0 = 0, y0 = 0, t0 = 0;
+  const v = $("viewer");
+  v.addEventListener("touchstart", e => { const t = e.touches[0]; x0 = t.clientX; y0 = t.clientY; t0 = Date.now();
+    v._wasLast = slideIndex() >= $("slides").children.length - 1; v._wasFirst = slideIndex() === 0; }, {passive: true});
+  v.addEventListener("touchend", e => {
+    const t = e.changedTouches[0], dx = t.clientX - x0, dy = t.clientY - y0;
+    if(Date.now() - t0 > 800) return;
+    if(Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5){
+      const last = $("slides").children.length - 1, i = slideIndex();
+      if(dx < 0 && i >= last && v._wasLast) nextStory();
+      else if(dx > 0 && i === 0 && v._wasFirst) prevStory();
+      return;
+    }
+    if(Math.abs(dy) < 70 || Math.abs(dy) < Math.abs(dx) * 1.5) return;
+    if(e.target.closest(".sc") && e.target.closest(".sc").scrollHeight > e.target.closest(".sc").clientHeight + 4) return; // let long cards scroll
+    dy < 0 ? nextStory() : prevStory();
+  }, {passive: true});
+})();
+$("slides").addEventListener("scroll", () => { clearTimeout(progress._t); progress._t = setTimeout(progress, 60); });
+$("slides").addEventListener("click", async e => {
+  const act = e.target.closest("[data-act]")?.dataset.act;
+  if(act === "save"){
+    if(saved[current.id]){ delete saved[current.id]; e.target.textContent = "🤍 Save"; toast(T("removed")); }
+    else { saved[current.id] = {...current, _at: Date.now()}; e.target.textContent = "❤️ Saved"; toast(T("saved_t")); like(current, 4); }
+    mem.set("saved", saved); return;
+  }
+  if(act === "share"){
+    const url = shareUrl(current);
+    try{ if(navigator.share) await navigator.share({title: current.title, url}); else { await navigator.clipboard.writeText(url); toast(T("copied")); } }catch(_){}
+    return;
+  }
+  if(act === "next"){ nextStory(); return; }
+  if(act === "close"){ closeStory(); return; }
+  if(e.target.closest("a,button")) return;
+  // one tap = next card (left third = back); two quick taps = more from the source
+  if(tapTimer){ clearTimeout(tapTimer); tapTimer = null; moreFromSource(current); return; }
+  const dir = e.clientX < window.innerWidth / 3 ? -1 : 1;
+  tapTimer = setTimeout(() => { tapTimer = null; go(dir); }, 260);
+});
+let tapTimer = null;
+/* ---- summaries written on request, and a little ahead of time ---- */
+const SBX = window.WN_SUPABASE || {}, LIVE = !!(SBX.url && SBX.anonKey);
+if(SBX.url) SBX.url = SBX.url.replace(/\/(rest|auth|functions)\/v1\/?$/, "").replace(/\/$/, "");
+/* new publishable keys (sb_publishable_…) are not JWTs: never send them as "Authorization: Bearer" */
+const sbHead = () => ({ apikey: SBX.anonKey, ...(String(SBX.anonKey).startsWith("eyJ") ? { Authorization: "Bearer " + SBX.anonKey } : {}), "Content-Type": "application/json" });
+const asked = {};   // story id -> status, so nothing is asked twice
+function findStory(id){ return allStories().find(x => x.id === id) || saved[id]; }
+async function readySummary(id){
+  try{
+    const r = await fetch(`${SBX.url}/rest/v1/summaries?select=cards&status=eq.ready&story_id=eq.${encodeURIComponent(id)}`, { headers: sbHead() });
+    const j = r.ok ? await r.json() : []; return j[0] ? j[0].cards : null;
+  }catch(_){ return null; }
+}
+async function askSummary(id, ahead){
+  if(asked[id] && asked[id] !== "busy") return asked[id] === "ready" ? { status: "ready", cards: findStory(id)?.cards } : { status: asked[id] };
+  asked[id] = "working";
+  try{
+    const r = await fetch(`${SBX.url}/functions/v1/summarize`, { method: "POST", headers: sbHead(), body: JSON.stringify({ id, country: myCode, ahead }) });
+    const j = await r.json(); asked[id] = j.status || "failed";
+    if(j.status === "ready" && j.cards){ const st = findStory(id); if(st) st.cards = j.cards; }
+    return j;
+  }catch(_){ asked[id] = "failed"; return { status: "failed" }; }
+}
+function refreshSlides(){
+  if(!current) return;
+  const i = slideIndex(), sl = slidesFor(current);
+  $("slides").innerHTML = sl.map(h => `<div class="slide">${h}</div>`).join("");
+  $("vbar").innerHTML = sl.map(() => "<i><b></b></i>").join("");
+  $("slides").scrollLeft = Math.min(i, sl.length - 1) * $("slides").clientWidth; progress();
+}
+function onOpened(s){
+  if(!LIVE) return;
+  fetch(`${SBX.url}/rest/v1/rpc/story_opened`, { method: "POST", headers: sbHead(), body: JSON.stringify({ sid: s.id }) }).catch(() => {});
+  if(!s.cards) readySummary(s.id).then(c => { if(c){ s.cards = c; asked[s.id] = "ready"; if(current && current.id === s.id) refreshSlides(); } });
+  // reader stays on this story for a moment: quietly prepare the next two they are likely to read
+  clearTimeout(onOpened.t);
+  onOpened.t = setTimeout(() => {
+    if(!current || current.id !== s.id) return;
+    let n = s;
+    for(let k = 0; k < 2; k++){
+      n = nextOf(n); if(!n) break;
+      if(!n.cards && !asked[n.id]) askSummary(n.id, true);
+    }
+  }, 2500);
+}
+async function summaryNow(s){
+  const links = $("sheetbox").innerHTML;
+  $("sheetbox").innerHTML = `<h3>${T("writing")}</h3><div class="note">${T("writing_s", {s: esc(s.source)})}</div>
+    <div class="quote" style="text-align:center">⏳</div>` + links.replace(/<h3>.*?<\/h3>/, "");
+  $("sheetclose").onclick = closeSheet;
+  const r = await askSummary(s.id, false);
+  if(!current || current.id !== s.id || !$("sheet").classList.contains("open")) return;
+  if(r.status === "ready" && s.cards){
+    closeSheet(); refreshSlides();
+    $("slides").scrollTo({left: $("slides").clientWidth, behavior: "smooth"});
+    toast(T("sum_ready"));
+  } else {
+    const why = { busy: T("busy"), working: T("working"), failed: T("failed") }[r.status] || T("cant");
+    $("sheetbox").querySelector("h3").textContent = T("more_src");
+    $("sheetbox").querySelector(".note").textContent = why + T("read_below");
+    const q = $("sheetbox").querySelector(".quote"); if(q) q.remove();
+  }
+}
+function moreFromSource(s){
+  if(!s) return;
+  const others = (s.more || []).filter(m => m.link !== s.link);
+  const hasDesc = s.summary && s.summary.length >= 40;
+  $("sheetbox").innerHTML = `<h3>${T("more_src")}</h3>
+    <div class="note">${esc(s.source)} · ${ago(s.date)}</div>
+    ${hasDesc ? `<div class="quote">${esc(s.summary)}</div><div class="note">${T("own_desc", {s: esc(s.source)})}</div>` : ""}
+    <a class="src" href="${esc(s.link)}" target="_blank" rel="noopener"><b>${esc(s.source)} · ${T("original")} ↗</b><span>${esc(titleOf(s))}</span></a>
+    ${others.length ? `<div class="note" style="margin-top:14px;font-weight:800">${T("others")}</div>` + others.map(m =>
+      `<a class="src" href="${esc(m.link)}" target="_blank" rel="noopener"><b>${esc(srcOf(m.source))} ↗</b><span>${esc(lang === "en" ? m.title : (DYN.get(m.title) || T("translating")))}</span></a>`).join("") : ""}
+    <button class="btn" style="margin-top:14px;width:100%" id="sheetclose">${T("close")}</button>`;
+  $("sheet").classList.add("open");
+  $("sheetclose").onclick = closeSheet;
+  if(LIVE && !s.cards && asked[s.id] !== "failed") summaryNow(s);
+}
+function closeSheet(){ $("sheet").classList.remove("open"); }
+$("sheet").addEventListener("click", e => { if(e.target.id === "sheet") closeSheet(); });
+$("vclose").onclick = closeStory;
+$("vsave").onclick = () => {
+  if(!current) return;
+  if(saved[current.id]){ delete saved[current.id]; $("vsave").textContent = "🤍"; toast(T("removed")); }
+  else { saved[current.id] = {...current, _at: Date.now()}; $("vsave").textContent = "❤️"; toast(T("saved_t")); like(current, 4); }
+  mem.set("saved", saved);
+};
+$("vshare").onclick = async () => {
+  if(!current) return;
+  const url = shareUrl(current);
+  try{ if(navigator.share) await navigator.share({title: current.title, url}); else { await navigator.clipboard.writeText(url); toast(T("copied")); } }catch(_){}
+};
+document.addEventListener("keydown", e => {
+  if(!$("viewer").classList.contains("open")) return;
+  if(e.key === "ArrowRight") go(1); if(e.key === "ArrowLeft") go(-1); if(e.key === "Escape") closeStory();
+  if(e.key === "ArrowDown") nextStory(); if(e.key === "ArrowUp") prevStory();
+});
+
+/* ---- tabs & topics ---- */
+$("tabs").onclick = e => {
+  const v = e.target.closest("[data-v]")?.dataset.v; if(!v) return;
+  view = v;
+  document.querySelectorAll(".tab").forEach(b => b.classList.toggle("on", b.dataset.v === v));
+  render();
+};
+$("topics").onclick = e => { const t = e.target.dataset.t; if(t){ topic = t; render(); } };
+$("list").onclick = e => {
+  if(justHeld){ justHeld = false; return; }               // a long-press already opened the action bar
+  const m = e.target.closest("[data-more]")?.dataset.more;
+  if(m){ limits[m] = (limits[m] || 30) + 30; render(); return; }
+  const id = e.target.closest(".story")?.dataset.id; if(id) openStory(id);
+};
+/* long-press a story (like a WhatsApp message): Copy · Share · Save */
+let held = null, holdT = 0, holdEl = null, justHeld = false;
+const endHold = () => { clearTimeout(holdT); };
+$("list").addEventListener("pointerdown", e => {
+  const el = e.target.closest(".story"); if(!el) return;
+  endHold();
+  holdT = setTimeout(() => {
+    document.querySelectorAll(".story.held").forEach(x => x.classList.remove("held"));
+    holdEl = el; el.classList.add("held"); held = findStory(el.dataset.id); justHeld = true;
+    if(navigator.vibrate) navigator.vibrate(15);
+    $("actbar").style.display = "flex";
+  }, 480);
+});
+["pointerup", "pointercancel", "pointerleave"].forEach(ev => $("list").addEventListener(ev, endHold));
+$("list").addEventListener("scroll", endHold, {passive: true}); window.addEventListener("scroll", endHold, {passive: true});
+$("list").addEventListener("contextmenu", e => { if(e.target.closest(".story")) e.preventDefault(); });
+const closeAct = () => { $("actbar").style.display = "none"; holdEl && holdEl.classList.remove("held"); holdEl = null; setTimeout(() => { held = null; }, 50); };
+$("actbar").onclick = async e => {
+  const act = e.target.closest("[data-act]")?.dataset.act, s = held;
+  if(!act) return;
+  if(act !== "x" && s){
+    const c = cardsOf(s) || {};
+    if(act === "copy"){ const text = [titleOf(s), c.what_happened || "", shareUrl(s)].filter(Boolean).join("\n\n");
+      try{ await navigator.clipboard.writeText(text); toast(T("text_copied")); }catch(_){} }
+    if(act === "share"){ try{ if(navigator.share) await navigator.share({title: titleOf(s), url: shareUrl(s)}); else { await navigator.clipboard.writeText(shareUrl(s)); toast(T("copied")); } }catch(_){} }
+    if(act === "save"){ if(saved[s.id]){ delete saved[s.id]; toast(T("removed")); } else { saved[s.id] = {...s, _at: Date.now()}; toast(T("saved_t")); like(s, 4); } mem.set("saved", saved); }
+  }
+  closeAct();
+};
+document.addEventListener("pointerdown", e => { if($("actbar").style.display !== "none" && !e.target.closest("#actbar,.story")) closeAct(); });
+/* install like an app (Android shows its own prompt; iPhone: Share → Add to Home Screen) */
+let installEvt = null;
+window.addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvt = e; $("installbtn").style.display = "inline-block"; });
+$("installbtn").onclick = async () => { if(!installEvt) return; installEvt.prompt(); try{ await installEvt.userChoice; }catch(_){} installEvt = null; $("installbtn").style.display = "none"; };
+window.addEventListener("appinstalled", () => { $("installbtn").style.display = "none"; });
+if("serviceWorker" in navigator) navigator.serviceWorker.register("sw-news.js").catch(() => {});
+document.addEventListener("click", e => {
+  if(e.target.id !== "startbtn") return;
+  const list = feedList(), first = list.find(s => !readIds.has(s.id)) || list[0];
+  if(first){ trail = []; openStory(first.id); }
+});
+$("warnbox").onclick = e => { const id = e.target.closest("[data-id]")?.dataset.id; if(id) openStory(id); };
+$("top5").onclick = e => { const id = e.target.closest("[data-id]")?.dataset.id; if(id) openStory(id); };
+
+function drawCountry(){
+  $("countrybtn").textContent = T("your_country") + flagOf(myCode) + " " + myNameShown() + " ▾";
+  $("minetab").textContent = flagOf(myCode) + " " + myNameShown();
+  const opts = Object.entries(COUNTRY_BY_CODE).map(([c, n]) => [c, countryName(n)]).sort((a, b) => a[1].localeCompare(b[1], lang));
+  $("countrysel").innerHTML = opts.map(([c, n]) => `<option value="${c}" ${c === myCode ? "selected" : ""}>${flagOf(c)} ${esc(n)}</option>`).join("");
+}
+$("countrysel").onchange = async e => {
+  myCode = e.target.value;
+  try{ localStorage.setItem("wn_country", myCode); }catch(_){}
+  drawCountry(); applyLang(); await loadCountry(); render(); toast(flagOf(myCode) + " " + myName() + T("news_first"));
+};
+/* ---- translating into any language: once per text, saved for everyone ---- */
+async function shaKey(t){ const d = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(t)); return [...new Uint8Array(d)].slice(0, 16).map(b => b.toString(16).padStart(2, "0")).join(""); }
+const dynPending = new Set();
+function loadDynCache(){ DYN.clear(); try{ const c = JSON.parse(localStorage.getItem("wn_tr_" + lang) || "{}"); for(const k in c) DYN.set(k, clean(c[k])); }catch(_){} }
+function saveDynCache(){ try{ const o = {}; let n = 0; for(const [k, v] of DYN){ o[k] = v; if(++n > 1500) break; } localStorage.setItem("wn_tr_" + lang, JSON.stringify(o)); }catch(_){} }
+async function dynTranslate(texts){
+  if(lang === "en" || !LIVE || !window.crypto || !crypto.subtle) return false;
+  const want = [...new Set(texts.filter(t => t && t.trim() && !DYN.has(t) && !dynPending.has(t)))];
+  if(!want.length) return false;
+  want.forEach(t => dynPending.add(t));
+  const forLang = lang;
+  let added = false;
+  try{
+    const keys = await Promise.all(want.map(shaKey)), byKey = Object.fromEntries(keys.map((k, i) => [k, want[i]]));
+    for(let i = 0; i < keys.length; i += 40){        // 1. saved translations (free, instant)
+      const r = await fetch(`${SBX.url}/rest/v1/translations?select=key,text&lang=eq.${forLang}&key=in.(${keys.slice(i, i + 40).join(",")})`, { headers: sbHead() });
+      for(const row of (r.ok ? await r.json() : [])){ if(lang === forLang){ DYN.set(byKey[row.key], clean(row.text)); added = true; } }
+    }
+    const missing = want.filter(t => !DYN.has(t));
+    for(let i = 0; i < missing.length && i < 120; i += 40){   // 2. new ones: the translator (a few batches at a time)
+      const r = await fetch(`${SBX.url}/functions/v1/translate`, { method: "POST", headers: sbHead(),
+        body: JSON.stringify({ lang: forLang, name: LANG_NAMES[forLang], country: myCode, texts: missing.slice(i, i + 40) }) });
+      const j = r.ok ? await r.json() : {};
+      for(const k in (j.out || {})){ if(lang === forLang && byKey[k]){ DYN.set(byKey[k], clean(j.out[k])); added = true; } }
+      if(j.status === "busy") break;
+    }
+  }catch(_){}
+  want.forEach(t => dynPending.delete(t));
+  if(added){ saveDynCache(); clearTimeout(dynTranslate._t); dynTranslate._t = setTimeout(redrawAll, 120); }
+  return added;
+}
+function redrawAll(){
+  document.querySelectorAll("[data-i]").forEach(el => { el.innerHTML = T(el.dataset.i); });
+  drawCountry(); drawLikes(); drawHeader(); if(data){ drawExtras(); render(); $("upd").textContent = data.updated ? T("updated", {t: ago(data.updated)}) : T("waiting"); }
+  if($("viewer").classList.contains("open") && current) refreshSlides();
+}
+function translateVisible(){
+  if(lang === "en") return;
+  const all = allStories(), top = (data && data.top || []).map(id => all.find(s => s.id === id)).filter(Boolean);
+  const pool = [...top, ...all.filter(s => !TR(s)).slice(0, 80)];
+  const need = s => !TR(s);                                       // the robot hasn't translated it yet
+  dynTranslate([...(isDyn() ? Object.values(TXT).map(r => r[0]) : []), ...(isDyn() && data && data.brief && data.brief.en ? [data.brief.en] : []),
+                ...pool.filter(need).map(s => s.title),
+                ...pool.filter(s => need(s) || !(TR(s) && TR(s).cards)).slice(0, 30).map(s => s.cards ? s.cards.blurb : s.summary),
+                ...all.slice(0, 120).map(s => s.location && s.location.place).filter(Boolean),
+                ...all.slice(0, 120).map(s => s.source),
+                ...((data && data.fact_checks) || []).slice(0, 20).flatMap(f => [f.title, f.source])]);
+}
+function translateStory(s){
+  if(lang === "en" || !s || (TR(s) && TR(s).cards)) return;
+  const c = s.cards || {};
+  dynTranslate([s.title, s.summary, c.role, c.what_happened, ...(c.details || []), c.why_it_matters, ...(c.key_facts || []), c.whats_next, c.spoken,
+                ...((s.more || []).map(m => m.title))].filter(Boolean));
+}
+function applyLang(){
+  document.documentElement.lang = lang;
+  document.documentElement.dir = ["ar","he","ur","fa","ps","sd","dv"].includes(lang) ? "rtl" : "ltr";
+  document.querySelectorAll("[data-i]").forEach(el => { el.innerHTML = T(el.dataset.i); });
+  const mine = COUNTRY_LANGS[myCode] || ["en"], others = Object.keys(LANG_NAMES).filter(k => !mine.includes(k)).sort((a, b) => LANG_NAMES[a].localeCompare(LANG_NAMES[b]));
+  const opt = k => `<option value="${k}" ${k === lang ? "selected" : ""}>${k === "en" && k === lang ? "EN" : LANG_NAMES[k]}</option>`;
+  $("langsel").innerHTML = `<optgroup label="${esc(T("your_langs", {c: myNameShown()}))}">${mine.map(opt).join("")}</optgroup>`
+                         + `<optgroup label="${esc(T("all_langs"))}">${others.map(opt).join("")}</optgroup>`;
+}
+$("langsel").onchange = e => {
+  lang = e.target.value; try{ localStorage.setItem("wn_lang", lang); }catch(_){}
+  if(LIVE) fetch(`${SBX.url}/rest/v1/rpc/language_picked`, { method: "POST", headers: sbHead(), body: JSON.stringify({ l: lang }) }).catch(() => {});
+  loadDynCache();
+  if(isDyn()) toast(LIVE ? T("translating") : T("tr_later"));
+  applyLang(); drawCountry(); drawLikes(); drawHeader(); if(data){ drawExtras(); render(); $("upd").textContent = data.updated ? T("updated", {t: ago(data.updated)}) : T("waiting"); }
+  if($("viewer").classList.contains("open") && current) refreshSlides();
+};
+loadDynCache();
+applyLang();
+drawCountry(); drawLikes(); markTab();
+
+/* ---- 🔍 Is this true? (checks a claim against our Fact Base, fact-checkers and today's news) ---- */
+function openCheck(prefill){
+  $("sheetbox").innerHTML = `<div class="chkbox"><h3>${T("chk_t")}</h3>
+    <textarea id="chkq" maxlength="600" placeholder="${esc(T("chk_ph"))}">${esc(prefill || "")}</textarea>
+    <button class="btn" id="chkgo" style="margin-top:10px;background:var(--acc);color:#fff;border-color:var(--acc)">${T("chk_go")}</button>
+    <div id="chkout"></div><div class="note" style="margin-top:12px">${T("chk_note")}</div>
+    <button class="btn" style="margin-top:12px" id="sheetclose">${T("close")}</button></div>`;
+  $("sheetclose").onclick = closeSheet;
+  $("chkgo").onclick = async () => {
+    const claim = $("chkq").value.trim();
+    if(claim.length < 8){ $("chkout").innerHTML = `<div class="note" style="margin-top:8px;color:#a12b1d">${T("chk_short")}</div>`; return; }
+    $("chkgo").disabled = true; $("chkout").innerHTML = `<div class="note" style="margin-top:10px">${T("chk_wait")}</div>`;
+    let j = {};
+    try{ const r = await fetch(`${SBX.url}/functions/v1/check`, { method: "POST", headers: sbHead(), body: JSON.stringify({ claim, lang }) }); j = r.ok ? await r.json() : {}; }catch(_){}
+    $("chkgo").disabled = false;
+    if(j.status === "busy"){ $("chkout").innerHTML = `<div class="verdict v-unverified">${T("chk_busy")}</div>`; return; }
+    if(j.status !== "ok"){ $("chkout").innerHTML = `<div class="verdict v-unverified">${T("chk_fail")}</div>`; return; }
+    const v = ["confirmed", "false", "misleading", "unverified"].includes(j.verdict) ? j.verdict : "unverified";
+    $("chkout").innerHTML = `<div class="verdict v-${v}"><span class="v">${T("v_" + v)}</span>${esc(clean(j.explanation || ""))}
+      ${(j.sources || []).map(x => x.link ? `<a href="${esc(x.link)}" target="_blank" rel="noopener">↗ ${esc(clean(x.source))}${x.date ? " · " + esc(x.date) : ""}</a>` : `<span class="note" style="display:block;margin-top:6px">${esc(clean(x.source))}${x.date ? " · " + esc(x.date) : ""}</span>`).join("")}</div>`;
+  };
+  $("sheet").classList.add("open");
+  setTimeout(() => $("chkq") && $("chkq").focus(), 80);
+}
+$("checkbtn").onclick = () => openCheck("");
+$("checkbtn").style.display = LIVE ? "block" : "none";
+
+/* ---- today's numbers + Top 10 ---- */
+function weatherText(t){   // "☁️ Cloudy" -> the same in the reader's language
+  const m = String(t || "").match(/^(\S+)\s+(.*)$/); if(!m) return t;
+  const k = { "clear": "w_clear", "mostly clear": "w_mostly", "partly cloudy": "w_partly", "cloudy": "w_cloudy", "overcast": "w_cloudy", "fog": "w_fog",
+              "drizzle": "w_drizzle", "rain": "w_rain", "heavy rain": "w_heavy", "heavy showers": "w_heavy", "showers": "w_showers", "rain showers": "w_showers",
+              "thunderstorm": "w_thunder", "thunderstorms": "w_thunder" }[m[2].toLowerCase()];
+  return k ? m[1] + " " + T(k) : t;
+}
+function drawExtras(){
+  const n = data.numbers || {}, w = n.weather, boxes = [];
+  if(n.usd_lkr) boxes.push(`<div class="num ratebox" id="ratebox"><div class="k">${T("usd")} <span style="color:var(--acc)">${n.rates ? T("all_rates") : ""}</span></div><div class="v">Rs. ${n.usd_lkr.toFixed(2)}</div><div class="s">${T("rate_note")}</div></div>`);
+  if(w) boxes.push(`<div class="num"><div class="k">${T("weather")}</div><div class="v">${esc(weatherText(w.text))} ${w.now_c}°C</div><div class="s">${T("today_w", {a: w.min_c, b: w.max_c, r: w.rain_pct ?? "?"})}</div></div>`);
+  $("nums").innerHTML = boxes.join("");
+  if($("ratebox") && n.rates) $("ratebox").onclick = openRates;
+  drawNumbers(); $("listenrow").style.display = (VOICE_ON && "speechSynthesis" in window && (data.top || []).length) ? "flex" : "none";
+  const warns = (data.sri_lanka || []).filter(s => s.warning).slice(0, 4);
+  $("warnbox").style.display = warns.length ? "block" : "none";
+  $("warnbox").innerHTML = `<h3>${T("warnings")}</h3>` + warns.map(s => `<button data-id="${esc(s.id)}">${esc(titleOf(s))} <span style="color:var(--muted);font-weight:700">· ${esc(s.source)}, ${ago(s.date)}</span></button>`).join("");
+  const ids = data.top || [], all = allStories(), top = ids.map(id => all.find(s => s.id === id)).filter(Boolean);
+  $("top5").style.display = top.length ? "block" : "none";
+  $("top5").innerHTML = `<h3>${T("top5")}</h3>` + top.map((s, i) =>
+    `<button data-id="${esc(s.id)}"><span class="n">${i + 1}</span><span>${s.location ? (s.location.flag || "📍") : "📰"} ${esc(titleOf(s))}${s.coverage > 1 ? ` <span class="cov">· ${T("outlets", {n: s.coverage})}</span>` : ""}</span></button>`).join("");
+}
+
+/* ---- 🔍 fact check: where sites disagree + independent fact-checkers ---- */
+function renderFactcheck(){
+  currentList = [];
+  const dis = allStories().filter(s => s.disagree);
+  currentList.push(...dis);
+  const fcs = (data && data.fact_checks) || [];
+  $("list").innerHTML =
+    `<h2 class="sec">${T("fc_disagree")}</h2><div class="note" style="margin:-4px 2px 10px">${T("fc_disagree_s")}</div>` +
+    (dis.length ? dis.map(s => `<div class="fc"><div class="note">${esc(s.source)} · ${ago(s.date)}</div><div class="q">${esc(titleOf(s))}</div>
+        <div class="d">⚖️ ${esc(s.disagree)}</div><div style="margin-top:8px"><a href="#" data-open="${esc(s.id)}">${T("more_src")} ›</a></div></div>`).join("")
+      : `<div class="empty"><div>⚖️</div>${T("fc_none")}</div>`) +
+    `<h2 class="sec">${T("fc_checkers")}</h2><div class="note" style="margin:-4px 2px 10px">${T("fc_checkers_s")}</div>` +
+    (fcs.length ? fcs.map(f => `<div class="fc"><div class="note">${esc(f.source)} · ${ago(f.date)}</div><div class="q">${esc(lang === "en" ? f.title : (DYN.get(f.title) || T("translating")))}</div>
+        <a href="${esc(f.link)}" target="_blank" rel="noopener">${T("read_on", {s: esc(f.source)})}</a></div>`).join("")
+      : `<div class="empty"><div>✅</div>${T("fc_checkers_none")}</div>`);
+  $("list").querySelectorAll("[data-open]").forEach(a => a.onclick = e => { e.preventDefault(); const st = allStories().find(x => x.id === a.dataset.open); if(st){ openStory(st.id); setTimeout(() => moreFromSource(st), 300); } });
+}
+
+/* ---- 💱 exchange rates + 📊 30-day chart ---- */
+function chartSVG(vals, dates){
+  if(!vals || vals.length < 2) return `<div class="note" style="padding:20px 0;text-align:center">${T("trend_wait")}</div>`;
+  const W = 340, H = 150, P = 26, mn = Math.min(...vals), mx = Math.max(...vals), span = (mx - mn) || 1;
+  const x = i => P + i * (W - 2 * P) / (vals.length - 1), y = v => H - P - (v - mn) / span * (H - 2 * P);
+  const pts = vals.map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");
+  const up = vals[vals.length - 1] >= vals[0], col = up ? "#d84a3a" : "#2e9e6a";
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="trend">
+    <polyline points="${P},${H - P} ${pts} ${W - P},${H - P}" fill="${col}22" stroke="none"/>
+    <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="3" stroke-linejoin="round"/>
+    <text x="${P}" y="14" font-size="11" fill="#6B6880">${mx}</text><text x="${P}" y="${H - 8}" font-size="11" fill="#6B6880">${mn}</text>
+    <text x="${W - P}" y="${H - 8}" font-size="11" fill="#6B6880" text-anchor="end">${esc((dates[dates.length - 1] || "").slice(5))}</text>
+    <text x="${P + 40}" y="${H - 8}" font-size="11" fill="#6B6880">${esc((dates[0] || "").slice(5))}</text></svg>`;
+}
+function openRates(){
+  const n = data.numbers || {}, rates = n.rates || [], h = n.history || {dates: []};
+  let pick = "USD";
+  const draw = () => {
+    const vals = h[pick] || [];
+    $("sheetbox").innerHTML = `<h3>${T("rates_t")}</h3><div class="note">${T("rates_s")}</div>
+      <div class="note" style="margin-top:10px;font-weight:800">${T("trend", {n: vals.length})}: ${esc(pick)}</div>
+      ${chartSVG(vals, h.dates || [])}
+      <div class="chips2">${rates.map(r => `<button data-c="${r.code}" class="${r.code === pick ? "on" : ""}">${r.flag} ${r.code}</button>`).join("")}</div>
+      <div class="rates">${rates.map(r => {
+        const ch = r.prev ? r.lkr - r.prev : 0, pct = r.prev ? (ch / r.prev * 100) : 0;
+        const cls = !r.prev || Math.abs(pct) < 0.005 ? "eq" : ch > 0 ? "up" : "dn";
+        return `<div class="r"><span>${r.flag}</span><span>${esc(r.name)} <span class="note">${r.code}</span></span><b>Rs. ${r.lkr.toLocaleString(undefined, {maximumFractionDigits: r.lkr < 1 ? 4 : 2})}</b>
+          <span class="${cls}">${cls === "eq" ? "–" : (ch > 0 ? "▲ " : "▼ ") + Math.abs(pct).toFixed(2) + "%"}</span></div>`; }).join("")}</div>
+      <button class="btn" style="margin-top:14px;width:100%" id="sheetclose">${T("close")}</button>`;
+    $("sheetbox").querySelectorAll("[data-c]").forEach(b => b.onclick = () => { pick = b.dataset.c; draw(); });
+    $("sheetclose").onclick = closeSheet;
+  };
+  draw(); $("sheet").classList.add("open");
+}
+
+/* ---- 📊 today in numbers: facts with numbers from the biggest stories ---- */
+function drawNumbers(){
+  const all = allStories(), top = (data.top || []).map(id => all.find(s => s.id === id)).filter(Boolean);
+  const pool = [...top, ...all.filter(s => s.cards && !top.includes(s)).sort((a, b) => (b.coverage || 1) - (a.coverage || 1))];
+  const rows = [], used = new Set();
+  for(const s of pool){
+    const c = cardsOf(s); if(!c || !c.key_facts) continue;
+    const f = c.key_facts.find(x => /\d/.test(x));
+    if(f && !used.has(s.id)){ used.add(s.id); rows.push([s, f]); }
+    if(rows.length >= 5) break;
+  }
+  $("numgrid").style.display = rows.length ? "block" : "none";
+  $("numgrid").innerHTML = `<h3>${T("numbers_t")}</h3>` + rows.map(([s, f]) =>
+    `<button data-id="${esc(s.id)}">${esc(f)}<div class="src">${esc(titleOf(s))}</div></button>`).join("");
+}
+
+/* ---- 🎧 listen: the phone's own voice reads the news (no audio download, almost no data) ---- */
+const VOICE_LANG = new Proxy({ en: ["en-GB", "en-US", "en-IN", "en"], si: ["si-LK", "si"], ta: ["ta-LK", "ta-IN", "ta"] }, { get: (o, k) => o[k] || [k] });
+let speaking = false;
+const lsGet = k => { try{ return localStorage.getItem(k); }catch(_){ return null; } };
+const lsSet = (k, v) => { try{ localStorage.setItem(k, v); }catch(_){} };
+const voiceRank = v => (/natural|neural|enhanced|premium|wavenet|network/i.test(v.name) ? 0 : 1) + (/google/i.test(v.name) ? 0 : 0.5);
+function voicesFor(l){
+  const vs = speechSynthesis.getVoices(), out = [];
+  for(const code of VOICE_LANG[l]) vs.forEach(v => { if(!out.includes(v) && v.lang.replace("_", "-").toLowerCase().startsWith(code.toLowerCase())) out.push(v); });
+  return out.sort((a, b) => voiceRank(a) - voiceRank(b));
+}
+function pickVoice(l){
+  const list = voicesFor(l), saved = lsGet("wn_voice_" + l);
+  return list.find(v => v.voiceURI === saved || v.name === saved) || list[0] || null;
+}
+const speechRate = () => parseFloat(lsGet("wn_rate")) || 1;
+function openVoices(){
+  if(!("speechSynthesis" in window)) return toast(T("no_speech"));
+  let l = voicesFor(lang).length ? lang : "en";
+  const draw = () => {
+    const list = voicesFor(l), cur = pickVoice(l), r = speechRate();
+    $("sheetbox").innerHTML = `<h3>${T("voice_t")}</h3><div class="note">${T("voice_s")}</div>
+      <div class="note" style="margin-top:12px;font-weight:800">${T("speed")}</div>
+      <div class="chips2">${[0.8, 0.9, 1, 1.1, 1.25].map(x => `<button data-r="${x}" class="${x === r ? "on" : ""}">${x}×</button>`).join("")}</div>
+      <div class="vlist">${list.length ? list.map((v, i) => `<button data-v="${i}" class="${v === cur ? "on" : ""}">${v === cur ? "✓" : "▶"} ${T("voice_n", {n: i + 1})}<span class="note">${esc(v.lang)}</span></button>`).join("") : `<div class="note">${T("no_voices")}</div>`}</div>
+      <div class="vguide"><b>${T("voice_get")}</b><div class="note">${T("voice_steps")}</div>
+        ${/Android/i.test(navigator.userAgent) ? `<a class="btn" style="display:block;text-align:center;margin-top:8px" href="intent:#Intent;action=com.android.settings.TTS_SETTINGS;end">${T("voice_open")}</a>` : ""}</div>
+      <button class="btn" style="margin-top:14px;width:100%" id="sheetclose">${T("close")}</button>`;
+    $("sheetbox").querySelectorAll("[data-r]").forEach(b => b.onclick = () => { lsSet("wn_rate", b.dataset.r); sample(pickVoice(l)); draw(); });
+    $("sheetbox").querySelectorAll("[data-v]").forEach(b => b.onclick = () => { const v = list[+b.dataset.v]; lsSet("wn_voice_" + l, v.voiceURI || v.name); sample(v); draw(); });
+    $("sheetclose").onclick = () => { try{ speechSynthesis.cancel(); }catch(_){} closeSheet(); };
+  };
+  const sample = v => { if(speaking) stopSpeaking(); speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(l === lang ? T("voice_sample") : "This is how the news will be read to you."); if(v){ u.voice = v; u.lang = v.lang; } u.rate = speechRate(); speechSynthesis.speak(u); };
+  draw(); $("sheet").classList.add("open");
+}
+/* Listen explains, like a presenter: the AI's spoken script when there is one, otherwise the summary with spoken links.
+   Never reads English in another language: an untranslated story is skipped. */
+function storyText(s){
+  // headlines are never read aloud: only full written sentences (the story's spoken script, or its summary)
+  if(lang !== "en" && !trTitle(s)) return [];
+  const c = cardsOf(s);
+  if(c && c.spoken) return [c.spoken];
+  if(c && c.what_happened){
+    const parts = [c.what_happened];
+    if(c.why_it_matters) parts.push(T("say_why"), c.why_it_matters);
+    return parts.filter(t => t && !t.startsWith("🌐"));
+  }
+  return [];
+}
+function stopSpeaking(){ speaking = false; try{ speechSynthesis.cancel(); }catch(_){} $("vlisten").textContent = "🎧"; $("briefbtn").innerHTML = T("listen_brief"); }
+function briefScript(){
+  const b = data && data.brief;
+  if(!b || !b.checked) return null;             // only bulletins that passed the editor check
+  if(b[lang]) return b[lang];
+  return lang !== "en" && b.en ? (DYN.get(b.en) || null) : (lang === "en" ? b.en : null);
+}
+function speakStories(list, script){
+  if(!("speechSynthesis" in window)) return toast(T("no_speech"));
+  if(speaking){ stopSpeaking(); return; }
+  const useLang = lang, voice = pickVoice(lang);
+  if(!voice && lang !== "en"){ toast(T("no_voice", {l: LANGS[lang]})); openVoices(); return; }   // no English reading in another language
+  // the AI's own greeting or "welcome" lines are removed: exactly ONE greeting, from your own clock
+  const greetLine = /^\s*(good (morning|afternoon|evening|night)|welcome|hello|සුබ |ආයුබෝවන්|வணக்கம்|காலை வணக்கம்|மதிய வணக்கம்|மாலை வணக்கம்|இரவு வணக்கம்)|your host|glad to have you|morning news|evening news/i;
+  if(script) script = script.split(/(?<=[.!?।])\s+/).filter((x, n) => !(n < 3 && greetLine.test(x))).join(" ");
+  const kept = script ? [] : list.filter(x => storyText(x).length);
+  const said = script ? [[script]] : kept.map(storyText);
+  if(!said.length){ toast(T("brief_wait")); return; }
+  const brief = !script && said.length > 1, hr = new Date().getHours(), chunks = [];
+  if(brief || script) chunks.push(T(hr >= 5 && hr < 12 ? "greet_m" : hr >= 12 && hr < 17 ? "greet_a" : hr >= 17 && hr < 21 ? "greet_e" : "greet_n"));
+  if(brief) chunks.push(T("say_hello"));
+  said.forEach((parts, n) => {
+    if(brief && n > 0) chunks.push(kept[n].region === "world" && kept[n - 1].region !== "world" ? T("say_world") : T("say_nextstory"));
+    parts.forEach(t => t.split(/(?<=[.!?।])\s+(?=[^\d])/).forEach(x => x.trim() && chunks.push(x.trim())));
+  });
+  if(brief) chunks.push(T("say_bye"));
+  speaking = true; $("vlisten").textContent = "⏹"; $("briefbtn").innerHTML = T("stop");
+  speechSynthesis.cancel();
+  let i = 0;
+  const next = () => {
+    if(!speaking || i >= chunks.length){ stopSpeaking(); return; }
+    const u = new SpeechSynthesisUtterance(chunks[i++]);
+    if(voice){ u.voice = voice; u.lang = voice.lang; } else u.lang = VOICE_LANG[useLang][0];
+    u.rate = speechRate(); u.onend = next; u.onerror = next;
+    speechSynthesis.speak(u);
+  };
+  next();
+}
+if("speechSynthesis" in window){ speechSynthesis.getVoices(); speechSynthesis.onvoiceschanged = () => {}; }
+$("voicebtn").onclick = openVoices;
+$("vlisten").onclick = () => current && speakStories([current]);
+$("briefbtn").onclick = () => { const all = allStories(); speakStories((data.top || []).map(id => all.find(s => s.id === id)).filter(Boolean), briefScript()); };
+$("numgrid").onclick = e => { const id = e.target.closest("[data-id]")?.dataset.id; if(id) openStory(id); };
+
+/* ---- load ---- */
+function openFromHash(){
+  const m = location.hash.match(/^#s-([a-f0-9]+)$/);
+  if(m && data) openStory(m[1]);
+}
+async function load(){
+  try{
+    const r = await fetch("news.json", { cache: "no-cache" });   // asks "changed?": unchanged = almost no data
+    data = await r.json();
+    await loadCountry();
+    $("upd").textContent = data.updated ? T("updated", {t: ago(data.updated)}) : T("waiting");
+    if(data.channel){ const tg = $("tg"); tg.href = "https://t.me/" + data.channel.replace("@",""); tg.style.display = "inline-block"; }
+    drawExtras();
+    if(!$("viewer").classList.contains("open")) render();
+  }catch(e){
+    $("upd").textContent = T("cant_load");
+  }
+}
+window.addEventListener("hashchange", openFromHash);
+drawHeader();
+load().then(openFromHash);
+setInterval(() => { if(!document.hidden) load(); }, 5 * 60 * 1000);   // no downloads while the tab is hidden
+</script>
+</body>
+</html>

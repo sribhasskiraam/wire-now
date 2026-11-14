@@ -1,0 +1,372 @@
+{
+  "sri_lanka": [
+    {
+      "name": "Google Top Stories LK",
+      "google_feed": "https://news.google.com/rss?hl=en-LK&gl=LK&ceid=LK:en"
+    },
+    {
+      "name": "Ada Derana",
+      "google": "adaderana.lk"
+    },
+    {
+      "name": "Newswire",
+      "url": "https://www.newswire.lk/feed/"
+    },
+    {
+      "name": "The Island",
+      "url": "https://island.lk/feed/"
+    },
+    {
+      "name": "EconomyNext",
+      "google": "economynext.com"
+    },
+    {
+      "name": "Daily Mirror",
+      "google": "dailymirror.lk"
+    },
+    {
+      "name": "Hiru News",
+      "google": "hirunews.lk"
+    },
+    {
+      "name": "Newsfirst",
+      "google": "newsfirst.lk"
+    },
+    {
+      "name": "Daily News",
+      "google": "dailynews.lk"
+    },
+    {
+      "name": "Sunday Times",
+      "google": "sundaytimes.lk"
+    },
+    {
+      "name": "Lanka Business Online",
+      "url": "https://www.lankabusinessonline.com/feed/"
+    },
+    {
+      "name": "Lanka Puvath",
+      "google": "lankapuvath.lk"
+    },
+    {
+      "name": "Colombo Gazette",
+      "url": "https://colombogazette.com/feed/"
+    },
+    {
+      "name": "Ceylon Today",
+      "google": "ceylontoday.lk"
+    },
+    {
+      "name": "Google Warnings LK",
+      "google_q": "(\"landslide\" OR \"flood\" OR \"cyclone\" OR \"tsunami\" OR \"heavy rain\") (warning OR alert) Sri Lanka"
+    }
+  ],
+  "world": [
+    {
+      "name": "Google Top Stories World",
+      "google_feed": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "name": "CNN",
+      "url": "http://rss.cnn.com/rss/edition_world.rss"
+    },
+    {
+      "name": "Reuters",
+      "google": "reuters.com"
+    },
+    {
+      "name": "AP News",
+      "google": "apnews.com"
+    }
+  ],
+  "settings": {
+    "max_posts_per_run_sri_lanka": 3,
+    "max_posts_per_run_world": 2,
+    "max_story_age_hours": 12,
+    "hashtags_sri_lanka": "#WireNow #SriLanka",
+    "hashtags_world": "#WireNow #WorldNews",
+    "website_story_count": 150,
+    "ai_stories_per_day": 12,
+    "research_max_articles": 5,
+    "research_search": true,
+    "website_url": "https://wirenow-lk.github.io/wire-now/",
+    "min_outlets_sri_lanka": 1,
+    "min_outlets_world": 2,
+    "ai_share_for_normal_news": 0.5,
+    "stories_per_country": 60,
+    "max_breaking_per_run": 3,
+    "ai_stories_per_day_council": 80,
+    "normal_max_articles": 3,
+    "council": {
+      "writers": [
+        "gemini:gemini-flash-latest",
+        "gemini:gemini-2.5-flash",
+        "openrouter:openrouter/free",
+        "groq:llama-3.3-70b-versatile"
+      ],
+      "checkers": [
+        "groq:llama-3.3-70b-versatile",
+        "gemini:gemini-flash-lite-latest",
+        "gemini:gemini-2.5-flash-lite",
+        "openrouter:openrouter/free"
+      ],
+      "daily_requests": {
+        "openrouter": 45,
+        "gemini": 200,
+        "groq": 600
+      }
+    }
+  },
+  "countries": {
+    "IN": {
+      "name": "India",
+      "feeds": [
+        {
+          "name": "Google Top Stories IN",
+          "google_feed": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en"
+        }
+      ]
+    },
+    "PK": {
+      "name": "Pakistan",
+      "feeds": [
+        {
+          "name": "Google Top Stories PK",
+          "google_feed": "https://news.google.com/rss?hl=en-PK&gl=PK&ceid=PK:en"
+        }
+      ]
+    },
+    "BD": {
+      "name": "Bangladesh",
+      "feeds": [
+        {
+          "name": "Google Top Stories BD",
+          "google_feed": "https://news.google.com/rss?hl=en-BD&gl=BD&ceid=BD:en"
+        }
+      ]
+    },
+    "US": {
+      "name": "United States",
+      "feeds": [
+        {
+          "name": "Google Top Stories US",
+          "google_feed": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "feeds": [
+        {
+          "name": "Google Top Stories GB",
+          "google_feed": "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en"
+        }
+      ]
+    },
+    "IE": {
+      "name": "Ireland",
+      "feeds": [
+        {
+          "name": "Google Top Stories IE",
+          "google_feed": "https://news.google.com/rss?hl=en-IE&gl=IE&ceid=IE:en"
+        }
+      ]
+    },
+    "CA": {
+      "name": "Canada",
+      "feeds": [
+        {
+          "name": "Google Top Stories CA",
+          "google_feed": "https://news.google.com/rss?hl=en-CA&gl=CA&ceid=CA:en"
+        }
+      ]
+    },
+    "AU": {
+      "name": "Australia",
+      "feeds": [
+        {
+          "name": "Google Top Stories AU",
+          "google_feed": "https://news.google.com/rss?hl=en-AU&gl=AU&ceid=AU:en"
+        }
+      ]
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "feeds": [
+        {
+          "name": "Google Top Stories NZ",
+          "google_feed": "https://news.google.com/rss?hl=en-NZ&gl=NZ&ceid=NZ:en"
+        }
+      ]
+    },
+    "SG": {
+      "name": "Singapore",
+      "feeds": [
+        {
+          "name": "Google Top Stories SG",
+          "google_feed": "https://news.google.com/rss?hl=en-SG&gl=SG&ceid=SG:en"
+        }
+      ]
+    },
+    "MY": {
+      "name": "Malaysia",
+      "feeds": [
+        {
+          "name": "Google Top Stories MY",
+          "google_feed": "https://news.google.com/rss?hl=en-MY&gl=MY&ceid=MY:en"
+        }
+      ]
+    },
+    "PH": {
+      "name": "Philippines",
+      "feeds": [
+        {
+          "name": "Google Top Stories PH",
+          "google_feed": "https://news.google.com/rss?hl=en-PH&gl=PH&ceid=PH:en"
+        }
+      ]
+    },
+    "AE": {
+      "name": "UAE",
+      "feeds": [
+        {
+          "name": "Google Top Stories AE",
+          "google_feed": "https://news.google.com/rss?hl=en-AE&gl=AE&ceid=AE:en"
+        }
+      ]
+    },
+    "IL": {
+      "name": "Israel",
+      "feeds": [
+        {
+          "name": "Google Top Stories IL",
+          "google_feed": "https://news.google.com/rss?hl=en-IL&gl=IL&ceid=IL:en"
+        }
+      ]
+    },
+    "NG": {
+      "name": "Nigeria",
+      "feeds": [
+        {
+          "name": "Google Top Stories NG",
+          "google_feed": "https://news.google.com/rss?hl=en-NG&gl=NG&ceid=NG:en"
+        }
+      ]
+    },
+    "KE": {
+      "name": "Kenya",
+      "feeds": [
+        {
+          "name": "Google Top Stories KE",
+          "google_feed": "https://news.google.com/rss?hl=en-KE&gl=KE&ceid=KE:en"
+        }
+      ]
+    },
+    "ZA": {
+      "name": "South Africa",
+      "feeds": [
+        {
+          "name": "Google Top Stories ZA",
+          "google_feed": "https://news.google.com/rss?hl=en-ZA&gl=ZA&ceid=ZA:en"
+        }
+      ]
+    },
+    "GH": {
+      "name": "Ghana",
+      "feeds": [
+        {
+          "name": "Google Top Stories GH",
+          "google_feed": "https://news.google.com/rss?hl=en-GH&gl=GH&ceid=GH:en"
+        }
+      ]
+    },
+    "FR": {
+      "name": "France",
+      "feeds": [
+        {
+          "name": "Google Top Stories FR",
+          "google_feed": "https://news.google.com/rss?hl=fr&gl=FR&ceid=FR:fr"
+        }
+      ]
+    },
+    "DE": {
+      "name": "Germany",
+      "feeds": [
+        {
+          "name": "Google Top Stories DE",
+          "google_feed": "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de"
+        }
+      ]
+    },
+    "JP": {
+      "name": "Japan",
+      "feeds": [
+        {
+          "name": "Google Top Stories JP",
+          "google_feed": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja"
+        }
+      ]
+    },
+    "IT": {
+      "name": "Italy",
+      "feeds": [
+        {
+          "name": "Google Top Stories IT",
+          "google_feed": "https://news.google.com/rss?hl=it&gl=IT&ceid=IT:it"
+        }
+      ]
+    },
+    "ES": {
+      "name": "Spain",
+      "feeds": [
+        {
+          "name": "Google Top Stories ES",
+          "google_feed": "https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es"
+        }
+      ]
+    },
+    "BR": {
+      "name": "Brazil",
+      "feeds": [
+        {
+          "name": "Google Top Stories BR",
+          "google_feed": "https://news.google.com/rss?hl=pt-BR&gl=BR&ceid=BR:pt-419"
+        }
+      ]
+    }
+  },
+  "fact_checks": [
+    {
+      "name": "Factcheck.lk",
+      "google": "factcheck.lk",
+      "days": 30
+    },
+    {
+      "name": "Fact Crescendo Sri Lanka",
+      "google": "srilanka.factcrescendo.com",
+      "days": 30
+    },
+    {
+      "name": "Watchdog",
+      "google": "watchdog.team",
+      "days": 30
+    },
+    {
+      "name": "AFP Fact Check",
+      "google_q": "AFP fact check Sri Lanka",
+      "days": 30
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+name: Never-again checks
+
+# Runs whenever the robot or the website changes. If a past mistake would come back,
+# this fails and GitHub emails the owner. It does not stop the news robot.
+on:
+  push:
+    branches: [main]
+    paths: ["bot.py", "cards.py", "places.py", "site_extras.py", "social.py", "docs/index.html", "docs/community/index.html", "tests/**"]
+  workflow_dispatch:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Past mistakes must not come back
+        run: python tests/test_never_again.py
+      - name: Website code has no errors
+        run: python tests/check_pages.py

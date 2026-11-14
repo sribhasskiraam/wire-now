@@ -1,0 +1,82 @@
+name: Post news
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may run it late at busy times)
+  workflow_dispatch:          # lets you press "Run workflow" by hand
+  push:                       # also runs once whenever the code is updated
+    branches: [main]
+    paths: ["bot.py", "cards.py", "site_extras.py", "places.py", "social.py", "feeds.json", ".github/workflows/news.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: post-news
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the picture library
+        run: pip install pillow
+
+      - name: Bring back the robot's private, encrypted notes (never in the public code)
+        uses: actions/cache/restore@v4
+        with:
+          path: data/private
+          key: private-${{ github.run_id }}
+          restore-keys: private-
+
+      - name: Fetch news, make story cards, post to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          set -o pipefail
+          python -u bot.py 2>&1 | tee data/last_run.log     # -u: the log is written as it goes, even if the run is stopped
+
+      - name: Keep the robot's private, encrypted notes for the next run
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/private
+          key: private-${{ github.run_id }}
+
+      - name: Put the radio show recordings online (kept outside the code, replaced each time)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ls radio_out/*.mp3 >/dev/null 2>&1 || { echo "No new recordings this run."; exit 0; }
+          gh release view radio >/dev/null 2>&1 || gh release create radio --title "Radio show recordings" --notes "Replaced automatically by the robot. Not a software release." --latest=false
+          gh release upload radio radio_out/*.mp3 --clobber && echo "Recordings uploaded."
+          rm -rf radio_out
+
+      - name: Save what was posted and update the website
+        if: always()
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet && { echo "Nothing new to save."; exit 0; }
+          git commit -q -m "News update $(date -u +'%Y-%m-%d %H:%M')"
+          # put ONLY this run's one commit on top of the latest code (never replays older history)
+          for i in 1 2 3; do
+            git fetch -q origin main && git rebase -q --onto origin/main HEAD~1 HEAD -X theirs && git push -q origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null; sleep 5
+          done
+          echo "::warning::Could not save this run's news (it will be saved by the next run)."

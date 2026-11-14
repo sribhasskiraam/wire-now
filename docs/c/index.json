@@ -1,0 +1,101 @@
+{
+ "updated": "2026-11-14T03:14:42.229637+00:00",
+ "countries": {
+  "IN": {
+   "name": "India",
+   "count": 37
+  },
+  "PK": {
+   "name": "Pakistan",
+   "count": 36
+  },
+  "BD": {
+   "name": "Bangladesh",
+   "count": 36
+  },
+  "US": {
+   "name": "United States",
+   "count": 36
+  },
+  "GB": {
+   "name": "United Kingdom",
+   "count": 37
+  },
+  "IE": {
+   "name": "Ireland",
+   "count": 35
+  },
+  "CA": {
+   "name": "Canada",
+   "count": 37
+  },
+  "AU": {
+   "name": "Australia",
+   "count": 38
+  },
+  "NZ": {
+   "name": "New Zealand",
+   "count": 30
+  },
+  "SG": {
+   "name": "Singapore",
+   "count": 31
+  },
+  "MY": {
+   "name": "Malaysia",
+   "count": 32
+  },
+  "PH": {
+   "name": "Philippines",
+   "count": 37
+  },
+  "AE": {
+   "name": "UAE",
+   "count": 36
+  },
+  "IL": {
+   "name": "Israel",
+   "count": 35
+  },
+  "NG": {
+   "name": "Nigeria",
+   "count": 34
+  },
+  "KE": {
+   "name": "Kenya",
+   "count": 35
+  },
+  "ZA": {
+   "name": "South Africa",
+   "count": 37
+  },
+  "GH": {
+   "name": "Ghana",
+   "count": 25
+  },
+  "FR": {
+   "name": "France",
+   "count": 33
+  },
+  "DE": {
+   "name": "Germany",
+   "count": 33
+  },
+  "JP": {
+   "name": "Japan",
+   "count": 11
+  },
+  "IT": {
+   "name": "Italy",
+   "count": 32
+  },
+  "ES": {
+   "name": "Spain",
+   "count": 34
+  },
+  "BR": {
+   "name": "Brazil",
+   "count": 34
+  }
+ }
+}

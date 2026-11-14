@@ -1,0 +1,144 @@
+name: Set up community
+
+# Builds or updates the community database on Supabase and connects the website to it.
+# Runs when the database plan changes, or by hand from the Actions tab ("Run workflow").
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"   # once a day: keeps the free database awake
+  push:
+    branches: [main]
+    paths:
+      - community/schema.sql
+      - .github/workflows/community.yml
+      - supabase/functions/**
+      - supabase/**
+
+permissions:
+  contents: write
+
+concurrency:
+  group: community-setup
+  cancel-in-progress: false
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    env:
+      DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+      SB_URL: ${{ secrets.SUPABASE_URL }}
+      SB_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+      ADMIN_EMAIL: ${{ secrets.COMMUNITY_ADMIN_EMAIL }}
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check the secrets
+        run: |
+          ok=1
+          [ -n "$DB_URL" ]  || { echo "::warning::SUPABASE_DB_URL secret is missing (the Session pooler connection string)."; ok=0; }
+          [ -n "$SB_URL" ]  || { echo "::warning::SUPABASE_URL secret is missing (looks like https://xxxx.supabase.co)."; ok=0; }
+          [ -n "$SB_KEY" ]  || { echo "::warning::SUPABASE_ANON_KEY secret is missing (the anon / publishable key)."; ok=0; }
+          SB_URL="${SB_URL%/}"; SB_URL="${SB_URL%/rest/v1}"; SB_URL="${SB_URL%/}"; echo "SB_URL=$SB_URL" >> "$GITHUB_ENV"
+          case "$SB_URL" in ""|https://*.supabase.co) ;; *) echo "::warning::SUPABASE_URL should look like https://xxxx.supabase.co"; ok=0;; esac
+          case "$SB_KEY" in ""|eyJ*|sb_publishable_*) ;; sb_secret_*) echo "::error::SUPABASE_ANON_KEY must be the PUBLISHABLE key, never the secret key. Replace it now."; ok=0;; *) echo "::warning::SUPABASE_ANON_KEY should start with sb_publishable_ (or eyJ for the old anon key)"; ok=0;; esac
+          case "$SB_KEY" in eyJ*) echo "AUTHH=Authorization: Bearer $SB_KEY" >> "$GITHUB_ENV";; *) echo "AUTHH=X-Wire-Now: 1" >> "$GITHUB_ENV";; esac
+          case "$DB_URL" in ""|postgres://*|postgresql://*) ;; *) echo "::warning::SUPABASE_DB_URL should start with postgresql://"; ok=0;; esac
+          if echo "$DB_URL" | grep -q 'YOUR-PASSWORD'; then echo "::warning::Replace [YOUR-PASSWORD] in SUPABASE_DB_URL with your database password."; ok=0; fi
+          echo "OK=$ok" >> "$GITHUB_ENV"
+
+      - name: Keep the free database awake
+        if: github.event_name == 'schedule'
+        run: |
+          [ -n "$SB_URL" ] && [ -n "$SB_KEY" ] || { echo "Not set up yet."; exit 0; }
+          curl -fsS "${SB_URL%/}/rest/v1/communities?select=slug&limit=1" -H "apikey: $SB_KEY" -H "$AUTHH" >/dev/null && echo "Database is awake."
+          echo "SKIP=1" >> "$GITHUB_ENV"
+
+      - name: Build or update the database
+        if: env.OK == '1' && env.SKIP != '1'
+        run: |
+          psql "$DB_URL" -v ON_ERROR_STOP=1 -q -f community/schema.sql
+          echo "Database is ready."
+
+      - name: Make the owner an admin
+        if: env.OK == '1' && env.SKIP != '1' && env.ADMIN_EMAIL != ''
+        run: |
+          psql "$DB_URL" -v ON_ERROR_STOP=1 -q -v email="$ADMIN_EMAIL" <<'SQL'
+          insert into public.admin_emails (email) values (lower(:'email')) on conflict do nothing;
+          update public.profiles p set is_admin = true
+            from auth.users u where u.id = p.id and lower(u.email) = lower(:'email');
+          SQL
+          echo "Admin email saved."
+
+      - name: Prepare silent phone pop-ups
+        if: env.OK == '1' && env.SKIP != '1'
+        run: |
+          ref=$(echo "$SB_URL" | sed -E 's#https://([^.]+)\.supabase\.co/?#\1#')
+          have=$(psql "$DB_URL" -tAc "select count(*) from private.settings where key in ('vapid_public','vapid_private','push_secret')")
+          if [ "$have" != "3" ]; then
+            keys=$(npx --yes web-push@3.6.7 generate-vapid-keys --json)
+            pub=$(echo "$keys" | node -pe 'JSON.parse(require("fs").readFileSync(0)).publicKey')
+            priv=$(echo "$keys" | node -pe 'JSON.parse(require("fs").readFileSync(0)).privateKey')
+            sec=$(openssl rand -hex 32)
+            echo "::add-mask::$priv"; echo "::add-mask::$sec"
+            psql "$DB_URL" -v ON_ERROR_STOP=1 -q -v pub="$pub" -v priv="$priv" -v sec="$sec" <<'SQL'
+          insert into private.settings values ('vapid_public', :'pub'), ('vapid_private', :'priv'), ('push_secret', :'sec')
+          on conflict (key) do nothing;
+          SQL
+            echo "Pop-up keys created and stored privately in the database."
+          fi
+          subject="https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}/"
+          [ -n "$ADMIN_EMAIL" ] && subject="mailto:$ADMIN_EMAIL"
+          psql "$DB_URL" -v ON_ERROR_STOP=1 -q -v url="https://$ref.supabase.co/functions/v1/push" -v subj="$subject" <<'SQL'
+          insert into private.settings values ('push_function_url', :'url'), ('vapid_subject', :'subj')
+          on conflict (key) do update set value = excluded.value;
+          SQL
+          echo "REF=$ref" >> "$GITHUB_ENV"
+
+      - uses: supabase/setup-cli@v1
+        if: env.OK == '1' && env.SKIP != '1' && env.SUPABASE_ACCESS_TOKEN != ''
+        with:
+          version: latest
+
+      - name: Put the pop-up sender and summary writer online
+        if: env.OK == '1' && env.SKIP != '1'
+        continue-on-error: true
+        run: |
+          if [ -z "$SUPABASE_ACCESS_TOKEN" ]; then
+            echo "::warning::Add the SUPABASE_ACCESS_TOKEN secret to switch on phone pop-ups and double-tap summaries (everything else works without it)."
+            exit 0
+          fi
+          site="https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}/"
+          args=("SITE_URL=$site")
+          [ -n "$GEMINI_API_KEY" ] && args+=("GEMINI_API_KEY=$GEMINI_API_KEY")
+          [ -n "$GROQ_API_KEY" ] && args+=("GROQ_API_KEY=$GROQ_API_KEY")
+          # the robot proves itself to the Fact Base with a key made from its own secret (the same recipe in bot.py)
+          [ -n "$TELEGRAM_BOT_TOKEN" ] && args+=("ROBOT_KEY=$(printf 'wire-now-robot|%s' "$TELEGRAM_BOT_TOKEN" | sha256sum | cut -c1-64)")
+          # Supabase's tool asks "are you sure?"; --yes answers it. Newer versions use --remote, older ones --project-ref.
+          sb() { supabase "$@" --remote="$REF" --yes || supabase "$@" --project-ref "$REF" --yes; }
+          sb secrets set "${args[@]}" >/dev/null && echo "Settings passed to the server functions."
+          [ -n "$GEMINI_API_KEY$GROQ_API_KEY" ] || echo "::warning::Add GEMINI_API_KEY (free) so double-tap summaries can be written."
+          sb functions deploy push --no-verify-jwt --use-api && echo "Phone pop-ups are on."
+          sb functions deploy summarize --no-verify-jwt --use-api && echo "Double-tap summaries are on."
+          sb functions deploy translate --no-verify-jwt --use-api && echo "Translation into any language is on."
+          sb functions deploy facts --no-verify-jwt --use-api && echo "The Fact Base can receive facts from the robot."
+          sb functions deploy check --no-verify-jwt --use-api && echo "'Is this true?' is on."
+
+      - name: Connect the website
+        if: env.OK == '1' && env.SKIP != '1'
+        run: |
+          url="${SB_URL%/}"
+          printf '// Written by the "Set up community" robot. These two values are public by design:\n// the database rules (row level security) decide what anyone can do.\nwindow.WN_SUPABASE = { url: "%s", anonKey: "%s" };\n' "$url" "$SB_KEY" > docs/community/config.js
+          git config user.name "wire-now-bot"
+          git config user.email "wire-now-bot@users.noreply.github.com"
+          git add docs/community/config.js
+          if git diff --cached --quiet; then echo "Website already connected."; exit 0; fi
+          git commit -m "Connect the community page to the database"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1

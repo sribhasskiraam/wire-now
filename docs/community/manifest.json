@@ -1,0 +1,14 @@
+{
+  "name": "Wire Now Community",
+  "short_name": "Wire Now",
+  "description": "A calm place to talk about the news and life. Made for quiet people.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF7F2",
+  "theme_color": "#FBF7F2",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

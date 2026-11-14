@@ -1,0 +1,74 @@
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 12/80 used today
+
+OK   Google Top Stories LK: 38 stories
+OK   Ada Derana: 93 stories
+OK   Newswire: 20 stories
+OK   The Island: 10 stories
+OK   EconomyNext: 15 stories
+OK   Daily Mirror: 53 stories
+OK   Hiru News: 100 stories
+OK   Newsfirst: 13 stories
+OK   Daily News: 58 stories
+OK   Sunday Times: 2 stories
+OK   Lanka Business Online: 10 stories
+OK   Lanka Puvath: 1 stories
+FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
+OK   Ceylon Today: 2 stories
+OK   Google Warnings LK: 10 stories
+OK   Google Top Stories World: 70 stories
+OK   BBC World: 26 stories
+OK   The Guardian: 45 stories
+OK   Al Jazeera: 25 stories
+OK   CNN: 29 stories
+OK   Reuters: 100 stories
+OK   AP News: 95 stories
+
+Biggest stories right now: All passengers and crew on New Orleans cruise (8 outlets) | Microsoft services begin recovering after glo (8 outlets) | 23 killed, 20 injured in bus-truck collision  (5 outlets) | SEC ‘warmly welcomes’ inclusion of two of its (4 outlets) | US flights resume after FAA lifts hours-long  (4 outlets)
+
+5 new stories to post
+
+    reddit: Reddit not reachable from here
+What people are saying: looked up 1, 0 stories with Reddit discussions
+* Ada Derana [1 outlets]: Goalkeeper involved in fatal collision gets 12-game ban
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newsfirst [1 outlets]: 15% of Sri Lankan Adults Affected by Diabetes
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Newswire [1 outlets]: Sri Lanka moves forward with new law to prevent people from joining te
+    normal news - one-paragraph summary
+    news search: 0 results, 0 about this story
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+    gemini:gemini-2.5-flash-lite not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+    attempt 1 failed: AI did not reply with JSON: ''
+    attempt 2 failed: AI did not reply with JSON: ''
+    -> no cards; posting with the site's own summary
+* Reuters [2 outlets]: Nvidia's Huang turns to Paul Weiss, law firm that inked deal with Trum
+    no AI summary: saving the rest of today for important news
+* BBC World [2 outlets]: Watch: Cruise ship seen sinking after collision with cargo ship in New
+    no AI summary: saving the rest of today for important news
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 1
+  photos: 12 too small to look sharp, using the clean cover
+numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  radio script failed (no AI available for writers)
+  translated 30 headlines (openrouter:openrouter/free)
+  meaning check: 15 stories judged by openrouter:openrouter/free
+  meaning check: 15 stories judged by openrouter:openrouter/free
+
+Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 10 story pages for Google)
+
+Countries: IN 37, PK 36, BD 36, US 36, GB 37, IE 35, CA 37, AU 38, NZ 30, SG 31, MY 32, PH 37, AE 36, IL 35, NG 34, KE 35, ZA 37, GH 25, FR 33, DE 33, JP 11, IT 32, ES 34, BR 34

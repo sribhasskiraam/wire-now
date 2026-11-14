@@ -1,34 +1,34 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
   {
-   "id": "c79a29eef9",
-   "title": "Window of speciality store in Holland Village smashed; police investigating",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlRFYlF2T1Z4dnRtOHlyQ3dCdC1QaHBqS2x5ZGpscnQzdmYxWHRwRkoxQWUtMTVhaVR4WG9RbExZNXNnQVQzNU93Qk5aWUFwOTZ5M1lhQkN0SldHa3BiLXlvWTRWYjF3dS1fS0hmUVFSVmg2Z3hTbGJ3c1otMWZaYWJLcDZJaVBxWktyYVV2bkhRSko3eWlrMV9oMnRCR1Q1dl91bU5kSDJpRzY3TFAwZXQzZw?oc=5",
+   "id": "a8b0ee5a02",
+   "title": "Woman caught on CCTV allegedly stealing more than $360 worth of Pokemon cards from Orchard store",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOMFkzZ0p3cDVOOTVYRnd4SFUyNDZ0NEI0RFpsTkdhTnd6NWJBR1g2N29CYmNWYXVfbjNnT194N3g5MWx2ZTg3enZ4SlZZZHRpRF8zUE1KUTI5M2s4X1Aybk5oYnIzRWtJOGg0?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Straits Times",
+   "source": "AsiaOne.com",
    "region": "SG",
-   "date": "2026-11-14T06:20:00+00:00",
+   "date": "2026-11-14T05:27:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
-   "id": "65be98a0b0",
-   "title": "UOB sells 36 of 38 Marina Collection units within two hours",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOF9ETlh4ZTlxYmM4cDRaT2puNkRJdF91LXVwWWRCZmlnOE93eHlnZ0piX21GTFNoRWF5WjkxZGNTazB0Unh3VW01eWhmV3AwYklMOEpHQlNET0pELTd5dTN1X0hLdnN2STF1Y3pIMk9GNG5wWVptSE5NejFENV9XT2hCd3EwVS1HY01SVHdlRjNYV1ZmN2NFXzVR?oc=5",
+   "id": "dafc50bdd8",
+   "title": "Singapore has suspended a telco licence in the past; will Simba be next?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVlanpka1NwMmQySHBBczg1UlNEZ0taREVEWGhLWmtVdTB5Vy1ZTk8tN29JUFd6S2xVOURtOHZ5T1lEc0tKQnpJM2hpZlcyU0JSc3RGanpDSER2dURSZU9sd05CTTk5V3hMSV94ZUtwREx4QkpvMHNUb2szbmw5YmlYeU9jYnFaeXJ2bUlvb1ZxbGl0N0xDblJENFhxa3gxb0ZfU2xmazQ4LUVQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "EdgeProp Singapore",
+   "source": "The Straits Times",
    "region": "SG",
-   "date": "2026-11-14T05:55:31+00:00",
+   "date": "2026-11-14T04:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -46,23 +46,6 @@
    "source": "The Straits Times",
    "region": "SG",
    "date": "2026-11-14T02:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "129d9f6abf",
-   "title": "Voting underway for Melaka polls (photo gallery)",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3JRZ0JmYllkc29RREVCSEktcGFxdjAzTnloYnVpaXpjSXBvdURMVGt4Um5mRmJiUmJWMnhJV1ZnZTlzZmFvZk5yUGFpbmVGdkwxUXcwQmJOZDRIRUlSZ21fOXo3a1lBUThrX002NnN3MjhOSkFFVmdFRFZqZUswb2NHWDRDYmFIQUljdU9wbk0wbWlJQUw4MVVLXzg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "SG",
-   "date": "2026-11-14T02:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -208,6 +191,27 @@
    "topic": "Society"
   },
   {
+   "id": "af85762042",
+   "title": "White House confirms US-China-Russia trilateral talks on Apec sidelines",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUQ0eHVXbzA0bDFwak45Zm4zdFd6REJ2SnVLYUNVS3F5M3RNM1MtSmlSNmp2c01NbmNHSkNUcjd1REEtS1hKSTROQTZjUzhQNnpyLW83ay1la1RwTFRnQTlvOEdMUmh5dkp2aEV4T1VoYW1CNUtBYUJncWpuNFZqOVg2cVhHb3h4X1hzWmFCYjFmYk5mZDNyUXA1ZkNOU2hjQi16QXE0UkJleGQ3dG0tMlBGa09jc3lJYzN3Q9IBvAFBVV95cUxOYlBkRl8tMXo3dlZDM296Zjh0UGtEalk3TVFEdW95N0ZHYU5pZFZMWEdaZ0NLN3hzT0F1TjZWajZEQjJ4UFZuSUdsMWY3WjFCZ2hBbDFNazItZ2tBSW16dUkyUDM2UTRoR2pFX0FqTkdBZHgwUkM5SG9uWjdWREN4UmhKbDBub3dwRG5UaUFLVE9iRjIxWWRxck5VZl9aa1c3QnRvMHowOE5fMzJpZC1UOG42dW5NQmx5ZUMxag?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "South China Morning Post",
+   "region": "SG",
+   "date": "2026-11-14T00:30:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇳 🇷🇺",
+    "also": [
+     "China",
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "92867c2878",
    "title": "Ramen Keisuke's Tori King at 100AM mall closing after 14 years, last day on Nov 29",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFRBR0hCQmZhS1NLbG14VnlaTWJ3V3FPQkYtZzhzMzY0dEI4UTNnNk0taGxoR2ptUUxCTU1PQy1BNW9wbzRkaWVpY2NKRDRXR0NMb3pwQmVNUkRjVGRZMmwwQURualNhbnktQ3BEQjd4Q2JtMk9ia29Obm5IWHE1RDliLXFxTUZJNlQzUnVIU2xhQVk?oc=5",
@@ -293,6 +297,40 @@
    "topic": "Society"
   },
   {
+   "id": "fc8c9694ec",
+   "title": "Melaka heads to polls as Anwar's PH faces BN-PN pact in crucial test of Malay support",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOE5fR1piWHA2YjNodHktSTAtT0tDcTloekVCSTNTaG1VYllQZXhOWE5OdnRPYWNoazBXeDZaajk4cmFNc1R4b2V0RzRJajE0WUNmVDkwb2tzcDd1dWFILTRoYUdQT1NqUnN6ci03YTBCZkJZY3BRUFp1bDZ4SlcwNQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-13T22:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "df1c8d0cc2",
+   "title": "Song Ui-Young gives Lions one moment to roar as Paraguay hand Singapore lesson in levels",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUtqMlhSS3VjeVIyVXdHQURMYmFMaEQ5WHh3ckp1Y3VJMEJMRmo2WlF2UTYtTU9FRVprZW1vSDhIY01zX25iZEluTy1GMk9pUlYwTGJoNHRSUEZQQXBWTzlGdGFCTWNIb0JiUHhXSk9oMC1HQU9Bajk4TkFRUG8tYTFIbkZRN3NFT3Uxdi1GLWY2aG9Hd3JqYjBXdTRtdGZqZXA4YVpBTXEwY3VPZEVKLXpIVm54Z3lQbkk1cjNNaENGYWhWdmRlNzB3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN Singapore",
+   "region": "SG",
+   "date": "2026-11-13T19:34:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Entertainment"
+  },
+  {
    "id": "d177828254",
    "title": "Introducing: The Raul Pages RP2 The Hour Glass Edition",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVV3UjVJTFN5azhRWFVYNHgxRzJ4dXd3TlY2Yi1JZ3VkbVAwZEdidU5kNkRVbDJOMUxQY1FPY25PU0FBM0pWX0piZ2VDTHNvNjdVckJGVkkta2EtdW5GMlQ2QVo5NFNSZEo0czc3dnluVVhaRVNHbnFmNW5mbGJpVFhOSExXendmejBlTEtnaG5SVm5WbXVueTBnUElMd3RPQjNsSFNrVmVNNWwxQXNOVw?oc=5",
@@ -344,21 +382,21 @@
    "topic": "Society"
   },
   {
-   "id": "a84cc490f6",
-   "title": "Singapore lose 4-1 to Paraguay in opening fixture of friendly tournament",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTE9DWkZTMUlRa243NU82d2YzZ2llanlGWkNEMF9MM3JVSWtva0FpU1FUVmFSb2VUOXlJVVVQTGp3ZWgwdlZRNlVsZFVzU3M0V1BEWGdrMlBJZE0zRmxmUVkydUVsc0dfWVQ0aFFqdEhiaVNHNWhTTmY2Q1c3RnYyNzBwQWxZR1NKMHluXzlidC1BODFLMkh5RDhwNEptSjVDWmtIdlhiOUswQQ?oc=5",
+   "id": "8a99bfaf86",
+   "title": "Islander Watches: Everything You Need to Know About Long Island Watch’s House Brand",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91MWJ1cFFkemlRU2lUOVBSRy1nM1ZoN204SFRwU2EtNUc3cFFUXzBCVC1pa3NuZXpCdDNYMndRM25VT1M4RGNTcXhQbkxmUDg3cmgzeHpfU2locUdRZTBxOFI1WWI0QQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNA",
+   "source": "Wrist Enthusiast",
    "region": "SG",
-   "date": "2026-11-13T14:04:00+00:00",
+   "date": "2026-11-13T14:00:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
    },
-   "topic": "Sports"
+   "topic": "Society"
   },
   {
    "id": "e0e2be6f19",
@@ -497,9 +535,9 @@
    "topic": "Society"
   },
   {
-   "id": "a7e652ec87",
-   "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for businesses and governments",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSFFlTHVEd3ZQMVhZblptTTBEZC1hbEpDLWFORW05eEFSQ3M1czFwN2p4N3o0VEEycUtpYmZpcmo5Tkl2QlpIOTJrQ0RfUmlHVWNFZ0lZTnU0UXItR2R2Q1p1MGZidGh5MVdQTmlhYlNyNGxpM1dlN3M2REtJVHVZaHJOc2Fmc1Etd0pmREx1TEN5X3RsbXUwU3IwcWs4Uk5keTVlOWZhVkdDWVdiUWVnQlhoVkJCbVFDdVc0d3FuZnFJN1VkMlpXMU5ZRXRxdXc?oc=5",
+   "id": "8ca6ee8126",
+   "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGgxQUdjR1JnQ1lhTnluSk1lS2wyS3RCbGoyNXZqVUlLcmwtVUxYLTV3NW04UGhiZHl2YVZVU2dCeFc4aW92LWxjWGhleGljcTZIZktjcWY2YlhHaGxCNjZjZDY0TnRvQm9YcnlQZGpmTTNGRUNrdV8tRXlnR3l4LVFWNk9zY2RiUW42N1VmQjhVUWVJN1NzdXNzN0ppei1veGNxZV83R1A1QVZGUmg2M0Nld3dkWGI3?oc=5",
    "summary": "",
    "image": "",
    "source": "The Business Times",

@@ -1,17 +1,17 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 40/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 44/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 82 stories
+OK   Ada Derana: 79 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 16 stories
-OK   Daily Mirror: 82 stories
-OK   Hiru News: 92 stories
+OK   EconomyNext: 18 stories
+OK   Daily Mirror: 92 stories
+OK   Hiru News: 94 stories
 OK   Newsfirst: 19 stories
-OK   Daily News: 59 stories
+OK   Daily News: 56 stories
 OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
-OK   Lanka Puvath: 1 stories
+OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 2 stories
 OK   Google Warnings LK: 12 stories
@@ -21,42 +21,40 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 94 stories
+OK   AP News: 96 stories
 
-Biggest stories right now: Microsoft services begin recovering after glo (8 outlets) | All passengers and crew on New Orleans cruise (7 outlets) | Trump, Xi, Putin to hold historic meeting in  (7 outlets) | African Miss Universe beauty queens in limbo  (5 outlets) | Thousands of flights canceled as airlines wor (4 outlets)
+Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (8 outlets) | 'Miracle on Mississippi' - All passengers res (6 outlets) | Thousands of flights canceled as airlines wor (5 outlets) | African Miss Universe beauty queens in limbo  (5 outlets) | What we know about the global Microsoft outag (5 outlets)
 
 5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily Mirror [1 outlets]: Tea auction offerings rise to 5.4 M/Kgs
-    no AI summary: saving the rest of today for important news
-* Daily Mirror [2 outlets]: Budget 2027 backs stock market listings for SMEs
+* Hiru News [2 outlets]: Budget allocates Rs. 500 million for school students to invest in CSE
     important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newsfirst [1 outlets]: The World Is Coming to Beautiful Sri Lanka: Music Puts the Island on t
+* Daily Mirror [1 outlets]: SLASSCOM TechKids holds online safety awareness session
     no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese busi
-    important (also on Hiru News) - researching
+* Daily Mirror [1 outlets]: Secondary market yields inch higher on profit-taking
+    no AI summary: saving the rest of today for important news
+* Reuters [3 outlets]: Iran's IRGC says two tankers hit sea mines in Hormuz
+    important (also on Ada Derana, Hiru News) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Reuters [2 outlets]: What we know about Chinese businesswoman Alice Huang
-    important (also on The Guardian) - researching
+* Al Jazeera [2 outlets]: Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qual
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-    gemini unavailable this run (AI error 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your )
+    gemini failed (The read operation timed out)
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
@@ -64,27 +62,51 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (503)
-    attempt 1 failed: no AI available for writers
+    reader service failed (HTTP Error 403: Forbidden)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    reader service failed (HTTP Error 403: Forbidden)
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
+    Google reader failed (The read operation timed out)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
+    attempt 1 failed: no AI available for writers (last error: AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 2
-  photos: 14 too small to look sharp, using the clean cover
+  photos: looked up 24, found 0
+  photos: 13 too small to look sharp, using the clean cover
 numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  headline translation failed (no AI available for writers)
-  meaning check failed (no AI available for checkers)
+    gemini failed (The read operation timed out)
+    gemini:gemini-2.5-flash not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+  headline translation failed (no AI available for writers (last error: AI error 404: {
+  "error": {
+    "code")
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+  meaning check failed (no AI available for checkers (last error: AI error 400: {
+  "error": {
+    "code)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 10 story pages for Google)
 
-Countries: IN 37, PK 35, BD 35, US 35, GB 36, IE 34, CA 37, AU 38, NZ 31, SG 31, MY 33, PH 36, AE 35, IL 35, NG 34, KE 31, ZA 36, GH 24, FR 32, DE 33, JP 8, IT 31, ES 34, BR 34
+Countries: IN 37, PK 34, BD 36, US 36, GB 36, IE 34, CA 37, AU 38, NZ 31, SG 33, MY 34, PH 36, AE 36, IL 35, NG 30, KE 32, ZA 35, GH 23, FR 33, DE 34, JP 6, IT 32, ES 34, BR 34

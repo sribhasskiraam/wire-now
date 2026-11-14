@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
    "id": "3c17fea293",
-   "title": "US flights allowed to take off again as nationwide ground stop lifted but delays expected",
+   "title": "Passengers face airport delays as US flights resume after nationwide ground stop",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T07:36:27+00:00",
+   "date": "2026-11-14T08:30:25+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -21,8 +21,59 @@
    "topic": "Society"
   },
   {
+   "id": "5e1b0f1341",
+   "title": "Rare Chinese Qing dynasty vases could fetch £50,000",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SOENsU3cxRFMwVHhiQTdRY09YeEgxYXBKeXZaMGRvLWlrOWFtdmdfNjN3Nm1NQ3JWRTRLSTA1c25BajJXcUduTWJVdXlVTjhCNFhzSHVxSG9OSlpnWGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T07:21:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "631c83b46e",
+   "title": "Noel Fielding: Me and Russell Brand were never friends",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZnkxMnVld2VXRWJaRWpmTTJaVUk3UFlueXBXaXZDcTFzNDhzQzBlaTFPUHhiTWRha3NabzVFWTNaeVN5OGpwbGlHVzdpU2w3RGstQV8wenlUc0p2LVRNR1d1Q0p0cW1Yb0lsU3dMRW1ra2NLNG92VHlPZ0ZuQ05xd0kxS1NhVmhDeWNyRWtfcF9NWXlUNlZaLXhUWlpGeTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-14T07:21:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "23d745e349",
+   "title": "Sandpaper scandal: David Warner accuses Cricket Australia of 'cover-up'",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3ZG1nMlhuOGxmV1FuZExBMzcyaU1xNEc1aGYtRmNSbmtHaVFCbGhzNDZhR0l1S0VhLV9NT05LZGxLZ203alJRMWFSb0FqNVdPVEpIZFRsT2RXdUNXWGtaVG50TGJYMUk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T07:20:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Sports"
+  },
+  {
    "id": "fbfc3c660b",
-   "title": "Young people should have legal guarantee to job or training, says Milburn",
+   "title": "Young people should have legal guarantee to job or training, review author tells BBC",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adnUxNC16eDdUeXhOSzVWWVNjUEMtU0pTUEcxZ2xTS3d1cUlCa2hlQWdyQ1p0Tm5EWHo3X09FU3QydDZLUjhCNWhsR1dBVXhfUjBiY1AxUGU4VnVwOGc?oc=5",
    "summary": "",
    "image": "",
@@ -36,6 +87,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "4dd7bae3f5",
+   "title": "Nvidia’s cult of personality was bound to end badly",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUi02Ql9yR2ZKMTRBTU9rTlN2ZW9FREdHMEIxVHBNVW5tczVtNW9kaWd3NkhlaGQ1Q254cUp2YTI5RWZZOHpkMzRWMFEtVGt3Q1l1Q1hwVjFzYmpLdThCSVp1eUVielFZbHFMbG4zWnQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-14T05:02:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
   },
   {
    "id": "a78e13f05f",
@@ -55,9 +123,26 @@
    "topic": "Society"
   },
   {
-   "id": "6e85a8bac0",
-   "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnJGN1I3MjdNaEtyZnM1Vm9vU282WGJDM3BBaTZ3Z1RhUkJmMXVLRzlaZ3NXS0VxTU1oUWFfNHdJcWhWTGpldGpQVE9SaDNBWEY5dEFZOWNIMHI4bEFvZlNlSllpVXBFV0VyNmhES3pYeE9yRTN6S3l4QmNDSERFSEcwVVR6UnU0X3YzZXFGUkR3NWtmUmh3bmdtTHhoanRkTm5ONTA4VQ?oc=5",
+   "id": "10a2d1032f",
+   "title": "King laughs and jokes with traders during south London market visit",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkJBcUxDVFdyRkJPZzdXVVJPV1lGa2ptTFJLeXBwby03VHF0RENsdmgwdGJvaFk3c0ZFMk9UUHd1Q1lDVFdkSm5pM2xlLU9KcWt6cERSQU9RWUpJV2VOVnl3SU0tN29ScTh3dTg0X0lhSkRaa3d0T0p1dFppVEZyWThISnoybGFmbktWR09n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "London Evening Standard",
+   "region": "GB",
+   "date": "2026-11-14T03:22:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cce7b1d99a",
+   "title": "Families clear homes of David Walliams books after sexual offence allegations",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzF1NGlDbFhkV0pZVWdLcFBDbzJiZmF5TXBVcVRuSFEtUjFQLWtTb1NHWVZXM21sVWRMc1RhZ0xpSGdLcWV0ZUtuM0I5aVctaUFuV0JGeU44cmVzc2w2alRqa2FENzVwTlRieEhhLTh3WkNDOVZQa1p0bFpNTk5VcG9WWTBBSjlUT2x5Z2lZdTRUZ19vZVZmZjhMX3ZJYkVVMk1XUWlhSEhMa09VLWpYWGFJRU9HSDc2dkdFS1RFZ1JDa3c?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian",
@@ -110,6 +195,23 @@
    "topic": "Society"
   },
   {
+   "id": "8506c6d6bd",
+   "title": "Scotland 2-1 North Macedonia: John McGinn scores double as hosts toil in Nations League encounter",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd25QUVVkQnByckNIRlBYQm5BZVFFOC03QVlXcEhIV0k0b016eTVEQmNneFcyZmhjSHJLRjNlbGZ1RER0cC1IeGZjeURqRXk1Ql9GTnl1TmdyTXN3VDFBMVdRQldkcC1yZHZBZ3hYMnE0YUxBckN2WmFEVEszbm00N3pSbE0tSmNkTU5TaUhvWjVPYUhpcU0yM1JxdC1KLVdZblNZX0w5NVFzblN1WWFpRlhzMUN1QzZvbmE1STh2VE1rRl8ydWNLclJid1dmSDJpYzluNi1qOU1EQk5vV0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky Sports",
+   "region": "GB",
+   "date": "2026-11-14T00:42:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f7b0aad2ff",
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peXRGaTVTWHN0TTMwMGdISUQ3ODZlV3gxZS1GMWZnakRMdGRtcFpPUFExaDVfNDVHX1VOYUJ3NXRRSnZmcVZYdWtRNXVLRm9iR0pfMnB0VGJXYVJtR0E?oc=5",
@@ -144,23 +246,6 @@
    "topic": "Society"
   },
   {
-   "id": "824dbad70a",
-   "title": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14THdCbDg3ekh6SVFRYkxvdWo2aXUtNDlOVE9sLVl4WGpQNE51QlQ1RWYzM1MtZjg4OWc4ZjlBcGtvb1ZkVkhnd2lXYjBoQ1phTVpFX2tLTndRYThYQUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-14T00:09:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "db389c8154",
    "title": "Colorado Democrat beats Maga firebrand Lauren Boebert in House race",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0lRdHRLY3RicWpuV3JHT3RDQUJXRmV2ODk0MERsRDlxWFJNM1NUYm1EdlVYcGdOS19uMzY5UmhLWGRSS25mSUd0bm5iaWVwWkpBUXhUYTViaHdoaVZHM1lXTTcwOEpWU2M5TE5Ed0RsenM4eVNCdnlzblhuS2VsLWNhOGk?oc=5",
@@ -169,23 +254,6 @@
    "source": "Financial Times",
    "region": "GB",
    "date": "2026-11-13T23:56:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bed8ce47d9",
-   "title": "Mauricio Pochettino: New Man Utd head coach in tears as he labels leaving USMNT 'toughest decision of career'",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVU5lb3ZFanoxUkJVSmVjUUl3T3hJWGg2QjNmN0hIZERLaVFTTGFZTy1lLTNIbXdUckQtSWR6R2lPX01mcV84cFVtTXI2N2ZRNEh0TXNscnowenlHalU0RnZENi1vYXQ5RGc2SnE3ZTNnODZiaDRUdURtb08tV1VGVlMzMXZJSWVFdEhtMS13YWhOZ2pDNHF1a2Q1VjA4dUNhSGQ0QUlGZWN1SlJRa0diTVE0YUhXajRjRTZIT0VWTFdNdnN4SHRPTFIyaFlLRDRIUFdiOFRpOWY1VmRwT0hMbWdwMnFOMXVHQmdr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky Sports",
-   "region": "GB",
-   "date": "2026-11-13T23:49:56+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -212,31 +280,14 @@
    "topic": "Society"
   },
   {
-   "id": "c39ae0f10c",
-   "title": "Noel Fielding ‘appalled’ at ‘horrible jokes’ he made with Russell Brand",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjEwdTFRd0l5RkthQzNrajNpZDUxbTdWQjd1VlZsUlgzZ21XcXZJdnNwd3BMc3RGeVpzUkw0RlFCcWF1MldSOVViTy12ektfYU5zZmI0NTB0VERaLUQ2Vmhhc0owUV9NUHpFbzdaY05IYUxKaWRTX2JnRGZOM0QxRkxBVWVUYXhnUnBYOEY5MEY3TTF5SEhwajA0MHh1eXlxZTlzWTFmakdHV2s?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Independent",
-   "region": "GB",
-   "date": "2026-11-13T23:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c85c318811",
-   "title": "Tough watch as Scotland again battle against their own limitations",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43eHJ6T09IMzJRWkgyNm9EdXl2bkM3aFJ3a05pUTFLTVliUnhKYTlOcFNPbXlVUmJPTXVCbHFNcTBtb0NCZFlPbHJ5QVJOUDEwc3lNZS04cXlXQ0x4TUpYLWMyY3JLcmNVSHBz?oc=5",
+   "id": "04339a7ed1",
+   "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zc0libDZ4RFNRb3dBWmxHcTFBalRNUldnRjAzUG15T3FIYkMyYlNLdHZzMVpBNHBkUVBLMEdaenBETEFGRi1YSDc3R0o5SV9fYzFNU0R2VDdFMGYtMmozZHN2WDVFVEV0ZDBJ?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-13T23:27:50+00:00",
+   "date": "2026-11-13T22:53:17+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -263,26 +314,6 @@
    "topic": "Society"
   },
   {
-   "id": "173a6b7b17",
-   "title": "US Air Force responds to suspected drone activity over UK airbase",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkFnODI2ZmFiRTJzS3N4eXI5TzJqbXpFV3lUM29neFFnSFJJOVlQcDNZR3B3MmczQWlTNDA4ZE13bXpQcm9yQXdROXIzWjBCRnZHNzhwQkxldWtuREJ2Q1BvOFEzcTZRN2tpQkxwb3dCLUtvdzZiUEsxbGNvXzVmWTUzMTVvdHl5cjZBX2Y1VTJzZlFjUnZrMjFrVWZXTWltM1hoSkxDMThmdDdEckQ1NVJMbTE0dXFQYXJMM3NEVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "GB",
-   "date": "2026-11-13T22:34:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7d38c45cfd",
    "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUNST2NOSFpoRGJ0OXl0aHAxQnRuMFVPM1pjb3hpaFNBcDc3Z2dDdGZ2Tnd1VVBtVmRzUDRNcFlINjNrMXgyeTU2STFObGt2aExKSEFIZUdnNHBnbHdyTjM1c0JQWkdvRDZRaVl2UWxzRjRVUEJjUFhraTRGdFd5ekRYT1ZLb2xHUnk2RXQtMUNJYnJWRXFDTWhlZFNSUi1MSUZpTEpPMWEzOVE?oc=5",
@@ -296,6 +327,23 @@
     "country": "Ukraine",
     "place": "",
     "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5b67268480",
+   "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0eE5WOUNFbmpVdFNLZDlJSlh2QWV6TmdJS0YzbTdiZzEzb0JZQ183dVRPNktnb3BVNW1oc192RVBxeElVNEpLQldaYzVzNjdvVWtkXy1hN21DbXNNdGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-13T20:33:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -402,23 +450,6 @@
    "topic": "Society"
   },
   {
-   "id": "599fa46ab1",
-   "title": "Liverpool: England int’l backs Reds ace to be a Ballon d’Or winner",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHcxczJCc0lOR0l4alBRMVpqMnJGbzBQS0tudTRlU0xETlBpVTVnbHVEdVZNZUNrTFd6TnRSU3RVdVV3aUhRZUpTVDJaVlc4R0lHUE5kTVVmT2RaZWRKUHFqQ19YYUpCeEE4NldHbG1yNDNsNTg0akE2ZEZmS000alhpZ1FidWtJcjRIZjJn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TEAMtalk",
-   "region": "GB",
-   "date": "2026-11-13T19:33:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ed2503a2fb",
    "title": "Stricter rules aim to reduce risk of bird flu spreading",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Q0tBdXNnRTlUNmlVSjI3UERRelUwMUpzVkI0MVU0NG53NEZsSGhUTjNEMW1DZGU5em5MY1F6aTIwVk5XRVhMY1prZGhXOWxMTnIta3NmQVlsWThtaFE?oc=5",
@@ -444,40 +475,6 @@
    "source": "Sky News",
    "region": "GB",
    "date": "2026-11-13T18:22:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7caaf44d05",
-   "title": "Children sing Happy Birthday to King as he visits market",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVY5MkNYdTRUSGhJc2YwSkYydFRvVC1SdzczTmtOUkdEaWxqSGtram1MMnNOYzdSdkhocGZlNlN2VG81NWJWVmNfVzNEOEF1UzlNbEk2Q29jMDJSZVYtZWVyekhsbGVZR3ZWbEgxTDNQQjA4RGNVa29tSmRvdmx6NWw3dHNYcFBNcTI0YjlGZ3l2VlotamZfM2JFNFg5VXRfa09POU1aY3dxZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-13T17:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "36ff70fb10",
-   "title": "Scott Colom: the Democrat who conquered the reddest of red states",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdhQXV4elFzWU5fUmF5TlFGMFpoeUt0emJ4dmZadVdHZ3Rrb3ZsdmZ2cjFLbzFtbmlaQW44ZGlrWjZ3X0VtZm10Z3lRY29nMk9LVUxJaUJTVzRBeHZWM0F4ZWZQZnRIMklIMGtpcUhYRUNNWFVvamZtX04wQUVhclpFcUs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-13T17:08:50+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -521,21 +518,38 @@
    "topic": "Tech"
   },
   {
-   "id": "262dc83650",
-   "title": "Jensen Huang’s years-long effort to get close to China",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5",
+   "id": "ee6e19202b",
+   "title": "Washington gunman was furious about damp $1.1m penthouse",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb192eE1vcXRQTEszUXZBdHNOc0F2TnJ3VUl0aVROOE9zeFBIYVUybkNETEVtNTF3VV9QNHpNS1BQWkFmSUN5ODlXdkV0czhaS2RZdFhMQmhiU3lRX2ZuSkk5eVVEYTRGX3pzWGd3ZElSM2NhOEp3eUlBNlJHR05Yel9ERGJlNTU4akpkSWY3aWZMLVJpMGZlQUs5U3ZGczNlWFMtdE1HRGU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-13T12:04:12+00:00",
+   "date": "2026-11-13T13:14:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "United States",
     "place": "",
-    "flag": "🇨🇳"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "3822510f7e",
+   "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzBDM2g2ZXNoVkJEUTI0Y1RvbDF3b09QZFlmdDFrTDFiUzZhRDVveFZIOF84MHhuV05ROUxROVdpNE01RzVYeUNDV2M5WDBKQVBfSXN4S183Q3M1cFZGTmVVZlRmZHFjT1lSS2RRN1VPbHlBOTB6VjlzNlkwMnNIb2ZpN1N5ZEtDZzMyWHJHdXdveHotRVh4WnVmcWtUanUtNUZCWGlnSmdiUFVDakJV0gG0AUFVX3lxTE1MSEZjRkc2M2NWanFaRFdhSHNSYnh5cV9yUkhlTTZ0T1h6S3RobTA0N3BucW1UdjR2Z1pPdTR6TUJaRHVETmZOVFlkZWozY19HNS11YkI0QlkxekRzR3kyQk5sSHlRN05zcXJzbWdxZklMb1NqVHBzcmw1YU1aVFJyTHQyZVExZEllVnNmUllSRzJOOEhMV0xJcExfbFJlTm5hcEFnVDl4UHI5OExWYV84Mmg4TA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "GB",
+   "date": "2026-11-13T09:49:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Palestine",
+    "place": "",
+    "flag": "🇵🇸"
+   },
+   "topic": "Weather"
   },
   {
    "id": "2080997de1",
@@ -604,23 +618,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "c178b240e7",
-   "title": "Ice-covered oceans and bleak craters: Where alien life might be hiding",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1FyR1BJQ05obTU4VkhSX2J0dGNsSlhUc2VNaWVfUDNnYXFxRXlqUF9iQnh5Z2p2SHNKU1hLQlI3YU9JVnB0TWRWRWJubjBsSmY1alVNS1VvRlVFbDZLdUtieUZYc3A1bjJsa3ZINW1wUS1lVk52SHNnOEEtRWotcEVUTFpCYmJndXlyZURZM3h0WVQ1MTdpQXI0bVhhaEo5UkN2aWVHNWhrTGhUOVBCajJvdUw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-12T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
   }
  ]
 }

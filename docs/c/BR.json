@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
@@ -38,6 +38,23 @@
    "topic": "Society"
   },
   {
+   "id": "41b1b63b7e",
+   "title": "Agência de aviação dos EUA implementou ferramenta de tráfego aéreo com IA três dias antes de suspensão de voos",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbEUwUjVmS0hFclVzdm1SUGxiUF9iR1FPS1hHaGdyaFc0aVBFT3F1TWNwZVYzNlZiRmFPb1dsRGtJdnRvcDlwOEFQMTdHOG1oSGZlSHRPdXZSSnlwMWpHcFN6WEVBVGdJQU9Nd21nWEROeURtaG8wSUV5UnBIQ3E1VEg1dGtmTG1ZUl9hRUpELWcybUlncDVDZWxCNF9sZHJwa3Bod0U0NFZtMk03NTNuTmZUbzBpcGlxX2pLZFpLNVNoN3oxRTBzaHZacFJxSGlFLUxJSkotd1o0U1MzWDVCX3E5WGYxenFQYjdIM2d1WWlocjd1Qlk4VE5R0gGIAkFVX3lxTE9kVEVXVVlsUFdDazZnQVJLRjVQTDkwd24zaFR5bjc5Q19sRUdJUHJEQTZMR19aWHYwWHdkTWdwNjlMSThlZUlxRXFkRjlGUElXc21pUW02NW1NUnJrd3c2Yy00TkRSSkV1WlNEYTNuRXhCQS1HZ2ZXOVZQTzNkdzNZMXkzT0paT0hhLWVQMEo0aU42RkkwTG1jZzN5bmEwVGtVSTg4VWljc0hNa1VWNFFHQndIeUR2ZC1sc1Rlb1IweE85OG1ZNWsxdjBjQ0loTDFMSVRZejZRR2tveHFsMmFSeWZHSjR0T3ZEVERwSmZzQzR6WEVlNzlKcXoteVNmNGRBZV9JZmVReQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-14T04:42:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d7777405a1",
    "title": "Novorizontino ou Juventude: o que é preciso para título da Série B? Entenda",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEMxblRkR0xfV1JLRDNCQXN0SExfRnJLOXFSSC1pMkVOMG9ZMVlraTlSVzdfak9MZ1ctdzBzWmtmaXNraGg1NUd3eGpaX05YbURyR0U1T1NKWEpRVmVYemNFYzlsMXhSdFBwWFJFUnlkNXJyZ0FRd2MyR1A5eHByQWlWQkdhakZuMVlLZUYxVmNpZ3p6U21PbkhEcVZYNUV5QUFTUEZZaHZPNlhLcEJWN1E3SnNaOURMQlM1TGFDSFNUbTNIQ2N3S3RWV1lCTWlSNTl6eDdrVHRKU0s4?oc=5",
@@ -63,23 +80,6 @@
    "source": "O GLOBO",
    "region": "BR",
    "date": "2026-11-14T03:01:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bfac3cf8ae",
-   "title": "O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONGd5RmttMVFMUHBuMlpvTllQY3pQZmNYeTViS01vRlR1TFVzSmR3WlA4ODdJR0RmZ1dGeWtKVzI5di1WaTZEWk16LTRDQlM4Mm01QWVMOUxGXzdNdTNvcmJxRU4ybHFpQWtoTzd1dVd5WDhxeDg2TUJYR1NtOS1OVUM3Q3F4YlZkMDh4cmNZZ3hBZHZyek5oU2pRVUx5UXU0Nm05b2NRVDBNbm1ZdnhhS0hfNFNRand1dXBQS3ZvMXBYYm1fV05YRk00SVhzS1hBWThfNjlHX3lCdFhTZlViTURDVmpDRWdoc0lGVHd3eC1vdWItSEM4YUxB0gGIAkFVX3lxTE9RUUo3dkhySzZlNmJobWxxRElFWmRfSDQtUjZ0UUxaVUpJT1Znd3hQeE5Rd3MxOHdaOGZIMFpKZnVsVFhBbGFYMzM5U0xJRE16dVhaRmpyOWI5a2ZNQkUwRnZmclZMb1JVV2dVZ0lIcVJKZTd2TERtaXZOZ1FqQWJFUjlfVVA1RzJVX2NfQ0gxaUFPWnktYUFTTDFlSUxlT3Jwc3FjSW1QSlVrMVhYU0txMHE5N0NNOElVVTBFZFRweGR4ZWlhSlo0Y3gtbVUzdkdlcjUya1F6V1RBRUEzQ3R0VEhXOThmNWZRNlI0TWhsT0VqUUQ5bXZmOElxb3NFSndJakhFODJMbQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "G1",
-   "region": "BR",
-   "date": "2026-11-14T03:00:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -280,6 +280,23 @@
    "topic": "Society"
   },
   {
+   "id": "dc857f449a",
+   "title": "'É indefensável', diz Daniel de Oliveira sobre personagem que abandonou família",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlhuYTVFWGt1dFJRdThlLUF1UzJybWRHeXZkTDk1aUs5QTduakYtdzJkSzFndUhEVE84V0otVnlSTnNpVjVjOWtPblAtM1hPQVdPZ1Fzc3RwcFpPRDk3Z240aldBMFpwX3Nhd0tMLXZDd1JUS0xEWkJSQnVKVGdNWGw0dW5fc0RLSTBwRHFJdU1waTlsd0RTWnlhb2t1dU1XbDZBVmExU2xrT0ZaM1c2SG9wSnZrMlBxTWZ5eVB1NFlwa29EaXdkWlc3WQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "UOL",
+   "region": "BR",
+   "date": "2026-11-13T22:30:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "71ba90c0a3",
    "title": "Dá para pedir indenização à Microsoft depois do apagão do Outlook?",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtYVBHalR1VWIyZ1YtdU5oTmdZaTE3QnpoWi0xTWpMSVNrcWJvZXc5bGlOS3lMR24tc09nR25WOHR2WFVhTE1YXzFrcWlPQ0VZVDdlVUt0UHZXSW1ZTGhEbDBwb9IBaEFVX3lxTE5INDBvbHFNR0NZWG85dXN4RVpCVk15MTUwYUZENU1Jb25SVjNlMG9yYVNMZHlacUtRTzdBdHB4VEhUaXJzSlhvVnhPWEVSMTNKVjdaQ2w2SlQzN0JPQkM5QURzcWNPckd5?oc=5",
@@ -314,31 +331,14 @@
    "topic": "Society"
   },
   {
-   "id": "470d01bc9e",
-   "title": "Presidente do PT diz que ajuste fiscal preserva programas sociais e mira privilégios",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGNUcm1ac3R6RF96bTRjOUJ5M1JHTTNCLXZUTHhBZWhNZjJoNWs5NjM1SmhlenhLdzgyalRqa21Ga3I5bU5QQld3RTlNZ3lMcWg5S3NIQ2RhVjlXTXFSN1QxRGhKbXVnNUtxT2hkMEZFR2U2ZENodGhBel9OMUxOTmhHelJRWkt5cnVDLV9rTW1halJrdjByZ1FEMkFQZEZmT2k5dnNR0gGuAUFVX3lxTE03WWN0ZERhU1dickJpelROejRHbDFPdVVJVkFvSm5CZGtZekNmelVnX2lmR0pwa2JYaVEyaGNBM1ExZFlNLS1RTF9tZWRzc0tXMHVqdVpCMnhsYURYZkR1RWltVE5GV1ZxNUZMVGhGYjhNNWtUZUVqcC1ab2FIV0lTNlhOZ0w2aG5xYlZFLURhMTlVMkFPaUFIZEE3Ni02VThkSG1CY0hobExsN20yZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Partido dos Trabalhadores",
-   "region": "BR",
-   "date": "2026-11-13T21:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "f6400be04d",
-   "title": "Dólar sobe a R$ 5,65, com reação a pacote fiscal; na semana, alta foi de 2,6%",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakIwN1ZneWFjMTlUOWx6VjItUERCWEN5RjM4eWI3WVNJeVEycmQ4ekxtaEpJMWZUMThCQjltcXdUNFY5THBqNTQzVkl0Y0puNDNQVU5JSExWaVNRdURlU3BzQTFMaUtmOEY5VFAwR3k5bFpOa3JDX1FCcUIwWFBVWXdiMkp0aUNRcVRGQmpEM1I5X3c2SHZZcjVGQkjSAaIBQVVfeXFMT2ZISV9Ic0pkbFJueDZKSXhad1p3MGdySWplR0llTVJ5TGdyOXBRdzBrVU1mNWd5SmVJWndNbkRaZncxaEdualY0ME54a3JZSGZoalV1U1hrbjFiVi13MW9vRnp0UmZjY01fLVlEUHAtb19IUHdxcVFOM0RNa3NsX2NIV05GczZSdUg0RGlaSGlLLXZOQm1xVUZiVnYxRE1ieFhn?oc=5",
+   "id": "02018de59a",
+   "title": "Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF94d1lCTTNSVFQ3NTFXUkFWUjFLV2I4Qi1rREVaaDBLZHFXT01uR2dhNjdLcV9sSWV5M3ptTXoyWHplOGsyTmRxTngwbHhXTUpmXzZ5VVF2b3QzRVdaR1hLeHFhVlN6V1dVQl8xZ3Zya1ByU0FTMnptUWlOazN4NFBMUkNNdklHcHF4QTJ3SQ?oc=5",
    "summary": "",
    "image": "",
    "source": "InfoMoney",
    "region": "BR",
-   "date": "2026-11-13T20:42:54+00:00",
+   "date": "2026-11-13T21:28:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -416,6 +416,23 @@
    "topic": "Society"
   },
   {
+   "id": "26fc1f1641",
+   "title": "Ajuste fiscal do governo pode tirar R$ 10 bi do SUS",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWY3dVBYcnJfY3BOQjlnTjBVMnJiUnFaR3U5dUxLZmtSUGZBaS1zbjhNdFJTQ1FNNE5oMUhsNzZPSnl3eTVNanRjT2VFZVhORGlmNVhZRTZpS1RtWTVCSGFuTnVPamdGME5hbm9xVktKRFhtV0k5YzIzWXBndDM4eFM0dnR3dFl1ZmtvRkdKNzZtOTA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Outras Palavras",
+   "region": "BR",
+   "date": "2026-11-13T18:27:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4457f61796",
    "title": "Bloqueios obrigam fiéis a fazer peregrinação para ver missa onde papa foi bispo",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRW83VUxvRWc4Qk50bVRFbS1hOTR5NWt1YTR5UjVnb0d5bDF0T1kxMHZFMGlWLUVvX1FPV1FNV0xWWXA5YWd0QVlMYjk5VlpVWXM2TDQ3WUpvY0UxZXhJOWpJUDRBUWZiUlItYUZOWEFlVHQzRWVib1JZaGd1eTNzbkpncWdTaGcydzRqM0hPTXNnX25LeV9hOG96RXIzZldKTm1rOEZFZXpIZjBaVFFxNURkYmtxWDQ4SDFzN3BwOUZ3RU9aeWU5Uw?oc=5",
@@ -450,31 +467,14 @@
    "topic": "Society"
   },
   {
-   "id": "1e4b30ac5a",
-   "title": "AGU defende no STF manter decisão que negou segundo turno na eleição ao governo do RJ",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk1yenJnRVFnb3Z3VUJJU2QzdUNsazZibWNVZ0g1ckNzNWNnMWVjbGxONEZkZVRWaWtkZnVpYnBBeUVNb2dHQ3ZGakwwRGtMVWR3UkJvdWZzLU1Za0x3eEpWWm5ZMThLcGJnMHBuQk02SU5memtLaVlWNEpSbEZsRXZBZEVfcHZCQnBodlozRVhGYjZpeTRiNVFZMW9uZTBpSXF3WkVCNTREYlJRWTJNMzM3aHlDSVFCTnJjbTNSQkl6MnF5ZzV3Zm93NUtFTGswVEdKbXoweVE5RWQ5YzFuZl85Y9IB8gFBVV95cUxNU0VpbERMaXZ2Q0tRZUhKbFRoRHZkQmhwQ3ZZTUc2VVI0X2ZxUzJzZURpYVVUMXNhVlNsNlo3cTRzR29VYk5HT19wRkZjeTFORzJUeXB0YkF1SlJHQ0ZXY2JvT25OZElGZVBkOGQwUUw4ZUV6ZVBOeGJnYkxCUkp3ZHBqZVNaZTFfSzhBZDJKZXBZQzNFTEU5MWNSU0pQM2NsNGVuNXJSYXNtM1k2Ym55SS1BU05LZmVRZUE2bUd2UDRvU3AzeGRLblRKMGNocnk5R0hxRmxIMV92em5FcjZlVTc5dmpJWGlvOTBwbkVSN2I0dw?oc=5",
+   "id": "703875c1af",
+   "title": "Inmet emite alerta amarelo para tempestades em 15 estados e no DF",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTJNTk5KdEY0MVFUcG9oNFdVWTlGdGxldkVXUFFXdUFWdlZsV3piWTNuaV95c3BkSjlyZGtrd3ZqbG45R1IzdGIwYXhNOFp1UkYwMExNaURSY1VrQ2ZiUjdoRXNHTjZkdzVLSXowRFpPbGhSSlJfd3VjZ3RqSEpNWi1LS3RxX0YxLTlsam5hQUV4UDRPX0t5YVZwXzk0clc2ZktmczUzYk5YNVlVdGp4QUVTRW1vSHJQTm1HT2l4VzJnWlZ4RVlr?oc=5",
    "summary": "",
    "image": "",
-   "source": "G1",
+   "source": "Agência Brasil",
    "region": "BR",
-   "date": "2026-11-13T15:50:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "79ad65207b",
-   "title": "Morre a cantora Claudette Soares, aos 91 anos",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlVVTW5xYVBTbzlWd1NqWFFhRXE3dGVjQndqOHJCcUQ4NTNobmFXU3pxN3RhM2E4N3h4VVIzaV9WRTZHN28zZU1vRU0yc0gyd203SWMxMkt5ZkJ6UG9TWXN6RDM3S0tyMC1tY0IwRHdIeXBUVzNlV2xwSS1HQmpjaWlVZk9sLVdkZ2dzejVMQ2JQaDRYSWc4aA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Estadão",
-   "region": "BR",
-   "date": "2026-11-13T14:22:00+00:00",
+   "date": "2026-11-13T14:03:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",

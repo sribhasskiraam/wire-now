@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
+  {
+   "id": "addf99808a",
+   "title": "Altersvorsorgedepot von Trade Republic & Co. im Vergleich: 176.000 Euro Unterschied",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObExJSUtHcEVGQjlaQ0VuQXVkWWRGMlR4MUJ2Sl9jcWVmdlp4UUZyWWRHVWstaFBkcHhZR25tN0tXUHlKZDBzdWVXMlluXzd5QVg0anVWcUd1eXpsdU9TRVRaUUJsNzM4cFpaUFA0X1NaWnBDNi0xcWstLU9DYkZqdGlmN21HT3FzREVyU2R4LWFPc2FGQy1vWXZFRlhOQ1VuaERjaldtaUNiSHNpOGdYRnZxR3pyVTFrQnFoUWkwN0RFRXN1dXVrakhlTUZZVE8wM19Fd2lfUjRRdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-14T08:14:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cd71d565cd",
+   "title": "Trennung wohl schon im Oktober: Ehe-Aus bei Anika und Manuel Neuer",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHRWdGZyX3FxRG8wMkttRXJZUHZDTXlLS1ZhZlA2VkMxcXhOYTV0WnRkbFF3WXJITlVWSWlCei1IalloQVpvc20tdTRhOXVVWkdlVFdjdDVXTGVyNXN5bXAyZzZ4MVhzV0Vfd212R0VLU0c2Y09yQ19oTGpWeHBzc2pn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-14T07:58:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "99db6a3260",
+   "title": "Kassenärzte schlagen Selbstzahler-Termine für Kassenpatienten vor",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjJKb0g2NFVSUTBOVTJvSmZ5d2VkSlljTkMtU002SVJtaHQzZjNVaWpiSW9fVkNfUEVyQlRHQ2tiblgyWmxEV0N1TzFsb3AxaDBfV2xxOEVGTkI4aEo3ekE1eUNvM2pRYXUyRVd0ejl1dC1JWC1vVzRNMkR4N1lDWGptTndqQnU0QndHbF93VjRDZDN2Q1ZZSWtmRXpjaG5RSzl6R1o0U0wzcUNaSVZuUFFiemd2a3RybEQtUmZhNGlEeTR6dFNlRGtVUzNzYVNlSWRqN0MxZFVTbS1TRzhmc0xNcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-14T07:17:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "6e05130614",
    "title": "SpaceX: SpaceX bricht Auffangversuch bei Starship-Test ab",
@@ -19,40 +70,6 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "a8aee66dbf",
-   "title": "„GTA 6“-Release könnte die USA 900 Millionen Euro kosten",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVFUdnEzekxDRzN3YUtMNEFqY2JLQXptZEs2SENaV3VNOVR5Nnowdzl6VEZsTkVLWUFMb3FnX3AwMWhxNDhVZC1ub2pkOXI1LUNpWDF0eUFON1FSSEZSdjBsTUhBX3oxUkdCS19qZzA5VlFvcVRHRTVlY29pYlRBRzk5S2tGOWN1T2ZyZHVTeTlydG5uejQ4dnJSVVpaYngtdWw5RXhITG5KQWc3cFVEZ3M5M0VfWGZWVnUtTw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BILD",
-   "region": "DE",
-   "date": "2026-11-14T06:44:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a8197ef837",
-   "title": "Weltweite Microsoft-Störung ebbt ab Unternehmen führt Problem auf Netzwerk-Update zurück",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRVRpWXhxY0lrMllBVlNGbE1kUTNrZzE0a2pnS0hONV84MmY4OGpNT1lzYU9BVXdnWmpneFBlT3JmcFhxXy1BcURUS3RVbTBZQ0hMbk9qaG1hQ3ZUMmtySHVQSkxoTTVMUjhmNUQ5YlRrM2tDQmlBTnktd0ljS0IzcXVudFF3SHRLS0FPaE1IclBfYm82NjJmMndtVkZGanRSdnBwQ1pPVnFlUWVNbG5OYWlRR3FiMTNsalJSaUFsc2JCOGJsV2FxWUl2UmlvQ0VBZWM4VWJTMTR1c3RGRzAzNV9tWWNQOWFzWlI4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tagesspiegel",
-   "region": "DE",
-   "date": "2026-11-14T06:30:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Tech"
   },
   {
    "id": "b36c3d6831",
@@ -72,23 +89,6 @@
    "topic": "Society"
   },
   {
-   "id": "da33369270",
-   "title": "Nationalmannschaft | Klopp über Nmecha-Jubel: \"Wir mussten reagieren\"",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGphOFI5NnpHMG1ZUXQ3S0JtcFVCWVFfRmp5b3hPWS1GOFF1UlE5NmZWbnZHS3ppdnVKb2Z5ODI3NHY2ek55MmlNLUdOS19rX3B5RkRDQlItM1VPQUd5cHFRZVFTcHVRcGJmcFVkOS1FXzE5M0RPNk14SHNrWjBPdlkwY2ZtT0JLMmhaUHMxaC1tZ3FzdmpjMEJpN0lvMFRhVG9wcGh5bw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "sport.de",
-   "region": "DE",
-   "date": "2026-11-14T06:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7267530a1a",
    "title": "Venezuela: Warum die Trump-Regierung die Forderung nach freien Wahlen als „Straßenproteste“ abtut",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcXAyelpCMjA5MWRhMV96b1p4OXVvX0FCZy1PcGZJM1hTR1U4LUNYcmtxMkxobFFZLXNHa1JVMWpoS3FKaGdyem4ySDVjelNKREJabkh2VkIyNEhNbjZrSGdPNnEySDZ1d0hqc1VQREhfVDR3emxDbkdIQlBNaUhUaU1OdXJhUWFfSHEwZHdFU29aNmpSaFZ3SGpJWGtEaGxCTW5jNTJKUDdSU3dJVEkxcTBfNm91VlQzaDhGWDlBdE5TWmRNOXkyVUczeVVfNXVoS1Rla3JvRWFDRG1YUTllOFVGWU04MHpJZXdMVzc3Yk5MMEhRNW5QVWRBTGk?oc=5",
@@ -96,7 +96,7 @@
    "image": "",
    "source": "WELT",
    "region": "DE",
-   "date": "2026-11-14T06:17:43+00:00",
+   "date": "2026-11-14T06:17:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Venezuela",
@@ -109,14 +109,65 @@
    "topic": "Society"
   },
   {
-   "id": "4b5455f168",
-   "title": "(S+) Ron DeSantis: Donald Trump hat ihn einst bitter verspottet. Wird er nun sein Nachfolger?",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSEtLeXN6eksyREdVYTdONHZYOEJTV0xXaXdJNXp4TlBSeU9JaEFsSjJ4eHlYYVZWSklleWRPOUNYMHh6ZjMyZ0FNUmxkd3VJVksxVmZ2Snk5Rm1pbmxhVTlyNFhiT00xV2VDcm1QTUt0RUJUVzEwZmR2aWc1WWpkcUd1ak00b19tM3N0OFFvSzh6VXVpS1lldk91MG5iTFRfc2RGQVFKcm1XbWhPSEM3QzRJejJORnZwY3EySGR4QWZQU0dlQnFhMUZHVTFVM1dyd281Tm1CWlJMVERBV1V0M1lyeDdiTG1HRnBj?oc=5",
+   "id": "449472618d",
+   "title": "Tanker in den USA kracht in Kreuzfahrtschiff „Ein Wunder“ – keine Toten nach Schiffsunglück in New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTBkUTJ6a01vTjAxUEMycjRLR2lFOTRhWE1zMzB2dldYQUZqMUt4S2xjT3pnQzU2c2NjUFhVYUVlMGo3V3dRbG5nVEhfOFptcG5IMUh4QzJFUk9lcXJ4Nk1GT2Z0VWlOS3VudW9zWXQxYUhfNElINHNnVTZGZi1ybnpKRWEybXJWZmIxU01rNkJSelJ4YVFLYWJlLThjelBLNUhDdlppUUhVcVJrT1F6bXRMRUE0MnA1OHhucUlXOW1LT1BUVzAwSjNObkpoYnNMUDJjMlJxUlJCRHlQRFBzVEJSMFBPZVpHMThhcmpwODF3Y1JJem1NNlluRXBzUW42?oc=5",
    "summary": "",
    "image": "",
-   "source": "Spiegel",
+   "source": "Tagesspiegel",
    "region": "DE",
-   "date": "2026-11-14T06:12:00+00:00",
+   "date": "2026-11-14T06:13:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "66b1895db7",
+   "title": "Giovanni Zarrella rechnet mit \"Last Christmas\"-Kritikern ab",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVM3UlNFQ2xNSkZhMks0eUJ0QWhQaTZDNDNkakpGcXdBRHlXQWZHME5XaDlsQ1ZfV3piY3R1SkFhal9Xd0tuQ3NialhsVUVHN1hPT1l6N2x3ZnBOdl9CNTZWWkt4dm11NFdidVkydTRPOUNMa3hlRTVpRk5pSW9hc3ZMeHo3V2xtNkR1Z2t6RU5VdFhzR1V0Q3FpTmpKcXB2YjF3TA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WEB.DE",
+   "region": "DE",
+   "date": "2026-11-14T06:02:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5c41f0bd4b",
+   "title": "Blende zu, KI an – wohin entwickelt sich die Smartphone-Fotografie? | c’t uplink",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUp5VU9vM0F5d1lvMzExazhiQVRjWjZ0dV95VTJWclJkbmd0WUZSMUwwbmlqYVFSdS1WRnVLNjhUWUlGOWNjOGFRSmR0QjZuMVRaSXJBOFVvVHdXZHdYcEdqaVowdEpPejg2NktTSnpoNXB3eFhMZlRzT042eURkeGVRcExFbHBicWw2VlFpLTY2VUlVZURjaXVPbjF3T3VOTW5fUkxOUFVZclV6b1FOXzVoMEs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "heise online",
+   "region": "DE",
+   "date": "2026-11-14T05:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "6b7ac85cc8",
+   "title": "Trump nach den Midterms: Lame Duck oder tickende Zeitbombe?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUUtRmU5dGk1RWRHa0ZpeHdyTlNZeFBsZW1jclkybG5NQmNJN1JpWllIYWtPd0JLeDI0QXJ3cVF5b0N1VEM1d0NBUnJQZTh3bEhxclVwQUlpOTQxY1pOODRDZ1dBZUFkWnJVVzE2ckJlbzNPMWVxTm9rVXRPNU9yUUIwTU93WFZmYksxS3JIQWhGSHFYbGpGWWt4Q2IxdXFMWEdiMzdZaGpHVEFMV0ZqYmZn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BR",
+   "region": "DE",
+   "date": "2026-11-14T05:19:55+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -127,7 +178,7 @@
   },
   {
    "id": "763c2b59a6",
-   "title": "Halbe Million Euro Spenden für Pariser Terror-Zeugin",
+   "title": "Halbe Million Euro Spenden für Pariser Terrorzeugin",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUJvb0sxa2xPZTBYYkQtbWtnWWR6el91Y05YMExoRUJIRUF4WDU5NXRoV3NBdkZzZjVvNVJiMUpwUDVFVTVDNUYtQVZEenhTQm9FdlZfT19BZmY5LUhJM2hJajVVbldlVks3c0ZzcVpyNTd1eVk1bEtLN1ZoaGdzU1RMRzNvR2FZQlhBSGJPcXRwRTEyZFZISDZ0c3VvamVlWmY5aXRad3MyTUZBbUZqSWNYcjl5MmNrM2dhVWdnZDdSdw?oc=5",
    "summary": "",
    "image": "",
@@ -143,19 +194,53 @@
    "topic": "Society"
   },
   {
-   "id": "ebf61aa39a",
-   "title": "Das fieseste Powercouple Washingtons",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUxNQ1V1Yk9lY2hfUnV2bXVsbUttd2RTTEJ6OEhXR3cybzg5U1dSTkhGc2hyVnB2VXllNndqTXZDalg0RTlRbk5sYlhubEpFMmtQZ3NBeGYyRFBFQVV6QV9QQWhUUGI4eUQ4ZlBocTNXU3dyQ3hxMnRTclhyOWhmQnNyNnJfQnpwS29hT1NBZXllcUNGMEsxMHBpa2QzVU9majFseDE3dWg3aTUwemNleWN4cGd1dmti?oc=5",
+   "id": "722ddd300e",
+   "title": "Gefälschte GTA-6-Shops locken mit Rabatten und Vorabzugang",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sWTZ4QzRONnFWSEJrcWpGcHAzZUx0ckFKbkdUZzA0WTBxVm4zcWJsVHUzLS1pWVdLWEMybzJiYzVESnc3YUEyZVU1U3NUS1RGbklodlFWaFpmcU8ydE9od0JCUFVCY0REVlh3V1hibVpfc3Zq?oc=5",
    "summary": "",
    "image": "",
-   "source": "STERN.de",
+   "source": "RETAIL-NEWS Deutschland",
    "region": "DE",
-   "date": "2026-11-14T04:49:00+00:00",
+   "date": "2026-11-14T03:09:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "37e3d84c58",
+   "title": "Imageproblem durch Doku: Warum sich Offenbach von Haftbefehls Songs distanziert",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXpyel9fdUJ2ZWtFUzI0ODM5WDUwbmtwQXhkTTQwOUNsdzA2dmxrdTFNQXFlZ29IU042WFlZaUsyeFBiX0JYUG5jbjNqZHZXRmY3a2x2MWpBR0pycDVaTEp4a2l6LWhPQWhtMG1fcVpCS0txWnZWWFlpcE9PZzRhZWNGWGhBQm00Mkh0OW83enVRLVBP?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-14T03:00:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "1863252826",
+   "title": "Präsident Miguel Díaz-Canel: Kubas Führung bereitet sich auf Angriff der USA vor",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmNFLWpuLUQyb205NmQ0b25oaXdJVzI1NDA2bmk4UEhhdU94TUdSZHRJcGpRaWlKVWpKZVQ2ZHhBYUxuNmRZbEVETnZ6dkxvYVFsMUp1Q1AxWmtDRDJPX0t0WEdidVFOTGNYZGl5bGk0TTBiMkVoM1I4NFEzMmk5OHQ3cjdpMHJRZ2Z4c2U1WXREczh1OG1uSVVId20zUFZvSkZ2bWFqWmFTZ1RoeVdOM2twcEFlNXJPSklBR0VKR1A4b0xFcGo3OTlkS0Zkc2xzRk1tajNObUJ1eDNXdk5LWFB4SFRwZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Spiegel",
+   "region": "DE",
+   "date": "2026-11-14T02:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -173,6 +258,40 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d18dd737ae",
+   "title": "„Mini-Mond“ 2026 QQ8: Wie ein 1–2-Meter-Asteroid kurzzeitig zur Erde gebunden wird",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXRqakdqaV9Ed25PaXF1OEJDZW8tYWgxOFZJUW12blI0QlBzYnlXQ245UVdWdUtPNDBLU3R4SzJuZmJJTXhzV2RqSHlQUFdFRzhSdURKQWZMWUI3dm5sRjJuYWNqWUpvUkJmeVFncHh0N09NbXVBSGFZYVFiT1l3QnkyeWVwdG1DQ1JLTkgyS1Y4bXZOY2l4czlfanFmd181NnRCSTJ4YXI0UUQ5dVdneQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "it boltwise",
+   "region": "DE",
+   "date": "2026-11-14T01:39:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "903b12a5ee",
+   "title": "„Ich hatte nicht mehr daran geglaubt“ – Nach 0:6-Rückstand löst Paul Krohne das WM-Ticket",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQnFKMTNwalVveWpCcGJ2XzFSZ1A1Z19Ia0oyV0xTcjJzSVFVNk4xY0NUUTc1Y09FTTA3R04wWnRQOWxvMGNyUHVvS3FodXI0cGo0bUdWWFRHRXpMQ25vVEI3bVVybjNIdDZaVzVwcVZBUWxYeFpkcjRiNTFrUlRhRFJERTFHSkhkSzc4Wm9Id29oT3NHNFdZT2h4bTE3aEd4eEtLcENVOEttbUMyMXdQdnVDeUtTcFVidjUzUHp2Q05GY1RlVHNsaEtpTnVwcTdCTmJjNWg3MzFabG5QelRTaHdaWmNKaTJUdFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-14T01:19:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -215,23 +334,6 @@
    "topic": "Society"
   },
   {
-   "id": "db5b66fe45",
-   "title": "Svitolina serviert Sabalenka bei den Finals ab",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMUg5TkhyRzBnZDJvcndaYlU2ZzZsOTllbkNpQmNTODRjQlZvZGozSG55TmpGdWM0THpFd0M5bklYSVlQempiSWZSUkZ4bUxOMmprczVMRUpwVnhMQnRRQWZNVDV1ZjNwMUtub0tVZl81SHMtT3NlWnFXQWFxTm8tUm1JMC1UNHFMazYzdkwtc3VFV3VJUDFDTW56RXJ2MDBxbzNkR3BNZWVMaHVpbzZjRWtZSEVvUVVZb0pjU1hYbUxlQmhrREU3N21sNUN4dFRWak1rRHNOZXAxVUhnaDRqSHJ0MkdORzVGUVI3cktHYkg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Eurosport",
-   "region": "DE",
-   "date": "2026-11-14T00:23:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5d8ee0f0d8",
    "title": "Regierungsbildung in Berlin: Linke-Chef verteidigt langwieriges Verfahren zu Vanessa Emde",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0YtX1dOcEZDdTVPLVNKQmp3ejRVRl84d1U3bUxTSkhKamNjTlo4XzNDNThqUTJEMmpNVm5XYld5M0RDQ1NSM19RVnJJVlRFYTdqSi1xNGJYZHhVSWJia1BnVTJiUVFlYlFVWkgyTEhYak9zZjJaMVBWMlBjSzlheDFxblhwVloxcGxuSWhRSFRSRklOaGZnc3RIeGk?oc=5",
@@ -245,57 +347,6 @@
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "35a0804534",
-   "title": "Jensen Huang: Warum Nvidia-Mitarbeiter den Ex-CEO zurückwollen",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUtLamtpTEtzcTVBeGNDZzVEUUkyamM0OEM3TXd1VXJXM0tEMXZxQjY3RnQ4bFNmTEhPcnpMblB0WUNUMC1wYjV2WWxraUt3NjJiSW5uaEE5c004N3VkaDV1STQ0YTR2LURldllsdVI4TTk1TXhaYkt1a3diZzFaN2Qycl96eGRncExQTmNKLVJLZTE1Zzk5aVlCdmEyWFlYWDkteFhlZXZ4ZHJuV19LbXZhc0NxNU5ZdkNVR1Nibw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PCGH",
-   "region": "DE",
-   "date": "2026-11-13T23:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "232d84e954",
-   "title": "Papst Leo XIV.: Eine halbe Million Menschen feiert den Papstbesuch an seiner alten Wirkungsstätte in Peru",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWjY2UXhDZEFpNjl6X3JyT3NzWmVDLWlWWXN6d1g0akozdDJtZHB3SVRSdFlwR0NtSmFRTHU2aEpmTFRRbFRFMC1NX1BkeWFteXlDQzR3aUI0dUJ5MS1VdjlTZk9rdUdYcmFDRC02d3F4QkZsdmdkSXE2c2NfSUd4azhETk9PWVNFZ0JCOWtxSTN6ajNKcVFBR2JKRUlPbDI5MDNqeV9sRWlhQ3FnVndwZTVXenJYV2NubHJUODJJM0ZxNUNac3BENmNFVjFsdnptWkdhemVMSWY2SG95WWJzWTlNX3lJMjlmUlB0QVF1WmRKLVhKc1pxTnVLa2JkLXhWUEF4dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Spiegel",
-   "region": "DE",
-   "date": "2026-11-13T22:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Peru",
-    "place": "",
-    "flag": "🇵🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "449472618d",
-   "title": "Tanker in den USA kracht in Kreuzfahrtschiff „Ein Wunder“ – keine Toten nach Schiffsunglück in New Orleans",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTBkUTJ6a01vTjAxUEMycjRLR2lFOTRhWE1zMzB2dldYQUZqMUt4S2xjT3pnQzU2c2NjUFhVYUVlMGo3V3dRbG5nVEhfOFptcG5IMUh4QzJFUk9lcXJ4Nk1GT2Z0VWlOS3VudW9zWXQxYUhfNElINHNnVTZGZi1ybnpKRWEybXJWZmIxU01rNkJSelJ4YVFLYWJlLThjelBLNUhDdlppUUhVcVJrT1F6bXRMRUE0MnA1OHhucUlXOW1LT1BUVzAwSjNObkpoYnNMUDJjMlJxUlJCRHlQRFBzVEJSMFBPZVpHMThhcmpwODF3Y1JJem1NNlluRXBzUW42?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tagesspiegel",
-   "region": "DE",
-   "date": "2026-11-13T22:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -334,21 +385,21 @@
    "topic": "Society"
   },
   {
-   "id": "bf0a8aa532",
-   "title": "Wie GTA aus Fehlern, Provokation und Skandalen entstand",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVExU29TSDZJMG8xMVo5Sl9Id3FuamM3elVWTTR0NHZZb09nWTFnTnE2Wkd5em5nMlNsWlkyYU9za1FnX0p4WWt2UUVNNzZzMjRUanM3NDk2QXVoSkgxSWM4dVVXRFpKdTBNaEoxVGF1dEg2M0hYcHVhVDBtS2t5eEd5U2xfUWhwS2Q2dFA4QQ?oc=5",
+   "id": "6b3c4be3fa",
+   "title": "Massive Störung bei Microsoft ging auf Netzwerk-Upgrade zurück",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFXWGRlQklYU3BGYXU4MFhmeVY5VEN0dExuaVpSVHVmM0VDYk9UTWF5cm80RlFYNDlhcHN4MkM0NTQxRTNWVy1FX01WQldFM1RDd3FLY0FaalVuUExqdEx1bFJXLVd4YVZ6UkJvMkI1ZzEySWhnM1Z0RFRVYVRSQ3hRdzh0eG14bEpaU0JrbHdEY0k0cVNpc3pGOG9rSmM0NHNsN0xDM3FVektMMUh2ZnN0dUlkQXU0X3g2QlNDU1dEWGdoMTZtTUZwVE5INFZLMDhfOEpSakg5S0NFenRR?oc=5",
    "summary": "",
    "image": "",
-   "source": "it boltwise",
+   "source": "RND.de",
    "region": "DE",
-   "date": "2026-11-13T20:38:34+00:00",
+   "date": "2026-11-13T21:07:23+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "1250af6557",
@@ -368,82 +419,14 @@
    "topic": "Society"
   },
   {
-   "id": "bcd76394d5",
-   "title": "Video-Clip aus Doku-Film: Thunberg lacht deutsche Fridays for Future aus",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNa2otMm9fMUxGZVVwSWNSN0hBRTROb3NLLUQxUHdYTDdCVldtX1AxYkF5UzF0dnlYdnVWSVZ5bXdJVml3M2J2aXM0a2xxRElpYXp6RlVybklING9TNFE?oc=5",
+   "id": "6b03fcde48",
+   "title": "Mercedes in der Krise: Wie viel Deutschland kann sich der Autobauer noch leisten?",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPXy04YjV0NExIUF93dWdDdk9qSEdiSjBlRTJ3TVBUMU5zMFRCNzh6THN2WlhqTk55OUFDRi1JSVFmQUE5aWFxNUZhZTRDcnZYdTNJUVBWc1FuYlJsOG9mcV9oaHpWSU1MVkwyR3RuZ0Z5Q1JpMDZNNFYyNl95ckEyYm1fbXlqdWJoc1p1TEgtMTY0V21sN01CM3ZRTXhwaVlZUU0wd0dRWW9XemlMQTVQUktCYUtoYzlOZExkblBQZEd5dFR0VVBNUTd6NzB3ZXhTTV9oSjl6NlBtVlU?oc=5",
    "summary": "",
    "image": "",
-   "source": "taz.de",
+   "source": "Neue Zürcher Zeitung",
    "region": "DE",
-   "date": "2026-11-13T18:22:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "214eb9f1e5",
-   "title": "Geldanlage: Privatanleger können die Anthropic-Aktie zeichnen – sollten sie es auch?",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWFNWWVyNmFFZnJoSzNZZ3VqZU9TMVFXdmIwWEdPQ3RFMkdaMjhrVmZMbTdaR3ktUDY5Q3ZiNTlHalYtaEdCU2tmZ3E2YzlsQzYwdlUxWmtleGdEbkNZOVlVZ3Z3czROWlFySkdqVVBEWWhwaTBWMWROVmZwS3ZUaFRWMXhURXN0NEFqYmZwTjhDR2NRc0ttWmctLUI5bEwyLTZaclNVNjAxY2g1d09mVHVRejFtQ3lyQS1DaTFpSmNNX0lTVWJ6cTZPWVh5dnZXeGh3bDN6QmN4SmxpbV9CZVhWZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Handelsblatt",
-   "region": "DE",
-   "date": "2026-11-13T18:00:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8b6a2eec85",
-   "title": "Medaillentraum geplatzt: DEB-Team erlebt im WM-Viertelfinale Debakel gegen Finnland",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcmtDa0J6UWpQZ1llWUtxRC1WWlpqa1hjVVhTNlJHam04cWJ2Qk9PemJFa3N6REl4emFIQm53bVZSbzFwTFdKQWszcmRXelJrSEExckl1TmUzcnMxZnh0cENHTnJ3aTdKQ0Q2N1FLaU01dGJwZTBrS09MQkMwR0dTVDQ4SFVUaHEzZldiZ0pfY2pYQkp0djJ5REVYdjhzWllBcDZKbXM1RHBqVHpiNGxJbVEwd2wtaWV3NDhIc2I3TGJsS2JmVlNLYUdJbHlTNGo5YXVDSEZfSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "sportschau.de",
-   "region": "DE",
-   "date": "2026-11-13T16:53:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "882f41ee22",
-   "title": "TV-Moderator Andreas Ellermann heiratet im Schloss Reinbek",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEJfRlpnY0hRV3kzTVVlNkVZTV9PUEdYZ1ZGMkhmczdwaWpfeW1NOTRpNzR3UVRnc2tzc3FmTjZ3bFJkWVZSWGpEVUpMVFk4ZzIxYVRqRjFUM190cklVSFY3OTl1TUFxTTBlZllza3lEZlZ2RjB0ZW54S3k1VkFjRExLTmI0aENIUHJTTG1ydUUyRHRzVGszb09BMTBlZ3pSWTV5dTROZmxuam5yTzZZOGpvVDZZWEpiRXR6ejJoRkw0QzVtTklzbUtneW0xa1dLY29kYXNzQi1Ub1HSAfcBQVVfeXFMTU1oNlE2NEhaQWIyb2QxR3MzM0JzUGZvcWFpR0N2cFdqT0lUQk9qeE5jbU1FbHRxcTRPMUN2dlZHbG16a0hZdjV3SVdLU1hFNzBBSDVoTFV6ZHM3cWZValpMdVdNbHJob011Vzc3SWNqQWFuODdKN3E2a1FwWmxWbzFOcTdvb0ZpYTVLZUV1Z2sxdGYya1NwVkdNYzIxYWx4NVNvUnNJaFJlQWxpY1d4anBQNVA4bE5NZTQwRGJXSmk3LUlEYTNnNUpEaWhwV01STHE2N1FSVE1GNTEtck9FUENRVjlVY1M3UUFUaXpKcGo0WnFnTlBlTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Lübecker Nachrichten",
-   "region": "DE",
-   "date": "2026-11-13T16:46:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "64471763c6",
-   "title": "König Charles schneidet seine Geburtstagstorte einen Tag zu früh an",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdTdyVm1SMHFVdVdGbTJMdFBjdXhqOVlLZ0xKNTJRdXdvQzJCamxMZUZ6d3BLSUYxWWw2UHRwcC1BTVdCNjdRaFhOcWlFY0xRM0VqaFE5TE9peUdJU1p4OHRDUWcyV3RqZVY5S0dyM0JkNWRfV0plaXJvVzVFcVIzaWZUUnNtaEJzSXZoeHRwc0Z3bWtxN3M3bGtPWWt1d2JPbFBwOGpyLXM3TWhhNjVVbkhuSzhueURtb0ZQRlRfVHotNEZEeVluQXdZMUMwdWJLQWhxNUxHcE84cERYWUdISlNVMGxMQmxHZEd4Rm1lN1pQdDN1?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BUNTE.de",
-   "region": "DE",
-   "date": "2026-11-13T16:16:00+00:00",
+   "date": "2026-11-13T16:31:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -504,6 +487,23 @@
    "topic": "Society"
   },
   {
+   "id": "3b50d03676",
+   "title": "Biograf des geschassten Nvidia-Chefs „Tobsucht und Narzissmus – Trump und Jensen Huang haben viel gemeinsam“",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSV94OGxpNm5XQ3kyLXhWZ2lLby1kN3h3YU5XLS15amdtYVVOdXU5Vm1na0JQWXJ1Qm5ldGYyRzg3bWZxcHAtUnFPTXBOMEpYZXZwUUtDMFV0NGRmM2RKeDRnc3pUNm5zSXlKSWR4blAxWk5tVFdEN0h6eVJtM0hrMnROZkU2UHp4UkcxMGpTUFZyU1Utc1lFc01Ra2cyTmIyR3Q2REZEWnhGbWZWRG9SSnhLdzNTTm0yeDJkWE4ycEVzc3ZBeV9mV3cwWi1qbm1uVHJ3Q3FUN1ZiMHh6S283cERMbzlGczFta3FHeDZydzE4N05tTHY2bkV1c3lUb081Y1dv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T14:10:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "1c6de0f1f8",
    "title": "Trump: Umfragen zeigen, wie zufrieden die Amerikaner mit dem US-Präsidenten sind",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0o4SDZqMnRrRWdZMlAzQW9uWnVfMGE0NFJadURZd09Va3Z4ZExLTk5OcjJlcmFEeXZRYy1pSTdrWlRYX0ttTW9XYTNDRTBuYzQzWjdGUERmUTc3S2ZUckIxNDh2M1E5Z3o3Y1kxUTl1TGppTks3akZsQnBac1RHMks3ZUFlSTZVRjNMdW9rU1pIZWk1dkVSQjdXZl9vTGV3ZFdWakltbjFNb2JqV0lBNmlLc2drbWwyNlNBc2JWU1oxLVB3M1Nma0IxZHA?oc=5",
@@ -546,6 +546,23 @@
    "source": "mgo medizin",
    "region": "DE",
    "date": "2026-11-13T10:20:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b90ad31c65",
+   "title": "Streit um Teilnahme an Eishockey-WM: Russland droht Gastgeber Deutschland",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3ZUZ1pCZDlGcUtMNTAxM2dBaVNqMnA0dElUVDhtTk1uMV81XzVCaXdxRHFSTWs4Z0N4REtGdU0yQVNacDdVVjI1NGRYWE1TSHRkOHJBSzBGRUN4c0lRNzBESGpVY1ptdUw0Z0RPbzM2Q2RBT0E0Q05WTlNPeUpCWk1OMnNmZUsycDlpR0M4TkxrUUw1dUdWTWxiQjdlWlVyRmhoeTEtVzNZSHdIcER4VGNBd2FBUm5rVkVJWkln?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T07:26:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",

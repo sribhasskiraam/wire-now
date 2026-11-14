@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
-  {
-   "id": "895f2179d4",
-   "title": "NYT Strands hints, answers for November 13, 2026",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "PH",
-   "date": "2026-11-14T07:15:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
   {
    "id": "9eee5bb6eb",
    "title": "New method reveals how glioblastoma cells invade the brain",
@@ -72,6 +55,23 @@
    "topic": "Tech"
   },
   {
+   "id": "f6ff05aa41",
+   "title": "DOH-NCR on Code Blue alert for ASEAN Summit until Nov. 20",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3duUmJVdTZSTGtmem1zZDN1WWdFZ0xjN3BhQmR4dk1Wb1dxZ2ExYUpyQWRaMDNHWU5yZndJZG9INmh2bzRuM3ZGdUVIYUJIenZFZWhRaHpHdEFvNS1PVENUTE1sajZfR0VCQU53WS11Mkxwb3M2R2prZDZGVnZVSzVycThTM2tMNHhoS3JzZm4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine News Agency",
+   "region": "PH",
+   "date": "2026-11-14T06:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "229c25dd0e",
    "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnVQRU9PdU5QdzM2RFJrZndGam55c0ozNGg3ZGFCOU1fanJReWduRWZrRW91M05vWlYxWGJKMUY5czlIWFRzclpqRTlpQ01uRWFmc3Z3OGNPZmlOdDNBQS10bjgtMDhtanNkcXU1THM0VEVpNmVTT2V2WElCMjRYVFRUbDUta1h5RkhQVmRDak9WSWlJZHhtdl9VdFZuU0VLWEdWcHFIOWNpYjA?oc=5",
@@ -106,32 +106,12 @@
    "topic": "Society"
   },
   {
-   "id": "cfb80b480d",
-   "title": "Philippines, Canada wrap up talks for free trade deal",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3pFdnl2YW50S1dmWWItaGg3R29YbGV0amRWbXd1VnVxdlcxQXdUeVFEcXZhWlhRY3U0UFl6SDJ1TmMwNHEyZkt2QlJZa0l4WnhHdVhnaHJwMEdaSGlENE9xYVVNaDVoR0RyS1E0b2I3WnZSNGRweXdYOGZxNVEwbVZ1N242R0tWN2tNYzMzdDBKMTIy?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Rappler",
-   "region": "PH",
-   "date": "2026-11-14T05:42:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭 🇨🇦",
-    "also": [
-     "Canada"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c9bd7e9e55",
+   "id": "76b3e47867",
    "title": "Giannis, Bam join LeBron, Wade in exclusive Miami Heat club",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkZpR1kxNFJXWVZfbWg5SDRTa1dQV0VtZGZqOHNxMnQtRTA4OTlPMWM1ZEhENlB3Ukp2d1kzYWV6Q09TcjBUOE1kLWxicFVNWjdxRDJwT3RKQlhEaHhmTWpGX1p4VTVSVkhsVUxPUnFaWFhWdHd1S1lrME9QVXdSZXJzSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXhmWjJtc0tXU3F0dlR1WlhkUmRHOHYtTW9XbUZDRFJoYUV2ZGVJRTdQWm5oOWFwaGp0a192enF0QkZqRGJjX1hINUNMRkFlMXVPdEx4bkZNMFpRT214dGEteERhaURMUkwzZVlaNHFNaVBzeEZUVmtTS3FEMzR1VTlVcGFrVzJDOVFKT0toWF82Mjd1N2E4QjVuUjhGYW5BbkZrTVlYUEZzT1VKdGNETzE0SU1wUGJNcEhpUmF1R2tndXhjbWY3aG55eXFFbXEtRWtwUHpweGRhX08z?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "USA Today",
    "region": "PH",
    "date": "2026-11-14T05:36:00+00:00",
    "coverage": 1,
@@ -141,23 +121,6 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "401b9a9f73",
-   "title": "Ben&Ben collaborates with Take That on new song",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdU9HWGs1ZkJXZjdXdUN0RE55V0c5UXoxY2xuSnpITkZncERPMUZobldjNmIyNVhvTmZreUtpT0ZfQlc4MFRxVEJrcmNkRGR6NHl3M1VxU0dpYlNHWGtPZkxDX2hfZ3VrY3ZxNzNsS2lMTm55cFB2WHI5c1VocGF4TUhacmRvTjA4UkhuRkhobVJVbGtqS3JaR2VEYjZMZUdhSzYyZzViR1lKZmJuZS1RWUZKSUVpQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-14T05:23:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "133b70c603",
@@ -177,14 +140,14 @@
    "topic": "Society"
   },
   {
-   "id": "3e59331b48",
-   "title": "Halfway through the battle: Tweetie de Leon-Gonzalez on modeling, designing, and the habit that keeps her moving forward",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONEdmWkNrNkYwQ01Hd1E4T2dqMERoMVlyQzVoSG1uWGt5Q0VsT0pmejhtWE5nRnVzdENlSGkwSEM2LU9uV1BFNnZ6T1hqYjNTNXZlYUhhTG9Nd2lzUm94SWZEYTJROUxaUmNNRlJDM1Q0eFNWMDAtUVpybXdFRVBtbElJTE9LZ2g2U2w3eGJaZEVhWEZ5Q29yVVV0d0VSQTRlU3o0V05BR3hURlhsVm9yMGlyWjMzZjQ2OHF5Sk5lb245T0JaejlkVVVRWkQtSGZqNHNpanNvYnc5MjhYSlFDc25UZEdRanNKR1dz?oc=5",
+   "id": "1443a6b81b",
+   "title": "The Loyalty Game: Ben, agad na binalaan si Mara tungkol kay Ana | Episode 30",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFhDWDRyTUMxTkkxVFVGM2lYalBvUG96V25Udy1zaUUyMV8wZl9DZ2JQYVJHMlp4UDdDd2xCUnpKUU8wOE0yVjBwSkt1a3NPMFdvZzJHZDVid2pZaXRDY1hCQUZiU2VWVTBzbDNMQVZ5alE0cmkxa2RLVUJIM2hkQVFHZEJHTURWM0JCUVIzQ0NuRjhWRDZJWmE0TGl3YkJhUDI0RkFaV3lsVmtoWUF0UXFVQUlZYVd0LXd2bmxpQXctZkhHNV91QmJpWW9EUjRqVEJr?oc=5",
    "summary": "",
    "image": "",
    "source": "ABS-CBN",
    "region": "PH",
-   "date": "2026-11-14T04:30:00+00:00",
+   "date": "2026-11-14T04:52:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -194,14 +157,14 @@
    "topic": "Society"
   },
   {
-   "id": "0c2b7ac1b9",
-   "title": "Cops run after cohorts of 2 robbers slain in Taguig clash",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmU5cW5yYUE5aHloako2Q1lrbzNNRUlCRTFLVWY2Tjl0aXVSNnh0bVNUcGFfdFpmUERPODBGUm43cEpwRXE0dWRUMWZLVUZkRU1fcFNRdzJ4SFNIck1KU3FBempQZVZGY012cVB6Y1NMZXJGN2pKaHV6azFvZTZlZTJlVUozVExTTS10cEJvYw?oc=5",
+   "id": "895f2179d4",
+   "title": "NYT Strands hints, answers for November 13, 2026",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
    "summary": "",
    "image": "",
-   "source": "Manila Bulletin",
+   "source": "Mashable",
    "region": "PH",
-   "date": "2026-11-14T03:37:12+00:00",
+   "date": "2026-11-14T04:07:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -211,36 +174,53 @@
    "topic": "Society"
   },
   {
-   "id": "0dfcfac742",
-   "title": "Siakam, Nesmith power Pacers to a 106-104 win over Knicks",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xSFRYX2FOcGhGN29tYVRTNlJyZWt6aEFDRFpoSVJVOXJIWkFkdW9xTHlFd0lncHpyWWVmVXBmSXdMQ09OODhWWnAxVWZFMkFHRU82N19hc0Q0SjlwZHEtcjZoN2dLQ0pmR3dyanlTVXVfZw?oc=5",
+   "id": "0468f1e72e",
+   "title": "PH, Canada conclude negotiations for free-trade agreement",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW5hRjAtdUVmZ0VtWU85MlZyc2U2eHBrNW9SWlVEMzJSWktGbm00Ulp1Z21pcWtuVElvQVBWcTdPOHZMUmFsZ0pmQ0UxeW9mX3BJOW9lLTVtcTVPOVVScE9xemR3ZHFRX01YejFsX01GVHpxZGpkNVRUcWw4OU40ZUhwVHB6b3BvLWlwaldjV1c?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBS News",
+   "source": "Philippine News Agency",
    "region": "PH",
-   "date": "2026-11-14T03:13:28+00:00",
+   "date": "2026-11-14T04:05:04+00:00",
    "coverage": 1,
    "location": {
-    "country": "Philippines",
+    "country": "Canada",
     "place": "",
-    "flag": "🇵🇭"
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
   {
-   "id": "1add29635d",
-   "title": "US airports latest: Airspace reopened after 'extraordinary circumstances' grounded thousands of flights",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdGJYcFJ5MWJ2c25tWldLc0RPaWZ2SXpsS3B1TFFYQzFESUlHLV9jQ3NuR3k1SnNsR0x3U2dxeEJwZ3FpdXBkREh4VE9ydEgwOEdqUHVOaFVZU0NUWEJaZTJ4SE80b1l1TTJLU25lRXM0dkMyZXZwVFpjVld6aG5ZLWlhN2xRdDk5VlhLZ0ZrbUJFQVd2NU84Q1R6Z2pvRUlPVWNkNTJEbmFCLWU3NG50U1FOT3JGYnBtUW1JNGtjaVNzbVBEUExuRDMzYWVhalhDcXJ5X3ZmMTdqTDlrMkxXWVRjMA?oc=5",
+   "id": "01d58c0798",
+   "title": "What we know about the longest US nationwide flight ground stoppage since 9/11",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "BBC",
    "region": "PH",
-   "date": "2026-11-14T01:10:41+00:00",
+   "date": "2026-11-14T03:45:21+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "57d6a6042c",
+   "title": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSE5hSjdZNTc2WVZzRUhKQXQwbW15T1JIUU1OUlF4VVgzVWYybm1QdXZEUW4wSGVOQkEtWV9JZVhlOUxwZHFxMFpTaThRTEtiQTl1bHJnVVAwMEhOaDRlRjFXdlBSenAxcHFua2IwQzU4cmVBTzhSelkwSElsT2VJVnhyLWFGaXZCS1N3dDRRaU5xVHNMczdXanRwTzN2ZUYxWWRMeWpOU0Y3b0ExbE5TUzZDZkYyNXBFYzZv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "PH",
+   "date": "2026-11-14T03:08:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
    },
    "topic": "Society"
   },
@@ -270,23 +250,6 @@
    "source": "BigGo Finance",
    "region": "PH",
    "date": "2026-11-13T23:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a562cecd44",
-   "title": "ASEAN preps, leadership changes take center stage at PBBM’s busy week",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEE0X3M1UEw5NXk3MGtxWHdla1FLaWFWV1lwejMzV1E2VUs2VlhlSjZuemZRb2dNQy1ScEVKZzRKQmdGZVJkZXpWYzQtVWRHc3ZsQldMYUtQbUlVUnBFV1RKMWZ1ZGFuWTRBLTlXRlM0QWlsZ1ppMTE1ejNaOEVMYW55cEQzR3N5bl9tbF8tQk5fWTdRNEZRcVJJUUNHb0k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Philippine News Agency",
-   "region": "PH",
-   "date": "2026-11-13T23:43:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -364,6 +327,23 @@
    "topic": "Tech"
   },
   {
+   "id": "05ac9a1e3b",
+   "title": "15 best-dressed stars this week, from Ariana Grande to Amanda Seyfried",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVXpGVGhBQ21yNUJYWEFzXy1Va25rSWxOb2N0MjUzclZ5S3hFTlFWY2RVWG5uSldLOE0xS3dzMG94d2V4X181eDEzYTFPVjdNdlBMUTduU0hGN0Q5djFxVVh3UXhQMTVsbnYxWVZOZlkyNjh4ZnJKY0VmejRZZWhMT1BkZ2t6WmVMenljQ1J4TUhLdXpacEFWdENKa25aYjVWaDBPbDd4akpudDJQdWZYZjFSeVNOYTE0SmQ4aEhQNnloZXM3V2xNNjZRZVVTYkdhSVdZX01SM29BQl95QUc5a3otVERidl9uVERpUw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "PH",
+   "date": "2026-11-13T19:19:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e4eeb79548",
    "title": "The Peruvian city that has embraced Pope Leo as one of its own",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJeXFaYkZjMlFsRGd3aFNBaFY4eWZEUUluMjNsOVR2QlIxSmJyRWRheWhKQUU3czJEWGt4RWF0ZlB2a2REdk1pa0FzX1NYOV9KUU9XcGk0V3JYNEx4VHc?oc=5",
@@ -377,23 +357,6 @@
     "country": "Peru",
     "place": "",
     "flag": "🇵🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a243d9b0cc",
-   "title": "Orlando Magic vs. Milwaukee Bucks: Game Preview",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0FhcndhSmp0bkxNeHN6NjREOXc2ZzcwSmdoT2pkajJkU2xrWmpHaE9xOWdQZXhWS1Rmem5HdzM0emxnd0tSNlVfbmhmOGdBWU9zbzBwTVZ4d0hCX0hKZ1FTWDFlZ1dzbmtoOWhWeFpKN3g2cHFWUUxpRTNvSVBRRTRHTEZqZnZfWTZOOWMycTRVajNydHdRcUx4TWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBA.com",
-   "region": "PH",
-   "date": "2026-11-13T18:14:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
    },
    "topic": "Society"
   },
@@ -432,14 +395,14 @@
    "topic": "Society"
   },
   {
-   "id": "f03b972dd0",
-   "title": "Super El Niño, extreme heat and human costs",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3FFMmFGcVdSQktoUmdlWndyTE8zSGdQZGJCQXRDcC0zemdvcE5RdmJjeEVCQnBFZ1lLR1Zoc3hObUJwblRsd2o5emZZa0I5QTNWUEtXR19HckJkdFdwbmdMT0NYU2s5TUVGcnJ6dW4zT1NaR19ZbUhjeXdIRUFKTXcxV1RNRnl5M2dKcHBIQUNVTlNjVTdXR0tHaUFKTnVBWFRUdXlJTmwwOVRJM3lvOE8zcUY?oc=5",
+   "id": "ba1aac10fe",
+   "title": "PH, Slovakia seek to boost trade ties",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzNzMi1ONllHeVNwV0dDRXV6TkZ0b2s3OFBsU3E1NV9MckJGWXV2bWsybWpSaDR1dmFtMGxBV2VsZ3hDS253R2JXMXZPMHVIbHVEajJVLWdlQnNyaVdDODFKc1llcmZCcWhCVGhjWFBJRXh2SThLXzR5aW9tX3I3WmNYOXd1Q0p5QkJ4WXBHSW13NjlVR2x4UFF3b1Q5UdIBowFBVV95cUxQTlhScjQza09WUnZvRDJLWGRKWXlfN1laR1RyNXdzSEhFTE8xeExJVGstSlIyRFgwVWhhcS1jczVpWDhzeE9oX3NwQ0pkV2plZnc0VlZuWTNKaVBBcXBaTk5fd21BaU5PQWhsLTVtSmMwN0c0OVpTNmFla1RaU1BJZmJha21mM3lOUHhsaWZmOS1Jc0Rmd2FqVERoUjQ0ekIyR21r?oc=5",
    "summary": "",
    "image": "",
    "source": "The Manila Times",
    "region": "PH",
-   "date": "2026-11-13T16:01:00+00:00",
+   "date": "2026-11-13T16:13:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -449,14 +412,14 @@
    "topic": "Society"
   },
   {
-   "id": "c06b9a20cf",
-   "title": "Delegates warmly receive DOT postcards, ASEAN commemorative stamps",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0Zkb0pWTENyWXBtRTNIaHRZV1hMajJYUk1xRmQtdlhidTdrbGZ2OTdQZjhVX1pfT1FqQmdoeE9tSU5MTWk0d0s0MUZDT0RTaV9XTkozaDV1ZXRkQVdEOURET2I3NTNrbVdBc0ZfaTFtUzQ1dDRlaFc3aFFtUVZvaXNJSm9PdVItTzZrbFYzaWxuendG?oc=5",
+   "id": "f03b972dd0",
+   "title": "Super El Niño, extreme heat and human costs",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3FFMmFGcVdSQktoUmdlWndyTE8zSGdQZGJCQXRDcC0zemdvcE5RdmJjeEVCQnBFZ1lLR1Zoc3hObUJwblRsd2o5emZZa0I5QTNWUEtXR19HckJkdFdwbmdMT0NYU2s5TUVGcnJ6dW4zT1NaR19ZbUhjeXdIRUFKTXcxV1RNRnl5M2dKcHBIQUNVTlNjVTdXR0tHaUFKTnVBWFRUdXlJTmwwOVRJM3lvOE8zcUY?oc=5",
    "summary": "",
    "image": "",
-   "source": "Philippine Information Agency",
+   "source": "The Manila Times",
    "region": "PH",
-   "date": "2026-11-13T15:46:58+00:00",
+   "date": "2026-11-13T16:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -551,6 +514,23 @@
    "topic": "Society"
   },
   {
+   "id": "303a816a8c",
+   "title": "News Releases - DOT showcases best of PH at 49th ASEAN Summit",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm11bGE4allOZjhwa0pzczdWVDVWbXNuaGZrYldzeHZDTTZ4OWx4N2JSYVpjaXdhNjBlVDBiRjRIWHUwcWhNQ3dsc2hrWGVyOW1CcmlITkExQm9fcHVhRjZkRUhVcXZzdE1OU0d4VVJJVTB6b1BGYnlPa2pvRURfN0xxQldGUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Presidential Communications Office – PCO",
+   "region": "PH",
+   "date": "2026-11-13T09:43:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "689186aeee",
    "title": "Summitry: APEC and Beyond",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IREtKY0RDcEZNem1zbmNpbG12ZG1WZWRNVUVxWWNzemh0Unh2eENvTV9xY1kxQWN0RHZTVEtiYlRxbjBxQ3JpbW5Yemc5OWZzY0tzYmhCMA?oc=5",
@@ -576,6 +556,23 @@
    "source": "SunStar Publishing Inc.",
    "region": "PH",
    "date": "2026-11-13T07:19:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "980a9b6afb",
+   "title": "Thunder’s visit to Clippers inspires injury flashbacks",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEZvMTVJNEpISF9SUDgyNG5QWklhT01yQUhaX0F4czNyX2s3N2l6dnhfdXVYemR1RVd0blpwNWpSOGJsNWQwel92eHBUanBSZy1jbTN3ZTlqQkRwbktOYTAzb205aE80MUNRTkc1Tm8wZTY4VjdLMVBWaVFhS3JZOEpCQlhyZUxhVHNGVkVNakVJa25lMUNCNV95NE5rZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "98.1 The Sports Animal",
+   "region": "PH",
+   "date": "2026-11-13T03:51:36+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",

@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
+  {
+   "id": "49628e8321",
+   "title": "Scientists Discover a Curious 'Dragonball' Structure Deep in The South China Sea",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT19CT1Jwbjc4U2pjN0ZwUTQ2eU9XNGdSb3JkV1RhTkdjV2JmSFIxOFdINzdRZDd4WEdzQ3FHSDdUWkI1T0hnTzlybWZtQlhHZGp4aTFaVUtjdk5Cc1dpRFNUZGpFSGhQWFhEaEhLUmxaWU9zQkxlWTZpX2hUblZIRmowbGRWa3p4U0RjcWFydDRWTDlILXE2WG5aTkFva2xLbFY5MVdwN0pWczA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScienceAlert",
+   "region": "AU",
+   "date": "2026-11-14T08:03:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
   {
    "id": "077f7e4396",
    "title": "Swans through to first prelim in finals thriller after scary collapse",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "Fox Sports",
    "region": "AU",
-   "date": "2026-11-14T07:23:24+00:00",
+   "date": "2026-11-14T07:55:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -19,6 +36,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
+  },
+  {
+   "id": "a140ab91a7",
+   "title": "Hundreds take to water for Newcastle coal port protest despite attempt by NSW police to stop them",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2dWdVRQR2VHYlZvNkg4XzNwMkprVFlER3V0ZzZSWF81ME5WSnMxbGl1V1pvT3V3RE43ZkNjZTJuazZxVmJGaldKVVBoZ3VkWl9QeDA5RW1MYXFIN0E1LVZLbXVIMmdPWldKTWttNF90cXVSMDQ5bHM2Sm9uakNBNDdLc2ZnUW9rRE51NHAyTU5QamVTX2RvLS14Yl9HdnR2X2hvTlN2ckljdXpIWm1KVU5fR085T0dZWnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "AU",
+   "date": "2026-11-14T07:48:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Politics"
   },
   {
    "id": "64336b30a8",
@@ -89,31 +123,14 @@
    "topic": "Society"
   },
   {
-   "id": "a79af47779",
-   "title": "Your SSL certificates can now last 200 days at most: The real risk isn’t renewal",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tOWJTSmxncy1XX3Y1cnpSZnpuaThjZ1ZJU2w0U2kwTENaRXBjc0pubHhNVnJ5THdfZ3lLcHFmVTQxbnlFcU9oM3NOMnRfajNyZE9mMUk4RzJwNUFhNjlPck4wSm14RHJPR3ZQSTJhMEpXSFo5cDdJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SitePoint",
-   "region": "AU",
-   "date": "2026-11-14T06:07:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "37afac5b7d",
-   "title": "What happened seconds after iconic Di pic",
+   "title": "World learns truth about moment after Di pic",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRWt3VzQ5eFdSdmVTb09yQWNQSVdQQTVYUFFKMW14U1U1QkNkcDMybW9ScW5TdVprZUZQMXBDWERWUU1pTloycDJyWjRKMlQ5Z0puWjhsU1FxSHlSbE44TWVoZU5jQjRyS01TajZ2d201Tm1oQXVKT0wyNzF2a0VlNlU1eUwtcEpBTVNzM2ZtR1F2YWp4T2owSVMxYUROMjRiZ3JQbWhTVkpxaXNySlBYVFllWnBUNllDWE8xb0hTZHFfd21vYXM1V09FSHk2ZDZWaEdhLTFfaWtvaU1ycWlEdktjQmZKVzZzZ2hKa0xPRklqSlIwZGFz?oc=5",
    "summary": "",
    "image": "",
    "source": "News.com.au",
    "region": "AU",
-   "date": "2026-11-14T05:03:45+00:00",
+   "date": "2026-11-14T05:05:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -174,23 +191,6 @@
    "topic": "Society"
   },
   {
-   "id": "a140ab91a7",
-   "title": "Hundreds take to water for Newcastle coal port protest despite attempt by NSW police to stop them",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2dWdVRQR2VHYlZvNkg4XzNwMkprVFlER3V0ZzZSWF81ME5WSnMxbGl1V1pvT3V3RE43ZkNjZTJuazZxVmJGaldKVVBoZ3VkWl9QeDA5RW1MYXFIN0E1LVZLbXVIMmdPWldKTWttNF90cXVSMDQ5bHM2Sm9uakNBNDdLc2ZnUW9rRE51NHAyTU5QamVTX2RvLS14Yl9HdnR2X2hvTlN2ckljdXpIWm1KVU5fR085T0dZWnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-14T04:52:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "31d8f60efb",
    "title": "‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFduRnk0VlUtUkVaQ3ZXU1NBUnhPSTFwZEtSRWhVWm1mNWJ3WDdMNThyU1EwSGoxYVdvemJobENjNDFUNkN1NzQ5eklmVng2R3l5dDNmREY2a1JfSWdhSFA2cHQ4N3lqV1puYlB5akNzMmIyaG1JWHFQU1BRc2hJZ0I2SWNheWFrUVJrRHJfa3ZoQXFSQnJvY0ZFQzNVdi0zWHM1OXUzRG9BbzBjZDhvaUJkSGtjNGdsZzRMNHI0Yw?oc=5",
@@ -216,23 +216,6 @@
    "source": "News-Medical",
    "region": "AU",
    "date": "2026-11-14T02:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c55aac9072",
-   "title": "Four bidders vie for $2.26m Edwardian house in Melbourne’s east",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjFFVEZVNGxUcEhMdGFLMXJ3T3FBcDJjYTZZV3I1TFJrZGpRdHBzMnR5YzhuQW1EU0NuZTJYYUJTd0RzT1dSZFgwNjBzMzRsMWNadlNXMmR5QldFRVg1UnJ6eVl6aEpzQmZ2enZHeTEyUnFpeHJmZnFnQXpWSVUxOWtZd0liR19Bbm1oRHpLR3ZXeERSd1Mya0JCTG41dVluMllCZEdOdHhuRmxMWlZfQ1FaN2lueTZFbFlBTEptSWIwbHA1WUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Age",
-   "region": "AU",
-   "date": "2026-11-14T02:15:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -310,23 +293,6 @@
    "topic": "Tech"
   },
   {
-   "id": "09fae71744",
-   "title": "Regional bands say it's now cheaper to do a gig in London than interstate",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWxSS1lJOW1id1drXzkxbGJxdXZ5U0lmUGtrTnlIU1lnWWVRanBPUDcxZU1Dd2VQVlMtRnljWDB2c3ZxX2lEckQzeFF4UzZ3aHg3MGdVMlhEcGhqOWo4X2Q4V1lFVjZZT0hsdjRNZXNYbnI2RV9WRWRZcWRhczQwWGp4M3dSUmZvYzR5cTZGVzFsWFAwMFRuU210MU9jWUFSaW01RHdsRW94akJMd09FbFRR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-14T00:28:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "496b5166bb",
    "title": "UK police open sex offence probe into comedian and author David Walliams",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlhqYXllaGlEdG5SdDRvd1FQb3JTdW42ZC1yZTRSSkZBQ1Fzb0g3bTdrWHZITE43TDZXbDBtMGtGXzMzRFNSRGd3MVE4TEpSQ1cyRzRZS1p0VDdQQmZlTkFzMVFNMjZIWEx2NW5CYlhrczRybHhFSEJvYTBKTHRfREtkbGczZ1N0blprWmgzemNySVdJdTY1SzhpWVV4VVdPWXZ4QTJDUDlVUEF4cXVvWkRBY2zSAboBQVVfeXFMT1ZXcGczbE9VbHhCT1lFdERvNFlTczE0UXFITGdERndSeENtTkJTeUJPdmhpNnA0N1M3cDdPVUdLcUFlQkRzZXAzVXVOanhHTUxZRzdnLVdHdDQ0X0huQmVmRVBUcDZkNFdTdGMzUExud3c3VEpMSk9GMnVVemprVV8waDdUWHVIRl9XOThpY2lXc05Fc2ZBR3h3UUdOSjFwM3h3XzM1NjlPZWJWdGhoc29KdGplOW04OFhB?oc=5",
@@ -344,48 +310,14 @@
    "topic": "Politics"
   },
   {
-   "id": "b13a9ab438",
-   "title": "Did we really see a black hole? Australian team says 'yes'",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWVSV0NhZ2I4eXVJRU5GYXA3bGRzSXBzcUNDTExDSjZWN0ExWFNaTWQ4Y2NaS3QwenE4eTFHb3ZWa29DVVBiRXVTUmRSYnZ2NzFjd0xTQnBpRDdoWkdZQWhZVkUtSTRzSXRmRTNSaktoVFNyNG9MVV9sZk1jcktHRXNUZ3lfV3ZtcHVjTkxuenZxTXJ5SWVMVmlkWks?oc=5",
+   "id": "c3ad28ac83",
+   "title": "Wallabies recall playmaker Carter Gordon as Kiss throws support behind Suaalii",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2lENVpkcVV5RGdvMmhQMjhsX09USGZVdkFQeTBUdlZYZmJIM2VldV9PbUxWUGhJV2dzV0lkTlB6NzVXbzFkU2pBQjdqT2xsb2tXdkttLWxrem1NOTZKQlZlNmJ3WjhzUDNRc29FZU9rbFN2X0lnS2JUeUJOSGx5VzBLdDNySmk4Yi1nUHhBUXp4WGdSZjUxYW91bG1CbmhocWFuSmYydVVOT0ZMUmdLREM0V0NCUEc1Tkc0SUZ3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Nikkei Asia",
+   "source": "The Guardian",
    "region": "AU",
-   "date": "2026-11-13T23:17:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a5fe17acff",
-   "title": "Director names stars he fired from hit film",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWnN4Nms0UVZldjFEZmctY1luaDVjZm5HTXJxZGstZGh1NU8xX053VEpCT2QzdWlKd3FxNmJ0WnZaMHB2VU0wM0ZxWnpEYjFZM0JWc0pFZlpqRTlNS1JhOFVrZDRoWENZN3dGYTkyOW5ScVJtMUtCWkNqTjhrODctYzhQdzBxcTEyTjFVYnczTWlRYktfLTJrYkpMd20zMVJ5d29BeEY5R1hoSjdqU3YtSVM0WmJ6MEVtUGxBNUlHWmRFMnA1cWs2QUw1czNOS2x5dC13LUJ4X0NoMkZxVUFzLTI4NHNjdlJG?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News.com.au",
-   "region": "AU",
-   "date": "2026-11-13T22:55:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "003a44866d",
-   "title": "Tears for Pochettino as Man Utd turn to former Spurs boss",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbjRvNHBTbF9TOFBYWFU3SU56OG9FeFRVdFdVdDZwMVRTRk1RbDQ0U05SYi1sSHY4WkNrVG1acU4zdkxraXBKN2tKVTVWYmhsTTREamstWTBUVXJsX040NXNzQTNzc01KY244ZXExT29pdS13NzlyM3c5X2NjS1A0OG9iT0hucHN4S3h3cFF3YW9GN2FHdGQxQkh3WGdUdlAwZmRNNXV2RHluYVR4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-13T22:04:05+00:00",
+   "date": "2026-11-13T23:01:47+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -412,14 +344,31 @@
    "topic": "Society"
   },
   {
-   "id": "aadc112a79",
-   "title": "Fungicide resistance hits WA barley crops",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGNjMGVzQ0hGZ1hrQ0JLUGVCLWI2RjMxRG5RNEVUWGVfd01NTFpfUVdaUEpPTDZmS2EtaGtqX1hMSFB3VlJLR0FRWXN2OWxfVlFxT1RPR3dSR205R25YSFlhSmo3c3U4UklBc2h5ZmV4NnQyYzRRc0RNSXlVTVREY0h0czVVOUk1RnRoUHlJa3ZqeUNHbnlTQl9ua0VZQVBLWTc5MlZmZFh4Vy1jejU3UmdBdmtxZ1NqeFJGckY4akJJNmtpNnFYVm94Sk4?oc=5",
+   "id": "a01291a887",
+   "title": "Avril Lavigne welcomes first baby at 42 with mystery partner",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZy1jS0ZyVm1YT1hPN2dSNFZ5M3VZZEVBLWhpYXNMRkQ2SWpIQkNCbHJ5VExncldpZUVpTV9Mel95dEl6bEdubklQb2NkQlNCSzVSRmpMQlJqSWV6QlViNkQ5S19SYXMwazVrazdsLWFaa3QtanR5dEJ4Sk1mOXY1Z2JQNldCNGlMeExvX1pUb3JOaVdITEpzMFJPb0pZNHpRd1lEX01iZFBRLUtOY0VWeUwzUnprak5CR29Nb25HT1BKejlGZTdWUmlPQ2FHOU5McWNpdjhfY2Y?oc=5",
    "summary": "",
    "image": "",
-   "source": "Countryman",
+   "source": "Nine.com.au",
    "region": "AU",
-   "date": "2026-11-13T21:01:49+00:00",
+   "date": "2026-11-13T21:03:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fbe25aa5db",
+   "title": "'Smitten, yes. Obsessed, no': Lamarre-Condon murder defence faces scrutiny",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHI1a3dOWWkxUUhBRXRkYk1JekIwLWZzU3BUSjJESzdsT1QyWThORXdIM2lvdGd6cWdoYThsaXFTNEduZTFJSmdvMWZlZ3ZHZGlVRHhMM2VyWHVyeWhiWHh3ZmR1eHFycWU2NWtWNnhtVjhiYzE5bkpLNWRVdXZ1VXBSTVRHOW4tOHhfZmhjaDNtM085ekJQLXdocFhtQVky?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-13T20:12:37+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -535,6 +484,57 @@
    "topic": "Weather"
   },
   {
+   "id": "31e6ccd35b",
+   "title": "'Forbidden' signal predicted 40 yrs ago detected in universe for 1st time | H3+ was detected thousands of light-years away | Inshorts",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcl85akFBQ0ZkZnczTEF6THFYMjJFMFFMUVlxOU1LZEp6d3gyQ0lBQlBJZ3UwODdvdDVHM2hqVmlXZE1hNDNmeTFELUZsUHVzU01mdFFiS1F0a2dxZUpnZFBUR19GN0RQbTY3RFNMNVctUDBiTGdMSm1BdHJNTTJEYkowdkt1a3lxckt5cWJkamtiTmJocGtGY3IxVmFCa3I3am5mbGJ5a3A2NDJqc2tBXzh2aVNadDDSAbwBQVVfeXFMT1p5T3YzQzA2VTAtX0EzckV0NlpUd0dBQUpfeHhCVjI5ZFJTV3EtbXh2bGtRVkpXejh6QUVIbUdvV2JOQzJjNVFnU0NsU19qYnh4V2hScDRWSkNyOFllVUtoNmUxWmQ0QTI2Sk5yNTlwTGpoRWphMFpUaC1RRlJmQkI4VjdySllEazJLNE9Zdk44eFpUNGZSS0xxVnhhX2I0UnZuT0dJRlpNSDJ2OW5qdGtIeThEbVE3NFJ3M3M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Inshorts",
+   "region": "AU",
+   "date": "2026-11-13T16:49:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d6124f3dd5",
+   "title": "Man United confirm Pochettino as Carrick replacement",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRU1nbDVnZkxFSHE2V3NKZk9GYzJ2RGxVWGFyel9yUnVYUnJYUWJRcFJseThhOVJKZU1iMzNMUDhtbVFMbkNFdjd0Y3p6T1kyNWhna2lUbjQ5TVgtbklfOVl3aF9DQmtRY3N2cU5SZVNqRXVxaFhBVFFuZXRsVUk3ZDE5czBUM08yQzgySmtTZWtSbUxHU0ttU1N0bjFlZGJHWVBKMHo5OFB2TXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "AU",
+   "date": "2026-11-13T16:31:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c82339a762",
+   "title": "Electron beam lithography (EBL) for cell behavior analysis",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGEyLUdjbXJWeERBN0c0MW5BOS12LVB5OFRrV3hfLUhGaThCOFo5azZGV2s1eWl4V0hmc0llRlh6ckgtdFlIbHZweXNsckw3MzNtSFFDNjRpSl9FS3duY0FhM1dNeGF3Y1RfNUtBbFFEdWN4ZTZmajJBdFhfVVczcW5FcXFRY2U4azFoU3FJTzhnTVV1cWNRQkswMGVYSmpRVUlOQnBESHdxaW1WZlpHc1dR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News-Medical",
+   "region": "AU",
+   "date": "2026-11-13T16:25:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "edfd25bc36",
    "title": "‘Because of your d***?’: Albanese and Bowen caught in bizarre exchange",
    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWDFCVFpab29UWHRMVUdtaTFKWFgtY0ROeEdmemZZUjZZdzNrUWRmOVVWLVNuU1dxMzBpOGRUdlZGVnQyYkdEQzNrVDNsd3Vud2F5ZnlVMVc5azJyRkMwQ1ZhbnB5X0l6b2ZTeFJPYUw4aS1CcjJvS3oxVEoyckFxT2IxNmpERHRSaTd4R2Z0dlpHNzJKMTBwRmkwdWFRXzdSYlVWWFB1a0ZUUV9Eekp5dGx2b1NmWHdQUm5zSUZDakxISGFndjJIZDVvUU9KeU52VUZvZEFBX2pQdWtnN3Y5YlVOSXNwbzZrMzNSdTdRdkh3N1VyNTd3Q09IVVlCWU5adkhUb0llcDhfdzd4LWZHWnpnZm1GNFBfdVRpNlYtTzR0d2hIWk1TQTFidkRobHBXcVhTaHpIbE5YOVpEWHdNZDBLTGk0b1E?oc=5",
@@ -543,6 +543,23 @@
    "source": "News24",
    "region": "AU",
    "date": "2026-11-13T10:22:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "797b3168ed",
+   "title": "David Jones will close seven stores across NSW. What will replace them?",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekgtNGprcktSeU1hX0xoZWJ4cm82WThobTh5REZia01rV0FuMjVGdmQ0MjJIYnN5M0JBQUhPODFSRF9FeU5zbm9nWV9nUUl0NG5yb1d3c01DamZXT1hMamYtWVNibHAtdDN4S2hmSGprTzBKTDhsU2tUYXBvTlVOOFJEQmE0NHlYRVZyR0d1aFJNZGctVTZyeTU1Tnd5YklWR2hRSWk0SkgxeGUwWWJzbjAxVHJkbUlmcEhxa3doa0ZpUnk0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SMH.com.au",
+   "region": "AU",
+   "date": "2026-11-13T07:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -567,23 +584,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "e05102f4d3",
-   "title": "‘Watch the movie Saltburn’: Accused double killer grilled over messages about hit film",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWFLWTBJR01OMS1KN2pSMVFoeTRRY3Rad2tKT0ZqTl90ZW5yYl9qRHpTQWg0WUJSWjJTRG9NS3Ewa21Ga3FEWUsyaEkxT1pWVE5QZ3phbTI1X2tnR1hpeTU2NzR6cFlHRHB3emtld2NfOXlfMGZSZUUzU3dka0pDRTlhbG52cmZXTXcyRFVxQXgyOGYyRVZMTkc3T0xFZ0Iyc1o0c2pqU21LQmxpYjFrQkJLU25aYjRSZ3ZLVFdDZ1hqdUF0R01BNGZ5NG4wNUo3U1BBNXV4UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SMH.com.au",
-   "region": "AU",
-   "date": "2026-11-13T06:04:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "82d08a6c21",
@@ -620,31 +620,14 @@
    "topic": "Society"
   },
   {
-   "id": "30839b6d55",
-   "title": "From ancient Asia to the AI age: Has China’s ‘beauty stratagem’ found a new victim in Nvidia’s Jensen Huang?",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDlmellmSFBVQ3VVWGQwLW5QV1lyeVdTX3AyTGFYM1NfS0tFNkRfMGM2MWdqN0NHX1VWNjZUMWkydTlVRG8yWFdQVjNpNlppNnREU2lwcmNUNDBHWWpQczVVeTFuZVVSaVRaeUNyNXBxeTc3ZDdTWklfazBfbDNLZWI2cG5LV0JqWVZESlZ1ZldZV0lXWGVQX0J5QXdIRkFoZVl0Qk5qYk9yR19EOElLR0hUVkJZc1BHVlA1RU9wZVBxcTdUYWZ3STBZcXpPUzIxSWhN?oc=5",
+   "id": "f02ea9b0b6",
+   "title": "Cell Changes Around Early Breast Cancers May Reveal Invasion Risk",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHpaUThPUDFvVDc1SEJUbmI5MExKVGRpeWJTRWx0NzFfRlQ2NzFHNjhqaWEtUzQtQlBGbUp6SUlZS2tkQTJRRHZMWDlKZDRmVG5Bb1dsZWgzdXFobDFGdUl5RFVKaUNnU0hPLXY4b1pmVFBYLVRtbjI4UWZYNkZVV0NDamhsRjQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Conversation",
+   "source": "Mirage News",
    "region": "AU",
-   "date": "2026-11-12T20:25:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "5a7d3cd8d6",
-   "title": "JWST Detects a 'Forbidden' Signal Never Before Seen in The Universe – Not Even in a Lab",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR3V6bndFbXdIZ09yNVJrVzNTZnliOWhZTElwSThsc0Vmc3p3YUF2RVZxZl8teXc3UWZQM2NrRlM3a1hiajM4Z3BjZXd5ajVfa1lrLXJEaGdTQnZ3eHNUWk1pbHdEbllWNXlIeExfbF8zdG9FQ181VHo4THBZcEZBZlBCUjRMQ0JELVZFdEZOdURmRnpfU1R6M2R3UUR3WDl1bzh1WVFpTm5QN2dwZmFrMVVn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScienceAlert",
-   "region": "AU",
-   "date": "2026-11-12T12:04:35+00:00",
+   "date": "2026-11-12T19:04:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -652,6 +635,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
+  },
+  {
+   "id": "6d7438f30a",
+   "title": "Nvidia CEO Jensen Huang resigns over affair with suspected Chinese spy putting tech firm’s future in question",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXBwZHJZd2wwS3FDOXRrLXhWWEVtY0x0WkdGeWVwak16Sm9SWlV2YUpob08yUXVUaVJzaDdEV1VTdG1Qcjc3bGI2T0x1UE54c2o5MHV1aS1zYVFfRDE1bjdidGdscGc0SUlILUZzOExaRmZwT29SMHJPMFNVWU5kem1XdW1idVVnSjlZMlptU1dwbENVb1Y1RTZIMTB2UTdaMHRsNGdyY0RsQkc5NzV3RQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "AU",
+   "date": "2026-11-12T16:56:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Tech"
   }
  ]
 }

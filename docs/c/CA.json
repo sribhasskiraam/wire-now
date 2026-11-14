@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
-  {
-   "id": "c70bc1b366",
-   "title": "Journeyman Gawdin stars in hometown to lead Rangers over Canucks",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTB0SzVDUGZacG9icEhBaDZYdzhaNktpWnlQVFM0SzNma0Z4V1g0dXNSZnVJaWlQNm9zVVRLdHZxQUc2SmRNa1BucWZGYm96dU1jWUVwajdpMkNKeVZtOVlFLTI5TzJFZTIxczBabG81dWxpdkZGSjJlMHdGWlhZSzE0dTdPRzJ6R1BxYTNwU2dHc05TY2VZSnF0RTk0Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sportsnet.ca",
-   "region": "CA",
-   "date": "2026-11-14T06:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
   {
    "id": "6c17f9e31b",
    "title": "Canada's Alphonso Davies exits vs. Guatemala with lower-body injury",
@@ -36,6 +19,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "8b4386ba66",
+   "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1d6N19YcmViZG5XbjRVV2V3enhYQ0M3R2VyLWxsNDZJRFZtZGZZMTBhRWtWY0lyRkJPdWU2cGhfSHRKZ1J3TWxNLVRlcWJVc0Zya29maHhsYXJHaDBZcExpUGg0bC04UF83eW50Yjl3Q2hiVnR5ZWMtM2xibEc2T0R4bkNvMTQyenRxTlVXWGNjX3gwalA4cU1oY25qVzVmd05fWGxPWXdGZlhrMmRfYzc2QnNGY3M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Android Police",
+   "region": "CA",
+   "date": "2026-11-14T04:29:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Tech"
   },
   {
    "id": "6167e53703",
@@ -95,23 +95,6 @@
    "topic": "Society"
   },
   {
-   "id": "eff268b51f",
-   "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTdnOVVNWjZfZ2kydUwtRE9DbEFjTUJUTVc4aGw1WEZGbHJWM1YyRzIzdlpYa3RnZTQtX3IxZTdYcG8tLWNmQzNncTc2T0Z5Yjd0M21QT191bkRmYUU4b2c4MUZoZ1BFdElzN3FyUFN1bEx2b0pkcmJ2b0EtQVdaakRrc1VNZ0U1d3Q4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WSJ",
-   "region": "CA",
-   "date": "2026-11-14T02:07:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bc7758b48a",
    "title": "‘Grand Theft Auto VI’ turns Canadian duo Bob Moses’s song into a viral hit",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPajFnZ0NaZU9vdC1aVkFnNGotalEzSlMzRU9qTDk4QlJZWDFleEVKWXh3Y2twQUxFR2xlemNCTUtLSEZFLTVFYU5vNVJ3d3pDQlBhR3J2ZWhNZkd1RnZjRl9SUzJVZm1pVlFZQWdYYU9TMUoxd05tWUh5bVZCNWJ0STI4X1JVQ2Rkak4tOGJ6SWVreDRaSWJ6MWpYMFYzdmxLSERtNWI0WU5tMm85LUo3RWFaWVhrVDJPYXBzaGRoRkJ1aFNYdzZ4NC1UY2N5cWM3WWxzc2ljYm5mOU5jeUNZUWV0LUtCRm5OcmhiQkJUMldDdWw1UkR6c0dB?oc=5",
@@ -136,7 +119,7 @@
    "image": "",
    "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-14T00:57:00+00:00",
+   "date": "2026-11-14T01:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -214,6 +197,40 @@
    "topic": "Society"
   },
   {
+   "id": "c84e07323c",
+   "title": "‘I breathe, I’m in pain’: Woman suffering from endometriosis urges Quebec to take action on disease",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIRWtVVkNHcHNxZXlTVTYzaGF5UURlcElXWGh1a1JCcWIzNEtqamhFLU1VaXpQQ3NwUVJPalpKN0U2Y0Q2NE9GbkpUbUNhZXByaF9qdjBkeUJSVlpyMGRfVnp1eUlaOEtNTUVTc3kyT09iRDRXUFBXMlZvVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo News Canada",
+   "region": "CA",
+   "date": "2026-11-13T23:33:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "d7eb345eb5",
+   "title": "Danielle Smith says she’ll call up UCP officials not signing anti-separatism pledge",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzNDb2ViNzJOTlR0cTNvalBjQ1N3bmdTZnhQMjZEcGo5akV5OXdWU052bTFHbDhmLThBZjB6MmJaUkczTDFGUW9KdklnRWZXQW4tMmM3Q3p3MWF4Y3prN1BSNW4tR2tfRHQyZHVnUkdlSlBIbFJOQ3phcmkyd2FoSnhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-13T23:15:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4b045dda9a",
    "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GUWp5OWp5ZzEyOERaTnRzZ1kyQjRvOVkzR1FoNWxQUEwyY2NoM3JyOXB0LWJEQlBVVk92R2JST2VYaWQ0MjFzVm1tLUFvdHdJcXM2N3dac0JWd05namhJRmtuRFVzZFplTl9yNzF1RFp3RHZV?oc=5",
@@ -239,6 +256,23 @@
    "source": "CBC",
    "region": "CA",
    "date": "2026-11-13T22:44:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bd073d76a9",
+   "title": "‘Ripping up and down’: Three dead after boating incident on Squamish River",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGVERmNrWjVrVUl4ODNaRGlta0RfRGJKQWZiYnh1enNTeDRjMzFWeGZXLTdMWEJ0TDM4cDlocmpEZnhfY3Q2dDJrYzBkWG9PVDRaTUxjb1RvSGJwZmk4U1R4NWhueEw0cGhRclllZWN3SEFaZFJhckZOUHRlNURfanJGMGduR3RyX0RlRnpDZ1ZxczY0MEdZZmNjcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Vancouver Sun",
+   "region": "CA",
+   "date": "2026-11-13T22:39:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -280,23 +314,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "421a9a65e5",
-   "title": "Rep. Lauren Boebert of Colorado loses House seat to Democrat Eileen Laubacher",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFpNYk5xUGRBSFh4Xy1DYWZQTjNnejdnR21hMlgwT0ZUYnhfN1hlU2dDaDVXdC1qd04zc0tiRk0xb3RzLTczdFdRdGtQSkJXYjl5ZUJ0X3ozYVE5QUo1VlZJV1BVemltT2Vlamx3SmtIaW1KdVNxSGRiaV9qYzVQakRPSVRSTll4R2RSc0VBM2otdXBZUmkxRGwxY0hsME1KQ2VkcjE3X0JVNDhab0I2WmxIai02aDdGVXI4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Castanet",
-   "region": "CA",
-   "date": "2026-11-13T22:13:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "f07042031b",
@@ -435,40 +452,6 @@
    "topic": "Society"
   },
   {
-   "id": "b44fbcd532",
-   "title": "Google’s AI glasses raise questions about enforcing biometric privacy protections",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTJYZ1E1VWJ1SGJUdUdfMGxjTW1nWGF0YlhfcE5hZjVYc3d2ckNjYVRHMl9vLWM2T2lKdDdMMy1zSHNSVVRzLVBFb280NnYxSG1OLXFFaHNESldQUTlqei11QVd4b0tCU2UyWFhwaE4zeFVQbG1LLXliWXlyZnRVZ2pqN3lEcUpPRXJtOWtiVFVQWC1vd1hnZTU0UG1obW9wZ1ByLVhyY256LTdMV0RBaGRwYm9WTHh0ZUNN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Biometric Update",
-   "region": "CA",
-   "date": "2026-11-13T20:22:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "1535972016",
-   "title": "Vancouver's oldest mosque vandalized with disturbing graffiti",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wem5TX1FkS1NQWFlnZUJReFRNTHdoanNCWlZWVm5FcnRmZWpjQy1hVlhRc0g1c1dTVHJpRlJFekRaa2RTakZUZ2NtamxrWm5qX3RGelNCeXhGU2lDR2FFSkJCMmFoYkhKZExnazFKM3NFU1JiMFFPRWZwWDdMQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Hive",
-   "region": "CA",
-   "date": "2026-11-13T18:50:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2dd2f9378b",
    "title": "Canadian government investing $200M in B.C.’s Woodfibre LNG",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVFyblpMaWJkbFBlTzdOVjNiRXF0LVdmQU1HVjZZbkJFTzZBX3U4SC1ma01VSm9oTkpnckNpamxIYVVMVWdnN2RfZXdaZWhRUW9qSlBXdmI3ck5sSlRoSWMyOXBfd3FsVzdaNDdtZTlrUC1jeEx0SkZYMjV0RzBWaWRUejd1RV91cVpubG5iQ0NtZnFfYTNEWkh3?oc=5",
@@ -511,6 +494,23 @@
    "source": "Universe Today",
    "region": "CA",
    "date": "2026-11-13T17:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a9aed114b9",
+   "title": "‘Painting is not that difficult’: CFL Commissioner urges City of Regina to reconsider decision to stitch Mosaic Stadium turf",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaUdURUMtY01aMlhKdHNMZ1g5cUYyY3RVTFNsd1Jfelo4S0FWN0xCeG9fQjM4SDZVSGpCS3Vyc1lUaHhaZ2VPSFQ3SHdkaVNsMFdkRHU5RzEwYi1HRENmX3lHcmprTm00cmx3bmNOUDh3aGlaeUZQUzZwRmdiWXV0bHMyb0RoeWZWVkljTzAwM0Z3Yl9zUmlOY3IxNWxrYXJuNWtJMWZoZzFSTGg5V3pDUHNfcUFSbXlZWmtKN2RueTQxODVBUC1NY2dKTVp2R3o0YzJGOFNiZlg2VFlETERXbUQyNHpFdEZfODVaVWNSMC1NUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-13T17:03:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -588,23 +588,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "aee6a48ffd",
-   "title": "Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUFHUkI5Y1p6WVhYVWZmYTEwWjVPa2FjaHlEazlGUjNkX1dWbGw3ZzgyekFjc1JPTWRLcGk3bDFfUHNyM1c1Q3NHXzE2S1BfT0xzRjI5dkVzVlI3ZXIxUHhIaVNYZXUwVldQVXBSVGI3ZFpUdDZuLTE4dHZyZ1VRMXNQZXB4YlFaeDloZENzOWk2cFIteTVzbg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "CA",
-   "date": "2026-11-13T07:27:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Peru",
-    "place": "",
-    "flag": "🇵🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c386cb4923",
    "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
@@ -626,21 +609,38 @@
    "topic": "Tech"
   },
   {
-   "id": "db678a2cff",
-   "title": "Endometriosis care in Quebec inadequate, says women's health group in open letter",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXFxNWhKZS1NYU1TMk13WjgxY29WbW1QcVJMSFVtWWRGd3V3eWhPTEJteFNZdFRHd0U4NXF3Tm1zaE9FRmt6X245Q2Vhc3ZFaTh2VTBqUUtDSEZqcm1NZzhZM1hBcEo4bDVmUFdiWlpLaTFSd3JzbU9vaEtMakNRVmhVbE9HZU1S?oc=5",
+   "id": "27874f9456",
+   "title": "Nvidia CEO's resignation after affair with suspected Chinese spy rattles markets, tech world",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXJ1a211SG1MTlFEM05HVlVCNEJDa1BZZUU0TXlLRnFHNFlzc3ZaSGU1ZWoxUjZ5UEdqS25kc2FMa1FWUzZ6dU1HOXR3M3BrNG9IQXpEUEoyQ3hUM3B0ZEVqU21SaFdqdTExd2NoWkVkT2ZMMndlRUVNSnBYZDB4SW82SFVBblJUNjhwbXBR?oc=5",
    "summary": "",
    "image": "",
    "source": "CBC",
    "region": "CA",
-   "date": "2026-11-12T22:26:38+00:00",
+   "date": "2026-11-12T22:07:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "China",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇨🇳"
    },
-   "topic": "Health"
+   "topic": "Tech"
+  },
+  {
+   "id": "ab5f5cfd9d",
+   "title": "Carney wraps meetings on security, trade with European leaders in Ireland",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5cXk4Vk9zVnltV21OZV9XVjJfaEN3V1RPMTlJVHdIZkxxeXp1Nmo1Wk1xRi1tYjlSYXZsams4bjhWYm5VZ1pUQm9mcDJWb1k2Ylo4X0NWY3lUYzZ4UmFpQXBmd3ZSb3hVaHllRjE2akUtNEZCY213SUFiT2Q2dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-12T21:22:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
   }
  ]
 }

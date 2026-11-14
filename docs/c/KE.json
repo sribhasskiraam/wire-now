@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
+  {
+   "id": "38f8ae3d4d",
+   "title": "'Mtu noma sana': Ruto weighs in on KMPDU SG Atellah's Lang'ata MP bid",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzlFeS0xbUsxZlloaUNtcmRUZHhzc203VTBLVWsyaDBvSnEwdlV3QkxBc1R4cDVQYzJfQmxVcFpmWWZ2Sk5SN0d6VUF2UmJ5cmdfVG51Y0JWVk5qREZUQVRZT3ktelU1YzNMd2RsN0dZVUYyWWlGWHlIeG0zUUg4ZjhPcndEOWZXbmNUTFdJWjZlV1E3ZDNaR2p0cGw2U3lTZWc0aGxqUnh2ZzJqUnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-14T07:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
   {
    "id": "9eee5bb6eb",
    "title": "New method reveals how glioblastoma cells invade the brain",
@@ -75,6 +92,23 @@
    "topic": "Society"
   },
   {
+   "id": "133b70c603",
+   "title": "Moon phase today: What the Moon will look like on November 14, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CYXF3R2lrVFdPMjA1Tkw5ZnpVTTNjc1dELXdfcFJTaHJ4bE1LUkRMUHpwdW9sWXBIalYxNjhSV25tUExmZDJtYV8wVUVhVjJYTndkM1VXdWxERGZKdXQ4di1IeFdfZHA2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "KE",
+   "date": "2026-11-14T05:02:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9ad9648471",
    "title": "Justice sector warns of school-age gangs, sets out plan to tackle goonism",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3EtdmhhSnRsd2F0ZVVHYklWQXYyVkV4LVhOZzFobExhcDJjTFNLWmpYLTI5SDh2bERLWGYtaHY0M2YwSmxhVXNiZGpWbUpLVk9VUnBJcC05N2JJdHRiNHYtQ1BwRkFBYU13aU5ZWk1ZNnNCZmtvZHFUZ3M2VnBuWnBONWxNS2s4Ykdz?oc=5",
@@ -99,7 +133,24 @@
    "image": "",
    "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-14T03:58:00+00:00",
+   "date": "2026-11-14T04:06:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6b0dc5bbe5",
+   "title": "Kenyan building collapse near Nairobi kills six people",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3RJNENPcC1nQzllSUlHcjI0NzJJaHdINjcwQ0lqUThnVDM3T1dJcTlRSGRpM1FYOE1hd1BWbHowTEdjdlZzdXBLYlJwWjlBVWd2a0puM0V0NlA0ZG51YzRlMml3QU9tdHZaUWhpWTFBT1VWakptVS1vYUdNejZkRHR4ZVVDRWktQ0Q0LVNObkFCSVRfN2JfUTgxZVLSAaIBQVVfeXFMTTJ0eW84c0FnTUdHVTFrWk9mcTZwaTItck56bjZwRllKa25SVGRMaV9PSERWVHV4OWt6bDgtbGVDYU51ZkJTaWdMRnlCXzIyMUM5NGs1dGNmTmVyMEx3MW83Q3dhT3dNNXlYYmtFZnhGTVRJeDVXd25va0wwY0pxeFQ1M09tVGVwTXJGc2NpX3lFX18yZm5ILXByeDNWa2ZkRUF3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "KE",
+   "date": "2026-11-14T03:12:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -126,55 +177,21 @@
    "topic": "Society"
   },
   {
-   "id": "d72dba43e7",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUEtuaTR5Vzh3VzM2RXFzek1rVFQ5cmZKOV9TX01mS3ZSM3ZqVU9oZjYxRzJ1cEJsSjUzSnFlQXhIdkRoZnlYS25jNHRxcHdHdVpuTEhaYkVsTG1jZ2EyNEhiSy01bjQweF9xaXFIYw?oc=5",
+   "id": "ae87096465",
+   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Science Daily",
+   "source": "Reuters",
    "region": "KE",
-   "date": "2026-11-14T01:14:51+00:00",
+   "date": "2026-11-14T00:25:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "China",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇨🇳"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "04339a7ed1",
-   "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zc0libDZ4RFNRb3dBWmxHcTFBalRNUldnRjAzUG15T3FIYkMyYlNLdHZzMVpBNHBkUVBLMEdaenBETEFGRi1YSDc3R0o5SV9fYzFNU0R2VDdFMGYtMmozZHN2WDVFVEV0ZDBJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-13T22:53:17+00:00",
-   "coverage": 2,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "af8b97714a",
-   "title": "Linda Mwananchi rebrand sails amid internal revolt and legal battles",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUURYalEySWUtbTVuYktvNnZNRjluRHdSekp6eUFvbzQ4WGFUQlUtLU9QVWRiRVRDdVBLb1J0SDJRc0p2czY0X2ltQk1aald3TGFhZGZ4UGtzSlRfVlpYSWY5Q2dVci1UeE1uNDFWVjkwN0lxc2l2dE1SY3FONkpEOUk1X29paTlQcU4wWkM3alJTbXM1SzhRNTcxRkNINHA3WkZJMFdXUElpdXRlZWVLNDVvdkVQUkNyZzJGNVhLbURFeTZMQ0JV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-13T21:01:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
+   "topic": "Business"
   },
   {
    "id": "92371dadcc",
@@ -194,23 +211,6 @@
    "topic": "Society"
   },
   {
-   "id": "d298231c65",
-   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-13T19:53:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "92cf8d3e1e",
    "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SGEwOVBLUHZEOUtMRkQ0T3RmNDJ1a0lyRGhYNWFZb2tWal80bEFYTHJfa29NOVRJbFo3cmxLR2RqbkJIY2lwMjJqd2x5RGdyNkx5dXA0MA?oc=5",
@@ -219,6 +219,23 @@
    "source": "UN News",
    "region": "KE",
    "date": "2026-11-13T19:22:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "71b596a501",
+   "title": "Tearful Mauricio Pochettino admits Manchester United job too big to turn down",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjBsZjN2R05kUGF3emFGTmxncEdlWWU3OG92WGtad0VGRmVZVmZ3RVo1bzhPaVRUWl8xX3BRUU5YU2RFQ0FIWXVMdGRZOUVTVE5DdTVEakxxeHVGcHFqdkQ3VzhyYXQ0M0NRNVprczY0VmRqc0FzQ1Q5LTd0MkhWTFpNejBDNmFIem9BcE9oRDV3Nl9JbTQ3OG5IQUxEcVNYUllnOHZJZ3oyWjV2N0NJQXhZWXRGWmcxQ3ZzV0FkU3BRU2tORkxvdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "KE",
+   "date": "2026-11-13T18:10:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -243,23 +260,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Health"
-  },
-  {
-   "id": "9e905d3165",
-   "title": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUklVczcydEdUUDNtYTNfa1VOMFV1VHByUVY4Q2NNYWl4YUlKbjUwcVEzNFlhMGx2OWl1MWprQmJKNU40RTRDSzdEUFJQcTE2ekY5REFVc0NBc0RFVGxid2JyQWgwcWlpU09oU1RnNk11T3c3VHF4SVR5VEVBemFOLTJva1A1RWRRWFVaZy1wc2xYVXFSYTdtbV92eUVnZUs3dlNYNTluUFprMjVEZnd2Zmw0LVNNQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg.com",
-   "region": "KE",
-   "date": "2026-11-13T17:34:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Tech"
   },
   {
    "id": "7bd5356b33",
@@ -296,14 +296,14 @@
    "topic": "Society"
   },
   {
-   "id": "6b0dc5bbe5",
-   "title": "Kenyan building collapse near Nairobi kills six people",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3RJNENPcC1nQzllSUlHcjI0NzJJaHdINjcwQ0lqUThnVDM3T1dJcTlRSGRpM1FYOE1hd1BWbHowTEdjdlZzdXBLYlJwWjlBVWd2a0puM0V0NlA0ZG51YzRlMml3QU9tdHZaUWhpWTFBT1VWakptVS1vYUdNejZkRHR4ZVVDRWktQ0Q0LVNObkFCSVRfN2JfUTgxZVLSAaIBQVVfeXFMTTJ0eW84c0FnTUdHVTFrWk9mcTZwaTItck56bjZwRllKa25SVGRMaV9PSERWVHV4OWt6bDgtbGVDYU51ZkJTaWdMRnlCXzIyMUM5NGs1dGNmTmVyMEx3MW83Q3dhT3dNNXlYYmtFZnhGTVRJeDVXd25va0wwY0pxeFQ1M09tVGVwTXJGc2NpX3lFX18yZm5ILXByeDNWa2ZkRUF3?oc=5",
+   "id": "dc8f257c18",
+   "title": "AFRICA/KENYA - Appointment of coadjutor bishop of Kisii",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTUFUV0NhRU9QVWMyd2FjaWZMZmtVZnlFS2NHUGZpTGd0VllRR1FJY2JQRmVfWHQzcW5FbXhEdjhPNUU3OUFSUXdRQzdEVW0yQy1ZU1VyYnp0TnJzRUR3WDZQM3Fobmx0RG5PdkRMbmJkXzBOSDM3cnpYZmYyYXNXMFBMVUxYV3hTTXhDWnFnV0V1am8?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Agenzia Fides",
    "region": "KE",
-   "date": "2026-11-13T13:28:48+00:00",
+   "date": "2026-11-13T12:58:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -364,6 +364,23 @@
    "topic": "Society"
   },
   {
+   "id": "8e440b467f",
+   "title": "AFCON 2027: Where to watch the Burkina Faso vs. Mauritania",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVF3dGpoNGxIekhEdUN4cU0yTzMxT2dFa291c25DTmVpZDJCNV9BdWR3amJwME5Ra2RTMzdTMFkxT3l6aUNoc3lKaFlUN2R5Vm11V21NTFNlYWtIWmJYMG9mV3Fyc3lkY0VmQTF1Z2t6LUlRVTRpM2tNS0lmazRwRVdNQjI0bFcyUEN3YkhXUjNDdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Africa Top Sports",
+   "region": "KE",
+   "date": "2026-11-13T10:40:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c5ee8fd104",
    "title": "I was told I wouldn't live past 20, but now I’m 23 and studying journalism",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkRnUTZTejZUUDlXUno2cDVFWEFwVzR4aVlEQjNDcHdZbXVWU3pqT21ubjV0WXphcmxvdkk4TFh0bzRTVUpsNzdtNzk3VFkxQjJIc090eVc0Y2tiUDExM1RqZ2sxVS1VaE82VlR3OFlCTUdzY3p2VE1La2JYZm5QUEd2WldNUXRiY2ZjWkRKZnVwMjc1MlUzN25xS2tCZWNvSFNCSlRpR18xZk5kTWs2YkIzdVJpaU0?oc=5",
@@ -381,14 +398,14 @@
    "topic": "Society"
   },
   {
-   "id": "f84cd61e2e",
-   "title": "Lawyer Abshir Abdi appears in court, seeks to narrate 11-day abduction ordeal",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbUt3Nm1yVlRyZWc3Mm1DSHoxMGlxS29OdzI0bUpNOEdJcE1tQWpfWXpzUF9ZdjBBd3RzQlAxYWIyS3FRbzJ0RFdMNUptOXViOFFlYjZVOFRBd1JUSUdEdHIzU1F6RjNVbTllTXRGcDR4aEllR1JFcktNRVozaWttYWJZZjhrNWpwOU5iVEhNUGRnTjhjQ1ZtSk0xalFZNVB6M2tGTzdOT0ZyM09oYzFsOVkzZndsNFpQWjFXTjh4RExzTDNycmhETDdzS1F5TlZHRVlYc1Nia2xBV09pSmc?oc=5",
+   "id": "043b653264",
+   "title": "Lawyer Abshir Abdi in court as LSK pushes for probe into 'abduction' ordeal",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFFjUDVteXpXR1FxY2d0MGtBR2stWktmajg0OXcwcHNpYVoxMHZMV0VNYmt2NUZ2Q2JfMmhSZ2tUTjAzNlhkcTZ1cmRma1ZnNjNPZWtXd0VSNVQ2WHdBRk9Dd0lMd2lKaHBwTVRtWE1ST2hwUXlWd2lfRVJTZ0dwdVVScXVuSFJ5NDJNRFltT0hfNXdRRU9vVjQxWjRyYzl1OEdNWg?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Standard",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-13T08:40:26+00:00",
+   "date": "2026-11-13T09:10:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",

@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
+  {
+   "id": "7373043397",
+   "title": "Airline schedules could be disrupted for days after all US flights grounded for hours",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2xCTFJHcGVmVWp0OFJhc0hIU2FXczc2OTBvWTg3UWdIc3FwcjVoUWNVSGVEeUpkYjF1Z0ZYb2gyZmVJOWFDOHRhdVdvWXh0VnBWbU8xdzVzLUVwV0pfR1F0bjVzZWRxMVZwUE1Rc3l0SzFCSlV5MHYyREwtd25FcUEtaHNwemtUVzNMNWdmVjFSZUdDU2hFdnVVOHBxT296ejRWTlFsRGw3RFhqQW9yeEVBY3U2VC1tdEI5T1lNcWJ6Z2M5VHdaOGNvb3loZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-14T07:37:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "2a2ec93a28",
    "title": "Behind the music - SWELTR",
@@ -21,14 +38,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "f1542bcf9e",
-   "title": "I’m rebelling against the culture of replacing things that aren’t broken by using my old iPod",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDRCeTdfdXQyLTk2TkRQWW91MWFVZU9xTTJsTl9zQWh6SERWaEhuWDJjUThaMVNhXzRaUldDQmhBNERKSGFDWXRGaEtVUGdrSTdvM3dTbzcteHhxbGY2UzFWME5TUGo1dmJrZmFjVGxGNGg4TS0wUURtZEd1dFd1bnAyM0tlYllhZTlNZVhxejFFaER1UTNHZllBNnYtUTF4YU5YMEFrN1RtTXpMbzNfWVZjMy1oUmVkUmtLb0RTWldXazY5UDBISkJrS09HMVVrMFdpTkk0cHNuRXdNbkFJZTR3?oc=5",
+   "id": "16428f4cad",
+   "title": "Harris asks politicians for feedback on Irish unity 'blueprint'",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2d3VvOWg2aXFFWHNZbl92STgxeWJKRTNJNkFkdVlyS0pwVVo3dEljZUhxZHpjVjVxUXY3OGF2M3FQU1E0MmpBOG5SV0JIdkdTTWpCWWU5WVpOdkk?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Times",
+   "source": "BBC",
    "region": "IE",
-   "date": "2026-11-14T06:03:24+00:00",
+   "date": "2026-11-14T06:34:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -38,19 +55,19 @@
    "topic": "Society"
   },
   {
-   "id": "30fbc313db",
-   "title": "US flights resume after stoppage, further delays expected",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZZzN5RDA1ZUJKLWw5SkV6RHkybURmTEduTXA0MEpZQW1xY2ZhbXJMbmI0ZkpSYlc3TFgxNjlDRXpCamJ3dkQ3aDBvT2lNZzJyVHVZMXI5OWkwNnBYQ05RdUpVRzF3QTdFSDhyV3VR?oc=5",
+   "id": "a8884fead3",
+   "title": "60 unique Irish gifts for Christmas: Sauna swimsuits, cashmere Arans and handmade dolls",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3IzblVfcFpKcGxoOGhTX3dxZ2Y5TTlfSldBVVhidlNhNVdyRU1FR2l5b0JWOFRNcmJhMUs1M05yVjJBRnBtOUtPNnYyUTlNZVM4VWNmY29DVmtVYVRTN2xEWTZrN1dtd3pMVzZRWWV3TElUZTRSQ253VTM2S3NGaDVXQ2JlTU9idmNoOGRaZ1Zhb1R2SVNiaTZlQzhQaW1IX2RETE1FWE1IU0xRSkdIZmtYN3pJcVRpVl9BeC1lVU1la0NLMmNvdENJQXJFb1F5RER6REpWZHkzdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTE.ie",
+   "source": "The Irish Times",
    "region": "IE",
-   "date": "2026-11-14T05:47:15+00:00",
+   "date": "2026-11-14T06:01:57+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Ireland",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇮🇪"
    },
    "topic": "Society"
   },
@@ -89,9 +106,9 @@
    "topic": "Society"
   },
   {
-   "id": "d8f56f7c15",
-   "title": "Hurling legend TJ Reid has business tie to man behind bust building firm that owes debt to Kilkenny GAA",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRWZQcy14dFdTVTJoTDB6NU9oRjFwMTFtc0p1NkdnMG9pS2xvUWJ0NVZsRUhTdl9sOXhYemljM1k5SnFjX1lRSDRqSUNHX051SlZXOFhQOExuTnNlbnByUHZESllHNjlkaGFlLTdKVzROQkp1SnVTUFI2aldIMm1neFYxeHZZNWRCLWs3bDRRcVdna3NZWl9ZODA5Zlpjd19EOGM3cXVmRk1aWVVISF9tdDFGS2lHRk5FV3BXamh5RDZMWjJYMnpWNVQ4NDFLLW00LTA4aFVLMXJhZUM1Q3FNU0U3QW0yRERhVlk0OWRTdw?oc=5",
+   "id": "0cc735db09",
+   "title": "‘Everyone was crying in the control room’: Bell X1 on the first day back in the studio after losing bandmate",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUjcxZDI0WWRCUDdSY2VJSk01VFJyQkFhZnZLYVV1U1I3ekdDYXVKWlpfRmtpRGgxeTA3VGJBRHk1OGlBRDhUdmo5aVBlMF9DQ01MZkxnZnFaeUhCaTh5VzA5ZTlnQ1NfVm1vOW84QVBXS0dxdUQwM3dKTUdQbzVDVVBkUGZ0bnlIYVVnSGF6bnpldjRmMTlnd2dvb1JpY09YM2l0dW9RTWJ4TTZFUUFEb05uc2k2NXZlakxkS1UzejEtRDdYZnQ5SFlFajZldnlSbVhISkxHdldFZ3RBZ0VqQ1dyQUd5TzFacVlIYlJFd1pqRkNwMkE?oc=5",
    "summary": "",
    "image": "",
    "source": "Irish Independent",
@@ -103,7 +120,7 @@
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Economy"
+   "topic": "Society"
   },
   {
    "id": "6f80ff0104",
@@ -140,23 +157,6 @@
    "topic": "Society"
   },
   {
-   "id": "3ac6ade874",
-   "title": "Tánaiste seeks views on Irish unity from party leaders",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUxENlI5ekQ3b2U0U2FrdjVJOUF4ekVlOVJ5MmF0NGNWaGY1S0FfcW8ybmFtYUVDOEhYc01TUGZnblczOEJkYmp0UHRjeXp6QWFkWkE4YnlZQV9zYTVKN1kwdXYweUI0UWdhWVVPcXNEUm1fYmRjRmZ3UjJLTW9GWWFlZy1NSnZSdHJuNl9MOUE0RUZ1OHlzUDdScFVxS01HdzJqWE1VbG8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-14T00:57:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "ea07ab45dd",
    "title": "Nations Championship: Dupont guides France to nail-biting win over South Africa",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0loVmRBYUhrbkNDZHJXNktEZERma2pyaGVROFZFYndTYmZfQXJjU19Ka0hWQ3B2UVYzeU1DNk42MGtxTHdqRm1QLWs0ekRmZFMwa040Y1B1YldrTE1QcGlBbXRpZ2pxaHBuU0QxaVVPa1lKMWpXYUZKd2hxX2xuaWlQZ0U1VTFaRnV0Qm5JdTdGRkJSMXl4SUhVSEQ5SDZkVFhlRFE3WmNzVmM?oc=5",
@@ -185,23 +185,6 @@
    "source": "RTE.ie",
    "region": "IE",
    "date": "2026-11-13T21:54:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "22b284d4f2",
-   "title": "Explosive device found at Dublin’s Merrion Square made safe after major security operation",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjc0V2IzclBCVjgwWDBLUWVLcW9xU3VhWGk1a1VtUkxRVlF2bVZ5WGZhNnh1S3pIR0pWUVVMZ3piRVNFcXhkTFNCSnNLUGVDa29PUzBZdTMwOEM3ZGUyVnMwalRxeEVMbmRQVEJSWnlGWnZHOWQ4dlgwSG9lcUpvYmRYY200U3I4U2JhQWM5SzlZNVhNRC03bHNTT1B5V2d6TGs0MHZMQ3BHNG1NTnlJZmVEeGg3UUpqWllwZkRKZ3JGQ0NiN1dB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-13T21:40:47+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -245,14 +228,14 @@
    "topic": "Society"
   },
   {
-   "id": "884255ad22",
-   "title": "Ireland Under-21s lose to Finland in snowstorm but stay alive in Euro playoff tie",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT09CSUtzeEtDWVl5MEdJR2Iwc0tLeHYyLXlUMFI4WmxmcG1XczYzWEVXeHhPWjExNzZZRGcxNVM3bFdsRWlmLVhnM0RENFhxS05IQ3A1QlNVcG1nd2RFSUxfRVBnc2ZuajZ0bHRDYzJISXZnUWRQUnZ0eHFKaXNRM1l4aV8tTUNoSXpRdDB0eTdPSGs3RGI1VGh2T3hTU0cxMjZiTk9Fazk3RFEyVy0xZ1AxNXBFQUppYXhTMG1fVjhPNTRZbDNZ?oc=5",
+   "id": "e6dd45e904",
+   "title": "Ireland U-21s’ Euros dream still alive despite narrow defeat to Finland as Arctic conditions result in lengthy delay",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObG1seEZ0cHU4WkRaNjRLU3lNTWNaZGI5UFZ3by1ndEFTc3VNaDRTN1FEbHh6S3dxTWhvUTl6MWhvbTdsQ29zYTZFbVdvOV91VVcwRE1oSXZnVXVNYng3MG5WNVI0MUlMbVhPMTN4U1c3TmIwdXcxMEY3YXpwX1NWYnhsYWpmeFVnWTAwS0d0eHEzYUpERUpDR1k2cG9iRnBJUUc0anROTGpRanlKc3M2bWFjUmloZUNaWTg5THhsbGx6clBrSnl5SC1IR003NXNvNG5QSmpIYUhRMzI0SHJhNm5BUmZOTzRXRjVISFVyajg5VDJHVkRQM2ZHTEtfWWcxTVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Times",
+   "source": "Irish Independent",
    "region": "IE",
-   "date": "2026-11-13T19:53:33+00:00",
+   "date": "2026-11-13T19:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -265,21 +248,21 @@
    "topic": "Society"
   },
   {
-   "id": "2581f87f69",
-   "title": "Ireland v Fiji: All You Need to Know",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWh1aGRDdllqcWtDdzZab0d3Z0ZPSGxZaHZndVE0aFptZ1V2b3FSWnFFc0o3bHQwdnNGTWs2MnFPTlNGN2dFVkJFSFFMVXpHdGZCQ3FkWjRhMUdocWVXWDNwd09sTXpieWtYM3NZRnNzOVZpUzRDTDFjcXZBU2FYZ1NkN3F4V0FWM0tYX2l3?oc=5",
+   "id": "6add68e602",
+   "title": "Postcard from Linz: City with growing football footprint",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUxlcVFkN3NrcXpJNWNzSlJ6NF9oMUxMVkNPSXR0MmFpeUdPeTJGbGl1ZkhDM2xNQkNZSU5qbVE1M0JWblRXWV9hNDdyejNnS1BuaHRuaS1LZlFFUDQwZkJfMHR4VnJDb19PcjlaX1dFQTFjWmdPb3hSTXdsUjhZY1FCbWUzaHN4b3B6Y2pUMGl3WWUtb0l1Z1EyRVJfMFBjMi14c2FjbGJ5UQ?oc=5",
    "summary": "",
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-13T18:29:32+00:00",
+   "date": "2026-11-13T18:32:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "3f307ae9e9",
@@ -297,23 +280,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "71b596a501",
-   "title": "Tearful Mauricio Pochettino admits Manchester United job too big to turn down",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjBsZjN2R05kUGF3emFGTmxncEdlWWU3OG92WGtad0VGRmVZVmZ3RVo1bzhPaVRUWl8xX3BRUU5YU2RFQ0FIWXVMdGRZOUVTVE5DdTVEakxxeHVGcHFqdkQ3VzhyYXQ0M0NRNVprczY0VmRqc0FzQ1Q5LTd0MkhWTFpNejBDNmFIem9BcE9oRDV3Nl9JbTQ3OG5IQUxEcVNYUllnOHZJZ3oyWjV2N0NJQXhZWXRGWmcxQ3ZzV0FkU3BRU2tORkxvdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-13T18:10:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "ac486fc908",
@@ -346,6 +312,40 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2876b8ce53",
+   "title": "'Crude but viable' device made safe by army bomb disposal unit on Dublin's Merrion Square",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmFDWkREOGpGMDc0dktvNmN4b1pqN1lZOElKOVVSb0J6RVkzYXRYYTBxTWxHb3NkTVIxbmpVMV9CSjdJV0h4YUZwem9tQWdGdzJ3RGhGVl90Q29NZldKNTRjai16bDFaR2hwYl9BMFE1T3dpY1c0Q0dPTm1nWFlXazZZY2lGQk5BWHF2ZDgtcTB1NVBxdHM4dTExbUdZcDNmRldjem5hTEtwb3l1UUlzR3Z1UQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Journal",
+   "region": "IE",
+   "date": "2026-11-13T17:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b099de4694",
+   "title": "Traffic restrictions in Dublin on second day of EU meetings",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmY5T1dPOExqMHFaejZYU19DdFl1enNVdkdNQkM2M2daMnEteUM5ZFZ6eG5TMVgxRU1lWnRueUFURnJ1dUhpUTlBZXBpM2Nob0tXRVI4Rk9wc2dXNDNpLUQ2YXN6V2dzaEJQMTVxTmpRdUVYbkpyQkt2RTQyb2xQWUo4Yw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-13T17:05:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
    },
    "topic": "Society"
   },
@@ -384,23 +384,6 @@
    "topic": "Society"
   },
   {
-   "id": "3899837a1c",
-   "title": "Galway city hotel apologise after website glitch sees bookings ‘well over capacity’ for Garth Brooks weekend",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaGExMFRhQlQtWXpyU2dVZGJDM1RYeXl2VENNQU9GMlZwcWxEX0k2MUpXVER4eTFZUjdjZnJYNkdCcEtqUzVHdE41ajJZVkZrQmNDQkZndDVpd3ZfQ1ptakRHeHY4eHEtc2xSV1JjaldNTFowWXpfallnWDRjczhiSV8wOG9jWERUemVwZlJPQlVlMHN2LUlXRmVFR1VWZFZYU1JLY1VGNXdLRG8tcFFyQ21TUnUtMEVEYXY0NXZVSVQ5N0NXZFZXdlhWU1JtSjNHc0RVZzRYcWZ2YzQ5eUg2QTVSSEozSXozSUFqSFlZZnlOMWhMaTBr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-13T16:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "37814a9d16",
    "title": "Irish Musicians Reimagine NASA’s Soundtrack of Earth in Ennis",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTJhMTAtNmdNaXdDcUlvTUhDWmgyU25DRE92SmJaOExndlU1X2JENmc2bDh1eFIxaDNZZDFNQ0VMVnk5YWFHcjFWOU5TZDZ5MHhwSWxGYUxkT29vcmk0dnFsN2pUYVRLQWR5NFpDMHpvQnU5V2c3YmYwUVVZNElySlBWUk1LU1JXSXFmTlhLMldYLWd0V2ZSSEtXNHdJZ3M?oc=5",
@@ -426,6 +409,23 @@
    "source": "Dublin Live",
    "region": "IE",
    "date": "2026-11-13T16:10:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "42b911e410",
+   "title": "In a market that is nothing short of astonishing, dinosaurs are having a moment, but they are not alone ...",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sUHk4Nk9BdjBHdDdnMVl6TzEydV9ReEdFc2NpTG9oOWRfcDRsZTRvQ25ibFoxemRoTWttdnhBU1BpWURyR0F0VUI3ajZfb3d5M2RiUGxaMkk0ZXd2eDVnUUlaZkJDbE1oTm8wRjhYcl9wQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Examiner",
+   "region": "IE",
+   "date": "2026-11-13T16:02:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -503,14 +503,14 @@
    "topic": "Society"
   },
   {
-   "id": "a69b0ad468",
-   "title": "Taoiseach rejects criticisms of major European summit as a talking shop - so what is happening on Friday?",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSE1tdjduZ1RYTGhsQlNaVlN0VzY4V05KS01CTUkwaWV0LTkwQ2V3ZG1EQUNvSTZOczA2ejdHVGxTcDRpVnBYRTZKTWtsalI2dWtGa3pCY1ZwUUltb0dBd0NXZ0R2X3RrblFVRzVtb1JuMVU0cV9PdFppdS1ndVFmR0ltWDBEVHd5MFZNLUNnaFVIY2NUVlhkNkN1VXhYbVBlNkhWSFBMcEFfXzVQbk94STdJOXNMdmpuY0Q2UUF4N3JXeXl5dVE0blB1UXVGX3M4SU1jckJQaG1PUGM1WXhETENKV0tsRElnTHZaZkJYZ1FYRDhKTGdLTTlB?oc=5",
+   "id": "457d61b274",
+   "title": "Springboks battle looms large in Andy Farrell’s selection for Fiji clash",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGV3M2FvM1ZwVi13LUdTMlNIUTgzaW5Kc18yMFFTdGJXb3VYZHFER0ZNdTl3djQ2ODRBLUxKZ0F4RWQ0akQ4M0U5LXZieGwxelFPOWNsWjhDdk1ZdWd4ZnpBNEVlWV9kdksxRk5YRDZVczUyRXZ2alh2Wlk4UW0zdV9mSDJCY1hjelE2Z0dQUGQxZC00UlhTYzdON1N6YnNmTlIzQWZUeXIzNTZiUEM2U1ExNjdpdEFyQ1RjMFZDUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Irish Independent",
+   "source": "The Irish Times",
    "region": "IE",
-   "date": "2026-11-13T06:20:00+00:00",
+   "date": "2026-11-13T06:00:39+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -520,24 +520,21 @@
    "topic": "Society"
   },
   {
-   "id": "59e3463e6c",
-   "title": "Ukraine dominates agenda as Europe’s leaders attend EPC summit in Dublin",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQekJJa3JIWEVsZllUcnNHUG1NdkJWVG8yMEx3X0pqRnRfYkF2Uk9Md3VnMjRCSWFvT25oaVVEWWRTS2tiMnc5cnhnTlN1ZlgwMl9KNXd2U2dzQ1YtREs2OWNzMVROMC1oRmdYU012N1BkNl9selh5blJHbUs5UWt6UjNWMXJPc0NTWTR2cVY4dTdpczRZUUdhSElpZWZhSGtIOG5MOHVTMWc?oc=5",
+   "id": "8c8a941135",
+   "title": "Ukraine envoy row hijacks EU leaders’ first AI summit",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEVLcjRfU0ZadTFfY1R1SzNtSUdpa2RmN0xpOEM1ekJ6cUdWbkMxSTVtS25jTm9QMWtNMEJGSmVzX1V6SXBtNWpmcjl3VHBER28wVVNqNzJDNnpUN0I1VlRwV2FHblVvYzd5Njl4YTZpTXg4enNlNjhOTkRlc25PUnFoOGtWRnFGWjBqRWlWVi1Odw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Times",
+   "source": "Euronews.com",
    "region": "IE",
-   "date": "2026-11-12T22:35:28+00:00",
+   "date": "2026-11-13T06:00:37+00:00",
    "coverage": 1,
    "location": {
     "country": "Ukraine",
     "place": "",
-    "flag": "🇺🇦 🇮🇪",
-    "also": [
-     "Ireland"
-    ]
+    "flag": "🇺🇦"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "ee697d567f",

@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "AE",
  "name": "UAE",
  "stories": [
+  {
+   "id": "d3357258af",
+   "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "AE",
+   "date": "2026-11-14T08:19:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e555c2e150",
+   "title": "U.S. loses measles-elimination status, erasing a landmark public health achievement",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "AE",
+   "date": "2026-11-14T07:20:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Health"
+  },
   {
    "id": "28304c1152",
    "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
@@ -17,6 +51,27 @@
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bdb606dcc6",
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "AE",
+   "date": "2026-11-14T05:52:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
    },
    "topic": "Society"
   },
@@ -58,24 +113,21 @@
    "topic": "Society"
   },
   {
-   "id": "241f043724",
-   "title": "Trump touts Iran victory by ‘status quo’ economic pressure",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5",
+   "id": "1da8740bec",
+   "title": "How the Microsoft outage impacted courts and governments",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUnhQZ1hSOVFGajVoZXJDcE1TbWhCa2RJU0ExblA5WElCZVczWnh0VlpBdXljcnlDM2cxZWh1dW50ZXQ1M3pTWE4tamZGMWk2X2VXZmVETC1pd1M0WDBYQXo2Ri16QlVrVnFMdjBpamUxdVdaNWVLMjhn?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "Axios",
    "region": "AE",
-   "date": "2026-11-14T04:43:41+00:00",
+   "date": "2026-11-14T04:05:30+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "UAE",
     "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
-    ]
+    "flag": "🇦🇪"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "5d67864ef7",
@@ -93,23 +145,6 @@
     "flag": "🇦🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "37718e7bc3",
-   "title": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WSJ",
-   "region": "AE",
-   "date": "2026-11-14T03:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
   },
   {
    "id": "aca14360d7",
@@ -146,35 +181,14 @@
    "topic": "Society"
   },
   {
-   "id": "bdb606dcc6",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+   "id": "774dcc17fa",
+   "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "WDSU",
    "region": "AE",
-   "date": "2026-11-14T02:47:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8fe98dcd5b",
-   "title": "Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmd3bEhSTFlKdTVYMXdCNFlpbFd5VEE0Mm5lbUplbEdiY1NERlZTSUlRUnpBaGVsT2tkVXZOa3BEbjROLXVEWWxwQ1NpOHlISURxZGl6QlhGSzJYSGhicG1UTlFRNlVwTFdQWnBPZmZBaE5iODQtbVVpZDZlNXJkSWdpY0Z1b3pPV3dtZmFOYzZtcXR0TVBj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Daily Beast",
-   "region": "AE",
-   "date": "2026-11-14T02:34:00+00:00",
+   "date": "2026-11-14T02:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -184,14 +198,14 @@
    "topic": "Society"
   },
   {
-   "id": "132da55507",
-   "title": "Setback for SpaceX reusable rocket system despite successful launch",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdC1nQTZfeS1mN3Bkd0g4MlpYMGdhNW0wTTdDWjQzbWJ4ODF3ZF9hMFJLV2JSUWNiZ3ZzN2Z4YVR3eTJnNGVUX1pYeG9sN3NqN2FRcDNTdWx5Wkt2SFZmQWR1ODdMTGw1ZTM3VDJWTU55MHpSUFJ6NU8zZ3BoTVRXaTl1d3NZRGhkYkp2a0N2WVluVTTSAZMBQVVfeXFMUDcySjViSFFIUW5hd1NFNGtnN1VlNHVfZFVENURud3ZBbEhLVTQ2cGpmVy1iNGRLd2Fyb1k5NWtGMjkyeFdGMXBFa2xYeDdIdjhyVFJpZzNJaVIxaEN0ejlqN2dvTXF3QUVPMnRxcmRuRmxzeWI3VGs0U1lvdllySXh3aTN0SHZCdHM2YVZmOURyTG5z?oc=5",
+   "id": "26184b8269",
+   "title": "New Regency Sues Michael Mann to Retain Rights to ‘Heat’",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU10LTBEQkxJSlpRZzU3LXJ1dmVPTUMxV3o2WThEZGx5SkZLLWpJVklMZk1oU3NhVUpqZXpxeGZjUk14VjMtQWs4NURUV3NhZ0FrRjNZbDF6dmoxdkZieVNIRjFTS0xPU1dTYTR5NTJoUUFoSGQ2SGhYcEJiaUtKYkNIZllCY2Uxdjl2T0YzSWhFdlR4RGZFVjk2TkNrYXNwSDVycnM3LVRlWnY2Tnh3OE5B?oc=5",
    "summary": "",
    "image": "",
-   "source": "DW.com",
+   "source": "The Hollywood Reporter",
    "region": "AE",
-   "date": "2026-11-14T02:29:22+00:00",
+   "date": "2026-11-14T02:30:45+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -218,19 +232,19 @@
    "topic": "Weather"
   },
   {
-   "id": "774dcc17fa",
-   "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
+   "id": "5ae8777cd7",
+   "title": "MAGA firebrand Lauren Boebert falls to Democrat Eileen Laubacher in Colorado",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmxuTlNJU0plaldsZi1kNXYyLTRKQ1ZGZ19zc0pEMkJfYV9RMl9ERjdPZXJmZkpzcGxfdGpKZGtGRDIyLTZqbXVxRWVwY2ZGemo0aTZ2VGxsQ2VBUFRWOXl6c2NhV2pJbDlWeU12MkJUcVpXdF9BX2JfVlV1UHFhVlhmVDF5RC1KcV9XT1Z4VVBfcElQWjJaSjBnQUtiYVVJbG04cmxzdUZMV0k?oc=5",
    "summary": "",
    "image": "",
-   "source": "WDSU",
+   "source": "Politico",
    "region": "AE",
-   "date": "2026-11-14T02:00:00+00:00",
+   "date": "2026-11-14T02:05:15+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "UAE",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇦🇪"
    },
    "topic": "Society"
   },
@@ -269,40 +283,6 @@
    "topic": "Society"
   },
   {
-   "id": "1da8740bec",
-   "title": "How the Microsoft outage impacted courts and governments",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUnhQZ1hSOVFGajVoZXJDcE1TbWhCa2RJU0ExblA5WElCZVczWnh0VlpBdXljcnlDM2cxZWh1dW50ZXQ1M3pTWE4tamZGMWk2X2VXZmVETC1pd1M0WDBYQXo2Ri16QlVrVnFMdjBpamUxdVdaNWVLMjhn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Axios",
-   "region": "AE",
-   "date": "2026-11-14T01:48:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "b4ad0a8208",
-   "title": "After 26 years, the US has lost its measles elimination status",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "AE",
-   "date": "2026-11-14T01:22:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d38de1625a",
    "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEdCMktMcUhKb3pUNmdCdjcxdTJrUVMzNlJkRmZHLWVBd0RoTWRuSlZHM09ySGwzYXo4U0FwZGdzNTdGOGYzRndsZ052cG1SakY0NEdLb1ZOOXhlbklZN3VYZzNUMGJWNFo0LTIzeTJUQWxRWlNvY21KZkxHNlZxVjZfOEFvazlaMDBWYUFNTHY1bkMxYkltVDZZYnZJeDBQRjlxZEJsMllyVGhYcUQ2aUttOA?oc=5",
@@ -318,6 +298,23 @@
     "flag": "🇨🇳"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "1a5d358583",
+   "title": "Family Dollar to pay $63M settlement after Utah, FTC allege company overcharged customers",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0pyaEFCVVZMVzQwTFVaWVNWTUVkOC1IbG5PRE9OOWFPZmNHTU9zbFpUTUMtMWRVYUVCQWlwbHM3TWxhbXBpa0p5U0xtUnU0SUI1d0lheHF2T2FpRlctNkQ2MXBvZ0FWMkxfbDBBQjdWNkNxMlFrYWljcjFaRFMwNjZFaTMtS180VUdsTGdTMXk0Wl9xaFA3c0dMdnU0MmFZdTQ3aVdaV3VmZVF0R3pSTkhIN3A0aXZNYmUyVXpWT0NYdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "KSL News",
+   "region": "AE",
+   "date": "2026-11-13T23:07:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Business"
   },
   {
    "id": "6eb211428f",
@@ -354,14 +351,14 @@
    "topic": "Society"
   },
   {
-   "id": "589eebe986",
-   "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
+   "id": "ce0872a4f4",
+   "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMHZpR2VjR1JfVXVKdlVoRFhfR0FWcHZDbUpGdG1Xa19fWEpEd3NGeE5xb2xyQUxyakxQVlVWOVctd0lZQTZPTFBaY3FpbEZFcjFGd0N0V1QtdzYya201bFlRTXpMNTVI?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "BBC",
    "region": "AE",
-   "date": "2026-11-13T22:52:34+00:00",
+   "date": "2026-11-13T22:53:17+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -371,14 +368,14 @@
    "topic": "Society"
   },
   {
-   "id": "e996f4d204",
-   "title": "John Harbaugh: Cam Skattebo was not supposed to push on Jameis Winston sneak",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbHpiTENjNF9iQW9mdmFKd3ZrV3RZcTBPNGVyc2Z0ZEFRdGhzRHhZYi05X2lhNUVQNzQxbnN6VFJjN3d0bjlreFlQMVhHX2w5dE5WU1dhM1NkXzdMdE9DMnltMm9wREpOT0pBSWwzanRMbzhCYjN1MmcyUElLVktDVDBDeE0zUEhmRE40YXJuQjhjb2dFbDg4ZTNFMDd3QUQtUlFzcVdNWWpzY01kamxKRmFmd0xHS09NQVJsZmNxeDV6aWVBQlc3cTM4eGxncXd6QzRJ?oc=5",
+   "id": "589eebe986",
+   "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC Sports",
+   "source": "NBC News",
    "region": "AE",
-   "date": "2026-11-13T22:18:24+00:00",
+   "date": "2026-11-13T22:52:34+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -456,23 +453,6 @@
    "topic": "Society"
   },
   {
-   "id": "280bff5522",
-   "title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "AE",
-   "date": "2026-11-13T19:56:33+00:00",
-   "coverage": 2,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "43107347b1",
    "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43SGZ3bUFxTlFUTmMtbXhjRlRhT0VnVWhWNzIwQTN6bWVocjgxVWU1SGlPV2tQckdhSTI0X3NkRVVFZ3FkU2Y4OWxRVVZobzlENDRkcEJkTHJtSGVfTGhBcUNjTEo4UmNBWEg4RUxpR3B6UQ?oc=5",
@@ -488,6 +468,46 @@
     "flag": "🇦🇪"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "8d55199c75",
+   "title": "What's Trump's strategy now with Iran? To keep things as they are",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXIwbkFRM3dlZktvS0VBdHVLQURXY28xdmxYVnNnUUk3Sy1RRmd0dTNBeFhWS29TVVM1RVh3aGd5cmpObC1naWw4a25qTXRPOTRndFY0REw5UlY4d2tlR1dzMFNhbmlXc0NHSXMwWVpZcFZhOE1vQllfT3ZWZXU1X00wLWhiRnNPdmdnQnI4SUJrb0Q5eHRPRmlKYzg1akt0U0ZnM29LejY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NPR",
+   "region": "AE",
+   "date": "2026-11-13T19:02:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇷",
+    "also": [
+     "Iran"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "20d5a691b8",
+   "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "AE",
+   "date": "2026-11-13T18:24:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "25b507ba1e",
@@ -575,6 +595,23 @@
    "topic": "Society"
   },
   {
+   "id": "b9be882ce6",
+   "title": "BBC undercover reporter is offered fake art and awards for talent visa",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQy1yV204b21oU05GS1ItTWJWU1dpV01uenZ1bGszc3RCbTE1Z29CVW92Z2wxbVBZWHIwY3QxMnAtYlE2UkVLc2xXMElDY2h0S1hBemhMdG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "AE",
+   "date": "2026-11-13T14:45:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3f335a4253",
    "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
@@ -590,23 +627,6 @@
     "flag": "🇦🇪"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "90efd60e59",
-   "title": "UN climate summit pushes electrification goal as groups call for mining safeguards",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlUSWVwbVZ3UkJ4dERlR1FpSXZ3WmZEN2ljSnotaS1HNE1CS19CZ0lLZ0hXa3l1SEotV01uWWRRNVBQSi1ybmxVSE4yN2tYZkwyRTg1VGhOTWxCeUdlMU9vNDhxdGdCZFIzLUhCb19LMEtFZ0VTSm94TlVuMVc1T0k1TGU2LVZCN0dNdUJZcnBCWl9YTXIxTzBmbTRNRXY5Z24wcXJ6bWlrLVhsYUNpMlh3ODI2WnU0WUZtOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "AE",
-   "date": "2026-11-13T02:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
   }
  ]
 }

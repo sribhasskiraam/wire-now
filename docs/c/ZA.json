@@ -1,17 +1,37 @@
 {
- "updated": "2026-11-14T07:44:50.366198+00:00",
+ "updated": "2026-11-14T08:33:02.149105+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
   {
-   "id": "0a062f923e",
-   "title": "World Diabetes Day | Dangerous high blood sugar warning signs in children that need emergency care",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVW1JVGZ6RlpLalhMa1BaMmZyVXlHNDlvdGpOSEdmM0U1N0lKWjdoa2p1RmYxa05VaVV1TjFuZHhHcUZ5TlBHV3BYOG1UY09aWFRpUXVmbEJhbGwxMEVGOU1HTGh4dWRJX1NTVUdaTUU2SHhvMktNRmdkU1BUT1VQc1QyMHdNUmZ5NTgwMVQya2ZlS0piQ0c0MVlOR2Z6cGN0OXpRNElnUnFHdDZEYVJ0MkJhTENFWWVPUVdXc1FwRUF4bGVWZVlJeGFVSTdMNDh4VmNqWG8yVmNsRV9Gb2lYStIB5gFBVV95cUxPcjN2eGJMMVVzLVZOZFJyOFVOR3V6N2FBaUplZ096d3N6dUZzaHVlcmZpUGpiR2k2Rmd5S0JxdmpVM21VdlJpWlprZzV3UzJkLVE0UlpNZkZISjN3NUlVc0k4N3lZdnRBV3MtNjRQYmVCbXV5d0dTdGhxNmJUQVFyX1dPUW1ZSUtrZEpjeUdMVUg1RTF1c0FEUE5SbDI1SVp1SWJtZUNqVjh5aTRVUTFtSmhGSVNjN1kwV1c0dDl3OGNLdm56WWdoaTBUWmNEWnB4T3hldkVsaU1KU1lXRzFOWEZhaUMtZw?oc=5",
+   "id": "e2fdc70f95",
+   "title": "Nations Championship - France 21-19 South Africa: Les Bleus put injuries behind them to hold on and stun Springboks in Paris",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEZ6V0p4QThUNGdtdEQwNjJ6eHdGUExORk5kckpSNzhhUEFKM3BTNzJvbUpqY1ZCd3BDbnJNMVkwaDVKTjZKcGdsaFhkVW94a240TkpZSVFhR1JLdXA4VzFvcWpncXY1b1BBUjJIRzVBQmpjVjU3c3BtU05KV3haTTIzWEhSS3RmSUZXa2FGaWZXNUFtSTR4LWk3ZTFBMnhpTzJHUWhIbG9XNjdhTGtSQzIxMGVUM2E4UGk2WW9EeTN3VTk5OFRfY19lQmpMemNRaEd5NmVaOHVlT1JvQ3Y0Z1hEek5WUDlQZUNDaWgzZ0VmU1k1dEt1TGxXazVDeDE2VlFZ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Week",
+   "source": "Sky Sports",
    "region": "ZA",
-   "date": "2026-11-14T06:23:24+00:00",
+   "date": "2026-11-14T07:14:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5337c74533",
+   "title": "Cape Town dental surgeon Dr Meghan Cyster crowned Mrs South Africa 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZU1vbGh5UG1XOHpGUEx2d3NnbVZiM1EyUXBGcWpVY1RKdGFSMm9qMkNWVHRrUDJNLXpycVB2NjdmRkNvTVQyUFlrTjdkcF9mRXBmN3NsTUwxb0xhcmFucUNaWTlNWkc0NDBTMVcyTm5PcUphdWpQVkI1WlJzRVNjZ1ZScGZ4UUhEYjVrMWtZWm56R2xNQnJraHhtTndiRFExbWZGTG9qZzJ5THFEWUhycEQ1VmViS2gtdXg0RFpXWXZJQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-14T06:36:05+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -62,7 +82,7 @@
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T02:28:47+00:00",
+   "date": "2026-11-14T02:34:08+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -79,7 +99,7 @@
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T02:04:06+00:00",
+   "date": "2026-11-14T02:34:06+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -102,23 +122,6 @@
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c0c8c19352",
-   "title": "France resist Springboks’ second-half rearguard to win Paris thriller",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2gxMUFLU1Q3YVFaQkJfQzdVNmQyblRqWGpjQkZXVTZVRmVqUk5YN3RtQXA5RE1GWXhoUkVnWXBnclBPTWFEMWpwRG9OWERjbmF2Um8tNVNzaXpzOE5SSm1NUHNEWTZmYW9zLV9Wd1JhZ1ZwZGdqS2VqSllMSnAzelN6alY3Z1NIQWV4d09HNE1sOTN1WHNrVVNHNl9WRm9wM1lmZUJVWXFEd2JlMVJGZXdTYmxwcjFQcTM5VA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Maverick",
-   "region": "ZA",
-   "date": "2026-11-14T00:57:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -160,23 +163,6 @@
    "topic": "Society"
   },
   {
-   "id": "e4680f6ce1",
-   "title": "Five by-elections on the cards as IEC finalises 2026 polls",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlRNSUdKNnVuVzRQbEhMZHZrYnh3SkI0a0NfQWtzZl9xQlZLaDRId3hOc2hGcmlmbGFsdkZISlFUZzlIeEczb0NSLTY4bF9idk0zdGFZVFNCYjVUZk04SDA0YXpXdDNUdXdqUDFqd2dIWThRbGwwcjVJRVpxS0dTRkFMWDJ0cXVVeEUxdTFuTjEteGYteHlTM1g4Ni0tbjZWV0RRcA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-13T19:36:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "443bc60084",
    "title": "Kenya strike late to peg back Bafana Bafana",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEpBMy1iMS1LZmFnVDRXMllwdGZBdWlvbGlOTGhGS2hIN3VzUDZvclJkX0F0TnlQV2VraVZfLWJwQkM4bGs2WVZLRTNfYndIN1ZPd0U4a1FvVXFQU1R6ZEhhZ01BcHd5Z1hpVllaaFRtQk1pNzB3a2ZMQzRKMzJtWThINV9IUmhsa2VzbXFYTTBBcWE2MDRhTjVSRnBfYzZPbVR2SkxYcVBkSnNXQkRwQmNCV3djcDZH?oc=5",
@@ -194,6 +180,23 @@
    "topic": "Society"
   },
   {
+   "id": "e4680f6ce1",
+   "title": "Five by-elections on the cards as IEC finalises 2026 polls",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlRNSUdKNnVuVzRQbEhMZHZrYnh3SkI0a0NfQWtzZl9xQlZLaDRId3hOc2hGcmlmbGFsdkZISlFUZzlIeEczb0NSLTY4bF9idk0zdGFZVFNCYjVUZk04SDA0YXpXdDNUdXdqUDFqd2dIWThRbGwwcjVJRVpxS0dTRkFMWDJ0cXVVeEUxdTFuTjEteGYteHlTM1g4Ni0tbjZWV0RRcA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-13T18:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3c958c6054",
    "title": "Chris Pappas sworn in for second term as uMngeni mayor after DA surges to 60%",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanpKN25Gdkx6NVNmX0NzeXpBVExCSFVlVFk5YlQ3bTRzU01Fa3NIcWRObndfbFNYZ0dmSHNUdks3SHQ2cU10TmtFYTNGekVRRk90RWVGRkFKSlZsenhFbHpJUUw0R21iRFZjYXZNQ1lqZXkzNFlQOW1oU1ZQRzhCWW9UaUhMMUhSVnJxejdYUnU4MTZ5dU5vYnppVkR2V0JoOVZ0aG5BVG4xSXNpcUpfaVFGaHJrTDE5MEJRU2Jrdw?oc=5",
@@ -202,6 +205,23 @@
    "source": "News24",
    "region": "ZA",
    "date": "2026-11-13T18:27:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ba4d7988db",
+   "title": "Rabada sidesteps ‘Sandpapergate’ flames, assumes senior role as Proteas kingpin",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVkkteUZUOWlrcmo3MXozbGdoTl9kZ2Zyc2dUUmhzeVRrR3Vob3JoVUNaN3lYUzRZVTdiS0JTZ1VhSDVRV25RNm1KMXRzazE0bU1vZThka0tfSEZrTDdxcVV6clJBUEZTRzhUZEdaa0FMcU1vUTBFemFxY0o2S21VN0VYTG52SFhqcS0tZktsMmxxM2h0YS14d2Y0NVdZYlI3cTJhUk5aWkoyNjFFMnpkMjQxc1ptLWlWeDFzenNvM0o1eGNKak5xMjc5UXMtYVBf?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News24",
+   "region": "ZA",
+   "date": "2026-11-13T18:05:03+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -228,14 +248,14 @@
    "topic": "Society"
   },
   {
-   "id": "9c2faec2c3",
-   "title": "She said yes! Former Miss South Africa Ndavi Nokeri announces her engagement",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1phNEZjVUFvcXQ0b0MyNlQ1VWZiaDdmU3FfTkt2b0ZsUGxlYW1DWGk0aVdaVWF3Z2dhdnRQZjYxUHU2THVMOGJhdXdJN0hvMjFCdDkyeXliNXJqV0dkNkk3RWdjaktXdXFIc1JjUWEzMVRVRjJ0dlVmeGR5UnhCWnc3N0dBRVZFV3pxSnFvQkRGTHR4WGgtQTdlSmllRF9MX3I0dDcweUxEa3FaRG5VSGpyVUtVS052TTVkbm5ZWmlTSTY1T0JDNGVxTWRweTcyaUZZbDluOA?oc=5",
+   "id": "c33fcdf200",
+   "title": "Nurses urged to ‘think type 1’ this World Diabetes Day",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVgtdFFzOHpOWXJyMXFYSUJ1U2N4UmkzNTJFM0hVcFFVdHNZTFpwbklNNjdtZEdsUWNYbk9tcnkzaGxNeWs4THc0N2pqYUhYNjh6N2NOLVp6VlBDVDAyVk9jVVNKS0ZJbE93S3dCSU91LWQtOHB5SmgyYWpieEsyTUd3T054WjViaHNMTFhkT3lEMkFfXy0tWVR6LW5EZ0t3RG5ialoyT08tclRGRk1SaG1fRFZhN0FyQllBYTVfU0k?oc=5",
    "summary": "",
    "image": "",
-   "source": "News24",
+   "source": "Nursing in Practice",
    "region": "ZA",
-   "date": "2026-11-13T15:40:11+00:00",
+   "date": "2026-11-13T16:15:28+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -296,21 +316,38 @@
    "topic": "Society"
   },
   {
-   "id": "e471103eec",
-   "title": "Sandpapergate: Usman Khawaja, Pat Cummins claims explained as 2018 ball-tampering scandal rocks Australian cricket again",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdElBR1U5ZnluVkE3c3NXa1NYV2JfeXNZeUxWenBWeGhieXo0TklfODljSmFyWUR1c2taalRfV2hkODV4RDhfaHNteVdET0JvVzlyVUo1dGlDeFFiRlVpV05jckU0ZFJ0RjBlanFHYWxfcHZfc0wtSlNpOUpaSlhycXFyd1RVRksycFdMTkgxdlRkUzhZQUVOUmRXUW80U2wxQ1BFVU5Hd3lDWGplMTZkV1Y1YVlnc25PNWs0MUxsX3cwX2JqTzI1S21kOVc0aXhDZ2VTNXRVNmtwMm41QzBRM3RBTlF2TmQwVWJON0dxQ1luQTFPYkVCZEV3?oc=5",
+   "id": "d767386fe6",
+   "title": "Level 5 severe weather warning issued for South Africa",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0RORDNqVFZaejBnVlNHOFJSenZLSld2NVNfV2dVWFA3QkdNMGZiaDNuRUxROEp5RE5VNzZ0alI3V29Qa0RmSzBtSjJQT0dkQUctYkxYc0JkeGd5MFc0cjdnMzcwZ0YtQVpWaUd4bDFRZmRWYi1BVkdoV1dxandOYWpUNmxrTGduODlWUWEzTk9VQ202ZzJQRENkRXlSNGpnLTl1YjNfWQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sports",
+   "source": "BusinessTech",
    "region": "ZA",
-   "date": "2026-11-13T13:40:57+00:00",
+   "date": "2026-11-13T12:14:57+00:00",
    "coverage": 1,
    "location": {
-    "country": "Australia",
+    "country": "South Africa",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇿🇦"
    },
-   "topic": "Sports"
+   "topic": "Weather"
+  },
+  {
+   "id": "1b586d443b",
+   "title": "The Samsung Black Friday 2026 plug: Upgrade your everyday with smarter choices",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0g5VWtPTUYweWRmdGM4U2tocWxSdkgzUTFSbk5RQ0tHQ2w5MGI0dWNqY0pkM3c5SXZXU096N0hEZUczN0hBemVkdG1NNllrTllfNGJVQnVuT2hWUWdCSDdhUXd4VHNrQ3hYWTJGbDV6eDhwYmx5aW1VMjZaUjBYRW54OE5sdW1YYmNMYkd2T01yVThuREh4LWNUd3VQZjQ2LXBwbFA0UnE5Mi1WRzhwSDZoWXkyX3VvNFFHQzBDSWtvNWRMMTFvTEpHaVZlMTZVSkNTV2laM0xGQVdSWVExczBrVVczRldPMy1mLV8teGk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Citizen",
+   "region": "ZA",
+   "date": "2026-11-13T12:06:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "9726a5f6d5",
@@ -333,40 +370,6 @@
    "topic": "Society"
   },
   {
-   "id": "45ebe5c5d4",
-   "title": "Microsoft outage sends traders back to phones and fax",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1h3WjhRMTBpblRQWjlxSE02Um9HNUo5RDltcEV5cUlsV0ZsTjhsQUNmSUE3Ui1IRVZvYThXQndMZEJBUE02Rk5YX3NRdkRZNWVGbUV5b3h5Wkd6Yjd6ck1VejJ3cC0tLTBsMElyTXF0WlVISlNwcFJJWjRTWEFIV1J6X2pkVWwwN2xVY2NTbnNlamJ2UUtiakdwM3pudWlPYWhTQUpLM1Q2cFNF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Moneyweb",
-   "region": "ZA",
-   "date": "2026-11-13T09:09:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "d571b3cd9b",
-   "title": "More Level 2 water restrictions announced for South Africa as severe weather hits",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmJGXzNyT010Q2U3aEtBbU1TZzJobjgyT2Z6d25yRUFQUU5uUU80dkU3UU1ub1VwTWhPTFZ4TndfZUpxdHJzaWVadTQ0S0dLVllCcHhUdFpIUFJFN09heDR5LXVweUNSWF9ZaU8zQmdnVXlhTHJvczBFYU0xaWNndEZ5THdZdWdVNUI0Zy1NMkhic2lXNVhHZG9UbXg4eW11dHFYV2RSOFdRWmRrTVJYTnQwcFZqN2xmVE40UlAtVjhYOWdr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BusinessTech",
-   "region": "ZA",
-   "date": "2026-11-13T07:58:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Weather"
-  },
-  {
    "id": "cf053fac34",
    "title": "Heartbreak for Durban family after missing father found dead in Phuket",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUtHVHhSN2VudVQwYVY0WVZOdnRnOFZzMm9QVjFOR0xQYXBrR00tLU1RX1Zta0dRTlhMbTlXM3V6RV9aZGJjZmFDOHNoOXozYWlrRlQxNDRWOTlTbVZaZ3RpdUZHWFU5cmVkZFFrNjlCTklhQ09VM2FJMzB5SWhOSjk2MktyQUxrZVBqSTlhckJvUUtLbjdaZE5VeVE5YjNocXRMS2dKVGtIUjVFSm85WXBmZkhuaE5DN1E?oc=5",
@@ -375,40 +378,6 @@
    "source": "IOL",
    "region": "ZA",
    "date": "2026-11-13T07:26:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3c89b9ee42",
-   "title": "Man dies after being handed bomb disguised as traditional Indian sweet",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFF2czFDNlpwU0hsdU1NVEw2SnNnRWxaTDVCYUdiME1KZmw2OGVkM0ZxRUU2TFoxSWFMaFVOaE1aRmhjNTRBOXNlcEZHVE8tejg5WlBGcWsycVZIRjA3eW9uY0pnVUIwaDBtc3I5NXpNeGRLWlRxNDhKZDNkQm5iNDVtYU5xYjJscHRNR3hkb3JrMWZzdnQ2anlzaHd6NXhodEVsZXE0aXpaNEtKT2lYSg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-13T06:55:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a58201c937",
-   "title": "Secret deal between Swimming South Africa and Arena under scrutiny following Tatjana Smith’s bombshell announcement",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTTl5c1o4Y2ZJcVh6bnJaZFk2WFVpdU9lWW5LUVl3eHNtUEY1N3d2SnpWdXVVMXJUZ0dFYVVkWnBfRDJUdHcyeGFSV0V3MVFOZV9NdlhhLVR5T2FldnBaS2N3WHNQOE9XSXVCd2hLdjItQXJ0R1hUX0hwVVV3cGlWSVVDUmZ6S2Rqdjc1MHBhbTZrLWdicFFRTnZ6NDBEUk1zOS1TLU9jQ3hDNXFxWVA1SjNUQkV3R1NzYmVTWmZHT1ViWG9ENFZxcHp6WkNLWlR1eGJGOEVScmMwRHZKZnVURVB6b0xLdHY5a3E0Ng?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "newsday.co.za",
-   "region": "ZA",
-   "date": "2026-11-13T05:31:56+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -433,6 +402,23 @@
     "flag": "🇿🇦"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "60c0cc58a3",
+   "title": "Ditch The Dishes with a brand-new Bosch dishwasher, thanks to Bosch and Finish",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJSFB3OG9yb3FnWnQzbXM3cnFtcGhRaGQ2NWQwNHZXMU5zYTd0aktlbXgyN0hlMlhVUGFaN0RUU0syclRxdmYxRWtmcnFNZ3VEaXVFLXNEN1JHMFg3WmFjWFlSNTBTdEhmU2RBTTRrb1p6eTlYTTM5RW5GVFdsM2s?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Jacaranda FM",
+   "region": "ZA",
+   "date": "2026-11-13T04:04:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "c0f70a5412",
@@ -467,6 +453,40 @@
     "flag": "🇿🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "7e50be8f44",
+   "title": "Global outage hits Microsoft Outlook",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbDFBX1NzQnU1R0JVVU83UEpIQUNFY3VKZkZ0bGlnd2xqd040YzA1M3JXS2xTbHJnMUxZZkF2WU9nQTY2ci1IaGtEQ2Y3QkFEQjVzX3VuSUFtUW1Cb2xSM3dzUl9IV05NaFVHYTA4cFkxZlNYd0w1Yg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EWN",
+   "region": "ZA",
+   "date": "2026-11-13T00:20:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "5e9453a815",
+   "title": "Intelligence testimony reveals mafia-like networks, corruption and political interference inside government",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3lTSkNOcGQzUGxPR0dtMl84czhhZ1FQVUk5bHlTeHR2eWo2ZVg2cFVUdV9MY1doOE5GNTBEYnRnOG5jOHpjSnJ6NW9MeTRDbVBkRVp3YWxtZ2M4NmJjc2ZFVFZLaTQ2aU1Rd2N5WWp3NEhpQUUxd2FnU0todkwzZ1J6R2V5eTZrdWZyR3RCaDN4Z0FWMWFZOWpzbWpZemkyeWJJOFdmVjJvY1AxeUNBMXZKekRjSWM0eU9tR3BtU0FHWXk2VWtVWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Maverick",
+   "region": "ZA",
+   "date": "2026-11-12T20:32:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Politics"
   },
   {
    "id": "23ef08f213",
@@ -520,31 +540,14 @@
    "topic": "Society"
   },
   {
-   "id": "584fc88e47",
-   "title": "The Samsung Black Friday 2026 Plug: Upgrade your everyday with smarter choices",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUxTR2hjWEdCaDM4OWhTNkFJNkxiYW9DTGZ5cWxDWkp1TDlCRDAtRkxUTHhfODBhYVJYZW02N2o0cjlMQ1dKajJSVlg1QW1jSnZsQVVfc19ndmVOc1E3SmdIcFlkSGU4UEc1ZWtnanY1d0V0dzNkRUNZZkZjV3VRa3dIZVpadjBZYWUzWFpwUE4zS01nclQxcUFBTQ?oc=5",
+   "id": "a026127bfa",
+   "title": "Three fairytale dresses and an explosive ‘I do’: Nadia Jaftha and Reece Meyer’s wedding in pictures",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX3pNUTZaaU9kbmxJQmFuUEh6TS1qSFdocUhvTWZNY2V4VGYya0hOZl9abFA1M0Y0c3pkSF9UZHFYajQ3V0VQSFNaVkVqa0RmbzU3bGQ3UUR4SW1FU1ZBTVNkeWIzODloY2YxdXRiVE56aDJicXpLUVBObTBjOFBtMHNnS0EzaVphaTBqblR4MFFXa1VhWDVRWTlycC1LY2VDdlRqTmhJeWFWTWx3TlpqbWE0Vm5vdWNXTF9BaWVHLXZaVi1jVTZ2cU1OWVJDVWstcGlYaXlRZ0xDM0Q0Y0tpeS0wbWJielFpeEk4RzlrN3J6Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff South Africa",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-12T14:23:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8567efeff0",
-   "title": "HUAWEI XMAGE Awards 2026 ceremony and the annual exhibition",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2NSVnplQVhwWlc5WnpZUll3cG8zOGV2M0ZFWEsyWE8zYk1GbURUQ0Vodk9CemVJdzFPU1A3ak1FNDlibHR4UXNmRGUwWHMtNTU3enEwaDJNOUJIeWcyUV9tYzc1UC1WRHlHZXZsLVVWd01Qak94RUNOa1BxMTE1eW10UEFJanQ4M3BidFh2RnRTNWpsTEoxdVA3WQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Citizen",
-   "region": "ZA",
-   "date": "2026-11-12T12:53:44+00:00",
+   "date": "2026-11-12T14:37:10+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -579,23 +582,6 @@
    "source": "Archaeology News Online Magazine",
    "region": "ZA",
    "date": "2026-11-12T11:18:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5b4d316e6d",
-   "title": "Nadia Jaftha marries Reece Meyer in stunning Cape Winelands wedding",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpaa1FXc2NsX19uNG5xVmVDRlg3bFN5dU92WndzNWJjMm5vaDZXTmg1Z1B3ZWUwcC1sMTVQX3Q1RjZxUXFNeXRiMk4wUVNwam13bmtUNFVQYk01S1NROG9kLWVmcTl6UVMxRXNoeElWWm1CTDZYYy1NY05FaThvNnZscHZCZV9wQnZwZmxSTlVRM1p1NVREWHRvdVhtVlRycVFQVkdTeVJyNjBwWmFUWHlJTTU4cmpT?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-12T10:36:53+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",

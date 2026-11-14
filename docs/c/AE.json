@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-14T05:32:20.242549+00:00",
+ "updated": "2026-11-14T06:32:24.617452+00:00",
  "code": "AE",
  "name": "UAE",
  "stories": [
+  {
+   "id": "064509c7c3",
+   "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "AE",
+   "date": "2026-11-14T05:18:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇳",
+    "also": [
+     "China"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "29b728f55d",
    "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race",
@@ -17,23 +37,6 @@
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0ac916c763",
-   "title": "For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse.",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFBPeER1V1U4YVFZeWFtNWlicEVwazExUVhpWmFjMEZaWVRkMkV4UFhuS05uYlBib0t4dFZnRnc2TWh4Qy00Q2ZDM183RkpqbTZHRlgtUlJ2SDFzZlNGUXJHUVdRdUZ6SUJvZlI1c3d2MFowTUI5Ul9qaDhfUWRmR0pTZE9qblJTa0pwRGY2SGZqWDNjb3NreDB2T1J1OTdwUzMyM0lWNENkU3dLTkdnT3Rwcw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Washington Post",
-   "region": "AE",
-   "date": "2026-11-14T04:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -55,22 +58,39 @@
    "topic": "Entertainment"
   },
   {
-   "id": "064509c7c3",
-   "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNV83TGNqLXB1TGRFV1otMFAwS3poMGY4dHp6V05vWllwcmJ0SGN1QkxXdHpob3czaXJSLW1jcjkta1FpRFR1emR3SVZtWWlUclVIWDlFODZHRDFabzcxR2JfamFhU3VxTnVRNG16Z0F2Y09wRUU0ZmxRazVwTDVSV0V2dlFNNm1WazBoUXg2U1kxM1p0Ym5NSmREU1htSDk2SF9jR2hSTXFYLU85ZHFnaW5YMzY?oc=5",
+   "id": "043adc8991",
+   "title": "Trump to have first trilateral meeting with Putin, Xi",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
    "summary": "",
    "image": "",
    "source": "The Washington Post",
    "region": "AE",
-   "date": "2026-11-14T03:48:23+00:00",
+   "date": "2026-11-14T03:47:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸 🇨🇳",
+    "flag": "🇺🇸 🇷🇺",
     "also": [
-     "China"
+     "Russia"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "43c23f7e30",
+   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "AE",
+   "date": "2026-11-14T03:46:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -83,44 +103,6 @@
    "source": "TMZ",
    "region": "AE",
    "date": "2026-11-14T03:34:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bdb606dcc6",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "AE",
-   "date": "2026-11-14T02:47:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5e1b22e00d",
-   "title": "FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "AE",
-   "date": "2026-11-14T02:36:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -147,19 +129,53 @@
    "topic": "Society"
   },
   {
-   "id": "20f7870bd5",
-   "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5",
+   "id": "402c6111a5",
+   "title": "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3A0V3dtWnNnWFB2Z0x2RVBhX2hiYmJCa01TYnc0SUZucUJFcm1mdlUtRTgyV1l3dEd3NVVvcTFfTnM0Z1dBMkFHbTMzZzBLVkg4QW1zY1FoUzNnLU1aOFNYbnlkRTlNMkxkWThTYnpROWlYMWpqVlotRjBYMGROY2VQWHBFbmdDZzFGUjhR?oc=5",
    "summary": "",
    "image": "",
-   "source": "AP News",
+   "source": "The New York Times",
    "region": "AE",
-   "date": "2026-11-14T01:52:00+00:00",
+   "date": "2026-11-14T02:24:29+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "691ca7aea1",
+   "title": "House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3JLSFVFSjI5SkZOYU91WXVCSmVUWlY1NS1CLTQxRW0wWm81OGRZSXBIOURUdld0bkZQYUxVcnplZjVMSmlhSHFNV1NuNksxZTJfZEExT2NnTmZ2aUh4c1FVMEJ5OU9qQ015YS0tZEQwNWF4d0ZUWWxSOWVfWFBmQm0xdVMwS0ExNXhkOGZBNm9Ua3F5YjhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "AE",
+   "date": "2026-11-14T02:15:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "774dcc17fa",
+   "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WDSU",
+   "region": "AE",
+   "date": "2026-11-14T02:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -177,23 +193,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e4cc897465",
-   "title": "Silicon Valley plots Jensen Huang’s comeback",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0xlalJocUFyeUtVSXlERWl1Q0FYajJUV0RLZXRzaTgzWlNVVlZISVJMUHVoX1RuNXhWX3ZsYkZDQmJKdWY3M1pGdU05ZzdHWlB6OEhvQjU3OEwtME4xYWdUeXZpY1pUOXB5d1VfR1VySzExWm00WFpuRFg3TU9LSUxIeG9SZ1JJVXBHbnU0UDNVQ2w3MnFaRA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Politico",
-   "region": "AE",
-   "date": "2026-11-14T01:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
    },
    "topic": "Society"
   },
@@ -300,6 +299,23 @@
    "topic": "Society"
   },
   {
+   "id": "11c2ecbdf6",
+   "title": "Family Dollar to pay $63 million to settle allegations that it routinely overcharged customers",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjJaa1d3XzBUVGtTRHNGZlg4REFRMkxBUWhwcEhSaXVWN0dqZTNJM0ZYZDB4V1gzUTJjV0E0Qld3Y3Z0UWhPWFNncjhtZXhNb1hYRGpkTlZMZjBDWUFpdnlFUVNBVlRXcEVXSVdhb3NVSXBsX0E3VllMOHNkWXJTcVR6dUdXS3pVaXI0NkJObWF2c2s0eHYzSV80SEJsaEtRUF9kN1dGYnQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "AE",
+   "date": "2026-11-13T21:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e6b6766802",
    "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNENSQWo2eG9BYl85Q0NnYUFfY291R0wxMmhqYTZRYkJMSkhpNVBhOF9lQjlKcFY3a1d1RGRhMHNVVUt0OVFjQWVnaVo3UDczdkdPSW1zSGhyNVNNWjZiTUtaajlEMW91d2RidkdNYWZmcEtaanNOSXdqMjRJZ0t1cmNYRmdQZUVVS3BMMXFIZEdZNkZCcV9EVXkzWVltTXhtMGVoQ2JYWHRfZERCZkFKTXFaT1BlUGVwYmJSSlBYaUtEeUhNMWtNR0RWSksyaWZGVjZDTDJoWXg?oc=5",
@@ -368,14 +384,14 @@
    "topic": "Society"
   },
   {
-   "id": "d298231c65",
-   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
+   "id": "81c808129e",
+   "title": "Microsoft explains what caused global outage, Outlook to go down for millions of users",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRVbU9PdFJEdnpXOWxVb3EyTVBuZjkzTDI1Tl9Od3g2cjZmc29DaVF3aUdMZTFfMGk4T3h2amxsWFp0ZFlOUVRFZWxBZy10dU1OV291QXpwakpqNkhHc1NrOXZPdjEwV1h6YWlhWWhVTUFWcktRVWVsNmd2SFI3X0Q3dmRIcHdiel9kVHJEaHJ4SDllTlZoNTdCYTFScE1kNElNb3o0VmR1dVVV0gHAAUFVX3lxTE83em83Z0EyUmdoRXkwTEdJZzh0LTluaXhZUU5fMDdhS2V0eGQ0cWhNUkZ5Ym5kaWZIUk9xTUItb3dlY1NCbGlBa0tMLVFwVnlCUmRETlRINHV1cGF1MmpCMkRjbHBLYy1LajJCTUhjVE5tTGF2d2VwOWpnWTJDajZmNFZpYVpVRWJxemp3T0hyQklxQjBqZ1hiR1owQUJzRjA1VGI4WmdHaG14LXBRa29adVVQWGZrMWppZzN2NXlZWg?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "KPTV",
    "region": "AE",
-   "date": "2026-11-13T19:53:57+00:00",
+   "date": "2026-11-13T20:02:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -385,14 +401,14 @@
    "topic": "Tech"
   },
   {
-   "id": "1da8740bec",
-   "title": "How the Microsoft outage impacted courts and governments",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUnhQZ1hSOVFGajVoZXJDcE1TbWhCa2RJU0ExblA5WElCZVczWnh0VlpBdXljcnlDM2cxZWh1dW50ZXQ1M3pTWE4tamZGMWk2X2VXZmVETC1pd1M0WDBYQXo2Ri16QlVrVnFMdjBpamUxdVdaNWVLMjhn?oc=5",
+   "id": "d298231c65",
+   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Axios",
+   "source": "BBC",
    "region": "AE",
-   "date": "2026-11-13T19:44:12+00:00",
+   "date": "2026-11-13T19:53:57+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -508,23 +524,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "73a86c366e",
-   "title": "US Army names officer held on ‘allegations of espionage’",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm51SmdISjNlNkxKOXFwUktpWlFUckRTVW5OdzRrY0NOc2NQQmtDNm9IY0ZMUzVpYVI0N0kzcnQ2cURobHQxdzA0RlQybDcyZjFQQ3dhZkluX2F0cWxzWnh3eVE1RXNnS2ZlaldOM0RySHk0RHY0RzQ0NHZfVHVodVF5dHYzOC1VZlNCZXhpa0tRYXo3b3NFZDlRaFd0WmN0bE9EcVhVOG9QMUlq?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Defense News",
-   "region": "AE",
-   "date": "2026-11-13T16:32:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "f3592280a5",

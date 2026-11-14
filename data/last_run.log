@@ -1,12 +1,12 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 21/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 25/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 89 stories
+OK   Ada Derana: 87 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 15 stories
-OK   Daily Mirror: 50 stories
-OK   Hiru News: 100 stories
+OK   EconomyNext: 16 stories
+OK   Daily Mirror: 48 stories
+OK   Hiru News: 97 stories
 OK   Newsfirst: 13 stories
 OK   Daily News: 58 stories
 OK   Sunday Times: 2 stories
@@ -21,89 +21,97 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 94 stories
+OK   AP News: 96 stories
 
-Biggest stories right now: Microsoft services begin recovering after glo (8 outlets) | All passengers and crew on New Orleans cruise (7 outlets) | US flights resume after FAA lifts hours-long  (6 outlets) | African Miss Universe beauty queens in limbo  (5 outlets) | Trump, Xi, Putin to hold historic meeting in  (5 outlets)
+Biggest stories right now: Microsoft services begin recovering after glo (9 outlets) | All passengers and crew on New Orleans cruise (8 outlets) | Trump, Xi, Putin to hold historic meeting in  (7 outlets) | African Miss Universe beauty queens in limbo  (5 outlets) | US flights resume after FAA lifts hours-long  (5 outlets)
 
 7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Hiru News [1 outlets]: Met Department warns fishing and naval communities to avoid sea areas 
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Newswire [1 outlets]: Treasure hunt inside house: Three arrested in Nikaweratiya
+* Newswire [1 outlets]: Veteran cyclist killed after being run over by lorry in Moratuwa
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    gemini failed (AI error 503: {
+    gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini:gemini-2.5-flash-lite not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
+    "code": 429,
+    "message": "You exceeded your )
     openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for checkers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
-* Newswire [1 outlets]: “The bowlers didn’t know?” David Warner drops Sandpapergate bombshell
+* Daily Mirror [1 outlets]: Youth arrested for abducting and raping 12-year-old girl
     important (serious news) - researching
     news search: 0 results, 0 about this story
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-* Ada Derana [1 outlets]: Sri Lanka explores AI-powered early warning system to mitigate human-e
-    normal news - one-paragraph summary
-    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Hiru News [1 outlets]: Baker makes 'mega' 10ft custard slice for couple's wedding
-    normal news - one-paragraph summary
+* KPTV [4 outlets]: Microsoft explains what caused global outage, Outlook to go down for m
+    important (also on Al Jazeera, Daily Mirror, The Guardian) - researching
     news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: Al Jazeera, The Guardian
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
+* NBC News [3 outlets]: Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race
+    important (also on AP News, Reuters) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [1 outlets]: To protect wildlife, Maduru Oya road to close at night from Nov. 20
-    normal news - one-paragraph summary
+* Hiru News [2 outlets]: Nvidia approaches Arm CEO Haas as employees seek Huang's return, repor
+    important (also on Reuters) - researching
     news search: 0 results, 0 about this story
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [3 outlets]: Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post r
+    important (also on Al Jazeera, The Island) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    read 2 articles: The Island, Al Jazeera
+    attempt 1 failed: no AI available for writers
     -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: German spies granted sweeping new powers
-    no AI summary: saving the rest of today for important news
+* Al Jazeera [2 outlets]: FAA ground stop disrupts NBA, NHL and college football weekend travel
+    important (also on AP News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (429)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 15 too small to look sharp, using the clean cover
+  photos: looked up 24, found 2
+  photos: 16 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  translated 30 headlines (gemini:gemini-flash-latest)
-    gemini failed (The read operation timed out)
-  summary translation failed (no AI available for writers (last error: The read operation timed out))
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+  headline translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
-Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 10 story pages for Google)
+Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 10 story pages for Google)
 
-Countries: IN 37, PK 35, BD 35, US 35, GB 37, IE 34, CA 38, AU 38, NZ 32, SG 29, MY 33, PH 36, AE 35, IL 36, NG 34, KE 32, ZA 37, GH 23, FR 33, DE 34, JP 9, IT 31, ES 34, BR 34
+Countries: IN 37, PK 36, BD 35, US 35, GB 37, IE 34, CA 37, AU 38, NZ 32, SG 32, MY 32, PH 34, AE 35, IL 36, NG 34, KE 33, ZA 37, GH 23, FR 33, DE 34, JP 12, IT 31, ES 34, BR 34

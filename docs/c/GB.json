@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T05:32:20.242549+00:00",
+ "updated": "2026-11-14T06:32:24.617452+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "869070af4d",
-   "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
+   "id": "3c17fea293",
+   "title": "Passengers face airport delays as US flights resume after nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T02:37:30+00:00",
+   "date": "2026-11-14T06:30:39+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "b11a03cf9f",
@@ -55,6 +55,27 @@
    "topic": "Society"
   },
   {
+   "id": "5459d48e08",
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwcWhNYWJ4VUFhU01RNGpYNVZIYzhtcGlIZWZxSC1JdjBIWVY2Z0ZudEU0ZzkwWjRsc25IdzZ4bWwxLXFQZjlOdWxRZEppNEVRQUlGdFMwMERSOU9uanc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T02:05:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f7b0aad2ff",
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peXRGaTVTWHN0TTMwMGdISUQ3ODZlV3gxZS1GMWZnakRMdGRtcFpPUFExaDVfNDVHX1VOYUJ3NXRRSnZmcVZYdWtRNXVLRm9iR0pfMnB0VGJXYVJtR0E?oc=5",
@@ -80,6 +101,40 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-14T00:29:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "71378556a7",
+   "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02RmFNNFVwNldBNmxocU1yeVhUc0VLNHNIR0d2Vko0REFGamF6WXRkTEtMUDJZRGZhS1FXaXJQX2ZHdENLZHpnMHFfSS1lOHZpcXNlVFFVY1hIS2pqYU5vRGp3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T00:12:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "824dbad70a",
+   "title": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14THdCbDg3ekh6SVFRYkxvdWo2aXUtNDlOVE9sLVl4WGpQNE51QlQ1RWYzM1MtZjg4OWc4ZjlBcGtvb1ZkVkhnd2lXYjBoQ1phTVpFX2tLTndRYThYQUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T00:09:02+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -228,19 +283,22 @@
    "topic": "Society"
   },
   {
-   "id": "4a6cf42030",
-   "title": "Jesus Owono: Goalkeeper gets 12-game suspension for tackle which resulted in death of Jesus de Miguel",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NOGtJcS1pQlVjSFMxZ2xfeGVlb2NLejJwOGNJNEhDdEhDckRmT2lIejVFZmVvUFhvX3g0SGRmWTdmenRvRGxxQ1BvbElzUnh4SWZjYWp0Ym16SmdQUTlIYk5IUzQ4MXMx?oc=5",
+   "id": "d32dfd028e",
+   "title": "France 21-19 South Africa: Les Bleus beat the world champions in Nations Championship",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHa2V1OWhua2Z6Z1h4VDVzRWtoWUF4STJfY0NrQ3N6S3lpSm50RjZ3UXFydFJVQ1hJdHN4VGRIak9IMnBSbmVDUHZWZ1ZaLTNXZDlkUHJHUlpnRU1YSkJubXVCMVNIQkhPXzV6WFJjUQ?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-13T22:37:30+00:00",
+   "date": "2026-11-13T22:39:56+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "France",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇫🇷 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
    },
    "topic": "Society"
   },
@@ -279,6 +337,23 @@
    "topic": "Tech"
   },
   {
+   "id": "a07bbcea29",
+   "title": "Robert Pattinson reportedly leads James Bond contenders",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYU5vS1hVdmZlMzlMc1hjWS1aUGZuLWtwRUhJWlFZMm5OSWM0SS10Q0c5OHZGNlJ6N2NqelA3clBvUUo0UDRRZ3V6UnFSdDc1WTl2RlhDQm9ReDNfbkJqcTFKUkJuUHY0WS1pX2w5MHZxU25HRS1ESm9FSi1ZdWhSZ05ZS1JpWDhyLTc1NFRGYnBtOGU3X19YVGRaVXhlUnl6a0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-13T20:27:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "fa164102b9",
    "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZi1OWDlLcWNhQlFuaVJPaDd0cEg1VmViYy1jWElYcEZJU1NBOVF0RmE5bVB1bU9XMWd0QzVxN3pzcFRiaTdwakdGXzFFTnozQmpVLVU4ZDlncl9qbnNMSjF6QWJwb2ZQUkJrTjZHTGhreURqNWx0SXFORTRpYkVFUG4tUmE?oc=5",
@@ -313,40 +388,6 @@
    "topic": "Society"
   },
   {
-   "id": "0fac17c1e6",
-   "title": "I tested £1,600 robot legs — they turned me into a cyborg at work",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1V4aDJoNEYzaVFhVXhRc1RIelpjVWJDTXVSQ3FYNE0wMURJNUdkVlVVZmMtaTFEOW1jNXh2LWhieFl0Zlh2QnQ2d3U5bWVBaG9PVldjRVdEZ3dMMExjV0JNa1Z6Vnp0ZDJPdUtqbHRwYy1IV1BPS0Z0QS1vbEliWHNrQjk2LWs3LUxrRm1vQ25mdUdIX3RIYlVLdFNpaG9nWXFmQTZ6elAwX281?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "GB",
-   "date": "2026-11-13T20:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "280bff5522",
-   "title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "GB",
-   "date": "2026-11-13T19:56:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ed2503a2fb",
    "title": "Stricter rules aim to reduce risk of bird flu spreading",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Q0tBdXNnRTlUNmlVSjI3UERRelUwMUpzVkI0MVU0NG53NEZsSGhUTjNEMW1DZGU5em5MY1F6aTIwVk5XRVhMY1prZGhXOWxMTnIta3NmQVlsWThtaFE?oc=5",
@@ -355,23 +396,6 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-13T19:07:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cce7b1d99a",
-   "title": "Families clear homes of David Walliams books after sexual offence allegations",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzF1NGlDbFhkV0pZVWdLcFBDbzJiZmF5TXBVcVRuSFEtUjFQLWtTb1NHWVZXM21sVWRMc1RhZ0xpSGdLcWV0ZUtuM0I5aVctaUFuV0JGeU44cmVzc2w2alRqa2FENzVwTlRieEhhLTh3WkNDOVZQa1p0bFpNTk5VcG9WWTBBSjlUT2x5Z2lZdTRUZ19vZVZmZjhMX3ZJYkVVMk1XUWlhSEhMa09VLWpYWGFJRU9HSDc2dkdFS1RFZ1JDa3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-13T18:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -398,14 +422,14 @@
    "topic": "Society"
   },
   {
-   "id": "e63d569ba0",
-   "title": "Reform UK pays for Nigel Farage’s security despite £5mn gift",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0ZpR0lPazNqT0lBVlJXSXNLWS1jSm5nbUhJUXBMV1I5THdZWVVqd1NZQThOelhjOWlZd1NNenhrZFdwcVFTZjdtdHc4V2dpZ01lN25WUlMwYTQ2VFd5d1Y5UkRSRWNaeFlQdGVxMEY2N1lTLUwzVGVYNmFtbmt3djlobXU?oc=5",
+   "id": "40561a91a3",
+   "title": "Everton 'nervous' over rising star's future, Dominic Calvert-Lewin is to blame",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkotOERLay1kV2pSM0d2R1ZGTGRlR0tWbE5CZzROdXNtcHZVZEU1dE5OYzBNdGItaTF4YWE0dDVVTTFWaG1DZEdfeHo3THZTaFV5TkgtajlIVjNjcFJEZFQ1U1BLUnBjdmROT1p5SlZIMEwwS1pEeGV0MDg2VlZCdVkxUzVvbFNkalZ6YU5PU3EtREdhMUlpeVZpWVE4dzVrVDI2Z1NCRlVJQ2VxQk5SbXlDQ2F1MXV0UWNGd0NKN1FIU2RZWHhYb1BR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "Football Insider",
    "region": "GB",
-   "date": "2026-11-13T18:05:05+00:00",
+   "date": "2026-11-13T18:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -432,55 +456,38 @@
    "topic": "Society"
   },
   {
-   "id": "f3b8d8cb01",
-   "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VUDRfRFRhbnMzN3pHMDZOTzJQNk9xcW51d2JhTVRXazNjUENGel9yQXE5Y1NoN3FmYURTbkh6X2lDUUlKUC1zTGhJbk5rTDFkNjFrUHI0UXU0aHBudHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-13T14:34:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fbcb54805d",
-   "title": "Fickle Australians desperate to lap up Pat Cummins’ implausible version of events",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUVVX28tUlVrM3JmalFuOUdfaWZmOXRCdUU3NHVJdnlWbHBqdEpseTQtdVNNaV9xVm1CeWdDQVFnbFNCVzJCc0dZSnAzNHZIZjFMOHFDajQ2WmI2NXJVbHNJdWVuM29YcFNHRFBFaDhVLV9BN1M4M2NLTW03SUlncUNTX09FZVRrVDJ3bm40U29wb2F2X0lZeWUwYWoxR0Z3UThVU1ViMUhRYWM?oc=5",
+   "id": "9d8533d8bf",
+   "title": "Piddington migrant camp a risk to women and girls, Government admits",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnZQVVE0Tm9OSG9qOGRXeElseW1vMlZ4Y2lfMjFOYVp1b0dSQkREMlEzaDc2ekE1QWxuWUtyN01DVlVQSmk2dVZzZ1RiNzBEUUNzRGRPQXFkcW91NndNNEFaRl9VSG5SMDFUUk5YU0ZaY3U1OEdVRWlyTEY2ZE12RDVVWjVEZVN1NTN5UDNocl82U3ZWVENsQ2UtN09uZWlRVUE?oc=5",
    "summary": "",
    "image": "",
    "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-13T14:28:00+00:00",
+   "date": "2026-11-13T16:17:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
-   "id": "543166b0f7",
-   "title": "Charlotte Church's wellness retreat forced to shut for good",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSW9TOS1qN0lCRzBqMFVJMm9QQW5KcmpZMjNmR0RIMjAxRkM1dnU4NEVvSGxZNnF3WW5sTlBBSDRVYU5PMWJoOExsNU9vbVJ2SUhEd0tGaDFVSm9KOXVVN1lJYTBLWXE1VmY0NFlSdGZpZjlQZ21uQnlGOEk3UmlaU2Qtc3pWaDlHUFlUUDZlbnJkTldmb2MtWFpOdkkyMW5jc0dVMNIBqgFBVV95cUxPTHc5LVNnTWFSRDljSEJkWDBxcDZ1blZVLUV4U2xvRzc5bm5xYkd3S25LamN6TXp6cUZ1cEZuTXpZdlZTRnlfcWhWTndXLThScmxIS2xFU2Zqa1dkZUpiNkdvVVpPLW1feC13elJVVzVVMHUyY05NSzY1QXc0VWx1ZF9tc1B5VmZMRGdJNklDWTRiU0QteERvUzhkajVoRWFQWTZNb0MyOGExQQ?oc=5",
+   "id": "0eb6bd0ee7",
+   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Wales Online",
+   "source": "9to5Google",
    "region": "GB",
-   "date": "2026-11-13T12:32:14+00:00",
+   "date": "2026-11-13T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "8aa5b21207",

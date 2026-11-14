@@ -1,22 +1,73 @@
 {
- "updated": "2026-11-14T05:32:20.242549+00:00",
+ "updated": "2026-11-14T06:32:24.617452+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
   {
-   "id": "43c23f7e30",
-   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
+   "id": "229c25dd0e",
+   "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnVQRU9PdU5QdzM2RFJrZndGam55c0ozNGg3ZGFCOU1fanJReWduRWZrRW91M05vWlYxWGJKMUY5czlIWFRzclpqRTlpQ01uRWFmc3Z3OGNPZmlOdDNBQS10bjgtMDhtanNkcXU1THM0VEVpNmVTT2V2WElCMjRYVFRUbDUta1h5RkhQVmRDak9WSWlJZHhtdl9VdFZuU0VLWEdWcHFIOWNpYjA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "European Spaceflight",
    "region": "IL",
-   "date": "2026-11-14T03:46:25+00:00",
+   "date": "2026-11-14T06:00:41+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Israel",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fe88247392",
+   "title": "This week Sony revived its classic Walkman headphones",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SEtGenMxM0pEcm1vUHhIOWkyeVY1cDVxWmUyX2dURmZlQjc3a0RXNTZWS3IzTVgta1RfeHV0RVJtVVZyWkwxOTVOYXRGdlVTNWlxMkFZRlFKVGVIRURTZTZPRWNIaUxyenRyTmhJU0loYlNBUDlj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dezeen",
+   "region": "IL",
+   "date": "2026-11-14T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "133b70c603",
+   "title": "Moon phase today: What the Moon will look like on November 14, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CYXF3R2lrVFdPMjA1Tkw5ZnpVTTNjc1dELXdfcFJTaHJ4bE1LUkRMUHpwdW9sWXBIalYxNjhSV25tUExmZDJtYV8wVUVhVjJYTndkM1VXdWxERGZKdXQ4di1IeFdfZHA2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "IL",
+   "date": "2026-11-14T05:02:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6e3dd4cc60",
+   "title": "‘I wanted to crash my car into a wall’: A mother's battle with postpartum depression",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZFVjQ0FhM3RUNkFIRjNmVFU1aGxnc1FxZDhUVFRWSjdaRTZXX3dmZWZBSlB6MTRJWmNnTmxVU2tFWFE4djBibUY0SkdMV19OSkpsM3BUUm01cmw0UHRKd0U4d1A4aU1ONTlJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ynetnews",
+   "region": "IL",
+   "date": "2026-11-14T04:13:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
    },
    "topic": "Society"
   },
@@ -38,36 +89,39 @@
    "topic": "Society"
   },
   {
-   "id": "d8c67a43a4",
-   "title": "Germany officially secures spot in Pot 1 for EURO 2028 qualifiers",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzlEZURSaWQyV0NJbllDejFoM3F6OThWVXExOHMtNkxVTHptM3pSc1VoSFRqdmptM1lUZ0dVZkJzaTJBSGJKbWVkM2w0RUdFMGtsRl9SUFNnTGpHMjVSdE1PUzFKUGJ0N2xfZDhyYnpkNEVZS0p6U3NCNlVKbHVVZ0JlX2h5ZUtqbWliYw?oc=5",
+   "id": "3c17fea293",
+   "title": "Passengers face airport delays as US flights resume after nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "BBC",
    "region": "IL",
-   "date": "2026-11-14T03:45:00+00:00",
+   "date": "2026-11-14T03:36:54+00:00",
    "coverage": 1,
    "location": {
-    "country": "Germany",
+    "country": "United States",
     "place": "",
-    "flag": "🇩🇪"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
   {
-   "id": "76d12d181b",
-   "title": "Self-sensing artificial muscles made with graphene fibers play piano and move robotic eyes",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRElXd1ZFcFktUFhwZEZuSy1VMW5rLWNZYzFrMXNSbEwwV3JsQTF3SEhvOXI4ekxpYUtaSTRoMVA2eVRJRmNYWHNCS0YwZ19uNWpkWGZJRVhPME9MbjRtX1lLa1NDOF83OEVBZk9vMWJGV2k5cVhBZ0R1RTMyT0lTSnZYU20wNEltQkRHWURYSFZ2ek5BYm9PcDFCODVBV1dzSV9sWQ?oc=5",
+   "id": "df534cc22a",
+   "title": "Biden slams Benjamin Netanyahu over Gaza war in new memoir",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SSkg2OGtFVWt1ckxvNnJwcXR4N0QzQ0RXNUh2bmtGcmZnZG5EMmZOZUVGZXpnRGtpLUFILTZIM0otX3NTdWZQNUc0SzlCcnpLNUxtNnhPdlJSMUpnLTFv?oc=5",
    "summary": "",
    "image": "",
-   "source": "Graphene-Info",
+   "source": "The Jerusalem Post",
    "region": "IL",
-   "date": "2026-11-14T03:00:00+00:00",
+   "date": "2026-11-14T03:00:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
     "place": "",
-    "flag": "🇮🇱"
+    "flag": "🇮🇱 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
    },
    "topic": "Society"
   },
@@ -97,40 +151,6 @@
    "source": "Ynetnews",
    "region": "IL",
    "date": "2026-11-14T02:48:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aca37c0da7",
-   "title": "Jewish physics: 'The Man Who Broke Reality' spotlights Nazi-defying scientist Niels Bohr - review",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qdGEtT3JPQVVvNnVUaUFRakU2QWdQQjE4eE9vMEp3Nk9xNlRuV2FTQVlOQmEtaWUwNUtxVlNVRFRJamVINXY0cl9CUE1QeXBva2RseFQ3aw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Jerusalem Post",
-   "region": "IL",
-   "date": "2026-11-14T02:14:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "04de6a4217",
-   "title": "Against all odds: Israeli family builds luxury villa with pool during war",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4U3ZZQm5JSDRhNkNYOXNqLTY0dVlOS3FxVTJFbFdoNTA5dEUxN2NRVVpKZTZhdkczdEt6MWNHb2szSXVyMVdmdWdtTjFQZ3FLWV9yYlFLRmVONGUyMlpObXZBcm9nZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ynetnews",
-   "region": "IL",
-   "date": "2026-11-14T01:57:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -174,6 +194,23 @@
    "topic": "Society"
   },
   {
+   "id": "4458b06d0c",
+   "title": "‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1U0RkFDbFh2b3BpclRWQXg5Mk5CZ181Mklja2ZwQ3cxOGFwSU54bHlqa2xEVkRTbVpTbkNzS0JNLUpVcXZxSTBsNlhYNXotOXB1QlZVb0U2amxJRHMwa01tUVB3dmp5MXRwdXFFZWI2aTE1TkxYcFI1UTZESnk4ZDkwRGllUjZIZDk0N05B?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Politico",
+   "region": "IL",
+   "date": "2026-11-14T00:20:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4d187858ec",
    "title": "Gold Plunges 4.78% in a Week, Biggest Drop Since June, as Fed Rate-Hike Bets Weigh on Precious Metals",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUkNjYUs2SUNzSEFKQ0gxbno3S2I0NmV4S0RfWDB0UEdYSjA5a3U2VmQ5bXFXdGtLV1FXWUFwVmZXekM4OEwxeVR1Vy16RjA1cVpRbEM2VVdwTEpFVmhwTC1jRFhmcXNLd1gwc0tLYmFvYUZJREE?oc=5",
@@ -199,23 +236,6 @@
    "source": "The Guardian",
    "region": "IL",
    "date": "2026-11-13T23:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3bffbf6ffc",
-   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjRfY0E0Q2VJSE9YeVdSWjhJOGlWa0lSTXhiZzFUYmo0OW9qNFVQOWVwNUl4RTBNVGRmR1BDcEh5RDZoR21PeGJQanZWQWJzYlhsTnd1cHRoZGdVRGQ1VnFoYWtQT3VVTEVXMGdPOXgwZ1gtT2pUQTJuRm83Vks4b3hETDhLQVl2d1BOUVRzazR5bllabnVFWWJrTERJaTNRTjJFZ3NlbFdoQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TechCrunch",
-   "region": "IL",
-   "date": "2026-11-13T23:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -280,23 +300,6 @@
    "topic": "Society"
   },
   {
-   "id": "33a02f5965",
-   "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12TlM5andXTTlTZ2JlWWI3d2MteWkyTV80ODY2eEp4NDZob0ItWGhHNjBxRC1ya1czRFpqT0g1WGlseDk2Z3ByMW1MMUFfSzJaVVc3eUpQdUZzaVlsTkJhbWxMUGIwd3FjN3VPRmVYX3VSZ0RsWm5R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NPR",
-   "region": "IL",
-   "date": "2026-11-13T21:06:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b5432f9254",
    "title": "U.S. Natural Gas Futures Relinquish Some Gains",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk5uVTQwS2hlbEFKdHdvRnF4clQxb0M5SGlCaU9teXlROU0tWWN0MU9rZ1loWFp4OXBUYnRxTmFYZUJzY1ZoWHhZbXlVcWpRVlZaOFBrdzB1VW82TTBCb0hMdnp2LWp1S3FLbnk1TkpSZkpRMlRKTDJNLVkyNTNBdDh5ODJPVmlHaEYwcFpaZjYwYXRZRlFRRlhHOFZFNkE?oc=5",
@@ -348,25 +351,8 @@
    "topic": "Society"
   },
   {
-   "id": "26b84342ef",
-   "title": "In new memoir, Biden accuses Netanyahu of putting political survival ahead of Israel",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfMkhQa3M5VE9nOVRZcHNILVYtcncwY05wbzNmWE40c1dQODlZb1VBalRsRnZLbVM1aC1sZUFPakZTM0RLcGVYdTdGNW9NYm5uanNneFdOYw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ynetnews",
-   "region": "IL",
-   "date": "2026-11-13T18:45:59+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9bae61c32d",
-   "title": "Van Zandt's education initiative gets music back in school and students interested in class",
+   "title": "Van Zandt's education initiative gets music back in schools and students interested in class",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdZRGYyczhqR0VmdU93b1ltM3BIUXdUYTF2SUR2ckkzNVR4cV9hZTFGS01WNE1vVWpuRDhqXzF3YTJ1RU9KNGJrLWNyZnJJdFV6VkZwOXhfWFFOQ0pDZmx1bndKQXM2MVctdnZULXY3QS0tV19pU3YwdkJFdlY3Q0I4OTZaZG5CQkVvaHVBRUtDNFdIdjlnTHRmQU5qSUxwV3BkUDJicE1fYVB4M2FrMUJBQUtBcFlMaGpOSDJEUzRfOHZTRXpxZzVxOUI?oc=5",
    "summary": "",
    "image": "",
@@ -417,6 +403,23 @@
     ]
    },
    "topic": "Society"
+  },
+  {
+   "id": "a9f3be1b0c",
+   "title": "Israel shares lower at close of trade; TA 35 down 0.88%",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNai1zWVJUQV9tNzJOLW9UVW9NdGc2ZVFVTU1hOVhMd2d6OTZNSFFUeENaX3FRVEZVcW1Yd0hmWEdIWjVkSkU0eXh5c1hEZkNtQlQ2NVBpdWVDX05saWFPSjJnemU4cEdPLTl3VWFNdmQxR0JVT2k3TzFHck5tQWVCUGpjb21rSEpzYmxOcHJaMGdxdVJySl9Ja09ZQ3VJLTAzSlhYMkEzM0lpSk43?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Investing.com UK",
+   "region": "IL",
+   "date": "2026-11-13T15:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Business"
   },
   {
    "id": "da40ee5a44",
@@ -485,6 +488,26 @@
     "flag": "🇵🇸"
    },
    "topic": "Weather"
+  },
+  {
+   "id": "d2f8ceda96",
+   "title": "Mercedes and Ferrari Make Major Staff Security Decision Ahead of Qatar GP and Abu Dhabi GP",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTjRHWDdOdFlMMlR0WndEbXhhU1NzRUlKWnkyTFg2b3o1V0JPYXo3b1RWNXNpa2N3NGljclNJaEVJMm9Rbm5FRG9tTkREM3BQLTVFRjd0OXdLZ3VBTFpHY2hQczR2dG43SzVqUXpsVmlMX0w1X3FrOXFqdWxjenhiTWtpOXQ1LUxIbFBIVk1ha2VvZHJZeFhKVzBsZTNsUVpnakxYVGRvMVl1VWVHWndkSG80OTNuZk1Tc0NlVXVmNGJwM3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Athlon Sports",
+   "region": "IL",
+   "date": "2026-11-13T12:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Qatar",
+    "place": "",
+    "flag": "🇶🇦 🇦🇪",
+    "also": [
+     "UAE"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "e302ae148b",
@@ -590,23 +613,6 @@
     "flag": "🇵🇸"
    },
    "topic": "Society"
-  },
-  {
-   "id": "ef140349cf",
-   "title": "Winter, pollution and children's lungs: Paediatric Intensivist explains why November calls for extra respiratory care | Health",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb1Q4Z1EtNXdiRG4yM2dJcHBDQkRvUGQyMmcxVTJocV9sbGxaTGQtbkVFT0llTkNHVjVJRWVxZzFHUzRBUUctdWgxR3VwOEFTWmFfeHFkVEJxb21UVHBUNkVQcFFGZlNiZ1A4TkstdUFEY2w3M2F5cDB2Ul8ybDlwUHB3c1VuQUR6bUZOYnpvalNJa3NEMGJNNE9yd3QxS3NIUUppd2ppQlZIeW1tQTE0RDIzU3plTlM5SVZuYjRxNFowLWRESWdvTDV2VjhKMXpqb2J6MWl4OTdwNzVObjc0NFNzNHpQUdIB6wFBVV95cUxOVnFqamhIbTJyWUVNNmJJYlU1aFVFNEZxVWN4TkVTeTg2bjJ1STRXempWb1EySmFxZkxXNkRfc1BzMmFaUEs2cjVCLUVaMUZtQTdjNzJRb3NVamlFUG8zanRUMVRaVHpFQ2szbi1MNjk2MEFDa2I2NW9qekw4ZmVna2MyWkJTczJycWJUT1NsTUREX3oyeHR1UXpmSHl5Y2oySmk3YkZqdTF6Tm9pNDA4cl9BdEZSc25SUUVaUTRFcTJBdTZBelNnNnZKUzJFWHlISFRTcW42MzgxVFVEZDFTcDZqUDNndzA0NjNz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hindustan Times",
-   "region": "IL",
-   "date": "2026-11-12T13:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Health"
   },
   {
    "id": "e76d6e0aca",

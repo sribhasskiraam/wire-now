@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-14T05:32:20.242549+00:00",
+ "updated": "2026-11-14T06:32:24.617452+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
   {
-   "id": "110d91366a",
-   "title": "１位鈴木誠也、２位佐藤輝明 MLB公式のFA打者トップ10",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Dbjk4TTh0V3lvSGM1cFYzLW8zLS1GcE9wS1NqTHZQVkNqZ0FrN1FUTUEzNmZpaUJ2NUtEc1d2VWRUbm9ZaFNkNnFjcElzRERFdklmSGtCOGd1VVczU3JaaW1KLVRNb1oyX214Q2pDTEVzYmcwWnfSAX5BVV95cUxQdTAzRlJfbHZwSUllc2tXR3ctQkJDSy14eEJZNGdmc0N5eS0xdWRIbXRYNUZhdm8zOUZrMmdYOEFvZlFpNEdQTElxOVcyTExnTXg1bGl2U2xwLUxXazJGYmRfQzJSSklXdHE0MlNnVE41eDZMVzd0SFpTYnpoblE?oc=5",
+   "id": "3199c83c9b",
+   "title": "【アジアCS】侍ジャパン３連勝決勝進出 16点７回コールド「正宗」３戦連続アベック弾／詳細",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10UldoeEcyWVQxVnFBSEYyNFdVbkRSTkpmdkliQTVLYl9RZmxWQmhTclFXMWR1V09hcUlLU0Nrak04MzZFcGF3SThGd1UzbjZCUW91SGM1MXYwdFZBZ29YdVFocmd1a2ZET2s1ZWN0SkU?oc=5",
    "summary": "",
    "image": "",
    "source": "日刊スポーツ",
    "region": "JP",
-   "date": "2026-11-14T00:25:00+00:00",
+   "date": "2026-11-14T05:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fa90f98934",
+   "title": "14日は九州から次第に雨 15日は全国的に雨 太平洋側を中心に激しい雨も(気象予報士 藤川 徹)",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSkFsbkF1N2VnUkY1RXRicHNDUzl4UlVRb0ZObzhnTXRFOS1VakZEUWx5aTJqMXFXcld1dHZCZFZmRUNITEhRRkhRNUpDYW9jbVljb19BOVh5Z21pUlFJcDdMdzVzWTNObDlIbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "tenki.jp",
+   "region": "JP",
+   "date": "2026-11-14T03:36:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -38,14 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "cd5f00ba08",
-   "title": "九州北部で夜遅くに非常に激しい雨 気温は高めで20℃超えの所も 今日14日の天気(気象予報士 日直主任)",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyQ3FXdUpKWTB3aXV2cGM0S0tIZDg4UWRYSWJudjhTYnpPT1ZraVBHS1hkTzRWNm5LQmU1NmMxaWdsajBJSlV3YThXd054OUhzSTRGekdmbWZ0OVZraFhTaWpjMHVrQjBQT3c?oc=5",
+   "id": "224abeea35",
+   "title": "「これは1枚しかないから…」矢口真里のお宝写真に驚きの価格ついた (2026年11月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PUWdKTUNxUXl0bmJXQWxhbUVmVVo0djFlSHVCM1RoMDRYSjBnRUlZZ2NxYnI4a1ZSd3dTVVpGd0w0R2t3R0t5ZHN1MXRtMlctZm1sLXVpVk1wb1J0Z3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "tenki.jp",
+   "source": "ライブドアニュース",
    "region": "JP",
-   "date": "2026-11-13T23:15:44+00:00",
+   "date": "2026-11-13T23:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -55,14 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "224abeea35",
-   "title": "「これは1枚しかないから…」矢口真里のお宝写真に驚きの価格ついた (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PUWdKTUNxUXl0bmJXQWxhbUVmVVo0djFlSHVCM1RoMDRYSjBnRUlZZ2NxYnI4a1ZSd3dTVVpGd0w0R2t3R0t5ZHN1MXRtMlctZm1sLXVpVk1wb1J0Z3c?oc=5",
+   "id": "f631a187cd",
+   "title": "Windows 11のライセンス認証不具合を修正--Microsoftが23H2向け臨時更新",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybDR5RW5CTGlqWldxQTM3TlpKT3ItdHRfcWlVT09YSm42S2UwSEo3MHJfa18wcm9GeEJTdTducThSTzlVV1FvLVRQOWlMTnhqX1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "ライブドアニュース",
+   "source": "CNET Japan",
    "region": "JP",
-   "date": "2026-11-13T23:05:00+00:00",
+   "date": "2026-11-13T22:50:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -106,9 +123,26 @@
    "topic": "Society"
   },
   {
-   "id": "41435f34ed",
-   "title": "櫻井翔主演 占拠シリーズ第4弾 『XXXX占拠』放送決定！新春2時間スペシャルドラマとしてOA",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBleWxPTDRSem5KZFB0ckM5NUlETnpwTnhaT1NGTVQxeTBLQWJEblZRdFVYR3Bxd3pvajg0U3VDVVJxUXhxQlowTklhM1h1cnhnSzhRUUVKLUZfS090bGRjeHdSY3hDRGRiNl9qZHhn?oc=5",
+   "id": "b1699fd103",
+   "title": "テネリフェFWの急逝…衝突したアンドラGKは12試合の出場停止に「規則が許す最大レベルの処分」（DAZN News）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VWhidGxRRmVQQVdJb2JQV013eHlYS2pUM3ZSZlU0aDdlcENvTDRIUHN3NEh3SW5jVmlLbnV0b3VnMlFRU2YxdGlhMHl3QUdVdTJOZE5LQWI1eFZHVGtkRmFydkJGMFVEbzlPaDRrRWw0WVpkVTlzUW0tNEFYdXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo!ニュース",
+   "region": "JP",
+   "date": "2026-11-13T21:42:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fe65073dbe",
+   "title": "櫻井翔 占拠シリーズ第4弾 『XXXX占拠』放送決定にあたりコメント「毎回大きな喜びを感じながら撮影に臨んでいます」",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82NHZaMVdUSlExcXdXdkoyZ3RZYUlvSWVva0tWTkswN01LWXlZTVVHUWwzU1BhSjFaV185eEhqd1ozZGFfbG1qdzZFY29welhWQXJHQ042OGZfNWpEMEdVWENlZ1E5b2VDWlE1Q0dn?oc=5",
    "summary": "",
    "image": "",
    "source": "日本テレビ",
@@ -131,6 +165,23 @@
    "source": "ITmedia",
    "region": "JP",
    "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1b62b92d73",
+   "title": "マイクロソフト365障害、20時間経て広範に復旧 謝罪し報告書公表へ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtejUzcVJudTFTbzBXQ29tSlhnUVQ4RXV1Q2pGNVdubzRLQWk3b0NRcTBqTkQ2OTRyVWNoM29COUpBb0did3Z0aFU0eUdHcm9yUHloTXEzYTZiSmxURmRNOXU3UnZmcjFpbkUzVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "日本経済新聞",
+   "region": "JP",
+   "date": "2026-11-13T20:43:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

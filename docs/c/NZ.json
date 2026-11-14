@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-14T05:32:20.242549+00:00",
+ "updated": "2026-11-14T06:32:24.617452+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
+  {
+   "id": "6d6ccd273a",
+   "title": "UK Police probe David Walliams over alleged 'serious sexual offences'",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT3MtWWZCbUNhWmZaenpPSXNaSkozTmJNcXUxZDNpOEp6cmxEb1BmWC1adU81d01GVktUQlZaWWI2eWV0SkNlZGRYamZReThKT2RueHhCMllfUVNOcDNDcVNFT01QSlFJQ0M0MUc3ampFdFRqZjR0cHFTcFhiR2pGaHNyaVg4RnJHbFo3TDFrS0QwUTdzQk9JTVAwY20xSkhoSlIwLTVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-14T05:52:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "b024980512",
+   "title": "Man spends nearly 12 hours up tree during stand off with Whangārei police",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0o1WXRYOVEwb0g1bXNGbU56WS1ZTzgxX0QxeGpkZVdVVXZsd0k0TnQ1SEI4M3lmTnNBVHR1cjJGVWRPdU96RWRkMUtlbGVfUXJ6cWR4M2dzMXVwMnBGZGpWbVkwLVR6OXU2R1pxZks2MFAwaG9fQUdiWHhfT01oNDQ1WFB1czlHMENhLWlaS3IxaGZnemdGYm0yYVVoUlM1MF9MbHFPT3dnR1cxanc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-14T05:30:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "30d0970c94",
+   "title": "Motorcyclist dies after allegedly fleeing police and crashing into car",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUFM1anlRSWMxNUU0a1pTbVpIcGhURnRtRWtaeTZ1T0Y0SERGaW90OE4yZnI2TDRlQWZrdDBJLUI2UzdtS2pQeEpLdmNmQzlHTi00cXM0NU43YkRiSzhXendCQWJBWUZVZ1pJc2V0ci1kU2VKZVZ3VEMtbTg1OV9ESWowLWdIek83RzMwTDB0ZG5jX3Vhc0MzOWVWejJZRHJrZ3c1UDkwSU9Xb2s?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-14T05:07:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
+  },
   {
    "id": "22b8b7c672",
    "title": "Christmas cherries season off to a fruitful start, early picking",
@@ -21,21 +72,21 @@
    "topic": "Society"
   },
   {
-   "id": "8282507f28",
-   "title": "RNZ chief executive to leave role early after shock $12 million loss",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVY1YVdaSjlkcVlEOG43cWVHMko2Y050SjlVLXZGQlo2RDhZcW16TmtScjlUTmNvNFRVOW9KSk05dTctYXJPNXRUWEx2WW1IZm9MdEtxN29HOWk3by15SXp1OVZBeTlXYWxjYzMwUDRyNm1nWmFtVzh3QlBBQW1EWWFwX3N2NVoxOEoxVVZOZTFyN0d4LVBtdnBCWmZ5X0k?oc=5",
+   "id": "d4e419fc46",
+   "title": "Talented singer and devoted mother killed in Rangiora car crash",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVZZNUNJalhQa0N4a3pwUG1DeUhDZlZyS1pPTGhPV3h1eTAyQzFCS1ZUbEtqTTkybVh2VkNjaHFMZ1ZvNFRNNk1Lcnh0WmpocTdtX2t5a1MwWEpjTmFGVUdRTFRqM3ZZRjlpLWFveXBlYVF3cThaWlpyVmdWa1dEWGVuVlpOQjBlUFRqWVEzbWE2WmFfRUg3YlNGWkVOUzFfNnFpUg?oc=5",
    "summary": "",
    "image": "",
-   "source": "1News",
+   "source": "Stuff",
    "region": "NZ",
-   "date": "2026-11-14T04:41:06+00:00",
+   "date": "2026-11-14T04:39:28+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "1d14bbf437",
@@ -55,21 +106,21 @@
    "topic": "Entertainment"
   },
   {
-   "id": "017e204f04",
-   "title": "Watch: Hundreds spot orcas passing close to swimmers at popular Auckland beach",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWZ1WGo2ODVBeDZUWGlDWjNBVnFlYU9OTXJrS194Wkt5R3lTdHFTQlJNbnZCREhVSDRxeWlIYXEzNzVQdDFfUDlNUFo2WGxreWNCQnNYeE5oN0t3cExvSnVrLU9HdjdyLWdsbVB5bDFnZUtlMW1JZGx6eWRKakE1QWRsRjJ2TVRSS29BM3RRRTB6ajlUMzM2Tkk0LTRUUTlPVjlqcl9rUmkybmtRMjNBN0ZWV3U?oc=5",
+   "id": "84f0bda375",
+   "title": "West Coast residents warned of flash flood risk as heavy rain nears",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmx3NmFvNjRiODBHZkZFRzcwc3dWY0RnMUNRRnAwZnJRNUczT0NkZFUybm50VjduVWNoRFhXZU1oYU9lSXR1bjAyeGM1MFhGOFdzWUUyUHB3YkNfWmZ0MmRMeWJ2VnliOWNqc2tQV3c4OHZnMlozY1lsZnEtUVR3cHFQa3pVSjMyb25id04wMk5zVDVaajdRX016UmZOUzFjMHJiTmhYRFhwTVR1Zm54a3VtWHRDSGhTUTUwaC1YeExvZ3d3a2c?oc=5",
    "summary": "",
    "image": "",
    "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-14T03:28:00+00:00",
+   "date": "2026-11-14T03:32:36+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
    "id": "5a8c68abde",
@@ -140,6 +191,23 @@
    "topic": "Society"
   },
   {
+   "id": "d502ac33e0",
+   "title": "Microsoft 'deeply sorry' as services restored after global outage",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2xudWlhYjMtLURUeG9FaHVNT3E3UXk0NHl4TEFlS3dCQ3JfNjhiLTR1SXVsLWQyU01jU3p4M0tMMkY0cXV6LUJ4dFl1Z0VEanNWY3lMTnJfTGd4eFIzRE5ZMmpMZHJzQVVJanVWSHpMZDR0dkY0RGx4VGF1TnRqMGthWHpOM3UyV2M4OXlsbUM3aHRod2RqTkM0bVBBWVhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-14T02:40:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "16bd5e9e65",
    "title": "Delays expected for days after US lifts nationwide flight halt",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtkaXJXU1B1MFRFX1k4WmNzWTR3ckxGMVBHZlpyZExFQTd3OXo5UUlUcWkydkdyOXNmOGZsWFhaTE1tUV9scGdva1g2a2NpaE5DQXZiN2h3VXpkcVd3RU9ONXdNSE5KdTI3bVdYSGhEbUZXNDV4cmFkZUNDZzFhVWNGMjhERy15Q29CenJwVzNLd2FxVWRvUGNKRmxQQ3A0SUQ2aVNCeEhteWlOaVJyRl9ZYkhBRlJUVUdTQzgzdnkxTmUxQ1BrNC1Ga0x4Yk9OakE?oc=5",
@@ -208,21 +276,21 @@
    "topic": "Society"
   },
   {
-   "id": "f6c3b4a524",
-   "title": "Active front moving north prompts 27-hour rain warning",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTVkSmxfV0M5T0pmTF9mTFFmRnhDTThLZDdfVTZBUUhEdFBfWmVtajFsS3FpYndBR1hFSGNyVzlqdjhBMXNCYlREZ1JDRHNDbGFiR2RVemdFNHAySXJ6T2dlNDZjT2ktRjR4ekdxSzJrYzNTb25EeDUtMWpfT1JfX0g2NHc5NEpOQ2RCUEh1aFRhTGJVSHpoVDU5WnY?oc=5",
+   "id": "992b3b9803",
+   "title": "RNZ chief executive Paul Thompson announces early departure from organisation",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVZ5M3VUOXFwbDE2YWFvaFQ1aTcxRFBqTUo5YndIaVAzU0Y0em1aSy1oankzVzNGdVpMcHNIdEZPb21XbjZIdVgwa1Z3YlcxTFd1U0w3THR4clBHZjJsRE56VEstVm1OVHpwVjN1T2gwQmNSbzVpRGk5QmhRNmNRYmExLUJoclR6ZC1VenNYUW52SHNEQzJoV2pkWTJBRmdKUHd6d3RCRUZDcUVBdVBoQVlJMXlRT1ZWUDI5RFpn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff",
+   "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-14T01:04:05+00:00",
+   "date": "2026-11-13T23:58:12+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
    "id": "46e8dd1c10",
@@ -242,21 +310,21 @@
    "topic": "Society"
   },
   {
-   "id": "2bb0e509ec",
-   "title": "Whangārei man arrested after 15-hour standoff with police while up a tree",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFZJUnl2eFlaeXgySVBzSnUwNEpqU1lzcGdFMEltUTk3N1prMkFRcFRsRy0ta2pQTTlTMldfZ1M5YXowR2lVNzNFUER5bWhwNE1MUDdhY1FWV3BnUWZqSG9DdjFQaXRPeEJpeWtXelJGclRITTl1NXhkd1lEUUNCOWhEc2VDRklIU3EtMzFCRlUxOWI4VFYyZ2E1ZFFySFhiVUFIalFRd1hSVmY1UU95VjhCcHFLQVpIZjloV1VUeHVvYjN1?oc=5",
+   "id": "3611f8f5f6",
+   "title": "Apple releases tvOS 27.2.1, delivering Siri AI to multiple Apple TV 4K models",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNFYlNmTXhDcG85c21rV3ZnSnlhUmp2ZEo0RHIxalJBYTdvWjk0TnFtS0dld05oUWZQRFlKTF80bnJxdVRvQU5KLTE0cDFyZGxaYkVua0FIUXV5Wm5QV1N3WUpyWEI2YVdRUGMzOEFUYVh4M0hqQXh3NzJOVzdGUnpoZUNzT24wQWtoSmpQOTFIdV9yTkJpcUZvYWxrSDJIbFZVY2lBcFc3a2ppTXJnR19PUdIBuAFBVV95cUxNNFo0eFl5SWtzck5UeXNGMkJyQmRDajgyNTBMVUVYUVBCNTZNYUFNWVI2d3hkb2ItdURieGNOaGw2a2Vrc25iNWNnNEdsODcxa2hHaWNwOUljWFY4dlg0dzZxTDJiWFBQZnNMa01OX0gwOTNPR1pjT1I0R0dnU0dZNGQwZHEybktYMG5lZE91c3VKZ2ZNMHNJd1pFUXFaUkxMWi1pZVFON0dWRHhWNUQtNUVrZkwyZDlk?oc=5",
    "summary": "",
    "image": "",
-   "source": "RNZ",
+   "source": "MacDailyNews",
    "region": "NZ",
-   "date": "2026-11-13T22:37:45+00:00",
+   "date": "2026-11-13T22:32:52+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Politics"
+   "topic": "Tech"
   },
   {
    "id": "0f75046558",
@@ -296,31 +364,14 @@
    "topic": "Society"
   },
   {
-   "id": "e5fa9a0881",
-   "title": "Fax machines roar into life as Microsoft outage hits global business",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ZtVHRDQXhSOWJGU1RqcmRLOVNMSzh6U0xoeDRzQ2dDTTF5OWJMRkRGbXpRb2I4YnUzQjBPajJkX29SVk9yOWVnT3hxeVFVNlhiSDk2MjhrckpWenJUZGJhSGtIYWo0b3l2LTlNdXl0azBseVNQMk1fLUtHb0NPMFlJX0FPbGlIMHc1UEtDRW9zTVhFelR6aV9LbnJUcHo3dERjTGlBTHEzeU1RREZza3ZR?oc=5",
+   "id": "a95de3a919",
+   "title": "Nvidia's Jensen Huang and the 'most expensive affair in history' - but not the only one",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDZzSXBlWXJCdXRaS1oyNm5xY0tHTm5VTkhlMDJIdEprV1BSLUx1cEVrQjdMYTNwbzZlQjM2dThWYTdYYkxHVTlVYWtCbmxhSTJ3U1NMaWQ3Q2VLb3djMjVDbHpzVnhtYm5UTXZuSThyMjRNUE5DT2Z1NGRuT2hiT3pfVW8tdDZ5VUFhMnRLWWQxb2Rrdm12NUR1UUdrc1pJUThVa1ZiYmVXVjBPR1A3TXotM3hxcGZfSk5fTUNZMTdGZ2JWSkE?oc=5",
    "summary": "",
    "image": "",
    "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-13T19:35:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "b61f96453c",
-   "title": "Best Apple deal: Save $9.01 on Apple HomeView",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45djQ1MXZkaTE0ME8ybGxkVGV6akp4N2s0UVdrMVdEU0RzQjhPcHB0NFdSSy1vVTRKLXNHcnkxWm1GeUlMOTJId20zMkpESW5GbUs0T2Y5akR0SGU4UV9QMWczWXdtbjVtS21CSEtvazBOTHAxbFV1bnl2dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "NZ",
-   "date": "2026-11-13T19:07:36+00:00",
+   "date": "2026-11-13T17:55:22+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -345,23 +396,6 @@
     "flag": "🇳🇿"
    },
    "topic": "Society"
-  },
-  {
-   "id": "53679dbfa9",
-   "title": "UK police launch sex offense investigation into children’s author and comedian David Walliams",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3kxQWRGZndIY2I0dkRtdzJrYkdCZm1TdElwaUxobWQ1M0NVRzM4eWlvMDZuSC1BTklsd3pmemg3bGs5ckV5dFNmQU4wNmpBNGZiQ1hLMlJWYUNjc2hTaUZ2N00zbHpES3dic2xia2MzUlZmamZRTmw0WWg4cHJLa01aNEpjNEh2SnVqczJTZFFOa19iZG5sSWx6RXBaaWZPVkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-13T17:16:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
   },
   {
    "id": "ffe6772271",
@@ -432,21 +466,21 @@
    "topic": "Society"
   },
   {
-   "id": "2af43e4a23",
-   "title": "Fewer list seats could squeeze Māori representation in Parliament - expert",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXI1WlhjWm5LOVlndGk0WFdsSzJ3ZTJmVmxVenRTc2x3QlNDV3ZnTlpCajdPUkp1OHktTFlzZ3MxR3FRczFpVGZpMUdUbjVDQ2hwSnhQeDljTFJPSERZcS1fbENyYVdDS3F1YVdoTDlwUm5WNWVfRGJxTHI2bjBENzB4TlFRUnJrd09IR3hIOThuaVhBSnQ3M2lsc0dmQWVhY2xCSXNiUXRNeEN2VmFCVjdPR2Uxa1E?oc=5",
+   "id": "3f335a4253",
+   "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "RNZ",
+   "source": "Engadget",
    "region": "NZ",
-   "date": "2026-11-13T03:49:41+00:00",
+   "date": "2026-11-13T14:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Politics"
+   "topic": "Tech"
   },
   {
    "id": "2c1f9388e7",
@@ -500,23 +534,6 @@
    "topic": "Society"
   },
   {
-   "id": "940ca4d02d",
-   "title": "Espionage in the age of AI",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQTgtSHBMMGRDc0gwck54OHNxZW1Xai1NN1huTWdsQnZYZEpfVGltUTZSSktfRkdkOUJpRDhZamo3TkQ3TW1zUUNQUk9pZFJkWExTb2d4Y1ZaTDNrY2plVzVNUnUweC1RRjAzbGxacU00cXVSUE1EaFo0NFdRWnNoWlBmeUV2R0dsQW1ENnJGR0hXMFZmZDRpVlRnMHVsbGg2UVVzaWZ6UmtJNU9fZzVqU0xDbWU4RHFzQXBaMTJLUlZoVGhzUlVjeW9sYnM5UXhiZGFtVHkwRVZFM1FNRHlqMkhpdHNLX3hDclBWRXduTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Interest.co.nz",
-   "region": "NZ",
-   "date": "2026-11-12T20:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "cc818750f5",
    "title": "Three-week vote count no barrier to negotiations - expert",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWZ4azFrRW5UOUxDZmZCazluLXpkRnBRbW5mQmZQQzhvSGxrX3ZVNlo2aEhpX3pORll1eVZZSFMwdHQ4TllpWFBFTjZYVUNxVHpLT2tHTjNfVjEzWENZUnIzWWs4cFBqV3lTaXBETDhwNWFKYmtFdlp5eFVCSHg5cUt3NnJEVTBVdmN1Sjh4OXZYU0lJRUdQb1VwcnpFTkZVYm9Ydl9Xd3RkTmtSREZEOW04OA?oc=5",
@@ -525,23 +542,6 @@
    "source": "RNZ",
    "region": "NZ",
    "date": "2026-11-12T18:49:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "66bad19533",
-   "title": "This game reportedly tops $1 billion before it even launches",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnNJUE0wSkVUN0J5Z0NFcDZiSTBuZXpCdVRTSDh1cUZkMGsxdlpLTzVDZjNweFVBZ1lId1FBRk1FcEx3QUNpcVM4M3NPMVJxTUxEXy1sUlRYeHNtM012elFCNVk0MW9hUzFEMVZwRnJwZ0l1OG9qbDRJNFBMeUZycFJETU55OWtMcEpfWmVXOFJGMkJ2Sm5JZlB5UEZXR3NUNE9DSDFLQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Notebookcheck",
-   "region": "NZ",
-   "date": "2026-11-12T10:50:00+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",

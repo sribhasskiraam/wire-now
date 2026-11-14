@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
+  {
+   "id": "9aa9a5d34d",
+   "title": "HTLS 2026 LIVE: Film director Imtiaz Ali, actor Ananya Panday speak at HT Leadership Summit",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWkNaQVZxWWEwdERsTVRrX0tlQVVXY0ZaMnlqMVQ2ZzlCY2drc0FWVmZRTU8xM0hiS3k0NXdmMjRoRE5ISGpfX0U2aHFTUEhGcmRYWk9zZVdtU0RXcU1FcXpvZ3pZUEpudkNLZDhfcy1oVkJWWEpTZzdKNkVUVGhhQm00N3lRTnNudW1Ob2lkZFp4Nm9XVl9jVjBSZURGVWladUdOcXFQLUhuWFVoTkRkdWFGcUZhVVY5SmtEcXFLemJpRUFkVTZlWEFGRnAtaHRFdl9aNGNxWnk2X2hKcUJ5SVpsV0xNYmVZSmNPTEw2MkdZTUZqZHFsZWR6Tm5CdDRseFRDWEtiV1pNbmc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Hindustan Times",
+   "region": "IN",
+   "date": "2026-11-14T13:34:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "d8570e8b94",
+   "title": "'How were 2024 elections legitimate?' Rahul accuses EC of declaring 140 million who voted illegal",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZkNRT2pMVF82WnVYZ09hRGRJdEZpS0ZJWG9LSXR3VWdkeW5kam83dXU3bWNMVWYydU13UzlVN0lQSTNkb1hVMlk0ZjBhNDVSZVNNVlN5SEI5T3dFX2h6MTVrZVRjTE1vb3dLNmJWOWYyMjNaU1NBMjY1eVNITE1UY1J4Tjh0VkdZWHlBaEhfdk1mOG10SHVmWlRudHlqT3hGZEpvWXg5SGw0Zy1DSXkxOGJqVkE0NzNobGZPWFpSSzhIakJnMzJKdUtpUS1NVU1fc1hwcVhUYU9zYmduM3k2bzdrQzk4UUNoWWdsODRQRmc1RHNt?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-14T12:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Politics"
+  },
   {
    "id": "8295692ef8",
    "title": "IND vs BHU Highlights, SAFF Championship: India survives late surge to beat Bhutan in semifinal",
@@ -17,6 +51,27 @@
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bada5e1f7a",
+   "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3BSZGZYdTBnMGgwZ2pfM1FVWWdtQUlNT0xVci1Tb0VSYUVZVUIta05tSER2dHV1WDlpY0lzSkFfaXl2R0FvRUgxYUd0MEtXOUVYeVVGRzFfU3k0a3hGOXkxUnVBTVlEQVBib0N4N1VUN0REX3N2QUt5c0ZuZTVwNnVxUXhNazV6Y0dKV2VjWEhHLUVFU3RyeUdweEdwSUNyVjd5RUxSTHBBRFFuLTBEOGNNcFc0MDTSAbwBQVVfeXFMTWFfeHZ6ZE9JTlpTT0k2Qkt6c0FXamE3N1FEa25TTEQ5NVh3dmxvS3Y0NlJGelo4d2RQVTEyaTZmeW1aT0xUQnFpblk1dmhWTUNJV1ZXa2JKSlI2bUdLNm44Tlc3ZU1nZGd1UEFDY2lhZWFNUHhyVGlJSThuQy0zb2VhaHViYVZzbVJMMWNDOWZ4Z0ljM0hLY0djQ0sySU9BY2U1ekRVY0pnbkRfMmpwcElzRWVwMnZSbGs2c0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "IN",
+   "date": "2026-11-14T11:48:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦 🇺🇸",
+    "also": [
+     "Ukraine",
+     "United States"
+    ]
    },
    "topic": "Society"
   },
@@ -38,22 +93,19 @@
    "topic": "Society"
   },
   {
-   "id": "e72fe90c6b",
-   "title": "NATO Membership At The Cost Of Ceding Donbas? Zelensky Reveals US Proposal",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX0xyS2dhSmRSaE5XQ21DZ2RIV2pFbUQ5YmFfdE52ZWg4UTlpMlRwLXJFR3gzSHg3OTlSV0lOaDNUcWVqUjhEcG5ucHE3cl9DTDZsSEdpbzhMMURWbGtVS2JsY0dFS3hXazVMWUMzSE41TWR2clJ2cEplMnVmVWxyNlgzMV90eUJnVWtoakZDRVdxbXFDdWhrQVAyNHdNM0xQb0laQzBMUTFtSnBYUi02MXEtcWZvMEVCb1F1RC00aFFsaFl4YlpFWldXdWZNSHlCVWpOaEV30gHeAUFVX3lxTE84ZUZFUzJURzRhRDR2TkxzVUdZc1J6T1pnNzlOa0IyOEJ6RXJnUGZxdjBXRkszMDNTTTljMFkwWWRETkdpRmVtT01weXNlWGFrZXRveElqNmRtR2M2R3FDN1RndG9xNUZxNVlEaFdNQUkyRE1Xc18xZk1ZUVRaZ0kzN3lpRTJYb0szdTNyYWJfLXVzZWFOWVFnNnozQXUyclR5cFRlN2ZQeHpGUmxVZEVRYUJ1MzNiZzYwd0pSVElheVdoSzhGUGJXbzlvWld5UmVqcmRxUWRHUHJUendiQQ?oc=5",
+   "id": "7c7b5a6deb",
+   "title": "Get wired: the 12 best wired headphones, earbuds, IEMs, players and hi-fi gifts of 2026, all picked by an audio expert",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNczJ2NWFSa2ZFTk5hMWU0b2QtTDFqM1VCckMxQm5YelFBdE9iYUgtOVdyYjZFMUwxU2NHWFhQY2tCTUhPSG9tUWIza2lVWkFycnFDd3FmNzhyZXJnU0FXRTAzYjI5NTh1aWJETUdIQVFnYnRKLXB2eUx4dnNXUTdIdTFwVFF0elg5TG5wbkVCekc4X2w2Rk90aWRsUlBJY3RLclJ4c0l0aURNdW1MeUp0LUpIOGJ4bGNLTFh0M1VmSDYycVQ5Zm5lUl9jbGxQa2FFbXJObmFDRW90SjkteFdVcE5vMENwR0xRZXhfZ0dCU3RVa0E?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDTV",
+   "source": "TechRadar",
    "region": "IN",
-   "date": "2026-11-14T11:08:21+00:00",
+   "date": "2026-11-14T11:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ukraine",
+    "country": "India",
     "place": "",
-    "flag": "🇺🇦 🇺🇸",
-    "also": [
-     "United States"
-    ]
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
@@ -75,19 +127,22 @@
    "topic": "Society"
   },
   {
-   "id": "c5d37a7dea",
-   "title": "Charity Owns Commerce, Listing Will Change The Tata Way: Noel Tata",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmRyNTZPbjYxdnQzTWpRNXU2elZqdlVpXzlpOEZtd3A5a2JTUE1lcGJOTWNkM1ZIT1ZkMVVsUkFTcUlNdFdreEZCYWplcVhoZDZFd1JDMlhtaWtZdEhpZmI0OGxzMVhWV1NBNnJQX0tSdDdfUlB4ekQ5NnJoQTJOWU5TX3M5ejNTbWNTR3VfRVhRaEFWQm1mdUdVRC1qUjNMUHE3X01IaUd3X2lIZVVEcEkxVm9JcmRwSWFsb0dSam4tTm9aNlHSAc4BQVVfeXFMUFhnQ2l1S0JlQVBTd05YcU9HU08tZ1YwUFJMM0VDbHF1dEY4blRhTjhsNElQVl9hWTg0V3o2ZkxUMTZabzNJaUhUYWtlM2xfenN3X2xTNGtOSUZKNlNRbDB2bTBKRDVfUVV3QXdfN09Hb1oxMzJ5SHBmOEZSMTlRVUJ0LTY4ZnI3azVwcThUaFRsWWZZeGg0OUZzN2ppbEZzQ09UTnZpYlp4eXVpc2FIVlFHVXdOcEdTMHZRdHlPYUtfN1pEaVNWRDlyQkI5WVE?oc=5",
+   "id": "e33096a39c",
+   "title": "Anirudh Ravichander-Kavya Maran Nail Casual Chic At Chennai Airport After Greece Wedding",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXNLa3pGWTMtWDNKMnZxV0VTejVyRWFzM3RqdXhXQVM4Qkoydi1sTW1WTU1ZOGRMLUZ2b2k3OXdRdFBjNmN2WWhmZlNnNnpvajNlbFh1Ql9rZDhXcEFiNHk0QzNDZjcxQktTS3pwZVlINGdXSE9ZU19TWnpHNEpSR3RUV1MyWURqZ1VwRjJjMzhTVngtaHNyOFNtN2NsTlFyQjZHeWZ3N2JLS3lxbVRscDlGdDUxajN1U1dDWENEQm03Q1FCaEd30gHPAUFVX3lxTE8zcndHUHVHVUhyZGU0Y2wxZUhRMG1BUzhzblg3bXdpNDhSdUV3U3g5Vm1aMlR5RmZVYU1PZW9UTElBaG1pQlgwVWtQOXNGcExPOFNxaFJVc1dUbWUzY2Nqa1JHWm5pRzV6OHJiN1EydmpxVmR0dmRVb0Q2NzJ4LVlSZTg3U1dZRFlkTXJZRXBzQlhHZTdHTVFDOGJ4aFVUVlgyMTdBY2o0M2dvN2RVUFE1a1l3NVV0XzIyVXNzT0ROeVBLcGNYSDRkV0tvb2gxaw?oc=5",
    "summary": "",
    "image": "",
    "source": "NDTV",
    "region": "IN",
-   "date": "2026-11-14T10:54:04+00:00",
+   "date": "2026-11-14T10:24:34+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
-    "flag": "🇮🇳"
+    "flag": "🇮🇳 🇬🇷",
+    "also": [
+     "Greece"
+    ]
    },
    "topic": "Society"
   },
@@ -228,40 +283,6 @@
    "topic": "Society"
   },
   {
-   "id": "26580766f4",
-   "title": "Nvidia Weighs British Chipmaker Arm CEO Rene Haas To Succeed Jensen Huang",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVld2ZHZ2eGlSeUNpNHlMMWRHdkcwQVFiOTNNSDEtSjR1cXBYWXJGZ2luQkd3VDZhRW5JU2VzWC1CSmZYVGRIOE9GZ1RWWUQ4dHZKSld2ZkxBcERITXc5MGs2ODQzN3EtcHJDTnNaWWR3NHByQnFRNkpTczhlT0FJNWZISWxnTDFPU1VBMC1nSmpQU3JRZDRvYWFJZ1NwRWpiQUFGUTc5UFJNLXNoMnZWRFNFc203aHI3eVBTUGstci10OUHSAcgBQVVfeXFMT3dsRVZLWEFBZW5OUWstektqZFZaby1PdEItZk4wQXFqVTlpaGxyVWFZdThBaVIzVkNIQXdOV1RWUEl2Q3NMX0w3dWFNWXRsenBweE1hWFFaekhvbWVELVRVemFXd0NKQUNZOXE4b21NQm1OTFVqNnFzc2ZibWxIVi0xVXlJSjNsTUU1MXhfb0hhNmk4LTBlVUxjaXVuR3VsMWlyTmlSUDZ2U0Etcmh1MUhBdGJ6dkt0cnY5ZmJYTmR4LUh0R3IzdXg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News18",
-   "region": "IN",
-   "date": "2026-11-14T07:54:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "3ed36ac2a8",
-   "title": "BJP's Hardeep Singh Puri resigns as Rajya Sabha member from Uttar Pradesh",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjJnSWJFVHphNzNUNWhIRGNpbm0wU3liWmVXdnRPVkk4YkhFSzF1eF8tWEFaWmRXek9uUzQ1cDhIUTRiSUN2akN2RDBsLTh1S29YMTVTWEliLVdKYkNmZEh3UjkxbVI1OEtELXhLWFBwa0pGcDdpamZSVmJCRG9aS2xSd05URTh6S2RTMFlUVjFyQ194TWNUTC1lY0hwVHpCS2JnZkF6c2oxSlltRjJPMHJSQU9nNUd2WmFPMDNUbGZIS3FwTENKQkdEZ2RQVEVyNEZxS2lvaw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-14T07:53:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d11a2ad974",
    "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer kicks of 2nd week with a record 2nd Friday",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWVhyTzlyOGkxTUpjX2xUMzh6ejBiLXlOSjN2bTdGRVd3MmRJN0J0M3VxVFZaRnNHcTVVdHNfcUNyVTdldXRXS0p1RXJJaUdSamw4eXc0SE9LMDZobmF3OHZmdEFLRE16NWRKMXM1YWMtRWx5Q0hBc05UejdNU0lLbHBXYmlRN05XQ2xVS2tXeVFXX000a2ZWWFdVbEFGYnV4VkNJRUYxc3BCRzRqclBUNzg4YVVGQlBpQU5ZVlJaQnFGR1dOSUMyeDI2WWdMXzhjbzZ0ZlJvMXA1eGJNNUt6OVVYdnBhYzgzX3pOa3N5NjhxM1Vva2hkcGxDcFAwVlh3Nnlz0gGIAkFVX3lxTFBlZF9EU25WS0REbTBqT1V0Y09SVldTWkVQa2JCTXd0cDRYZEQyUnRHUGRKTmdSclJxdExISWxZNEtkcjFxOUIyb0UzTkFsX0ZXLTRDZnlrTlcycVBFNjlMMC1OZEhMY0RLUFFaZ1ZpakFGUGNmb1o2ZVp1b01XU050UmJjbFRTQjZNa0pEZkgyZmpXM1IzNWh4X1RxWDI4bWQzN3dSUDBtcE5DYnR6dkNUVHliSFEtbV9vT3pFZUVPTVNLRFJxVHJhbkE5UXNpT2Rtb19VVGpBc29IazRJWlJaTFZkeHBxb0h4TWpYdVppUTJGeEkzczdOYmZXWTRjVy1jWXlDN1hPdw?oc=5",
@@ -277,23 +298,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "04e33f36d9",
-   "title": "Assam Class 9 student stabs mother with knife, writes about attack in WhatsApp group before jumping to de",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVURtanB6czVCR0h6THVweEhPOFpEZzQ5UG9jbDh2cW9iZ1FwV0NnSENFa0FxY01Jdm5SSVpWZ216WllaOTIwaDF1aDJWbDdha3BEcm1HUTJDTmxZUkZ6MlQtMHdUZ0tBdjFmQ2tiUEhsdEROOERJWEJmbXBNQldYZWk5OFlwZWF1cmdkNUtnUzcwQkxtcHZyb2hSZm1xSm5mTl9sTUoyaHJMOHExdm1GZTJNM205UUtCUG9IcHVEemVLUDdTWmZzcHlvV2N6Y3ZYOGdlaVgtZUJQbXF6QkFwYTVBMUJNUnhtTXlNaS0xVi1qaWpCZ3p4RDFBSjNKMTFQSHBZZ2M5amJzWjlQREM5NdIBlgJBVV95cUxNR3NOcl9ua2FkU1RSLXloVlFRaERBZ3pkM2xLQWxzSlhDSkhBNVpwOWJyYjR1WEVnM2w1Qlh1UXpmTm04cDk3bUxXazNjeWdaRjF2dmlPVDkxWDBlYTZoYlc2dERSbXBRYm4zNG5ndHBFekNWaS1xU0RURjV0SXZXSHBxSlU2MFV0ZXdSVVB6MlBISnBmLTF6VGs5dFFfT3YzT3drcGNNVmQ2R3V2VkxFMmctWGVtQlZWYzdQcXFDckRXWGNjdDduZEItTEJmdV90Mi1LbDlyNDN3OUlTQXpObVZFSmx5WG4yMWpuUzE2c05IdTZyUjZ4MjFtU3hpS2NRZmVwQ1FJVENDdG9JUV9QYjY5QzRxUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-14T07:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
   },
   {
    "id": "938f5bda3c",
@@ -330,57 +334,6 @@
    "topic": "Sports"
   },
   {
-   "id": "117dd336a7",
-   "title": "Samsung announces Google co-developed smart glasses pricing and sale details",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbUlmRzMxZTBON1VueFVQZF82Y1pxTkktb0JSOXlqMFNZRnladnJXOF9HSjZ3Z1FMTzZRaWZKeVBwZVlWZUV6Wk42VDVXX0hfU0xDNWZ6MG5GeFJ6Mk9GTEZOQS1MTnU5TjNjb3JwZ3hlaUFIODFMaWE5aFE2S0xmQlh3aTJVZlIxcDZsRVRnaDM5bVc0bFZ3TXNpejRYQU9ubmJXV0lxb0pFUWprNlZ1N1E5NEVVNGJRaklsb2R2eGZIYi1iTTF4UW9wWWN6czJfNWVrdlhBQnBNTUpXMzBVckRLd9IB6gFBVV95cUxNRVdWb2l0Y0N3M0hhVHJXYzhmYkhVWGRuSVpiUmFaY0ZJa0RVUEpZZnZsXzdMZ0k0elJvSjZKVDQ1SnZ4YzY4eWFDZTRjUWtFSFRmdGNkQ1lFNnhuaXB4cm5NdDFYY3d3enljbUo0WE1qX2FIdVRqUGtaWkx6aFZuT3JwQmdXNlJFSjJHLVR6cU56c0VCZVF6NTI2UmtiZHNsSFNFemZUWEhXaVkxazlNQXVicVl4ZGxXVDY4a2pwZlJNTUUwM3lxZVVLcDJnVzdtbi1Xd0E0RVRxT2JRRG5RcEdGRHhTMVc4Ync?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "IN",
-   "date": "2026-11-14T06:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "c1ae44fc85",
-   "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "IN",
-   "date": "2026-11-14T06:29:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "895f2179d4",
-   "title": "NYT Strands hints, answers for November 13, 2026",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "IN",
-   "date": "2026-11-14T06:11:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "927e769c90",
    "title": "Ko Kyung Pyo To Be Edited Out Of Multiple Variety Shows Due To Drunk Driving Accident",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWERpX2tXd0YxNThxTVhCNmZmWTd5WVJXQ05mN2g1Rzl0UzdsWDFTRGJmcWpTbDdFTFYwUktidWw3RHh5R05BOExEdE5mVWswUUpRSFg1Yjdyci1WUERUU1phT1lCNlZ3UzBpUmozQWJicE5QVnk4UVk0QmFSNm5xNGdHTzdqTTVSVkpCQjczRWt4OElUcjdTS3g0ZXczNTJlLUt5R1V3cVQxTjhxa0Y1NktpSlBfb0hGdkl5ckhfOHBpYm50dlE?oc=5",
@@ -398,27 +351,6 @@
    "topic": "Society"
   },
   {
-   "id": "c537ff521f",
-   "title": "Trump, Xi and Putin to hold first three-way summit in China",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmk0ejVORmZqQnA3RktiXzIxcmh3TTc1NE5CY3gtUVpQTkZ3dVNXencwMHRfX3BqVmN4Z1dtRGlzWWxkV0llVkY4VTB5Wnl5TlA3SWM4OHVuTm5BeEVkMVVQeUV2U0dFRDRFRTJmc05uWjBYOGxLREZDVXRHeFhpX2NNdVhlNVN0UlFYUXMwa2tkWlNad1FnM2xqUVhRSlZVZ0HSAacBQVVfeXFMUDhyd0hGVV9iWXZGcWRVVFktak5Cb2lES0U5eGY3UTdObG1pamVxYkwxbW4yVW1oUXN6d2RzS2d1Q1I4S21VelFjODZnZUZNS0RrOTY1NEJFWG9JTHZRWXY3SDJRUVNqQzF4QWVIOEFHRTNUaUVPTUNJb3dwOU9Tam1rN0dFRW5sMTBaYlVBTkpwZy14bjJVc0xmWTgzZ2E2czVRMUd5bEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "IN",
-   "date": "2026-11-14T04:58:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "8ad163549a",
    "title": "Diabetes In Children: Understanding The Types, Risk Factors And Treatment Advances",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVNuYkwyaUVOT0xWUEEwZlRtVlNxQnVXcHdZWWZlSmxOSlltWmVOc3JvaFZUTE5BQk1WT1A1UHNFYzF5NTZBM3JiRWpzQXphUy1CTkhPNzZCeXRrekhOc0lDMVhiYkt1b0t0aU1yMDVMUGtBa3lKZlphU0JBQ0lJdF9zdTEwZUhoaDcza1dQaUlOdEJHNEgtdGtORks3MnFOMmZCdGZaSHdTbnNhWkRDYkdxejRxRE52dlhIVVBUcXdSNjUweTkzTg?oc=5",
@@ -426,7 +358,7 @@
    "image": "",
    "source": "BW Healthcare World",
    "region": "IN",
-   "date": "2026-11-14T04:49:21+00:00",
+   "date": "2026-11-14T05:00:53+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -490,21 +422,62 @@
    "topic": "Society"
   },
   {
-   "id": "082b669829",
-   "title": "Rubio assails international court in speech to conservative legal group",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5",
+   "id": "b5de20892b",
+   "title": "Who is Rene Haas? The Arm CEO in race to succeed Jensen Huang at Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM3R2SXhuX1gwcHdOWmJMNHB1Y0Y1WEgxYmJqdkt0YzhFV3VGek1vakNrRzdyY2RlV2lzaE45YU5hOW9ObzlFRVlaUkRKVmgxSXB3NWlwRkN6SFlVUUZSWDZQNGpHVjlOelpqRWNZMHVPUjFJRWlNQUFLQzJfSU1PVXM0U2haWG1nZ0V4S2NHSWswWExNdURwNUpNUjdSaDJ5LTJya3VOSUJNWjd0QUliamJSdUJNamZjaTItMUNQRk9FNTJyVkE4SHJyM1NKVmpiVVpzV2lkNE51V09WdFdOVWFObTg4cnFCck54TWJrekYwMm1mN0400gH8AUFVX3lxTE1sdTZTUmRjV0FFZ1hNTGdvVmZHT2Q3X3VZOVVncmdZcUNpMFVzdWxNUGR0TS1TcThlczhiVzB2d1B5bUtJdVFtQXdZUXY3QmRMWFZQdk1NLWY4dWxBeVNMOHpHdFBSQTBYYmxJcS1HTW5yZ3RjVkd4Rzl5SG5VbWxaTk1KWFlNalFhX1k4bkxRX2ROdHZRSWpJXzF6SzJ5SE8yMl9WTElBY0ZzeGxmYnJEVEI2OHJzWjZlaTV5aDB6UFRRNjNhODVpdXVSNzN5ZGVSbjMtU1lVWFpqaGNxckVkMWpRWmtwOXhqM1RralkwV2xUYVh1cVE3M1pSOQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-14T01:06:00+00:00",
+   "date": "2026-11-14T03:36:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Politics"
+   "topic": "Tech"
+  },
+  {
+   "id": "a49a24348b",
+   "title": "Air India issues travel advisory amid communication outage at US airports",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjNzc0RST0hzTml4cktLRHZUb3NpMGQ1RDloSVZCbk8wNWtWczhHUmJfNVE4Z01TWWgzU2FCSHA3dHlrQk1vT00yMHYzeFJCdDdtMjFZMDJFRmgtdEQ4VEU4VENicXZLQUcyQUtTUDRMSGE2c2FQdUdCanJtZHFlUGhNbkh1RkpBZmZnbXJoRWMwZGZFUHllNzlWcE1kOW5R?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News On AIR",
+   "region": "IN",
+   "date": "2026-11-14T02:47:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "fd39e9ce40",
+   "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEQ5Q1VoVkdRb01adXJnWXVmNG5oaFl4SjJobDdyVVFaUV9YN1NXSEE3RlhvV3FnMGU4SDR4cllQTEpBM3FUX1pqNUZUOHJOOVBVTWhDQzJUUkk3VllqdG5NVUlQeVB6VU9rT3FaSDRud2xFMUNpRjZSdHR1bUJPWDFPd3NXMmlWOUtyVVlmQWk2eTZueThxNGZ6OWZRTWR5TUx0b3NfcFhwVVduaHRoZWR6bk9uYlp6YzNkX19iOHBwMGhvcVJlTW1pT3VQc3lsNFHSAdgBQVVfeXFMUG5mTEtnOGtRVjBKZGhucERSQmdvdFVxd1hQR1JMVjlXd1lsN0gzdEhnbkdTTjExQVhpZUpQYkFxRkt6aWFkS051V2h3ZkFqMktidTAtTWQ0Z3lqWVF3d3gxZ25xZVZfcEZLbXp0VHZnaktNUWZoVGRlUnd6djhEOTMteW9sU2ZYY0tFeTl6TlRnV3VkUjU3b1A1S0hVVUtZTUxIMnM5OXJxLUl1UWRXRDZXMktOZlc4b05ON1RoVHVyWHQxRk4tSGNQUEo1aWVBd3dOcF9DUVEz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hindu",
+   "region": "IN",
+   "date": "2026-11-14T01:47:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "ae87096465",
@@ -524,21 +497,21 @@
    "topic": "Business"
   },
   {
-   "id": "59963ae04f",
-   "title": "Android Circuit: Galaxy S27 Pro Camera, Honor’s Chinese Win, OnePlus 16 Thoughts",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONEJRZkRLc2hxMFNkUGlCOW05VU5DYm5RYU1FdS01MGZnMDBmUEJHbFYtMnVhOE81bVFqMUliS2U4UTZ1b0hHZnJPVjRMczdFV2VwMDNyWjI4dTFUck4wWEF5clltbG14VlhOcXN3LVV3TzVQa3JCRExKTjlPS2NvMGpubjFfcXF3RWNNMG5MYmI4VDF1b21tMHdPMjFGMTdqRkN1cjZLRlMyZ3pKSmlhN3FORW1lV2RGS05nRnV4Mlc5VWlNQzJRYTFqV1o2bUd5UzZXbUJB?oc=5",
+   "id": "b54308e6f2",
+   "title": "Khambata 'strategised' to oust Srinivasan, say Tata Trusts VCs",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNblFwVksySkw1el9TY2ZOTUNpQXR1XzdqRzdNTkc2bzhScVFoYk04bktuTFYwUWdnRTEzeTdfcmU3V1hIeUxDeW11R3p1Z3hNNld4YnpWdnE5QXEwYlVKZkFfbE5XQ21IS0c1XzR0ZTJnQk55Q1JSdG4yY242R29QMjRsRThOekR0NjNHRUJRZm54N282SVcxSWJMOXBFZVZoM0lUaXRXYjdJa3V5djBsYkFBNEFtTGtLVThjZUZjazR1cHhFMDhtVVFvbjZ6cVk0TGtxLWJVU0NlTzdtWnfSAeMBQVVfeXFMUHVyeWRlbGhzVVAwSDJFaTcxSlMwUEF2a3MtZVBEanE1UmgyVi1oV3NfNk9pLV94eXg3eFpWMEpiN1llcXNJT1lrN0tRY2xRTTNKUDQ5TXNGWl94RjVVZDZLZmhYbkFQUkk1SndmRHZZUF9veEdSbE14MVBFSFhuRUNCR3poQXo0V1BVYTRWWGlOM0NZaW9nREpQNS1uWGt6djdmemNhMTk4aUExcmszMEJLRm5YVUpjQWtVUXA0Z0RjeDNZUHlGLWQ2SkVHQnhROW5fa0puSkpEMDZEM3BEbHlaYW8?oc=5",
    "summary": "",
    "image": "",
-   "source": "Forbes",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-13T22:54:29+00:00",
+   "date": "2026-11-13T22:10:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "India",
     "place": "",
-    "flag": "🇨🇳"
+    "flag": "🇮🇳"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "15e777a529",
@@ -558,55 +531,95 @@
    "topic": "Society"
   },
   {
-   "id": "e08119fa06",
-   "title": "Sheikh Hasina Wants To Return To Bangladesh In December. 5 Reasons Why It's Unlikely",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0xIM011ZzJ2X3Bya0xyNi1JQnBOTEluVHZBSnd5N01tdTJyUkR2RVNmU0JCdGpRRE1vZXdrdHlNV2dxWG1waXZ4YkcwUkNOeU1mYTRRdThGU2xOUEU5aE4xblZSbDgzMVBGMWJFTU1oRFdvejU0Z3F6aDRPOHprekRaMWpObThFTEpQa0h6d2JnUUtpMHh3NjkyUGpJd0ppZ3BZYi1lcEhKNnE5Q0c1dzdCRW0zWWNOWFI3ZGpvYk_SAcgBQVVfeXFMUFdxc3NhdW8yZjBuWXhhSkNBRFhtM2dOMGtzYjgwNnNHcjRucFg1eHpvQ2pUZ3lfN09VSUl5Z3RjTTBEZUhWTVRlbVhLbjdJRTZ3V1RPeGZ3WGVHNnJoaHQzQVVZZUlPZzNaMmlTTzlVVTNTU2JLS0M1UzRxcG5jVmlMVnlWWGthLTNVcms5d2NjaGZMUVh4TDhpYnZfS0x2UGZkVjdueEdaQ2lpU0VpWVd2T3poeE0zcnlJOFpNbHd3RFZ1aTU1S0I?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NDTV",
-   "region": "IN",
-   "date": "2026-11-13T16:02:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "55ebb4d99f",
-   "title": "At least 24 killed after bus collides with truck near Kaziranga National Park",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJMjNEWFN2S0h6dFFVUFhOSG5uZEkxa2txYkJzOU1oNnpQVjEwd0hKRW5UeUV4Ri02aHltaWJFb3JHeHBpLTdHN2hLYU01Vlhiai1DUWNEMFBRZWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "IN",
-   "date": "2026-11-13T15:16:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fe3d8c93da",
-   "title": "'Josh' actor Sharad Kapoor fights back tears as he sends his four pet dogs to a shelter amid family and h",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPeDMxaG1ZNzZyRGRDVHdQNVMwRGdudjdDWVlHdE9KbF9iVzlzaGh0SVBQVUNrTTRhSkl1Rlo4elh0TFRJZkcwYTZVbTVGcTdDZUR4MmlsVXRYeXlwRTRNU2JjeVg1TEhxR0psT1d6c2hRc2pyVm1iUjdoaW9Yb1Z5U2VCTFNubTJWeHEwbURBTFNHTzhLTWk1NDFqUHREWHluWktxRXBGWTBzRzlVVFRqa1RrVHM1bzd0UU53MUp3OHZhR0dPaFlzYVVXSGJnUWl0UEFVTlVoaXgxYlJwTzZDNHR2djVDN290enZobV9tbE9aOE5jUW9hZl9DOXp1aGJsX1FFMVhpRk5IODVsSkRmaGNfVk9vUVZRZm1HY0Z2d3RaenRqQlZseWxHaHJsTU9DTWJEWU9KZGlGVHVoWDJ4ck5qdWxrUXRGeGVNN2JlaFlsWEZVOVVrVG5rR1E?oc=5",
+   "id": "716fd98d33",
+   "title": "Pakistan 80 years old, can't appropriate Indus Valley civilisation: Culture minister",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGRnMjVTZzRLMlFmZi1pM1VUc29iSDBjRXo2REc0MXo5bVY3aEhjeFppbGRxRFNVRE91bDdqM2lBNXplTFJxWW5oR1F6UFNaLU5SWjB6RkdFUE1fM2FzTHNZUklKcWhrSXlHMUgtNERpTWR4d0hmVXFKUk1iV1gxTEJlNERYVlNMcFJfWnZMWlN5OUhLbVBrZ05haDlnODlJOWFnSDAxTnRMUmlJLUVTTVN6VXBGTzNiM1d1ZWZlQ1VIZ1VabGMwNFY2bUUtLVJQZW9VbmF2enBKdWo4Y1pqdHYtOA?oc=5",
    "summary": "",
    "image": "",
    "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-13T14:35:00+00:00",
+   "date": "2026-11-13T20:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "51b4b0f0ff",
+   "title": "A 32-Year-Old Jeep ECU, $15 in Parts, and Two AI Agents",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdE0zRkt1UTVFV0hUaWlnMGFhRGlBTVh0MkI4ZDhId1JubDNlMk5KRTZlNS1iMHNuOHFLVG4yU0VTR3RROXF4b3RQX2w5ajk1N2U0RWE3NEREMEhOVk9YajNjblRXSkcyaXAwVUcwRVlzU2EzWE5rTHNOTURLcGR1R3A4ZjJVN0tj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Gadget Review",
+   "region": "IN",
+   "date": "2026-11-13T18:04:09+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Entertainment"
+   "topic": "Tech"
+  },
+  {
+   "id": "b8401822a8",
+   "title": "Huang's China affair may fix Howard Lutnick, the man who wanted to fix India",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDdQQXdrci1QLTVUVzhVMU5ULXhvTFo5SnpreFBiZWE5QjIwUzl1Yi1oM1ZnTmdldzAyc0RaVmtJclJFNFFHcklhcUR0dGEzZ1cxejdiSUFXM3lUV25KaTI1dG52RFM5dml0a0RiZm9YaWZhWDVlZU0yaUNWRXBIcldBdWE4NDJ6WDllb0pTQ3JaTXNrXzhNQTJPTl9LS3M0aWJzTTZEYno4ek91eEw4OXdtRnVFcUJJV1hfMXVKM1k4S1VldDdmNlZ0cTFxbVFodDJRT3phX2xwWW1WWDMtclMzeWp3OE5oSDdVT2dOWUIydFQyU3FmdW1vNm8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T16:59:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳 🇮🇳",
+    "also": [
+     "India"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a0e2dbc038",
+   "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekJEaW0wdWNOVVdyMVlHcmlSYXBMOTJtenpZVEtnLVlNMmZoRTZZcmFZTW42S3otTk51dENFc1ZWaERwNktzcnFrcVdLYWt6VkhtOUF2X0l2dXBIbktmcW1oSUozdmFhczZjY3V6elo1Sk5KZElER1pVQUdWdTBxeHNKbUFIY093TUFLdDBYNnppUVhJVGZ3dGJVV3NqbVV3c08xYVRRWU1UMHNZ0gGyAUFVX3lxTE9leTNBT21iUUZUQnNZZVBhT1lONFFFcGJIX3VIQ3JpLUhzVlpWNUJPVWNibkdZc2RQWWo5dUFyUGREQUF5RUVpMzNpbC1lcmhPcEliMC0yeWl1S2xGR0lGQ2ZZUUlKcGViT1dSZFlTNzRxRFZ0Vkw4TmpZWEdrOTZfUDByZGFPSzdJZ3ZmU3pOdUNGbXZ4MmMzaFlmaTVPNlk0S0lwU2Q1X2tKakw1WTlBdkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "IN",
+   "date": "2026-11-13T16:07:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d3a2d28f9d",
+   "title": "In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hindu",
+   "region": "IN",
+   "date": "2026-11-13T11:48:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇳",
+    "also": [
+     "India"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "99732145ed",
@@ -626,6 +639,23 @@
    "topic": "Health"
   },
   {
+   "id": "a06d4729ba",
+   "title": "Apple's first-ever IoT hub HomeView, hits stores in India today",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOWtMbmRoYzZRRnBnaWVsWk1zYkNZOXpEMzR0ZzhpRzZHNnhFVzgxZDFMd2RUd21TUUdEMzBpOV9lUGZQZ0F4eUNJYVhQT3BoTnZwVnhiUEdNblMzbU9NVktncE0xSjIwa253eFBTU1F5cHdFX1BjQnRDRkJ2OWhoSkhsUHI2bkVhcGtZajJRTWhvTWN1eWdFYzNSSlFVeVI3LW1wNzR3VU5DRnN5QmlSSlE1MWhyYy1STTlrcTdYRi1nTUhlSHpwVjFNbHRpUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Deccan Herald",
+   "region": "IN",
+   "date": "2026-11-13T10:27:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d93f23ed3b",
    "title": "Who Is Maruthi R. Akella? IISc Honours Aerospace Scientist Whose Algorithms Guided the IM-1 Lunar Lander",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUd2RU1XU0M4eG1iVDJKNm1UaTcwWElpVkNPZEs4emQwSEdscWJicGJ3ZXIxZ1VFWVUySVJHRWhsamZDYkhrbFdwZWtZa2xXVDZKU1ZuZ0dGbDRmek1oN0ZydWFxdnNncnpRZ0RRLWtMNEJaNTlOQ1ZXeTRIa2tXZWhsRV8xM3lsUlRnN2dyd3oyd2c3MkFRU05tdFZvN2FWRDZjak1FWXNlM2NLVU9rQlJIWTdKSmZnakxjZEJOLXlqRHNZbWRKVV9NYW9EZjFWazFJag?oc=5",
@@ -639,23 +669,6 @@
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "347945c5a5",
-   "title": "Anirudh Ravichander and Kavya Maran opt for a self-respect marriage in Greece; what the law says",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONi04TUpJd2lSN0VJaF9qVF9HeVpPWnMxMF80MGFLMV9uUTZuWl9LczFoeU1hZ0hvNG5sa1I4MlJsR2s3UlBNY0s4V1lKSkxqWjhKZkRxT24tWHRSbXVIUk5UMDlLNktWZUw2Zzl5bURDRDRiUTl1RXFtRnF2VW12c2djUElyUDEtWmpaRDgxOE9YcWlZTXdKMnZOQ2pZR2JRNVJJTEdZcnkzVDJrbHZ3UVY1b1U5SUhjSlpIamI0WW9EMjhDeU1BSFlhdTBZcHdpZVd2WkxCaDbSAd8BQVVfeXFMTV9GVnE0NkJKQllHNWtvOXB1Um54S09RbEUydU9sc2xBSXZsN0xuYUtmVHVUY2dWdGhTTnVyT29ocU56bnZWNFdjNDhyVmFzMGFISzNOOE1pNlpTNFBjRHp5QmFRZm9CWm5ZdEFWTGplLUl5bVVPTzJ6TEQtWEZzX2NSTlNVR2xoRjNMSnFmU0dqM3NRUXlTV29tYW5yS0VFT0FXbks5MFdvcFlPTGxKbjBNN2pybU1xUU1xQlZUUE1OSmg4QkdFelVvaG1TRGU0RTV1cjJuZ1JlZGN4LWxOdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Indian Express",
-   "region": "IN",
-   "date": "2026-11-13T09:31:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Greece",
-    "place": "",
-    "flag": "🇬🇷"
    },
    "topic": "Society"
   }

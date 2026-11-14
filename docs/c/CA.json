@@ -1,8 +1,80 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "f0dbc0d5d3",
+   "title": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVHFHMnBIeTJ6WlBFQnVDaTVpR0NyUHpBb0twMnVyT25nYnczaGdYNnlzYjRzOGozZ0dSWjZuNUF5UWFtOXNWcEhIa0pDdllxQWpuQUpONWZWbXpodWlkbGF0SFZYMGZndXp0a0pQSnNjSWxSd1ZnUzlNRFZpd2FWM1Ixa0FfVll1d2ZiSXl6bmpnQ2cwa1p0Si1fZDltczdHdjU5RzlRZHluMWIybWpUMC1IOUpGaTFoWFI1aHFqSzN5eTgwRkhzTUhUd0pKQ3JIeW83MDhPOHZyMV9VY2E4S21PQUJTVmswaTdGdUlwa1Q5enRoalQ4dmtGSUxZR2JLRnk1STlSVndwZklBOUZvV0F1S0tDRWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Toronto Star",
+   "region": "CA",
+   "date": "2026-11-14T13:01:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ca57aadc39",
+   "title": "More than 2,000 flights cancelled on Saturday after U.S. FAA lifts ground stop. Live updates here.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVZFN0J1YXlXdl9tX1pvYVEwMmZ0OFVlOEN0TnB1UWtwZFJrQjZSTWJDZmpEc3prQVB5bzU5V1FCUkc5OXJ3MVhudGxWRDJXWUJCR3BKdl9fejd4M1VlbnBadEpMLU12ZVpQMjZtRHdyeENsLVJXdldyTmF1Ri1rc0JMZjFIN1dGRUVTdTFtT21SQVRMd3dVWFVUdVJUVFZ0Y2lNNS1lak82Y1lKTG05NHNncw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-14T12:47:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f56659e4b6",
+   "title": "These four Canadians share their fitness advice for aging well",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUxPc1c4ajJ2RUxYb1pTWlJGZlF0bXo4UTQ2Zm5FXy0wQWlBN2RYMUFwSmlVdnRabnRQeFRmb3Y2YkpJVVVFaUs3RXdVTklMYUgwcjJycUZSc0pQSVc3dVhEUTdjS3lJNUVISFpiUGU2VTdvTy1UemI2RTVMU1RDRWZLUXV0Z090M0lJV0N3SVFIZy0yTUtVeHdxWDA5ZlpaRHhhc0VHNUxBWnNPYVRoc2lwNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-14T12:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bada5e1f7a",
+   "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3BSZGZYdTBnMGgwZ2pfM1FVWWdtQUlNT0xVci1Tb0VSYUVZVUIta05tSER2dHV1WDlpY0lzSkFfaXl2R0FvRUgxYUd0MEtXOUVYeVVGRzFfU3k0a3hGOXkxUnVBTVlEQVBib0N4N1VUN0REX3N2QUt5c0ZuZTVwNnVxUXhNazV6Y0dKV2VjWEhHLUVFU3RyeUdweEdwSUNyVjd5RUxSTHBBRFFuLTBEOGNNcFc0MDTSAbwBQVVfeXFMTWFfeHZ6ZE9JTlpTT0k2Qkt6c0FXamE3N1FEa25TTEQ5NVh3dmxvS3Y0NlJGelo4d2RQVTEyaTZmeW1aT0xUQnFpblk1dmhWTUNJV1ZXa2JKSlI2bUdLNm44Tlc3ZU1nZGd1UEFDY2lhZWFNUHhyVGlJSThuQy0zb2VhaHViYVZzbVJMMWNDOWZ4Z0ljM0hLY0djQ0sySU9BY2U1ekRVY0pnbkRfMmpwcElzRWVwMnZSbGs2c0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "CA",
+   "date": "2026-11-14T11:48:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦 🇺🇸",
+    "also": [
+     "Ukraine",
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "4e8f8d3e8e",
    "title": "Activists call on Victoria MP to vote against bill to speed up major projects",
@@ -38,12 +110,29 @@
    "topic": "Society"
   },
   {
-   "id": "c5bd75e789",
-   "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
+   "id": "8b12b0b3da",
+   "title": "How a CTV News investigation connected bag tag cases around the world",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelNJWmQtMkN1ZEw4Nk5NYmRVam1xUnFJXzNsa05aSG9hSENlUkExQmFaV0dCMEdrUWlRbC1kRWN5TXVDb05pa1hmZGlzMWdRSy1aMTJKNGp5d1BtS2ZaY01VcEtrdTdaNnNZQmk4RHhxLXlmSWYyQ3JUR3d0em5YT004QmZJUlFKLTlEU2lwZHhDUDV6SjVoTS0zYTJYSFlydzk4UW1DdnlpaVli?oc=5",
    "summary": "",
    "image": "",
-   "source": "Space",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-14T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "62468262c8",
+   "title": "Misophonia can disrupt daily life, causing intense physical and emotional reactions: WLU researcher",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcWkzSlVaVFk3X3pzek8yTnZWM3NtVF9kVjFkS0l5NnNPX2FsbG1FWlBOOGJGSDhoWXVHSHR0emo1d195c0RVRG1lZFp6aXliak1yMEEzOGM1SkJqUE9ieUZIcEhaMlZXeFVNcENPdk5LOEZpdU0xVTAwS2pWNS0yUVFzVnNmOU5fTWFTRXVSMThYdUhPQ0QydFlRbXJSc2tKVWswYzBaUVg1eS00YlR2eDM1WjQ1SEtabzNKbkdVZ0ljMkJsM252Yk02WElKek9fNmwwSFRmZHY1YVNNTTBF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Record",
    "region": "CA",
    "date": "2026-11-14T11:00:00+00:00",
    "coverage": 1,
@@ -63,6 +152,23 @@
    "source": "WorldAtlas",
    "region": "CA",
    "date": "2026-11-14T09:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f104531590",
+   "title": "4 decades ago, Robert Munsch attended Moira Green's birthday. Her story became a children's classic",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDeHVvbEJrVFEyZWM0ZVp5eldEVkxBNDlDaHRWREdvSkFSNE0zcDYxMkRQZHNwdF83U0JiazdtenhZTE5VbnFnU3RXY0toS1dyajdnTG9Gbk1uNVJrcFBxR1pUWEZoa3c5R3pyWThWU3FtZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-14T09:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -106,39 +212,19 @@
    "topic": "Society"
   },
   {
-   "id": "26536e9cc4",
-   "title": "Rangers 5-1 Canucks (Nov 13, 2026) Game Recap",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFSW81TncwOWstMXdyZXd1Nk15WUlqRFh1Ym15ZzlDZGRUUncwQ0c0dHlGVVk3NWQyS2F3NFZfOFhHYlJjcU5lLTVNeXFWeXdEV05qZUlhdHVJQTQ?oc=5",
+   "id": "c70bc1b366",
+   "title": "Journeyman Gawdin stars in hometown to lead Rangers over Canucks",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTB0SzVDUGZacG9icEhBaDZYdzhaNktpWnlQVFM0SzNma0Z4V1g0dXNSZnVJaWlQNm9zVVRLdHZxQUc2SmRNa1BucWZGYm96dU1jWUVwajdpMkNKeVZtOVlFLTI5TzJFZTIxczBabG81dWxpdkZGSjJlMHdGWlhZSzE0dTdPRzJ6R1BxYTNwU2dHc05TY2VZSnF0RTk0Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN",
+   "source": "Sportsnet.ca",
    "region": "CA",
-   "date": "2026-11-14T04:59:09+00:00",
+   "date": "2026-11-14T06:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6167e53703",
-   "title": "Update: Flights resume, but chaos at U.S., Canadian airports continues after FAA ground stop",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUlQTUpZQWtYelNoUTFZV2ZleV9kQU54bGg5dV9vaTNadlc2YUdPR2lxTDdoaXNfOEhnTWJ0VXpBWkh1bndFWW55aE5ZcnJ6bzhqLWQ1TTJvbGc2RlVIN2JkX1B6UElyZENtQVplbHNLbVlJb3VYRnBPNHd4d0lvVjJ5MHVOdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vancouver Sun",
-   "region": "CA",
-   "date": "2026-11-14T03:49:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇦",
-    "also": [
-     "Canada"
-    ]
    },
    "topic": "Society"
   },
@@ -197,21 +283,21 @@
    "topic": "Society"
   },
   {
-   "id": "496b5166bb",
-   "title": "UK police open sex offence probe into comedian and author David Walliams",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlhqYXllaGlEdG5SdDRvd1FQb3JTdW42ZC1yZTRSSkZBQ1Fzb0g3bTdrWHZITE43TDZXbDBtMGtGXzMzRFNSRGd3MVE4TEpSQ1cyRzRZS1p0VDdQQmZlTkFzMVFNMjZIWEx2NW5CYlhrczRybHhFSEJvYTBKTHRfREtkbGczZ1N0blprWmgzemNySVdJdTY1SzhpWVV4VVdPWXZ4QTJDUDlVUEF4cXVvWkRBY2zSAboBQVVfeXFMT1ZXcGczbE9VbHhCT1lFdERvNFlTczE0UXFITGdERndSeENtTkJTeUJPdmhpNnA0N1M3cDdPVUdLcUFlQkRzZXAzVXVOanhHTUxZRzdnLVdHdDQ0X0huQmVmRVBUcDZkNFdTdGMzUExud3c3VEpMSk9GMnVVemprVV8waDdUWHVIRl9XOThpY2lXc05Fc2ZBR3h3UUdOSjFwM3h3XzM1NjlPZWJWdGhoc29KdGplOW04OFhB?oc=5",
+   "id": "bc7758b48a",
+   "title": "‘Grand Theft Auto VI’ turns Canadian duo Bob Moses’s song into a viral hit",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPajFnZ0NaZU9vdC1aVkFnNGotalEzSlMzRU9qTDk4QlJZWDFleEVKWXh3Y2twQUxFR2xlemNCTUtLSEZFLTVFYU5vNVJ3d3pDQlBhR3J2ZWhNZkd1RnZjRl9SUzJVZm1pVlFZQWdYYU9TMUoxd05tWUh5bVZCNWJ0STI4X1JVQ2Rkak4tOGJ6SWVreDRaSWJ6MWpYMFYzdmxLSERtNWI0WU5tMm85LUo3RWFaWVhrVDJPYXBzaGRoRkJ1aFNYdzZ4NC1UY2N5cWM3WWxzc2ljYm5mOU5jeUNZUWV0LUtCRm5OcmhiQkJUMldDdWw1UkR6c0dB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Toronto Star",
    "region": "CA",
-   "date": "2026-11-14T00:24:21+00:00",
+   "date": "2026-11-14T01:57:45+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Canada",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇨🇦"
    },
-   "topic": "Politics"
+   "topic": "Entertainment"
   },
   {
    "id": "5cf3181d44",
@@ -333,6 +419,23 @@
    "topic": "Society"
   },
   {
+   "id": "c8ff5d5955",
+   "title": "Alberta’s Smith unveils new oil sands royalty regime",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2dPeWs3MVhnUkY5cmRocmJITnlQY1VxSzFkTHdXc0ZHZFpMQUFadGx0UGhlaEpBenpzbnIzQi1UTTFQcHBHQjJpWEdfc2xfNHdkVVlveWQwbV9yT2paUHNGRWFpMU16c2JCdFAzdGphNkU2SzN4MEM0XzJEZW1jNjhXYTRLLVdpOWhybVFTOTNmOGo5NXhUdTg4QU5ZV05aZF8ydmEzYlgzWTdnMHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Globe and Mail",
+   "region": "CA",
+   "date": "2026-11-13T20:27:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3019964230",
    "title": "$11.5M in drugs seized, one arrested - Thunder Bay News",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUpLMTVzTmhNV0RCT0ZtX0w0LXlCelJvQ3NkWk1tTXBzZ3ZDT1dCc2tIeEtsaGdkQXlYNWNHUXhTUk9fcWxPMFZPbGtHSFRKOXFMNUt0RGN1YXBUTmRjX2hBUTQwTzFmMmE1LWg0TkZyY1gwN3ZRQkh1QjRtOVJ5eVYtY09pcHZH?oc=5",
@@ -348,40 +451,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e9d7607a18",
-   "title": "Alberta announces royalty program as part of plan to double oilsands production",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzJfcEZZX3VQWERMTVBEVldMTU0zb3E5WS1ZX3ItWnQyVmxhM0pRTGtfRjBwM29mbHM2Yk1QOHVqMkJVRWpKc1E2ZWRiVGVsQ1FlN0xuSFQyaVNGN3VIQVlTNFJwX3dnTG16NDI3UTNjWVVSOG8zem1vRTNmamhycDFpcXVOVFE5OUNLaktB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-13T20:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b61f96453c",
-   "title": "Best Apple deal: Save $9.01 on Apple HomeView",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45djQ1MXZkaTE0ME8ybGxkVGV6akp4N2s0UVdrMVdEU0RzQjhPcHB0NFdSSy1vVTRKLXNHcnkxWm1GeUlMOTJId20zMkpESW5GbUs0T2Y5akR0SGU4UV9QMWczWXdtbjVtS21CSEtvazBOTHAxbFV1bnl2dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "CA",
-   "date": "2026-11-13T19:07:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
   },
   {
    "id": "b7a004dea2",
@@ -418,14 +487,14 @@
    "topic": "Society"
   },
   {
-   "id": "a59b504247",
-   "title": "Avril Lavigne welcomes baby girl",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTU2RXJZVFoxOGRmTVNMLV82UGFKR3VJc0JhMXdzR1RnZlhMMURkOEZleDIxcUNiNWJMYlFxT0ZGOFB3RTltbjRJaFptaXBia2lQamt2bjAyN1lMQnlTbnQxVVN6REdoOFBaYWw2TjZKSzc5WFh5MXV5blp2ZXBMQk5UWW9GTDJ6UktB?oc=5",
+   "id": "577b38e0f5",
+   "title": "Avril Lavigne gets her happy ending, welcomes first child",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcVVvZzVaOEhOZTdSdjBnMWlSWmJRRTRRbmNWZ0hqUFZIbkZ5NnRyS0xleUNTY0d1TWhnYjFmTThIVXN2NmJQVG5mUFpBVF8zSWZUc1BvQ3E4cklCbHdtZUROZVJOUmJUOWROc0dNdnBHLWVTZkFNbUlwaVNpbk5qUTRtRzZsM3lVQWJIMUZCNGVkbUVHQ1lrRF90X1VXenBSN3F6RA?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBC",
+   "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-13T18:09:56+00:00",
+   "date": "2026-11-13T18:13:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -435,31 +504,31 @@
    "topic": "Society"
   },
   {
-   "id": "37a0bf7c0e",
-   "title": "'Grand Theft Auto VI' turns Canadian duo Bob Moses's song into a viral hit",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmhCYzhUY1QyZWFWNU9RNFRUSUpCZlhNUkMzMjN0Q0FJTmkwTlJYNmpqRko5Y1A0Z2VUcWNoSG5QalFhaXowNkU4c3BjS1FoT2JNT29CZk9Pel90NG9SZEV6bVpXVE50YmRlUXZJTWd0cWlIS0JmcUNRbC12X0c0U0MyRUp5SzZXcUFNay1GZ1FyMUwzUWpCWEtNaTk5eG1PMWJIemNHU2hMb1MwaXc?oc=5",
+   "id": "3f335a4253",
+   "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "Engadget",
    "region": "CA",
-   "date": "2026-11-13T16:11:09+00:00",
+   "date": "2026-11-13T14:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Entertainment"
+   "topic": "Tech"
   },
   {
-   "id": "0eb6bd0ee7",
-   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
+   "id": "10c842c5cb",
+   "title": "Google opens AI glasses preorders with a privacy pitch to rival Meta",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zN0NvQ3dNV1dBSlVySjZab1pLeVJ3MkE3bTVyVUhwMndGWWRCM3dHbDR5R1VMN3JPTVIzWHdzQWEwV2NpbWRMT3NGRDlpaWJzSV9EN2lqUFJuNm1SZ0lvNy13dHdGNE5tU09ZdzlxQzVpQ1EzRnRrbFlfQXgwZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Google",
+   "source": "The Rundown AI",
    "region": "CA",
-   "date": "2026-11-13T13:30:00+00:00",
+   "date": "2026-11-13T13:28:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -486,40 +555,6 @@
    "topic": "Tech"
   },
   {
-   "id": "53d64aa2b1",
-   "title": "Jenna Dewan Thinks She Was “Set Up to Fail” by ‘DWTS’ Producers Airing a Specific Clip That Caused Her Elimination",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkVqMHgxOEwyeUhQYnRpalRXLTBFY2NxVVgtSGRVQm9CTk5hZG5jT1RZS0lhZHJHdGZCY3N5a3pwSW5nNkhwcF9Ram53RnRMMmpfZHpWRlhYVENvSlBsNllwNzkyaTR3a2dyNFJ0YTBYT0JBcjBMQjBva1plWHlkSlplNWNWVUFVcjVXUjNudUE3SDdrVXJUcG1ZejVtYnE1dUw2dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cosmopolitan",
-   "region": "CA",
-   "date": "2026-11-13T12:27:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "930591174f",
-   "title": "Federal government moves to overhaul airport security after CTV News investigation",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGFKY0xWbG9pQmI3aTZEYkZaQ09MbFBPRmdibUJRZjdhY1lsTDRHS1QyQm5LNUthYnFrQmN5VEhHRG9NTjZTbmFRb0ZybGpIOUkyYkRCR1FYQ3J2ZS1oeFY3dTNmSDcyMGtiU2pFZVZEYUhmc2NPdmtQN3NFRnNSd0pXTmVQTHVNeFJHQnNpQVhvV3ZmOGoydFRYV0lYMHNEV1dicVJsWE5meXBHcVVDaUNCcFB5VE1uQjhlTTJB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-13T11:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "f126900cbf",
    "title": "Roundup: WHO warns Ebola outbreak in DR Congo remains concerning amid rising infections, violence",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1dGNsVGJrci1XSjRYZ2Y0cjFFV3QxNzEwTHkyeHFxZW83Wl9sOWllalZSZTM5cVJJX285dHgyVWE5U2pXa0l6bnowTmpVRXdQdkVVVVVpNGJ6MktqSzc5NUR4aklYaW1mNmphOS1QNXoxRXN3N1Q3RVdkZk8?oc=5",
@@ -537,12 +572,12 @@
    "topic": "Society"
   },
   {
-   "id": "d6e8ffe199",
+   "id": "45fb237e87",
    "title": "Your genes could change your prescription. So why aren't doctors testing?",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZkxubTRXYlF3UHNlb0FwN1padWY5R3pEZWhIODhLR2RFNmRFMVZfMlN1c0xvZTNob2RNVER1SkxVOEt0bEFWMGtMZHhsNzRYWno5Mm1xenlsaDQxZTB0QlBFUlpyYVFnMjhDWVhWaTFENFJrZWxGekRVOV8tWkJUeA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWYyUXAzOVpLOGdVd2t2ZzJFelNNTDQ3RkVKcmxITFktVlRUNmZPSl83VjRJZWJmc05ISzB6M2JmaDJVcTV2eE16M3A1UmJNRldDdjFvWlZYaWZqRlkybTVfR0x1U2U3Vk9XQVpUVmdiSDVxTkhtbnQ1dUNvZnpZY0Nn?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBC",
+   "source": "Yahoo News Canada",
    "region": "CA",
    "date": "2026-11-13T09:00:00+00:00",
    "coverage": 1,
@@ -609,23 +644,6 @@
    "topic": "Society"
   },
   {
-   "id": "ae81b04855",
-   "title": "Maryland's Van Hollen to challenge Schumer for U.S. Senate leadership post",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaExNWUdfTi0wUHYtNHQ2Y29Jd2VzWEZQTDhzemVaRTY4NWtQRzFxdno5RmlpQlQyRk1XTWUxM2EtNmJPdXhwVWpuTnU5dUFGNjJfSk16Tnp6Mmo0Uk1qdS1mTEFvSHExODdoV2ZnaGZJSjNoTnBaOE5FTmNxYzZaRW0wMXhlTU1fT3Q1eW9Ubw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-13T02:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ab5f5cfd9d",
    "title": "Carney wraps meetings on security, trade with European leaders in Ireland",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5cXk4Vk9zVnltV21OZV9XVjJfaEN3V1RPMTlJVHdIZkxxeXp1Nmo1Wk1xRi1tYjlSYXZsams4bjhWYm5VZ1pUQm9mcDJWb1k2Ylo4X0NWY3lUYzZ4UmFpQXBmd3ZSb3hVaHllRjE2akUtNEZCY213SUFiT2Q2dw?oc=5",
@@ -641,23 +659,6 @@
     "flag": "🇮🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "db678a2cff",
-   "title": "Endometriosis care in Quebec inadequate, says women's health group in open letter",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXFxNWhKZS1NYU1TMk13WjgxY29WbW1QcVJMSFVtWWRGd3V3eWhPTEJteFNZdFRHd0U4NXF3Tm1zaE9FRmt6X245Q2Vhc3ZFaTh2VTBqUUtDSEZqcm1NZzhZM1hBcEo4bDVmUFdiWlpLaTFSd3JzbU9vaEtMakNRVmhVbE9HZU1S?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-12T20:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Health"
   }
  ]
 }

@@ -1,8 +1,93 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
+  {
+   "id": "83d99c9eaa",
+   "title": "Arnaud Viviant, chroniqueur du « Masque et la Plume » annonce quitter l’émission de France Inter",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZXNQcGFSRTMwem5lcjhBTXhGckJTOEQ5YjJ1QWt4RFpVZnc4aDlHZWdoSC1jeTQzR05oMWw3bGZWdUppUzFqcy0yN2NULVZxdEtrTFU5NnNEN0QyQjZnMzVzU2lMYnp0bnlJUE1ubndPMk4xM0d3Yi1OaWRRQjdJZ1VLQkppSi1sVGtCWEEwN1BVdG5CSlhaUFRGM2ZSckx3ZFh3Q3haMkdZdGd6Yl9QZ08tWkttSFNzY0hvMjlocEFVajZDTzAwTWtLQmdidVoxcEFTdEdRbGt6cVJmUGFYNlNaOGNMTmQ4MWVFNVhUNFRXNV90QkYyeEFNbF8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T13:04:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6d89922c41",
+   "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNeXVRVExvR1dpUmc0dmtneHpQLWhYQVd3ZnI2U2NxbHBKYWNuVEliNFFmQU5GTEdpbmpGWFl0WXVjSGFkV3VNMFE1RFJQalNocFhsVlAwY0NaRXNZSlRJT2ZCNWdvbUg4VEVvRmxsYk1WT3BTYlppdHVyakg4b0VuSkdxN3FxVzNxb0Y3ZnBrWkhNZlBHcGgyR1U3VF9FSTBYb2FEeG50ZWhTS1M2emhvUGtsMEJXSk5qbHJXSjdTX215REx2eU4weGprenRuWjdVSFNheE1RSVltcm0tdnFSY1U3eV9Hb010VkpnQk1IWFVLYnhXb01RQ0ZvVVB2SzhkRnVUNlUtSnBGU1hrUEYzYmRrU1h4ZmZEeXA0dlQ0RWh5cHBhRmt3V1hzd3dBdV9jc3lVSzQyNE53YnJWcHlnZEdn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T13:00:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c8da10df3a",
+   "title": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’édition",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0lwZkRFclRFSnp4WlpGRmoycHRmYXFDN1F5Y0xka0t0T0JvS2pNdkxaLTljQ2tWbnY3VWZDWGRaRHNKSmtpU1FXXzNrR3R5Q3RxQjJvYmlyei1lTFVHZEQtSDNGamlYTHpHM21KNWlBV00zQWhLeWZXcHJIR3VuRzdRblZFbjhwVWhpd19PNi1BZHZyNDNaTDcwVjdodmV5YnhHd04yZ1RTMmx4bHdYRkJZTjB3SFBNcGlRUFg3ZC1XQzVseUNvVGdMYTE4Rjh1OWYwMDNrWDF5VV9QbXdaQ0p3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T12:54:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ab997ca2c3",
+   "title": "Tesla va vendre son Cybercab, une voiture autonome sans volant ni pédales, à des particuliers",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXJyUWxDdmhCZUxNcmloNkFPUlgwVHptOGNFNHc0OG1xVzRVaUdTT3Y5bzZGTUc4SUV1d0J2LXJ5VFdVZmZ0SHVEOHNLeTZqSk95YTd1NWkxV05fUjJQNTRzamE1RGp4Vjc0aEJ3cUFnZUZVYUZwWUtZekgtMjJfTHpJVzRlbVhiVWxHSHNnWlhRSEZuTlFsMlRjMHB0YTlrd0dEeFA0ZVNMa2lXbUxaeWxPNkd6cVFNdU84bTgtS0JvR3pBR0RFWS04cnd0dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-14T12:39:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "0608306c46",
+   "title": "Exclu Midol. Jalibert de retour dans le groupe des Bleus, Marchand forfait",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQlJiaUNFLXllZVpZWGQzeU16QzJkRFRhUlp0SHpCU2xfWWVMOE9nTHBPQUpPNW5TY18xNXc1NERMRkJNLUN2OFM1aHpiVmVROG1qNmxDRFVMNF9uRkFkeHBpNjBRQW15WW1vMzdHU1JfeS1EYlRUSktlXy1odFhEMUk5RTlsSkg0RDRiWk96aFRuTXgtd3M4Z0JwTkFvQTU2ZGsyejVsNU43cmhEaUpNOUMzY19GVDhueUVackRpVEt5NVlRMkJta0hFbElkV2lMNmdjNHB3eUI5VlhWLTJPUlZEU2tQdzlKaDAzUW9wYUxYZERFM0ZhX0JXUTVGTFU5ZEt5bUxROA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Rugbyrama",
+   "region": "FR",
+   "date": "2026-11-14T12:23:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
   {
    "id": "929b60b3c7",
    "title": "Outlook, Teams, Copilot… Microsoft annonce la fin de la panne mondiale après plus de 24 heures de perturbations",
@@ -21,31 +106,14 @@
    "topic": "Tech"
   },
   {
-   "id": "c1c4196d72",
-   "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTTNENjdRdWtNSzFaVlBPTnRjTXJaOXYxb2lDYzBUanlZdzA1ZXZNdXNIUWlBNWY4V0xsTlNRZnJQaGJMSlFnN0U2S2pmT1BmSjhvelo2U2RJZUNCVlRuRllYT01Bd1N6YkRMbW9ORldmZkxIUUVrRVdCT1RCTW0zTkZ4S1hneERCM0szUHBOb2F1ZDJOTEpmdTNfQ253N1hWbEdjUkpRRS0zTzIxOTFlM2JLSzY1M1hTOW9teFdZV3RnSm5lUFBYZXZlRm1rVUx2Z1NGbXJ1d1ZlM1VzMktGdFl3YVkySmFHNGp6SlNRdnJXRi1ySnpnTlVfcEpTN29qRmQxdnBPbUgzUkNJMmZWRS1rTUdWN0pHTkR6NURQM1BSM3J1UWxjZy1fZmNiMzdVTldfWTdlYTdyendqM0dvYjg0QTVoRzB3c3A5bEh2WFlMT211N2xHR1Jn?oc=5",
+   "id": "b408c6ddab",
+   "title": "Disparition de Marion Wagon : journée pluvieuse, départ en courant, passage par l'école maternelle... On a retracé le trajet de la fillette",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONkRDZkpYQlpYVVo2SVJYVlJOM1pJYkJZVk9OYmdFbjRFLWdrQVF4VkxudG5yaDM3STJBYnRqcnItOUQ3UXFxUEIyckpObkhMZ01DdWU1ZEo0UEQxektBNEUwU1BhLUgtdkh6QmthUUVBRHVQMnpyMzYxRm1IUG1jcFR5V1VCX0V0cXY3MGZTYmhkMG1rRFZiZWdaRUF6VEdZWF91V3RWQUFSNE9yV0kwTFI5MXBuUkp6RVROU1NpUG8wb3hka09BeWRrWjRuR2Z4VE9YenVNbXJESnZ3V0VEX2VGUXR0WTRXZ21kWDd1VVhaR2N3SXhMWWhmUVJhUU84dHBqNTBRZklPRVNm?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "ladepeche.fr",
    "region": "FR",
-   "date": "2026-11-14T11:13:20+00:00",
-   "coverage": 2,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "076ae080b9",
-   "title": "Déjeuners à la cafétéria Casino, trouille de sa vie, « le bon temps des copains »... Bordeaux, là où Zinédine Zidane est devenu « Zizou »",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQX3ZOUTZhZFQydktScEsyUVp6WXRoZkNNOGE0T0NPcnBvMVFITG9xS0djWEFaT0p3VEJ3WXRZY2wxc19qUWpvNFU1MGVSOFpoNDZfQzJ5RzFhZ1V5ci0wZmZxLVlKTjBNZDZLUEphMHRZa0hYY0FsQXQxaGlhWlFwWUt2cGw1TWZsVEd1YWFPY0dlRHZ4X2haS3BCWGhZTlpPSjgwMHZHU21HYVZwSzR6anRKMkZqZnBPTzZFU2FVSzYyMjlUdzM3Rkt2M1ozZHQ4NXpkMjlrcnY4S1ltMWstMlZZb1puYnZQZFk0Z0lHbmNhUF9Db1g1RmRzM1hOMVBxOG84bTlNSFhZc2tvY2NlcGJyYmhOT21wbzMyMFdCdVI1VWZpU2lwQ2hnVWxBdFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "L'Équipe",
-   "region": "FR",
-   "date": "2026-11-14T10:58:00+00:00",
+   "date": "2026-11-14T11:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -55,14 +123,31 @@
    "topic": "Society"
   },
   {
-   "id": "26571bb297",
-   "title": "À peine arrivé, l’ex-ministre de la Santé François Braun quitte la campagne de Teddy Riner",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVhQTWNMaVNoUGowUC1mdkR5anUwc3JyeGEtT0c1SjQ4NGFpdVJiaUpaS21ZX0FMLVI2YjdnRFRFbGRtN2xXLTllZWE3V0YweEFuNEwxb1dpdHVKM0g2cUJwRGJXdXNiaWJLS1lrdHk5TmNDVG82QVU4LTNQengyNGVkc2RjTFJSNmFDcDdTR3BQZUF1OUVGQk52bG5SSGhaZTh1SEZqMFNkV1M0LWhBbWdFMUpubXRMenZ0YnYybG1DMFp4cjlsaC1mem4?oc=5",
+   "id": "2d18856070",
+   "title": "Menacée de mort pour avoir refusé «la validation automatique du semestre» de ses étudiants, la présidente de l'université de Lorraine porte plainte",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQV0lJbkdhRTc3anlTUG5SWm1tdU1YX2VEYnQ5WF9SeDZDaHVkSVFQRFBfUnQ4REY4aUhmQlMxV2JIZ1Etc3dfaW90VTY2NlAzYzZjRzFaRC1wVjR0OHBlbjUtazF3TGN0alNsd2t4SGlUQXNIMlpGNkpxQmtJV0kyNHVORzRuOGF2SFg1NVlpM0lMU0gyak1MYWxVd0ZsT0k5TlYwTWprRVV0V2ZMOGgydEk1ZjVXbkxyem5nWlp2dXVaeXJXaEdmR3NpdGVMeXRyVjd4Vmhhc09vTHB4TFdQS3plQlVSUDFZSlRiYTJ5U0NJUTNvdHNLTjZhckZQVWRwVUZlSnNSM3dLV3l4bzhjV0RVZWpBOERsTXRvaTU2dw?oc=5",
    "summary": "",
    "image": "",
    "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-14T10:44:31+00:00",
+   "date": "2026-11-14T11:00:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a318e76ff9",
+   "title": "Le RC Lens crée la surprise en nommant Didier Digard au poste d’entraîneur",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjc0R3JDZXI4ZjQ0ZVh6SHl0TWUxREpsRUhsbWEtcVFMTFNxM01GMkxFRmpBaVVJcmthdDl1QTIzOXd0aEptZmR3SWVkZC1hRkNsLTliMEJ0OExZY1FKRjdERlF6VFVnX3BaekhyQ1NqTGFOU0pyY1lUWmxfT1hyQXM5dFJHUDNvQUtNUnFUaWZxVTRrM2xhaWdacmJUSjRsQ2k4b1J6WkFheVl4VzE3ZThYOXlDQjlmVGdfekk1MXllaGh5YmFYTmVfeVF6RFFYSEtNbEdsRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T10:49:17+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -106,6 +191,23 @@
    "topic": "Society"
   },
   {
+   "id": "7547a28bad",
+   "title": "Un vice-président de l’université de Versailles - Saint-Quentin-en-Yvelines agressé à l’arme blanche dans les locaux de l’établissement",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWDAyOXBNanVqeWJnYlB5eGdMYW9rYUhzcml6RzRkU2NlOVc3NkRWVS00Ylg3T1R2VVY1NEZDVllROEdPbm5na2V1N21uYlk4NFZBMnQtWU5Cc3ZaQVlyM3F0X3FGTHlxXzNNeTlMQXc1YlhQTnVDbzFiamtmeS1nTG1mUkRVSU9FTzkzMEU4ejNfSmN4emp5aE12WkRucGZMU1FfRGp1NnRZSUswNTBHX3Q2b2lVUFp3d1llaVNVR095Vk5GTVBWVWZaVXlvV3JPZ2Q1eG5SamxxVE1xVlI5M0dHNnRXMGJoVkFLTUFjcHhHVWpPcjN0TDREcHVSWlNZSTRybGdWVGwtMHhlWTIwaXRCbE1Hd2NQVkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T09:31:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b77db5fcf1",
    "title": "France-Afrique du Sud : la cartouche de Bielle-Biarrey, les ratés de Lucu, une mêlée secouée comme un prunier… Coups de cœur et coups de griffe",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPR2hzWUFSN3hMcEZaaUVWcFE5dFJIMkd2ZUkxY2t4dFoxbmVxMXoyMHVfVFFUeC1wM3l3ZmkwYy04ZFE5MDdQRGwxUWQ3T2xqbFhjbERHWmV2OGFfTy00QWQxR0hZX1hyYzVsRDFwVlNsSkpfQzR6YjhmS1F5dE9aRjJ1NU45ekV4THp1UlFWRzNDWng1djd2YXJpV3VCS0I3M1lZT082clRmMThub2dmUl9sLWUwQ1g1Qi0zaFFSLU9lSkVacm1uYmVYU0Z0ckZrV3lXMjF3dmdQTnVPZVVvSmY2Sk5NZGVleVFlQUN4WTFtYlFNZFRKUHN2TzlRRnd0cWdieGoxTlFzLVdTVzlBR3pBZTBINmZzc2FySFhFUTY5WFRQ?oc=5",
@@ -140,6 +242,40 @@
    "topic": "Society"
   },
   {
+   "id": "e6a15d2f59",
+   "title": "États-Unis : spectaculaire collision entre un bateau de croisière et un porte-conteneurs à La Nouvelle-Orléans, des passagers à l’eau",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWTN6TW5PZHg0QWhlRldMQnd1YXlZLU1MR3ZJU0Fuc2plOXE4STMzMk9zaEtxMU5sa1B4TjJrdWRVbi1VZzNpTHJ0OUNodUVWc25sMlFDODNNc0NwTGVMbUxYa3AzU0RGTHJUUTd2Y21Wcm0wX2Y2YnhKbnhTWDB0akJ0Y2xxZE82MERsU0xld09aZ3lwS0N1ZE1LMkhJcndkdHlPLUdqR1ItR1UwamtISlR1czB4R09ucThFakVfX19ONkRnVm5jdU55UkQxTUdFbTlubFVJZE5aQ1lXX1RTNHlXUlJQYlJ2TFVxc3UyZVI2Z1dDNkhxcHpfRjI5b0N5THdQWmNGLXhxbXZfSlU4d2lpQl8tVEdFbEdHNHdVeERKZjdfRmRTX09JQ3V0Z1hpNzVCeTdlRmY5N2ItSXhSeFE3dGI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Parisien",
+   "region": "FR",
+   "date": "2026-11-14T08:06:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ec5151907f",
+   "title": "Avant France-Turquie : « Zidane ? C’est la génération 98, la première étoile, le génie »",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXljenh0WjQ0WkZHekxTVXRyYnJrSmpTaFVZSmtfNzZXTUdyQy1uVHBxWlZPdFpuTDc5TGdSLUlocnY0Zm1ORmJFcUFWdEtPQ0lIa2pqbWRqN3l6eEVTdHNBZmRLYW9paWhiX3BmaVRhYWdOdEtMVDV3cTQ5NVNHVnZud2xpbHZtOG9RTDhYd2lXZUUtRElONkJyRFZZRWZlR1NBNFhvUVJSVVBNRThBTW9HbHpFd1huY3lYNHROUUdyM3N3MmEyS1NGX3o?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sud Ouest",
+   "region": "FR",
+   "date": "2026-11-14T07:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4783e4f75f",
    "title": "« Si on va trop loin, elle devient méchante »… L’adaptation de « Mortelle Adèle » en série animée expliquée par Mr Tan",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzFWcFBEejYwUFNFcUxQVm5FQVdpVzRHaHpsUGtwQTNTUkdRZ0JYSjRkU3BOMndrSTBhMDNQbHpnaXNsZWxMa0RVM2VQbHFXejE3NndocEhXeVJ0N1pDaEkwdkFqTHZNTUdrTTdMaTVGc0VWUzFZTnVYZVNCZEQ5RUprT2doYlpIM3FxS2FKTFBHaHduMENtM2J3dWZUZExzcV9haHlKSk9zSVZVR3pCcDd0dmdIR096SXhPbUUtRzA1VnZiU19aYXhOWS1za0gzODRxTU9Tb0xTYUVyS0lwWEM4Y19DUUE?oc=5",
@@ -148,6 +284,23 @@
    "source": "20 Minutes",
    "region": "FR",
    "date": "2026-11-14T07:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dad5bef8b2",
+   "title": "DIRECT. Manifestations : de premiers rassemblements en France, 70 000 policiers et gendarmes mobilisés",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPT3EzSEYyMlFHcXVfbl84S091ZldKUG9ScjRXMTVVSFFjUmRzS2pnQnBkTzZ4UndNVFlaOS03SU9XWHZrTjFZSUs0VjVvQ1Y4UUFnSDQwaXVvd2Y3U0pGTU9SckJCcmlQOWxvY3pUNjA1cnhyZjYyYWlhTElYZU5venpVNlRLM19hUWFOWEJWV3BIbkRwbnBWcEZwTlJDX28wRGlKc2M3MGxOUmpoc3BSV3IyZkJ6T3BlcFpqYjlTT1htWTlSSzE4WUpGWHAxRUR3NS1GVy14UlVWN0R5TU9WZm9DM2NETnpzV2NfQ3RWUkxBUnVydDhPTi1Vc3d4VnQxNTdEdE00VldxR3BkVGVfZS1RQnNfTmljTy1iSXVCSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ouest-France",
+   "region": "FR",
+   "date": "2026-11-14T06:47:48+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -191,23 +344,6 @@
    "topic": "Society"
   },
   {
-   "id": "e4d0772d30",
-   "title": "Gaz +27,1 %, fioul +69,9 %, électricité +2,7 % : ce que chaque énergie de chauffage a pris en un an selon l'Insee",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlVxa2UzZDdmbHdyb3JVWnpBU3lrVnRhNmpGU1JFRlZfb190UFplcVdEc3dUOC15eHBIY3VpcTZ4Yktyd00wRFFzTHBVUG92dFBXSnBOMTU1d2xSbjBOdVhaNVFrZmlYYXptbnAwSHA2OHVKLWxJTHRiUjZja2hRd2FlelJ3MDhMWHQ4a2p6cTBZU3c1U280bWhQcWozUFBzQzhLVG45dGRaLUpSSXAwQnRuTnh6QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "JeChange",
-   "region": "FR",
-   "date": "2026-11-14T06:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "64efeecc56",
    "title": "TÉMOIGNAGE. \"Je ne voulais ni opération ni médicament\" : face à l'arrivée du Wegovy, cette Gersoise raconte comment elle a perdu 30 kilos",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTkJNdXJsd0hSVlVHN1lkM0xUV0Mxc3g2TnplcVJfcTgxWDVsU2xuczM3MXJYa1Y2YjY5Q1RhbF9QMkdLZ2ZpOWFaNnVZb2h3dVRtY1pZOGpGeG5tSFZwS0lBT2xiUUpmWk9xdVowekxzaHJwaEYtTzBiMlFxT1lfUnZNcWVuVzdQdTZDS1BFeUx1cG92dUYzaDdGMGM1dE5zM25IVG1rbVJRSmlfWmFNdGpVUlMwRTVwb0g3ZEdYOElyN2k2ZVFaRDZ5cldoTGlkeU5GY29MenA1LUp4VEZoQlIwc2dlSGtEMEltcFJnVlNvQ0hlczhwNlZWdlZZZHVfeHZVX0Z1TUpXSEE?oc=5",
@@ -225,31 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "c1eac944a4",
-   "title": "Manifestation du 14 novembre : Montpellier, Nîmes, Carcassonne… À quoi s’attendre en Occitanie ce samedi",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQemdwVHRZdmVPdWtNZ0t1V2hHUG5STVZveG9makhfTW5Qc2Z1QlFReXdraXZnMnVYazhYTmNMUUdKUWRldEFjMnBtZlVicG5SV3hjOTM4ZkZvTnR3SzE4WFBIM2hKZkhCcFY0NU9namVialZxdEo3Vk1ZbHJwX1Bmd0IzdkhNSTEzT1ZWODRYSlI5elRPckNLMVl5djdraFBCUmRFVHNzall4M1dUaEV2SkNLNlMyRDdPM1JnanV2Ykc1RzgybkNFNjE5cEVrekpSSEhQdG1xYWZSOVAxa05GVA?oc=5",
+   "id": "064ecc57f1",
+   "title": "Le pape Léon XIV critique une science réservée aux \"millionnaires en quête d'immortalité\"",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTDczWEh3T2hXbm9NWUNSSGVtbkNpWDZhemViM1hUYmlfTklfWlE4MENfOGlLM2luaEU1SVZWQ0pjLVlIc0pmMF9MYy02TWdKUzd2elZNUlJ2b0JvOWRzb0ExOTN6d3ZkVlFTOTJkQnd5QnVMTThVYUg4UEgxeUE0NEVENVRlOWpxeXR0Wi1ObzFnWlN1Z0JUREthWDRlRTdYcEUwTWxmWlZOSEpRakF6NUViVnlaUzZUT0lyR090cUlPenVIcEctQldKZ3BGSmJocThGSkZSdWRuN0Z6cUcxME1R?oc=5",
    "summary": "",
    "image": "",
-   "source": "Midi Libre",
+   "source": "BFM",
    "region": "FR",
-   "date": "2026-11-14T06:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ee4e4abf55",
-   "title": "NOTRE DOSSIER. RD888 à 2x2 voies entre Rodez et l'A75 : depuis le contournement, Baraqueville respire à nouveau",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQUhOWnRJYzI4N1dJNVMtdVY1T2YyRThlS3pFcTFjdHFDRE5vSnAyNGFac3otWExia3ZPMXg2QlQtTFRLS1g2d2Q1QV9kaHhKcHhrTkNNcWZWSm9KaWRkdXBxNXBDWTBMb016R2NGMXpNc1hyUWNjaW5HMGl6TlBlWTdVdDFwUmhpZGxtOVRwNUwwSVNjLXFXbklHZXgxVE9NT2ZpR1JjODdzaGlyTzhFQldvTGJRUktPeVlPRXNJekU3dE1rVDNiM2VKSlZ3akRuNThJbGFiMXJfY2NjVjNrc2JkbkF0bzFhY2psNW5QSUpzX09qT3FWNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Centre Presse Aveyron",
-   "region": "FR",
-   "date": "2026-11-14T06:01:00+00:00",
+   "date": "2026-11-14T05:32:44+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -276,23 +395,6 @@
    "topic": "Society"
   },
   {
-   "id": "0f7fafc223",
-   "title": "Suspension des vols aux Etats-Unis : une panne géante que l’administration Trump cherche déjà à politiser",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSF9DZnNQSmUwZnpkVVNHa1UzOVJFcC1zVGRBY3VzaEJ4Vnd5UG9xRTNaemJYRlRmMjhsbWRidkhTOWgxRVZUOEk3YURSOEI2eXBLLUVzZGg5MEM4Mlhla1lGNEJWam4zUC1pRDE4cXBWUjBjMkEtZ2otcUFYZWg2YWFZUHlfeE9qcU1KVXVHWWpWZXRuUEpYMlNYanFzdXhrQnJTNE1NcFpoUzZlcVpYRXBCYjhtX2dQQmlyb1BnWkQ5dTZwVU13b0JvcnJmZzVUbDB1SXpWY1NZS1JGXzUwRVhHa1hybFpxb0oxMVF6YzhJNVhYRWExQlBtODlRR1dyMU9yaE1la096SEdsN1AzT1dzaWVrYXpnMGswNFI3N3ppb0tz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-14T05:00:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2f29621936",
    "title": "Les défis d'une Francophonie fragilisée par la crise du multilatéralisme et les tensions internes",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMXBCa3JRMmtENjNmMzlxNHFlYk9MTHRPbkU1aThVUEk1LXMyR1FMSDd3QUpGMWZiZks0aU1UT0RuYkQ4LXNDeHM2ZnRKRTFmendWMS1ISjVMNVQwRUFINmNtajhjN1ZVcHd1ZzMtWFkwWHl6UU0wZFQwQlp5emRjMktYRm1meG9rYVBOWGIwcFRyeVdaQ0NHeHJzTEgyWFVMbU0za2JMb2FPTjRPOVNzN0U5ZGx5V01GaXZJby00cUwwS2FHMmcwVXNWV3lZN1ZfUkszUFF0SzhIUlBDOVQ0bXJOOTFza29QWHBVNmZwYw?oc=5",
@@ -301,6 +403,23 @@
    "source": "RFI",
    "region": "FR",
    "date": "2026-11-14T04:57:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8f6d1ed830",
+   "title": "Des vols toujours annulés aux États-Unis malgré la réouverture de l'espace aérien",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlJtUW1UXzc3U19LX0F4aVRSZ0JMMlJIbGE5NFFScmpzTmtWcTFON0NVNE1oeE5hUjQyNEhfOFVmbTRDYnZoWEN1YkNveG4wZk9WWHpVSU55TmU0V2F2VE1zbjEtTUNidFhBdGJBWmswT2NXYnE0ZlFObWoxeDB6SmNKR3pEbEE1NjBfQ0xIM1lmN0tWWVluS0hZMnhhME9QTW9jNHUzRWxRQTlGM1pRYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "France 24",
+   "region": "FR",
+   "date": "2026-11-14T02:42:17+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -327,99 +446,14 @@
    "topic": "Society"
   },
   {
-   "id": "bdca4eb26b",
-   "title": "Un vice-président d’université « violemment agressé à l’arme blanche dans son propre bureau » en Île-de-France",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOGVkcUljNFlQak4zQ3Y1VWhabThOanN4aHFfaGpKeHNYUnlwaHdvSk9naTJIekljbVo0dVFIbTJVcEdfZnEyRTlyMVdvQ01QdjB3aW1oZXJURjNhSklrVVdfWC1hWDdpQS1XczRDeC0zZHdkbUk5VThSRGNhOTVUamczX1ZPYVFMdjMwM3NTSy03clJ2OWVnUjhQRUluZENfWElJc3h5NjdKVjludnFzNVl5cTBmVGJhbC1jTml3NGUxZENZTjBqeE84VDROU041Y001YkNFSFhkeldGR3FjS2J2WHZ4aExJY2JZWmlXTzYxVzBSc1RSYkFVUVl2WmVuWmhmelZVX2xtNkVmTmhjVDQ5Yw?oc=5",
+   "id": "ae04ac52ea",
+   "title": "Présidentielle: l'ex-ministre François Braun se met en retrait de la campagne de Teddy Riner \"en attendant que les choses se précisent\"",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkNRTEFZVzdjV2lEYTV0ckpSY0F3LXRPbDVCTExoRUlESHpQVEo2Mm5melh6SFRJdmtIcy1VUGdsVENMcDBJbVMwSm5ibHo4WVNXWS1KaGZ3NDdOa1hCclpFUmg5OU1LamlyRzFWd1hRQUVYQm9EWjBoanYyS2JJdTVKN196VGF1SFIwUjU4TmpyaVg0TVcyYQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Parisien",
+   "source": "Yahoo Actualités",
    "region": "FR",
-   "date": "2026-11-13T23:04:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "504c436202",
-   "title": "À Chiclayo Léon XIV dessine le style d’une Église plus synodale",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWdNalRmcGdmaXB5N1F3NjlabFlOUU1NRTRwT04wVmVEeVE1aTNxX05XS3AzRngtR01FTXF2MXlKalB2YTh0M280UzVqZXVhcWI3U1hid09razE4eXROQlZRSUxjb21PLUZfVlQwWGU2aXA2VUtuRFA3R2MyWDU2YWR2OENUbEZTbGhqcFNacjFCbmtSQVl4Y0JrX0pvQi04SjU4TnU4b2g2dVpxam1KM1pmZlc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vatican News",
-   "region": "FR",
-   "date": "2026-11-13T22:38:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "82b0aa9f73",
-   "title": "Fermeture de l’A13 : travaux lourds, itinéraires de déviation, colère des riverains… Voici ce qu’il faut savoir",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkkzcGcyZ1o4cHdnU1owemNWeUthd3VWY2xWMWNOOXdkTF9CSDhxS0J4cUVLcmV2WXh6RmRCRW5wQnpuVFQxZU9ieXNNZHFDYnRZM3BOUGZiVzVxVmdNOGtzNnZlMGE5cmNfR1JWQndVNEUwVlk1RV9jMWhCbnRsTjcwdEtFRjZPOUNPYXVMVEJueG5JX0FpQzdZWWRIVmF6a1ZqRThaYklvTTN3SzVoaWEwSVc1VklQ0gG-AUFVX3lxTE8tTGhXeTExWHBfdjRnNUJPeTNLZU05TFBZNmY5QzFKQUFxNnplUEo4VU9Bc0tEMUhZM2RzWGVrWmtyQTVLR0dkTVFnZVVHUC01RWZHdUk0cGVhejBQSDFGWDkyOEJrbzJSemNhY2Y4TzdNMnNubUtsVkJYQ2tKQzdhd2hsdkswNU9pOVNEZHk1bnlsd0Y5MjlYREN4dmdpcGx3T0lVZVhVQ2F5VGV4cmlBM3ZjLUhZQkhnTzBEYVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNews",
-   "region": "FR",
-   "date": "2026-11-13T22:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6bfccef43c",
-   "title": "Ligue 1. Pierre Sage était cité pour remplacer Yannick Cahuzac, le RC Lens nomme finalement Didier Digard entraîneur",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOcXZiQTViSVBKVUViYVN2STF1RGZtd2ZnYWYtSDU5cExqWGNCSWhEZVVmaHFsbkJSY0JJUU03N3VRaVBMTzBjajhKbkhDcHZnOC12NFk0MjRtT2loMnpOYmRFYjFZaE96YjZQVW5rcXhobjlzaHNmR0UxNldzNkdzSFRjYWFDTU5Pd0RBQk9QaU5TQmpET3RnaG05V0tucklTNW9SYm83Qzl0SmZwYklLMFowckIwWGdlUUU0U3B5OHhtbE5mb2hCZEdtYnB2VXJmTE9WSEFnQi1FU0xmLUwxcEUtTDVKdXpqVllwMklGTl9IQlROWHY0OTRPRGpRUHVVVS1kcU9qNEhnd3QzM0I5UUZDUl8zSllORWswUnVuRWJJZFhfaVM3OE1n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Ouest-France",
-   "region": "FR",
-   "date": "2026-11-13T21:56:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "18a4c687ef",
-   "title": "Wall Street rechute, les doutes sur l'IA et la remontée des taux pèsent sur le Nasdaq",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdHYwWmZPZ19WS0QxMlZpUXJOV0tGSDl5enVfSTVuWHllckgyNnpRVW5vLWtrTndiQThyd203NFJQLTUtRmZSZ1pCSWNYbWV0MDBOc2hBQjlnYXVHVmlQSVFHbjhBZmtqbjR6Yk9CdzREYzU1ZjdMOEJobFR5TGo1LUpVNGFRYm50eE5WYUsxdklXQ0VBRHNjVFQ1cHVMWEtIUFUzdEVtQUVvdHM5NWlicjdCeGxVYnNwMHQxOXlaZU9LWjA0b1p6cGZ3Y2lJaTQyVEJVODZaSHpjSzV4b1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Zonebourse",
-   "region": "FR",
-   "date": "2026-11-13T21:08:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b4aa64b049",
-   "title": "La Madrague de Brigitte Bardot à Saint-Tropez ouvrira au public à partir de l’été prochain",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQczFNS25fN0VraDcxNlpjUEZLRTdCd1hvUmo3LTVrREpuVF9YbFIxSnNQdmtmNVpNZ002ZmdhVnNDcWNBYTY2TU54ME5nZ285ZXhQc3oza3JvS05ZdDcxV2c3WUlNeUlpVlU0VGlsVENsbWN4VmdNUDBHOUREeFJ5a2hTams0QjZmNWYwTUl5UFdhU2QycmZYVWJzYTJuZG1hWW5LSlBXMkhqRWxGY3IwQk1GT3doTW1fNW1pcHhvbllFVFl4MU5KOTh4blVNOEVuamFmRjhhbDdUUWRoYWVCbHBDNllCZjJWdGdfQUxFVVBkdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Libération",
-   "region": "FR",
-   "date": "2026-11-13T21:00:25+00:00",
+   "date": "2026-11-13T23:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -446,23 +480,6 @@
    "topic": "Society"
   },
   {
-   "id": "1f895a8fa7",
-   "title": "Bureaux désertés, interdiction de séjour, et soupçons d'espionnage: comment Alice Huang, au cœur de l'affaire Nvidia, a construit une toile complexe de sociétés avant de disparaître",
-   "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNTEdJMEl2Y0xRWGphUk44UXVnMmxWZHJSRWQtdnItNUZoVGR5X3RuXzRNYjl1YV8xTldyTGY4dnRiU01YV2Z3WWFqT29UQ2lROXoyNk1xZ20yTVZBb3Z2NzNjX2VhRDcyRFFHaDg5bmpycUFpWXQ4N250RUxfOEdXN3RmUEZOWC05RVQ5SDZfMFJ1N0RFY0lpdGpSWkFjR1ptdHRQc2huRF9aelRQNlVsTXFWTEZlUy1ZMjdCMkJ2NnlzZFh3N2tpQzBTU2lTc21DanNJVTV4UncwbDRIY09GZV9XT1NxLWM1bVJoY2FHTXpEMVVZT2FVUmdwdm5YcU94cmZDc3J5SVd0cmtGUzlSYzFVVmFGV2dMd09Zc2ptU3FxRDhFZUI4Nk1GZE5JUWlRTkw4RVNQeVJ0LVdPWmtnVnd6RXBjTXE5RlVKYVlhUEhPX2EwTXBzOU9PeF9CdmtTaTQ2SHo5eFA0VjZMSlhGNGVB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BFM",
-   "region": "FR",
-   "date": "2026-11-13T17:44:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "7800519601",
    "title": "Une sonde spatiale va réaliser un exploit historique mardi",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaExyZ0U4WTNhV1RkdTA5ajRtVUlxa0JScFdrU25VRUpvU3dENHg5NDl6REJmUDdZS0lWbjVSRExTb0RhRDlnYl83dm4wSzRkaHA1N0ZKZW9iekhEWC1ldGdDWTlGS2dHUkpxakF0OVF1SGljV0EtY1lWTGVia3BPR1FQRkIyMWFHdE8xdlpnQUJ3QkRYNzh0ZkJuR1BlWF85Z2JCNENrNEFURzlTY2JPREpWbEcxN0pjRi1oYW1NS2U5X0NHWV9nWlZELVU1Z1lac1MxR0hRTGx3ZEhIWk1xYXN3eXVpZkE?oc=5",
@@ -480,21 +497,55 @@
    "topic": "Society"
   },
   {
-   "id": "5945f7d93f",
-   "title": "Une flottille de la Marine nationale renommée en hommage à l’officier Jean Moncorgé, le vrai nom de Jean Gabin",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSGVjd1ZZUTBFS2JxaXNpbXJQOE9LSnJqbXBlSGVFRFpzdHlTYkk0R2Y1Q1hTT0tHeGczZWdvZ2h6Q2ZUTHAzb1BQbkFHMUN2Vm1EQk9vOUpuTUtwdEV6azJiTFVUbWhNWkZ5cXl3Vk5vR2Vxa0Q0SnYtZC1uUmZiNXRiakJvQ0ZHZmg0a3lfdE5pbGUwNWh2aHZvY055TWZ0ejhLYXBrOTdJcGVTY0g4eEFITnhtT2VoNmtRLUpQVkNQZmxBTXg2S3NydVZwYjVhb3ZUTHlKR3g1aWZDR1dLQ2N2Zw?oc=5",
+   "id": "4d306c44f3",
+   "title": "Tandis que Nvidia traverse une zone de turbulences, Anthropic affole les compteurs avant son entrée en Bourse (qui devrait arriver dans quelques jours)",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPMlVVcGFheGd6U0dEczY0dDgwQlhkZHVxYTBvd3ZBS0Jscy16MjlOOXZ3cjJyMm5tQ0UydjVFQkZIaEI5NHZKUk9KX2lNRXpmcFM5X25VUzdhNlUyTlJsOEQ2WnNfbU9xMWZTbTRiQl9Rck5xUHY5NXVrSTJ2cFBPZDB4Ny1NdC1jSk8yT2lOdWpMb01rLWRfbU1qYzlZUWJmMW1fMGh2cXhhUUVza1ZtbkpMdHlUa3Z2OG1kRDZLazJjZGpWcHRLemNIaW93NHFQNTExN0lJOFIyZlBoeVdCOHhhOXR1cThVSFNDVTNDM1FDNGg4eEhUemFfYW1OVXQ3UkhWZENNQm1RYklhTWswanVreHF2MUhCdnlKeXg1RGdVRVJoYmhPRXFhajBINXRDVUg4OEp1NzI1VmZ6RkltaWZqMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "BFM Bourse",
    "region": "FR",
-   "date": "2026-11-13T11:55:26+00:00",
+   "date": "2026-11-13T15:20:07+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Society"
+   "topic": "Tech"
+  },
+  {
+   "id": "897cd9a3d1",
+   "title": "RECIT. Des premières révélations à la chute du PDG de Nvidia, comment une affaire d'adultère provoque un séisme dans le secteur de l'IA",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcGpOY1dldG9vaTFhT2VRaHJsNHdjLU5zeUdwMlhRbTBMQzU2QjRCV202M1ZFUmFrd054RDBWRjEzc0szdDVpR2VBZDhjbzFmZGNWUlQzNmdLeUJjRldJNWtHQzhJcjNjZjVwaFh1My1hTi1xSk9uNkJ2aFd2MFpfSHN2STRHZXdqbHlZWkZRWndLaUxqcW5SRlRjdmVzQ3NFVWM3ZEF4cEFnSFJFTnpQQ21zU3RpcWZ3d0NESzNBbktqNHgydWZUMVcwaHJNZDBfMjZ4ZDktdWFwWUVrV01YUFBaSzl0SkI3QzBPMGdQbFM1R0tCR2tPRWtPMDhZLXpzeXQ5NzZnaWtraGtSMU5vWVl5MEc3UW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "franceinfo",
+   "region": "FR",
+   "date": "2026-11-13T14:57:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "e96fa4345f",
+   "title": "Navigo arrive enfin dans Google Wallet, avec une vraie limite à connaître",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORE40MW44UzJRb1BpOW14NVNkWEZWUGNrWC1velZOLXg4Q1c0Mm1RT0lHYmxNUXpIVVBLMGJ5aW42LTdSOE9iaWJESGNiN01nU3U5bFZYbGtOb1g3bVlleVZLMTMtRTVqLXJwRU9sYTNtRWE5ejR4Sms4aU5xVi1Wb3g1MlBSRkM4MWhTbGNwV0w1MTJkSkVjOWo0TE1rNV82QXJGVjVPZzFkMDBaVnlCU2Zja1o?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Frandroid",
+   "region": "FR",
+   "date": "2026-11-13T09:24:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Tech"
   },
   {
    "id": "5dfebf6970",
@@ -512,40 +563,6 @@
     "flag": "🇫🇷"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "85fcebf3ab",
-   "title": "Le Pass Navigo arrive enfin sur Google Wallet, avec la nouveauté que tout le monde attendait",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTk9ROHZxUE95djA4bnV6TXkxeUhsNk0tN0tVMDJYbUdZUUJlS3RwWU9mMHRGMXNKTml1bVIxSXBCOS1RVm9wRWJwLVBpRWdnY0pxdXFwMndPXzdRTE5NSGhPMTJRYUctVkNPbEpEQ0RLQVdXRnZhMmMwWkNNZm1NS1NGd3U4blBjNk1aSm80eE8xOGxOb0toU2ZkMTRLV3VsRFA0SzlZaTNwRFlWOUZNVXk1Zmd6RC1NWTBRZE5yaG1zUk5fMTNjREtMV2diQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Journal du Geek",
-   "region": "FR",
-   "date": "2026-11-13T09:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "25d4925e2a",
-   "title": "Italie-France: \"premier couac\", \"gros pétrin sans Mbappé\"… La presse sonne l’alarme après la défaite des Bleus de Zidane",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMm9VTnV2UGt4bl83WnZYQm5NY1NzNnBIUFFETHprLTlBSnc2QlRicllLdkU0T2tuQl9lcm1FeDYwQVgzdDNpRW5LNE5vTWJOUkdBeDc1RHlCUTlsb0prd05McXl5VHdmeGozZ3EyendXdmE2MXdUbGVNNTZKWVFGcGtSck9WQmlINTUzcWkxeFZDRnk3WTh4MzZncWNuTm9JbHVJVWtlTTY0ZnZWbWlBTms0cTViTGJ4V0RoTVVwNmk4Wmg5SnVFSGpuS2tDNFF0WDM4WFVuSVZIOEd6VDhUVHlaT3oteC1MRXQ1MHBfYWR3UTB2dlNIQzBIUTVvU2FITGdzZTN3WS0xSkpRSlBXZ3VMMVRJams?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RMC Sport",
-   "region": "FR",
-   "date": "2026-11-13T08:48:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "ba26bb852f",

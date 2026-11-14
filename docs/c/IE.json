@@ -1,8 +1,79 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
+  {
+   "id": "e219516b44",
+   "title": "US proposed Donbas swap for NATO membership - Zelensky",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1URWFPT01PZkpDTG1OUTdnSU5PNFAyRER2bnRNRmxwaTNXb1VMZnVaWkpkVkhIVXRtR2ZKUVBFN254NlRVZE5aOEloVF9uQWJzMzdzcmYyZy1ad084NDc5U2Rka0FiaWhaS0FvSy1LT3dLVVFod3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T13:16:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "67613a1181",
+   "title": "Rory McIlroy wobbles as Tyrrell Hatton takes lead at DP World Tour Championship",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmNTMjlFYy1LMDBLSmlNdnV5czh2aUR0a2RwLUxjNmlGN1o5ZHljMWNpTURYaU5mTFNPcDg1NnVxQjJadUlsTWpETFdmVkJldlh4RTB6WkJFTGJjcVFabXJQWWh2eVBGN0JjY0Fqdm1wUy1NSGllQ2c3MW51LUNuOEVXa1BsWTRjOG5aSDdta3phWEJ2V1VHT0JqNnd4X2UxSmoweVhESzBmZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T12:57:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9bde4eb029",
+   "title": "Post-mortem due on body of man found in Phoenix Park",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82S1lId2pyeTZFWU9YZlJDOVdHNEdqRVc5YUEtQUowVDVXTnRUNnQ1VS1wQ2hJOGEyamNVdWVwYWJjeGphcGJRNFFOY2ZqNTNZZzVwVms5eVJVN1REVFZvNkpJMnBtZ1JrdHJVWUhqd1RsVmIwSGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T12:47:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "78235ee9cd",
+   "title": "Record homeless level revealed as EU red carpet rolled up",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42cU91WldsT01BaXZGbkxVVXZYbzcwLVpYWXMwXzdILVZsakVFbjRxTjJPRURsWWt6NGM3eHFQanBTVkw5S3lKUGF3MkhCdklMTzBFbzlJV1paUnpWdnRmSTJ4c2NJeWQ2VEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T11:57:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "2a2ec93a28",
    "title": "Behind the music - SWELTR",
@@ -11,7 +82,7 @@
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-14T11:26:15+00:00",
+   "date": "2026-11-14T11:48:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -19,6 +90,57 @@
     "flag": "🇮🇪"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "7aba801e65",
+   "title": "Here’s what happened when... I tried really resting",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0F6Q041bDBQOEJsSFU0ZEhOelNTYjQ2OEpvY3BFOVJFcGo5WlgzZW93UmloUUloT1laY19zUTR2aVBraS16SDR6a2dvU1U5d0VJanBxMnhFUW9YS3dIOE1QOWVNWWxTaW15QXpGVktna29iOE9SeEhpT2Y5dGc1Q0pMQzBVY3F5WGtNX1paSEFjZ29TUEg3NU5iRExYZDdJZkN1aUxmQ0JKOGcteEtRUUpoQkZnRDUzajBRMWZn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Independent",
+   "region": "IE",
+   "date": "2026-11-14T11:32:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d032cffc9e",
+   "title": "'Realistic replica gun' leads to early morning arrest on Cork coach",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzgtMzFXQlJBYlZxemJjYkZ0d1lNbVc4enEwMEVoSS1rSnNuaG8wTDlncnFjT3BRX3FaaVlqZmZCeTl5LW8xdVRkRlZfbWVyTENCRFZwZFl6eXhHSFJhSGFmckIxazdtbm1oSkpqMXpMcHNPSXNWQUZXN2xEUlR4eDZtTlg4VU9M0gGOAUFVX3lxTFBVTHBncGJ0V2ZYLV9KeDU2VHJhenk5SENnNXpFMDBKTVZKeUtGTnJ4bVpBcVBCSjlmTjR3T2UyZ0dPYkg3OWpEdkZqeWpmODlOaDh5UjdxMHhFLWtRM0ZtMUZlMkdmVmhKajRxOHppYlZMWTRKX2NwWjdyd3ZXbXphbElHMkhOc0E2RGs3LUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Cork Beo",
+   "region": "IE",
+   "date": "2026-11-14T11:08:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "096475b5f3",
+   "title": "I had brain fog & pain so bad I couldn’t walk with my kids - op revealed why",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPel9FZlhlYWdUN3V2OU1tclZiUFRnTkZMZkxvMjJ3V1ctRVhKR191VWdwbEp5TlBXY1p3b3RuWllOQjBucnNJeFRRREZKbnZkcDFtck03YmJYcUdwbVZHcHU0VllNejNfR2VYU011ak5oWF9ZdFRsTEZFZW9VWld2cl9EaUN0T2M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Sun",
+   "region": "IE",
+   "date": "2026-11-14T11:01:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
   },
   {
    "id": "4d6e54a240",
@@ -89,31 +211,14 @@
    "topic": "Society"
   },
   {
-   "id": "7a64356277",
-   "title": "A brace of €1m sales in an Irish art market enjoying a period of rude good health",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DOGotSzlOV0FPU0tjQVJUSEkxWDVJOUtQLS1kVmJwY1Z3ZHYwSUJFS3hLdlJWZW9fYnNiUGlId0VKVGVVYlRpR3Z3NDliYUx1Q0lIRkx4a1JxeEgzUnFERXpGUklJbjdlQXZyOEY3Y1RWZw?oc=5",
+   "id": "4d7cea449a",
+   "title": "Important collections propelling international art sales to new heights",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RazNwd1lZajB1M1pMZFZET01PYTFqUEtBbzZGVjl0QnpKNlhHZElUajBPdlp5a3dDYUZYX2RPeFVxejR0c19SeDZsYzNQTW5zakhFa2NNTVBpbEU1dVpCbmx0WU5JUHBnTXUySzgxQjYtZw?oc=5",
    "summary": "",
    "image": "",
    "source": "Irish Examiner",
    "region": "IE",
-   "date": "2026-11-14T08:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "7aba801e65",
-   "title": "Here’s what happened when... I tried really resting",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0F6Q041bDBQOEJsSFU0ZEhOelNTYjQ2OEpvY3BFOVJFcGo5WlgzZW93UmloUUloT1laY19zUTR2aVBraS16SDR6a2dvU1U5d0VJanBxMnhFUW9YS3dIOE1QOWVNWWxTaW15QXpGVktna29iOE9SeEhpT2Y5dGc1Q0pMQzBVY3F5WGtNX1paSEFjZ29TUEg3NU5iRExYZDdJZkN1aUxmQ0JKOGcteEtRUUpoQkZnRDUzajBRMWZn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-14T08:32:53+00:00",
+   "date": "2026-11-14T09:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -140,43 +245,6 @@
    "topic": "Society"
   },
   {
-   "id": "373fc64279",
-   "title": "'It just sucked the life out of me' - Ryan Baird mastering his craft after 'soul-sapping' injuries",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGhNMGlZOFlIcEN6ZGotSGQ5eGtCdHdDZDg4X0tQRHh3MXRSRmx4XzQ3WTdrdW13MmxTNEstZS1ZT3lsRTd0N19zLTlrRDB6Rmd4enJoU2E2RlFfejVpeHVlZFRZeUtqUWt4bHFWeFlwX2ZBSVlaQTlqbHdULVh1Z2dYeDYyaEJQcGQ2Uzg5SFlLYV9EZFhmaTRocTRoSEJpOXFpZUFn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-14T08:07:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fb444f8a5f",
-   "title": "Dublin Airport warns of delays and cancellations after major US aviation outage",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVBTcU44akZld3JleDhrWUVXb2lRU1g5V0l0bG02WktUckJkWEhlOFNHWlVQeHVQSDNUS2c4eGtYOFJ4ekxsRVlMNjFvdThobHk1dkhkQjF6UnE3bl9ESUZVLWNTbmJpQ2I5dk10dGZBUUNmakRJbWMtUEdqdjh4X2tCSThYVExKRFJ5YXZUbk9GbERVdmhtNFVpR0xQWnQ3NmZkTFRwbHpfdlk3WTFRX3RJUm0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BreakingNews.ie",
-   "region": "IE",
-   "date": "2026-11-14T08:03:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "35784d4670",
    "title": "Preview: Ireland look to heed error message in Austria",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3ZybUxhQ1dZN3RMa2NYUTEweVN0d25UVnNSZjNiX1lJMzY0U0hiMW00dklVaTlveVhicDFzVFZuNHNBaHZHUGRnMzVOTVpzRnZlVWFYeVhkd0JVMlpoUEZ0TTREMjBQeF9KV1RZRldYS2VtVkhjd0hla1RWNE1xSmtSZmgtSDhpSFFIMUVxc3Q1Qm9WS3B5a25KWEY5S0hFSW1wamNoYw?oc=5",
@@ -195,23 +263,6 @@
     ]
    },
    "topic": "Society"
-  },
-  {
-   "id": "c1dae472cf",
-   "title": "Person to Person: 'I grew up with a lot of music..we all played piano and I’d always get the worst in exams'",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YMGZ6bkRaX3ZIT2pEY2MyeXNYOGdMVHctdFF3ZGl4dDRpdXBLLXUxckNMbzZORlc1RlpsdHZYMmlZZ2RyTmQwVWFfdmpwU0VVcjNHazJ1azlDWlhqQVB0Q0V3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "echo live",
-   "region": "IE",
-   "date": "2026-11-14T07:41:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "f7fa63aa19",
@@ -282,6 +333,23 @@
    "topic": "Society"
   },
   {
+   "id": "a6f690fca0",
+   "title": "Public service pay deal: What it means for someone on €30,000 or €60,000",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTEJNNHVnS0g0Z2U0NGQwX2VIaGdpTjFQTkdTTE9uc0ZPSVc5c2hxV1FoTjNvQUhVeGx6Y1BwREFtX0YtNUQ2REhyMzhNNWF3dnhUQ3U1UGtuWWRJa0pkUGdIaTU0dGJBa3d0b2lWdlpGeVZ3Njd0b1lBTkhPR3dIOWd6eWUxS1Uyc2I2Qkw4bDZfc21KYXFrWWJFM0lSYlFDbWZRVWpSd1kwRnFyTXV1MFduRDN1VC1pRjZLQkpkclQxQ3l1QTJ3aENmWDBQbERrMWlr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-14T06:03:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f1542bcf9e",
    "title": "I’m rebelling against the culture of replacing things that aren’t broken by using my old iPod",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDRCeTdfdXQyLTk2TkRQWW91MWFVZU9xTTJsTl9zQWh6SERWaEhuWDJjUThaMVNhXzRaUldDQmhBNERKSGFDWXRGaEtVUGdrSTdvM3dTbzcteHhxbGY2UzFWME5TUGo1dmJrZmFjVGxGNGg4TS0wUURtZEd1dFd1bnAyM0tlYllhZTlNZVhxejFFaER1UTNHZllBNnYtUTF4YU5YMEFrN1RtTXpMbzNfWVZjMy1oUmVkUmtLb0RTWldXazY5UDBISkJrS09HMVVrMFdpTkk0cHNuRXdNbkFJZTR3?oc=5",
@@ -333,23 +401,6 @@
    "topic": "Society"
   },
   {
-   "id": "4caf5febfd",
-   "title": "‘I had to drop out’: Student tells of mental health toll of Portobello PE course dispute",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rQkNqVXMyeEpvNUI2dGhrelB4S0hQZ3E4Mmx3elp5aE9WMEtWd1hkaWR2ZEc1Y0s2VWgxRGpNRF92ZGJDNGg1ZGZMNW93dVpSc1E1OE05TTNIeTAyZVZxcUhjR0pfQVFOcE1tNlYxeHA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Examiner",
-   "region": "IE",
-   "date": "2026-11-14T06:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "ae3dd76afb",
    "title": "Sky sues household dodgy-box users in first case of its kind",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVdsUmItd2tHd1R0WDNPTHNlb2tCVFJrenZUOThNdU5aTWNMR1B5bWlUNDB6T1N2eFRtOG9EQTRpdXllalFUNzZIakZNZ2l4dlFwSW02dGJENlRUZWpEX0Rrb0tveVNDTWI1UGRSMC1aZndyTjFJNmF2TFlVWFduTzBab1dQd3E2TEs3cGF4ZEx0WVF1SGFaQVYzMGRvQlhFX0U4aGZlaS1UcTc4QWhFRG0xTQ?oc=5",
@@ -382,6 +433,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "dd3e6dd15d",
+   "title": "Tanker hits river cruise boat on Mississippi River, 32 in hospital",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54ekNMdDNpOHI0SllhVHV6VlI2VHZaMjVrWnJydC1UZDRqR011UTRaZmZzejlORTJHTUo5QldPMVVFT1M5aVBQTHkwemdEdG5DM05wVjFDZlYtLU9ONFpaOUpkVGxlVk0yemY0Q21uYjZSQzJMMXhDaQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Journal",
+   "region": "IE",
+   "date": "2026-11-13T22:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Health"
   },
   {
    "id": "226e8aed63",
@@ -418,23 +486,6 @@
    "topic": "Society"
   },
   {
-   "id": "1a4be67210",
-   "title": "Homelessness: Record 18,065 people in emergency accommodation in September",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVA2TTd4RUk1SmtVQXNOdTFRNFo3MWROaG9obzRMOElwajU0Y1JlUURHRmVBdU5vVmtnaFFCaXhIZHAwcHNZYl9ZLWR3cmw5Z0t2Y3UtUElCOGZCbzZQWFFrSDN1cVlndi1QV214eDF2Zl9GY2d2T1JJUjNuM3lBWS1zRkNxcWQ4XzFNNUhTT2xxRXJxZC1WRDgxSF85bTUtMWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Journal",
-   "region": "IE",
-   "date": "2026-11-13T19:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3f307ae9e9",
    "title": "London police announce criminal investigation into David Walliams over alleged sexual misconduct",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2ZLb3hNUzFycy05cl9KblRWcnROeExXUFNrUFlHa3B3cHVldURaYXpDSkhLX1JGTXk1eFhEX2diaTFodGd4WFFIdlNRdDFBeTZKWjNOaFRiSXh4ckY3UllHT2lXbjlxbm1kNVFYVGpkMTZYR2sxSmo3bEFlYW1nQUd4Wlhsa1lXZzUzb3F0ZmF6Y3FPRG1uNWI5bUUzM01oSS1KMzF4UmpDS0ROOEhtSmNR?oc=5",
@@ -450,23 +501,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "fa27bef166",
-   "title": "Gardaí investigating ‘unexplained’ death in Phoenix Park call for couple to come forward",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGlqUDNZYjlDYjVNVVRieGZEOHpZdjZSQkZyd3RPb0pNQlpIaVVkbzZzSnNuVHFhUURKU0p5TWxqeWc3YVJsVjFRQWxDbWp4dm5rUU82RE51Q0lpaUZNTTZyek1Oc3VLalVMUTdTVnd1SG1vS0NHMHo1a3JlVkxOeUw5eVN3eUgyUVFkWFF3dm1TVDMxOWw1ZWdR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-13T17:55:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "b099de4694",

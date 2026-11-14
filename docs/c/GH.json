@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
   {
-   "id": "32f4d15a98",
-   "title": "28 aspirants, 412 delegates: Bono NDC gears up for high-stakes regional election",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV01nZktqMW9aZVNCM090NHM3TnRtWFBQMDhpT2NuTUpYVkxiLXh1b2RrczQtdjNzaTlPN20yOXdFNmtSeFFsaFVZdThwQ3J3YjRRbUhiN0o4c2FuMU54TWF0WnpHS2xZQ3VOTlQ5QmJ2dmYtWTljWF85MmkwUGZ5QWViek16b1NQa2o4LVVqSko5ZmZuV2hYYlcxMUh2ZXVqVUdIRTdqMGxKREsta24wbi1uSFBnXzdvSzRqMFVZRFNDUQ?oc=5",
+   "id": "8b42c82c64",
+   "title": "Voting delayed at Ashanti Region NDC Regional Election",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0JULXdQamkyQzA1NDZrMExHTVp4V19sd1djVkF2Ull2TkNJNnUtdXlGUUFGQk5KXy1tNWFxXzlVb1FCSzB1NzJqWmRDbV9GSWtEakVoZmlLUE5uVG10QlRob05ncFFCZ0NrYXc5bUpVOHJ4V2R4VmNBUmdqaHZ6eHppZl9jR0llQnFiUGRjbGZuWDZVTGFtNDJiLV9XbGNnWVE?oc=5",
    "summary": "",
    "image": "",
    "source": "Graphic Online",
    "region": "GH",
-   "date": "2026-11-14T12:22:30+00:00",
+   "date": "2026-11-14T13:37:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -19,6 +19,57 @@
     "flag": "🇬🇭"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "d3357258af",
+   "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "GH",
+   "date": "2026-11-14T13:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b4f1bcdda7",
+   "title": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjhSbmVIV2VsQXprSVowOFVLUWV3T1pPUGFNekUxc0xEeHJMV0dqRENUNDNLSDFFaHhpQWRsMDdadjNXZThxak9nbm5uLS1fRWdMQUJnZWd6UTFicjZBZEMzbEFrRTFGanB5ekdrQTdOZVJ4YzZzR2pBQjYwMk8tSkdibkxTYUxrdjV6UW5TRHlfRmRNOWpfX1lRSGtSY09GZDRB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "GH",
+   "date": "2026-11-14T13:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "61672e3621",
+   "title": "North East Region: YEA Deputy CEO criticises NPP's development record in Bawumia's home region",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelBMNUdNbHd0SkhYRi1KTTJOOUVpN0k4YkZmQkJUaVdoOUdPOHNGUVh2Q2VZOHlEay16VXI0RWlfdWtramhJUG1uZ3B5RVpCa1BCNkxCb3Nhdl9vakx1WkE2M3JVU1pqMGNWQy14dkZGaG5mY2Z0STZ6RGM1MklmblFRVXRNdW1TVnFpNWlmZWNjSlEzcmxZVjhjemFtN184ejE4R0c1aURDZ2JJUl9FQlFlaEdfLVYwVXRQclpkUEJJZlh6Qy15Z2hDVXBvcG1CbDNn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-14T12:57:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
   },
   {
    "id": "4c09109d80",
@@ -55,14 +106,14 @@
    "topic": "Health"
   },
   {
-   "id": "65edff27da",
-   "title": "Evaluating transformer-based models for predicting metric-based research impact across scientific and medical literature",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Um5uaEdLY1ZLb3BQamtSakRiU3J3UEt0SmpCZ1hTQmhnVjVVald3a1BDM0lkc0tzQUxWdi1LUzRmR2QzU19lUlZmRTJwMUtGTTlzcGlQM2VlYjRfM0dn?oc=5",
+   "id": "3aa9934e14",
+   "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kTHhsUnJnRUtzWnc5SUJoUlQyTWJ4bkc4WTltYUxiVG1vS3huV2VmajY4UVBJRXk4V2wyWGxjczB3ekNzTXhmMG82UVVQaUhwb3FyWDNiSGlwN3pTSW9CMXdaMGFMUnMxcHpyQWtJTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Nature",
+   "source": "Science Daily",
    "region": "GH",
-   "date": "2026-11-14T11:57:19+00:00",
+   "date": "2026-11-14T12:00:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -72,14 +123,31 @@
    "topic": "Society"
   },
   {
-   "id": "d47a9e8380",
+   "id": "3cdba4e4f3",
    "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YMnVWX21MTVpXMkFoM0RFVHpuenBrazVyUjMtVklxRTFJNU9Wd3BmbFFwSDhFWE1hSjhqbUhsbVZtTlZtcWEwWmRCT1FCQmZwZ2xKUktMSklNNldDOHp3WjhPRXMycHZGdEJMallB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZM191UEhYNFZBQmxRQVd3dV9yMWNlYjdMSkIyNktXOU5idU05SWlzRGQyVUJDSTJWZjc0Xy1MZlpERklDMlVnaUlab2RwMHRZNGJJdENDQjVBNjk4aWJpcEhzWDZBYkRCYm95c0tzbw?oc=5",
    "summary": "",
    "image": "",
    "source": "Science Daily",
    "region": "GH",
    "date": "2026-11-14T11:44:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f1c50fb354",
+   "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNThCQUZMWVRCWGFfbm1uNVJudnNBSDRYUnVFZW9kVDZpX0g5Q05qWDFGV1ZQMTNEOEd1UEd0Z0dBYzZjRGdsQVFQUHE1b1dqcngzdF9iZWtpWlhaTGh0dldFSVVlZHpuSUp1ZVUzbklaN0tiWUpaSFluLTJBV0ZaaQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WIRED",
+   "region": "GH",
+   "date": "2026-11-14T11:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -123,26 +191,9 @@
    "topic": "Society"
   },
   {
-   "id": "c5bd75e789",
-   "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Space",
-   "region": "GH",
-   "date": "2026-11-14T11:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "16e80db163",
-   "title": "The Triple Disaster: How Carbon Credits, Extractivism and Fossil Fuels Are Betraying Indigenous Communities",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYTN2ajZEckZFWC1qZlM0SVN6Z1FRVjRGRnVJSkswaXVNYlJhX1FPekNQUjhRR216Z1BXQWUyV1hmSHZ6aTBYRm1vQXdKZVRSVThuX0ZLT3pncm9kTlhGT2pvTXhlYTI5UUJtcWx0dUFaczVnVVZLWk9Bcml5NlJ2SFp5VkhjRlNTODUzYmRHR2pSeWpwN2ozVWZR0gGYAUFVX3lxTFB2c3ZwUUtNNGl3ckg1RXlEMkFvcjB2T2hRei1TTHNiVld4MHpnTHhLNWt2X2JoSmZSMnFqTmloWW9qLTNGZndmQkJiVlFJNzJkVmhPSGV1SVp1bHRteVJRckRza253bFRtRXB2OFdWbDFHYmk3NFhjdDBTbFBDdk1ZbGpiQ0txVV9ORms4LUFIQUV6ZmJPMnh6?oc=5",
+   "id": "74a612db4e",
+   "title": "Africa Is Not Poor, It Is Looted: A Call for Economic Justice",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWNUVDQ0czVOUzBuZW1ieXR5bUJ3bktQRy1yVlktRGctaEFhQ29WdGNTRWp1VXp5YVVRNXNIaG9reEVXSjlnYVB3OXZzS01LVWdfaHc1OEdUUTgxMEVrMENlcUZ4NmRKY1lWR3RxWld6ckxmLWhqMGxuTDF5azV4dUpsNmJqVU9K0gGHAUFVX3lxTE5aamxZbVlOLXNSUTg5ZnFCTVoyZzQ0S1dZMXlzU2Q2YkxLb1VzTnhMOEdjOFNkYnRuSi14c3ZVNlc5RjVHSXUtUElGZi1BelBrNUw5UGtTTDRMQ1N1eUw3d01EeEtiNEVyMmR2M0stUFpnYlNLYU43SEd2UUpZYVlSU1Z3VXl3dw?oc=5",
    "summary": "",
    "image": "",
    "source": "Modern Ghana",
@@ -174,6 +225,23 @@
    "topic": "Society"
   },
   {
+   "id": "734d0b039c",
+   "title": "Early Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96eTdrdUxyVkNEUGJ2SDdtcENIYmczZVo1THlSQ2RMVGFNNjBoM2l1VnNEa3NueDVaZ3ZPZFhCQ2xXWmpva0FaSGV6eGRyTnVWMDR1UVFoXzN5bGlEb3RkeHpfY3VVQnh1RGpWU2p4TDJaMk52SGlHZXlWcVJ4Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "GH",
+   "date": "2026-11-14T10:10:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9645b303df",
    "title": "Neurologists call for stronger response to rising disease burden",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa1Y2VVpDMU84Q1BjenR1bl9OQXdBWmZzbTZGLWQ3bzdqanZXOXlCWnBXeDRkaHBDREdILVBSaXlSZUc5bWFzek9tTmpWdS0zdjc0b29VYUZjZ1pKMDJvMm9KZndiRHpfN2NKdzVXbHRNYTNyNkhaZUN1UW90VEpDaldobVk2aGsyQjlVeDJuWXhLUHJTWTBIbFJCek1jcEdwMnljaF9RS3lMT2Q0UEJ6SERwLWI1QWI2U2lMSDkyWWg5T0U?oc=5",
@@ -189,40 +257,6 @@
     "flag": "🇬🇭"
    },
    "topic": "Health"
-  },
-  {
-   "id": "734d0b039c",
-   "title": "Early Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96eTdrdUxyVkNEUGJ2SDdtcENIYmczZVo1THlSQ2RMVGFNNjBoM2l1VnNEa3NueDVaZ3ZPZFhCQ2xXWmpva0FaSGV6eGRyTnVWMDR1UVFoXzN5bGlEb3RkeHpfY3VVQnh1RGpWU2p4TDJaMk52SGlHZXlWcVJ4Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "GH",
-   "date": "2026-11-14T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "12b9bb9f4b",
-   "title": "Quantum Systems May Bypass Slow Driving With A New Measurement Shortcut",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3lrbXVpel85dmdFNU1rTUpyT3BxVnhMYUJoLUprZWVPSXhkelNWd0FUWmplamF3Qk1tSnJldi1ZaGQ5bGR1bmtrcXYwMmZNU2h4eXBIeHhyVHMtZWtZME9pRjc1YlZSS0RKa2lHYmgwSS16aGloMXlhSThyaGdvcWhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Quantum Zeitgeist",
-   "region": "GH",
-   "date": "2026-11-14T09:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
   },
   {
    "id": "f7374488c5",
@@ -293,14 +327,31 @@
    "topic": "Society"
   },
   {
-   "id": "f765282c43",
-   "title": "Which supplements do midlife men really need? I take 12 a day",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGtVSmxhM3M2eTNkZjFHWVg3V2Z3WTNBZzBrTExkbGN6Z2g2Zm5nU3JaM0wxRFRzN1llbUVYRnF6bW1WSi1XYlhQTWdfdWduOVFsMnhZR3JDQ3RvSmt6Y0FnSC1LYTdaR2JMUzZmdkpyaVJHOGt3S21XV3owSzlqLVhPNFE0LWhUdVFfblhTbTBXTV8tY2pF?oc=5",
+   "id": "76fe5325f5",
+   "title": "Andorra goalkeeper suspended 12 games for collision that resulted in death of opponent",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkpDQ3dZZzZoTHhuaGlsLXNMRWdRRkZaNk9HSEVKcUkzZnEzRENncjltTkJTSm9xWHBuWTFCTVdtNHJkcERQc1JXY0poQVVIQnljem0tSVFnNnpSUjRmbzJxWi1hRGxXbmQ5M3NBb3hfUmZDZzhYZTZFQUVJUW1tNkRMR0cyRENwR20zb1VFSnNtbXRvN2g1WXJEd1V4blZ4RFFOQjZESXB1VUNpSS02M2swNDc5LUFaMDFWQXdIQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times",
+   "source": "USA Today",
    "region": "GH",
-   "date": "2026-11-13T20:00:00+00:00",
+   "date": "2026-11-13T23:42:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "07492ea026",
+   "title": "Ebola outbreak update as of November 11",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTh4SnZXUzlKUTlndjVLRS1TbXhodjVOeUpMRGF5U002MW9nOHU5THRxSzNRWGdqdmFheEhMUm5US29naU1UU0VhbGpadVR3YlBQdUpRdVVZQ0xxenByblI3cklrY3VpdXZXU2RBWFE3Qy1SVzkyZ0pvcHpCZjJOSDYzMEFYbVBn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Outbreak News Today",
+   "region": "GH",
+   "date": "2026-11-13T21:25:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -398,23 +449,6 @@
    "topic": "Society"
   },
   {
-   "id": "6cb6932b08",
-   "title": "Government to train over 2,000 scientists for Ghana's nuclear power programme – Ato Forson",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUY5OG90RHZJWG5wT1lfNDNpdTN2ajJXZWVxdDZwSGwtNW1JU2VQQ0thRTRINWdtMGdNSlI2VjV2bGk5N0FjcDNhNEMyQmEzTTZZQlNDLUlyUmt4alI2UktKdWpjdTJCYmZQQmhudEs5Tzg5a194SFdvWHFMOFhKUmx3X0NGU05TU0t1MVBQOUlySUo0dmlBMVhDONIBmgFBVV95cUxQOUlWOF9xcTduTEpDZDNqZW5nQWdOVUtzTEJ0aWdfUXJWdk4wT3d2Y2hZbjNtN2V3LUp6QmxQQm9pMzRLNC1HZF9YT1k0VUYtcGdFT2xmRWhKN0hiemtPMVhMblJDTEQ5cGFHMWYzOGR0MjlNLUFSWWhkZUtfenpXYVdYSV9lVDBUeEFqSEhfWHZMUEtGczNHVVVn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Modern Ghana",
-   "region": "GH",
-   "date": "2026-11-13T13:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "58d414edc9",
    "title": "Cocaine seizures: Rev. Dr Ntim Fordjour urges Mahama to act",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtMSEEzZVBseE54bUYzTGd3OXZqS04zNDR3cFpldDY0eGhfcE9va3RuUUd1V09oZVVlaHI5TS1hZnhWSlNLWGFOV2NyRFdjaVpvZlFQOVRnMjlVOG1IZjRXbEdwUDhWSnNxcG1MWVIyaGk3S183MWdicTUzaXBJUGN6bHNkUjVXS0xzVV9TLXY1OWJ2WENKNXIwR0VPRFFqd0s3enJoYjc0bTVkc2pWQUg1N2M?oc=5",
@@ -440,23 +474,6 @@
    "source": "Graphic Online",
    "region": "GH",
    "date": "2026-11-13T10:01:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c20fe229bd",
-   "title": "Hosts sought for three future Africa Cup of Nations finals",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmNHQlpZeEdEOWo5ODgzaFoxOXVjdUJIRG5vSlhLVjdSRVU2T3hwaFdiNEFIQXhralU4Rk10c0NkcTZZQXZHLS1uU05SQkNEQ0hfNHA0WWZ4LXp3ZGs2S1lydk5oOGQ4aE1GbWdBS1J4dTktS0lsY0xMMDlVa3I4MEVSVkF4U1EwSkhOLTZrU0NJNFd3UjJyLTZzSm02VktidDB3Uw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "GH",
-   "date": "2026-11-13T09:34:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",

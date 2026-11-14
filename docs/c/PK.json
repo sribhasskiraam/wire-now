@@ -1,11 +1,31 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
+   "id": "785bf2210a",
+   "title": "Pakistani minister to visit India for the first time in three years, as SCO meets",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVlneVQ4M1J6MmlUdzloTTFMZmctVWVVOGQ2ZmtoY3M1T0xXeFVhZ2c2WXpvdktnejBhbzV4SnU3X1ZZd1BnUDlId2NySlJmakVJR090S2lkeTAzN25EUS13QktRVUdTMDVPMUtiQ0pKM25tWFo4RDUwdXdZdG5wWVdJN21laEdWTTlXajhHWUdPdG9BbmpwQ1JkdDB6ZkR5SzAyekZhWGJxUE1QbFBOMQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-14T12:18:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰 🇮🇳",
+    "also": [
+     "India"
+    ]
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "1e8bb027c4",
-   "title": "Iran Guards say two oil tankers hit by mines in Hormuz",
+   "title": "Iran's navy says oil tanker on fire after hitting mine in Hormuz",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnZ6VG1EVWlwUmJMbzhEN0JQRExxMnJLSzR3QkdqVmhTUUd5d0d4ZjgzM2NSQ3pkRHF4bmRFWUY4N2dZRjlScWVBNzhZLW9wRkx4ZnlmTDB6UEtQUGFhY3lNWVlPVVozcHZXNTlqaVlHdVdlMVd4LW85aVM0UXhGNUxaRUhPd1VxQ2RBdEpJTEZhWks5eUlwNUd3Z3hTRm1uU3dLSHRNZzNNOEZo?oc=5",
    "summary": "",
    "image": "",
@@ -21,14 +41,31 @@
    "topic": "Society"
   },
   {
-   "id": "d47a9e8380",
-   "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YMnVWX21MTVpXMkFoM0RFVHpuenBrazVyUjMtVklxRTFJNU9Wd3BmbFFwSDhFWE1hSjhqbUhsbVZtTlZtcWEwWmRCT1FCQmZwZ2xKUktMSklNNldDOHp3WjhPRXMycHZGdEJMallB?oc=5",
+   "id": "690beeb850",
+   "title": "Dar commends success of third Pakistan Minerals Investment Forum",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHVGRjdLNXlPVFExRDA2SjlPa1pOYzZIYjdJNnR5eHRSdzJZNUhMLThINmdCV0xsMHI2azR4MW5XaXZwUXFaYVRfVlc0cnRCeVZhcnBkQ1dOd3NRSHJaWHBQZzBFek9Ia1Y3WlVETjBTaEEyYkNaRFNPanQwN1pULXNRWkJVOEdFeEhWZndMWS00Y1FIMTl5R0ltSGpNb1FTb2c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Science Daily",
+   "source": "RADIO PAKISTAN",
    "region": "PK",
-   "date": "2026-11-14T11:44:21+00:00",
+   "date": "2026-11-14T12:02:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "058c3702f9",
+   "title": "DPM underscores importance of Pakistan-Turkmenistan relations",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNXphV2JBckkwMEZEcE1EOHlYZTMzSjlTdkthMlJaLVJ6anhFZ1Vhd0tnV29VMWRNUFBtMkxGejVDRUNEZm96enJwdVpSV25KLVJQbUY0YnZjXzBGWEZzY2FUQjdNNGpQRWNsUEp3SEdaRlFndUIwbnNBV0JVRWF2NGNhMmpqdk5SeFJOeHhEV09CNTlnTDBSY09xR2tHZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RADIO PAKISTAN",
+   "region": "PK",
+   "date": "2026-11-14T11:34:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -38,36 +75,22 @@
    "topic": "Society"
   },
   {
-   "id": "1068860c29",
-   "title": "US grounds all flights for hours over tech issues, prompting travel chaos",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadHk4LURmeWRBc04wcVRoZXl4eWpxUWJFYl95MUdoaXVyZkxCaEhjQXFzcEdQQmZYZUx2N1NuaERuT2R2Q295M2hGSkxYYmQ0WnpnZXRxNFFRLVU?oc=5",
+   "id": "6653fa296b",
+   "title": "Turkey's approval of Makkah pact takes effect as it signs separate defence agreement with Qatar",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMHJ0RWVkdURzYlRXd0syRHVzamNQVTc2ZGNxa1hjRzBlY3JsWGdUb0Fnb05mSGctQ3VERVBqZW84WE0yNGkwNDkzRUpmLWpRNnZOVVRneTVxNGcxZE9oMnkxNEEzUWMwYXRONm1oOHZZVFh1MGJSYWl4TnZaTHRJaXVSdE85RWxKM0ZZWXZTdG9Ra3B2Z0xxWkR0enU4U1prR2t4dktVdjAtdVVZRGlfb3dHZFl0c3J5bDlTZFU2RGROZWRrampHMW4tWVByUzg?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The National",
    "region": "PK",
-   "date": "2026-11-14T11:33:05+00:00",
+   "date": "2026-11-14T10:47:32+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Turkey",
     "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "d5c4e90c3c",
-   "title": "Unexpected boost for Meghan Markle as Brits agree with latest move - ‘one less problem'",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2VLMGstUklXY05wbHduWFZXQUNPelZlbFFMUFdqcWs3NTVTYnR2V3lQa3kwc283WEdRTzlCekktWWY5akNiajVhaER3cHdIZWhGclZCSmdlUTNnbDdGNTNXR194c0thbGU2OGxZLU9ZelBIWE5OWGMzWWlrRUctU1BIeEUydHBK0gGOAUFVX3lxTE00S3RNNFd6Mnp2U2R6V1dJQ3dsQk9qUTR0SFYwelk5LWt4akpIejRsMGdUbzFBTU9oZkQxOTZ0a2ZVWWktSUFVUURfTDFlaEtNT3J5NVNRNGNfQXdkUXp3dVRtdEoxdEhPdUhqSmhRLWhzbU5OVXpaRDVuOUxSV2hMR25vYUdoZ2tWWnNtZmc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Express",
-   "region": "PK",
-   "date": "2026-11-14T10:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇹🇷 🇶🇦",
+    "also": [
+     "Qatar"
+    ]
    },
    "topic": "Society"
   },
@@ -89,31 +112,14 @@
    "topic": "Sports"
   },
   {
-   "id": "54482f960c",
-   "title": "People call for concerted efforts to make Pakistan major global mineral power",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1MySTFqTjAwakwxLWkxa2tzQmlvMHdITWNqbjBXMFpKSGlWRl9CV1kyMWhjeHRGTmlhVTAwX3pGVWRCcHB4WlRFa19TTkpmeGM1R0E4bkEwWVpHLUlpeVRvN1liYk5kMFBYN3dzTi1TNXdTcWxERTg4RVZkSUVuTlduVFpCZlNTdVdFLTdqMEQyeVFZSWVGeHltSkxEaGhFVlF3ZFB6XzRGbVRJcjBkMVIzOA?oc=5",
+   "id": "3f21e1155a",
+   "title": "Warner accuses Cricket Australia of 'cover-up' over 'Sandpapergate'",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmIycUM5MnZ4Q29yeVBweU5wSWRRODBBWmhvckJ2SzlGc3MwYzQyRGJnZ1hfc3pxOG1sMWsxdmhlR0FTU2VzbF95VDFBZXZzVF81aEJVcEZENGE1LS1MZ3J4QkpYUHp0ZDhUTk5zWVlzTGY1TEJadEdXS0x4VUh3YlpLNTNobWRMclprYm90N01TdXltY1doZ29Xc0RkWlBjR3VfNm01QUZ1Sm93T2xFQUduaUJfOV9ZTHVoa2M2MA?oc=5",
    "summary": "",
    "image": "",
-   "source": "RADIO PAKISTAN",
+   "source": "The Hindu",
    "region": "PK",
-   "date": "2026-11-14T07:56:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "23d745e349",
-   "title": "Sandpaper scandal: David Warner accuses Cricket Australia of 'cover-up'",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3ZG1nMlhuOGxmV1FuZExBMzcyaU1xNEc1aGYtRmNSbmtHaVFCbGhzNDZhR0l1S0VhLV9NT05LZGxLZ203alJRMWFSb0FqNVdPVEpIZFRsT2RXdUNXWGtaVG50TGJYMUk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-14T07:20:24+00:00",
+   "date": "2026-11-14T08:58:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -121,6 +127,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Sports"
+  },
+  {
+   "id": "b777a0fc85",
+   "title": "FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2MtclI5aHBBd1J1cTI3UGUzYnRvS1hDTlM1MENUZHk1M3JoMTF3RzhNWEJmYlk3NUt1R3pCQndUa1E0bGxSV0JFSjJPcnNCTTJVR01NT3ctdHZ5QTRWV2FzeG1kU2lvOXhKT3RXcDBKYWh5bDg5eC0yS0tvTzI2NnhTVmZuR2p2blJZWW41VElnYUpacnlPYXgzUXpHUjRacHp0dVoxMA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "PK",
+   "date": "2026-11-14T07:21:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
   },
   {
    "id": "85c0954ad4",
@@ -131,6 +154,23 @@
    "source": "RADIO PAKISTAN",
    "region": "PK",
    "date": "2026-11-14T07:06:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7ebef4615e",
+   "title": "Crows make decisions twice as fast as humans, study finds",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzF3WmlRSWRXQlVrX0xISXdvUmNDZHR0MHZ0eG01b0VtdGQ0TWVVVERIS0w5b0huMmd6ZkRFUWZCTGdaYVgwelBHZ2pqaUxfLUlTYWFBaHNxWFh5MnQ1SFl3cE4xdWdKalBtZnRwMGNHLXo4UUN3djYyWlkwbEJ4TDl6Qkh6dy1ScjlFWVpPV1RGNnBUVG1J?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Minute Mirror",
+   "region": "PK",
+   "date": "2026-11-14T07:02:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -191,6 +231,26 @@
    "topic": "Society"
   },
   {
+   "id": "abb82f5c4f",
+   "title": "India vs Pakistan U19 Asia Cup Final 2026: Playing 11, Match Timing, Squad, Toss and Where to Watch",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODl1S1pZOWJNdnp5VzlWQnNMQkdHc0hrenVMOVZBdnpwYUpTQzJmREdKTVliYldMV2FhbnVHLTBXZXZWN1dEaU1lVVdsOEVSQUx2YVU3aWZyT1k2Z3JCY20weFN4aHNER29hYkctTmxrenVjVmN0eGVneHRxaGdPNDJILWpraml1anVpNkQ2SE5udnhJYXZoM0FGWmFseEpHUVA0MXFGTVhFSVpaZERoeTBkUXU1M2xYVEVZMVprbDRycUhFaTUyMVRYSXlTcVUzR3VJTGRYeGtGUFR3NWM2SG9JT2UtSURU0gHvAUFVX3lxTFB6WXUxZWpoUkRMM2MxRTM5M1ZneHFSejQtWUFkS1ZUdmVuWFNQSmZRaGpnRVZpOEdtME1HVFdVMEdNOUhwcTVhSVIwTXVOcU1fTkRYOUVyY09XMmRsNjJ1VFFfaVBjeW8wYXd4eXBGT3VndGFJNm0xal9GLVpqQjU5eXZuemtEZHc5MmJrOEtmSm4zNnZiNFpWZVN4Q2RzMzdCTXExSlhqR3ZhMlZPQkhlU0hrZnQ4cnE2RnJ6OWVIbkxfTzBZODVTUmc1YkNlT29LTFZoQjlhZ002Y0xpdEptT05fNm53QkRUNTdCRzQw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Jagran Josh",
+   "region": "PK",
+   "date": "2026-11-14T04:55:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳 🇵🇰",
+    "also": [
+     "Pakistan"
+    ]
+   },
+   "topic": "Sports"
+  },
+  {
    "id": "a1e44a3e64",
    "title": "NZ vs IND: India release Kuldeep Yadav from Test squad, Gurnoor Brar added",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYURyY1NyZ1ljSENRQ0x6LXl1ZmI1SW8yamhTTGZhY0k1WW1tSXBjNHQwbFdJS2hlbHRNdUEzdURnZU02blZwNzNJQm5YRWY2T0QzcEFrN1N0NUlRZm9QeUxMUFRBMWx4WUxfQzVjME5aSmdxdS1IWFdibEF3VWZEa2tsSURoQmg2dFlYMFF6UTJjVEkxcVg1YUE4TlUxeW1kN0NlTXV5R0JkN2daeGM4aWE3Wk9XNHZZd0JkN1U5c2NPNUo2Ty1j0gHMAUFVX3lxTFBJdFZydEN5S1ZqdFV1WHktRlpJRWtZUWZtZnR2SXpvTURaaVQ1dXhlQWVoUkFLTlkwUXlVYkt4THcxWXQ4VlV5aWp3TWpfZXIxM1QydlI2S3Q1Wk1CRzM5V2hDZXhPbEZ1eEw1aExJZmI5NUNZNTJxaDB6NjY3S0dnRnJrRW02TkY3VEtZYkI4M3VQZmtfTExDZGRjVVlsMDFTN2NvcFZSUEItVjN3Ri1STm5qdFRIX2ZSOUpmWVVqS2w3OTRZc01KN0EtQQ?oc=5",
@@ -204,40 +264,6 @@
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7b31ccfae4",
-   "title": "Türkiye enacts law approving Mecca defense pact",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckc0ZDdRd3dRdlRxdXltWERKanRScm1MOGo0ZE1xRklGdm05Qk5XbWdpS3d1cUhNMDFVOFdZTmRfSHJXZ2dKRmVUWURaT2w4Vnd1UkRJUUl6cmdQVEN3VFhMWjR0elVUY0EweXRqT3Q5MWczdko5TFVHbm1JT1otMm1WYnJNVGhwXzVsejlqWUxaZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hürriyet Daily News",
-   "region": "PK",
-   "date": "2026-11-14T03:58:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Turkey",
-    "place": "",
-    "flag": "🇹🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6e85a8bac0",
-   "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnJGN1I3MjdNaEtyZnM1Vm9vU282WGJDM3BBaTZ3Z1RhUkJmMXVLRzlaZ3NXS0VxTU1oUWFfNHdJcWhWTGpldGpQVE9SaDNBWEY5dEFZOWNIMHI4bEFvZlNlSllpVXBFV0VyNmhES3pYeE9yRTN6S3l4QmNDSERFSEcwVVR6UnU0X3YzZXFGUkR3NWtmUmh3bmdtTHhoanRkTm5ONTA4VQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "PK",
-   "date": "2026-11-14T02:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -259,19 +285,19 @@
    "topic": "Society"
   },
   {
-   "id": "f1bba3bfc3",
-   "title": "Yemeni govt forces fortify defences in Aden",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nM2xhZURJSDEwZlZuM3hlT05jbVFSYVVTZ1hIYUtWMVd3WnRGWFBCRGFPdHdCSWJFa3BrVjE5RzdEQ1hwRkU5Qg?oc=5",
+   "id": "f858687576",
+   "title": "Three killed over old enmity in Jaranwala",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UR19zbVdHc243aVlGbjhWTkFfSGRYMHNwSHg4X2hFaTZCRmtiVEFrZkx1Sm9qMjc1TzdHbjRpN1ZqYTBPRk5mcQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-14T00:26:45+00:00",
+   "date": "2026-11-14T00:25:47+00:00",
    "coverage": 1,
    "location": {
-    "country": "Yemen",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇾🇪"
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -293,19 +319,36 @@
    "topic": "Society"
   },
   {
-   "id": "5f1e800105",
-   "title": "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWJZZVN4WlhtS0Uyb1RaSVhsS09ERkZfcnFHbUQ3MnZQMzA3aEZNZzZrOTNCY19ZQ3VWN0drcWp5dXhzOEJoNmxCZzdhcjIteW5TVGFNUTg3RnhIUjBOQ3RLeEpzMFlsbEhZVXc3em0xWHhGOTlVT1NWTEFzUlhPQTJqd05ibERrSVFaWXN5d1hSSjkyNnJNa1pGaTVzcl9lYmh4clMzM0hJcTMyem9fSzBiRm1BWENqcDFFNVVTS2FaaVprQmRYdk1NNlRqYnllU0E?oc=5",
+   "id": "96d84fd63c",
+   "title": "Guns going off",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmU1FSVW90SkJkbVpIdXVKc3BUU2k0TVBBR2JZYmIybkhpbGk1YUdPbVN3MDEzeDUxNTltTTByRHpwd01nZU5DdA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Arab News",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-13T22:33:28+00:00",
+   "date": "2026-11-14T00:24:34+00:00",
    "coverage": 1,
    "location": {
-    "country": "Iran",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇮🇷"
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "82e30b44f1",
+   "title": "Gambit Is 'Not All Laughs' in 'Avengers: Doomsday,' Kevin Feige",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZVVrb2NXaFBlRzBETjlHbm4yY09mcDJiWTdlTXRHdG1Ibi0xbjYxOG9teXd5Y3pfSGk3TU53WEt1aUlUUGVOZklLaW00bGdRWFdlYnFMT19vd2ZTaUM4ZkE2eG5vVzRxWWJVTWVfSkZXZDJsOFRsb3RtV3pMeTNKclFOeGRIRnhBbWFVNWl1VUVXaEdnNXhpRXBR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Variety",
+   "region": "PK",
+   "date": "2026-11-13T22:48:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -327,21 +370,38 @@
    "topic": "Society"
   },
   {
-   "id": "c8f4e7680d",
-   "title": "Samsung’s Budget Galaxy A18 5G Appears Headed for a US Launch Soon",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHZEZWRxSlgyOTZwQi1MMkdjR3NxUTRld2xrVEVRUVllZGZEMDhLS3dVeDZEY0FBTkJMM0k5a0p6ZXE0Mm1PUVpiM3ZJMTU2SWRGSkhZNzNiUDhIUHlTOGI0eWFvNGN0LVFIOVZiM0N1TGdDYjBxazhGWUdxWHIxTy1iVGhKOTRaYktQcGVtZWw?oc=5",
+   "id": "e17bd599ef",
+   "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tNlRPMDE2aG5CazhrMllJN0kxNHhaN3kwVFdoNXdXTHFtcjM0a3ljS0Z3MGFCU29OS0FOSTgxSFdPR1RwazhVNWgyZlZjUm1XcG5HMC1oYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Android Headlines",
+   "source": "UN News",
    "region": "PK",
-   "date": "2026-11-13T17:52:38+00:00",
+   "date": "2026-11-13T19:33:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇵🇰"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "5e3386d34c",
+   "title": "'Access does not equal success': Only 33% of solar systems in Pakistan program worked after a decade",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclFaZ1BhWi1Cd0pqZ1lqb3dibDM4cW1uaTlzbFljcVJxcHlvRE5Gb25raDhzbnAwZ2NZdURtY1pJWldnQS1fM1NiY1BMbUhPcmsxY2dNMlJLbTB1TzJXdzJoT0c3M1VjMDZRMktOOW9yd1Vqd3NRQVZldlo0VmQ1VUJBalBxcWMzYWJ6S185Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "PK",
+   "date": "2026-11-13T19:09:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
   },
   {
    "id": "94dd22d921",
@@ -376,84 +436,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "b258d3427c",
-   "title": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHpaLUVTUE9TendtYnBmVEhIQWdVMFQ3N0xyU0V1bFN4T2w5N2twdndFQ3k5M1hCejNaalROT3BrdDFTZ1hscHVsSUhSQTRtbTMzd21VR3RhZFg5Z1N4SnhCck9CWkxLUTNQRzQ2NE8yZGExaU1BcWVFV3o5cU5oT2diTUZPejNKWHFoaFpYUzdxX1QwZjNEMVE4VGZMQWZRZDZjT25R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WSJ",
-   "region": "PK",
-   "date": "2026-11-13T17:13:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷 🇧🇭",
-    "also": [
-     "Bahrain"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "70c76b3fbb",
-   "title": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia at UN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUZZd21PaVRpLVdOU2NxRkdTWjlrZG1DRkt5OXotUEtyY0h2akVzVDJRNUd3Yzh5VzMtV1IwY3h1VnQ4QzJXU2M2NEJKQUFJbG1KVnNyaEVaSlNhbFlCUDFHRU9tXzNCTXBjZHR3cnFJWkJPbmN6RzJqWktPMXM1eEpPcEM1ejl1V2JjX2FuUGtBTURneGZqMHdDT2dmN0x5WGNtbEhuV1A0Z1dIYlBwa1FiUXFtMHFPSmNsaVd1NVVBQ3ptS0p6MDlGTjhoU19IclHSAdgBQVVfeXFMT1NtVy1hM1NDdnNfTEhaaVpDM1pIb0RNdG5IWnBUSEVNd0o0SjduSHEwaHRmLVBLSml3SmdkR3N6ZERoNy1fb1ZjNnZDd2s5ZmR5UVNna015SnJ1QnBfV0R3VEMyMzFTbjJEblc0LWRBLWxoZ0ZrZEhXcFhCRnN0bG5hTGVYckc1Y0JXX0tfUlVweVFld0NLa2JZZm5Ub3d1MVNKdGVaVXRhMW1lRTVFdHpmUTczVW1iRXJTN1k1YnJfZldna0c0NEEzQU9Fdzk1S0Z0ZzhwVzh2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "PK",
-   "date": "2026-11-13T16:11:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰 🇾🇪 🇸🇦",
-    "also": [
-     "Yemen",
-     "Saudi Arabia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a69dc8426d",
-   "title": "Honor 700 series launch date is official just as a carrier listing reveals most specs - GSMArena.com news",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTnhYUFlfai1STk9HMk9iRGxIemlNV3hTazFZZzhfV3lzTkZlZmdxXzViMlVZLVhMbDhhOEotRVRrSWhKMDN6TEJhYks2anBHbU9LMnRkQWtka3VxNGNvZFNod1pseVE5aE04WG40bWtMSjdZOVdTYTFwWUhQOC01YjJNVG1xLVlnTTJfLWNrT1BfT0NZWG5LRkxqMXhUSklQLTRWR0laV2VPNnhIQ3pYb2hGT1RuYk1sblgzODJuNTJ2U2fSAb8BQVVfeXFMUHJUY0tpY3hiWWJ5NXAxY0NSczFDRVg4Z0d6RUdRX2F0REFzUmYtaUVKMjRSRm91NXMyQ0kwZzBkZktXZHdrQ19mcGNkWmJWZXJZUjZGWDc2cFpDaXV5T2VLUE9YTU9NYS1MOHQydmN3S09BZWV4ekxaeFZ1NTdmd3hsa0VxSzBTUVBIX0xWUkU0WTY1cmZZMzF0TW9DVFRzb2tXYThpb2d3Q3g3aXNEamh1SXZlWWRtQm4wd1hjWlE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GSMArena.com",
-   "region": "PK",
-   "date": "2026-11-13T13:17:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cea2880bd8",
-   "title": "India vs Pakistan U19 Asia Cup Final 2026: Check Match Time, Squads and Live Streaming",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFoyUEZKOC1DX1Zvd3VXLWs5UjlPLWRVZlpBVUVHNy1oODYzUjVWUVJlNWo3bkQ3OUk2NlB2bjNYcUFiTDk0Q3M2SDRvUFh4a2lwSkhnbkZ4OVRqT0hLZ2YwX0ZlajkxZzV3cFJUcDhuN0U3ckdCMXRFX1ljVHNyNHFkdmlVMV9HaTR0TDR4QWY0VmlVUml6dTBhYU16RUN1SnlPUXNHMHJuV2JBcTltUnU3RV94OHlnNVp6aDV6LTBTamlIM2pMaDl30gHQAUFVX3lxTE8zMXZHSVBLdFNqdm53SkJRRENDWFVleUE5YUZmamVobUo4bkNiX3ZEVFdnQXFFTS1lVDZuMzFnOGpHa0xoakdMdDFaVlhYQU4wbjlUcFBLVEhvcGNrRmg1dkVCMV9kZ3czTjdENGdiajhPQnZLSndzZVpNaFdIQjEyOGNOdnd0dUpDek9jUzktS0dUSnRlc2RFN0VRak4zX05DV2VSWmN4WHp0bVNJVm5jWUphdXBIaFJXTzRsNS1LYlJCWUJyalc4dGVYQnp4ZVA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Jagran Josh",
-   "region": "PK",
-   "date": "2026-11-13T13:11:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇵🇰",
-    "also": [
-     "Pakistan"
-    ]
-   },
-   "topic": "Sports"
   },
   {
    "id": "b570f6c973",
@@ -541,14 +523,48 @@
    "topic": "Entertainment"
   },
   {
-   "id": "15e5a759eb",
-   "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
+   "id": "a903302127",
+   "title": "Delhi overtakes Lahore as world’s most polluted city",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWYzTGhIY01yc0N4bF9CYVJfem5ETE56WFNBSjBoVWEwNVZXOHNERWlvQkRRVjVDMVQ2TUtUVTlhV21US19KQ0JSczJ5YUJLZGJPZWRyMkxWT3hvWmxENDdTX3ZpQmpUeDZpY3BFOTJ0eDB4d2FsYjRaRjA0Z3JWVDVUdmV2MHNPVk53aWpFb1p6N3NheFkxdA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "The Independent",
    "region": "PK",
-   "date": "2026-11-13T03:56:00+00:00",
+   "date": "2026-11-13T07:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9fc3515dcd",
+   "title": "Samsung Galaxy A18 5G gets Bluetooth certified - GSMArena.com news",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWE2V1h3VTNDRThKSnVvdEZLRHNaVGs0X1BPOTJUYzdZNTNyZFJPUmVfX1Y0M3ZJdGxjazFnQjNIcWVWc21OSEU5eDRFY09RYVFscHdyemg1TFUwekxISnFPVjcyYmZQQ19oellCRy1OWVl1U2t5VGVmazIyazFCb1NLYVktSVNt0gGEAUFVX3lxTFB3Sy1xNnlnWV9QemNGeVhsZWZoQTU4ZmF4RjVpbVJpbDduOGROYjRVaHB6UlhXWk9NSmtTTmpnMGc4LXpsTEg3R3I4TFFKNHoxZi0yMTJDd1NJcWg3M0lGWWxTZkczUlNjY0FLeDUyWG9jOU5nUmFEODhxb2hfbEZpcFpoVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GSMArena.com",
+   "region": "PK",
+   "date": "2026-11-13T07:29:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "6959fa488c",
+   "title": "Yes, Dear Star Anthony Clark’s Cause of Death Emerges After Co-stars Pay Tribute",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNW1FbERhZDR2SXRlaHlFRlJ2akZnZDNkOTdaQ2lHbUlXQkZ3VTJWZjJidVhLY29tNERRckVvZGM4NXZQUGptVHpYT2t5dmZYelotOHRIUVY3NFlGS3NBOE03NjBNWTlWVjVXTHJpQ3NjMjh2dTVfWVZQdGV1SEJSell0QXlNazRhMGJXbWU5MmpNZUZEVjlDRHNYRjVsRTBGbi0xTGZpVi03VFJMbUN4M0YzeUlxQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "PK",
+   "date": "2026-11-13T07:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -575,23 +591,6 @@
    "topic": "Society"
   },
   {
-   "id": "03bf884604",
-   "title": "Anthony Clark, a comedian and actor who starred on 'Yes, Dear,' dies",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nMnRvNHhDcDdqcjlJSHBGbThpVC1FSXdud1ZOS2RnZGM2VVYyYXNnc0hhZm9VbVVtR3ZZMzRWUzItOFVwUnk3RUJCd0J0ejRRdW4xd1pnTkpSWTNsVldERUoyVEg3a2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WJCL",
-   "region": "PK",
-   "date": "2026-11-12T22:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "0c65e3d467",
    "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTEybk43ODZTYmdLWGp2cGN1dlp0M19tbTBqZXNucVI4WkdxdHVDalRneDNpRWVuZ0hYLUdrU1M0M2FuZi05N09iTEVGX2lZcFhPVGluTDRnQzN0eWh6bVI2Y2dfbWh4WDNCSS1MZGVRdS1Ram9KMnFwTmwyUnVJV3BR?oc=5",
@@ -609,14 +608,14 @@
    "topic": "Society"
   },
   {
-   "id": "0d9ee9fc7f",
-   "title": "New provinces, JUI-F discussed in Zardari-Naqvi meeting",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemR6NFNnamJpMTk4QVRsV2tlVFdKU1VnMXc1NHgtVUFoRTVOeWdrSko1d2kxRWRWLTNVajdHQ3RDcFRjZENadnpXSFc2ZVdTZ0hQUmRtMWZJc3dWXzZLZC1tblF3U3h6VDNINnVtUm1yQVQ4OEl6RFVQWHVTSEFsNlYwTlR3TGhTRVk3OUFmekpYTEFs?oc=5",
+   "id": "2a8b33ca55",
+   "title": "Brave Browser 1.99.57",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUjBPbVIwS28yWDJvWmVuNDlwQm1weXdyVEVoRlZDUFY1R1drZkZoanNLdEc3aUx2dkVLY3Flc3pGMEdoOGV4Tkg0QTFxd25scVdMLXFpLXlFQndBdEM4MTl3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Minute Mirror",
+   "source": "Neowin",
    "region": "PK",
-   "date": "2026-11-12T18:16:19+00:00",
+   "date": "2026-11-12T19:48:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",

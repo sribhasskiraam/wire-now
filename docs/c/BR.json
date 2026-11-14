@@ -1,22 +1,56 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
   {
-   "id": "e50bb7559d",
-   "title": "Aos 29 min do 2º tempo - gol de fora da área de Vini Jr do Brasil contra o Japão",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0gzdno4QWpMMnVHTjUxTlpZYWlfSjlFTDVNQTdwMEdqNTZUWTd3SWptUHJKdWVlZjNZY2Y1cWpyaDg4RFlVczQ1WFlJakNwNmd3X1J1NWoybTZza0xQTjFwY2lsS3FuWnhYTW05M2JNel9UVF8wZlRYYk5FLU1tSXYxRUZNNGlLdUlXWFd3OVc0S1V0a3lOV2hMOEg5X2JraU1MdklLUUFQMV8ybUttcW1aZlRFc2VDb2JyLTRMc2FKZzhyN0lN0gHWAUFVX3lxTE9MTGxZcUstTmdQUmUxQzltM1NaTEc3ejdma3owbW1JZ09tVUFiRHdlNm5nelp5dVBnaGpQSHM0WTdWLXA1eTRzTnliTDFKaWJmVFdxWHVyQzl4VnRyRWJBdktUVmVhcHZmQXlmUEFpUVk5bW5KV01fbXRYdXNPZTNUMi1BZVlUWjA1Y3pVMGtTeDJyMjdKZnQzOGlfa1VCUXQwNDh2djNTcTZtTUNhM0tHRWdLNW0xMl9vSWI3dno1WFMyVnpZaUJ0Y081aVFTRGVXdmgwSHc?oc=5",
+   "id": "a6c3a53e17",
+   "title": "Atuações da Seleção: Vini Jr. se destaca com golaços, e Ancelotti é expulso; dê suas notas",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGQ5MkxKcFJTaW4xaTU5LWltTTRMSDY5RUxFX29nZGhPN19QV3hPeXZjVm52S3g4eTlIMHEzWi1tR1UwWkloQVA4b0Q0c2hPaVlvZXVvdmFYaG82LXhCNEIyLXRoNmQ5Uk9pOThySjJFWDRxTTk1SlZfSXZFYksxWUotalhueDMyX1hhQTJWdkFLZlVKSjhISHVsWWowbHRRWmZpS3VvYzdTV01kRWJYcXp4R1lPQjQ0dXhTeVQtNVdsRWdfVEVtWDZfSXhxZm9mV3ZnZHhfMGduR0tjeENMVGdzQlJxNjF6SXUyekFOLV_SAf8BQVVfeXFMUDlsTk1VdEJwdWlCdnR6cE9oU0Jod0J4UmJyWURKcnRkWDM2UlJQQjFSblZGZUREY1NYNXVmZ05EdDRBcTJMQndsUEVCREktanRNeFloYjVHSHR1d3Nrc3JKT1BqTUFia2x2ZmxrMW02N0I0REVtSERSWExmZGdBeHNLMXp1UVFOWmk0X2dteWRpUkJyQ2VkQXA5UEp3N1FDQnFPMS1jVUE4Vkl2QVNqNGpQVGdiMVBXUUxNRVdhMmpkWWlNYjJERG0tQXM5ZkNPRnBzNVRSNG1fZnN1aVJHczB6N0VUMHVlV1BGNEJtaHM4ZXdTa0w1Zk9SM3BOR2xR?oc=5",
    "summary": "",
    "image": "",
    "source": "ge",
    "region": "BR",
-   "date": "2026-11-14T11:57:51+00:00",
+   "date": "2026-11-14T12:51:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "61e136c490",
+   "title": "Itália multa Meta em R$ 5 bilhões por acessar fotos e vídeos de usuários sem consentimento",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40SGlQTjZXZFhxNWQySUNyZVFxSFlfeHFOTWNTbkxMWm1yaHZVOW9ZUUY5a0toY3JQa2FleDFZWG5KWVctM1VsY2p1S0pwaFJoRE9lVGIybmxkRDdpTlNWWDFsX1pZOXVsaW96U2Y2U1FDODhrRlhVRlpwaU80V03SAY4BQVVfeXFMUGV3TkhCaDVNblRocE41YjFSc3ZxV0tVem95bFZBbl9pRnhhcE9rZU1RX1dJQ1RHS2R0d3lIa1o2WldMM2IwVTZ6eWMwYXhGSnhNMFUtR3l5TTRtNlNfZVpRM2o1Q051TnJfcUotSXNXWjNPQXRVa2xRNncwOG5uS25Mbl9nWXhDVW9nLXYtQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "G1",
+   "region": "BR",
+   "date": "2026-11-14T12:32:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "edbcc31619",
+   "title": "EUA propõem que Ucrânia ceda território à Rússia em troca de entrada na Otan, diz Zelensky",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY1ptMVB6X3FWcVo2Nm02OHBtcUc0TURCNXF3NHoxMlB2LWdqTFdhWHB4U3U3bUVqMlU1WDFyZG1XU1JpdnZuckJuMC03TGFvVG1ETXFUTE5WYWZkNEdrYkw5RG9NX28xTzluRnJnanluUVhSRlZnTkZ0bFpzcEVyNzl4am9kMDkzb001YVJMZWx4SEpVTEJraE9rMTRKbVV3d1hXUm12N0NKSVg3ZXJRYU1Lb0ItcnlZTDFqdGhlbHVLMFk0MzNVR1l3WjRDb2NDQmhfYVhOTXbSAecBQVVfeXFMTm1Fa0Npck5GbnFEdWZLRU5VeW8wNEJySXg3S0d2TTRZbDVqdkluRERqR2paMGdoV0h0SkpDZjlwYTg3ZmxfVThpbmpzV0ZIZEdyRnptRVRwT0ZRUXNmNzZhOEdZTXhaLWhUSzQ0ODJxZ18tS3g0Y0ZNc0dqbHpwN3hnUnp5SnZnbUhiaHFoSG9LYzMwSlBwdDFWdmt5WFZqTnBXZWZpNi1vaEs2V0ctYTRpcFQyV29nWVFiMzN2M19xNTRrN0NCWDRUQ3FUV0ZjX0pXVWN1WW1vSE1KcTM1UXBMZ2FPUEtJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "G1",
+   "region": "BR",
+   "date": "2026-11-14T12:32:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -38,14 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "4045c16c53",
-   "title": "Saiba quem é Gilbert dos Santos, coronel escolhido por Douglas Ruas para comandar a Polícia Militar do Rio",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbDduTmNLNnN3ellmanpQMGFjeXczanI5RS1tVnM3ZVp2QjRnZU9va2dHTUFnTXFUQm8xU1pqcHdGQjR3T3JXa2tjMW9OSEU2dlBvLTZyVGdLX1ExeFJweDVVc2pCdkl4ZDY3LVV6RWtnM29xTm5rR2QybEF3d3ZEX08xY1hvYXhITkZDRC0ta3Rxd05kNW8yQVNUcEZFTG9CY21GbGhucDVFLU9faG9LSGtVVEozTE1IelpyaU4zZUFRT0Z6MkVLTG03bVNqSUxQNW9weGNmRVBCTkVXcFBjTWpSc2FMeHpQek5VamFaMkvSAf8BQVVfeXFMTVBZQk5nQXctTzBOWnN5VVVFZW0zeU41Z0ZaMHcxN29SZW00aTJBMkpQVVB5a0M1U3NmVXpCY3BQYlh4dEdCRWxNTWl3WXBrUWdSVWNTOW00RDdDZjAwNHF1dHAtWEtCWDFta1R6cV9pUVNxQkFnOGZhaDNyRTVWcFo5RjZ3dnl1V3FHVlZDbTRpSjFzTk1Xbk9nMFpxRi0xcHJ4UU8tcnMwVW5EUkstZDUyTk5LLUN2eV9KaF90LUJQUThLZkZfYzFTTURSMDhPWjhrczdHb1V4V2lhdXR4aTVuN0E0aGE4N3p4aW0xT0VPZUo0U2JvZzRKX0xKckZn?oc=5",
+   "id": "d73812cb25",
+   "title": "Rayssa Leal é vice-campeã da SLS Tóquio; Chloe Covell conquista o título",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQalhuM3ZkQWcxLXNTZTZmQVdlYUpHT29RZHVZSWFIVC1rbk1rZ1J6UGtBa3hXQjRBaXVYU2xTQzhfZnJmUS1LOWdUdzdMNGRkSi1BaDFfaUM5dUk5MHBWWjJ3VjY1T0Y3dllWeldyMTdSWlVZMzZIUGh6Sk1lQVRUSnE3Vzd4ZFh6UlZNQl96a2cyQS1vQ3AzbkNRNllFUWRIenJ2YlM2OXBubi1yVUpxNllBM2huc2RpZ2t4YTdOZ0TSAc8BQVVfeXFMTlFTREtUNU5Cc0FnaEFZNndGeUpVbFRrY1dNcV9yWUpjT3BVN3NJN2NYbnlFMGdaYmE2Uzdhc3BjZ1hlUkFDMDNDb1dLRUN6amNRLVBqT0NpV0cxUjcxbDFuWW5fbVpTVG9ObUJZVl9kVmdlcWhLcHFlTkN3elpVaUp1Z0NESS0wS19OVXlTN3ItU0I5U0Q5YllXN3lDdjJxaTFCODJWYmowZ212YW9RTVFHSTZRTWlXeDRuelBMNzBzY3pLdGk3UDhKZFBzMHRV?oc=5",
    "summary": "",
    "image": "",
-   "source": "O GLOBO",
+   "source": "ge",
    "region": "BR",
-   "date": "2026-11-14T10:00:00+00:00",
+   "date": "2026-11-14T09:55:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -72,14 +106,14 @@
    "topic": "Society"
   },
   {
-   "id": "6870452c0e",
-   "title": "Petróleo, dinheiro e guerras: o que trava a COP 31 e onde as negociações do clima já avançam",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdDdjaTc5bjNPeTNYTFN5TWgzcGZUejd2ZENpZUNBR3lhZVZlck1qaXZBMFRZbHBHSkNlTktfUUppckZzQWdJVlhTY3Nuc2dtWWhIUUdqMi05TzE2RVJ5Z193TmZ4STNURnBOZ1lDS3R3eDliVUpZWU5ZUVBuYkFIazU0Y3lHZ2hOUTFiVlhDR2VqeFRwV005RTVWSGVQLXJOSkhjbFgxclVTejh4a1p6NUMtZy1SNlZhT3k5OFZSaUc0Y3NRLXBBb3ViMnhKWnliVmNxTTFEUU16alpZak1IY09LajXSAfMBQVVfeXFMTkJSS3FIWG5iZ1JVRTB3TzJxRXZJT2hlcklfYjV0VjlJektfaUlSM1NDTlg1dUc3QU5rVl9XSmdNZVNDV25XOEJCdklaT3JxUlNoQTIxWnZBNUZIUmxnV3psTmlObUw5OHJEcXhIeDJ2XzdjZ0RsdlQ1QWQ4ZjlNQ0NpV1NlbzE0WS05SjJkT1NIalJBcnc0YTd4N3JyeC1xRFRJeWhwQWduMHd2UGttSmE2SzdUZFVWUG5rWHh6eTZybC1rZU1oME5CcUpseFQyYVJ2b2ktS3JiTWw2b2RUZ0liZEJjX0xwRkJYSXVMcC1iNEQ4?oc=5",
+   "id": "b11b5281a1",
+   "title": "Quais atores do 'Chaves' ainda estão vivos? Lista traz Quico, Dona Florinda, Seu Barriga e mais",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbERZLWtIS25xMjFLMmtmMEhwblNwNlBQTEQ4LUZDMjlQV0paOFZ1QWZVTzZMSkJibzRUVkR5bEpobmtVTGY1UGpOT1UyMHRwamJUSmd2dDcyZ19MeXlXZ0xSNHlmSnpLYUxOd0JqVFk2MzVIN1B3V3VaRWxlOGY5YjA3cmxuNl81SnZQR0VsRjhCakNyNkRfQmxwdkVLMWMtakU1S2tidVFhS1VOX1A3VzJXVlZvOTh2NzAyaGVGWkhYd2Q2T0t5TVFraTk1Z1BDRGZuM3NIclNmMkc1bzMzOWVGRk9TU1hxaFHSAfgBQVVfeXFMUHNNZjZZYmYzdGVDdUFrYXZlU3VqY2RMOUxFNjVfUFdySkxIN0JfZV84S1Q1Y2FrTWh4NmthUi1SX3hZTTMyN3VQbHdiZWc3MUZxbWlyTFN5aHFkTG5ld2p4dFVtNVpIVU1jVWJfM1doeF9BSkhvQTZUdGwwSFZ2TDZsMlJKMjlJeUxvOXpTZUMtZElMZWtaQ2FMYUR0WlhndEUxd0k1cTFCUTZaT1FEZ3lxeTRoc2M4WXNuOFlnbk45TGtBWXBENFV5cDJkMlg5dUJWaXVoMmdCc0pOTW1Md2pkZWh5dElyVmlwcGYtbXFxZG8wUDhDYUw?oc=5",
    "summary": "",
    "image": "",
-   "source": "G1",
+   "source": "Extra online",
    "region": "BR",
-   "date": "2026-11-14T08:00:00+00:00",
+   "date": "2026-11-14T08:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -114,6 +148,40 @@
    "source": "Folha de S.Paulo",
    "region": "BR",
    "date": "2026-11-14T08:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "87f89799bc",
+   "title": "Ajuste fiscal de Lula equilibra contas públicas ou só adia um problema maior? Economistas respondem",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOThfaTVoWTBLOWt3b0xkcmM1WllGSTJGOXh3bU5iN3NWa0lSTkpRUkdJd01UdXB3eHNsODhTQVNUemJGOWRNLVd4UjRHV2h0MEc2SmNhdHVKNDVvUkhPczVYNi1HUFlRNERHUlJJY3F1emowTXJpbElZQzVkQ1lVMV9PY1d2WXM0aDY2akM2UDY2bGJPMC0xOGdDalhCYUdrMDNjTlk0dTVyVzZ0cXZOcG1OYllaVUVUSjk1ajFlV2lNWko1WVFOTzRjSlpvUlVNOE4xYlJpN1NNRnd1SWFjUWJWMGdsdnBFSW4tYVF30gH8AUFVX3lxTFBGQUQzal9PUHN6cjAwc0JkOTVrZVFYS3hPWkNucFVDV0w1S3cyV0haMi1WeXFhNlg0bGR1THc4SXdHMXBmTFJBbnRtZkZuNHN6LU8zNUQybFI5R1p3b0J4T2QxQXFFT1dPWnRkeF8yeFdfWDBTS1I5dU9DeUtJMDdOQ29lUC1DNFpiVjFhc2tMQ2l1akEySnVyU0JWbTE2QkxYa2kxdTJISHRoeTcxaEQ5Vlc2RGZHU0g3MnZaVE94SU5hd0FBbjNOVzMwa0lPWHp1dWpnQjZFMzhlSFBnaTlhdHJRY3VpbEFRS25rd1JVb3k1bEZoMUVjT2NoQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-14T07:00:01+00:00",
+   "coverage": 2,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "015c94cdb6",
+   "title": "Quem é Lauro Rangel, delegado de Polícia Civil, que foi chefe de Douglas Ruas e comandará a Segurança Pública do Rio",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObGFxcFVORF9DSWdEVE9fampjd2ZmakxCdmg5ZkNXZG1vR3ZIejlrbkJ1VkpUTnZ3RUVGWi00Z0FyLXp2RlBEbElmMzloYTBOTEs3UzBuZ2pvVGs4WkxRN0NZMHc1dXNVSkplWDQ1anc1MXdMLTBZZGJETE9UQWloRUtpdWVTMXd2ZVZMX1FGcnNIeEdheWNXUnJhVXpOSVJXd2FiWWw0VS1ETWplOUNXUTNUY1I3SUp0ZTBmVXZmQUo3b1BxTUtpUEM1NmFKSnNMWUNjYjZEVDlpaEc2N2M0ZkVGOGJlc0RZSGxzMWo4WTI1dGtsbGxBd1l5SljSAYsCQVVfeXFMUFdielA3c2hqcFVicXNEZTNUVnRzUDJCNThPS2VBYjFBWDhhYTdSb3MyNElISlN6dVZsQnRsR0R5ZFZhdjBVS0pka0daOU9hWS15d1Q4N3YteEtrTE0zeGY3NzZJTFdla0ZQMDlsSFZsQ2FOcUdlYkdZRUc3b0ZmVWVyMVA1YW4zVTVGOGVwOTZGN3BiZm12MnNzTWw4RnNVOERTc0MzZFJZb3g4WW41WUYyTlVPaE1yTlNTcXNuQ3lCa3gxN3BBTmRUM3BwRG1KLWQ1aGRtU0FXemx0eVJGeDRqVlNMSXpDeHA5d0N1bHdMR0dWdFB0cXNRcDZBRTl3eG01Q1RhUUVvYjQw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-14T07:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -208,23 +276,6 @@
    "topic": "Society"
   },
   {
-   "id": "e2732d3211",
-   "title": "Eleição do Vasco: veja propostas dos candidatos, formato e cenário para decidir novo presidente",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnJlb2FWVmwyUlVGb004dk0tdmpvWUtpUzdybzlMYU0ycmRJSWN2OHQ5VGpQakVrVUVhSDJvd2hnbmFFeEM0Y0VlVWhJeXVYZXhidjNibTdRdkV1eDJsX2thZFBBQXhOX0g0MXNWc2dIY3JlQXFieUpyR3V5eTlnQk1NMTI5MUNqS0ZHMk5DLTgyeE95WUl3MDV0M2lHazhNVTdOakZXVlk1OUUtR3c5QlRxdWNWSEQ0YTFSTHZpSC1uaTQxQVBDeHBVRkRBVk9famxyVkJPSWUyZUhDYzdFeXhocWZxZ2lRYWhiVmJzeWvSAf8BQVVfeXFMTW1lZFBPUXIwVUdqdjhqdGNmSzZjVFdwWEhEZ1BYOW1yNmtMdEVJYnJsa3FibUJ0WWFlTGRSY0ppdUhmNGk0OVo3WDluWUlScFIxREFxZ2t2UG5pNjFmMEZhV3F0MDIzSnJZZzNaNEZvVklSeFZOY1hqZTlPNjF6NTV2WVhoWUdYd1JPa1plN1Nrd3BjQUpaMVdudWxQUHg2OXZkTUk3bTVnYXA5bEtzVEo2TDg2VjhkUHV6emo3SnhpRGY2MUVTRmlfTm4wcGVZMXNFUTVSU2FEdlN3X2V4MWV2S1RQN0RnRVNUdHpRa2h6NzNFNk4ybDdTQ01tQXY4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ge",
-   "region": "BR",
-   "date": "2026-11-14T03:00:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "27b3cce990",
    "title": "O preço da ‘ressaca digital’: quanto custou ao mundo a pane global do Outlook da Microsoft?",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOME1iWnNZSGZrenMyZVB0cTZVSWozY3JGd2txZFQ0QXVFU2g1MERGS0l0VG8xX0NmeGFTZkJWdzFEdnZkeEtGVDNYWTlpVlYyRFVlbnRjMzZrRTItbG92T2lHdzV0b1hfM3djT0tiakZaYXhiU0pSbndtY2ppcWxIRU96RmRrR1g2NmJtNHpLYUpoLUczTDBJRC1TRlFDMTd3SC1fWHhrVXB2aF9laWdpbXBuZkdzWk50djNKd0N0YWRfNHFlVjdfb2pyaVROVWZtUVk5NU5ybzhhUi1KSlRz0gHuAUFVX3lxTFBDTkxmMjF3MlBCX19EanQwaDVjZVBIQmZlNXNFTml5WkZRSHJ2OTA2cDVzcXZqZ1F4ZHRfTHpLNDJZZEh3R185QkxTankwVFV0emZQOWdEWFJ2V05CbXVxV0MycXJwaXFwNEtodU0zQmNJWE1XZjlmWHVwTVdiZGdWOTg2TGY3VFpYVnNLdmw5dnZtRHVHa2tqSzMwMUJIUnhldk90aUc0UXBsVUhPTWdoOGxxejBCd1RIRGVZM0VDdm5MdThYT1VnU2tlUXdDOWZyN3o4LUlGTTl6ZU50QmdJSy1HdHdTWW9mVUFNRFE?oc=5",
@@ -242,23 +293,6 @@
    "topic": "Tech"
   },
   {
-   "id": "00296c402a",
-   "title": "EUA suspendem voos em todo o país por falha no controle de tráfego",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmxkUXpJWWN6OVlRdjhsVHM0NDg1LTBSMS1JYTJnbmljUmlXU0NuWTNsVGlBRWx0bmI4M2xGVDFVWmFad2kxZ0dqYVBvSnEtekREN1JUWUVHS3dKN2hySUhJdngwZzU4dGI0ak56YUJ2X0hfMVVoZzJISzVtbnlwYTI3Rm9uY19rR2ZaU0dzNEhVT25iMVh0LWxQbjJNR1F4cUpSeHEwdXZqandMbkprWHNzckNBUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Poder360",
-   "region": "BR",
-   "date": "2026-11-14T02:56:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c5c57a0572",
    "title": "Ministério Público acusa Santiago Peña de chefiar organização criminosa criada para fraudar o sistema financeiro do Paraguai",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPN0FNaTBDRHNhYjdJYktod3ZDTUthY0FyaS00WG04UVRKamc2UnQtVDljdmVLNWYzODlFcFp2YnpJZTlfZ0NhUVNVdzVfdXUxUF96VkRyd1FuSGhWQWk4aVNjVnFPc25PSm9Da2RYb3BPTTlTU0JUMl9LYVR4U2laV2Z2aWR2cEYzSVJzUGw3WjlBdXRnMk84ZzBJTjBtSTJpZlZLQjh2VTR6cWQ3aTJIMF9nVmtRY3ozdXd4VVFZbkJuUWtYRzFzWkthOE50R3ZkZjhRZmF3V3M5Z01PWEY5dGZyRVE5YmJER3hyQzVwS0J4NGVqcnNBSzljb1BsV3A2Y2doVFNWU2V3cDFrTFlXNW5vQmjSAaMCQVVfeXFMTjZpLUNfb1pqM0wxQllhanVJN1Nkcm5mN3hRX0dMVG5NVkcxZW5QYnBnQ2VraVByOXdHbjd1aXlKNDZrOGM3WGtadzR1R3NVV1F3aWJTSGF4NWpNbXFJOEFhZFZOcjVaSlE2b0hOdUpETkxRMVlqQ1lOSmprYWxTb3luRUJONTRXanhianJpckpjM0VHT1Fsd3lSN0tjYm9RZzhYNVlwUzR2TjR0b3ZfWVYzak4zNm9MdG5IeEZsSEVwVFRURFhveGZpOTBXU05oOEFaamtGLXp4bWpzQXFURmhDMlNuNDh5Q3NETVhRbDZSd1FaQVJaVW5UeVRwUEU5NWZoZVh2MXZwYTNkcjZQYXd4S2xXRVVxVEpkQ2FkdmdKeUpF?oc=5",
@@ -267,23 +301,6 @@
    "source": "G1",
    "region": "BR",
    "date": "2026-11-14T00:58:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "50e9d8714b",
-   "title": "Alemanha, França, Itália, Polônia e Reino Unido vão representar a Europa nas próximas negociações de paz entre Ucrânia e Rússia",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdDhzYnFacml2Y3VqTVZ2STJYb2U4Wmc2bG1tOWNNRXpYWFhFM2RqckF3cHJmRUgzUW9Md0NRS2U1dEhiNEMyc1U3ZE5JNGtMaXE3NUlCMkVzZnRHcS1Vb3NMRWtDMjByWFVkaUV1UHBieXhsMVlhc0M1SFJzVkFwdUVuNVZVcnBJTkVoYnFXSDMzQXFUVGh3MVVDZVF4SWhZUGxxakwzZm9iTkQ2TFNnXy1tUlcxMXZEYWpaZEsyMTlfcDB4dzR3S0xMTVhLbFlnQjc2YVJWb2VHeDVxUDhRM1RSTWRQZHM5OUpwd0FlMXR5RFJ3NDVyZTNTY3J4R00xbEdoZDhyYjdidlZ6SDN1NmFBdVXSAaMCQVVfeXFMTWlPR3gxN01wNjRWeXNkRXFURGQtQ2hEN0hWR193NXQyeTlXS3htRnBMMS1xdzF6R2UxeHdQSDJDVWxaMEJ5Mzc4YzU4VGJsT2pKQ29GNktsdDVIMGFaQmZibks2RnpISGJrVTUzUnMzeGNMc053ZFZrZW1ra3ZHWkM2eUpFVzF4TUxmR1UzUkY5cG5uRnR6MnMwZVdWbVdmUnJhMndnd2pYSHg4T19XZTg2VGt2THdreWZ3STAyamhrTHRFT2V6VW1NOVpVY3NERVA5aUFsWm5oempfcEJoMHV0ck9acWJ1LUNtLXpwcVJiNEo5YnBMbDhPOW9qU3IxQ2p3WmVUT0ZTLXl6N1JaQ2tRUEU3TEh0VTg3MG1DbVUwclNV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "G1",
-   "region": "BR",
-   "date": "2026-11-14T00:51:31+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -348,31 +365,14 @@
    "topic": "Society"
   },
   {
-   "id": "32ad8d98b5",
-   "title": "Novo vídeo gameplay de Fable foi muito mal recebido",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOEwyVGIxR1I0UWRvOTUyckhrVk5iZHZWYW9VazZESTJlTnNVWEJYaElocnVlQ29ObDh2b0FLN3RtanQydkczdVNhc243eE5qTXJnY29GSzhSM1lFQkhDWno1RkhSZzZnYnItUG0yLXRKMHdWSl9Wdk51WlR1dHlCUVNn?oc=5",
+   "id": "827887083b",
+   "title": "EUA ainda têm 2,5 mil voos cancelados após suspensão por problema de comunicação: o que se sabe após a retomada",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56YVlrdm14cGsxOVBRNUdFZmpQbHo3UWp2blZZTWR5dGJ5dFhkMVVIUW1XZ1lBSExKcUliYzdUSWJleVdlZTMtT1FQd0liMXVlSzgxNThVT0d6ZzNHQndfVVFDVdIBaEFVX3lxTE5CZE93UWJWTmhCeW1uWTViTzBQLXJkWWpBVXFtbjd2OWRvTnNMM1V2Q1RjMTlHRXlTRHplaEtDMWc0TjhxM1BoUnVWbHNsbWs5Q1FfSi1Jc2tsS1A4c0RSUWl1QzMtcWdQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Eurogamer.pt",
+   "source": "BBC",
    "region": "BR",
-   "date": "2026-11-13T22:43:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "542e063f6c",
-   "title": "Dira Paes se desculpa após falas sobre representação do Nordeste em 'Lá Na Minha Terra'",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeEdQeUZ6QlFZRm5LSVVWejVHUzZLTU5wU1NnTF9oWjZPUXhfb3o2WjZ0Wm5NMGpnZTFvNldKU3l5M1BrSzRIa2g5bDhkeWZiMWFUel9CN0Y4bV84endYZ1ZRam5Rdm5RUDJEWi0wbG9DZUZuMV9UV1g2TFJMMFA3eUx6and1WWREak9ER3lYT2JpUDc1U3F1dGtTYXFmYjBoOGhERXRpTnBQV2hPN2RTeFB2Y21WNWZIcjV5SC1iakMyRG1WWkNGTVdReVRLSVU4dlk0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "UOL",
-   "region": "BR",
-   "date": "2026-11-13T22:17:45+00:00",
+   "date": "2026-11-13T21:40:37+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -484,14 +484,14 @@
    "topic": "Society"
   },
   {
-   "id": "e22b80ad72",
-   "title": "Quem são os brasileiros que ganharam o Grammy Latino pela primeira vez",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFZBczlodF82WHJrMzdsenJQRGdzYVNwcFZyTE9DZ1hXQXBZY254QnIxQ3UyZlFqSjVKVUwyZi0zeGlHb3hCTGN5WFpucXV6b1c4VWdpc0ZjNXJ3OVBjM1lsTVdJWEVWNXRzemlyYTNiQ0t5cW1RNmo1TjVzeFA5VTV1TEJxeVUzWTBIYTRyanBmTzJCdUIyaElLQlRONDFVQ3FPVGhkM2QzaTBUdWNQaQ?oc=5",
+   "id": "5b858898bc",
+   "title": "Anitta é criticada por vestido no Grammy Latino: 'Fantasia de múmia'",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRFVHWE8xNnBJR29BckdkUFI5cWE1OGxxZ2NnZW12YmVtclFwallGc01aYWJaUlhSTVkwRGFRWUdtZU9CZExwekgza3VUVkxYNXF5NTVrRjA1QnluRWl1UGc3RkJNN3JxM1h3SU1wWXV2WWxONlB1dlkteno1d1lVMEdLSnhid2F0blFtX09PSXNOc0xKYThHWE1BRzdwbzRvWlJKTENhMk1ybXJfQ3JyeDFvUHBIQXN4WkZPcw?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "UOL",
    "region": "BR",
-   "date": "2026-11-13T12:57:52+00:00",
+   "date": "2026-11-13T12:20:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -499,23 +499,6 @@
     "flag": "🇧🇷"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "32b69a6c9f",
-   "title": "Após defender 'tesouraço', Flávio Bolsonaro vota dos EUA contra ajuste do governo Lula",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXlYTzF0SEp5MFBERTRpLXV2QnpxRTc3U09qRkxkbmpCUXgtZGlMU1pFalV3azYxTGxPeXI3MGQwTEJEWVYyNUwtekM1LVc4cy0zTE1JbV9Fc2w5dFhHeHphQkJ6ZjlFc3d1NmVSdDNOdWd5LU42OGZhazhaLWJoMW9mWGUxVk1rOWZLYUg0OUtJVXZKVW90NzRmNTdOQS1wd0FhajlWY0RicThKQWNrMWRBZ25pdkFSdUd1OEQzWFRXOGliNWdiaHNtR0d2LV8waTRuZjJFS05OUdIB6AFBVV95cUxQVGVQMUpIRTBmVDM0QnU4MHVYMVRQMjNxbFNLRUFRRVhqcVJObE1RZWZ2WGtyRFgtWkVNUUhNbVQzMGl5VmctakZJQ0lwQ1BudjVmTEpVc0tiYVlFYlZBNm4zS2FiekpBLUh3QnhVVWtTNjlpRnJVYkM4Rzl2WlhKcl9jeDBQV0pGQ1VhaGs1SjI4eGtXLVJzcHo3WWhQME5pSlNRcmNDMGh4SkUyaEJ2MktKaFRlOXVnUDBVZ0ViTTdPVmFPY3FkZ0V5NUR1anRZOHV5YmxwRC0ySnRfU00wWTBKV3QzdGZf?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "O GLOBO",
-   "region": "BR",
-   "date": "2026-11-13T12:11:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "56d2f04bd5",

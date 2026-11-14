@@ -1,51 +1,92 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
   {
-   "id": "58408758d8",
-   "title": "Malaysia’s Melaka election: voter turnout hits 70% target as poll closes",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFHSAcYBQVVfeXFMT1VPekFvQzZ1bWprVG9DTE9xLXRUUDVpRjVJZjk4NGljYlpzTmExejNnSnhzNE95WC1ESTBaenpNOGIyOThvYzdFallnOHNlcXVRUmgtM1Uzb3JxWnBtRllfU0htQ0pvZTlKclZRZmJ3X09Hd3FaM3Zndk0tcFR5V2lPdHRrM0ZnOXBuNWxpck43LVRqbTFxek84Z1RGSk80Z29feFVLZkQ1X2g0cUFVZWl0VVNQMzU2RlRnYUJjcXpjQnc1bFdn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "South China Morning Post",
-   "region": "SG",
-   "date": "2026-11-14T11:23:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "ca1e48c1b5",
-   "title": "PM Wong to visit Manila for ASEAN Summit, related meetings from Nov 15",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXQwVG9CYlRtUHBQX3BjZzFDM0t3Y3h6SW51Uy14eWgwLVpyR3dLNGVyU3dsX3JDdG9mWGRYSUxQQmVWVUkwSXhscmtXWGFpNEdxdXRsRksxLVR2U3RBa1gyWUlPekxpckk0WVdoWnE2RWtNNm1NaTRucmlieV9xcWxMT05YVjltOFN3NWp1M0tkMWMy?oc=5",
+   "id": "e8dde9ef39",
+   "title": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmhEZ3NHOHZpX2NwSENWWDRzMWlGQml4N2h3RV9aNzZQUTFVOVItQTBPdzNPbFlnSU1pRkZ5emdpRXBabnBXN1VxRlN2cEtnLThaYWJrY3FodGF0RVNmaG5DcVpDTURCM2kyYjU1QjROSE5OQXNGUTVRZTJwVXp4eEtJVEpXYVhENjBHY2VoczdDRGhmakE?oc=5",
    "summary": "",
    "image": "",
    "source": "CNA",
    "region": "SG",
-   "date": "2026-11-14T10:00:19+00:00",
+   "date": "2026-11-14T13:16:30+00:00",
    "coverage": 1,
    "location": {
-    "country": "Philippines",
+    "country": "Singapore",
     "place": "",
-    "flag": "🇵🇭"
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "52958f591b",
+   "title": "US proposes Ukraine cede territory in exchange for joining NATO: Zelenskyy",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXhiUFotWnloVHVWVFpvMHhsQmZ6OVMtVnpFU0NFbldPblB2UU1jYmRoak1FMjJQcm5PTGlTOE1CUjZRdTBTSERKUXhlY0dhVVJHczJDTS1tNHhpTDFfY3NlUFBGSkJQM2E4VU1kd1hYZ05fWTdiamk4bVlrb1phTENLMlB1cWtjd1NnVmg2aFE4d2QxNVdDRWpoRDBiNDd0X0YycU1BX3FScUdWT2NHOWNmaVhrQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-14T12:52:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
    },
    "topic": "Society"
   },
   {
-   "id": "607673f117",
-   "title": "Man United, Pochettino's to-do list based on what's gone wrong this season",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2swWnpxRFprcFJCeGV4Q3VxTnlSbzNOVkd1Q2tic0dFcmM5bXIwTVdLc2dhdUMzcUVQRkczLWRKNHlOX0x6WElZN1NteUx5OThDenA1SG1FTTFHVVpDcmF2TVZwb1RUQ0daVkdpNktrdk1CMzQxVGo1R0xBUF9fV2hKTzFnX2lPcGhBcEY1NXBNSkcwVkpKdndCWFEyaWE5WXc?oc=5",
+   "id": "f8f6b38ade",
+   "title": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkN2eXFLMGlYQkpPRHpDQWdPZGdqUXBDR1ZlaWR4d2l2d1lnS1F4Nl9TeHNNd0ppRmpYaVBBV0J6ekxYVmxiangtRVNaMDRtNG9QRFl5dnh0R1VfM29LTVo3LWVINzJpdi10RnZhZWhDb25IMk9xck9xUC05MFBEQlhwTmJCekJ1Z0t6Sk9icmtmc0U?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN",
+   "source": "ESPN Singapore",
    "region": "SG",
-   "date": "2026-11-14T08:39:00+00:00",
+   "date": "2026-11-14T12:30:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬 🇯🇵 🇧🇷",
+    "also": [
+     "Japan",
+     "Brazil"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "aec6588cb1",
+   "title": "Motorcyclist, 31, dies after accident in Jurong West; fourth road fatality in four days",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaENmYWlGWEhnZ3l6RjNZdmUyZ1dmcHB0OHIwZDZhdi1tUWl3REFrSy1HalNBSzVVNEVWazA4Y1lVTmZmeXJVekQ0aS1QUVRTMHRkdHh0RmJUT3R6ME91ZHhWWTUwLTRPSVNzTDRnRjlBRUhUUjl1bEthcjR2UVE4Q2x1bWVSME9LS25RZFpSbUJNN2VndG9yZHRyQ09hX080S2lQNHpPSUhfTVBTSVBOWldKZlhFUW51aGQtZEJDNG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T10:42:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "48f4527e31",
+   "title": "Man United, Pochettino's to-do list based on what's gone wrong this season",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcmM1OVc0ZVphMnd2VjBlNUhvMjVNQTRta2dYMklHcFdXaE53V2RxSVhVSVdRdFFGbmdaWHZyczQ2dnNMODNsbzQtVHVwMzg4a25sLWxGRGYzS0hiSXN1My1hdmhqSnZDUTFkbVVDQ3JmTjQ0YUpfVlNtOTJ1SkRDalFjbk1NeTluTVFrLWhJWlMzQmpHQTJmazh5QnVFVDBOWW5PVHdR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN Singapore",
+   "region": "SG",
+   "date": "2026-11-14T08:59:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -68,26 +109,6 @@
     "country": "Vietnam",
     "place": "",
     "flag": "🇻🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c41a3292a2",
-   "title": "Japan vs. Brazil Lineups and Confirmed Team News: Is Vinicius Junior Playing Today?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlVmYm9iZDc3UnEwblA1ZEJKRDY1dnlibVNTTzByd1djbDhVcjVzQ2gyUlZxb3E0bl9EVzQxcFREekNydGZYWTc4d3kwTFducXRTRmtrcm12RzNtYlNZT0c1d2xnQ2hFaUdLZTRBa0NTTjVTUF9LUW9WbHZCMy1RVm9WMmZEcmZkNHE5NUF5Yy1PTWJtMjJqQ2ctaFdSUzAzRXh6cmc5THNBUU1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Athlon Sports",
-   "region": "SG",
-   "date": "2026-11-14T08:06:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵 🇧🇷",
-    "also": [
-     "Brazil"
-    ]
    },
    "topic": "Society"
   },
@@ -231,21 +252,21 @@
    "topic": "Society"
   },
   {
-   "id": "21e2b20b2f",
-   "title": "17-year-old goes on walkabouts and meets with residents to address community issues like 'an MP'",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmw3RmsxTjBYTVEta0tRN2VNT3l6cDZnTjdUblZPVGZUU2FhQndZc3JxQjdINGkzQzFDczlhZ01vUVBWZGhUQVlPOVlLZkFuZHpzOHBCc25iblRscmlOMUZXMUVwSDZMam9McldpUDdYVVp0RzBBSFJXUW1kSzQ4SEw0TzczWU5yOTdTMjlEOGI2YVZESjh5MEl5N0Rud0x6?oc=5",
+   "id": "58408758d8",
+   "title": "Malaysia’s Melaka election: voter turnout hits 70% target as poll closes",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFHSAcYBQVVfeXFMT1VPekFvQzZ1bWprVG9DTE9xLXRUUDVpRjVJZjk4NGljYlpzTmExejNnSnhzNE95WC1ESTBaenpNOGIyOThvYzdFallnOHNlcXVRUmgtM1Uzb3JxWnBtRllfU0htQ0pvZTlKclZRZmJ3X09Hd3FaM3Zndk0tcFR5V2lPdHRrM0ZnOXBuNWxpck43LVRqbTFxek84Z1RGSk80Z29feFVLZkQ1X2g0cUFVZWl0VVNQMzU2RlRnYUJjcXpjQnc1bFdn?oc=5",
    "summary": "",
    "image": "",
-   "source": "AsiaOne.com",
+   "source": "South China Morning Post",
    "region": "SG",
-   "date": "2026-11-14T01:00:00+00:00",
+   "date": "2026-11-14T01:02:20+00:00",
    "coverage": 1,
    "location": {
-    "country": "Singapore",
+    "country": "Malaysia",
     "place": "",
-    "flag": "🇸🇬"
+    "flag": "🇲🇾"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "bd5f1e329d",
@@ -316,23 +337,6 @@
    "topic": "Sports"
   },
   {
-   "id": "df1c8d0cc2",
-   "title": "Song Ui-Young gives Lions one moment to roar as Paraguay hand Singapore lesson in levels",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUtqMlhSS3VjeVIyVXdHQURMYmFMaEQ5WHh3ckp1Y3VJMEJMRmo2WlF2UTYtTU9FRVprZW1vSDhIY01zX25iZEluTy1GMk9pUlYwTGJoNHRSUEZQQXBWTzlGdGFCTWNIb0JiUHhXSk9oMC1HQU9Bajk4TkFRUG8tYTFIbkZRN3NFT3Uxdi1GLWY2aG9Hd3JqYjBXdTRtdGZqZXA4YVpBTXEwY3VPZEVKLXpIVm54Z3lQbkk1cjNNaENGYWhWdmRlNzB3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN Singapore",
-   "region": "SG",
-   "date": "2026-11-13T19:34:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "32f553310a",
    "title": "After 5 pregnancy losses, Hanoi mother welcomes 750-gram baby girl",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVl0RGtJQXM1TVBUbVdmQlZqbHBEWG40ME5fRGdLX1hGNzlLai0xamk2RXVhdHR1V2lucXZodzlSSXNnYm5peVJQaFlJMHgwVWxIblZvY0ZjdWwxYnA1WDh3eFNKNFhER3EtcTRjSWJFVkloTHFjRVJkNEprekdjZklFVk55X2M0R1lXM2h1bmszOUxkd3QyUGNmOVU2OW96bWRTZWswd284dEZYWlVGYQ?oc=5",
@@ -346,6 +350,40 @@
     "country": "Vietnam",
     "place": "",
     "flag": "🇻🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a84cc490f6",
+   "title": "Singapore lose 4-1 to Paraguay in opening fixture of friendly tournament",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTE9DWkZTMUlRa243NU82d2YzZ2llanlGWkNEMF9MM3JVSWtva0FpU1FUVmFSb2VUOXlJVVVQTGp3ZWgwdlZRNlVsZFVzU3M0V1BEWGdrMlBJZE0zRmxmUVkydUVsc0dfWVQ0aFFqdEhiaVNHNWhTTmY2Q1c3RnYyNzBwQWxZR1NKMHluXzlidC1BODFLMkh5RDhwNEptSjVDWmtIdlhiOUswQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-13T14:04:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "03d694410d",
+   "title": "Euclid's first data release: A stepping stone to its 3D map of the sky",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTb2cxYW9hYlBQemU2VnR2QnVVNUtKdUl5azFBU1dZdldNSTJfR0JoRzVJRUFocEZ3WF9fdTlOYVNoMldmR0JOZjVzaGFBendSM05POHRIOW85QjNVUm1Tc0dKSU8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Phys.org",
+   "region": "SG",
+   "date": "2026-11-13T13:00:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
    },
    "topic": "Society"
   },
@@ -367,38 +405,38 @@
    "topic": "Society"
   },
   {
-   "id": "7009e592cd",
-   "title": "ESA’s Euclid Telescope Maps More Than 900 Million Galaxies in First Major Data Release",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT01rMXdsUHRIZmdzaTFOekltcmtLLWI5elhSdG9VOTJ5RkUxRFJaUmZXbGJTcUZrbWlhZUFGclBKdlNNMlYtb3ZNZmZlb01NV2ZIRWhVZnZKMjJtcEtTRVVyMjh1QlVxRGlNS1czdnphRkdZQmpCbkRBU2lKUlNpUjVnMFBjWVJuMlNZTTBYWW5oZERKcE9OLVNvTG1LX3FpZWRHbG5NdXExWTNQSFk2OFZOZjlrV2xFdFJxWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SpaceWatch.GLOBAL",
-   "region": "SG",
-   "date": "2026-11-13T09:42:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3777d03f9f",
-   "title": "No clear link between recent data breaches; incidents appear to be result of 'opportunistic attacks': PDPC",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1pVNmYtZlA5Mmx3Q0RLTkRsM0M4UFZhRjltZ3BjalkydU1CQ1hhQ0l6VGNBR2JPOFdoWDhOcHZ0X0dlcjVrbXBON3VnbDFuX3U2TkJLSjlnWmstYVV5RC1IcUJXdUlyUmF0blBubkM2dEZyWXJDTlQzWWZTSm5XeDNLcHFjU0lxb0QxaFdKV2l2RE5QTUJBY0U0c2lkMzZXa1E?oc=5",
+   "id": "e25ee806e6",
+   "title": "Singapore's healthcare cyber breaches expose growing risks beyond hospitals, warn experts",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFZZZlJLSWs3cnZCVjZmWjM1TktVUl94eHFFbGN0bHVaZ3ZFek9sTGhmQ2FYcHNjNEJwMzRFT2RnT3Q3OHJiZEF3Vl9rcFpmQmpaMzhxalUtOHV2ZG1TSW9KRzlTekhzTS15MEVHZVZtVDgtUklvQmd4M1k3TS1uVmMtZzdyREV5dEV4aXBHWjROTV9YV09aOUN2UXc?oc=5",
    "summary": "",
    "image": "",
    "source": "CNA",
    "region": "SG",
-   "date": "2026-11-13T09:19:00+00:00",
+   "date": "2026-11-13T09:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
    },
-   "topic": "Society"
+   "topic": "Health"
+  },
+  {
+   "id": "bcd99a8d24",
+   "title": "Daily roundup: Off-duty police officer disarms and rescues distressed woman on road — and other top stories today",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFRGQ2hwVWtTa2NvVzh4RV9GUy03VGxYanJEbHFkZHNKUW9BbXpCbkV3S1U2cDJkTXk3MGRpVWdMSlRIbDBDem1IYmJNeEhsd3hIMWkyeUtrZ2tBUmM2NVpKWXhxeU1IN2pZTkphMGtHdmhXZld4eFcwZFFkZEdJMnBDU2ZWN3JFSGtlVjVsanNVTEs1QldvaXhhZlBkR2ZTeDJteTV3a3BLRFRzLU40Rkl2VkFCSEYz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AsiaOne.com",
+   "region": "SG",
+   "date": "2026-11-13T09:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Politics"
   },
   {
    "id": "e677319663",
@@ -486,23 +524,6 @@
    "topic": "Politics"
   },
   {
-   "id": "9f2f82e924",
-   "title": "Malaysia probing whether chips linked to Megaspeed unit were re-exported",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWl1ZFBGQWpRdHFQQUFMTU1QYjZkemNWYXhaUlV4Zm41X0ZScTdfVDVKdTRHYUJzYTNzalppOFhtREJJbmxtOXNGN0E4NGJxSEJlbEFxMWRrdDROTk9Tenp3MjhHdk5ubVpDbjFXX2w3QVltYjNRQ1VrenNON0Izb2lkSzEyQ3VMVnVyOTBoaG96eFA2MVpZa25CcFNzRmtzTFZRSkhxaVdpeHVuazRlLTBzd3RLNmdFT0g5UzZ0Q0JXTGw2eUcw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "SG",
-   "date": "2026-11-13T03:23:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "8ca6ee8126",
    "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGgxQUdjR1JnQ1lhTnluSk1lS2wyS3RCbGoyNXZqVUlLcmwtVUxYLTV3NW04UGhiZHl2YVZVU2dCeFc4aW92LWxjWGhleGljcTZIZktjcWY2YlhHaGxCNjZjZDY0TnRvQm9YcnlQZGpmTTNGRUNrdV8tRXlnR3l4LVFWNk9zY2RiUW42N1VmQjhVUWVJN1NzdXNzN0ppei1veGNxZV83R1A1QVZGUmg2M0Nld3dkWGI3?oc=5",
@@ -511,23 +532,6 @@
    "source": "The Business Times",
    "region": "SG",
    "date": "2026-11-12T22:50:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "bd53c5f330",
-   "title": "Apple's HomeView smart display: Ten days hands-on with the $299 device where Siri AI finally has a \"home\"",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjSHVyVFR1LUFxSlF0UVBocVN3RVFTNms5Ny16YzU1ellUNzlYXzNiRmotZHlLSE5SRnIwY1JqUjNJOWU0NlJIY3diOFhLcU04OUs2a0JTX3hQakZJYmNleTFfMTUwd0doLVZZQU12aFkwVE1meXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BigGo Finance",
-   "region": "SG",
-   "date": "2026-11-12T14:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",

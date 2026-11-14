@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T12:39:09.186765+00:00",
+ "updated": "2026-11-14T13:36:21.692119+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
   {
-   "id": "96fdfd22d8",
-   "title": "FAA ground stop: Wetin we know about US ground stop and wat to do if your flight dey affected",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TRTRWa2RrQVlzODNRZlh2M0Rmdk04TDRQeWFtR05mZmZwWjVwaW1BSHJNX2sxaXczVkVVUWxnRzF4SXNGMHhIYUctZGZnZXE2ZDB4VkNfNlNxZHk4MWfSAWNBVV95cUxOcHhFeHVyVzNZQW5DTWo4QTR6cFhMUzlxTDB4WTVab05MVDl0VWZ6WUd6a2VhYnVxUzA5SlZhczczVmMyVE1GeGF4dGxHWVoxaFdFWVppaUVhNU5sR1JTMmNwNWM?oc=5",
+   "id": "aeeaee8950",
+   "title": "First Eurovision Asia about to begin as world's biggest song contest heads to Bangkok",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50aGdOcU0yeVlSSnBqREVvSW83VDBwS0tmV2xBNWZxNVVTV0NqUEFBQWtPTDZ3MXJqZllNRUU0ajJINU9VcFVrT3BSWjg0WUdZcmNCQXVR?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "IL",
-   "date": "2026-11-14T12:16:55+00:00",
+   "date": "2026-11-14T12:56:42+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Thailand",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇹🇭"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "1b433eef91",
@@ -38,14 +38,31 @@
    "topic": "Society"
   },
   {
-   "id": "856093cf90",
-   "title": "Israeli study finds why humans suffer from joint pain while apes stay agile",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aSkpKZ25zSGtUWHQwck9rRVJDQVFvRm5FVGJ1M1hDNDh2OXMxMlZqV2pXQ0lQOWZPMDVsaDctdUxuWUo4NTJDQ3d0bUNjTExORC02TVNXMDdOUmhYQ2R0Y29GRGlXdnc?oc=5",
+   "id": "3cdba4e4f3",
+   "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZM191UEhYNFZBQmxRQVd3dV9yMWNlYjdMSkIyNktXOU5idU05SWlzRGQyVUJDSTJWZjc0Xy1MZlpERklDMlVnaUlab2RwMHRZNGJJdENDQjVBNjk4aWJpcEhzWDZBYkRCYm95c0tzbw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Jerusalem Post",
+   "source": "Science Daily",
    "region": "IL",
-   "date": "2026-11-14T10:48:58+00:00",
+   "date": "2026-11-14T11:44:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f1c50fb354",
+   "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNThCQUZMWVRCWGFfbm1uNVJudnNBSDRYUnVFZW9kVDZpX0g5Q05qWDFGV1ZQMTNEOEd1UEd0Z0dBYzZjRGdsQVFQUHE1b1dqcngzdF9iZWtpWlhaTGh0dldFSVVlZHpuSUp1ZVUzbklaN0tiWUpaSFluLTJBV0ZaaQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WIRED",
+   "region": "IL",
+   "date": "2026-11-14T11:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -72,9 +89,26 @@
    "topic": "Society"
   },
   {
-   "id": "c6e93f5852",
-   "title": "Send one prompt to 6 AI models and compare their answers with AskAnyModel for $31.99",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhxeWVNMjY0WWhlamR4WEN4TzBEWU51OF9VWUIxYUs1cUxxczJPZllCeFZpTXFhZmRIQ3hvMUNQbUl4WFA3NVByODlSWjR1VzVrXzFkZjM3UF9kcktKU2VOQW1yc0RhbFBGd0hrNlg4dzhVT2N6bTJLNVZQS2VMQkFnNXM?oc=5",
+   "id": "0176545ea1",
+   "title": "Passengers face widespread disruption after US air traffic control outage",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFVJZ0I4S1JKS1BCVkJaYV9XbjlFN2c3S1p5MkFXbmJSSklyMDVhS1liMllBdndNNnlxVDdzTThyajlaMkhBZjVNYXlpeS0zUXE1Ulc0T2lhcE5KeWxvMFlFaUl5aUw4eGlTTzk3X1F4eXo3RGpHU09SU3F0SEFOdU4yc00?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "IL",
+   "date": "2026-11-14T10:19:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "734d0b039c",
+   "title": "Early Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96eTdrdUxyVkNEUGJ2SDdtcENIYmczZVo1THlSQ2RMVGFNNjBoM2l1VnNEa3NueDVaZ3ZPZFhCQ2xXWmpva0FaSGV6eGRyTnVWMDR1UVFoXzN5bGlEb3RkeHpfY3VVQnh1RGpWU2p4TDJaMk52SGlHZXlWcVJ4Zw?oc=5",
    "summary": "",
    "image": "",
    "source": "Mashable",
@@ -86,15 +120,32 @@
     "place": "",
     "flag": "🇮🇱"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "734d0b039c",
-   "title": "Early Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96eTdrdUxyVkNEUGJ2SDdtcENIYmczZVo1THlSQ2RMVGFNNjBoM2l1VnNEa3NueDVaZ3ZPZFhCQ2xXWmpva0FaSGV6eGRyTnVWMDR1UVFoXzN5bGlEb3RkeHpfY3VVQnh1RGpWU2p4TDJaMk52SGlHZXlWcVJ4Zw?oc=5",
+   "id": "e00b264a1f",
+   "title": "T-Mobile is giving away the iPhone 18 Pro for free — how to claim this weekend",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81R3QxQk9UOTNiaklaRGY4QzIzZHJJVTd6YzduMWxPRTQya2ZMVEF1R3oyc296LXFMYmNuSHpmMjdXcGhVMS1jWWZycy10VFVLOUp6bndsaVpFc2NPcW41QWF2cFppZw?oc=5",
    "summary": "",
    "image": "",
    "source": "Mashable",
+   "region": "IL",
+   "date": "2026-11-14T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "b8f191b1ba",
+   "title": "Elina Svitolina still has a ‘great relationship’ with Gael Monfils and they spoke before WTA Finals",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdU5sMDdSLW5KaTh6N0JfSU1uTHRHUmxSd0RqazhMT05fT2FaTUlpSDRuVDJMd1l6UmZndVdzZkNISWM5Mk9jQ3FMenNIbzBLVGRqeThVQmMtUmd4STlhWENFZjRmWnphUlJZazd0UE5YejhfRVZxdmVZcldxM3FlOG5vN1lJWXo4d2FWamJiSURMaW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
    "region": "IL",
    "date": "2026-11-14T10:00:00+00:00",
    "coverage": 1,
@@ -114,23 +165,6 @@
    "source": "Al Jazeera",
    "region": "IL",
    "date": "2026-11-14T09:53:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "12b9bb9f4b",
-   "title": "Quantum Systems May Bypass Slow Driving With A New Measurement Shortcut",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3lrbXVpel85dmdFNU1rTUpyT3BxVnhMYUJoLUprZWVPSXhkelNWd0FUWmplamF3Qk1tSnJldi1ZaGQ5bGR1bmtrcXYwMmZNU2h4eXBIeHhyVHMtZWtZME9pRjc1YlZSS0RKa2lHYmgwSS16aGloMXlhSThyaGdvcWhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Quantum Zeitgeist",
-   "region": "IL",
-   "date": "2026-11-14T09:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -174,21 +208,24 @@
    "topic": "Society"
   },
   {
-   "id": "9f555df6dc",
-   "title": "Microsoft says all services working again",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1veWdjcVl1Yk53WlJMWjV5b3RLMjZISHhCU0dJTXB1WG9BYVNpZUhQX1IxTy14c19QY3FnalpTVlRURVRXSmlUbURWYTZCcGJHbkVvWGNDYmJpTmFFcjViSWJhVzl6WHZHcUJwNTh6cE9nSXdScnM2bE9yR1hjSGPSAX9BVV95cUxPUzkzUWtoNjJwdkFsWHkzWm9BLVBMTV8wVVJoT1k4T2g5ZGtDdkpUNmcxNGpVUmlRU3pmNUdHUkhaYVIzOHFudC03YjNmR3JnV2hUZzJaemlqNzlaY2xuSDJOeEVEVWZ1cGoxVUphTGYzakVsdmlNa3Vza0VBazRV?oc=5",
+   "id": "985bf8afd0",
+   "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeExBSWlaRFkzRS0yMjFMNlJNMzdiUHdlSnZDNWVnbFVUdERETHJLM1RCZWFDUjVhNVFqNlpfdm4xbUhYY2hqUjJfRGt1eGY2cnFlTkp2dWVfdnY4MGJZanozRUN4aWZ6bmNzT0dxQ0daVEhOb1JYQWljYnVZZFpqZS1lVU5zSkRLVjBYMUFpazdEdFpkLUt1Qlp5VkFlWnhpZndtUmlUWGVrUdIBrwFBVV95cUxNOU1VbWJKQmp1Q3JOY0YwcF9WT1lTZGtqRWdvUk1LdHJfY3JiVkRrdlFZbERmVHExZ2NCdGRReU1OdE5qQjZJeGZnX21SeTN5UXNhZXZDa1EzM1RldEJMR3VWNlZkYjlqbVdiVzRlOGQ2MjZjd1VyNUNuN1RodTJQWEFxQmt0SHNKZ1VLVHdqRUtpRWdFQ1R6ZWFlR3hNMFBoRDZLSUU0c0lENW9JWE9B?oc=5",
    "summary": "",
    "image": "",
-   "source": "DW.com",
+   "source": "Al Jazeera",
    "region": "IL",
-   "date": "2026-11-14T09:08:51+00:00",
+   "date": "2026-11-14T08:14:06+00:00",
    "coverage": 1,
    "location": {
-    "country": "Israel",
+    "country": "France",
     "place": "",
-    "flag": "🇮🇱"
+    "flag": "🇫🇷 🇮🇱",
+    "also": [
+     "Israel"
+    ]
    },
-   "topic": "Tech"
+   "topic": "Politics"
   },
   {
    "id": "7be9c7c3ce",
@@ -293,6 +330,23 @@
    "topic": "Society"
   },
   {
+   "id": "4d187858ec",
+   "title": "Gold Plunges 4.78% in a Week, Biggest Drop Since June, as Fed Rate-Hike Bets Weigh on Precious Metals",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUkNjYUs2SUNzSEFKQ0gxbno3S2I0NmV4S0RfWDB0UEdYSjA5a3U2VmQ5bXFXdGtLV1FXWUFwVmZXekM4OEwxeVR1Vy16RjA1cVpRbEM2VVdwTEpFVmhwTC1jRFhmcXNLd1gwc0tLYmFvYUZJREE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BigGo Finance",
+   "region": "IL",
+   "date": "2026-11-13T23:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "202e7cf190",
    "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG5hUEtNekVUelhnUVFLRmVVZC10UC1fbmNIWjJ2a3R3UFY4V09EbWRVQ0ZNWkNBTGtTSXJxOWw0dEJrd09SRHp6LTB6REVLeDNpVGx4eWRtd1hlclREVV96VjNnbHYtX19kbXh3M3FDZm1sd3JmM25lY0g2THJNdXZya3RBZXJCVmJmUU56UUdhWDFRRGRBQXpnX1NRYkFYQTZwYjRQVkZSYTlaRkNIVGt1TWpJQdIBuwFBVV95cUxNNHNCUjZHRVhKRFJsZ3o0U0V1bWtlTkp3SHBzWU42N2xfcEd2LVRHWUxNUDhJYXluVklMTkdFQjJ6bndDS09kUHBOVmR2TGJaV3lIc2l6c29lVkFIekNCeGNJc2hhYTVOMDJTb2FqeDg0X2RrdHVMMjBOODhnU0RGVkx5eUxLdFlHVmVhaXlkYWRodDhOVnBoVzBteTNaQ2ZXU0FVZVNiUHBRSVU3RDc1WVdTOEN6VXY2NjV3?oc=5",
@@ -322,23 +376,6 @@
    "source": "ScienceAlert",
    "region": "IL",
    "date": "2026-11-13T23:03:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "51b09ad83c",
-   "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOblFVZ2Z4Q0k3ajYxNUpBel9HNUxzOFBUZVpSNTBvSFR6eFZFQnBEM1NRYmhjbHJEbVRUYnZlWkFRblhfcnNlamd1MllmN2ZZNU5Lb2R3U1l1cWx0NW5WLXZ4ZFNtXzNLNHBZVEVtTnVQbDZJWkdLLTlUSWZjY2IyOXRid0ZrSF9KVHZmaHBGdHJBY0pDUWhvZUZ4dWViSFhvaGxrb1VGVDN0cHFhdUlZQWI5bXNaazdxREMwV0J3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "IL",
-   "date": "2026-11-13T22:36:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -382,6 +419,23 @@
    "topic": "Society"
   },
   {
+   "id": "decca8bda6",
+   "title": "7 Ways AI Is Ruining Gaming",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KSjg5bVpUZmp5OWRRMmVXc2VyY0VjeC1TeFhQMjNuSjZkOHM0OC1XWVZZTnVqWVB2VnRHSTBoTktPVVVWdGNhY1c4dEIza1RjdWFpb2p6LXYtb0oxTDNyUVMtMlE1TWhicGpxa3ZGelI4V0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SlashGear",
+   "region": "IL",
+   "date": "2026-11-13T21:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "b5432f9254",
    "title": "U.S. Natural Gas Futures Relinquish Some Gains",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk5uVTQwS2hlbEFKdHdvRnF4clQxb0M5SGlCaU9teXlROU0tWWN0MU9rZ1loWFp4OXBUYnRxTmFYZUJzY1ZoWHhZbXlVcWpRVlZaOFBrdzB1VW82TTBCb0hMdnp2LWp1S3FLbnk1TkpSZkpRMlRKTDJNLVkyNTNBdDh5ODJPVmlHaEYwcFpaZjYwYXRZRlFRRlhHOFZFNkE?oc=5",
@@ -420,23 +474,6 @@
    "topic": "Health"
   },
   {
-   "id": "a95bc6c254",
-   "title": "Eurovision Song Contest is finally coming to Asia - meet the stars gearing up in Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3M1VHZTVmc0FHZDloQkxsVi1jRm9ZQ0xDRlA3eEltYmNvdHdjLTM4RzJqZmxXZ0xPeWoxVUtLQUQ2SnpNVG8wZHZpMktWZ1F0Y0tGQk5ITl96SG8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "IL",
-   "date": "2026-11-13T19:01:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Thailand",
-    "place": "",
-    "flag": "🇹🇭"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "9bae61c32d",
    "title": "Van Zandt's education initiative gets music back in schools and students interested in class",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdZRGYyczhqR0VmdU93b1ltM3BIUXdUYTF2SUR2ckkzNVR4cV9hZTFGS01WNE1vVWpuRDhqXzF3YTJ1RU9KNGJrLWNyZnJJdFV6VkZwOXhfWFFOQ0pDZmx1bndKQXM2MVctdnZULXY3QS0tV19pU3YwdkJFdlY3Q0I4OTZaZG5CQkVvaHVBRUtDNFdIdjlnTHRmQU5qSUxwV3BkUDJicE1fYVB4M2FrMUJBQUtBcFlMaGpOSDJEUzRfOHZTRXpxZzVxOUI?oc=5",
@@ -467,23 +504,6 @@
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "57aa765160",
-   "title": "US withdrawal from Under-17 World Cup exposes the growing reach of Middle East conflict",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSGEwSVhmX3VqR1RLazBsYWN1dVpkUnR3YW84Rk43WWhONXJydFptUnJ0Sl9xZ2ZicG9BM0xwdm9EY1hkcnl5QU9MREhTaFF6UmtYWWQ5dzRHbVRiSllDME56eVliaDRBckE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EU Today",
-   "region": "IL",
-   "date": "2026-11-13T14:27:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -539,6 +559,23 @@
    "topic": "Tech"
   },
   {
+   "id": "cee8585461",
+   "title": "September 2026 Interview: Nvidia CTO Michael Kagan on what Israel must do to win the AI race",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTJ0emRJTGZYR2ZLbFdIcGk1NDVhbmNXZEhZR0ljS3Znb0IzV0VYZ3hUZFdiN1RIc2NfU0FnZEZmVjVDQ3NGMnZXUlVfQW5wOUZQWUFPYlN3bjNxTmROTUtVVEtiYzA2bnc3cWdSM0draHFicGdQeU4zdFVkZkctWDRpcy11S2xGY2RLdHg0TllhTy14UzdjeWJLT29qLWgyMUR2TzZPN0dkbHRjbzMtTVYzc1ZTQjN4MVp6WkJ2YkprTEtWSFc1UV84Yw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "www.israelhayom.com",
+   "region": "IL",
+   "date": "2026-11-12T20:29:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "ac63084371",
    "title": "Plants Experience “Optical Illusions” Too",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHZmbDdFQmYzYlB0TkdDYi15eS1QYmJXeVBfQS1MZXAtNk1xVFAzQTE4QThoTWxrM2pLSnFKNlREcDY2R19DX1lrSjM4RDhBZFBreVJTRElpdEVHdEZIYTdnQU1UTlB4WWdZcWRfQzhJQ2c3SHFRSUx1MlFiSU1ZSHVyS3dGcHIyb044VV9IQWRZUnkwenQ5MnNGSQ?oc=5",
@@ -554,23 +591,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Society"
-  },
-  {
-   "id": "39ef8bcf44",
-   "title": "a16z's Jonathan Lai says AI game tools will cut 13-year dev cycles to 2 and mint new billion-dollar franchises from mods",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2WDhkSzZzZkJ5NUVPblN3anJEWGZKRmdhM0ZsdDJxVlFRSFBIS3VXWHlsN04teV9vT3I2ZFRvQjlwU3p4R1Q1TkdKY1FLbzZQQzFYRE5WWFNqOGM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BigGo Finance",
-   "region": "IL",
-   "date": "2026-11-12T16:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
   }
  ]
 }

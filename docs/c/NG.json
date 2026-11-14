@@ -1,8 +1,63 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "NG",
  "name": "Nigeria",
  "stories": [
+  {
+   "id": "12852f21a0",
+   "title": "Rise in political violence: Wetin dey ginger attacks for political rally as Tinubu issue warning order",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MmF1bTFTWlNWY2c2NWMtaG5Lelh0UE1sVjR4S2hpdEdxZWJYMHZ3Y0U3Q3R3S0hnRVVZeU1DQUk5LU4zTm5xNjJzdHFzbllLdnZEY2ZEanNVR3N5UlHSAWNBVV95cUxQNnMxc0RlUHhOREYwZmRVb3hWdTRNd0lLNzJwVHBhVzhtR2p2T0xiS0JlOW1zb3V2Njc3dE0zMWhiMFVzUGtLN2NkM2JITUo1MFpfQXNvbnhMb1JUWVMzUHp1ZW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "NG",
+   "date": "2026-11-14T12:11:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "65edff27da",
+   "title": "Evaluating transformer-based models for predicting metric-based research impact across scientific and medical literature",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Um5uaEdLY1ZLb3BQamtSakRiU3J3UEt0SmpCZ1hTQmhnVjVVald3a1BDM0lkc0tzQUxWdi1LUzRmR2QzU19lUlZmRTJwMUtGTTlzcGlQM2VlYjRfM0dn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "NG",
+   "date": "2026-11-14T11:57:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bada5e1f7a",
+   "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3BSZGZYdTBnMGgwZ2pfM1FVWWdtQUlNT0xVci1Tb0VSYUVZVUIta05tSER2dHV1WDlpY0lzSkFfaXl2R0FvRUgxYUd0MEtXOUVYeVVGRzFfU3k0a3hGOXkxUnVBTVlEQVBib0N4N1VUN0REX3N2QUt5c0ZuZTVwNnVxUXhNazV6Y0dKV2VjWEhHLUVFU3RyeUdweEdwSUNyVjd5RUxSTHBBRFFuLTBEOGNNcFc0MDTSAbwBQVVfeXFMTWFfeHZ6ZE9JTlpTT0k2Qkt6c0FXamE3N1FEa25TTEQ5NVh3dmxvS3Y0NlJGelo4d2RQVTEyaTZmeW1aT0xUQnFpblk1dmhWTUNJV1ZXa2JKSlI2bUdLNm44Tlc3ZU1nZGd1UEFDY2lhZWFNUHhyVGlJSThuQy0zb2VhaHViYVZzbVJMMWNDOWZ4Z0ljM0hLY0djQ0sySU9BY2U1ekRVY0pnbkRfMmpwcElzRWVwMnZSbGs2c0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "NG",
+   "date": "2026-11-14T11:48:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦 🇺🇸",
+    "also": [
+     "Ukraine",
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "d47a9e8380",
    "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
@@ -22,7 +77,7 @@
   },
   {
    "id": "1068860c29",
-   "title": "Airport chaos as US grounds all flights for hours over tech issues",
+   "title": "US grounds all flights for hours over tech issues, prompting travel chaos",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadHk4LURmeWRBc04wcVRoZXl4eWpxUWJFYl95MUdoaXVyZkxCaEhjQXFzcEdQQmZYZUx2N1NuaERuT2R2Q295M2hGSkxYYmQ0WnpnZXRxNFFRLVU?oc=5",
    "summary": "",
    "image": "",
@@ -38,6 +93,23 @@
    "topic": "Tech"
   },
   {
+   "id": "efa0d25019",
+   "title": "Heterogeneous knowledge distillation via architecture-aware reinforcement learning",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kVXNTM1NLa284b18zMEkwOFMzcEtNdFNKWWpFYzNLSnBlbzcya2daa1lGUzJJRzZRYTR4VExfR015STk3bVV4TVVsbHYzSFJYT2dkTl9qUGszNEdWcWFj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "NG",
+   "date": "2026-11-14T11:24:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c5bd75e789",
    "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
@@ -46,6 +118,23 @@
    "source": "Space",
    "region": "NG",
    "date": "2026-11-14T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bdf92d8f60",
+   "title": "I still hold Peter Obi in high esteem - Yunusa Tanko",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWxLQzc0T0RuM1p6a0NuaG9JVldyOEYtdGdpTUZRblRDY05kbWlTcElJczkxVDN0YkxiZDZRQVoyRzAtbHpQb1RPWDFWWUpIR3FrUWh4OWpFakZpRnNHWUlQbGtrdllVLXRJWlQzcHIzQmZpY2hqSHZsLWY2ZUg1S0VaaklBcG4wMzh3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Post Nigeria",
+   "region": "NG",
+   "date": "2026-11-14T10:39:41+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -72,31 +161,14 @@
    "topic": "Society"
   },
   {
-   "id": "a33a322211",
-   "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxN3YzWnlSc3BjMFFZZjRJQ3hKUHFWVHRKb1lDN2xJTjhxNjVkQnRQT2xfLTdLcWgtSG1Bck15Q3MzTWw4STNlQ3hXR0VPT09pT21jUHJQR2h0VEZDUmJLNVl3ckhJSFFxcHU1d0FWOVJtS19iUE9QTGNNWkg?oc=5",
+   "id": "634b700289",
+   "title": "Bitcoin Drops to $67,000 as Market Sentiment Turns Negative",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnJ2SndvVzkybWhhMzFuT3FZT0xKU3JGLU5fUmcxZHlUVkY3bHFxVm1ia2VPWHZBMTUwSGp5cDVSUXdkOEVkaE9PQTZ0V09mdkg0aFRYRm4zZFdBd19maGZaWEM5ZVo2OVl2MWlQUUlTSlFzQ0JqQnBvQm9Tc2ZwY05vOEE3WE92bjR6bnViRzRtTTlwSGxz?oc=5",
    "summary": "",
    "image": "",
-   "source": "Xinhua",
+   "source": "KuCoin",
    "region": "NG",
-   "date": "2026-11-14T09:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "72385be6a9",
-   "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU5VY3FGdnpHeXpHa29PX0xYbW1PMjdKeEM5V0gtV29HcFdsOXUtSVpSRlA0d1JsWlV4QU45ZVpUYXkyb2hZVExrbUIwN2Nrc0pXRTllSURpLW5IdE5DTlV2U2N0MzE2bjFOWmlubTFnY3ZWMFN4S2U1RTB6ZDhaa0VB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Astronomy.com",
-   "region": "NG",
-   "date": "2026-11-14T09:05:13+00:00",
+   "date": "2026-11-14T09:42:49+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -123,6 +195,23 @@
    "topic": "Society"
   },
   {
+   "id": "2ca51a9235",
+   "title": "Diphtheria: MSF calls for increased vaccination in northern Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZktDMURtQ1F6djRSNlNURmNGSzY4VlNwdjBqc2ZGcklTMHBLbi03NXNXTzJscHoxUlRqckdZa241Rkdsb19DSGtRMDZMb1I1LTBOb21zYXI1VW9tOUl2V185Z2pUVS1ua1VveG52ZWg0T3NXSElRZnkwYl9Yc09JZHVDaXk2V1A1TnE4VDRxM2FpWnVFNUJteEpaOHg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Realnews Magazine",
+   "region": "NG",
+   "date": "2026-11-14T07:46:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "1f71fb7931",
    "title": "AFCON Qualifiers: Arokodare Brace Fires Super Eagles To 3-1 Victory Over Tanzania",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVVXZVplVEUteG5nVUs5ckc5UW5FcmFIQXhCY0JKdndzYTZRc0VwaldETjNlRlg5M2M2cTV4czVGOUlNTTNrUVFhZ3Zxd1RadUtsNWF6bEMwc1JwX1BJRVozYXVyY0djeVpmcnI3RFU0MWhEMzQ2TC1xdXgwVnlaa0dGS1UxS2ZzdVM4RWZFY0JhQzRhRzdlNER2a1dYWXV1SHkzMA?oc=5",
@@ -131,6 +220,23 @@
    "source": "Arise News",
    "region": "NG",
    "date": "2026-11-14T07:23:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "203729145d",
+   "title": "Suspended Anglican Archbishop of Akwa diocese Ibezim withdraws suit against Primate Henry Ndukuba",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGtMSkdXMEZiTm5qWHd1RW9USExKNm9QaF9BMG85Xy1pNEZ5cmgwNHhnbHdVdHJ3LXo3MkRKeVIzTFlkeG01VnNyRXJUbTJGRFJQWnU5aV9MT19OZDdiZ3Z3TTV2MkxkcVlyN25Gd3VxUl9XUHJORzFWem1DVmo4bjB5YVlubWtZOGt3SjhXV0podDNaajg0NWx6TjRpd1g1SUhUdGxHWG56enVGazMtMmkyX25mWUk3U0tsWmRR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Peoples Gazette Nigeria",
+   "region": "NG",
+   "date": "2026-11-14T07:07:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -194,40 +300,6 @@
    "topic": "Society"
   },
   {
-   "id": "09cfec0ac6",
-   "title": "Political Violence: Tinubu, Obi Condemn Attacks, ADC-PCC Threatens International Litigation",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVTMycTV2RWh3WkJqNTBQYmFsZ2kwNko4VzQ5WUpJOVJnOVBrbm1neHF6TW5iSDF6cExUZUR1a25md3hoeUVjQzVZMU9oczROSERSYjFkb0FjQXBucnFfOEt2SGpJLVJLb1RyRzQtbkVPaGktVV9MWjhVVFJ4RkU1N3R2WVZLNTlMTlNuWUtHbTJNQ2lGUGxTYnY2a2dRX3B4U2ZVaDQ1VXJacmdRQkZiMmRJSHpmb28tN2ttalFZaUdnNHNoVDBr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "THISDAYLIVE",
-   "region": "NG",
-   "date": "2026-11-14T02:56:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2fa453bc1d",
-   "title": "2027: Whoever Wins, Nigeria Loses, Atiku, Obi Handing Tinubu Advantage – Sule Lamido",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVdtWVU4NDNIaUVPZEE1X2l1WGRmUldxS0hYazB5cHg1WTFWZm9rWEhyaFlFUm9HU1RyRHlOX2pRZS15UkpsUjhQcXE3VWVYaDRYMUpnV3Q5ZzBLcXZWbGFVc2FCOC1xYTJrTGIxX2NGeElyZi1HdTNpX0dvMEVoeGFLcE85MlhDRVpXMkRzbGVQRGlRNUN5MHJYNzVBNGszZUo3bVZ1M3JXQmhENHZNUUZxU09qck1H?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Channels Television",
-   "region": "NG",
-   "date": "2026-11-14T01:55:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a540df008b",
    "title": "US officials say violence against Christians persists in Nigeria one year after CPC designation",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGthdEVNbms1dzdVS0dXdnVqRTcyNHdPU0N0ZDA4cm05N3RqOW9kMU5FU1VZa0k0amRtVGJaTHJJSkhRMU1CZzJ3WDBNaGl5LV9rM1FQZTJVaUtkcHBaT3VqZk81MkpjYWRidkNzSkFWZ00yN3FkbWQtSDdSNl9PUEVfSTlnMmZKZWo0a2IweFl0bFJ0QUtUYmpiMmNTVUtKUWJhMU5uZE9yR1ZGM3RHb2FIY2diTXY4dGxabQ?oc=5",
@@ -248,19 +320,19 @@
    "topic": "Society"
   },
   {
-   "id": "ed4d144135",
-   "title": "UK revokes visas of two Nigerians over forged evidence global talent scheme",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaE9wamdTYkdvQ3NVdnpJY0xZRzVSSEJfUGNIcHV5RjNmeTcybFFmQ1Vwbi1zSzUwS2Y2RXhJM0FfR3dDcE5pM0dkanpyMUg1cDdvNjIwWkh6eWdER0x1UURQU29sR3Jwd3ZLLThPeDNlTGhwNkZvZ3FuR0poaVZGNmZHX0dXZ3NGNDRsNzFqMUhka0ZhanZxbUItMnlFeXpZZHc?oc=5",
+   "id": "36d2bd59a5",
+   "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVQxTWhyeEtGN2wyV0Z5a09NVVpzMlg0VHJEQ3VNTHEtSjQ5dDc3WFdTR2FFTFNTV0xFdm9pV0ZsTEhjdFV1NVRPclpMUFJWdlEwZnJWSkhTanlhTV83d3lkcXhOVFRDTHBLelgtdk9UbFdyZHNodXQ3bUEzTHd6UldYa0tOdjZoOUgtLUZ3UjhRYzg4NVBfc20tSVdJRlBoSTYyRWExVdIBrAFBVV95cUxNZmNXUkpQdVBiZTcyNnNDREpwUmt6TFJVd2pLOUxSZzVBVk4xTDFYM3diRWNLLUUtLTNOTDFJWk1zOWZoMmx5QXZPaWVFTmZTMEtRdnBQLVQtQWFqcVFWaWRfNXU2Y2s4a2xDVkdEYkE2d01TOGZnZjRaMzVZMzhDVGhYYXlTRzRGWlBTaUNyYkFYVGxFWDcxSXdrRVlfY2J0RVRZcDBxU2JnVlJB?oc=5",
    "summary": "",
    "image": "",
-   "source": "TheCable",
+   "source": "CNBC",
    "region": "NG",
-   "date": "2026-11-13T21:52:00+00:00",
+   "date": "2026-11-13T22:06:55+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Nigeria",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇳🇬"
    },
    "topic": "Society"
   },
@@ -282,57 +354,6 @@
    "topic": "Society"
   },
   {
-   "id": "1dafccfdce",
-   "title": "Finance must break developing countries from ‘debt and disaster’ loop – UN climate chief",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORFNzSkF0dzl6dlB6TXdXQmxUTlVnNTdRYVlvZlJSVjF3UVRWaTdWUi1WM1FuX3pxMVhsR2R5MldkdFRZLW51bEtmTGM0YVRTZS1ZWGN6aDU4MVlUaHpSdEdxeEZZaUJ3aE4xWF83Q2FkMWo3LUtLZFpiLVpGXzV3bkFmbUR4NURjX2NJSmFJRzJCOG9XclI2SXp1STNTeUpBWTNkQXVhRDdwMGdIZVVBOTVVY21KU0hGSi1Gc3pNcnhuN05xNW1oazMxTFdoVXNHMnN2N1F2eS1uV3ZHcFA4bHVlMlY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Premium Times Nigeria",
-   "region": "NG",
-   "date": "2026-11-13T21:21:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "af5782b0cd",
-   "title": "MSF Warns Diphtheria Drug Shortages, Low Immunisation Fuel Outbreak In Northern Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY01Ra0gxRjFMcVZKcUwzZWliOWNJd201d3hIUVNaR0N6ZTY5THhNVm9WOHN1SlNtWVlMQ0ZfdTRPOWlaaUlmTUhkXzB5V1haVGFmQXJfR3hwUDBPRzV3WjVZdzVPREtLbDJVMjlsWi15V1d3YWlyT2s4OFRvaG92T1RLbVN2ZnF4WVVDMVYwakRheDd5VEJrUHcxU3UxbkowWU9IZUMwNGRjY0d6cUxv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TVC News",
-   "region": "NG",
-   "date": "2026-11-13T21:14:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "337da41e02",
-   "title": "US and Private Sector Freeze $2.7 Billion in Crypto Stolen in Binance Heist",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMHVadDdaVlRERXBkMnNHclVhMmxLaDhBalpNano1QWYyMEJiLUhhSnhQTGRIdENZVExOZW91ek5rMzBJYVNiSW1wS09odzZJY3Q4TzFIXzV5WVVJdmh4QkVhQnN5NjdZLThVZGRsV0FOX0dtNXhxRzUxejZWZkNRTTFXRC1jekI4MDcyZ3FtcHREMTdXX1ZCMjFya242VGNsSkppc09QUlJCc0gwMEJvS21Sd1JYdmY1dHNZbHkyS293bEU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PYMNTS.com",
-   "region": "NG",
-   "date": "2026-11-13T21:05:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f662864869",
    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjdnbzJ4YzJuMEJKTkNzNlBvbGhWa0RxS0dzQk5DdFB0cmFqcnk1Zlk5eElSWl96ZWFvYXVfbVp6NFlHLU00OVRMYnQ3N1h0b3U4OXdabU1ETGczSzF4ZUdCeUE2dTQ2YmpabVYzOTZJX213d0xSbHF3ZkZ0Ym1pZ0xQYkwxMUF1VzZ5VFJ2dVhobmZ0QndKMlNLZ016LXhzWWo0UjhyckFYeWVRellhTUpxR1hDanVZ0gG-AUFVX3lxTE1QcVRlaFpGcjdJZldKWnhXdzRhVUlfeGV1d3VSeW10d2NVdkdTbV9kWmhabWI1djlSUWJPa0NpanhUOERJM25haENuV09MbDdDemdfOWEyZEx0eUkxVFZQd3JCQXRMWDY5Q0pWS2gxRVJENnFxMWp2aExnQmxRZGpZd3hlYVI1SXlIRkNJajlEaE51R0pIMlpURWxOTlcwNjNKcDBXZ2QyYTkxcFM5SFd3dWtkUjN6RXpHYjFSdUE?oc=5",
@@ -341,23 +362,6 @@
    "source": "Al Jazeera",
    "region": "NG",
    "date": "2026-11-13T20:17:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "eea203c8fc",
-   "title": "Fueled by Democratic gains, women will hold a record of state legislative seats",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjZCQUNvdFN6WlpnOHZFS1pfYzNNWThFR3k5YS04WDNyTFFMZElYaG9xeks2dnJnenpGb0xZclB2T084ZkVvQzljWVNtRzk5blRQdlVVTkJ5SksyVktyckJrTjNJU2VnOFpNT3h1QVBuTFR3eFNEZk5nMFMtY3o4M28ta2xMN0RCdE1ZQ2Jaa1RrbHpBS2t5cFVmNkZ4RDc0NkV6TEo4aUZPb2NVZjB3STBn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stateline",
-   "region": "NG",
-   "date": "2026-11-13T20:01:33+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -384,14 +388,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "fcbc87140f",
-   "title": "Bitcoin Slides Under $70,000 as ETF Outflows and Binance Hack Shake Confidence",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vYXdoZTZkclZvZ2xRYUlnZ1VfOXFjRkgwcVlpRDhRUmFEY3EyTldiSTdhblB6MFhaYTVnMUtSZTJldVRNV2tGYjBmMVB2bG1aV0hPRFZ5TGtQZnV2Q1h6bmlnWHNOOEJ1ckNfQ2ZGOW5lQS1oSGc?oc=5",
+   "id": "92cf8d3e1e",
+   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SGEwOVBLUHZEOUtMRkQ0T3RmNDJ1a0lyRGhYNWFZb2tWal80bEFYTHJfa29NOVRJbFo3cmxLR2RqbkJIY2lwMjJqd2x5RGdyNkx5dXA0MA?oc=5",
    "summary": "",
    "image": "",
-   "source": "BigGo Finance",
+   "source": "UN News",
    "region": "NG",
-   "date": "2026-11-13T17:08:35+00:00",
+   "date": "2026-11-13T19:22:08+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -416,26 +420,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "d3179dae8c",
-   "title": "Nigeria’s U23 Dream Team Chasing LA 2028 Olympics Ticket against DR Congo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckhNQzIteVZSYmNJVmR5dzMyWjNNQzZseEZDSWRsSTJZSTRaWC0xOWxTRTYtVUh6MEdDQVNjQjRHY1ViSEk3LWJuV2pCcGdaR3lCUFRfX0Vncl81bmRnQXpjdkxlYVcyQzlNcWVodERqVmhCY0JyN0R1aU9xWVd4M2IxT25tRGd3T05ibFhuQUNBLXltWC1BS01pMjVNSzJFNzE2WFpYT1BVNWh6eGxXMlRB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "THISDAYLIVE",
-   "region": "NG",
-   "date": "2026-11-13T16:02:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬 🇨🇩",
-    "also": [
-     "Congo"
-    ]
-   },
-   "topic": "Sports"
   },
   {
    "id": "435d97add5",
@@ -489,19 +473,19 @@
    "topic": "Society"
   },
   {
-   "id": "bc4495c471",
-   "title": "Morris Monye: Yunusa Tanko shouldn’t have left Obi’s camp — he missed the bigger picture",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVNoSlBGMHlLY2w1T1AtQ25kQmVoNTFpalFNSm9HWDlSRDFQQzZGRXZIQzVPSWVLb2xRTXJqWWtPOS0xSFNDMzlVMFVTVmpWMjBMUUdSakVxcFZnZ0l4bVloZk1qczhqZFRaeXlRdmhiS2o0TUEyWXZWTTJEdFphWlVKR3hZcjVoRnpPU0pvU1c5WDliWGlFWTZNQk90SDhXS0QyNGwyYlhKbl9B?oc=5",
+   "id": "42b1e4c297",
+   "title": "With the approval of UEFA and Jesus: Portugal prepare a surprise for Cristiano Ronaldo",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYmdQdjhtcTJoMVk0RlRNcUdoUTZXV0xJWjhOTzVldk12cU9od1R1eGY0amVrUF80OW9yTlZ1TW5CeW5JRkJxMFU2RWFCbXhEUkUwd2tfTkxNMkNhcHV2VXZieklPa3lMTDBBYmdLUHY1T1JhVm83SFM4RUllNzlIT2ZJdlRtZ0RiU0dGR0NOWHlKZFhLSmloVjA0MTZ4UWlnT0hlX19IODFuSG15MlgwZWdCWHZjeEJWOHdrcWRlSG9zbVdhdE0zdktQdFpIZHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "TheCable",
+   "source": "Goal.com",
    "region": "NG",
-   "date": "2026-11-13T11:55:00+00:00",
+   "date": "2026-11-13T11:51:29+00:00",
    "coverage": 1,
    "location": {
-    "country": "Nigeria",
+    "country": "Portugal",
     "place": "",
-    "flag": "🇳🇬"
+    "flag": "🇵🇹"
    },
    "topic": "Society"
   },
@@ -521,6 +505,23 @@
     "flag": "🇳🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "beacf78389",
+   "title": "INEC will obey court verdict on Atiku’s eligibility – Amupitan",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1VXVzcySktFbFkyV2trRzJTck8xeDgyQURLaTVRVThmQkhaR0NLYjV5bVpyckFpSlk0YVA1Y241TWEtV3VCMTNGb004c1hPY0MxUkFKQXVjV0NaR0k4VVRyWFB2REw1ekhtNVRUcjE0RHlnYlE3YWVCbkpzcm56eTZzeV9Fc1pGZVVj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Trust",
+   "region": "NG",
+   "date": "2026-11-13T03:44:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Politics"
   },
   {
    "id": "12e3cfda7f",

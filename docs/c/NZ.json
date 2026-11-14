@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
-  {
-   "id": "5a6deb7bdf",
-   "title": "Six unusual smells that could reveal a hidden health problem",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcW1qZ1JiUXFRZnMtN2Y3WE8xc2c3Rm1kVFRTVEd5QldiN3dJMHJDcTZ1OFptRi1KMTNTY1VRMWFJT25kWVdqbzlrd1BTbzdhczhsTzJHajdKTFZSaVBJVlkzSUp3QjZISTZjeVV3RnRyNGJuOGhkcTlZLTJkcnNaSS0zeXBKSks0YTI2LVVrbElDZ1otVVdTOWlraTg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "NZ",
-   "date": "2026-11-14T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Health"
-  },
   {
    "id": "1c826fec15",
    "title": "What we've learnt 10 years on from Kaikōura earthquake",
@@ -51,26 +34,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "557b745f7e",
-   "title": "US billionaire’s $540m superyacht arrives in Auckland",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJGWFB1NVhzOUJqcmNyODIxaHhsVm5HVUtLTzJBeEZpTTNDZU42eENyeU0ydmRIQ2NtMnNlOG9zN0hDT2NlMGJlWGJmSmwwU09mTFVrWlhHT3NXQ3N0dGJsdXV4YkE1YTFVWVltLWtSS0N6WHltTUdVdGh5bDdXR2oyZ2NaSER5SzVZck5OZFVSdDA0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-14T07:07:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇳🇿",
-    "also": [
-     "New Zealand"
-    ]
    },
    "topic": "Society"
   },
@@ -228,6 +191,23 @@
    "topic": "Society"
   },
   {
+   "id": "835189685a",
+   "title": "NCEA exams to get paper backups after online disruptions",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHAwWVdHdS1TSk9zSWFHS1JnUTNoU29Nd3NBLVhmYlF3ZC1udmhOb1hkU2s1X284MFFfQjZsREFhQW1XV3JpWmlJcnJzYnltaDJVNkJfWktlNnBzNFN0NF8xR2RNTGg1Y2FLbC0tMW5EaWtjVHFQZFMwTGUweFlEeGZNR2tVWFRlWFRjYzdPZjNmWXhlQnlJQkhnYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-14T02:51:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "16bd5e9e65",
    "title": "Delays expected for days after US lifts nationwide flight halt",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtkaXJXU1B1MFRFX1k4WmNzWTR3ckxGMVBHZlpyZExFQTd3OXo5UUlUcWkydkdyOXNmOGZsWFhaTE1tUV9scGdva1g2a2NpaE5DQXZiN2h3VXpkcVd3RU9ONXdNSE5KdTI3bVdYSGhEbUZXNDV4cmFkZUNDZzFhVWNGMjhERy15Q29CenJwVzNLd2FxVWRvUGNKRmxQQ3A0SUQ2aVNCeEhteWlOaVJyRl9ZYkhBRlJUVUdTQzgzdnkxTmUxQ1BrNC1Ga0x4Yk9OakE?oc=5",
@@ -313,6 +293,23 @@
    "topic": "Politics"
   },
   {
+   "id": "3611f8f5f6",
+   "title": "Apple releases tvOS 27.2.1, delivering Siri AI to multiple Apple TV 4K models",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNFYlNmTXhDcG85c21rV3ZnSnlhUmp2ZEo0RHIxalJBYTdvWjk0TnFtS0dld05oUWZQRFlKTF80bnJxdVRvQU5KLTE0cDFyZGxaYkVua0FIUXV5Wm5QV1N3WUpyWEI2YVdRUGMzOEFUYVh4M0hqQXh3NzJOVzdGUnpoZUNzT24wQWtoSmpQOTFIdV9yTkJpcUZvYWxrSDJIbFZVY2lBcFc3a2ppTXJnR19PUdIBuAFBVV95cUxNNFo0eFl5SWtzck5UeXNGMkJyQmRDajgyNTBMVUVYUVBCNTZNYUFNWVI2d3hkb2ItdURieGNOaGw2a2Vrc25iNWNnNEdsODcxa2hHaWNwOUljWFY4dlg0dzZxTDJiWFBQZnNMa01OX0gwOTNPR1pjT1I0R0dnU0dZNGQwZHEybktYMG5lZE91c3VKZ2ZNMHNJd1pFUXFaUkxMWi1pZVFON0dWRHhWNUQtNUVrZkwyZDlk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MacDailyNews",
+   "region": "NZ",
+   "date": "2026-11-13T22:32:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "0f75046558",
    "title": "The Kiwi tech firm trying to make waiting for flights 'time well spent'",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEtiWGxLOVlKbXlfYmJwNWZGQmtYb1plUEJfZHQwY1BzbnV4YnZKcDdzV3hTUlpKcHV0MzNGZ3hfTThLY0FrWnZhd245R0xuQVA2dzJwZEVBcktudjBsQmVLVUhHN0tabWJwYTNVZndUQThhMDItanNMOGhTNTgzUTZQUXoxVGRENUpVUm84OGwzeGhnR2ctaVVzeFpVbW1RcmtWajBVenlYVjIxMW9ldGdqQQ?oc=5",
@@ -347,6 +344,23 @@
    "topic": "Society"
   },
   {
+   "id": "b61f96453c",
+   "title": "Best Apple deal: Save $9.01 on Apple HomeView",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45djQ1MXZkaTE0ME8ybGxkVGV6akp4N2s0UVdrMVdEU0RzQjhPcHB0NFdSSy1vVTRKLXNHcnkxWm1GeUlMOTJId20zMkpESW5GbUs0T2Y5akR0SGU4UV9QMWczWXdtbjVtS21CSEtvazBOTHAxbFV1bnl2dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "NZ",
+   "date": "2026-11-13T19:07:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "aada1684b7",
    "title": "UK police open probe into David Walliams allegations",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeml2dFJCZnFnWkFudnpjdm5LMHRwd2IxajV2WTAxdlctM2xLckFqb0JoTjRzUWJPSUVqSUpqVlh4UWpKbHlrLVNTZjRhN19mRGctcWVYSE11a1BEbFVxeXhBZURYX3g1SHpVS0J2TXd2SUNNcmlDMEhJS1pMRms2QTBnRDh2djllVDZ1VTZVUDVJWDU3NVVGZw?oc=5",
@@ -364,23 +378,6 @@
    "topic": "Politics"
   },
   {
-   "id": "c219015b81",
-   "title": "How to wipe AI from your life",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2pjYk5VMDd2Q19NZWNTV1YzZnE4czh4ekN1TXFtQjNuQVRVcWxlR0JWUXVTR1ZDTUNGcFVYVV9QYVpnMzJWXzVUbDNzWW5SclhLUkRVaDdzZmVlUGIyeVdQVFBkWWg5TGw5ZjJIdEFmS0hZOUstZDh4Wi1yS0hZblFfOE9OV09fdmlZNkJ1SklfdVBrZVFCQ0pnTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Spinoff",
-   "region": "NZ",
-   "date": "2026-11-13T16:04:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "77fd3101aa",
    "title": "'Sheepiness is erupting' in return of Kiwi cult classic Black Sheeps",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajhZcTFqWjVOMlh1MWlvbDdHZG13cFRKWEpyZXVWOFVCZnY5WE56M0h6d0NMVUxWb0JyRHBNUldFMm5uSWI2bTl4T0RLM1Q3Tmp0cXBCMlZ0RU14Qk1ubkh6OVhkYWVON09QbF9CSGhHOEo4TTRHMF9MQ1BBY3dJMEoyaGJmWEd1QnRTZzhsOFZSdVlmOWpmVEV4ZVNPOXdESWw4NjNiV3ViU01S?oc=5",
@@ -396,40 +393,6 @@
     "flag": "🇳🇿"
    },
    "topic": "Society"
-  },
-  {
-   "id": "fbcb54805d",
-   "title": "Fickle Australians desperate to lap up Pat Cummins’ implausible version of events",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUVVX28tUlVrM3JmalFuOUdfaWZmOXRCdUU3NHVJdnlWbHBqdEpseTQtdVNNaV9xVm1CeWdDQVFnbFNCVzJCc0dZSnAzNHZIZjFMOHFDajQ2WmI2NXJVbHNJdWVuM29YcFNHRFBFaDhVLV9BN1M4M2NLTW03SUlncUNTX09FZVRrVDJ3bm40U29wb2F2X0lZeWUwYWoxR0Z3UThVU1ViMUhRYWM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "NZ",
-   "date": "2026-11-13T14:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3f335a4253",
-   "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Engadget",
-   "region": "NZ",
-   "date": "2026-11-13T14:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Tech"
   },
   {
    "id": "62da31b1b2",
@@ -517,14 +480,14 @@
    "topic": "Society"
   },
   {
-   "id": "cc818750f5",
-   "title": "Three-week vote count no barrier to negotiations - expert",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWZ4azFrRW5UOUxDZmZCazluLXpkRnBRbW5mQmZQQzhvSGxrX3ZVNlo2aEhpX3pORll1eVZZSFMwdHQ4TllpWFBFTjZYVUNxVHpLT2tHTjNfVjEzWENZUnIzWWs4cFBqV3lTaXBETDhwNWFKYmtFdlp5eFVCSHg5cUt3NnJEVTBVdmN1Sjh4OXZYU0lJRUdQb1VwcnpFTkZVYm9Ydl9Xd3RkTmtSREZEOW04OA?oc=5",
+   "id": "348dfdc066",
+   "title": "Mushroom murders: Evidence in Erin Patterson case to stay secret due to ‘massive publicity’",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeG5vaExUSkpMajRSX0xCNUQ3RDFsMGs3eEVUcko0VVN6OXNMM2c4NG1jNlpwTkEwcFhJUmNIZ3Y0Zjh0dkVhMS0wNzJGM2czTk83c0xuNGhqSjFBVzZvY2YzNUhjRzBZYWp4WTkxdHh4Wm5vLTJOczlaTFdNMjFsOGpsWFQ2dU9ZVzJQczQySFh5M3RQZDBZRDNGMzdrcVhadVBxSUtNTlFsWTdVeG9wbUI1M3AtVDJhOWFRNklGZWhFSWlsSFhtTjNLdGZhdW43S3FteW5neXRlNG8weTJXcHNCQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "RNZ",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-12T18:49:47+00:00",
+   "date": "2026-11-12T19:45:05+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -534,14 +497,14 @@
    "topic": "Society"
   },
   {
-   "id": "97fe917559",
-   "title": "GTA 6 hasn't launched yet. It's already made $1 billion",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1VoQmRoRTZFdTcteGUwXzFTckllZHJpQ3p1M0Q1LTBHQ0kxdE1mN3UwaVBsTnVHLXU4T1VPRHhoaWtFZW1fMU9DODQ0dFkwVDJoZm15N3BMOEUwWnhxWWp4bHVOVGlYY0taLW9iTUFJSV9WN181MzY4LVRkVDJ3T3I3Vkw?oc=5",
+   "id": "cc818750f5",
+   "title": "Three-week vote count no barrier to negotiations - expert",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWZ4azFrRW5UOUxDZmZCazluLXpkRnBRbW5mQmZQQzhvSGxrX3ZVNlo2aEhpX3pORll1eVZZSFMwdHQ4TllpWFBFTjZYVUNxVHpLT2tHTjNfVjEzWENZUnIzWWs4cFBqV3lTaXBETDhwNWFKYmtFdlp5eFVCSHg5cUt3NnJEVTBVdmN1Sjh4OXZYU0lJRUdQb1VwcnpFTkZVYm9Ydl9Xd3RkTmtSREZEOW04OA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Tech",
+   "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-12T17:12:39+00:00",
+   "date": "2026-11-12T18:49:47+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",

@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
   {
-   "id": "c096ce3bce",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGZQdU1BRS1GVV9VQzA0ZHJXTVVMZjBHUlNXRVZOaXA2S05iSTl0blZUbS1uZ2hyVk1oX3lxTkVSSks2dHRnbHRxNy0yNjZHZzJOZnNoQ1gwOWIxc25lWmtNQmVvenFNdC1wTUVTd0xsRjRkUkF4SXpWOTVmM3JBVXA4c2RINEp2SjNwTXJfQVZ3TUE?oc=5",
+   "id": "a9a340f92e",
+   "title": "US loses measles-free status as two more deaths reported",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczhLUHVMV0tuNV8tZjNfSy03RVhnb3VPdUtzeDBuZ3d1Vm96X0FQR25oRG5SSjV0NHh6OXM3MmVqazBNcEZoOExnSVBnRnVvZFBWTUJVVjdjNDlHMXNOOEYtdGJqYkpaUVQwckxBMUJSMmp0RVZKX3FBdjFrOEl2S19nWVZ6WlhYMnVwOTIzZk5keDFvc0pMem03OV9nZXIyNzNGZEVrTVplU1p4NHNpODk0NNIBuAFBVV95cUxNMDNpbFNPTXlBd3JoTmZPdFVEVnRuYUNDUURqMHJoQ3daY04teDhaazZmdE9qampJV2dPZWVmLUUwVDBuUERWVXBzV2M3ODBxaS1oeU82YXFRVS1HLWlvbGZuNWdzdmhwRnJXbEo5SDJ3bThETTVwQ081YzUxTm1DakkzbEx3ZmwyX2w5MzZlaWlFZ080cTBBTm9aU3FoMWdUbEdWSXpWbEtlZk9nZmVoODBGTTRzdEti?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "Al Jazeera",
    "region": "US",
-   "date": "2026-11-14T10:31:05+00:00",
+   "date": "2026-11-14T12:06:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dead839bbc",
+   "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1IdTRFRXk4dnlyWE9ycGhxcHVNVjNSU1VBendhRjdFSHNYcVM5d0wwUGN3VUktaTM2b2R2UVIxZ3NMbjcybDlsa3llTGNUOFgzOVllMjg5UW9Db2FmQzB4QUJEcS1RODdNU3JhTy04QlJwY0duelNBTTdROEJMQTcyaTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "US",
+   "date": "2026-11-14T11:41:15+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -24,14 +41,14 @@
    "topic": "Society"
   },
   {
-   "id": "7767fa0558",
-   "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkFZaWU0ZEdlakM1WnlreGY5X19qOTNjVjFlWTJXZWFwZkl6QlNYdUlYZ1JCNkNtQ0U3T04zaDNPYnNyd0NqZUtTYlJlRkhwaUwwYl82aWpUaEZ3Y2FCcGh6UHdXaW5FUmZEZU93NE81U0UyYVhia1JXdnVZUG1kYW1UbGZWTlJsQVh6bGZFMkZtY0I3SEdCNHFlVUlsYU1rRUNF?oc=5",
+   "id": "a6817ea84c",
+   "title": "Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "WSJ",
+   "source": "The Washington Post",
    "region": "US",
-   "date": "2026-11-14T10:30:00+00:00",
+   "date": "2026-11-14T11:32:10+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -39,6 +56,40 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "1d4eb83d6e",
+   "title": "Disruptions Persist as Air Travel Recovers from Nationwide Ground Stop: Live Updates",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "US",
+   "date": "2026-11-14T11:17:49+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2fb8e41e1d",
+   "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYV9Ta1ZsSFBoUmNxeWxVMFM3dUo4V29FZW1abUV2Y204RFA1T3NmOUx4MmZXS0tmVUNnYnQ5QU1NTHNvUWdlc2pzZDE1SFp6QVZnS01laDhlQTN4SkZEWTY3dzFUZjNNS0tzRHprelVTYkYzVzNRaDJOcEZ1LUt4dXlxWUZrQy1ad2NMUkRB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NPR",
+   "region": "US",
+   "date": "2026-11-14T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "32053899e9",
@@ -58,14 +109,14 @@
    "topic": "Society"
   },
   {
-   "id": "9fe81f7765",
-   "title": "FAA ground stop triggers widespread travel chaos as teams scramble ahead of games - The Athletic",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUUwNW41dlI0RkZFWHlqVGtVWi1JVU1mVnM2djJUYVRnaEdKS3MtajhyMVJxTDVwTUNHWGJ3X2pjdjd5LXRrRXhhNDhkVVJUUXZFWVB1UVlwRkwtN1RRZGVFZXZrYjU4YjZYd2ZmbjB5eU5EcG9zUDQ3aDQ0OGkzdWFETTk4WGVqOTNyLTRGREJqUmNCaEZseFZsVmg5MDNqZnd5aQ?oc=5",
+   "id": "e57b581f22",
+   "title": "Colorado ends No. 14 Houston's CFP hopes with Friday night upset, and possibly saves Deion Sanders' job",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbGQxaTdpRlJYMWY4UTRFZ0xOTHBjN3RIQ2FEOGphc0xSM2Y1bVQ0Qm9LRW5MYV9WYUoyZ0JlZHFZMVNYdTZoMHRaOGZFWGV6QjZzZ0d1dG5mN0wta3h5Rnpqam5vTmhwQngxRlBVWmJJZHcxN2dxUEVTc1ZFSkEzT3BEa0NFLUpVRDlqLWU1eXVMQ2o1WGhZQ1lUaHkwbDMtUEJJSEVWcTBxU2VXX0NlNFR3b1BidmVrOUM1dVVVWGluTDhfaHVsNmJlY1dpQklBLWt6U3VWWVJwZTVnU2dXYW41dllYcnhGeVFzNjg2SzY5MC1WVzBPbkxPdHFRcjlrU2ttXzN3eDRQQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Yahoo Sports",
    "region": "US",
-   "date": "2026-11-14T08:01:00+00:00",
+   "date": "2026-11-14T06:51:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -75,31 +126,14 @@
    "topic": "Society"
   },
   {
-   "id": "e555c2e150",
-   "title": "U.S. loses measles-elimination status, erasing a landmark public health achievement",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm85QlZZUTBTbGs4UEtXbVpSc09JV3VEQTB0WW04M1ZTRmNRaURzY1A5bXZaSlBuaklXTDhkYlJaSU5yV2tXNE45STZEejBmOXpTQWc4MWYydC01cjJjQnNSRk9WU2tRaHJoLVFBdlZ1Nk9VSUZwcE5kSXFhbUstVlZNd3N5TGszSERWbFlUekFKd05ENEJzcnRUejh1YXRJWjB5NU5wYVRBVHBRWFpWR1FYUmo?oc=5",
+   "id": "3802c7d69c",
+   "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45eElqNjladGpxRm1QOFZuZDA2UXAwUVBMRDBrMjNUYll6azZpQkpxcUw4Z0dzQWMwTjlOTDJpWXE0T0hZeHc3Nkg5cHVFaVJnVldSR2F1c1BWV0YwbzE0Ry1DUWxYQVJRN3FqU2dvTDF0SC1YTHpXZC1n?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "Phys.org",
    "region": "US",
-   "date": "2026-11-14T07:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "895f2179d4",
-   "title": "NYT Strands hints, answers for November 13, 2026",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "US",
-   "date": "2026-11-14T06:11:14+00:00",
+   "date": "2026-11-14T06:34:10+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -109,21 +143,21 @@
    "topic": "Society"
   },
   {
-   "id": "e67018fd2b",
-   "title": "Michael Mann & New Regency Clash In 'Heat' Ownership Battle",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuTFk2Q2dfZTlCeW1FUGc3SlVSaUZkc0xTVEhDOFd1eHlvaXNTTzV5a2ZZM0ptYXVGNTNfSnY1eXhnQkNXMHhuVjU4dE5wSV96SEtQUkNueTA0ZnVOZVEzVDI2T1FOR1NyRllIZTFvSXVpZjBTRnFSdGZGMlFWQQ?oc=5",
+   "id": "d26044c9e6",
+   "title": "Horoscope for Saturday, November 14, 2026",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDVneHZ0VUh5djI0b0VvVkRyNVR6OVRqdGcxZV82WEFKUmVqeFBvckh3MUhxME03VE5jcGdVV0hPUjFnNWp0MzdUSVpUa0w4dlJ2TUJyNHdReXhUUTlZWlM4UmM2ZDd0eU9MMFllXzVjRmhtVmxfVGZQQXExa0Vvd20zVkFCZjBlNWtxLVBRT1lyaS1TVUZlMg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Deadline",
+   "source": "Chicago Sun-Times",
    "region": "US",
-   "date": "2026-11-14T05:56:00+00:00",
+   "date": "2026-11-14T06:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Astrology"
   },
   {
    "id": "4f8ef39a32",
@@ -141,23 +175,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Sports"
-  },
-  {
-   "id": "707d58c5e7",
-   "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGRpUnZKOEtydjhyR1RaNXRaVS1xdUk0MkFZTldVUktXM2xNa2JGS3Y4TG5LbmhkWHZ1VVpaaE43RnBaMElMczBHcGQ3LWpQRjFrTy03Y0FzNGx4RXlEOEtERy16RWJ2TkhDVVFYbVlWZmtvMWJ2dGxxbHQxVXhLdW1ZVERVV3VJbmVkLWpENA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "US",
-   "date": "2026-11-14T05:31:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "133e9c128d",
@@ -245,14 +262,14 @@
    "topic": "Society"
   },
   {
-   "id": "5d67864ef7",
-   "title": "'Mormon Wives' Star Taylor Frankie Paul's Ex Dakota Mortensen Sues Hulu for Defamation",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFFCN2hEVjBmbUtTODFNZ0ZtMTlEbXR1S21hMGhrSnFhc3lNeHVZN2V0SS1jZ2ZieFE4d2V3S0xKajF4ZU5hNmFac2w4SlJ0UTN2NEJaZlA4UGV3OHkxbGtlcTJaUHVwRkE3RTUzanVWTDRpVEZUUDV4bnZxUnJNLWNOVVpmT1hHVFNoYklrUnJOU0N6NE1QTDY1UmFHZE5ic0NoTzg4NW90dGE3c2xB?oc=5",
+   "id": "5ae8777cd7",
+   "title": "MAGA firebrand Lauren Boebert falls to Democrat Eileen Laubacher in Colorado",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmxuTlNJU0plaldsZi1kNXYyLTRKQ1ZGZ19zc0pEMkJfYV9RMl9ERjdPZXJmZkpzcGxfdGpKZGtGRDIyLTZqbXVxRWVwY2ZGemo0aTZ2VGxsQ2VBUFRWOXl6c2NhV2pJbDlWeU12MkJUcVpXdF9BX2JfVlV1UHFhVlhmVDF5RC1KcV9XT1Z4VVBfcElQWjJaSjBnQUtiYVVJbG04cmxzdUZMV0k?oc=5",
    "summary": "",
    "image": "",
-   "source": "TMZ",
+   "source": "Politico",
    "region": "US",
-   "date": "2026-11-14T03:34:48+00:00",
+   "date": "2026-11-14T02:05:15+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -260,40 +277,6 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
-  },
-  {
-   "id": "2b60b37cfd",
-   "title": "Pochettino: It's difficult to turn down United",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamZEN2ZhQi1Ra0Z1U004VGpzSkkyNlFrWmNGSlpIeGZKZmFfd01RWlpCSmthNWhtcEtPUmxZbHlyUzVqODNHd05UajJ2QWhZTEdzTVRFOEE4N0VydWtodGRiQlJSLVRlcTZkOE1ZVnRwRGRuak9NUnVxaVpEaU1YeGNNWkZ4UGRkMlRkNUN3ME9OcG5zNUVmTmZIdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Manchester United Website",
-   "region": "US",
-   "date": "2026-11-14T03:03:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0d797dc271",
-   "title": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\"",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM1NJUktyY2M4RVRjVlktSzNBdUxXVG1mQkhIVDFwbm5ja2ctOFltOUNMWjhOT0V0MDBTWnZnYkpDdE03RGIwM1B5bnBiRkpMV2pMYVFwRTZWRUJVTTJYQjB0N2wyN003M1dQSm9jTmtuREk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBS News",
-   "region": "US",
-   "date": "2026-11-14T02:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Weather"
   },
   {
    "id": "7eb6760dfd",
@@ -418,21 +401,21 @@
    "topic": "Society"
   },
   {
-   "id": "2241bbe69b",
-   "title": "US Futures Gain With Microsoft Outage, Producer Prices in Focus",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGFnaDF1dHVTeVV2SlEyQ0w4SHlwMTVSb1RxMlc3SFByR1l1WnM1YXRVRy11RjAyZ0xnMVdldU1PY1lhMVRHeldxQ0pUTGp1eC13eEZSLUpiejF0ZlpqRlQ4QTBhN0xEMmxaNktiRldvbG5tbk9OZy1Pbkw0ck5MRXZnblRsRnVsbHY3TlBkRGxUVEVmX1B0dDJuNDlnR1h4cld4UWdsUUI5OWhEQnRBNTJZdw?oc=5",
+   "id": "f787ea1602",
+   "title": "'He was a light' | Those who knew Logan Circle shooting victim James 'Jimmy' Stuart vow to never forget him",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMjFPQ2gxWS1jNWZUYUxkOHEyal9Uc0N6X2pyc0dkdG1xY3hwTjBDLWxVZy04RDJmbm9wS2JkaXRwb3l6WUROdXhuemRNOWd4cFFfUXRLRDBFUGRoakJjMGFLRnIxcjMzN3RIcGl2a0hESXU2STlPNkRoYmwzWEhJTEVKcFZ5X0ptMGowN1hzRlVVT0hma2NzVU9qMXJ1ZXQtZVVLMXFGRTlZRG5xekZDZ1dldGQ0QzBWbWZGVzFSRHp1emlBQk9hTGZwZjFuLXZUVWZRLThWUDh2aUw5ZEV5Rk9hdEFFOGNKQUctdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
+   "source": "WUSA9",
    "region": "US",
-   "date": "2026-11-13T21:40:05+00:00",
+   "date": "2026-11-13T22:25:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "5bf4e1cac1",
@@ -469,21 +452,21 @@
    "topic": "Society"
   },
   {
-   "id": "6e432cb8f8",
-   "title": "Democrat Eileen Laubacher unseats Rep. Lauren Boebert in Colorado’s 4th District",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkJ5QVRBSzNMS3lROWw0VnFXdm5kQkIzbHJ4MUdHaHFmMFRrWURTNk9XM2Z5eDdfeG44RkNNRlU1aFVjTHlUY0NVeDdXOHB1SzR1d3hFVzJvSWJzRlJGQThqUlNzT1lDVkY3MzM4MmR4N3ZxRENCWFZFaFItdDJZQWlmbWpRdw?oc=5",
+   "id": "a7561c78a2",
+   "title": "‘Virgin River’ Renewed for Netflix-Record Ninth Season",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlk2cUFCbjd5cy1HaFhlY052N1psd25MbkNNSXgzZldEdk9va0lsQTdjRnZxd1hWcHdpVHUwdmNhVkVyOHcyY2ZhY3dyeGNQZmxod3o3TEVyR2ZiUTJKdzVtLVY1RVlkSzdYUXhKZGRzYm5Nb3A5UkdyUzNxOGt1ZE9zQ3ZKZl9zaFlwQWF4ZTN1WXRjNHFWdUt3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Colorado Newsline",
+   "source": "The Hollywood Reporter",
    "region": "US",
-   "date": "2026-11-13T20:04:41+00:00",
+   "date": "2026-11-13T20:49:05+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "0edb1c6a6d",
@@ -501,6 +484,23 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "43107347b1",
+   "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43SGZ3bUFxTlFUTmMtbXhjRlRhT0VnVWhWNzIwQTN6bWVocjgxVWU1SGlPV2tQckdhSTI0X3NkRVVFZ3FkU2Y4OWxRVVZobzlENDRkcEJkTHJtSGVfTGhBcUNjTEo4UmNBWEg4RUxpR3B6UQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MacRumors",
+   "region": "US",
+   "date": "2026-11-13T19:26:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "25b507ba1e",
@@ -528,23 +528,6 @@
    "source": "PBS",
    "region": "US",
    "date": "2026-11-13T17:58:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b9be882ce6",
-   "title": "BBC undercover reporter is offered fake art and awards for talent visa",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQy1yV204b21oU05GS1ItTWJWU1dpV01uenZ1bGszc3RCbTE1Z29CVW92Z2wxbVBZWHIwY3QxMnAtYlE2UkVLc2xXMElDY2h0S1hBemhMdG8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "US",
-   "date": "2026-11-13T14:45:19+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -613,6 +596,40 @@
    "source": "New York Post",
    "region": "US",
    "date": "2026-11-13T09:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "90efd60e59",
+   "title": "UN climate summit pushes electrification goal as groups call for mining safeguards",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlUSWVwbVZ3UkJ4dERlR1FpSXZ3WmZEN2ljSnotaS1HNE1CS19CZ0lLZ0hXa3l1SEotV01uWWRRNVBQSi1ybmxVSE4yN2tYZkwyRTg1VGhOTWxCeUdlMU9vNDhxdGdCZFIzLUhCb19LMEtFZ0VTSm94TlVuMVc1T0k1TGU2LVZCN0dNdUJZcnBCWl9YTXIxTzBmbTRNRXY5Z24wcXJ6bWlrLVhsYUNpMlh3ODI2WnU0WUZtOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "US",
+   "date": "2026-11-13T02:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c29be15b3f",
+   "title": "Space telescope Euclid sets the new standard for cosmology",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmtpTjdTeEJHWUZCS1pTSHNZMGVLM0R4S1VmeXNWamlheWZKSlhrSHktZ0JiMXpmdnBxbk1DckZPYjhkdkFRQ3A2Q1dyM1NlMVdRZHBDdFg2ZkYzZTF3WVJhc2hCcnIyLThfZTJQSWVXMDQ0VlNkNjVwVklJdUk3a3Rn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Phys.org",
+   "region": "US",
+   "date": "2026-11-12T21:00:01+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",

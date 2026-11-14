@@ -1,51 +1,56 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 53/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 54/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 52 stories
+OK   Ada Derana: 50 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 14 stories
-OK   Daily Mirror: 71 stories
-OK   Hiru News: 75 stories
-OK   Newsfirst: 18 stories
-OK   Daily News: 51 stories
-OK   Sunday Times: 1 stories
+OK   EconomyNext: 17 stories
+OK   Daily Mirror: 67 stories
+OK   Hiru News: 80 stories
+OK   Newsfirst: 17 stories
+OK   Daily News: 49 stories
+OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
 FAIL Colombo Gazette: not well-formed (invalid token): line 1, column 9743
 OK   Ceylon Today: 1 stories
-OK   Google Warnings LK: 11 stories
+OK   Google Warnings LK: 12 stories
 OK   Google Top Stories World: 70 stories
 OK   BBC World: 27 stories
 OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 95 stories
+OK   AP News: 97 stories
 
-Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (7 outlets) | Microsoft says services fully restored after  (6 outlets) | 'Miracle on Mississippi' - All passengers res (6 outlets) | Bus and truck collision in India’s Assam stat (5 outlets) | Exercise book prices to drop 18% next month f (4 outlets)
+Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (8 outlets) | 'Miracle on Mississippi' - All passengers res (6 outlets) | Bus and truck collision in India’s Assam stat (5 outlets) | US loses measles-free status as two more deat (4 outlets) | Microsoft says services fully restored after  (4 outlets)
 
-5 new stories to post
+4 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Daily News [2 outlets]: Exercise book prices to fall by 18% from December 1
-    important (also on Newswire) - researching
+* Sunday Times [1 outlets]: A New Lifeline for Sri Lankan Children: Hemas Hospital Wattala Success
+    no AI summary: saving the rest of today for important news
+* Hiru News [1 outlets]: Special transport allowances and privileges granted to administrative 
+    no AI summary: saving the rest of today for important news
+* Hiru News [2 outlets]: Johnny Depp’s ‘Ebenezer’ makes $1.5 million in previews
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 rejected: details[1] and spoken add the causal explanation 'Because the budget removes or eases that tax, shops can charge customers less,' which is an inference not explicitly stated in the article; the articl
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Al Jazeera [2 outlets]: Kenyan building collapse near Nairobi kills six people
+    important (also on Ada Derana) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
@@ -54,25 +59,35 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 429,
     "message": "You exceeded your )
-    cards OK (attempt 2, written by openrouter)
-* Newswire [1 outlets]: Restaurants using Laugfs Gas to hike food prices
-    no AI summary: saving the rest of today for important news
-* Hiru News [1 outlets]: Legal agreements signed by past governments pose challenge to controll
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Hungary seizes $18m cash tied to ex-Orban-era minister in probe
-    no AI summary: saving the rest of today for important news
-* Al Jazeera [2 outlets]: Three killed in Russia as Ukraine claims US floated NATO membership op
-    no AI summary: saving the rest of today for important news
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 1
-  photos: 13 too small to look sharp, using the clean cover
+  photos: 12 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  Fact Base: 6 facts and 0 people saved
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-  meaning check failed (no AI available for checkers (last error: AI error 429: {"error":{"message":"Rat)
+  headline translation failed (no AI available for writers)
+  summary translation failed (no AI available for writers)
+  meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 11 story pages for Google)
 
-Countries: IN 38, PK 35, BD 36, US 36, GB 36, IE 34, CA 38, AU 37, NZ 32, SG 32, MY 33, PH 36, AE 36, IL 35, NG 31, KE 33, ZA 33, GH 28, FR 34, DE 34, JP 8, IT 33, ES 34, BR 34
+Countries: IN 38, PK 36, BD 37, US 37, GB 36, IE 33, CA 38, AU 37, NZ 30, SG 31, MY 34, PH 38, AE 37, IL 33, NG 31, KE 34, ZA 33, GH 28, FR 33, DE 34, JP 7, IT 33, ES 34, BR 34

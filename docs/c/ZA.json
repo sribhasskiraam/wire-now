@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
@@ -55,23 +55,6 @@
    "topic": "Society"
   },
   {
-   "id": "ade5f7bdd6",
-   "title": "Apple HomeView isn’t the iPad for your kitchen you might be expecting — and that’s actually a good thing",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQLXhVQjNJMS1ZXzYyRGx3Y0hUb2VLejVJSV9XYXAzQXVmZm5NUnhqaS16ODBWSkpOblVwU21pb2NMS0VqYklmOE9CMHVLOXI5aFdXUTdyYnQzbjJzemtFTFFOdUZsakpSQ3pvdHptNTV0U2ExSHE2NHpaY2psT0EydDF5NElxSmtSQmUwUnNmTkw1bkpXU1JrUVFBMVRDcFJ5b3hlSlpXSHkxdUdaODNwVW01WlNkVWRmRGdxeUNpYW5lSHZtTW1kR0JsUDI3TWhvNHdVUmNyRUZ3SU9rRjFWRVF5dTRyQzVLSnYzdzQxaTRCOS0zSDFnYlZkQWF2TWlDOUNB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TechRadar",
-   "region": "ZA",
-   "date": "2026-11-14T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "09e5263a28",
    "title": "Good news for taxpayers in South Africa",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXdsandEbWlWQURhZ1U1RHk2dkhKWnhEc21OYlhzU3JKb0xlT3FMTVJId3Rsd0JHaVVUeS00eFl2N1Bqcmx6MGFVVlBJVDBJTFZRQ3NJejVxekNfLVRGbDdqeFJZZGVUVmtwdWdCcDNMR0wtejdrRTBuNFF6U2pyMFd1Z25Yc0dGS1JrRzhrMEw?oc=5",
@@ -79,7 +62,7 @@
    "image": "",
    "source": "BusinessTech",
    "region": "ZA",
-   "date": "2026-11-14T08:05:03+00:00",
+   "date": "2026-11-14T08:01:24+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -140,6 +123,23 @@
    "topic": "Society"
   },
   {
+   "id": "576484b8fe",
+   "title": "‘Welcome to Friday the 13th’: Hours-long US groundstop lifted as airspace finally ‘opened up’",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFVfSDJkT0JSdFBfRXE2cWIyWDMtNm5qQUd2bzBBYTNzVm5BMEU3Yk5xYjlKVjc4cWtaZ2lHT3ctZ1VRcEcwcFJuUk83VkhMOEo5WkJUQ1l4VDhiYm0tcEhMLTdUZmp6cEJYa1hJVDNqckhzejZqVEtadU9ETGNyTUxxS0RZNFZGRGhOYlhVY1Ntd1h0QmFlZU9PQjQtMGJmQlRhUHBrTm40SW1VNXpQdHBMdzdnOXFzMEJCankzMFRZTVJ1ZnhwWGsyaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News24",
+   "region": "ZA",
+   "date": "2026-11-14T05:27:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "8bb5ddd82d",
    "title": "Lehari calls for early diabetes detection as World Diabetes Day is observed",
    "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOY2EtVXpYMHlLdUZpWDR0RGpjTVZ5TmJYOGhQeTJmeEhqUmJOVm16aXVhMU5Vc0JLelMyR0VRX0NESzAzN1FPa2t0dGdLd1dIZXhYQVk1TnpfbDNwbFd5LTFEa1ZtamJ5TW5HR3FVb2xfbEhldEVuT3owWlAxSHhmTWN6c2stYTN6SGpnNUgzc2V3OEk5YVQtWkw3Nm1zY0l5YkcycTBBZjRxU2pCYUJNT3FZNXdGblNFM0g3cXNZTnR6dXZwM3ZFYTFpRVh0TC1CaFQ5TnB3dXZ4d1JkZWRkMW9PU0I2QW4wUFlUZzhna0sxb2xsakozTDVLNXpEQnhTVjljYUZ6ZWxQV1gyR3FZUzFGXzAzSnQ2VzJkNjRDVmJDN2MwWUtsOFJxSGQ4ejBuckZHTElBUWlyQzVCV0NBZHQxTGs5VVdTb3RBT3M4aw?oc=5",
@@ -157,12 +157,12 @@
    "topic": "Society"
   },
   {
-   "id": "8a52dc3dd1",
+   "id": "8d1e1c8621",
    "title": "Diabetes can silently damage your eyesight: Why regular eye tests matter",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSl8wY0FzQUNuRGZHX0JVdUc3QnVWTmJRNmphcVdrRkZYdmxVSmFNcDZEZDlzTzlnTndSU2JfY2QzVVY3ZVFHVzBrTlZ6TC1oZWNONU9SQjhjWHFLNlMtbFZtalVKU0Q4dFNzWlhfS2syQV94bkRDcnQ3WmxWSzVLNVFZUThCVXN3dDdtVDkwNDZ5MXZXR3MzdkVXdTRHUUFLdW9EdHNGMUFUTXhBclNaZFVOSXM1VnR5SWpRQ2Nob280OWk4UEFrV1d4alZnR2FWdWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd05zVTNLUWRBeEliVXh2Tm85anZyVEF2TEhaT3R6T2t3anQ5TmNLWXhwUklaQTFVR0ppWmNUWmt1UjBkTndQUzQzTWNOUk0wWjBUbjJZS0VzVTZrbUdUVGxFNk1BSkNpQlNvZGd4LS1aSU81cUNEX3JDZzJLMFJfTXllMW1aSU5UdTBEUEVaNFEwUUdyMWxmSWdSN21NTUVna2FldVNvQlZKakFxdDVlTzUyWHo4ZVJlUlJfSGdHNmt5YzdNLVVTdlFuZnQ5b2RoRmpzQm1BX20?oc=5",
    "summary": "",
    "image": "",
-   "source": "George Herald",
+   "source": "Knysna-Plett Herald",
    "region": "ZA",
    "date": "2026-11-14T05:04:00+00:00",
    "coverage": 1,
@@ -170,23 +170,6 @@
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "246da25b7c",
-   "title": "US grounds all flights for hours, sparking travel chaos as ageing infrastructure blamed",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3gwWkg3VmVkM0dIVFVFMVYxUGR6T0Z4NHlYdnphT0h5dlBmZWt2QkVIWWdrTUR6Q2ltSWZQNnk5a0JWU1NOaUZKdDRlUC1IaFliS0h6OS1Qek84U2o3OE1xNGNVd0xFS2FDOTNfRk13SWtqY3J1Y0lOeEJiS1BxSG9tV2pKLW1vUDNSc0lyYXdRUG9aSXJFeXNxNnBTMU00Q091MW1UT0pGRUp2dGxPQ1FrWHZVU2J0LVJSRWJWNEJEQlVjQVd0Rw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-14T04:51:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -313,23 +296,6 @@
    "topic": "Society"
   },
   {
-   "id": "e4680f6ce1",
-   "title": "Five by-elections on the cards as IEC finalises 2026 polls",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlRNSUdKNnVuVzRQbEhMZHZrYnh3SkI0a0NfQWtzZl9xQlZLaDRId3hOc2hGcmlmbGFsdkZISlFUZzlIeEczb0NSLTY4bF9idk0zdGFZVFNCYjVUZk04SDA0YXpXdDNUdXdqUDFqd2dIWThRbGwwcjVJRVpxS0dTRkFMWDJ0cXVVeEUxdTFuTjEteGYteHlTM1g4Ni0tbjZWV0RRcA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-13T18:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "3c958c6054",
    "title": "Chris Pappas sworn in for second term as uMngeni mayor after DA surges to 60%",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanpKN25Gdkx6NVNmX0NzeXpBVExCSFVlVFk5YlQ3bTRzU01Fa3NIcWRObndfbFNYZ0dmSHNUdks3SHQ2cU10TmtFYTNGekVRRk90RWVGRkFKSlZsenhFbHpJUUw0R21iRFZjYXZNQ1lqZXkzNFlQOW1oU1ZQRzhCWW9UaUhMMUhSVnJxejdYUnU4MTZ5dU5vYnppVkR2V0JoOVZ0aG5BVG4xSXNpcUpfaVFGaHJrTDE5MEJRU2Jrdw?oc=5",
@@ -381,6 +347,23 @@
    "topic": "Society"
   },
   {
+   "id": "55ca7f9414",
+   "title": "Dual ward wins, candidate deaths: 5 by-elections announced following 2026 local elections",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmhqV2hWaTB1Y1BLTC0zdlVKQzBHUEhOOWgwREJHanc0dFl4SzdDZWd1TV9mSEhUZEFoWHhFaE42bXdBbFJOWS15NllqYlpaZWE1OGxEV1ZTc2JYRFVpa3lvaU1Eb0ticE5KZjNVNGRNT29aemFDckx5UlRaMnVxMEY4SDlzMUwyclVkR1VrcWwybF9TSHQ2Q0tlaHdBUkl0NnMtU2M2TWg1XzdrLXVrUVpYaEVGb1d2dUVOWlQ2dl9QUzlsZFlDdXlaR0podw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News24",
+   "region": "ZA",
+   "date": "2026-11-13T16:00:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "785543c2d8",
    "title": "Nations Championship, Round Five: Teams, predictions, global TV channels and more",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXhMNEhaZU9WUldRdUgtV2phTm9FVkJMOEo0RnUtTGJ6MFJHWGtYdVZYMTNqeExVNnpsUlM4XzdvYUs5OVZuVUY2VkhpcnpnSXpRcUlRMHdGMXQ4UVdubXhwS1ZZcVFNWFZhU1ZkZ1BMNjk5aEtjX3JCZXFyME1fRUc5aVcxUVRTR1lHaG5LQWkyS0tWUlRoN3o2Q1JuUXhoTU9MdmhtSW9hQXJPbHk0?oc=5",
@@ -406,6 +389,23 @@
    "source": "The Conversation",
    "region": "ZA",
    "date": "2026-11-13T14:39:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "58beaa3e26",
+   "title": "Metair may invoke ‘force majeure’ over Durban Gateway Terminal crisis",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHNvc2xGUmVxX0RRQ2lGcmFSOGZlcHJOR3NobVVvd3E0ZEkzUFNZZ193TUF5aEZhRGZDLWUtallIbVNfV2pzSEh1c29wVExCajdJLVRiQVFQNkNDUGNUamRRQmpjYS1LU2xPWlV0VU53eWp2T29SbWdXQndBU0hxcHdTd0NGUnZlQ1NaY0tjX3FIc01rbzdxaXdXQnFHMkxaclplRlNnVEVZTTBtZ2h2Y0dTcUhyUDhJN2VjWg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Moneyweb",
+   "region": "ZA",
+   "date": "2026-11-13T14:15:53+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -520,6 +520,23 @@
    "topic": "Society"
   },
   {
+   "id": "59fbc90c16",
+   "title": "iOS 27.2 Adds Three iPhone Settings Worth Customizing",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0o2Y005NEN2NTZxX1JYNFpoRE9kWlV4V3JHYWlmYzBWcXpOdVJza3F5eVREYnVwNUR6al9Gb2VlYWozbE0zQzgtX1VwNVR4Q2U0VndxNWo4RnptX3hLdVFPV1VqTWFBZEQ5Tm1DTTZiTE1ET18xbzdzZGd0Qy1LSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Memeburn",
+   "region": "ZA",
+   "date": "2026-11-13T03:06:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "7e50be8f44",
    "title": "Global outage hits Microsoft Outlook",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbDFBX1NzQnU1R0JVVU83UEpIQUNFY3VKZkZ0bGlnd2xqd040YzA1M3JXS2xTbHJnMUxZZkF2WU9nQTY2ci1IaGtEQ2Y3QkFEQjVzX3VuSUFtUW1Cb2xSM3dzUl9IV05NaFVHYTA4cFkxZlNYd0w1Yg?oc=5",
@@ -545,23 +562,6 @@
    "source": "Sci.News",
    "region": "ZA",
    "date": "2026-11-12T18:31:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "950ec2158d",
-   "title": "Dark clouds gather over one of South Africa’s most important sectors",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXV0cW9aNm9HNFRkbEdoREVNR2Y4ZDNhVmQ1OTlLdU9KLVFBWVdQLXlGYS0ySjlhUzN1M1ZBMnhWeEpnQkRDTmZJUm9OemVGNng4ZF9VN18zcHR6cDRsM3VBNmg2aGEtODNoWkNJV2RxSUtsLTYzYzB4OVdEbW9jYW12WGREQTByQkt6UmZ6bEtrMkJRT3FUc2tGT3ViYmN1Ni1JMThXcUN0bnVIXy1ReVNmSmxtX0xSZDNv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MyBroadband",
-   "region": "ZA",
-   "date": "2026-11-12T14:56:00+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",

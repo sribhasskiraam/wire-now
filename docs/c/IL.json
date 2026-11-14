@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
   {
-   "id": "c5bd75e789",
-   "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
+   "id": "96fdfd22d8",
+   "title": "FAA ground stop: Wetin we know about US ground stop and wat to do if your flight dey affected",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TRTRWa2RrQVlzODNRZlh2M0Rmdk04TDRQeWFtR05mZmZwWjVwaW1BSHJNX2sxaXczVkVVUWxnRzF4SXNGMHhIYUctZGZnZXE2ZDB4VkNfNlNxZHk4MWfSAWNBVV95cUxOcHhFeHVyVzNZQW5DTWo4QTR6cFhMUzlxTDB4WTVab05MVDl0VWZ6WUd6a2VhYnVxUzA5SlZhczczVmMyVE1GeGF4dGxHWVoxaFdFWVppaUVhNU5sR1JTMmNwNWM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Space",
+   "source": "BBC",
    "region": "IL",
-   "date": "2026-11-14T11:00:00+00:00",
+   "date": "2026-11-14T12:16:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1b433eef91",
+   "title": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT1JGLVliei1GZlkwVmxnNU1tejJSWXMzVy15UWlCRndOOE1yQmVXdVl0VlBjU3lJTEloYk02NUJXNkx5aGN5Yk5BQ2ZZdi0wMzZ2MUVDa3JodS1DNXY3M3dpWE5wS2RXbXpJZXQ1bDV1bzdOeXViaTlFQjdLRWw2bXl4aXhkLXQyQ1ZBZ0NhTjBxejVBVmdPb3NIeTNQYjZadjJfN0N5Wld5dlBsUjFEcjZFX3FUekk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "IL",
+   "date": "2026-11-14T12:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -55,25 +72,25 @@
    "topic": "Society"
   },
   {
-   "id": "20e4c0757f",
-   "title": "When a Master Magician Meets a Bumbling Student ...",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YVWdhMVIzN1c5cVBTUUgzekp0Zi1GSkFwN0ZTZTVPZWZEaXA3czNpNlpnXzFQdER2X1VhNTk2cEt5X3VHYm1USVRXc0JRWmFscTY2TmRTWFhwU0xKNWNxaTdXbU9JYjA5Z1ZYR1hqS2NXYmVNc1BRaVJn?oc=5",
+   "id": "c6e93f5852",
+   "title": "Send one prompt to 6 AI models and compare their answers with AskAnyModel for $31.99",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhxeWVNMjY0WWhlamR4WEN4TzBEWU51OF9VWUIxYUs1cUxxczJPZllCeFZpTXFhZmRIQ3hvMUNQbUl4WFA3NVByODlSWjR1VzVrXzFkZjM3UF9kcktKU2VOQW1yc0RhbFBGd0hrNlg4dzhVT2N6bTJLNVZQS2VMQkFnNXM?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Mashable",
    "region": "IL",
-   "date": "2026-11-14T10:00:48+00:00",
+   "date": "2026-11-14T10:10:52+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "734d0b039c",
-   "title": "Best early Black Friday Samsung deals: Shop gaming monitors, TVs, and the Galaxy S26 Ultra",
+   "title": "Early Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96eTdrdUxyVkNEUGJ2SDdtcENIYmczZVo1THlSQ2RMVGFNNjBoM2l1VnNEa3NueDVaZ3ZPZFhCQ2xXWmpva0FaSGV6eGRyTnVWMDR1UVFoXzN5bGlEb3RkeHpfY3VVQnh1RGpWU2p4TDJaMk52SGlHZXlWcVJ4Zw?oc=5",
    "summary": "",
    "image": "",
@@ -157,19 +174,19 @@
    "topic": "Society"
   },
   {
-   "id": "1068860c29",
-   "title": "Airport chaos as US grounds all flights for hours over tech issues",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadHk4LURmeWRBc04wcVRoZXl4eWpxUWJFYl95MUdoaXVyZkxCaEhjQXFzcEdQQmZYZUx2N1NuaERuT2R2Q295M2hGSkxYYmQ0WnpnZXRxNFFRLVU?oc=5",
+   "id": "9f555df6dc",
+   "title": "Microsoft says all services working again",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1veWdjcVl1Yk53WlJMWjV5b3RLMjZISHhCU0dJTXB1WG9BYVNpZUhQX1IxTy14c19QY3FnalpTVlRURVRXSmlUbURWYTZCcGJHbkVvWGNDYmJpTmFFcjViSWJhVzl6WHZHcUJwNTh6cE9nSXdScnM2bE9yR1hjSGPSAX9BVV95cUxPUzkzUWtoNjJwdkFsWHkzWm9BLVBMTV8wVVJoT1k4T2g5ZGtDdkpUNmcxNGpVUmlRU3pmNUdHUkhaYVIzOHFudC03YjNmR3JnV2hUZzJaemlqNzlaY2xuSDJOeEVEVWZ1cGoxVUphTGYzakVsdmlNa3Vza0VBazRV?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "DW.com",
    "region": "IL",
-   "date": "2026-11-14T08:42:50+00:00",
+   "date": "2026-11-14T09:08:51+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Israel",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇮🇱"
    },
    "topic": "Tech"
   },
@@ -189,23 +206,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "8d0c803135",
-   "title": "Is Microsoft Outlook Still Down? Company Says Service Has Been Restored",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hOENyeEY1bU1tcEJBYm56anZTdGc3SjdYeUxCUkVpWTIxbXJvTDJpdVVMSllUTUVhVGlPdVp1b1E0aFBnN0tzeDg4M1VhN2MwcmtlU2ZERDEyRHU1NGxtMEdRYVdDNE9oc3p2ZHFLMU1WanE4THc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNET",
-   "region": "IL",
-   "date": "2026-11-14T07:08:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
   },
   {
    "id": "b7f87b0e9b",
@@ -293,40 +293,6 @@
    "topic": "Society"
   },
   {
-   "id": "2d7cf1d8f1",
-   "title": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vWFRCRGJlX3R2MWFtMzQ0Q0RfM1J1Z2F4QUN5cDZFbzdvX1BpNTNvNFlDcGVtdks0T2UwUjA2Zi1kYW92bTUwSVp0QXBNYkJ3ZUZFUGhyUWIwS2ZOZ09xeTcxOEE2SlgwNlhSVFJZenRMbFlaM1VuR3N6a3hjLVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "IL",
-   "date": "2026-11-14T00:12:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4d187858ec",
-   "title": "Gold Plunges 4.78% in a Week, Biggest Drop Since June, as Fed Rate-Hike Bets Weigh on Precious Metals",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUkNjYUs2SUNzSEFKQ0gxbno3S2I0NmV4S0RfWDB0UEdYSjA5a3U2VmQ5bXFXdGtLV1FXWUFwVmZXekM4OEwxeVR1Vy16RjA1cVpRbEM2VVdwTEpFVmhwTC1jRFhmcXNLd1gwc0tLYmFvYUZJREE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BigGo Finance",
-   "region": "IL",
-   "date": "2026-11-13T23:58:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "202e7cf190",
    "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG5hUEtNekVUelhnUVFLRmVVZC10UC1fbmNIWjJ2a3R3UFY4V09EbWRVQ0ZNWkNBTGtTSXJxOWw0dEJrd09SRHp6LTB6REVLeDNpVGx4eWRtd1hlclREVV96VjNnbHYtX19kbXh3M3FDZm1sd3JmM25lY0g2THJNdXZya3RBZXJCVmJmUU56UUdhWDFRRGRBQXpnX1NRYkFYQTZwYjRQVkZSYTlaRkNIVGt1TWpJQdIBuwFBVV95cUxNNHNCUjZHRVhKRFJsZ3o0U0V1bWtlTkp3SHBzWU42N2xfcEd2LVRHWUxNUDhJYXluVklMTkdFQjJ6bndDS09kUHBOVmR2TGJaV3lIc2l6c29lVkFIekNCeGNJc2hhYTVOMDJTb2FqeDg0X2RrdHVMMjBOODhnU0RGVkx5eUxLdFlHVmVhaXlkYWRodDhOVnBoVzBteTNaQ2ZXU0FVZVNiUHBRSVU3RDc1WVdTOEN6VXY2NjV3?oc=5",
@@ -344,6 +310,23 @@
      "Iran",
      "Qatar"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c9a715a8d0",
+   "title": "Physicists Find a Mathematical Limit to Making Time Run Backward",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUluT3hRcDViam5qSzVrWmpCZGdxOGR1c2lkSU9qV2RENkZkV09ZYzVGUmg1WkxsWDg2MkwxNGVHZWpUZUprREc1ZldMVmhfa2RaWldicE9xS3MyYUczWFpneHRWTzNWOEc0dUN5VHJuMUxjVGQyWjFNbm9vaDBhb1NGcmlrOU1ZTlNxWlkxbUNBZmFhOFZqMg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScienceAlert",
+   "region": "IL",
+   "date": "2026-11-13T23:03:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
    },
    "topic": "Society"
   },
@@ -387,7 +370,7 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "region": "IL",
    "date": "2026-11-13T21:32:24+00:00",
    "coverage": 1,
@@ -437,6 +420,23 @@
    "topic": "Health"
   },
   {
+   "id": "a95bc6c254",
+   "title": "Eurovision Song Contest is finally coming to Asia - meet the stars gearing up in Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3M1VHZTVmc0FHZDloQkxsVi1jRm9ZQ0xDRlA3eEltYmNvdHdjLTM4RzJqZmxXZ0xPeWoxVUtLQUQ2SnpNVG8wZHZpMktWZ1F0Y0tGQk5ITl96SG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "IL",
+   "date": "2026-11-13T19:01:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Thailand",
+    "place": "",
+    "flag": "🇹🇭"
+   },
+   "topic": "Entertainment"
+  },
+  {
    "id": "9bae61c32d",
    "title": "Van Zandt's education initiative gets music back in schools and students interested in class",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXdZRGYyczhqR0VmdU93b1ltM3BIUXdUYTF2SUR2ckkzNVR4cV9hZTFGS01WNE1vVWpuRDhqXzF3YTJ1RU9KNGJrLWNyZnJJdFV6VkZwOXhfWFFOQ0pDZmx1bndKQXM2MVctdnZULXY3QS0tV19pU3YwdkJFdlY3Q0I4OTZaZG5CQkVvaHVBRUtDNFdIdjlnTHRmQU5qSUxwV3BkUDJicE1fYVB4M2FrMUJBQUtBcFlMaGpOSDJEUzRfOHZTRXpxZzVxOUI?oc=5",
@@ -452,26 +452,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "7ec29f3aec",
-   "title": "Ireland v Austria: Heimir Hallgrímsson on how side is preparing for Nations League clash",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbVNpdHZqVVZFdEdMUFlHZ1ExU28xVVN4TThlTGZCNlNBeXd6eE9ESWhQY3ZmdEttRGZFNFJqS050ZVFyalpOdmxRMzlhY2RMOWQzRnBqYTA1azRDY0FKSmYzVHBVckl3d25SZHF1RjhVV0lBUVhOWEtHc3ZXSzc0cVRZdDJGX0RwZlA3QkxwOTRJNFpSa2hteUw3MUQ3aEpfZzVldDExaEJqRWY3Tmtub0t6MU5JODd6NkNPLXNGaEpHSHFTeVdmZmVMYmUtVkU2VFdjRTNtVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IL",
-   "date": "2026-11-13T16:23:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪 🇦🇹",
-    "also": [
-     "Austria"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "da40ee5a44",
@@ -491,21 +471,38 @@
    "topic": "Society"
   },
   {
-   "id": "6ef0bc3ccb",
-   "title": "JD Vance considers pulling out of 2028 run for president",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGZFTVRJRWFRU1hnYXA1YUhNeXg3Z0Q3RENKY2dVczhiMTV4UG04Snd5cUhST3MxSEpwZm1PcnoxdWZzdzNPVkROVEMwcHUtZks5cm8wT3h3aXpISDNuN0doZ1NjTEwwaVQwRFZwRURUQWhma0hWRTZOV085VXp3SFZDQWVmU3pyRVV0VzZ2Z1NUOUNfRWNldkxNam9rN3VPWGJnSXFuNG8zX0dZNWdreg?oc=5",
+   "id": "57aa765160",
+   "title": "US withdrawal from Under-17 World Cup exposes the growing reach of Middle East conflict",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSGEwSVhmX3VqR1RLazBsYWN1dVpkUnR3YW84Rk43WWhONXJydFptUnJ0Sl9xZ2ZicG9BM0xwdm9EY1hkcnl5QU9MREhTaFF6UmtYWWQ5dzRHbVRiSllDME56eVliaDRBckE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "EU Today",
    "region": "IL",
-   "date": "2026-11-13T14:37:00+00:00",
+   "date": "2026-11-13T14:27:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f39e2c9cc4",
+   "title": "Pundit to powerbroker: Meet the man behind Netanyahu's radical anti-Arab rants",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSjIwR09EMHJES2VYWGxlQ1B1d0pyTnJfRUNIb3ZRQzBHVlYyaGdNcUlSOFRNb0MxNXF2TnREeWRfNkU0SWR2SG45NGFfQ2draFZqYzRTTm12Y1BxclNlcHJvWkoxUHpyLWtNdndDanBVdkN5a21rOWJzeXNSSThxbW1YMXhCSWltN0QwM0FKSFM0Yi1WcVZFOUs1ek5IYXBLWWRVQUtmQWlhT1RUVTBkWXZOaFdoREpEU2l0WEVCUzJ2MXJQSFZTVlNSdEhMYzBtTzREZ3dMNHU4bWVzeVRiQjZSeUhFVDE4S0Iyb0luSDhYXzByWXlZVktKUEpCbThpQUUwMEhMQnN0ZHM3MEtuVEZmb2dPaW90R04tc1BOYVAzRzct?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Haaretz",
+   "region": "IL",
+   "date": "2026-11-13T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "4afc5d2174",
@@ -523,23 +520,6 @@
     "flag": "🇵🇸"
    },
    "topic": "Weather"
-  },
-  {
-   "id": "4bcefa03eb",
-   "title": "This AI finds patterns in visual brain activity and turns them into pictures",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3JDazJKNVBsNG1hUnFjVVA3T1dZd194cm5vWGllbExxckg1ZFRwcmZMdzRydkZJaDVvTFNZSDV2SGMzSHZkY0xuanJOQ0pxNWJYVTQ0QlhlZUk4X21ZWnNEalpsUHlZUDhfSi10MGdlWnNLUHNRTmU5MzZfamQ5MjRwSndENGNNWDZjVldiVEEtVEE2U3FXa29zQlcyN3Y3N1lvNWs0YWlzV1FIampmd3VBVkE2NUk2MDhSaXFHSWpUckQyWnFqSEgwWDg5ZFBkWlBoVlhR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Live Science",
-   "region": "IL",
-   "date": "2026-11-13T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
   },
   {
    "id": "c3c3b2994f",
@@ -591,23 +571,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "7fe72e301e",
-   "title": "Colorectal cancer is rising again after 20 years, and scientists don't know why",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XTk54MzUxcmprSmd3cW9zel96SDNMMEJlMkZ5V2ptamNXSzlSRlVIOVpqLWRabTFsU0NyenNJakdxaTZXM2NWSDczeFVUY1Q0dkRWY3JNYnc0bUtaRDBkV1FsU1JJYWRwZEtGeURfYw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Science Daily",
-   "region": "IL",
-   "date": "2026-11-12T12:08:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
   }
  ]
 }

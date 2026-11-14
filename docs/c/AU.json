@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
   {
-   "id": "2c2915e3ea",
-   "title": "Life-saving gene therapy for deadly childhood disease spinal muscular atrophy now available to more Australian families",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVjViNEFKZkxPSUczeG5lcldaVVpRWkYzYUFXckZEa25qZ3FGd3NTT1JZTlRWZDRfdWhpXy1NWU9CWklucEJ0cmZrd2VyeUN1anprNHpxNFV1R19BZDhtYklBSDFjYU5kUXozc0RJRjlyQmwzaU9HY09TSVlQWXlseHZ0SERuZGozblF3MXU1VXlRbnlia2xVa1E5bS1vQnBxYlNCRnB6ZjE5QUpnY3VVek1PdFZpeXFXMjJhcmpvdjNldHU0djlaYnp6b3VROUpJWFBYTnBBYXRqbXdPaXBCMnhPQ1FDVmI1NVVPM2dDQVdROW42Z0FVay1QbGkyX0Q4UV8xTnpjdHFHd9IBjwJBVV95cUxQNlZRTHp1cDNxcWVmMnc1d2JBNVpwTV9Fdkl2OUpjVXFNWmlNbEVfLVpSMWFUVV9fWl9nR29rQUZrRUVRT0Fza1J6NGZsM3RqYTB3eHNFTmVhSkllUzNjV0diN3pGTUU3NzNyUEFGV21TNmk0eXRDc1JvX1g4bXUwT29Bd21odm5ZSFFuNy1fUS1sQUVsRWJpREo0OFhfdzRZTVc1YU5pUGg4cHZDSm0tMEFnQzdCWnFObmRWeDAxRWdPZnV3MlRhblg2YlExWE50cGd3aWE1aUZaQVFrWTctS0RXM3A5YVVyM2wxY1Z0V250SWZMbGNralhDWWM1c01FWkhTQjl2RGRCa1cwei1z?oc=5",
+   "id": "d3e17fc6ba",
+   "title": "Physicists Propose a 'Supercurrent' To Read Qubits Without Destroying Their Quantum State",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVh4Ulh1SlB3T0Fva3FKZzFYd3BBcG9NSTBqal9LdElWSlpyMGlqUGd1WUtzYmJoRGg3ZFdweFUyQjk0X0pjcVdKZEtnMFdFcjRBRHBuR0NreGhBbUlGMldUQmFLdWhObU8zSVV5QXdHQldsbGhKZm5DYWU4ZVN1Ul9hTmdlRmlXcW9SbzhtQnhJTXp0VjZGRC1jRDhmdkVhdlNoYkJqMUc0T0JhVm11bVpKZV9SY3M?oc=5",
    "summary": "",
    "image": "",
-   "source": "7NEWS",
+   "source": "ScienceAlert",
    "region": "AU",
-   "date": "2026-11-14T10:32:00+00:00",
+   "date": "2026-11-14T12:00:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Health"
+   "topic": "Society"
   },
   {
    "id": "234dc7b269",
@@ -55,6 +55,23 @@
    "topic": "Society"
   },
   {
+   "id": "9b8fa35404",
+   "title": "‘Comes as a shock’: Premier Roger Cook reveals skin cancer diagnosis, encourages West Aussies to get checked",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdHdTNUw3WkRFQmFsT090eElXUnNzT2JMYlRIUGV6ckhzeEFjQnBVMkF2SXhhc0JralJnTGI0Z25Oa3MzeXNRd2N0NVdTS09uWm95V2hpcmxzeU5NZHhMbnJPQ2hpMEVRYUpxVE1xRGpWaU56eWcxdDA3TE5MWmxueko5VTN6VHBCb2VPNlZoMzg2UE11Nm12QV82TFdoOXJERTdSN3BVWGRlNFN4YXFVTnUyOW5GVjhtcGllaXYwcnU0TGFfaVFYbTBYSHJEMEYta25aWHNpRU45Nm1Lc0JwQm9DcDc4a0NOZkVzaE81MkhKS1NF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The West Australian",
+   "region": "AU",
+   "date": "2026-11-14T08:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b69d6b7eef",
    "title": "Meet the Sri Lankan immigration lawyer handing out for Pauline Hanson at the election",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOTNqR2FDMlp4SjlTbHNZOUl1OGFoYlloczk3U0xELTd0RWVPc3BkLV9nRG9wd2gyYU1TbEtDZlNtenNLYks4VVRwMUhjX2R3R1kzZ3QzekVtUjFZUVU4N25aaXRnNFZucWFUTGtKeFNGRUdVbExsZDM0VFZZYmduc1JBMm9GOWFFRVJwRUx1aU9LTjFKMy00V1ZrelJORHVWTnROcDR3cmdDRmg0T3JLa1ZCR2phSTM0NHVucFROTGtlS05GNEVzUHdSZEtMcEVQV2l6MS1pcEhPYnhnSTh6TF9fRkE?oc=5",
@@ -72,19 +89,19 @@
    "topic": "Politics"
   },
   {
-   "id": "30e3fdc369",
-   "title": "FAA ground stop throws sports world into travel chaos ahead of weekend games",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGM3YXZaeXJKLUlOOC1wOTN1YkpPUHphWXgxMnpXR3pSenFvc0E0MjBxZDctZE8yUzhCUXdJM2xfWXZ6c01rNzNPN05Bc1N2R0tPVTVWWElBOWh3LTkyRmw3ZG0wcVJxRFlBOTZkaHhmMFI0Y0d0TGJRWHFwSEM0NlJhYzBudGJ3dC1tZmpuRDViYUwwWERYRHBELWxvRThrclhVMTdabmY0VWlHOE9kdDNlb0FCOWJW?oc=5",
+   "id": "49628e8321",
+   "title": "Scientists Discover a Curious 'Dragonball' Structure Deep in The South China Sea",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT19CT1Jwbjc4U2pjN0ZwUTQ2eU9XNGdSb3JkV1RhTkdjV2JmSFIxOFdINzdRZDd4WEdzQ3FHSDdUWkI1T0hnTzlybWZtQlhHZGp4aTFaVUtjdk5Cc1dpRFNUZGpFSGhQWFhEaEhLUmxaWU9zQkxlWTZpX2hUblZIRmowbGRWa3p4U0RjcWFydDRWTDlILXE2WG5aTkFva2xLbFY5MVdwN0pWczA?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN",
+   "source": "ScienceAlert",
    "region": "AU",
-   "date": "2026-11-14T07:56:48+00:00",
+   "date": "2026-11-14T08:03:33+00:00",
    "coverage": 1,
    "location": {
-    "country": "Australia",
+    "country": "China",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇨🇳"
    },
    "topic": "Society"
   },
@@ -157,6 +174,23 @@
    "topic": "Society"
   },
   {
+   "id": "64336b30a8",
+   "title": "Miraculous escape as car crashes into Brisbane home",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSDZYX0doa1Ziak81T0VLU3RxNnJveVRod1JKVEpXS1NXNTYwNEFsUERZQnVVMVp3WERLcGw3b1FteEJTOGp6VndKUFQ1YmFRUWM5V21xdGF5Y2FmR0pMLVhGei16WXY3ZzdfOFlNOWoxOWc5TGNPa0tYaVh1SFAxblVNQlNocmxXSW9PQ0xfdXIxd09JWnFseElsSmo1eGI1V0J3WjdoSlBVTFRkYm1pMzN0S1VjZEVzdGt1RUtsRTJwZDhzeEJ5Uk5waTdXM0ljeTlhMkh6bTJneHB2V1I2TlNtUndsVm5rUUZIMDhiOHJDNnhaRDE0VlZvSUpmdzR6RC1QV0VWZU1LQTJSSFYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Courier Mail",
+   "region": "AU",
+   "date": "2026-11-14T07:16:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e2906aba09",
    "title": "Vescio stars in milestone game as Blues and Swans reach preliminary finals",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWhKMEtaSFlOMUZweHdkNkxjSmFuYWQ2VlhKWlF0aWp0dEZhWEl5ellWbzk4VGg3aDZWU29TSHRUWUIwRGxEZE9aVnlVdGpNWU5KRUZaRDhoajFTZnVNUmhMRGZYdC1sclU4amJrR1daa01ZT3VDRUg0QlRqLXpVU3BMLWFnaDJQcndGU29uWDlhZmJpclU1TEg5STlqM3ZnVU12NjRn?oc=5",
@@ -174,23 +208,6 @@
    "topic": "Society"
   },
   {
-   "id": "52da90176c",
-   "title": "Questions remain after Nvidia CEO's departure",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaU81cHVzQ1J6Wjd4eWhNdHJaSXVObF9TWHN6bGNQTEVsY3ZfNVZLRG01Z1BDbzNKRDdCSWh3WllQVkRaUzB1OVduOG9YZ25nQjBuTmF6UnlwbTZINTl0SFF2NG5iTGg1RWowSHBZbFpoaHpBdzNpUVZlSUx2cXg3QmZlM2ozVXpSS0hQbElPRGY1RnZZUWJ1MENSOU9NT1ZEcThRTDUwQjZxYWVOTkxnMWt3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-14T06:55:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "2c16cb65f0",
    "title": "300k+ cram CBD for Christmas Pageant amid heavy security",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZU9hYWpZME5Ic1V2Z3lTSnZNM3FyOGhBZjNRV0tJSXVCNjZiaXA0UlJUYmhIV3MyUWxiWERROVZvMmw4ZXBGdGx1ZUtaSTI0REZCR29rbVl2bE5ZRFk4OWpfWFdtcUhNVVJnTWRsS2Vlek5TQ1BsbXhVS2dSX0N3MGdmcU1tNEpyRTJxMVI3VjZ2OHNQbFM5NHhueU1LOFBGZjB3Z2dzWVF1ZHVIci03cllwM3c3WDA1cGFicU5wN19QNjZPU1Z0cW5SQlpsemdvbTZ2dldtRXZzNG9sNW9sQmoxTkdfa29Wc1Zwc2Nva3BESW9tNW1yanJOZEJnUi1mSGFOSFd1NFBlVkFUUkhlcTVVbTBUZEdMVDYzRXpGRm8?oc=5",
@@ -204,6 +221,23 @@
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2a2a3a7cc8",
+   "title": "What we know so far about why US flights were grounded",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzY1NzA2VEo2c04yRXhhN0VSUTdrQ1A2alRyM3JTNGRTZVltZUVsRUNxWVlseDdZeXAzMHI2TTdhZ0tNV0tydGpPUDF5MXgzQll5YTRIelkybVpjRk1Pekg0STJ0eW9PakJLSUs0SUVEY0xSMkw5UXZ3eVEyWU5ZSEJTUTd5Rm5iVnp2WnB1Z2JzbkRMR3J3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-14T05:57:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -259,14 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "cbf8acd0db",
-   "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnJ2SUdNbERMS0habW1xekRqamtYMzdka1p1UEpjV2J2Y2lFZFFKNGRLNVVVdmpUQ1NPSFBEdjhKVmxUeFE5LXFXV2d0RXlkY0Q0S1NwZnpVNnFNZTNHeUxPSXJFU01SRGh4aExpMTA3NkRMUlFjYmdZWUlUN3RNMzQwX1JBR1gxQXN4RGxPcFB3Nmlrem1nWElERFlRTTJWNGc2TFBwOFpWRmRkTEZxaDRxUTIyd19tc05QVlVKTm8tTy04?oc=5",
+   "id": "b50b78d78b",
+   "title": "Kids’ products recall over fire safety flaw",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN21zeFg5dFhUUFVMdmJETFNYREZWOHpkWC1kMDV5M0ZnY280YmMxMVFGMEpEeEhhMV9ObEF6cmlXQXhpVHZ6d0piaHRkbjVLUEgyUDZudkw5d1FCVFlQZ2F0Q09NcWVqMXV5eXAzd3VDcnpraTNhVU1NckZMTlRzWkxZY2FJbUZkYU04UW5kOUdiajJ2Tkctd2VBazBsSUR6WS1SZ1pfT0ZwcmU5M0FNRi1zNnZvRGY1dllveHpQRFJDMnpqUWZVT2Fhbk9QMUlSYzhoQzVzTGl5clNZZ1F1d1NGd2s1eUZaUFJ2YmI3dTN5Y0nSAfgBQVVfeXFMTVVnaDdMeVZHaTM4UVl1UXhGamlMa1NTSERjZFZoeTJNRmE5Sk9WcTlwMDFnTkhSQU1KU1B2MDNwOTF4RlhURl9lRUxiNlZycGRWcVlBV2luUmF2MFNaRi1JRnVxNGVrS3hMNGkxSTdaeExhYXBJZ0xZX0JMRmVnbllwTlI2WmZRNFNNcG9aOWRSUXViLTMwRnFTMGVvU0FTVFNscjQzM2R2enZNcVd2QUtwV2o3RXlTNkQ0clJ3VTlLYWx4aFlSbHhhSFN6QmlYRDV0WkJ2a2lUd3VxZVZZT3ktSU1ocXVTY2YtQ1FFTThZTGNOTGxobzE?oc=5",
    "summary": "",
    "image": "",
-   "source": "News-Medical",
+   "source": "News.com.au",
    "region": "AU",
-   "date": "2026-11-14T02:55:00+00:00",
+   "date": "2026-11-14T04:16:02+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -378,6 +412,23 @@
    "topic": "Society"
   },
   {
+   "id": "715fa92144",
+   "title": "Tanker lost control, hit river cruise ship in New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRk81aTU1UjFydVlWQUp2emFBaS10UzRITE9IakpFNVVEWEs0X1BnRUpyS0d3aW1TOFJBcU1CS0JBZWFROXdWaGstVlFCaVJDaW9Kc3AtUjBZemxJaWZHVGZkY3Fra2V1X2o0aGZ0STBmZ2duMWFXMVRSVUpnem1NLWZIQVFrdTFhVkw1UjZWRjk2MU1rd0VsY2JnM3FPeUdKNFA1V1VNSmMydEtqaXBaZzNMR1d6bll1aXVnN29GN21kVVRsNmJvQWVpVTh0VWlpdXl3eWczd1pDTWk5MmNKWm9oTFYwdmN2enFFQ1F2TER0Ylk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Australian",
+   "region": "AU",
+   "date": "2026-11-13T22:34:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "6d2b335685",
    "title": "Exhibition celebrating 'unbridled messiness' of womanhood opens in Canberra",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXBzOGZnMHRJXy0ybzBIenRuV3hjUDZDZExBUkluY3VEelZMUDNTVE9iTlVSN3lJcHJNTnQ0bC1qV0FBa0ItdGxDOGtVQ1l2ODNIajlmMzgzbm9PeE9ocEVIeWlYMl9jTlNyNEFQYjVUWHE5aXJMTnFsRkZndUtrbEZrYmlhN1doSEVGcGhFTVJQU1MzQ1RUaVdzYUJsb0FOSEVYXzk1RVc2dC1HY3c?oc=5",
@@ -395,40 +446,6 @@
    "topic": "Society"
   },
   {
-   "id": "50175e5cd5",
-   "title": "All passengers rescued after tanker crash causes cruise ship to sink in US",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0VKdnJXYW4yUW80bTl4MWNVNnF4VGdZMk1FT1pLNEM4MWY5ajR2Y1pja3h2US1TMXExOENWSHhnckVXV1V6dG9qVmRYZW1BdXp2RDNnWDVnNjJPMXVEazA0d2NyNDdRaTBNYkFBUFNBcnBjcXp4WFNlRGNoakpVeUNNYVhFSEFyMzZ5X3hFQ1pjYkVqT1Y4RQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-13T21:12:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4a93ef1d5c",
-   "title": "Longer inhibitory connections can push simulated neural networks beyond critical tipping point",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUpQUmZ2QXhoYmNfX1drM2lKQ0xXVUNqRjlZcWxDVDRnWUgtZ1k5S2t1VHU4YkZCWGxLLXFMbkxOaWpvT0J3aGZKUkZnLWl0WVFZSlU2ZWRfQm8zQ2pieHdaUi14elFaMmJlZ2I5bWRhc283U1h5eTN4WEJlNjVEMENzZGtmZjF4eWNnZUItSXQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Medical Xpress",
-   "region": "AU",
-   "date": "2026-11-13T20:00:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4e22fd10ff",
    "title": "Australia, Philippines to ink defence deal amid South China Sea tensions",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMk1LTVZkQ2c2bWo3OGNyZ0VDMGY4RE13aXg4ckhreFpMLTU5bVdiWmx3cmNrX2dTR2Z5MHlxZEw1S1pQeWsxNFNjMVhueEI3emgwbzJmMVUtTkt1bERud0NrcEdYb1R5a01aM0ZZam9BNUlTZFljUS12a2pvTGljNmhCRWhFMHBNX2R3cnlhMGJkc1Y0WTZCVTI3SkFrcWM0VWxsYQ?oc=5",
@@ -436,7 +453,7 @@
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-13T19:49:44+00:00",
+   "date": "2026-11-13T19:48:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -484,38 +501,38 @@
    "topic": "Society"
   },
   {
-   "id": "ebdf34f9ee",
-   "title": "Prisoner who bolted from brother's funeral caught after months on the run",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGpraG5LdkF5ZElKNm5OVXNhd0hLd25pZ1QyWHdLNWoxVUc1QkljNnllRWlkNW0xOEZTX3NEa3JtR3dVZ3dYckZmRmExME9sRnpzMkRGYlN1TndSVGxCVjdYYXZCRkplRGZuZFVEdm03SUc0cmI2RDdwamQ4ZXRubHJqNmJPNHdpNmFLeXZKWHF0YTlCM3o3SDBUZzZCZHN0MDZ1LS1vQWwtQQ?oc=5",
+   "id": "a428049048",
+   "title": "How Jensen Huang’s fall could ensnare Donald Trump",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTUt0WE9kNU5ZV3RCa2pNRS1tam56ZmV0Vmppb0ViNklxYkpCUkhEOEoyOE0yQXhBTmVmdG9rWVp0ZUQzbUlpbFRyMFNnU090dk91ZWJacVh1UnhRTVhOd1Z3ZGRsTG1xMFNaTll6cXBRaGtDMlZGTnA3M3ZsS1hOTl8xWnFlRVN1VGxucWlkcXYwZzBzbk00UnFBOEJUdFBMdmtKWUZmc0h1U3VJR3JRMmF1LVROQlNUa3RER0tNSWVZVElEdldueXBnVnY5aGt6dlVTZkYxTUJOOFlrWTZrT0h3RFpIUjdiWWRXeFh2azhQYk1yMVNtS1dYMWU4a1NLYzRRVTN2ekEwQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "source": "The Australian",
    "region": "AU",
-   "date": "2026-11-13T09:50:47+00:00",
+   "date": "2026-11-13T09:30:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Australia",
+    "country": "United States",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
   {
-   "id": "797b3168ed",
-   "title": "David Jones will close seven stores across NSW. What will replace them?",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekgtNGprcktSeU1hX0xoZWJ4cm82WThobTh5REZia01rV0FuMjVGdmQ0MjJIYnN5M0JBQUhPODFSRF9FeU5zbm9nWV9nUUl0NG5yb1d3c01DamZXT1hMamYtWVNibHAtdDN4S2hmSGprTzBKTDhsU2tUYXBvTlVOOFJEQmE0NHlYRVZyR0d1aFJNZGctVTZyeTU1Tnd5YklWR2hRSWk0SkgxeGUwWWJzbjAxVHJkbUlmcEhxa3doa0ZpUnk0?oc=5",
+   "id": "8daf52df0c",
+   "title": "‘Heartbroken’: Aussie left with unpaid DJ debt",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaFBBOUJrT29mZGFaSURmbjhxbFFWSV8wdE5TdnZmeWF5Y0J0bmhLejJsOVFVSEZ3VVNwODB4ZzdsdHdKeHdrZlBDWmlwdWlSbDRxS1psaTdPYWZFaFkzS3NROVlvdkpQLXhybGZXbVRKakM4dUdvYWF3RDB3anJyR0hwUDhnbzBXbG9HTlEtb2V0Y2YtQi14b3JJUXdZVlo2SjJTcjBoQVdLTG1mQTdCRVVZTG4wTHQ1M0V5R3NCSmFnODJsLVpWMllkUlFzVG9qbVZFUGhJZTZYMVFURXpSVjJEUWgxRjNWTUtpVHFQTkljQXhhQ1pCN09SZ0PSAYICQVVfeXFMT2tLcTdyYzVGdnI4ZlVyUTFKQ1ZIQ0FlbmZVOTRJb2lqci1QaUYxTTdndVNkRmZ5TUVLRHJMS09fdUhPczVfajB3MFNaYnlfV3ZUa0wybG5aQ1o5QkdmbUlLN1FBX0tHTll2b1NXTTIyTTlOMGcxd2JGYnZkQ1dLNWJiN3BUYnA3MVAzTjkwbnZLRE1SSllDLWZKcUNwaVZUQm4wZks3N2pwZ190Skt1QkRzam8yeE40VDg1LXE2R3hZY3pWM1UzMWNDMFg1VENXc2FUeklDUFpjX2E4YkU2WVNsQms0ZWF6ZEMzajh1VUxIeVYtYmFtby1BRmk0TjRjdnNB?oc=5",
    "summary": "",
    "image": "",
-   "source": "SMH.com.au",
+   "source": "News.com.au",
    "region": "AU",
-   "date": "2026-11-13T07:45:00+00:00",
+   "date": "2026-11-13T08:50:17+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Society"
+   "topic": "Economy"
   },
   {
    "id": "97a8c75c1e",
@@ -571,23 +588,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "3578916975",
-   "title": "Government back to the drawing board on backpacker crackdown",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXlRalJLZ1IzX1gtZjFwamxjLUNjbjFQdG1meXE2Q1A2ejVPUlY4T3lRWHFjeFJ0S1JWbkxaQ3VZcWJfM1IzcEV4ckhVX1Bfb0NpQ2VoY2lsdkNJYV9WaGdpemQ3VExraVJLdW9yVE96WVRLNE1PUG51czFUeFpxd2lZd3Znalp6VDJZOG52aTRtVXJRbjNpYkVGbkFWdGdKSC1jbUln?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-13T02:45:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Politics"
   },
   {
    "id": "ee647ba03a",

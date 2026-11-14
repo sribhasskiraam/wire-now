@@ -1,17 +1,51 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
   {
    "id": "58408758d8",
-   "title": "‘We didn’t see any change’: Melaka votes as Anwar’s PH faces Umno tide",
+   "title": "Malaysia’s Melaka election: voter turnout hits 70% target as poll closes",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFHSAcYBQVVfeXFMT1VPekFvQzZ1bWprVG9DTE9xLXRUUDVpRjVJZjk4NGljYlpzTmExejNnSnhzNE95WC1ESTBaenpNOGIyOThvYzdFallnOHNlcXVRUmgtM1Uzb3JxWnBtRllfU0htQ0pvZTlKclZRZmJ3X09Hd3FaM3Zndk0tcFR5V2lPdHRrM0ZnOXBuNWxpck43LVRqbTFxek84Z1RGSk80Z29feFVLZkQ1X2g0cUFVZWl0VVNQMzU2RlRnYUJjcXpjQnc1bFdn?oc=5",
    "summary": "",
    "image": "",
    "source": "South China Morning Post",
    "region": "SG",
    "date": "2026-11-14T11:23:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "ca1e48c1b5",
+   "title": "PM Wong to visit Manila for ASEAN Summit, related meetings from Nov 15",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXQwVG9CYlRtUHBQX3BjZzFDM0t3Y3h6SW51Uy14eWgwLVpyR3dLNGVyU3dsX3JDdG9mWGRYSUxQQmVWVUkwSXhscmtXWGFpNEdxdXRsRksxLVR2U3RBa1gyWUlPekxpckk0WVdoWnE2RWtNNm1NaTRucmlieV9xcWxMT05YVjltOFN3NWp1M0tkMWMy?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-14T10:00:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "607673f117",
+   "title": "Man United, Pochettino's to-do list based on what's gone wrong this season",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2swWnpxRFprcFJCeGV4Q3VxTnlSbzNOVkd1Q2tic0dFcmM5bXIwTVdLc2dhdUMzcUVQRkczLWRKNHlOX0x6WElZN1NteUx5OThDenA1SG1FTTFHVVpDcmF2TVZwb1RUQ0daVkdpNktrdk1CMzQxVGo1R0xBUF9fV2hKTzFnX2lPcGhBcEY1NXBNSkcwVkpKdndCWFEyaWE5WXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "SG",
+   "date": "2026-11-14T08:39:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -21,21 +55,21 @@
    "topic": "Society"
   },
   {
-   "id": "e8dde9ef39",
-   "title": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmhEZ3NHOHZpX2NwSENWWDRzMWlGQml4N2h3RV9aNzZQUTFVOVItQTBPdzNPbFlnSU1pRkZ5emdpRXBabnBXN1VxRlN2cEtnLThaYWJrY3FodGF0RVNmaG5DcVpDTURCM2kyYjU1QjROSE5OQXNGUTVRZTJwVXp4eEtJVEpXYVhENjBHY2VoczdDRGhmakE?oc=5",
+   "id": "571c36d86d",
+   "title": "African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjlWUlVhdm1pR1p5dEVuSTVDQzdfWVA3Ni1SYVRpOUNWNTlQaWE0MmhiMXlnS1VjX0N2ejNLVGdKdWhWeG1GcThQVnZMLThLZllXaGM3OUcyMXBnRXYzX2RhLTVDNHhFdnRBYWZ1UmY2aXI3cGpwc3NndjZEZHpDUGJsMHUyb1dhTHc4QVVfblJvQ0p0aWJ4TzRkdXU0dkpaQ1kwaUF0SXpaLVFMbEFDOVVoNERrM1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNA",
+   "source": "Tuoi Tre News | The News Gateway to Vietnam",
    "region": "SG",
-   "date": "2026-11-14T10:14:26+00:00",
+   "date": "2026-11-14T08:14:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Singapore",
+    "country": "Vietnam",
     "place": "",
-    "flag": "🇸🇬"
+    "flag": "🇻🇳"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "c41a3292a2",
@@ -73,6 +107,23 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "1702b9e4c9",
+   "title": "Singapore-based billionaire Leo KoGuan vows to halt Nvidia buys after Jensen Huang exit",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFd6QmEzMGltNnRSRGJPVHNPMExHc3hlM256MHBaSC1JS0hRZW9ZR2RLRURQYW1WWmVTYWxubUgyNGRrTmstanFiU3h4V3pOajBjeFQ3bXFSdHJOdW9iS3QwSFg1WkVPSldmSHhsYUtCVFJRdUJUaUFMaFNnMWRKeXpjMzRtaFZhTmNQS0ZZZDNpUzNFS0ZzSTNIX2xOczJNaHF6R25zWGlxVlk0TnA1Wm45YjV6MVFhaWtnTVFFamRQaWtYZkFSeUQxV0JuRnR2c280SW1ya2R2TTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T08:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
   },
   {
    "id": "d57ef61ef2",
@@ -120,23 +171,6 @@
    "source": "The Straits Times",
    "region": "SG",
    "date": "2026-11-14T04:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0c543cb19a",
-   "title": "Over 600 personnel take part in multi-agency exercise at RTS Link Woodlands North station",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWI1MkVnbGU5MmJnUDN2d0xGQ29NcG03U3RRSjlybGRjLUgtS3NXZWNCLUZMTHh3SVFHSGpydDJPc0h3MDkzYWNYZDdWNENPMkxGREVSMU8wSnNDZENfR2VnU0llZm03Nk9hdVFvV1VBSDRneHVEdUkxSWhGb3ZWR0Z5V2p2M1ZTY1JtVmtoai1tSnp5N0t1TUVlc0lkNTJqTDRwa1BzdGl2cU1WUzI5YmhLcTBSN3lQMTVubFlPempZYkVLQW9Z?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-14T02:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -197,6 +231,23 @@
    "topic": "Society"
   },
   {
+   "id": "21e2b20b2f",
+   "title": "17-year-old goes on walkabouts and meets with residents to address community issues like 'an MP'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmw3RmsxTjBYTVEta0tRN2VNT3l6cDZnTjdUblZPVGZUU2FhQndZc3JxQjdINGkzQzFDczlhZ01vUVBWZGhUQVlPOVlLZkFuZHpzOHBCc25iblRscmlOMUZXMUVwSDZMam9McldpUDdYVVp0RzBBSFJXUW1kSzQ4SEw0TzczWU5yOTdTMjlEOGI2YVZESjh5MEl5N0Rud0x6?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AsiaOne.com",
+   "region": "SG",
+   "date": "2026-11-14T01:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "bd5f1e329d",
    "title": "Singapore start-up taps peptide power to tackle pet infections, seeks to replace chemical preservatives",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3lTV0U2UUN4a0ZhN3VyZExYTGtQcWJRaE51cVRFVjJnaVVhUmJxV09VcE1zRWE0eWI5WWNiYURzMFhYZFBWSXE4bmNmb1lKdGozN2pFOUxEY1NpcVpzUHJvd0NBSDNuS0EtWGdSeVVtZzRHVnFfbG9iaTdyanU5RW5WUWx3QVFScTJUaGtrV0duT0dwSlRGNlhTcm16YW9fREN3Vm55b0MtaFVyazdPM3cwQlVpLUdzblpsajB1YkZHSUZDa0lTSjFsRy1OWHM?oc=5",
@@ -212,23 +263,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
-  },
-  {
-   "id": "61ecec50e6",
-   "title": "Bristol Stool Chart: What your poop reveals and what to eat for healthier bowel movements",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1pyZUtFcXlSNHF5Sk0xVDgyZ2dYaTBrNFNGWkNRZmI1TkExZDBGT3FfcnEzLXFEWXlmMDAtbnFtQ3lNM2drUThaVFJGQnltbzAzWmRIYTcwWmtlaDg4NkF6NjlYT3pQTml4ZFg3TmtGMjFlbnZlU3IxTU9hNUYtUXZZQ1R1TTcwN2ZFYXIzMDNYQVRqVWg0MHF1M1NaUTF3TzhpS0dVcnZzMGlzQlNUMnNPRW5UUmZ0bkRDVmNERmFPYkRFd3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-14T00:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Health"
   },
   {
    "id": "92867c2878",
@@ -299,57 +333,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "d177828254",
-   "title": "Introducing: The Raul Pages RP2 The Hour Glass Edition",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVV3UjVJTFN5azhRWFVYNHgxRzJ4dXd3TlY2Yi1JZ3VkbVAwZEdidU5kNkRVbDJOMUxQY1FPY25PU0FBM0pWX0piZ2VDTHNvNjdVckJGVkkta2EtdW5GMlQ2QVo5NFNSZEo0czc3dnluVVhaRVNHbnFmNW5mbGJpVFhOSExXendmejBlTEtnaG5SVm5WbXVueTBnUElMd3RPQjNsSFNrVmVNNWwxQXNOVw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Monochrome Watches",
-   "region": "SG",
-   "date": "2026-11-13T17:10:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "430fcb0f4e",
-   "title": "Man United confirm Pochettino as Carrick replacement",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVG1WbWJpYUc2RmJza2xCWnppellkbW56SjVaUVY2ZE45UDV1emZEamlMOTNlTmxicU1Ra0p3eVAzWHRSSVFqSnU2ajRJbXc2X2drdEE3a1pYYWlZR2VkX3ZNaWUzQmp2WHdKTE92Ny1UaklrLVlQYnQtWUFLT0ZxSUJXeUxTVkl1ODRhRGpVQl9kUGF5ZkplS01EQl93eWg1UHBzUFUyZDU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN Singapore",
-   "region": "SG",
-   "date": "2026-11-13T16:04:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "540869bed6",
-   "title": "US Treasury chief blames Commerce Dept for failure in Nvidia scandal",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2NQa0NQeXJjZjA2MnItQnN0M2RlVUczX2lubVYzWVVyR184QUNybm82YS1iTmRiSEk3T19sYXpITmtmcEpUMlpMUDVxY2FLRVFDUDZmV2ZYVzdjQkVBb2w5WHVyNFhYUjA5QmlYTTNrZTNGdUFKdVBycDc1ZzJETkdPbUR1UDVxRnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Finance Singapore",
-   "region": "SG",
-   "date": "2026-11-13T14:56:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "32f553310a",
    "title": "After 5 pregnancy losses, Hanoi mother welcomes 750-gram baby girl",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVl0RGtJQXM1TVBUbVdmQlZqbHBEWG40ME5fRGdLX1hGNzlLai0xamk2RXVhdHR1V2lucXZodzlSSXNnYm5peVJQaFlJMHgwVWxIblZvY0ZjdWwxYnA1WDh3eFNKNFhER3EtcTRjSWJFVkloTHFjRVJkNEprekdjZklFVk55X2M0R1lXM2h1bmszOUxkd3QyUGNmOVU2OW96bWRTZWswd284dEZYWlVGYQ?oc=5",
@@ -416,23 +399,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
-  },
-  {
-   "id": "23a12615dd",
-   "title": "‘I’ll be buying more’: Singapore investors pour into Nvidia shares on Jensen Huang’s exit",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdF93Q0l0RGFHN08wdXVkWUhwRTNQdEtqSUFpckJJWlE3SmJoajYyWi00dTN2dUF5M2N1OWtjMFhQenJPVG1WTGFueUxlVmNyQzM0YzViQ0pnY0xkVF9jemZKbWpNaWlNeVFzZU1feEVEZndLQndPaHpXZmpaVFN1NXpoa1UzWmJ5RkxDWFpTdkpkTGxOMjlGLVBtUjJJd1VtWTM4bTlPSUVMdmQ2VnhjcWx1eGIzeEhZTGpSOGxHZzNGSFVLQ3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Business Times",
-   "region": "SG",
-   "date": "2026-11-13T08:06:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
   },
   {
    "id": "e677319663",
@@ -545,6 +511,23 @@
    "source": "The Business Times",
    "region": "SG",
    "date": "2026-11-12T22:50:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "bd53c5f330",
+   "title": "Apple's HomeView smart display: Ten days hands-on with the $299 device where Siri AI finally has a \"home\"",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjSHVyVFR1LUFxSlF0UVBocVN3RVFTNms5Ny16YzU1ellUNzlYXzNiRmotZHlLSE5SRnIwY1JqUjNJOWU0NlJIY3diOFhLcU04OUs2a0JTX3hQakZJYmNleTFfMTUwd0doLVZZQU12aFkwVE1meXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BigGo Finance",
+   "region": "SG",
+   "date": "2026-11-12T14:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",

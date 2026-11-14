@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
+  {
+   "id": "65edff27da",
+   "title": "Evaluating transformer-based models for predicting metric-based research impact across scientific and medical literature",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Um5uaEdLY1ZLb3BQamtSakRiU3J3UEt0SmpCZ1hTQmhnVjVVald3a1BDM0lkc0tzQUxWdi1LUzRmR2QzU19lUlZmRTJwMUtGTTlzcGlQM2VlYjRfM0dn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "MY",
+   "date": "2026-11-14T11:57:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
   {
    "id": "d47a9e8380",
    "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
@@ -22,7 +39,7 @@
   },
   {
    "id": "58408758d8",
-   "title": "‘We didn’t see any change’: Melaka votes as Anwar’s PH faces Umno tide",
+   "title": "Malaysia’s Melaka election: voter turnout hits 70% target as poll closes",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFHSAcYBQVVfeXFMT1VPekFvQzZ1bWprVG9DTE9xLXRUUDVpRjVJZjk4NGljYlpzTmExejNnSnhzNE95WC1ESTBaenpNOGIyOThvYzdFallnOHNlcXVRUmgtM1Uzb3JxWnBtRllfU0htQ0pvZTlKclZRZmJ3X09Hd3FaM3Zndk0tcFR5V2lPdHRrM0ZnOXBuNWxpck43LVRqbTFxek84Z1RGSk80Z29feFVLZkQ1X2g0cUFVZWl0VVNQMzU2RlRnYUJjcXpjQnc1bFdn?oc=5",
    "summary": "",
    "image": "",
@@ -35,7 +52,7 @@
     "place": "",
     "flag": "🇲🇾"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "c5bd75e789",
@@ -55,14 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "d217af3904",
-   "title": "‘Constant fear’: lung patient’s long wait for transplant highlights urgent need",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckhqR3VHdFBuZW1rY2xhamN2YlV2QnVicHZna2RjN2pZMVNXNndoWFYyQjduV2dvdWgtdWtBclNUZkdRX1NiODdjN3hOeGRZM21zdEZuTG13b0owejJGajNBQVd0S2luQjhoTlZjRmFual82STFyQ0tNbktEYjJJUjJMMXRQVzl4UEIzbnVJdy1CRE9yR2hiTUhPVzhiUlpzc3l6eDlXaG1obEoteGdSUWk3cVVtOHlUUTBXNDdVNzFadHR3ZVRNT05fbVpaLUhKVjVzTw?oc=5",
+   "id": "42c80c14db",
+   "title": "Two Malaysian pairs reach Kaohsiung Masters finals",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzcxZV9HcjV1YUM2YXItSWFOdHVfT2YzaWhDNFBzZEMzNzMyQTlVeHBpV2lMcW5sWVVIaldMdExlX3p0ZGZqaUhQcVBoTTROSk0zeU9SYzRyelFCdGVoSjhWV2RiTy1vSzB5ekM0cDR0MDdyZlg2XzNIWXRqSFNVOXg3dHUyeVJkT0xxdklnYjhGZzFpVmJhdWZjWk5KN3ZLdldYejVUWG40UdIBrwFBVV95cUxNc1hEVldRV1NUaUJFdnQ4V0taVDMzMHlfNE5ZWld0ekZ4WkJYcHJnSlNYMGpIdm1DZTgyVTBCN3MxU1F0akpxbFVhc2E1a0hMZXl0T25UaVFwTXNXb25uVUd4a3VwOTVySjV0SE9NdmNKSFZKcWdOb1VmM2s4QTlBejdpOEhGYUFrU3lETDZ6c0VqWl9zRFRVZ0ZCYUc0TlowS3ZmSlQySlpjYWtCd2pV?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star",
+   "source": "NST Online",
    "region": "MY",
-   "date": "2026-11-14T10:23:00+00:00",
+   "date": "2026-11-14T09:22:13+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -89,23 +106,6 @@
    "topic": "Society"
   },
   {
-   "id": "5c2bd62c0f",
-   "title": "Badminton: Two pairs put Malaysia on course for double",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1dXU2dGOFBiUTVmVW1vYS1Sclc3RjBfeGt0bC01NUNzbHZzaHV1eS0xNzVmQ1k0c3JTUzdQRGxQYWIzUDNJZlhLOUVhelhwOVpuNV9IV2VYQ2lmRVowQnBfUFNUMEhKTFJGN3M5MjZhQTRvcVdENWU3VkZuVDd0MnBhQ1BGM0xfZk1uV3kzVmpOZkFxdXVxLVJOZE9xZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-14T09:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7b590fbec4",
    "title": "Malaysia hit by thousands of cyber attack attempts every month, says PM Anwar",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGpmSHFScTNUX1JteWdIQkFIb3p5dUZONUV4dWRGN0tLMFJ6Q0pnZkk5TFk4UnFzQVFTNnUyZmtQa0hmQU1GUFo2a2dWZlNBMW5qRkhtYmM0b1k1bndLZWdMX3p0MUYtdUdDcWdFTHN1ekVBcjhDUThGVVNTcEswVV9fRi1LVU5zeVJaTldLSWZYOG1nblQ2M2pMb0hNVkZ4NTQ5VGg3bHZDUlNMTmFvakdXMXJXc0hMUi1mamVpckRZcy1K?oc=5",
@@ -121,6 +121,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "72455a1fc5",
+   "title": "Home Ministry only implements pardon decisions, not decide them: Saifuddin",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekk4YkJWanREckkzRUJ4bEJqYTU3cU1SYzYyWGlzNUM2ZE9wbW1ja3ZtSl8taXBKcTRLaGFFVmhHdGIyX1BwQk1vWjBFWjZ3RkVNMDFxdWZUNUxzTjhwTGVPbzhZWlNSZnNScE11eFJlTHpOMmR2MUgyZGhtUEVEMGVSbDctUWhlUUJpaENCaGZKN29EUXFxZ2JJSnNocDRjTVZobkhvSkU3VzFYUzBkTV93Yw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Malaysiakini",
+   "region": "MY",
+   "date": "2026-11-14T08:36:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
   },
   {
    "id": "69e5297952",
@@ -211,23 +228,6 @@
    "topic": "Society"
   },
   {
-   "id": "2bce0eda90",
-   "title": "‘Oppression must not be justified’: Fadhlina hits back at Hadi’s remarks",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUJqMmU2OXQ3XzRzYkwyazNNU2FrYjE2c0UzUUZ6M2tWR1BQZnFiNkw2NGRGSGxqdklPZ3pzM3NLV2toVVd2akFZYVVoc3o0M3BqeThZMXpzajFSVEI3MHRxUlJBYXFOSXRQclphZnBYTDdEYUtGWGN2cl9KbUhPS290cGRxXzNFU3BxVGZtV0Flc004X3FRRFYyemh1UDBzQ0JNV0tqOVJpLU5RSzctcEZsWEhhNFJ4UkpVLURhVWM3eFhJ0gHKAUFVX3lxTE5kb1JGOUhqUkk5cTB2N0lyV013WDg3UWk2andocXJ3bUF4Mk9kV0FseDJXdTRBb3lJZEhMWXpVWkVLSkNZRXYxM1hJWXdlaGhFWklkQVB2dVF5UU5FOHRGNnl6emJtaTl5VFhnTnpUaTJoQ3k3RDVaQ0N0ZmcxbmJsYVFvclowT0xsSUNKUHdDNjRGMWlzSndGcm90cGp5VUZCTkMzOWtkSFZ1QUpIazlxYmxBV09tMjlXeFlrakd6dXNCLWVFSkw2MkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Malay Mail",
-   "region": "MY",
-   "date": "2026-11-14T04:34:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "fa8832efb7",
    "title": "DAP defends itself, blames Umno for testing boundaries of unity govt pact",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVDQyclY0TEZGWXRJcHBhamw0ZmlaUTlwVFZOZHRTeGF1OTFoYW5Takk4Qm9rRWNJZGdSRXhvQXNXa21yczJKQUE0V21kYXJFRHhJOHBzbE91djFYYmNSM0xTaHpPSlN2M0w2Tm9sTjZ3d0pUTENVem5XQS01SEM4S0xnVTE3MUZaYm5KZTRxMkVicEpBYkZuTDN1N0o2Y1JtcHNCaWw5YnFCWkxvb2g3TTV3ZnhtV29IaDhfUE82TEdHQUlGTXFuZDB6ck5oZw?oc=5",
@@ -262,23 +262,6 @@
    "topic": "Society"
   },
   {
-   "id": "eec1d69421",
-   "title": "Najib's 8-hour movement involved hospital visit, Friday prayers, Prison Dept says",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPellPRVVQeExkcmM3NmxNMzlqX091QXFmSjJrOFlkSEpDUlRVeU5DcjBBYkdqSlhlUGFPSHRYSFdsU0VsVGRrdXBfeWtxY3JVQkQ1M01RMS1wX0ZUaTJpUElIN1h3VVVwWC02OUhiOGt5bTg2QVd6Um9yVGRkLVM2eHpmTlhRSGo3UnZUdGFjbHA3X1hfZ2tTWHZLVGVfNjZmM2JGRGxDRm5fTzc5Y2ZqMUdoSjNldjY4c01n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Malaysiakini",
-   "region": "MY",
-   "date": "2026-11-14T00:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "e74389530f",
    "title": "Jeryl Lee’s decade in music",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2kwb2l2eV85TmpNTWUteXgyRVd0R3FjdnBpZWh5T0h1cng0aHFWV09DcWJrZ1Z2My1aNzR0WGR3ejR4SmJ5aEtoMndORndGZFhSRkNTOEdYVWlaenlZMUZTT2hJTVBtaG9qWXlvNDlUT0xkdDJMZFc2NWRZRm00WlRR?oc=5",
@@ -294,6 +277,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "cce95bb4e9",
+   "title": "Melaka polls become test of Najib house arrest row, with GE16 battle lines emerging",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFJIaUJPeTRvS1JSbmtJVXc4YVNCcE9qMnB3N0tlT3hvSjc5X1RaWDVqdFZOeVh4TnRtdkY2UXhIandsLW5kYlBSdG1DT3FzRFFSRWNuX19lYmNfMDA4MVdnTnl3cjVtQ0VOY2RaWUJqdEVKeEFQcHh4UG9Ld2t0blFET3liZmhOd0ktZVJmblVOdE8zd2NCZVBQa0NFWWd4dlVKZ1Qzcm0wQjlqVzZ2bGtmVFd0ODhveV9iZEZSZXdZSncxTmpqVnBuenB3MXpkSnY5WUFvNNIB3AFBVV95cUxOOVdma3otYzRfOGlDVFJvNXBteFBtbWZqQ1FEOTNJbmYwNTJxZjRWTzNQSnd3MnllUjBRY0pWVm52Q2xqVDFYYVhweHUzd2p6OFVzN3JHMEd5SkpVQmNhZkFhOV9KS1hhX2pVM0hpN0FPVnU3R0RSdzlNN2stMzR2MTlnVUczWi16SmRVYk8yTzJBbmRRa3UyazItelhsUkkzYkpGUWUxeFN2cG1JQ0p1YXFvMGktZ0g4b05JSkFHZE9CcXdrZ05ZQU9iU3JmYm9CWmRJV3h3VDROQ1NU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Malay Mail",
+   "region": "MY",
+   "date": "2026-11-13T23:04:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
   },
   {
    "id": "d64af320cb",
@@ -317,6 +317,23 @@
    "topic": "Society"
   },
   {
+   "id": "eb1d7b8ee3",
+   "title": "US to resume flights after air traffic network failure sparks chaos",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmVuWG9uWUpiX0JJV1RpeGhnTUF0NkRGT005RlhielVLTk1NTmdlWnZiU3EyeFQyRHBaTl9QalJRZ0tLbThCUEJHdl94ZlRqVWpWdmQ5UzVyTXBBbGstbG1uTFE5eXRmMWZvNm10T2U3QXVhdTloUzBRRVJ3emNDanRWQnRuRDVBTW1ZVGQzMmxWbXBBd0tCa3hwcUhodmJZb3lHb0pNcHNvRFZIOTlrdHRfaWluOGpfc2NncndhdXg3THJ6anVRSzlERVBQOGM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "MY",
+   "date": "2026-11-13T21:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c8f4e7680d",
    "title": "Samsung’s Budget Galaxy A18 5G Appears Headed for a US Launch Soon",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHZEZWRxSlgyOTZwQi1MMkdjR3NxUTRld2xrVEVRUVllZGZEMDhLS3dVeDZEY0FBTkJMM0k5a0p6ZXE0Mm1PUVpiM3ZJMTU2SWRGSkhZNzNiUDhIUHlTOGI0eWFvNGN0LVFIOVZiM0N1TGdDYjBxazhGWUdxWHIxTy1iVGhKOTRaYktQcGVtZWw?oc=5",
@@ -332,6 +349,23 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "f92ece3b06",
+   "title": "Measles elimination at risk—and what a Florida study shows about Pfizer's COVID vaccine",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVndNYTJlamI5RXluVklYQmRWYmRVejJrQXJSRXllM00tV2llbzVJRWNseHVtR0k5Y25vSG9DelFPdlBPSnpFTDRlQ182MlMtOXVoc3cxRWloNFBfWHVNajRVOEdfNTQyN2lQNHZuaHl0Tm9rMU5IbGsxT2ZKaUlaTTZCXzRabFk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Medical Xpress",
+   "region": "MY",
+   "date": "2026-11-13T17:00:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Health"
   },
   {
    "id": "d6924aee09",
@@ -366,23 +400,6 @@
     "flag": "🇨🇳"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "86a05667dd",
-   "title": "Man Utd highlight three reasons why they hired Pochettino in official statement confirming new manager",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQThVSHVGbzgtanJ1ZlJNYndQQUh0WlU0NURjNEVtamcwSkFCVE1tYTk1Q3ZEWkpiU19XVzQ4LTEyYlY3R3JlTmRMQWw2UW82U2tFSm9hbHVsaVdVM3g4V2ZWNklsc2Q0QXptN0NfNEFFYlpLdUs2YS0teGUyUWQ0Ri00YzFnRGVrbFE3ZnR0NGRhMlZSX2phMk90M0pmdXVGeEM1R0FnUS1fQXJ0MGN4ZnJCdUhzajFrOUI0a0xYRmIxczdSOFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TEAMtalk",
-   "region": "MY",
-   "date": "2026-11-13T12:29:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
   },
   {
    "id": "c2d633789a",
@@ -436,21 +453,21 @@
    "topic": "Tech"
   },
   {
-   "id": "e67dfec334",
-   "title": "Hock Seng, former national hockey and football double international, dies [WATCH]",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUhwNW11U0VKVlhlY0hFak5UVWpUQ0NMc3R4TFpqMXp6MlZHdzlxVkN5dVZoT2E3TmVrSUYtZk15N3FMTXFrNFUzQVZSYU5qY3ZhbW9pWmR1NklFUDkyUnBqRGtpOXF6UFBVcmhZczVfMWVHYWZyN2c5R0RMRHJfY2FVSHAzV1dBM3dhaDEzT1V3Njhwb1M4TUlvNjR5LVlXY25NdFp1eWlwVkF6UWZvQjAtTW1OOWlSdU040gHAAUFVX3lxTE1CbzRGVUhsR25JNkJuMmY4T2F5OFNxWFdwcks1NWR4SDV0Q1lib3lCcVJYczl2ZFpuVlJOMVVDZExHai10b2ZhNzQ1cXRLYzVzUHhGU3dnUmFuVTV0S3dWdGRUMXBEc3BiQmdXYjZoZzlLUlpPSTV5eXE2WDJFSTlkWXMxTzQ2elNKYjZyQkgxVE4yUTNBQnV3NC1Sblo4b01JdE5Wc013Vzk0WVFvWDVHX25lRUc2RFpJRy1LaEJQYg?oc=5",
+   "id": "574f4515f9",
+   "title": "Mauricio Pochettino finalises terms on huge Man Utd contract as Old Trafford arrival date confirmed",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjhRU0xZdG5JN3ctU2VWXzZQeE53bVkzWUFGS0tCend4NmtrWmFqRTRSZ2xsZ1pvLXJfOFhKalZ0bnVEQ2otczJ3R19HaW5uajJnSVlhUnFBQnJ2ODVWcGxDSjJNWU5RNE1hZVU3TUd4cjF2RUlVZmtfMC1PTzlaNm5ERUZoeDB1V3M5amVKc3k2Ny1UcnZoaWtJdWJkWXFyR0hoWTFack9FTWpwbTRBdGpjbEQ2cVQycWVrOHRZSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "NST Online",
+   "source": "TEAMtalk",
    "region": "MY",
-   "date": "2026-11-13T07:33:05+00:00",
+   "date": "2026-11-13T09:41:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
    },
-   "topic": "Sports"
+   "topic": "Society"
   },
   {
    "id": "8c0138f8e5",

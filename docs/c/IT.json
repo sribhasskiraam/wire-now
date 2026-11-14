@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
+  {
+   "id": "42953d9efc",
+   "title": "Washington sotto assedio (per una disputa condominiale): un morto e quattro feriti vicino alla Casa Bianca. La rabbia del killer diventata un'ossessione",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQVJEZDJ1TENURklieWhzaDJHQ2hMNTlwTWJ5WE5Ydzd3eE56MzdHb2syR0FwV2JwVlB5aVN5N0F6Q0xXSnJWVndSV3NUTjRjNC1MQXNXSGQyXy1tRG9JbzlzR0xCYmVEejk5SXA5XzdlTG5KQk1sc29obVFGbHB5MDQ5MUp2WDEySlE5VXJGNzgzeHUtOUVRRFVpeHowcXE1cjhjb3oxekFSVWI1b1NaWTU1WldsdHpmMm13ekJHQU4wX0s2U3BlbFBYSzhkYzdUVnltalRqVS1YMVNIOG5pZS1B0gHnAUFVX3lxTE5aTGliWm5mOTJFdjJobnVTOV9LWjQtWnJ6R215dFg0YnhwYjZBQ3N0SEtCMlk3WS0zZkhGMTVRQWZCTEptWEw4cTZxbzJuSE1xejhOS01QUzM0a1ZXU0I0STZPYXZvNFNQQVoyYjYyMmFEbHdlSHJaS2UyVktQNUJVS194YkIzc2d3amhzR3dSSEI0RVQzQlpBcHpfUVhMRmhFM0M1ZGRPV1BpZE9WTWo2dlpzSGR1T1ZYSE83ZkpiNndpbkhqemZHNW1NeUdXQmZtTVFQT0Vjc1lYVHhXelhkd1hMRkNTRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Corriere della Sera",
+   "region": "IT",
+   "date": "2026-11-14T11:54:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "67caa9daae",
    "title": "Guerra Ucraina-Russia, le notizie in diretta | Zelensky: «Gli Usa ci propongono l'adesione alla Nato in cambio della cessione di territori ucraini». Giovedì Trump incontra Putin in Cina",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "Corriere della Sera",
    "region": "IT",
-   "date": "2026-11-14T11:34:30+00:00",
+   "date": "2026-11-14T11:49:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Russia",
@@ -33,6 +50,23 @@
    "source": "OA Sport",
    "region": "IT",
    "date": "2026-11-14T11:03:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b8acb345c4",
+   "title": "Cortei, perquisizioni in 13 città per violenze, anche a minorenni",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHJSM1c5T0g4SFBFekJ0SW5jTTRhYm0zVWEyRXBUeC1fSjhRTkpRbEhqdkYtR21sVUZJSUtXeVpDVy1nNVVSY3dwZkV4UUNhdmI4NWsySjFqcFR6YTk5WHFDeThjaFVCeEVVeW9jd0tlLXhvRi1zTFlWTTNJS1VMVVUtZHlDN1BTLTNYZ2kwazFCaWdweTNyRldsb0lRSkNhQWJEQ1RjQ3ZWd9IBrwFBVV95cUxQajRoTXpVMGxuRzBvQjdGbVNIYjJOQlo1OG8zMnZRVEpnWHlwRkVuVXE0SG1XVm8yczlYNkkzMUhRUjNwNGhMQTRES2RlZ0N0UFA0a2VxdXpmUldZOVV0VnJFNjFxQ3pBQnNWRFVpNUk2cjItejc3YjJFNVJqVndrQkE2SDNTVFExQ2thUV9WR0p5WmJVOFoya25WQUxCMUVwQUJERzN1OWpxSk12RkZJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "la Repubblica",
+   "region": "IT",
+   "date": "2026-11-14T10:27:59+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -76,6 +110,23 @@
    "topic": "Society"
   },
   {
+   "id": "39e018a171",
+   "title": "Pensioni, chi perde di più tra rivalutazione ridotta e taglio Irpef: il conto può superare i mille euro",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlMtQjdkazV2MWo1Sm16UUh3R3Nkd3ZFaElvT08zVzRzZkV5d1lMLVVWb3podUNtc2xwNUwxQXFZcUlmT3JvdGVOMGwyQzMydUp1emcyX2ZlYngtRXhURU5IN0gzNTh3amFyRDJmeTJKVjliTmNXMlNISzZHc3RwUkx0MklYSEk2T2RzMHBlSjQ2MDRBZG1fUXp2Nmp3T0Q3ejdITdIBqgFBVV95cUxONVg0VEwyaHpTRTBSTnpTYmFJMFlrQnJ5cVpZeTJaTUZ2T3VjZS1mTnVCVElSSExwZzJ6bnNrczNQZ2N6MlNKZjdUVjRZNGFzUmdIMEVzdDZOUnVOemVKeGtDOENqZXpTRnpwOExGUXl1WDVHM09fdEM4Y2htUDNCTnVpNFpQdUNEaWllellTVExPdG1XN2VzYmw2RHJVZ08xOHA3LWo4TFVJZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Il Messaggero",
+   "region": "IT",
+   "date": "2026-11-14T09:53:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c1f6124f12",
    "title": "Avril Lavigne è diventata mamma a 42 anni: l'annuncio a sorpresa. Chi è il padre?",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNndxdVJuSjBZM1NlTDBzcFVibkN1NkFRZV8xc3UtZllEWVJSX1pNbktCemJiX1BtcHNRdUJwQ2FYX1Z6dzc2a0N6V0pLVzFfNXpDUmtocUNQdlQ4dGd5X1ZhajZRZ1RwaDlhdFlOWlVKSWFnY2lwOHl1djhTQWRKRDNobzZwMFhSZ3BLc2FybDFYZk5GTkN1YzdXQy1fTGpMel9obmt3UHV2dmIwV2VHeGFRcnpfX0h2T00tcllZTlAteXAyRGxVVlkwTU1Qczd5UmRBU1ZhQ2duWkFGVTVROVhuLWdaUlF1MzFDVEdFbTFHV2tadDRITl84bV9pYXJn0gGGAkFVX3lxTE1SQWRoeTlCcUROQkVPNko3WGItdF9peVpYRVhoR2lXY1VDcDVlOWpndWhxVmNqcm1tZjFYLTZSdU11UUNZSnZTbmNfRXFQeVpiRVQ5bWdCTE1xVnZCcUZGb3RLZWw3QklTanpZMkVUbzVzckE0RVVWTkZ3Qy11Nm94VVp6T09yVjY2dVBlVlpvRjZUZVZCckNadmlJXzRrU2F6R1NhbTJGbHlmZjVfQzNIWV9iazVfeVBqMTNVazZkWFZ3a3VmZjRrWmgxOWkwN3BPaXk2R3dReHR0b0NGWndqZG02Smd2emZSUkxUU3dDME9ycjJqWm5aTi1hNzN1OXBJVUM1d0E?oc=5",
@@ -91,6 +142,23 @@
     "flag": "🇮🇹"
    },
    "topic": "Society"
+  },
+  {
+   "id": "b76afa91cf",
+   "title": "Ascesa e caduta del giubbotto di Jensen Huang: dopo gli scandali e le dimissioni, ora anche gli stilisti «condannano» il look dell'ex ceo di Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUk1hOWE3UklXb2RHRDAzWWJWZ0Yxay1qc1RQdE01aDI4Z2NMNVZTd0Z3RXRDc3NER3RHUTl3elQ0bXZnbGdYcmdOdUwtRVgzdmNnNEVfaFBWbkViMmJKYW1QSTlSRGhZa2FXNG81a0dIazJwendvZTljWU1rYnlXd2pGeTZfNVlJQXZjQUlqNEhadHVIX1ctUnhkdTUtT3ppSXpSUHpPLURGY3dtcGdUczRKSmtGMkJXa2Zqb2lWbjFqUEnSAcgBQVVfeXFMT1RvMjBrVDFRNHlzZ3VYZ2huRV9tOW1pcmFvbE9jVnZNNzNLTUxadGxxSWthbkpfa3k1cW1xR1M1M0FQOVk1bDRRb0FzeURxWGhqV0V3ZlBQS1hrT0o1MEkzSTRRbUYwUkdFVW5ycE5wUHZmaTkwbkhhRlpTMjN3WDBybnRaTklaYXE4WVR3bHQ5R21Ramd0M3lXQXNkVWFkclpBZmwyUlVRMjdWQUtUU1pBYTMtakJTMTNwV3B2QWNVSzZOLXJ4dVM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Corriere della Sera",
+   "region": "IT",
+   "date": "2026-11-14T09:30:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
   },
   {
    "id": "b93e20cb07",
@@ -144,14 +212,14 @@
    "topic": "Society"
   },
   {
-   "id": "5edfb17f1c",
-   "title": "Aggressione tra le mura domestiche, un 16enne colpisce il padre alla testa con un martello",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWczVHc5RldGZWNYVVpGc2lOOHBxRGhyN2NfLXVhRHRtRWJnMXVEZnJFbWlfS1lJQVE0VjBXSHhLdFdzNW5WOGVCckdtb09wYmJhdGl4cWk3VGVUd2pKVmdrUDlVc2dpVm9vR1U3elM2N2xPMVJ5UlFyU18yRmI4OFVISWRjNWNuWDFCMkRiX2ZNNDlzNGxrUnExLTVmSkdj?oc=5",
+   "id": "37f58601b9",
+   "title": "Manovra, saltano i tagli alla scuola. Giorgetti incontra l'Abi e valuta modifiche sul superbonus",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQdmc0R3hPa3FqMlhOOUdNeGszM3BqQ0ZqY0hVOGhaanM5Y2s3YzVHVl9QeHJJSDdrejlEYkt0a19CWGprSlhsMG5FWW0yMzduYW1UZ0N0bHNMTnZMdloySGZvR3JYMFRhUjdraU9xWFVfMzJsRHlDUEN6SlliSEtUTUExdVR2cnBBdThweTl5cEtqRDExVGdYOV80U1c5Y0EtNy1nc3I4d1VrT0N4NElIZU9Yai0wYUlnV0xoMURzYUJVVU4zZ18zOU11VWM0Tmh0TEJ3Ykx4ZWxiREhjazhSUVBETm5RYXRMZEJmOF9RdUhnYzFaTmZYU1RTYWg1ZmVrN2dTLUotQ3d0ZkZHWXVSZzNVSkRnMzgyVFpPMXpR0gGjAkFVX3lxTE1NT2N6cGNiRGVsemxFdDk3MmlXQ0U0QTBnbE1tLWVoNjlsaW5BTzhJUk1FRUV4NERlR1BubFZlTGxiNGlad0ZpT1R3QWZCalVOWmE3aWh6LW16T1Z3akpUTmJUcENMb1hnbFhlZk00U2E3Rm4zb1hrRTRUUnRlbFJOcGZybnRTUHM2VjhSUzZmN183Zmt1aXd3NVp2M1ExeHd5NGp4VWJSYVRfelI1WjJkSkJIaDI0YjVja0E2SFplVkJOSWxObi1KZ2FKZjEyQUgxenVGc3FBRW5DTGdsN0FrWDBfRXBiNk55X2dTc1RIaFRVd01yVTc3VmZSRTNjZS16bGN6bWpCLVRGZkhMRXRBWGtSZTJXcFVSZEQ2TWZfdDhWdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "LeccePrima",
+   "source": "Corriere della Sera",
    "region": "IT",
-   "date": "2026-11-14T07:19:27+00:00",
+   "date": "2026-11-14T07:17:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -203,23 +271,6 @@
    "source": "RaiNews",
    "region": "IT",
    "date": "2026-11-14T07:04:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "24230ab200",
-   "title": "«C'è un pitone reale nel water», bambino di 9 anni se ne accorge e lo fotografa. «Ora non si sa dov’è»",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG5RQWZ2bHJtLWFwVWUzRk1XcTN4b0J6a3IySGxIMzJ1aGh3VTRZdGs2Y2VuejlsNW44QWRjS2VzUXN5blEtaVlHTkQ2OWJrSW44ckV3SXhKRlM2VTBIV0xYV0dMYmFMSDFIOXJBaWpNSlZyRE5GRGU4dlZmenFWU05DdkQzeHoycjdYVVJfaVRUWHZNWU1BNlVad2lBcFlWVElpUkVwNFp5V2ZJNDU3bnBR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Messaggero",
-   "region": "IT",
-   "date": "2026-11-14T07:03:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -331,23 +382,6 @@
    "topic": "Society"
   },
   {
-   "id": "d6d957b290",
-   "title": "Apple aggiorna il record in Borsa: ora vale più di 5.200 miliardi di dollari",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjBnbWFlUTVha3RSQTEyeFBtUDhRRzg3UzdQVjd1Yy15X1BqbUhnd2VmbDVIZy1aVVdRV0U0bWg2TGRmS3NMQlEtTWxIQm1Zb0EzLTNpSzZvelNPYkxUZlBZcjNLa2c0c2xicnlwam84VUxuVnBLSHhfV08wZU9BTVo0TzdWN09LaUJ4V2JoWXNfaG9fa3RmZWZ1dklLb1ZkTDdDYWpB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Sole 24 ORE",
-   "region": "IT",
-   "date": "2026-11-14T03:46:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "1b0cd7b8eb",
    "title": "S&P conferma il rating dell’Italia: BBB+ con outlook positivo",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakNTVW1uRUdCTENUczJaekpSYjNEd0p3QkVTTHlrRnh4TzBNRDNCNnZTeUx0RVl5X0JKYm4xT3B2ZEF0NTkzdzJmdFB2UkxJaHozV0J2SnZUdGFfQmFtNTJESVZRM2NWeXNYVUtpMTFhMDN0NzZ4Qm9zQlJsY3poYXdVdlo1cWdaOG5McXhPUl9iQUtNdG5r?oc=5",
@@ -365,48 +399,14 @@
    "topic": "Society"
   },
   {
-   "id": "252546393d",
-   "title": "Nvidia, ecco i nomi dei possibili successori di Jensen Huang",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGFnalNrMzFLbV8yZFdROUVGWXFaWXptdE9kc0NnbWNMRGZWTGN0RlpXTXhfalVFazhVbHhJVXdDQjMzNTVTXzlHQkJUOEFEWTZTNlZKSW9qR2ZSNmh3X2tpenJMdFlYQ2RrVGtQLWpUSm1zM0RlTndJdW1kN2ozbS1udUFtX3FFajZKOUZ5elhrQjk1c0E?oc=5",
+   "id": "6797f21219",
+   "title": "Regime forfetario e lavoro dipendente: la soglia di 35.000 euro salva il 2027 ma lascia il 2028 senza certezze",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaEc5WHoxWExNMVg4TGJpeEg2Vjg2Wk5FMFZPRV9mZjhtTDctWV9JM0VudWtaTXlyUGgxRjdBaVVORFhsb2V5a1NZaU5GdjdiRi1zbVJrVVA2ZDI1Y1BrSkZVY0pNYkRCUVkzb1BIMG9ybmpkM2JaUjh5U0U4VkhrdGw3M0tIZnBzaTZYb1VnRENCV2Y0SzZCYzRkaFdYN3JRSDdnMGxFVzJvcjNiQTBQdVJlNzBxeWZ5YzluRG16M3RaSnhSbzZZNmQ2YjhhRWVma3lyaXdyNEpyODNVUmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Il Sole 24 ORE",
+   "source": "Ipsoa",
    "region": "IT",
-   "date": "2026-11-13T19:59:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "4cf81df28e",
-   "title": "Meloni fa marcia indietro sui tagli alla scuola: \"Non erano tagli\"",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2lCaDFkUDlwWlVTcVFRSjFIUEMtTTBSTTlMN25Eel9hbEdQNllqMkJtRS1HemRKN2lNbUpOOVNybDlteXRMRXJrNDBpTFRObVFHZFNmOVNzZC1SamdJcFJwRkwtczBTYkcySjJ2R0JLOFNyQU5vYzJCV3JsLVI2TlQ4cW5ZMEVNUThqckhQenhjUTBMOWxV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Il Fatto Quotidiano",
-   "region": "IT",
-   "date": "2026-11-13T18:55:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b17843ac1f",
-   "title": "Ucraina, Bild: 'Mosca chiede la Finlandia fuori dalla Nato e la Moldavia divisa'. Il Cremlino smentisce",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZE5VU1I2V3JfWFVMQnU2UE1oSk9TSVl5a1ktS3oxYnRSakhzOVVOMFdpUlJHSFVJOWFZZ2tzcjl0VE5QOXpMODJYMUpIM2FEVTdBOXFYODJLU2hMUzlGNG9LTHNNdi1MT3d3S3c3WFF0Q3ZCcThSQndGWUFlU1BKS2hxT2xlUDJNb0g5aHpCeEFvSmxidUhYalZfTVlJMnhSc2M4aU9BckZGSDNTYUEtNUpZbkVKdzI5eExGaFVqVWc4VDRjSW4wOG9pSzg3eXpaQk1OX0w0WVdrcGRkUEd5LVZYVjNtSU5tbmhwSmplR1A1MGZ4QS1YRU1oWE5Id9IBgwJBVV95cUxPTGhISUpVNFhQWDJVUkFqb3V5ZmJoVENBRXRhbllRRXVMUGV0N3FLYlZNaEVTNmE0RUttMkQ1c01OaUcwXzNXdXBSc3B4dWpVU3NXMWN3MVEzR2hqUU1JTHpSeEFZWlpzS082eXhJT2lQSmUyY1dzbzZ2TGZjR3VtaktIeDFfNERRYnZzOWVheGpXNjZCUFlDaXVMWkxlWXVxTE1oZW1aSlZfN2Raelh2T0VsZ0lyaXdsRDNEY0Rib05pdUZtaGYzY0d3MzRRcXdKQjRaODZsbFZzSlRrbWdJVF9WWkJsem52djJnYUVXNm9Tbl96cjM1M3ZRY3ZWQVpIWF9R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ANSA",
-   "region": "IT",
-   "date": "2026-11-13T17:49:00+00:00",
+   "date": "2026-11-13T19:58:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -450,38 +450,21 @@
    "topic": "Society"
   },
   {
-   "id": "4e53880bb8",
-   "title": "Diabete, in Azienda ospedaliera trattato il primo bambino in Italia con il farmaco che rallenta l’esordio della malattia",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWVlTNFdwNzRvNWYtbUNWWE5iUjlYNUM5M1AwWEZ4LWcwQWhxdlBfNmhvdGJsb1hNMTl5WDRlSXgycFMzNFFFRGxCRVUwclphUll2WWJJWUdJbVkxVno5MjFmRGtpOWNNTUZsRFJ1UHdORDJYcmRHLTYwNXM2b0FKWVotNVNqVEpQYy1ncFhBOVhqaFVjOTAycjNDWm5FUmh5ODBEdnRJR04ySk02VzJ1R1hyeWF2WDhGcWFmczRVWTltX2pydGo5ZFJKNVVweHp2S1plRGhwYV8talRKbmZVMm9ma3Q5QXFWV3lMTTZoZDlBSDMwMWlfZGJ5X0xwVDFZM0hMenlQLXFEX3Ny0gGSAkFVX3lxTE1ELVA2TnIzOE0yWWpaaWdHOVM3c1VRYW05c2YtUVJWWDBoUGdBYTBPTGhNUEhiUU40MXN1N2hnM29BX1ZkY21HZzdyTWZ4M3NMTXY1Nl9iSXdJcldYeXlCNFRIVTJxdWE0b3Jmek01S196WkNzV2NQaWxhUDFBVEJ3MWRkVkVPQUV2SHJVWUFwaFBZempXZXZhWVp6T2tXMVRoT00xNGJPUmlaYkhNSXNhbzB4OGd1R2NIQmE4SDJfcWtlamR5TEdNYzlodjI2X1dqVEhxWWFVeDZDdkVqa2Y5X3ZiMkVqNlVMUllDQXBFWTRyV05fZFNFQnRiUzloWmUxUTdwNnhrVUdHUnZqTjJTMmc?oc=5",
+   "id": "edbbde4a22",
+   "title": "Italia, Nicotera: \"Il rugby è molto basico. Si può parlare di strategia ma poi bisogna essere affamati\"",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmZFaTByMHA1UXBsX2gzT2k4VDRWWlQyRWc5cG15T2RIZFIzWTRhUzFIanUyQnFBSzdhbUJocENJdUpQRWt2eHQ2VjJEcmVSd2dEamVBSnZ0LWgxWVUtWUFpd2w5NkNGTXdwWW5URGNPM0lQR256YmpCQ1VHelVwaWYyemhjM1lKbkVxdmI2Rk1FYk1sOS14QWtIZEcwZnFtdVBjSW1mNDZiMk5ZYl9HSllheHJFejdlRUJaci1RMWl5TWJyQWIxT2FjVGtXQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "L'Arena",
+   "source": "On Rugby",
    "region": "IT",
-   "date": "2026-11-13T16:26:42+00:00",
+   "date": "2026-11-13T15:03:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "abebd883aa",
-   "title": "Francia, quinto sabato di proteste in arrivo: previsti 70mila agenti sul campo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzNiWW9pckI0TXlDbWVrZTcxSzNjVU8tallORGl3U3N2ZWtIQkdYZW1fRHFzdWM5ZWhWSjd3cG1zNHFhbjlIdmhaOXNnWUNYWk4xUlY1T3pCcGJHdVk4aThoN2tYdGZrT2dIekhJWl9CMHpkd0ZMc01DeUdwYUdoUTlUOUlXdndhU3IxcUdZcVNkZHBWUndqcHpsWWtnaUJXNXRWMTFBLXJwNUdSLVpLYTFRY2HSAWhBVV95cUxNTW5YMlRhbjI1WGUzU3NndWp3Y1pLUjl5cFdXYmQzWWJiOHM5cUVwVjFGbEoyaWxlV3h6dG45N3BGYjJjb3RfZ1JKcWp2LVdoZ1RicWE1Zlk0VTdGMy1XaEhoem03TWozOQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tgcom24",
-   "region": "IT",
-   "date": "2026-11-13T16:23:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "447a165fb5",
@@ -518,14 +501,14 @@
    "topic": "Tech"
   },
   {
-   "id": "7acd0d08fa",
-   "title": "Nasce Milan Sports & Entertainment, l’annuncio di RedBird Capital Partners",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnptb2l4WnFEWXRKM0QtdmlIZmtodGplM2I1UUg0Mjg5YS11LVdIX3FuNnVtOXViZ3A1NWZDLS1YVjRTN3F4X29aVHZTYmpaaEJ4czdwZGljZExlcTNIRXI5M3FQNU94Y3VNTTRZT0xabnQyN3dSTEVKY1VBdU1PeTB5SXhwN1c4c1pxcDRadTg0SlcxVUFHOXV1RjdiNDdVOUNWVXgtamFnbGNoMGc?oc=5",
+   "id": "267d6efa59",
+   "title": "Ucraina, Martin: «Due settimane per scegliere il rappresentante Ue»",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3FHQ1FpaFZ4R25JeTZOcHhJQS1TVkQ2bEM5NGpXU2hfbUdOMGlhZ3B3VUJEZ191QldpX1J6LWs4MmhNUmJ1U29OcXVjNTdpWldZRkNhb2pYcHQ1THp2OUZZYkszWHlxaW81emoxaFVETTlLUVl4Z0xRZ3UydW5rdzF4cEZzYm1ZWUo3Yi1DRk44bXd6c0lvNktIeEx3cTh1a3ptbHFZZlZ4cHptY3lHNDg0WnpmYm1ZbmlN?oc=5",
    "summary": "",
    "image": "",
-   "source": "Il Sole 24 ORE",
+   "source": "Il Fatto Quotidiano",
    "region": "IT",
-   "date": "2026-11-13T11:52:41+00:00",
+   "date": "2026-11-13T09:35:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -560,6 +543,23 @@
    "source": "La Stampa",
    "region": "IT",
    "date": "2026-11-12T21:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3600bc12fa",
+   "title": "Ipertensione, 1 persona su 2 non si cura correttamente",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ANSA",
+   "region": "IT",
+   "date": "2026-11-12T13:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",

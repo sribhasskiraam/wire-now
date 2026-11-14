@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
+  {
+   "id": "da38875ddf",
+   "title": "El telescopio espacial Euclid sienta las bases para cartografiar el universo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRExnU1RuRVZfZ0JSdUZPYUw1dnJPV1pvazJhaU9fdC1rNXBma2hzX2xKN0dsb1dxcmhFZUthUzFFMTR5enFLWl9QWmY1Y2tGQi1TT3VVS05WUlBNT0xTRU8xaHBYUU9FS3VOUERkX0pfUEtOekZ5SUY3OXJyUlY2YnBHMUN0RnF0bGphVDVIeGd3Y0RhXzlzaEdyalJUVWVieUVCcC00V0RGWUYtMGFFOVZabm90cjVma19lNnFlWkcyOFFDblI1Ug?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "France 24",
+   "region": "ES",
+   "date": "2026-11-14T12:03:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "0411706de9",
    "title": "La Junta potencia en INTUR la oferta cultural a través de los museos autonómicos",
@@ -21,14 +38,14 @@
    "topic": "Society"
   },
   {
-   "id": "5f0936efe4",
-   "title": "Vox confirma que celebrará el cierre de campaña en la plaza de Toros de València",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYW9TbXJlME51aDVHdnRyUk1pNmZHOW85VXpnbHRFX3BoQ2k1aDhaaDNSRXZsdVZUakt1aHFZbzQ5UWhpZnhhc0czbjBBbTBMQ0hoWjhQU19icnpqYkRuVGJseWU1M3YxRElURzVfZjNpTzFmS2pqOXlueVpscmRLTTFWRk1qTWtoQW9KSF9jVlFfamZzXzFtSk5SbXJMY3NESTBEQkhlbWVQcnJ4Y0dmQTRMYzZ5YU14Qzk4VEhrWjcxTXFuczBaV3JUbjlVVE5pVFV0LWV2aw?oc=5",
+   "id": "0961066c17",
+   "title": "GTA VI llega el 19 de noviembre: el videojuego más esperado del año prepara un lanzamiento mundial histórico",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQOXdhcUdVVmlhcW5KMjZISDdJc21Ddl85N2J3RTFLMmNtQlVteVZ2cXJuZjU5UEV2NWNTMjlBU1VxbzdEbnpvSlc0ZmFlTVJTT1VjWHJRMnNYOEI3dEJoU0V2N2pTNF95X2dVN1RpdEpRZng5R0FqRmQxWE5mcGptZDQ1ME9uVDN6Ui1ia3B2Z3YtNXpkZm5tSExvYThVNnJBTFhBSVZfWlRLSFg3eGVMVHF5ZXNROEdlSFJkdS0yYzVnTV9HZXRYa1l3eTh4TU9zczRkYk9CelFWTk1QcjhJbHBSQUpacFhpeGNadkhUaWpqcW9aWUJLSW4zS05GZG4zOGJvRFVQV2dQelhzVTlpMTd30gGXAkFVX3lxTFBDOHFWQlZMTmp0dk9lNGJEZ1NoeWxmLWhUOHhsWHZnVGhyY3lyV1lHMjk3eVlGejhwU3RZNnk4Ulp4MkYzNlowY1czWllUV2NDaUZnSk5FUnh2N2lrMGNPQjEtSFdlSWxzdXRZdS11Ymg2ZnBpZUw2TFYtdl9HUHgyeTFGMmI5aEJDOTFZaWx0TUluaEM2QXZPYlFIaWFGVEFDelhtZ1A1MmlGaTBYLTEteFNzazJVU215U1Q2M0xZNTF1QzdyM2RZN3dyU042cGVGVExwMXZwaDlSSjJObUFGLVQwYmUydGYyeFB0TFZxMnBvZ0QxRzBOcG5wUGhhUmtaTG5vdnNLZFpJMFgyZWI3OXhSX3ZQQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Alicante Plaza",
+   "source": "Cartagena Actualidad",
    "region": "ES",
-   "date": "2026-11-14T10:21:00+00:00",
+   "date": "2026-11-14T10:53:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -38,14 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "5a07bfaaf8",
-   "title": "Sanidad facilita sistemas de monitorización continua de glucosa a más de 28.000 personas con diabetes",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMXRGc3pCNm9UR3pSa2NKcG1NY2RHcVFnVHNoSjVEZ1dtZlhscUpMMDVHeHlTSUJUbTN0RHdRNlhMUzRzSWRyZDlhTkFvNlc3aW9HTW9wT1BLMTRNQ3RueXRzVVFvdWsxTnZOWkt1ZFRqTkZqdVdFeG52aGVrZGc0N1VrTWliXzBVdGR1SDgzMHZYaTdxSXdSNjVTRnM1ZWkyWFNhb0FpSTN3aEE4dUpCNmxYWWFyTlhjT1M1dDNzWU1TN3dvN2U0YTdvQV9wa2Y2ODB3cTVDNkREbk84S3F6WGhuYlV2SFVtdVhDZlJXTzNreGM?oc=5",
+   "id": "9a11f00c9a",
+   "title": "Pastoral de la Carretera se une al Día Mundial en recuerdo de las víctimas de accidentes de tráfico",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRU5LUjAtQmRWT2o3QXZUdktFZEt2YU9UWWNfX0V6bXJmMHF4b1VSdTBvTTFUWmtIVWFyZV9qWjlaRl9zQ2s4Umh2Skozdkcyd3VBTFR6TnRRYmdBaVp1dGxEWmNReENrSmhDZTBMUTNocFVOd0Z1VkR2QTYyaklSQ2F5djVtRU1sb0R1U1NDbEt6SmhGR2FONQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Europa Press",
+   "source": "Conferencia Episcopal Española",
    "region": "ES",
-   "date": "2026-11-14T10:15:20+00:00",
+   "date": "2026-11-14T10:35:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -89,14 +106,14 @@
    "topic": "Society"
   },
   {
-   "id": "3355a8ec19",
-   "title": "Más de trescientos mil chilenos tendrían diabetes sin saberlo",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRktCRXBsamY4VXpKU3dEdl9ZYjlxRzNfWFNqT1RIbURrTjl0OGtObVhXTXlQZGtIWTQ5MjVvbXF3MURfLXhqUGliX1lKSTR5bWFJOVZJZFlaOUtjRzZ2MnJfSjVQNmZZYUpzZ2xZeFgyLUxvT01qdWptWFpmQ0trMnZLSlV5cEk5R1cwbFlB?oc=5",
+   "id": "ca5f6e68cf",
+   "title": "Joana Sanz, sobre su separación de Dani Alves: \"La religión nos ha alejado. Me siento sola\"",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2J4MXN5aXNHYTBJbE5OTWJMQ1gzV3o5NGtJdzhpODFCUVVnQUVLTFN2T3k2QllKaE50RnZRWjN3N01zNU9aOEZkMFNpcG81R1g1bHRuQm1jQW50QUcybHZmcEtGaExYbWpGY2dGUlZFM1RUaHJiV1hyNURGbWhHSjNZNUhGYWljYW9rZXdOQdIBjwFBVV95cUxQZnlsQ0lvNk1WZndNTUhHQnNWYzhFVFA1T1dZdWU2TzJENVdiLVhraWwwUGs3U05DNE9KRDhva1JhVHdZNFJTeEVJdlZwTkVnRmw2d25RS18zdGJXT3lPTVJqNHJtNGUzY3dmRWk2aTMxZk9DRl9ieWxwb2o0V3Z5aVBUZUE1RTRNZ2JyUUItUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Novaciencia",
+   "source": "SPORT",
    "region": "ES",
-   "date": "2026-11-14T09:55:00+00:00",
+   "date": "2026-11-14T09:35:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -106,48 +123,14 @@
    "topic": "Society"
   },
   {
-   "id": "a27073e5d3",
-   "title": "Belén Esteban anuncia que vuelve a Telecinco como participante de «Gran Hermano VIP»",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNUJLOXNQRTN4cHVVY1VZUEdyZTJMNUNaVzRMa3RfRFJVWFFLZURTSVRvU2twLThORkR3cHBGZ3Zsc19Ca2FYM0kzaXV2QnpQeWhDU3FMZXp2OFVnYXBQNWhZQldpQm54bUJLYnd5UGtxYllVUUZSQXY2Y09MVDdFZ0FIYmx1b2pfR0dsLUs4ZWlXbEFMMUZ2ZGhaeWJBeFlJMlZpRHl6cGZqQVNwY2dSSmFPYnVDSHF5RV94RS1POFlsU3hjNEs2elR2WVFWai1LZFlrdFFlUmtTM2M5UEJTcE9FWnVxQdIBggJBVV95cUxPNFY3UkdVMlRqQ3EzMUkxdVJYT0hOdDRlaHpSZTBvTFZXcktRZVhYb1lqMXV4cnduVmRMUXcwQllVbm9JUjNGZ3lEeWRmWE1oMGtVRC1MUDB5RjFZRXgwZV9ocE5SOHJFSTZHUEVOUzdJbVpkSTRjRTNiMUtERi0zZGx4Y3ZKRlpKdDdaNjYzREtKVTB3OG9nU3NpbVpwWkw0MXFrcU83YkRUWElQRWJRZU1Gdl9ZVGdFampsUjh0T3NHZFA0Nl83dm1GSFJJUDRGeWxfQ0I1M1JXLVJqdzJ1dkE1SWRXZnpYdE91MFRLVlhBZ1VTTlhBbEFPQ1lxOTgzdnc?oc=5",
+   "id": "1194add333",
+   "title": "Aida Cadenas, endocrinóloga: \"La diabetes tipo 1 y la tipo 2 solo comparten el nombre\"",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0JzUUJiVjNiWVo2RmRYOHVrRGZjZXlyQ3NvOGZMV0RFR3F3WXU1N0Nqa0hWYm5fbWhadDZDX1U1R0FVZ08yRE92dm5PMjJ2R1pXdG1lR0kxZkswNnB6emFfbW1pR2Nha3JDY2czY2h2WllZeTVRMTRMUC16ay1WTmpqX2NFVWtxRjNSTnZDR0ROWFNVMUh5cWktcktDMXNHUWx1NldzaFVMNjB5eWZOeHBHWDBDdjJ1cmpuYU8zVVpLaUk2RnUtWG5XaDg2TnZXOVdv0gHYAUFVX3lxTE92NWV4NE94T2REM1R6ZHBiS3RJbzRwWnF5X05GTVlnSlhxQ2dkQ3lGU05FSHdISTlpYUFZRTlBUzdLUkxZdWtENENZbXlKd00zeHRhRlNDVGtVUmgwdmVOTmNlX01iTUpWbWs4bE1ZYUcyUnVnbm15UXFoaktLT2lhMjdhbi02MlBHbmlFckFkNE5jLVVIUDZJUzFVX1pPX1hnZDdUOGZObkZiR1UteDB1UnpKNklEa3FQMUlpcjlUVUJIOTgyVmZjNU1UWXlqbW1YOHFmaDRVUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "La Voz de Galicia",
+   "source": "COPE",
    "region": "ES",
-   "date": "2026-11-14T09:51:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ef7cbdafe6",
-   "title": "Vaquero (PNV): PP-Vox nos tendrán enfrente, pero no cejaremos en trabajar por Euskadi",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkpCYUJUYXBfSmVwUV9zejJxSW9iOG44Z1lYcGE1M0hnejhpbUlQSmZpUktvTkZRZ05qNlczQnh6c09EaHNVbGU5NlpDY0R6dXBfa1lrM2ZtM2czRUItRGl0ZjFESEc3clBod0VZS2FJWDV3YTNVeEY1QW5tX2V3Z0FlanhQQ1B3SWhkWHNsbVNXaEVXUktLY2hHRWkxUjZULUtrdmQtd0lia21qUU9qMWRZdVNFVWPSAbwBQVVfeXFMT01qN2VXVXA3UUxjbXZrYS1kVlBEUW9QVWh6cjQyZktyeU92LWJLckRFajY3NDVhMjRjT0xvOUxTMUdoRHJOTktBbVhkaWFtSDRsVVFSVS1ZaU0wTnEtb3NZLTM0bGx1RVZMLXM4cWh2WmVtcGtpLTdpSnNUSUxTMExFVDMxR2lfQkJJZDAyZjlxYWx6Z1BOUjZaQXFIR1cxMWgwSjg3Y1VvMnUzRm5TTDM2M2tMVDNyYUFfeGE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC",
-   "region": "ES",
-   "date": "2026-11-14T09:31:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2d97929470",
-   "title": "El Barça ata a Fariñas",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83d3NaOXFtM3lUVmZCcjN5Ri13QVF0VHBpdFpKV01BYnNpekoxT2MxX2c3V2ViSjNsNlMxUmswemt1SEZxUTVCa2hsRmRsZmtjUlNhb2pyeWp6ZVVYaWc1Tjk3NmVDRVU4eG53NkxRUUVMbW5pazUtSHR3SG7SAXxBVV95cUxPOHdVQ0d0bDg0V0cyTXRVcXpGSEVqVVdLcEplWmY0bkNaeXpDNXVZT1lzWGxUMlRrZE00OS1NQXg4OFoxQ2VpOXZMdWhpWTgyb2puXzRyTXo3akg2djlRQW5CaVhDc1RDZG1ia2Q4djhZN2J1V1J0cVQ4Mk1v?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MARCA",
-   "region": "ES",
-   "date": "2026-11-14T09:26:02+00:00",
+   "date": "2026-11-14T09:12:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -209,7 +192,7 @@
   },
   {
    "id": "acf780cca8",
-   "title": "El perfil de los votantes, según el CIS: jóvenes con Vox, mayores con el PSOE y el PP, a la baja en todas partes",
+   "title": "El perfil de los votantes, según el CIS: jóvenes con Vox, mayores con el PSOE, y el PP a la baja en todas partes",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGpMS1BSVHFCblRYOVpjUmNNdnlWaWQyc0pWSkc4Wnp2MXlFX3kxY1ZaYXZQSWhhdGx0MkJhclJ5MElkS2hybWFpakg2eGp3OUlkSjFVNWl1SUF1UFgxYmhhYXUzQ2xmanJxRlk5OGR2LXRvSVhMTnozcmJYWEdZeUVncVdmSm9LTHJfcGFzLTA1QzdzdVhSd0VleFpvMXJRZHNR?oc=5",
    "summary": "",
    "image": "",
@@ -225,14 +208,14 @@
    "topic": "Society"
   },
   {
-   "id": "e3728cb3bf",
-   "title": "Avances y desafíos frente a la diabetes: más herramientas que nunca, pero con retos de equidad y prevención",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1F2Ym00eGRqS1E1S29fQWRDMEFaSFZMaUg4ZVAzenRadFhsZmhsbzRCaTNwem9kLXk2VHZYbmJtbTZzRWVjSWxmNHNkRXZ1M3Q3OUQxbXlXNkJxZFA3QWVHMmxjUXRqcjhSOGlqbjhJUFBqeFkzRnlwOS1DTzNuYXFOOW9xdGV2LWRGQ1JZR2F1R1Nlcnp4WnpPWXU4bUlZVEhSMnRkUUFyRk5KRTU2TmUwbVc0TGZ0MVB3UTJTRmJtRnRWY1Z1dWkzUjc1Q2RaS0xMbTFNMTJGVVI1am9BQWlRdk1Xdw?oc=5",
+   "id": "f40c5f9370",
+   "title": "Uno de cada tres españoles con diabetes desconoce que tiene la enfermedad",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblRxdEl0NkdRMTNoekFtRDE0Y3phd3cta2RWclBWZlp4Y1ZuVi1VNFBPcjM0ekhfemRPd1NFV1B1RXhnZE11QmdkZXZKbjVCQkdoYnd5OWNOa0Z1cjU4WURSOFZ1WEVnS0x6aXJzTXN2cEg0a0JfMUlIeFNlR0RLWUFhanFRcUFYQklKMHNhWjU1U3p3alNGeDVBbFMtZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Saber Vivir",
+   "source": "Novaciencia",
    "region": "ES",
-   "date": "2026-11-14T07:00:00+00:00",
+   "date": "2026-11-14T07:47:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -240,6 +223,23 @@
     "flag": "🇪🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "0eda03eca1",
+   "title": "El apagón de Microsoft y la dependencia europea tecnológica de EE.UU.",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1hyaTZNSndFWVBZQ1BiN3ZSX0JUR3pBZHFqUEZzS3RxXzduc2xCMGd1OGl0OWtXd3dYVnkzTndIUG9ZQlM1RkdXWmpyOHpIZlhPNDdROGVCWWRUNEJEdG9GczU2elhVOUMwLWpMSkVyZVU1RmhHWGMzSWlKLWlVZDlFcFhkWGx0QlZSd2xfdURYN2pVZFFhdTRKQVd3bHJ2U3RVeHZLSkpqd2NMZjBNZFNFRXBkdXNvWU1TcXhWMDVOS2M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Euronews.com",
+   "region": "ES",
+   "date": "2026-11-14T07:30:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "ecf17ffd42",
@@ -327,6 +327,23 @@
    "topic": "Society"
   },
   {
+   "id": "25502faaea",
+   "title": "El ictus aumenta en adultos jóvenes: “No desborda el sistema, pero preocupa”",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2ZmUVVYSnB2WFUtaFpaR1hKYUtfUTY4U3hXdWZHcmdIV2c1RHFGX1dNNUFEMVNvMHZyNEwxY2U1OVo5NkVHRERMQ2RyeXN1NEhTdUpGSmk0cDNPQ3lHY0IwSk5vekpfZFk4MnhQRHktSTNYTllDRE56UlhNTjVvanF1OEc1ZXZqWUQ2M2xFZGtzRVhLdVBMVmpHUUVWb2wzMDhPMTU4aV9LdG0tVXJnVW5PeUJDQkRXV3RjZGdUb0NCdFnSAdcBQVVfeXFMTTVRSkdlVkJZN0lILTVRZF9MUS1oNHNINlp2cTVlS3NrQVJjekxXTXQ0SlY5RmZEU0tNWmFUVHZyZHRiX2NLNWM1SnpTeDhFU0IzZVRSUmlZT3VoeEZXWlZEV2Q1dnlfbXhJeFNyWENTRTV0NGpDRVMxdVNNVFBJQmFXby1sNFQ5N1hQdS1sUmhHY1JhT3JrLUVVV1hQdmRPeEZaQ1FJVjBTemVHRGkzZk9NZkFYR1RrQzhYZ2FmVENXdFJJbWhfUld2cjNxSWZXY0lPYUxIVTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EL PAÍS",
+   "region": "ES",
+   "date": "2026-11-14T04:30:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d69c223a5d",
    "title": "La Starship de SpaceX entra en órbita luego que explosión del propulsor impide doble captura inédita",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTVSd1AtTWxGUFhjcGJzNlV4dG11d3Q1amZoSGhuVUMwd01XRVYwNHBRbUhBUV8zdDBuOENaQTNaWFMzSmN0TExTNDZPem4tV3BhUVItMWN1M3ZvTElaUkd3enBPWXV2d1RmQk5RbmdvNUdCQVdqallKNFV2c2RabF9RV2lGSWktc2dPUHR3?oc=5",
@@ -344,31 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "7f91e257fe",
-   "title": "La 'vendetta' de Moncloa y el PSC a los 'Puente boys' en Renfe y Adif",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVU4UVB5VHl1RmFzSGZxMDdRaXJ3bUhHRzEwNGZQWGhLenNCQjdYdTFzNVRLdVZ3OHRfQmZVTmU0MlRBWTZ4Q2VSN214V3NHRHNWcmVoYXE0azhpZ0NRdS1peGNIb2Z0R0tzeEc2QkJzZVI0Q1RfWGo5a2RGUnJuWV91NXNONTJxNW1Ecm1UeEE2aEdHSGlrS1lGVjc3ZFJ0THZYWVFhcmpsSGRjUlE?oc=5",
+   "id": "b4c5b6e5de",
+   "title": "Vox propone eliminar la cuota a los autónomos que no lleguen al salario mínimo y una cuota progresiva desde 50 euros: «Para proteger a los españoles del infierno fiscal»",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHktUGdUUjlJbDlqZHZwdzJxOFVJMDd1S1BWSjgxVEk4NXFSd3JwRWFOeWx5QUVoOHNOQzctbllsdzFVT0FEQ09pSDIwY1ltM2JBM3pkRDIySmlRT0VOYTA2QXZxZ09TRXdrSlV0TGpVbXpkZy1EN2xHQUR1MDdxU1VBSnZRQXIwaG1OTlJtQVFyQi12YlBiRENQZDY4aDV6OEVYTWppNnVYd0l1SVNmbXdrMWtLY0JGeUROczFnWdIBxAFBVV95cUxOdGRHZ3A5MUtmeXhqLVR6MlpjRGdvOUgzRWxHU1hLQ1BvMjlQRTJXNHFxc29hM21vWUFUaFNVbWwzUmRmbE5pSV9wd202OHUzT3d0eDBzOERtcDNjNGozZGJ6XzRmSW5vcjI4TUg0bmVLMDQzV2NKWkVvMjc3bzl0SmFmN0J1ZFp0Y2M4NFpSNGVQNnlleXdTTG9ZMW5Pby1uakYzYUVTcEhhazUzZVhGaVpnVFpDSGYtN3FEWTdWVXowLWxq?oc=5",
    "summary": "",
    "image": "",
-   "source": "El Confidencial",
+   "source": "ABC",
    "region": "ES",
-   "date": "2026-11-14T04:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "90655f229c",
-   "title": "El atractivo de la IA sigue intacto a largo plazo",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUxxT3UtZE5jZmZtWjlvZTFpN2luTjBjSU1jZ3dJTGtHVXlCOS1ub2ZjamlsdWl3dlh3bTh4ZlpGMXpEREpYMFRLeDhJUG1TQWQxRExweVVrRUdCdGctSXo1aGtBdzBsbGtFS1FpblpfbFBYbEVNVFFyOGxiM2ROREZrMGRMN09JRGlF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Expansión",
-   "region": "ES",
-   "date": "2026-11-14T01:57:22+00:00",
+   "date": "2026-11-14T01:42:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -393,23 +393,6 @@
     "flag": "🇪🇸"
    },
    "topic": "Society"
-  },
-  {
-   "id": "01bd190655",
-   "title": "Microsoft lamenta \"profundamente\" problemas causados por caída global",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHhpUFRhZTlEZnd2TjhqbkpWWEljUVlMN0JYT3RhaUR2OXJRXzRjemQ4aS1sc0VIanpBeXFpTmRQaWFSR0NtMi04YWt4Tk1qVUIxVDB5Zl9WcmhQOE9lT1hsUUJheEs3TW1KbjdOVFFTRi1CQUlhSkRzcWg4anZiVDM4QW5lakl1MldaVG9TTWs5LWtEWVMySHBOb2w4NnRjZlVvM1RTUmfSAagBQVVfeXFMUEN0LUdjLXdrLWpiS1dqbE94LW9JWlJDbDVUNXJ3ZW5aZFh6OVljWlJsei1tUDBoZ1c0ZGxEMnQzUjZYV3JPb3hRYlR6MHRVQWh6ODcwalRicUsyWmxMWl9QNGttSklobFA3MVU2NXY0dkVLdXEtdFdqZ2RnWHhqdHNVMTlxazhMMjU4VHItTDYwNDBtTDNBMElSZmtMTTVFSTNadldmWXA2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DW.com",
-   "region": "ES",
-   "date": "2026-11-14T00:34:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Tech"
   },
   {
    "id": "28ee6ec548",
@@ -463,14 +446,14 @@
    "topic": "Society"
   },
   {
-   "id": "e4a1f44e4b",
-   "title": "Rescatan a los 129 pasajeros de un crucero tras chocar contra una barcaza en el río Misisipi",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMTRzR0hqbV9OUWdfRHFzV04wZkZWUngycnlYSHFJdllncTBzNUhQai1uTTVCeFFTN3lhd0N4NkY4VWc2SEYtMGFKNU1mSHFJVE9Vd0FaVEVCNGJlcnV1Y3hOSGx5TEkzMVpjRDlnelZTZ2VLRFJkLTYwZ2loVFlWV20wc3JnR09aYWg2UEFKUkFMcUNvU1l1X1BLT1BMczBEOUJ1NEJTbWpIaDdhVVNJbUNDbGQ5d3VUUVJhQVh0MjFwX25zWG12NzM5NWhMdm4zR0RrMUlWcmt0QdIB2gFBVV95cUxNTXZucElHYXB1N2MyVjFTZTZGLXVSZUd3OGxwN3pGbHFMaWY0bnc0YXMtak1uWlY4VW9yZ3RoRDJvT3ZRZlRqUjFBWlFjeHlmMkQwMTQzWng0WmFDendHenlXZ0JEbnJYYW9zcGozZEZ0VEV0cE1JVEpIdjJ5cW04ZHRyN3hEQXd5TkRKWnRBT2NPWjMxX3pUNU5GT29aTVh2dDI0RGxqZE5xTjkzRW5Ga0dDaEk3NVRFVV9LZzdQX1BHLTQ4cDMzSXRrMkFBQVBjX2VWTWc5M3pXUQ?oc=5",
+   "id": "0863b0061d",
+   "title": "Competición sanciona con 12 partidos a Jesús Owono tras su expulsión ante el Tenerife",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3MtZ0ZhS0xQekZ5YndBZWhTeUVJWTlpeXg3NHdxMGRCb19JTnJRREtRamtCb2daRTlZU0N3SXljNmRrUUtqQzVOMTdMandpNk1McXVLQTcxTVhCSGY3bGxad29WSlg3bmhYaWI1Q0JlNHV5b0t4c0RjNVJZUXFBMzR5UTUwSUtEV3RiM1cyUXJ2X3hMWE5yVUM3SWVGWTdBbDNqTVNqSnZseHU2TlZkSXA5SnpGZkhkN0NyVER3bE50NkRva1RsSzYtX1RzT2xXNEHSAeYBQVVfeXFMT2FZc0dBQXdCY3JLSnpib1FxaGJrdWh2SjZ4eWI4MlVZN0JSZjd1T0ZiT29yMnYtTGh0MmpkRERlaFVXQnphTDlXSWx5QlpETjRBdGFPQkZrTk1SYURSNnlpQXhxaG56RXg0WVRYdXF1anNLSzVtTzNLZDdUVkRndzFnVmhpb1hFZDJpR2JvWUFndThNOUppUXM4QmlkMmQ4MlRFS204Uy02S0ZWb1hEb2VBM3V0a2EyWWJvV1gtcTVEc2xBVDlQek9zRFFfcGQ4cXFTU2d6TUp0QTNvZFNoTHJIYWhSMWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "LaSexta",
+   "source": "EL PAÍS",
    "region": "ES",
-   "date": "2026-11-13T20:43:28+00:00",
+   "date": "2026-11-13T20:57:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -480,14 +463,65 @@
    "topic": "Society"
   },
   {
-   "id": "42f59dfc0e",
-   "title": "Tu PS5 mejora Spider-Man 2 con IA: Sony amplía los juegos con QSSR",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NbHhwRmRmVFpMLVdxa2J6Rm5DRVFpSXUxOHJ6ODVrYUFjX0NrVEszVFlPcFFKd0hFMUxIdE9ZR2ZkXzhiMl8xZExsb0k4Y042d1NZQ3VBV214TUNnZGphbmlLektZcVdVT3BURA?oc=5",
+   "id": "89a9b8e997",
+   "title": "¿Va a estallar la burbuja de la IA justo cuando Anthropic sale a bolsa?",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3luRktSWk0xN2pVb0dSV0ZHa1RoOGlhdXR1YzJMTnpWajAxTEtJeGZsOGU3WlBrWjlNN090WU5nSjI0VEViYWlUV0RjLXhrYkNRVWFnSjlFMTY2eEVtakJtUTI4UjRsclp0TGJrVHh2TTVzRjVUWUlEWE9KSThRbVZQQ25fdlVmanNIQkRzMndFcHk0TU0tenhtekpBSzBsWGZZYjViaEjSAagBQVVfeXFMTzRKLTgwbFNRVnRkNU5lRjhKU3lONnlTck1fVDBPQ05QdVNwb29ONWoyOV85RFdTdEhkenFBWTZIcTlpTi1YUU1lVzhkei1oSmJXd2JFZjFhX214ZUJwbmlGMHQ3R09NY3FULU9iVWstaVBPdFVVX2RLdTQ5OGh2TGVZVUdMeWVSTXZMMWczSVg2U2E5dGwzQXh2UUJKOU5Ja0xJbk9DWk0w?oc=5",
    "summary": "",
    "image": "",
-   "source": "HardZone",
+   "source": "DW.com",
    "region": "ES",
-   "date": "2026-11-13T20:00:59+00:00",
+   "date": "2026-11-13T20:50:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7733ce0048",
+   "title": "Rosalía, Edgar Barrera y Milo J ganan en los Latin Grammy",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjc3TGNRaHZPdEV1cUsyanFiQnRqaG1RV1poVlB5elVGUlB2M3ZaTUJ4bTEzREE4ZVR3UUhyTmxGajAyMjQwWlpQeUdUM2xBNGRURjNOaEUtU1JBTGFsSWpYRGVwclg1RGtaNGtmR0FYbGM1Zkc2STgxcTNpblNEYUsxamgyaVltVDRRQWw0MjEtZDRTeFczQlJVMVc3RWd6Q1VGV3VrOTdhSVpGUDV4UzBRSUFyZ21jSzRZblB5d2p5dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Los Angeles Times",
+   "region": "ES",
+   "date": "2026-11-13T20:23:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "03b693923f",
+   "title": "Inicio de campaña: Sánchez reivindica a los sindicatos, Feijóo tira de insulto, Vox de internacional ultra y Colau dice que \"no todos son iguales\"",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNblBXLThVVUE2MVdkZGVIRjJod3ZPSE0xOE9DZUpJY3ZVZm9zejgzMWsxcjB5M1J6T19LdkU5TEg5NEh3YmdaTklVWXVzSjNmbENvRlZsSHFQbGUtN3NvN0c1bnFuaGxuOXVtcDRHak1mbW9KSEVqbU15bU5RNjZhZGFTM3FlR1lPSmd6LWw2UVFwM1ZYWGpxQ0NQLXBSU2I1MVpKWUZqWU8tSW56a2ZmZHdyQmRtUlIzeG5ydVZzeTFHbUJ5bDgwbHZfdUdLT1ZsMlY3TF9qcDYzQzgyMDNwT1FoaUZRZ2JzeWRUaGI1OWw2M09JMTY2cG1hTlVVbEI0QjNfTVVvZjBOWjdaWmtmWGlUUXFpV1gyU3FFWHhpQmtzX3U4S3FqbGxEYU5vNW1Z0gGwAkFVX3lxTE9Bay1DNEhLRDFBM1lkZWJyNnpSdWlzX0Jyb1NqVHJjVzF5OVlCV2RaLTE4clRLa3NjMVNISkEzaFNNOHM3RHpTeG9xcmpfU0p0ZDNvejRobmpJYWFaSkhhMU1qbUw0WkpFdXlqaUNtTUc2MzhhRjM2T0lFRl9ZRjUyRHh6cm4wdzVrdlBITWc3S21pUF9qNXpBM2pkZ1IwbkZKd0hVdE93YjBra1VydTkwUWo0U1p3ZXVheUlGTU5FRERCSFdYOWc2eDZ0SkFjZFBsVUtRdEhSRmMyNllzUmVhSjVWMWN4REhIUnhlVHRMTjZ6bW0zZTdiRDMwUUxHWDViVjdVaUlTc3o3T1VnMnR1T0k5MWhjRGpQbVBGOHBMZnhWUlF6YWRHMHRoXzFkSGs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "LaSexta",
+   "region": "ES",
+   "date": "2026-11-13T20:15:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "00fadbc54f",
+   "title": "Rescatan a 180 personas tras el choque de un buque y un crucero en el río Misisipi a la altura de Nueva Orleans",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2VUSmR6ZFctcGtXV3FWaGhJMnJKMmwySk9FT1NBRExhVjkzSVAtcVRCLTZPVW92X29iNFRtUW5Eb3dNTDl6bVBoUFF4TFdmQldtUkNObnE4cF8xYzNJdWllZVVhY21VX3kza2p6Z2t6NWxXWGNLdmlTUXE5WFFkWTJnVzJZM2FJbjlEZExoWE1iSDhGRG5KbWhGNFVKZjJOeW83WjZBSzlidW9hMnVWSHZDREQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EL PAÍS",
+   "region": "ES",
+   "date": "2026-11-13T20:04:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -514,14 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "1f8215315e",
-   "title": "\"Esta es la ciudad del Papa, del Papa peruano\": la emotiva vuelta a casa de León XIV a Chiclayo",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkOHNvSVJiLXdHS2lYT0RHMTlnLTYzRTFJZ3hjRy02V2tVV3lLbHFNY2xvanY0MGRnZGRmTG9WNENpV0ROblBmOVQ5WFNWYnVnMUNIOUN0VElXVjFV0gFiQVVfeXFMT2ZfVTJRbl9wUGdSNGRjczdOV1ZtMGpXNnRTRmJ5QUdrYjEwSTFfMUp2UFVPWEFQMzBfTEE3N0lNUWkwbXoyVXh5NE52RV9razRrQ1FFNV9reGduWWpTNm1LSWc?oc=5",
+   "id": "75efd061c2",
+   "title": "Nintendo Switch 2 vuelve a tirar su precio: la consola, con Mario Kart World y 3 meses de Switch Online por 384 euros",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uV3JtSFc2VlJWUlk3aTdvNUdQWEctcGtSMWFGekNZRWNrb05CNkdkM2wzM1Flc2diTjhWank1MWt1MTNkUGZaNldPUDNhdlJhZ3lzMEpybThUckpUY3ZCcnpxamxLUW9kaGxYdXI1dnotWjNGd3R6eHhkS3ZTdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "AVPasión",
    "region": "ES",
-   "date": "2026-11-13T19:17:22+00:00",
+   "date": "2026-11-13T11:18:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -531,53 +565,19 @@
    "topic": "Society"
   },
   {
-   "id": "ac817bcf9f",
-   "title": "Si hay un videojuego que pueda romper internet, ese es GTA VI: su precarga está dejando picos de récord en tráfico",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXlKanRTTUtyMTJvb1lWbWdsOG5zd1F2dUptTWViREx5VERtaEJ0WDduMHNfZDBKVEs0TmY0WGdIM0RGTjJVYTFTMlNOYkVDR29QMEl5ckplUmd3YUpWMWtKYkMtQkJ1eTJYdkFfaUV2c25qdUl3dElWNndKSWJZZWhFWkxFTkdLOUVjVlVhQXR1Rks3VVZZWkZwdVYtQkNEX3phU3dCNzcyUW45bDVYZmdZWG10OTBnN2trb0hfX3lyUHRRdjJkcEJESnLSAdIBQVVfeXFMT2hDR1V1MG9mQ0Z1b3U2VEI1TlpxeFJUWi1DSHFLVWM1aUVUcXk5QXhmNUVBN2FrblVvUjRhYzRhNm1WNFB2ZG5HOXA0VWFrb24zZXZmNGtCWV8zcHoxWEJYV0s4U1hwamcwT21URVpDZVc5SUlIZnJsNkNYYmk0eThVQlRPVmowVkxpajZPdDRkWkRHSHVpazNaVVBYa1dfRHU5OTgxWWg5US1qbDBlVXFrSEFGUXhIdWowVkpTVXpxTmZXdzBxZ09YMGtZVFRuVHpB?oc=5",
+   "id": "50ca7a0c5b",
+   "title": "El brote de ébola en RDC roza las barreras de los 11.200 casos y los 5.500 muertos en poco menos de seis meses",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVjdIemhrVlR3VlU3NVQtMXIwUVpIdTZJT2FLazNMUDgzcGtnNEo1R0taeXVuSzUtYWNIS2dUWFd6WHoyX1ZjaU5LQ1dOS0M3UGprdmZqNkFmMHBqeF9VNW5iTzNZWEctQTliM3lLSUFROXViNHdqSTlsTVJsWk1ya3QxSmJlV2hzN2JIMHpaNEFqUEtwMUpUaGxycW5nellTYUFqX25Ka1o5U0NwWUlZSjI4VDBXaHoyY3M4YkZhb0UtUUJMdFdLNDFJdDhyQl8xM3BpNExyalNZWjZyOUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Xataka",
+   "source": "Europa Press",
    "region": "ES",
-   "date": "2026-11-13T15:31:24+00:00",
+   "date": "2026-11-13T10:49:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "1302579b7c",
-   "title": "El telescopio espacial Euclid de la ESA descarga imágenes de 900 millones de galaxias, y eso solo para empezar",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM0d3X0d1eExXd3pnY0RENmFXRmd0TXA1ZTRaYV81WlN4VXAzc1dRUElaemtkeGU4QTR4YXhFNURNelY0QmxJZ09pellOejBYaEpfQmxLZ05ndWZ5Q3R3RWZLOS1xdjJ0SWc5N3lrQUZIbGgyVHVtRG1FYmNfdGVRTkRKNm96TUJES213U0x4U1I3M3hIOGVwYlpzX1VRNXd3dF9wNGU4a25nVDJnalFSWDNpLVZWMVplbGpCZlRMLXlJa0RwUkhQUlExU2FWS1VKcnlzMWY4WHFRcEtCMVNNRVdTU3JxbndWelp6elA0dnU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "elDiario.es",
-   "region": "ES",
-   "date": "2026-11-13T14:44:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4e90e6a611",
-   "title": "Crece el temor a un regreso del cólera en República Democrática del Congo",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzhNYlpGNlNxelhtaTBnLVBCRlhSSWpCS2pPMjJ5ci1oR3BONlM2ZmlydHlSa0VSZnFvd3BfVHNLYThRWEN2YXg5RDVPd0pySll4ZU4tT3RleEttY3FfMEpUQnlhZDY5MTItOGZtNllwUFZET3d4UllIVnRXY3NhVGNsUGJtRk1DMXh6UGNfaXRqNlNCWjBEb0RUbFp1T2dfQklJNjBGMFViUEdMUHVtcE1mYWdoSHczWUZTX3ZXWWlkeFQ0QVBYRmtSdzlzUUnSAc8BQVVfeXFMTzhKb3ZGalBHTDFYNXZHTGRCQ3QtZEswc1BZcEFaTjZqbVFmc3REbVJ0RlF6eFJvV0g1UDQ5ekJNNks3VE01TFdaTy0tbXF5QllCdzF0X2lVS3p0emtMYUpGTzVhb1RPeWJTQ1NweEUtWThwY3R4SV9sZjNQMG1pMGs5eVZ2VDhRWFByc1QzZ1o3VkJRaXNpYVU4emwwdDdZMHN2aWZMbmRKdzVLZkE3ZEliQ2hwNjlhN1QzVkxrQkdSQ2cwMmtCaFpCQ2FqTDVN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DW.com",
-   "region": "ES",
-   "date": "2026-11-12T18:29:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Congo",
-    "place": "",
-    "flag": "🇨🇩"
    },
    "topic": "Society"
   }

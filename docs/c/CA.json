@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T11:52:46.868447+00:00",
+ "updated": "2026-11-14T12:39:09.186765+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "4e8f8d3e8e",
+   "title": "Activists call on Victoria MP to vote against bill to speed up major projects",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTZZTkk5Wnlhck9McXFMakhZVm85UV9RcWRUTE5lcnFSdHMxbDlFN2tQdUhSLXBQaFRUS2dYa3FtLU82LVBUaldEQVh6X1U3cjBWMm1pZkRKVVBzdndjMmRPc3Q2cXJBV0NhR2kzZm1CbDJkRUhPXzQtT1gzNE8zN0Zldl9iWFM2eThraUVjRzdGaGZnT2tkRXlCU0NmV2hfVzBHOF8wbWpuWjIxZENSckRSVTR0bEZIY0VyUHo1UGRCamlnZ2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Times Colonist",
+   "region": "CA",
+   "date": "2026-11-14T11:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
+  },
   {
    "id": "d62fb57906",
    "title": "How Lake Superior Compares To The Biggest Lake On Every Other Continent",
@@ -72,23 +89,6 @@
    "topic": "Society"
   },
   {
-   "id": "4e8f8d3e8e",
-   "title": "Activists call on Victoria MP to vote against bill to speed up major projects",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTZZTkk5Wnlhck9McXFMakhZVm85UV9RcWRUTE5lcnFSdHMxbDlFN2tQdUhSLXBQaFRUS2dYa3FtLU82LVBUaldEQVh6X1U3cjBWMm1pZkRKVVBzdndjMmRPc3Q2cXJBV0NhR2kzZm1CbDJkRUhPXzQtT1gzNE8zN0Zldl9iWFM2eThraUVjRzdGaGZnT2tkRXlCU0NmV2hfVzBHOF8wbWpuWjIxZENSckRSVTR0bEZIY0VyUHo1UGRCamlnZ2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Times Colonist",
-   "region": "CA",
-   "date": "2026-11-14T07:21:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "bd073d76a9",
    "title": "‘Ripping up and down’: Three dead after boating incident on Squamish River",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGVERmNrWjVrVUl4ODNaRGlta0RfRGJKQWZiYnh1enNTeDRjMzFWeGZXLTdMWEJ0TDM4cDlocmpEZnhfY3Q2dDJrYzBkWG9PVDRaTUxjb1RvSGJwZmk4U1R4NWhueEw0cGhRclllZWN3SEFaZFJhckZOUHRlNURfanJGMGduR3RyX0RlRnpDZ1ZxczY0MEdZZmNjcw?oc=5",
@@ -106,14 +106,14 @@
    "topic": "Society"
   },
   {
-   "id": "c70bc1b366",
-   "title": "Journeyman Gawdin stars in hometown to lead Rangers over Canucks",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTB0SzVDUGZacG9icEhBaDZYdzhaNktpWnlQVFM0SzNma0Z4V1g0dXNSZnVJaWlQNm9zVVRLdHZxQUc2SmRNa1BucWZGYm96dU1jWUVwajdpMkNKeVZtOVlFLTI5TzJFZTIxczBabG81dWxpdkZGSjJlMHdGWlhZSzE0dTdPRzJ6R1BxYTNwU2dHc05TY2VZSnF0RTk0Zw?oc=5",
+   "id": "26536e9cc4",
+   "title": "Rangers 5-1 Canucks (Nov 13, 2026) Game Recap",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFSW81TncwOWstMXdyZXd1Nk15WUlqRFh1Ym15ZzlDZGRUUncwQ0c0dHlGVVk3NWQyS2F3NFZfOFhHYlJjcU5lLTVNeXFWeXdEV05qZUlhdHVJQTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sportsnet.ca",
+   "source": "ESPN",
    "region": "CA",
-   "date": "2026-11-14T06:00:00+00:00",
+   "date": "2026-11-14T04:59:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -121,23 +121,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "8b4386ba66",
-   "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1d6N19YcmViZG5XbjRVV2V3enhYQ0M3R2VyLWxsNDZJRFZtZGZZMTBhRWtWY0lyRkJPdWU2cGhfSHRKZ1J3TWxNLVRlcWJVc0Zya29maHhsYXJHaDBZcExpUGg0bC04UF83eW50Yjl3Q2hiVnR5ZWMtM2xibEc2T0R4bkNvMTQyenRxTlVXWGNjX3gwalA4cU1oY25qVzVmd05fWGxPWXdGZlhrMmRfYzc2QnNGY3M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Android Police",
-   "region": "CA",
-   "date": "2026-11-14T04:29:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
   },
   {
    "id": "6167e53703",
@@ -231,14 +214,14 @@
    "topic": "Politics"
   },
   {
-   "id": "7c15d0005c",
-   "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN292T2RENUtyUnRZV2RZX1ZuOHdza2FfZ09MaUZWM19UNWZIcWVIc0pDNlJYeWFwM2RkS1B4RFp6SEZZWUc1dFl2VWxlT3lCRWUxYTJuMll0bVcySDVScmcwNjdJZnc4cFE4b3ZEdW5Rc3dFLU1qZi12bTE2WUYwTFRMWW1nOUE?oc=5",
+   "id": "5cf3181d44",
+   "title": "COVID-19 school disruptions still impacting students today, learning loss report finds",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81enM1dXZZTHJhRG1wSEFTdTM2d2VTRERGR3F3Ry1VcHpYT0ZnTXN5UkJNU0Fudm5ST2J0ZTB2dEpncW5oRlh2em9FTXVYMlVrSWpfUGRLQWlGekZoNVhXZ2JVTHdhX3lWckxZLXdxU1NpM2NHaDRxN2Jn?oc=5",
    "summary": "",
    "image": "",
    "source": "CBC",
    "region": "CA",
-   "date": "2026-11-13T23:47:26+00:00",
+   "date": "2026-11-13T23:33:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -316,23 +299,6 @@
    "topic": "Society"
   },
   {
-   "id": "a29960a9f4",
-   "title": "PHAC finds no evidence of mystery brain disease in New Brunswick, says patients still need answers",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZm9kX3RKU3NQNFlJWjdjQWdJWjBmYU91XzNfOW42aTRPbXFzbnotTEhFaHQzUFJJSl9hWEVtOHBBbXlKVG9wbnZ5ZXhNbS1GSWFwUDV6ekgtWVhlTFRCazQwdFg3T21jN2JURUhzVEJacmxhY0J4UldBYzRQOHc1ajE2Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-13T21:40:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "495d988ccd",
    "title": "Tanker collides with New Orleans river cruise with 180 people aboard",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQW85U0JzRmRBcC0wSk1OdnAxaFU0c0FZRlRxbnRONHFRNVAyTFpGdDhUY0tXSWRlcndaRThSM3V4eHFuWWtqWXlvd3Qzb2lPazRENUNZZ2I3bndzMS1FRS1kU1Q4NFQyM3h1bHMyeVZ6NlgzSkNOanZpSVlSVnJxTUJrUkxLdnZvdm5Ta2R3bFBXZV9ZMnpBR0EteWY3UkFxN256M1BfRHJkeVNPZFZz?oc=5",
@@ -367,14 +333,14 @@
    "topic": "Society"
   },
   {
-   "id": "c8ff5d5955",
-   "title": "Alberta’s Smith unveils new oil sands royalty regime",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2dPeWs3MVhnUkY5cmRocmJITnlQY1VxSzFkTHdXc0ZHZFpMQUFadGx0UGhlaEpBenpzbnIzQi1UTTFQcHBHQjJpWEdfc2xfNHdkVVlveWQwbV9yT2paUHNGRWFpMU16c2JCdFAzdGphNkU2SzN4MEM0XzJEZW1jNjhXYTRLLVdpOWhybVFTOTNmOGo5NXhUdTg4QU5ZV05aZF8ydmEzYlgzWTdnMHc?oc=5",
+   "id": "3019964230",
+   "title": "$11.5M in drugs seized, one arrested - Thunder Bay News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUpLMTVzTmhNV0RCT0ZtX0w0LXlCelJvQ3NkWk1tTXBzZ3ZDT1dCc2tIeEtsaGdkQXlYNWNHUXhTUk9fcWxPMFZPbGtHSFRKOXFMNUt0RGN1YXBUTmRjX2hBUTQwTzFmMmE1LWg0TkZyY1gwN3ZRQkh1QjRtOVJ5eVYtY09pcHZH?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Globe and Mail",
+   "source": "TBNewsWatch.com",
    "region": "CA",
-   "date": "2026-11-13T20:27:48+00:00",
+   "date": "2026-11-13T20:24:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -384,14 +350,14 @@
    "topic": "Society"
   },
   {
-   "id": "3019964230",
-   "title": "$11.5M in drugs seized, one arrested - Thunder Bay News",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUpLMTVzTmhNV0RCT0ZtX0w0LXlCelJvQ3NkWk1tTXBzZ3ZDT1dCc2tIeEtsaGdkQXlYNWNHUXhTUk9fcWxPMFZPbGtHSFRKOXFMNUt0RGN1YXBUTmRjX2hBUTQwTzFmMmE1LWg0TkZyY1gwN3ZRQkh1QjRtOVJ5eVYtY09pcHZH?oc=5",
+   "id": "e9d7607a18",
+   "title": "Alberta announces royalty program as part of plan to double oilsands production",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzJfcEZZX3VQWERMTVBEVldMTU0zb3E5WS1ZX3ItWnQyVmxhM0pRTGtfRjBwM29mbHM2Yk1QOHVqMkJVRWpKc1E2ZWRiVGVsQ1FlN0xuSFQyaVNGN3VIQVlTNFJwX3dnTG16NDI3UTNjWVVSOG8zem1vRTNmamhycDFpcXVOVFE5OUNLaktB?oc=5",
    "summary": "",
    "image": "",
-   "source": "TBNewsWatch.com",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-13T20:24:51+00:00",
+   "date": "2026-11-13T20:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -435,6 +401,23 @@
    "topic": "Society"
   },
   {
+   "id": "4330a9062b",
+   "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont. on Dec. 1",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdWJLQ1VSbUlpeExUQy0yRzRPZ3NlQlZwcl96eHZSRFhLbTJ4WmQ1cU9lU2FUY0RLRGgyVHRIb2tQdkFqaXUzWDBJdjJJeHN5SEVsUHVoMW5aNWc4MmVnVTdRdW5ZeEpn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-13T18:18:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a59b504247",
    "title": "Avril Lavigne welcomes baby girl",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTU2RXJZVFoxOGRmTVNMLV82UGFKR3VJc0JhMXdzR1RnZlhMMURkOEZleDIxcUNiNWJMYlFxT0ZGOFB3RTltbjRJaFptaXBia2lQamt2bjAyN1lMQnlTbnQxVVN6REdoOFBaYWw2TjZKSzc5WFh5MXV5blp2ZXBMQk5UWW9GTDJ6UktB?oc=5",
@@ -452,31 +435,14 @@
    "topic": "Society"
   },
   {
-   "id": "a9aed114b9",
-   "title": "‘Painting is not that difficult’: CFL Commissioner urges City of Regina to reconsider decision to stitch Mosaic Stadium turf",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaUdURUMtY01aMlhKdHNMZ1g5cUYyY3RVTFNsd1Jfelo4S0FWN0xCeG9fQjM4SDZVSGpCS3Vyc1lUaHhaZ2VPSFQ3SHdkaVNsMFdkRHU5RzEwYi1HRENmX3lHcmprTm00cmx3bmNOUDh3aGlaeUZQUzZwRmdiWXV0bHMyb0RoeWZWVkljTzAwM0Z3Yl9zUmlOY3IxNWxrYXJuNWtJMWZoZzFSTGg5V3pDUHNfcUFSbXlZWmtKN2RueTQxODVBUC1NY2dKTVp2R3o0YzJGOFNiZlg2VFlETERXbUQyNHpFdEZfODVaVWNSMC1NUQ?oc=5",
+   "id": "37a0bf7c0e",
+   "title": "'Grand Theft Auto VI' turns Canadian duo Bob Moses's song into a viral hit",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmhCYzhUY1QyZWFWNU9RNFRUSUpCZlhNUkMzMjN0Q0FJTmkwTlJYNmpqRko5Y1A0Z2VUcWNoSG5QalFhaXowNkU4c3BjS1FoT2JNT29CZk9Pel90NG9SZEV6bVpXVE50YmRlUXZJTWd0cWlIS0JmcUNRbC12X0c0U0MyRUp5SzZXcUFNay1GZ1FyMUwzUWpCWEtNaTk5eG1PMWJIemNHU2hMb1MwaXc?oc=5",
    "summary": "",
    "image": "",
    "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-13T17:03:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b225090c7e",
-   "title": "‘Grand Theft Auto VI’ turns Canadian duo Bob Moses’s song into a viral hit",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEgzakVKdHNSRjNlZG9lNjEzdF9KUDlkcnE0U3dONEtRdjR5Q3g0Z1pFOURUVzBvZ2FJOFltS2ZtTWlmS2xEOTk4M1g4UUI1SjlYU190U21BWTJJNEFDQ1VoSHRqODkzVXE2N1YyT3ljaE5sNDF2NDljRDNLUFdtSVI0MHBqOTlDTnZqUVp0TkVpbGg4eExXRzNlSVdIdUVsLVN5MUktMnlma2J4MTZ3UA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CityNews Toronto",
-   "region": "CA",
-   "date": "2026-11-13T15:29:00+00:00",
+   "date": "2026-11-13T16:11:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -486,14 +452,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "c5fa508f33",
-   "title": "Microsoft reports progress as it works to recover email and other services in a global outage",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUl1d3RSc2s2MloydEEyWllNTkVhaEZaU3MxV1FzQW1EYUVOWk9lQXFIczFSNkxVZmdfRTYyNlBlUERjQ1hGdW1MMnZ4ZjZmX3RVOUxfQ2xFeUFqb3EtV3p3TzJXb2dRX3hlSFNiSnNvSzA0bTRzM0V6U1o4UTFnSVV0eGRoR0N4NXBKdkZQbDh6TWNXTUw0ZGYtSTk1b054TkIzSmk3eU0xb3phZ0JhUkFKUFUydw?oc=5",
+   "id": "0eb6bd0ee7",
+   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "9to5Google",
    "region": "CA",
-   "date": "2026-11-13T13:45:27+00:00",
+   "date": "2026-11-13T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -537,23 +503,6 @@
    "topic": "Society"
   },
   {
-   "id": "22b1e40974",
-   "title": "Metro MP says Budget’s Business Focus Necessary Given Geopolitical Climate",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXdfTnBkOGFyY1dYTVprRmpzakFHOEtlSkFGc3FGaW82VW9JcHVTTmp0LVJ1NkJPb0p0TTVZQWF3M1h3Z3VFLTY0V19TdkQ5cmJVZjVhLVhkaHBXYTVFZFYtM1M2TlBMWS1IUTBVTFZaQS12c1diZ0tvOFd4WHRyemd6SUhrVE56amFPNmZONXdzS2lFam94R0k4TVotalMzN28yaQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "VOCM",
-   "region": "CA",
-   "date": "2026-11-13T11:13:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Economy"
-  },
-  {
    "id": "930591174f",
    "title": "Federal government moves to overhaul airport security after CTV News investigation",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGFKY0xWbG9pQmI3aTZEYkZaQ09MbFBPRmdibUJRZjdhY1lsTDRHS1QyQm5LNUthYnFrQmN5VEhHRG9NTjZTbmFRb0ZybGpIOUkyYkRCR1FYQ3J2ZS1oeFY3dTNmSDcyMGtiU2pFZVZEYUhmc2NPdmtQN3NFRnNSd0pXTmVQTHVNeFJHQnNpQVhvV3ZmOGoydFRYV0lYMHNEV1dicVJsWE5meXBHcVVDaUNCcFB5VE1uQjhlTTJB?oc=5",
@@ -588,6 +537,44 @@
    "topic": "Society"
   },
   {
+   "id": "d6e8ffe199",
+   "title": "Your genes could change your prescription. So why aren't doctors testing?",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZkxubTRXYlF3UHNlb0FwN1padWY5R3pEZWhIODhLR2RFNmRFMVZfMlN1c0xvZTNob2RNVER1SkxVOEt0bEFWMGtMZHhsNzRYWno5Mm1xenlsaDQxZTB0QlBFUlpyYVFnMjhDWVhWaTFENFJrZWxGekRVOV8tWkJUeA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-13T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "c386cb4923",
+   "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "CA",
+   "date": "2026-11-13T07:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇺🇸 🇮🇳",
+    "also": [
+     "United States",
+     "India"
+    ]
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "7d8e2d0154",
    "title": "What we know after Jensen Huang resigns as Nvidia CEO",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDJxejRYdUdIc3FZcmtKVzhrVVhZRXZRSU02NTUtUU5LNU9XcTlNRWRtVDVFbHhSMmFoNGNZQTJINDZZRXl3WnlWa0RjcEVSY0tiRXRqNmp5Z3k0UEFfV1ptMVlfcV80M2h0RDJ4bXFnM2h5M20xMXRqVEUwMjVVZjVQTW1IZVRY?oc=5",
@@ -603,6 +590,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "149235db27",
+   "title": "Grey Cup celebrations kick off in Calgary as fans arrive from across Canada",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUZZOERxdHY3NWRwTE9SdGlLd0hfSGZpeDg5VGxrNlRWVHY1R1AxaU9qMktRempROUtKNGt1U3pxOUxyMGZSa0czWk5jb1l2bXdxMER1RlhrMmhCUEJNSmpZVmw1a2J5R0NYYS1YSTg4NkV0UFY5S1hVc1ZwVHFsTUo2NF8xT1VEa1poVk9lZl9nWVFKM0J0UkJtV24xa0lUXzRnWnF2bnhZdm9YUFN6ZDhsbVU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-13T02:49:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "ae81b04855",
@@ -639,21 +643,21 @@
    "topic": "Society"
   },
   {
-   "id": "46cac32c6a",
-   "title": "High Frequency of Drug-Impacting Gene Variants Found in All of Us Cohort",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFNvZWZPemIxOEloVndfblB5TGRMSGEzZDhydlg2VUk3VXpROWV0Y0VoRHRGSG84cFVJREc3Z1U4b09Jc1l0eTlVQzlDemhxVWJBZDhhWU1SQlZPQzB1SElkYWh2ODVFRlN6MG9Hcy1YODdsZUJTN0RuX3llWTYwRkNpdVA0c2ZrMV9xWWZ2bThrbWlXWUVpajE4dUZFZEJINGVLWUdEdnpWempPOFJWQXRJWQ?oc=5",
+   "id": "db678a2cff",
+   "title": "Endometriosis care in Quebec inadequate, says women's health group in open letter",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXFxNWhKZS1NYU1TMk13WjgxY29WbW1QcVJMSFVtWWRGd3V3eWhPTEJteFNZdFRHd0U4NXF3Tm1zaE9FRmt6X245Q2Vhc3ZFaTh2VTBqUUtDSEZqcm1NZzhZM1hBcEo4bDVmUFdiWlpLaTFSd3JzbU9vaEtMakNRVmhVbE9HZU1S?oc=5",
    "summary": "",
    "image": "",
-   "source": "Genetic Engineering and Biotechnology News",
+   "source": "CBC",
    "region": "CA",
-   "date": "2026-11-12T20:17:04+00:00",
+   "date": "2026-11-12T20:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Society"
+   "topic": "Health"
   }
  ]
 }

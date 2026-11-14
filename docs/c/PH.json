@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
@@ -131,7 +131,7 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkZpR1kxNFJXWVZfbWg5SDRTa1dQV0VtZGZqOHNxMnQtRTA4OTlPMWM1ZEhENlB3Ukp2d1kzYWV6Q09TcjBUOE1kLWxicFVNWjdxRDJwT3RKQlhEaHhmTWpGX1p4VTVSVkhsVUxPUnFaWFhWdHd1S1lrME9QVXdSZXJzSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "USA Today",
+   "source": "Yahoo Sports",
    "region": "PH",
    "date": "2026-11-14T05:36:00+00:00",
    "coverage": 1,
@@ -141,6 +141,23 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "401b9a9f73",
+   "title": "Ben&Ben collaborates with Take That on new song",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdU9HWGs1ZkJXZjdXdUN0RE55V0c5UXoxY2xuSnpITkZncERPMUZobldjNmIyNVhvTmZreUtpT0ZfQlc4MFRxVEJrcmNkRGR6NHl3M1VxU0dpYlNHWGtPZkxDX2hfZ3VrY3ZxNzNsS2lMTm55cFB2WHI5c1VocGF4TUhacmRvTjA4UkhuRkhobVJVbGtqS3JaR2VEYjZMZUdhSzYyZzViR1lKZmJuZS1RWUZKSUVpQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABS-CBN",
+   "region": "PH",
+   "date": "2026-11-14T05:23:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "133b70c603",
@@ -160,14 +177,14 @@
    "topic": "Society"
   },
   {
-   "id": "1443a6b81b",
-   "title": "The Loyalty Game: Ben, agad na binalaan si Mara tungkol kay Ana | Episode 30",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFhDWDRyTUMxTkkxVFVGM2lYalBvUG96V25Udy1zaUUyMV8wZl9DZ2JQYVJHMlp4UDdDd2xCUnpKUU8wOE0yVjBwSkt1a3NPMFdvZzJHZDVid2pZaXRDY1hCQUZiU2VWVTBzbDNMQVZ5alE0cmkxa2RLVUJIM2hkQVFHZEJHTURWM0JCUVIzQ0NuRjhWRDZJWmE0TGl3YkJhUDI0RkFaV3lsVmtoWUF0UXFVQUlZYVd0LXd2bmxpQXctZkhHNV91QmJpWW9EUjRqVEJr?oc=5",
+   "id": "3e59331b48",
+   "title": "Halfway through the battle: Tweetie de Leon-Gonzalez on modeling, designing, and the habit that keeps her moving forward",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONEdmWkNrNkYwQ01Hd1E4T2dqMERoMVlyQzVoSG1uWGt5Q0VsT0pmejhtWE5nRnVzdENlSGkwSEM2LU9uV1BFNnZ6T1hqYjNTNXZlYUhhTG9Nd2lzUm94SWZEYTJROUxaUmNNRlJDM1Q0eFNWMDAtUVpybXdFRVBtbElJTE9LZ2g2U2w3eGJaZEVhWEZ5Q29yVVV0d0VSQTRlU3o0V05BR3hURlhsVm9yMGlyWjMzZjQ2OHF5Sk5lb245T0JaejlkVVVRWkQtSGZqNHNpanNvYnc5MjhYSlFDc25UZEdRanNKR1dz?oc=5",
    "summary": "",
    "image": "",
    "source": "ABS-CBN",
    "region": "PH",
-   "date": "2026-11-14T04:52:15+00:00",
+   "date": "2026-11-14T04:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -279,23 +296,6 @@
    "topic": "Society"
   },
   {
-   "id": "2e38b67fc1",
-   "title": "Karen Davila shares experience meeting Angelina Jolie: ‘It was such a gift to meet her personally’",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZS0xTmlHX3FqN1BfVGI0OXUxbzRjMi1INDAwMFpkUGJPOFZOQmZad25KNVk2bVgya01Idzl1SG1aWGdINUZKczFMU1BxdFBPTWtJMjUxRnFNcUx5djUxVk1tMFF6anU1SUREYlZNMUFNM3dQUXdLWFlRb295QWJQY2xHZ216endmNmUxaW96T0VtS1VNV1AtZDlKM3lPeVhuVUd4M2U4bTcwZXVrTzZiOXROSVF5bUhmSkNEaUxxS2FaVXptZzRzQ2kyS1YxRjJLZlhrQ2d1Y0VvWXZMczJfTFVFaE84NGdNNUNfbHo0MmNBci1BU2hoT2k5cHVYUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-13T23:27:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Business"
-  },
-  {
    "id": "e71c8bc87d",
    "title": "Brazil’s Lula eyes deeper Asean ties thru PH visit",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUNSS1RQQXFvSTkwd1dmSmEwczY5T2Y2M0FIOEFuUzlRVHBJZG9pTW9CaUNmRm12Y1FSLXJ2ai1wNkU4Z3E3eWsyLWxvR0FmcC1fa29sM0RpWGZ6WTZ6V21YQjAwYmNxRzVuWkxqdk9xenpPdFlLZm03ZG1kVURkUjlCRDE0SUNzcDJ6bHo1VWbSAZYBQVVfeXFMTWpJTzBkVE9vVHptQmVKSnNzUFdUX0g1ZnNwVnZuOW9aa2ktbTVzMDdmRnc1SWFVSzk3RzVraElzcklHY0M1QU50aWg1VldDcHZkNWRZc2JOb1RLZ1Q3ZENIak9GRktjSnk4VVNvb3BGR2FuWDNpMl9xYzZOSG1fblhMTmNTYkM0MnBNNHJnQkU4ZEVmRGx3?oc=5",
@@ -309,23 +309,6 @@
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3675be9cc9",
-   "title": "US to resume flights after air traffic network failure sparks chaos",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "PH",
-   "date": "2026-11-13T21:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -379,23 +362,6 @@
     "flag": "🇵🇭"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "05ac9a1e3b",
-   "title": "15 best-dressed stars this week, from Ariana Grande to Amanda Seyfried",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVXpGVGhBQ21yNUJYWEFzXy1Va25rSWxOb2N0MjUzclZ5S3hFTlFWY2RVWG5uSldLOE0xS3dzMG94d2V4X181eDEzYTFPVjdNdlBMUTduU0hGN0Q5djFxVVh3UXhQMTVsbnYxWVZOZlkyNjh4ZnJKY0VmejRZZWhMT1BkZ2t6WmVMenljQ1J4TUhLdXpacEFWdENKa25aYjVWaDBPbDd4akpudDJQdWZYZjFSeVNOYTE0SmQ4aEhQNnloZXM3V2xNNjZRZVVTYkdhSVdZX01SM29BQl95QUc5a3otVERidl9uVERpUw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "USA Today",
-   "region": "PH",
-   "date": "2026-11-13T19:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
   },
   {
    "id": "e4eeb79548",
@@ -466,23 +432,6 @@
    "topic": "Society"
   },
   {
-   "id": "ba1aac10fe",
-   "title": "PH, Slovakia seek to boost trade ties",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzNzMi1ONllHeVNwV0dDRXV6TkZ0b2s3OFBsU3E1NV9MckJGWXV2bWsybWpSaDR1dmFtMGxBV2VsZ3hDS253R2JXMXZPMHVIbHVEajJVLWdlQnNyaVdDODFKc1llcmZCcWhCVGhjWFBJRXh2SThLXzR5aW9tX3I3WmNYOXd1Q0p5QkJ4WXBHSW13NjlVR2x4UFF3b1Q5UdIBowFBVV95cUxQTlhScjQza09WUnZvRDJLWGRKWXlfN1laR1RyNXdzSEhFTE8xeExJVGstSlIyRFgwVWhhcS1jczVpWDhzeE9oX3NwQ0pkV2plZnc0VlZuWTNKaVBBcXBaTk5fd21BaU5PQWhsLTVtSmMwN0c0OVpTNmFla1RaU1BJZmJha21mM3lOUHhsaWZmOS1Jc0Rmd2FqVERoUjQ0ekIyR21r?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Manila Times",
-   "region": "PH",
-   "date": "2026-11-13T16:13:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f03b972dd0",
    "title": "Super El Niño, extreme heat and human costs",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3FFMmFGcVdSQktoUmdlWndyTE8zSGdQZGJCQXRDcC0zemdvcE5RdmJjeEVCQnBFZ1lLR1Zoc3hObUJwblRsd2o5emZZa0I5QTNWUEtXR19HckJkdFdwbmdMT0NYU2s5TUVGcnJ6dW4zT1NaR19ZbUhjeXdIRUFKTXcxV1RNRnl5M2dKcHBIQUNVTlNjVTdXR0tHaUFKTnVBWFRUdXlJTmwwOVRJM3lvOE8zcUY?oc=5",
@@ -500,6 +449,23 @@
    "topic": "Society"
   },
   {
+   "id": "c06b9a20cf",
+   "title": "Delegates warmly receive DOT postcards, ASEAN commemorative stamps",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0Zkb0pWTENyWXBtRTNIaHRZV1hMajJYUk1xRmQtdlhidTdrbGZ2OTdQZjhVX1pfT1FqQmdoeE9tSU5MTWk0d0s0MUZDT0RTaV9XTkozaDV1ZXRkQVdEOURET2I3NTNrbVdBc0ZfaTFtUzQ1dDRlaFc3aFFtUVZvaXNJSm9PdVItTzZrbFYzaWxuendG?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine Information Agency",
+   "region": "PH",
+   "date": "2026-11-13T15:46:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "225493b70f",
    "title": "Sol y Vida Recognizes National Diabetes Awareness Month, Honoring the Families and Communities Leading the Way on Early Detection",
    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMUo5NURnUmtBdzc0V3kwUkVqTFZvbDcwYjhTUHdaai1MRV91MDBqMVF5Z3VFTU9abG1XUVFpTzA2cnlqN0tKY0VudmhZQWxWNjhic1hIWU82eVV0eXpKSk50Q0xrVTQ1QkU3UnJDa0hHMXBXWERtTUl3WV9VUHBpZ2JZUlAxbUxIZDBPN3VZN3RZNm9GV2VsOXNJQnBrOXpLS2R5VUJkbHZCVXZZYTlXOHRSQVZhTVV6cXJISERuTEl3cGtOWWlReHhua2ZuWTZFNjVQbjNkYXVVci1zd1h3Mms1cnBZOHVBcVJQRUJwQWtWcDdIdFg3VlNkRGFQYThrekpZeDhBekNuamhnZlBmeDZ5dUhXeXR2Rk9lZWNnbnR3TmZNNXlWTlJB0gGvAkFVX3lxTE8yd3pxVS1UR1RiU09mYXUyNW1GZkhrUExmTlNzVjZWa1BJb1gxUThkSVVWSFczUWhySHVjbHdYNlRhV1RtbmdIcW9kR0E4UkV1Vnhoa1hLd0hqdHBLTnpRZ3gzUFFjU2lPS1AzOHNUVnd6UzFfQXVhMW5uVjhiSEFaSFEyeDl0bFJRejFRRTQ2N0R2dWw5aExPbDhsUG5rczZUTUZDV01wOHhNaHNKMS1LSjVFLXZycWlMRDBSRXM2NnNsa2I4QkxFcGU4SzF1bkdfbUZzdTd6S1R5TE04Um9rdElfdFFHbU5kcjktZE91Z0dfVXhLQW1taThrRGF3UVVlZzZJOTB6LW9vbkZvUWU2RDk3RDNKWkJDZ2c4UUdwemR2Vktidy1OR1NSSm5Taw?oc=5",
@@ -508,6 +474,23 @@
    "source": "The Manila Times",
    "region": "PH",
    "date": "2026-11-13T14:35:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "915d3ae754",
+   "title": "Tandag City passes NSED evaluation, strengthens disaster preparedness",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPREFLZlJMQ2JoMTNiX2tiSVBQc3ZSSG13Q3pPLVN0bHhYWHFjRjZMcm5XWndTdkNfcHREMjZ0cVpwTFpTS0w2c01zN1Z5a3pqUEIxSzVXb01IenJNWUdKY2E2ZVZwSTZ6X0EtR0JPR2JMT2gwUFFadno5S0gxNTlqUEFjcjQxNFV3eFBMSW5LZ0Jnb0taWUJueA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine Information Agency",
+   "region": "PH",
+   "date": "2026-11-13T13:20:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -568,14 +551,14 @@
    "topic": "Society"
   },
   {
-   "id": "303a816a8c",
-   "title": "News Releases - DOT showcases best of PH at 49th ASEAN Summit",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm11bGE4allOZjhwa0pzczdWVDVWbXNuaGZrYldzeHZDTTZ4OWx4N2JSYVpjaXdhNjBlVDBiRjRIWHUwcWhNQ3dsc2hrWGVyOW1CcmlITkExQm9fcHVhRjZkRUhVcXZzdE1OU0d4VVJJVTB6b1BGYnlPa2pvRURfN0xxQldGUQ?oc=5",
+   "id": "689186aeee",
+   "title": "Summitry: APEC and Beyond",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IREtKY0RDcEZNem1zbmNpbG12ZG1WZWRNVUVxWWNzemh0Unh2eENvTV9xY1kxQWN0RHZTVEtiYlRxbjBxQ3JpbW5Yemc5OWZzY0tzYmhCMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Presidential Communications Office – PCO",
+   "source": "International Centre for Defence and Security",
    "region": "PH",
-   "date": "2026-11-13T09:43:01+00:00",
+   "date": "2026-11-13T08:50:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",

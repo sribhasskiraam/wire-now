@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
@@ -160,6 +160,23 @@
    "topic": "Society"
   },
   {
+   "id": "af8b97714a",
+   "title": "Linda Mwananchi rebrand sails amid internal revolt and legal battles",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUURYalEySWUtbTVuYktvNnZNRjluRHdSekp6eUFvbzQ4WGFUQlUtLU9QVWRiRVRDdVBLb1J0SDJRc0p2czY0X2ltQk1aald3TGFhZGZ4UGtzSlRfVlpYSWY5Q2dVci1UeE1uNDFWVjkwN0lxc2l2dE1SY3FONkpEOUk1X29paTlQcU4wWkM3alJTbXM1SzhRNTcxRkNINHA3WkZJMFdXUElpdXRlZWVLNDVvdkVQUkNyZzJGNVhLbURFeTZMQ0JV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Standard",
+   "region": "KE",
+   "date": "2026-11-13T21:01:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "92371dadcc",
    "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2ozaDZHbkhsRk5ETmtLRHlicTEta2hsOW5EMGI2Qlc4THBOLUdsZDVmQlhwSEFWNUphSWRjSy1YWDVVUVI2bU9IdmstVkhwTFBtRWVrcTllYjNYamJuOUNQSVdWSXpha1V3Ylh5TVh5MGlzRF9sMlNyRF9FMGcwSjJUSTBkYllOY25ld0JOMXRsd1FTM0xQeHZYbmlrcnhOd0pMWkk1Rk0?oc=5",
@@ -175,6 +192,23 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "d298231c65",
+   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "KE",
+   "date": "2026-11-13T19:53:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Tech"
   },
   {
    "id": "92cf8d3e1e",
@@ -228,6 +262,23 @@
    "topic": "Tech"
   },
   {
+   "id": "7bd5356b33",
+   "title": "From an iconic river to an ancient city, here are five places where nature is on the rebound - UNEP",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR004U2NDeVBzeHByWGptSVFJNGZ3N2hJNlp2ckFmSi1aVEYxUWp1SVlUajJwTmpTcXZkUjB5T0NDajJIb01Hc2JxUDhxWjlaYTItUjNvNGNsQmhxX2JHNy1FdjBHcWVZS1dGLXFPUEJlZ2UzZmxNTXhBUUhSdjkwOUp3TlZxYm9wSHV5YndjSzVlWEMwOExCR2N0ZE9GM0ZuMUVNdnR1aFlXU1dqZDR4dVBfYk4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "UN Environment Programme",
+   "region": "KE",
+   "date": "2026-11-13T17:01:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "68e4c4fef6",
    "title": "Premier League reveal October Player, Manager and Goal of the Month 🥇",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0tiQUgyY05HOXpXMDd4bFJpM3Y2eWRoTzZFbTVmUW82MDFkVnR0WEYyX09CdW1LcHNQN0JwbGhueXp3NUk4Z1dTVEc2N0t4QWEzcGhKUjNhLUw2eHVOdEVTaGpwSkdDdFlmRE90UWtFa1NDVjNsS0hneTVRX3RYR0ltRkhPVVVpMF9aYVFn?oc=5",
@@ -277,26 +328,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "0319b144f8",
-   "title": "Netherlands vs. Greece Nations League prediction, start time, how to watch",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa3poZF81QThmOVllZlVEc2FGNC15SF9Oci1zYmdJQWtiR3BvMGlNX2huMUthME1kS2hwbjlWWi1aUDNNakpFYzROTjZNaXZ5UzU0bzFzRUtNcm1uYVc4c1VmdDhZRmJORTlabjdEZFRBWFU5b2llT0twLXNoRnRpWHlMVUhmcEFYS1JMZzdlSy1rTTBkaW9SaDdZcVc3cnN0NW1qQUlzVjFmcHZBS3YwdURhSXlZT0NBTWhoMDN3NVdzdGFXdFZTbmo3YW1BUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "USA Today",
-   "region": "KE",
-   "date": "2026-11-13T12:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Netherlands",
-    "place": "",
-    "flag": "🇳🇱 🇬🇷",
-    "also": [
-     "Greece"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "b7e88ec2ac",
@@ -486,36 +517,19 @@
    "topic": "Society"
   },
   {
-   "id": "58f924cb77",
-   "title": "Mozambique: Number of Arrestees Allegedly Involved in Bishop's Murder Rises to Four",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcGNRRGFkVlQ3a2liZWQtVUphbHU5ZmJKbW5mTWMyMGlTWDd5bVpaTnI0Tzk4OVppSlhnRE92ZXFfSV9TMklnelJuSm5XWlpDejNmZXhnVUlrdVU?oc=5",
+   "id": "0f07233ceb",
+   "title": "Samsung takes 69% of foldable shipments in Q3 2026 on the back of the Galaxy Z Fold8",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVV3MVBPYWp1OHBZN1hzb1h4SnZKWjZmYjNyWmtRWnZsajV3SlFEdkRTbWxhQ2Y2MmVNMUF4LUNIOUV6a1FNZ3MxMDR1VGZmb2NCMm9nekpfdUt2US1GTjFmelRQQTF6eXFXZ3VVcGRUSUJKcFlFeXpKRXFpZGM4aFpZd0cwQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "allAfrica.com",
+   "source": "Techish Kenya",
    "region": "KE",
-   "date": "2026-11-12T10:48:21+00:00",
+   "date": "2026-11-12T14:36:52+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f1d304090b",
-   "title": "Mudavadi heads to Ghana for AU financial reforms meeting",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzhWLTgzb0d0aUlENXpSeWxPanNpZE4zcjNTX2EwNThCOWNEUjQ0U3drZUtYMlJZXzItNzZDbGxTU2tKNnRrSmE4SDZVOTlXYlJhVWxMdExYME5wel9xT2xUMVJaNFc5Y3piTG5QVUN6TEg3ZzdPRDBDbmd5aVRLeEFlSmVCMEJjcm5Ra2hjLXdHbUd1NEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-12T14:16:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
    },
    "topic": "Society"
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
@@ -150,11 +150,11 @@
    "date": "2026-11-14T01:49:03+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "Malaysia",
     "place": "",
-    "flag": "🇨🇳"
+    "flag": "🇲🇾"
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
    "id": "a0fed2db16",
@@ -216,6 +216,23 @@
    "source": "Free Malaysia Today",
    "region": "MY",
    "date": "2026-11-13T23:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6856e364e4",
+   "title": "5 biggest issues Mauricio Pochettino will immediately face after arriving at Man Utd",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1IyREF6b2RKM2xGXzZHTUI2RE1HdFRnZWJnemZCR3M2aXlCWUNCX1BUdWlYdFRWZ2dqVEt0aHM2M2l3QWhpLW1jeXEwWTVhaWh3dUphYUdDTXBEb3NZM1hSUDE3MmdLQzRianpGLWpyNHlVMmNwdHU3RGRHLVFkcjRtY2xWVFBBWFFVYWhR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Mirror",
+   "region": "MY",
+   "date": "2026-11-13T17:21:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -310,21 +327,21 @@
    "topic": "Tech"
   },
   {
-   "id": "515a5d3f0e",
-   "title": "Port Klang low-cost flats named dengue hotspot",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkdJRE1tZTZIb19uOHp1dW9iemNoUklnUDVyb0JObEdPUEtVcmUtb0o2aE9DT3hRaHJBX05JV3JDLWdiUG9TVGI5R2JnTVY2U1lsM3RkbFJ2N0FzTzkxeEpqNHlIblF5T09TRW4yWVJjVzZJVzlPekZLcnRXNThzZmJ6NkRhQmtrRElKX210b21VMEp4al9WV0lKeC1IUjNTai1N?oc=5",
+   "id": "3c8ef5c695",
+   "title": "Jensen Huang's tech superstar status made Taiwanese feel special",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY192cTlCOWxDZ0hrSElvMG1qUnNxbGdxQUw3UnFLVURSaU5tRUpCelowdW53V2l6NFUyR1g0QlJMbktsMllabVhPM21nX3hDUHJUcWdHSDNyemZkQjJEMjYyLVJpRDAzSzVnMmtvM0dvMmwyek1pa09RMXlqdHFDanlha2ozTW1ob0ZBQXpYZEExTUJoX1ppcWlNenhGUjM0TjN4dHlDN0Ftbm9ZTU1GOWRSZ3dwUW1yS2c?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star",
+   "source": "Reuters",
    "region": "MY",
-   "date": "2026-11-13T12:14:00+00:00",
+   "date": "2026-11-13T11:00:53+00:00",
    "coverage": 1,
    "location": {
-    "country": "Malaysia",
+    "country": "Taiwan",
     "place": "",
-    "flag": "🇲🇾"
+    "flag": "🇹🇼"
    },
-   "topic": "Health"
+   "topic": "Tech"
   },
   {
    "id": "0b0ad08f16",
@@ -518,6 +535,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "cb5254026c",
+   "title": "Structured Exercise Prescriptions Should Replace Casual Advice for Lifelong Brain Health",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdy13VDhiN0JQdmF4Y1lBOFY1c2VELW1pTlUzelRtSzhLa2RKZnNjallUZndrVjFDd2Q1VlhpakU1YXJCclpxcmgwbnUwUDc3LUpCbE96S1QyYjRRVWpxamg5QlFvbDhQZTItaG41VExGVy1vNUViRWUwUzMwUWJEMGdDTlExMTJzMFNxd2JlMG5XVHpDWVpsOUNCQ0JBMWZUbUk3WmJGYklmZUJCT19pQ3BGVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bioengineer.org",
+   "region": "MY",
+   "date": "2026-11-13T02:37:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Health"
   },
   {
    "id": "32871a0fbf",

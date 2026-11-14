@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "Hindustan Times",
    "region": "IN",
-   "date": "2026-11-14T07:36:02+00:00",
+   "date": "2026-11-14T07:40:51+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -28,7 +28,7 @@
    "image": "",
    "source": "The Indian Express",
    "region": "IN",
-   "date": "2026-11-14T07:34:46+00:00",
+   "date": "2026-11-14T07:40:06+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -75,23 +75,6 @@
    "topic": "Society"
   },
   {
-   "id": "7fd82a479b",
-   "title": "Samsung announces Google co-developed pricing and sale details of its smart glasses",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORy1QQ2tlQmN3ZUZSeTR1VUU0OVJtOXgtVDBXNkxvSGpyaXVpdm9vMUxjd3FwemhKNWV4eHF0TmtFM2lmTTlZQk1IS3hNdU9HSHBIYWQzSnRLbEkwczlFc2o5TXRpdnlZcnF2eUlvUDljUnJBOWd5VEVWajNOZDBPYV84Nm8zUVdPZS1kRXRoMEtGaGhhTDJ2YWIxS1JXckY2ckRYX29oeERPUGF1SDQ2bGJ3MmRDdTNmSjZIdnBGSTFtQW5seDNNWF83cVBLd3QxSDNlNlkwbEVpb19wU2VyOHpmcWtHNEtDTzF1ONIB8wFBVV95cUxPVVh0dTlJNjNLcFZ4cktUX3plMnN3QWx2TlpXQ091dFlTd0I2LTZvUkx3eG5IdUF0cGFQQlhfX2E4SjVHemFSbHBYdGNtdW5WUGxGcGhmay1QTjl2eGNoREwwUDZTcFRfaEVOTzVQcEtDbjRHSlJsQjhtZExVNER6ajVQN1JHd3NrUlMySnU5NDFST1Naa05OYjNaa1lMTWNOVUhBUzUyTnlVNEtFNjlHWkxqVzl6bm1vZEhvbElVMC1NZFp1RnU5S0ZNYlNlTTM3Y3M3SGpYUWduelg2U25EZHlBN2k4ZFRSTWJGSmkzeWp3TE0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Manorama Yearbook",
-   "region": "IN",
-   "date": "2026-11-14T06:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "96ebb1fc00",
    "title": "1.13 million people died from TB in 2025",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmdpVWhkSGVHMXlDV053c1JWWGNqMUNmUUp0RTM2R3RTVjV4SnVkMURWY3U2Mk96bk52TlUwcHRxNGhya05GSE1nck1MUjZjS0R0VjJPMWc2T2xVUzRYOEVuYmcyRWI3NWRGTV9vSDFHS0dyYmpkeVhhajJMd2E3RTJ1ZUtmX1NFWW5BRS1fV2hkZ1RYS1BrSnZRMk82YTAxdzlFMWFPd2I?oc=5",
@@ -100,6 +83,40 @@
    "source": "Manorama Yearbook",
    "region": "IN",
    "date": "2026-11-14T06:33:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0a062f923e",
+   "title": "World Diabetes Day | Dangerous high blood sugar warning signs in children that need emergency care",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVW1JVGZ6RlpLalhMa1BaMmZyVXlHNDlvdGpOSEdmM0U1N0lKWjdoa2p1RmYxa05VaVV1TjFuZHhHcUZ5TlBHV3BYOG1UY09aWFRpUXVmbEJhbGwxMEVGOU1HTGh4dWRJX1NTVUdaTUU2SHhvMktNRmdkU1BUT1VQc1QyMHdNUmZ5NTgwMVQya2ZlS0piQ0c0MVlOR2Z6cGN0OXpRNElnUnFHdDZEYVJ0MkJhTENFWWVPUVdXc1FwRUF4bGVWZVlJeGFVSTdMNDh4VmNqWG8yVmNsRV9Gb2lYStIB5gFBVV95cUxPcjN2eGJMMVVzLVZOZFJyOFVOR3V6N2FBaUplZ096d3N6dUZzaHVlcmZpUGpiR2k2Rmd5S0JxdmpVM21VdlJpWlprZzV3UzJkLVE0UlpNZkZISjN3NUlVc0k4N3lZdnRBV3MtNjRQYmVCbXV5d0dTdGhxNmJUQVFyX1dPUW1ZSUtrZEpjeUdMVUg1RTF1c0FEUE5SbDI1SVp1SWJtZUNqVjh5aTRVUTFtSmhGSVNjN1kwV1c0dDl3OGNLdm56WWdoaTBUWmNEWnB4T3hldkVsaU1KU1lXRzFOWEZhaUMtZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Week",
+   "region": "IN",
+   "date": "2026-11-14T06:23:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6815552c2c",
+   "title": "3 Lost Foetuses, 2 Escapes: The Troubled Journey Of 'Dooars Rani'",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSElsUUZ6bXlleFMzZlYtY3k1MlRjQU1PN05GejJLTFY0SEhrZndnMjhhUWpNU3hhdXJ2QkJHeDVyQm1hT0pqQkZhN3Q1UDlDSzBMWU1weEVZWGl6U2ZnWEZLUk1Fa1hvWjlWSTRvYkMyNUEtU28zVE5kdkVCVkVVdjdWb3dnSnpJLWhtTU8wTVUyVmQxRDJORmhWY2w4bHhSOVdBctIBrAFBVV95cUxQMl9sY0dYNjhNY3BVY2ZlUG9teU96eUgwTFBCNnk4Ni1ZWDJyUWRraG9xM0puUVpPTmFRUVI3eHNuckFUT2dhS3JWT2tmVmdpSWJRRnV0V0VlQ3NQd3RLcGhaZGlSVTAzdGtiUUxxMFN6aU5GT0hLMDRmeUJqbDJZRTAzRFRfZXJrQ1dvRUF6M29QR01nN2Mxa3czVHZqZ2NOOTdFT0tGX3BEbFdi?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NDTV",
+   "region": "IN",
+   "date": "2026-11-14T06:21:44+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -126,21 +143,42 @@
    "topic": "Society"
   },
   {
-   "id": "88f61c88d7",
-   "title": "Ramayana Box Office Collection Day 9: Ranbir Kapoor's Film Beats Chhaava's Lifetime India Collection, Crosses Rs 1,100 Crore Worldwide",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWjF5OE9hV21BMW1ZYm44RXBvZ0JFN2JhZmZOclpYamxldzhWOExmQS03VTF4VlhsUjNwSWkwQ2JMZGVkakVNel9oSFhEZ1hFVVZoRHZYNXVlRU50NGp2TzAxcG51VlNIemV1ZGNVYVp2aUprT2J6Umd5dWx2bUZKVHNmTWR3bjNXQzlJR25HNTdacTd1dUpuUUxHQXpwWk9KaU9lSDZvOEpnMEZYeXV2cnRzc1pUVXdiWFhLckpaUFB1T2VWSXpFclRLVnpuTGxwYjRwancxM041MFotTFhXQVFkSF9iY1NWeTJxT21HLVViUjlITldoQnl5YUZjNU1PQ2JB0gGLAkFVX3lxTE5xdDZSbmtMRWRRTlJOcTdOQlFRRW8yMTg2YzZSbmJwT2FZcEp1dktlWGUtVWlwWVdXdkRJamUwUVd5c0pVUE1ST01iN2pnYVFJSjdvVXpGc1BMY2tUa3VNSnlvdmEzcDFLVGs3dHRXa2lPZWRlWDdfY2RDT0s2aW56bVVyZS02NHFqVWtMN2IzNjNiUUFUdWJIMHpYZ25Qd0VhMXYwU29BN2VxTFBiYUJlZFRNVVBpV04tRkllUXpKOVJOUE9POXp0VFFMTkZTVS1LVjZURExOTDdpUGM0REp5bkQ4NlBYNWRyX3FSNnRvdm1KNDRwVDcxaEtGd2lqRl9kX1BnMmxxTkFTYw?oc=5",
+   "id": "c537ff521f",
+   "title": "Trump, Xi and Putin to hold first three-way summit in China",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmk0ejVORmZqQnA3RktiXzIxcmh3TTc1NE5CY3gtUVpQTkZ3dVNXencwMHRfX3BqVmN4Z1dtRGlzWWxkV0llVkY4VTB5Wnl5TlA3SWM4OHVuTm5BeEVkMVVQeUV2U0dFRDRFRTJmc05uWjBYOGxLREZDVXRHeFhpX2NNdVhlNVN0UlFYUXMwa2tkWlNad1FnM2xqUVhRSlZVZ0HSAacBQVVfeXFMUDhyd0hGVV9iWXZGcWRVVFktak5Cb2lES0U5eGY3UTdObG1pamVxYkwxbW4yVW1oUXN6d2RzS2d1Q1I4S21VelFjODZnZUZNS0RrOTY1NEJFWG9JTHZRWXY3SDJRUVNqQzF4QWVIOEFHRTNUaUVPTUNJb3dwOU9Tam1rN0dFRW5sMTBaYlVBTkpwZy14bjJVc0xmWTgzZ2E2czVRMUd5bEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDTV",
+   "source": "Al Jazeera",
    "region": "IN",
-   "date": "2026-11-14T04:28:55+00:00",
+   "date": "2026-11-14T04:58:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8b4386ba66",
+   "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1d6N19YcmViZG5XbjRVV2V3enhYQ0M3R2VyLWxsNDZJRFZtZGZZMTBhRWtWY0lyRkJPdWU2cGhfSHRKZ1J3TWxNLVRlcWJVc0Zya29maHhsYXJHaDBZcExpUGg0bC04UF83eW50Yjl3Q2hiVnR5ZWMtM2xibEc2T0R4bkNvMTQyenRxTlVXWGNjX3gwalA4cU1oY25qVzVmd05fWGxPWXdGZlhrMmRfYzc2QnNGY3M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Android Police",
+   "region": "IN",
+   "date": "2026-11-14T04:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Entertainment"
+   "topic": "Tech"
   },
   {
    "id": "07cc61400f",
@@ -160,6 +198,23 @@
    "topic": "Business"
   },
   {
+   "id": "fadf18655a",
+   "title": "'High Time For Legislature To Consider Reducing Age Of Juveniles To 16 Years': Kerala High Court",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1oyejFpeTFQOFB5QklCeWc2TGR0OFhEM2dhUDRtNHRzTk5OTnFEQThlN2c4N0NJNmZCbUU5N2ZJYlJiTU44VzRtV3NJNzhaYjV3ZGI2dHRJRmNRVHBMb0tSU3BTVk1LMjB3RUR5ekxVVUwwU19DbURtaTdhbndVM2lXakI4Zk43dUw1bzJnWWJhZ1ItU2o5eU9Xc3FLNHFVeE5nclA1bmV0Z9IBrwFBVV95cUxPSGVuaVpyLVd5WjV3ZERxZy1zMzJuUC13a1Z3clJvZkpTcnhxWTRDTk5paFRZdjNSZ1ZEcmx4eXdMRlRqMEhJaktoOEhTY0JELXhyZ2g3dXlNUnlkLXdBMjZ1Y2tZaXNoUk9kRzVuZ3A4VklfZ0FwemZXMjg3YU00X2dLSXFhSXlkUGE2VE1hOEp3aXpGY01oS1JTTUFNZFgtMXZ0R1FtbmFTZmZvQno4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Live Law",
+   "region": "IN",
+   "date": "2026-11-14T04:04:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "536a19df32",
    "title": "World Diabetes Day observed today to promote early diagnosis and timely treatment",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3hvUU1tYTJyeV9jdU8wLWhBT2xOdmFPOEFscHNOX2drZ19yNldOR1dPeWhJdXVSVzY0dm9Pckc3X0plemw2dndBY0pOX1FCRmMxbmxpUS1wdEIzLVFCcmN5eThHdmhTVGY0d29LekJzUzI3VWp3UXRBUk9UODlhTUNlUEhfdENKdzllYUp0R1BXYUFUeHpVdGdZcHJGdlRSN1dKSVdLeTRDVzg?oc=5",
@@ -177,45 +232,41 @@
    "topic": "Society"
   },
   {
-   "id": "b2fd4a623d",
-   "title": "‘Introspect on your own prejudices’: Indian ambassador on US religious freedom body’s Sharjeel Imam post | India News",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMjhlMk9seS1hMXBYZG1RX3B4NEIwS19mMk5hUjV1ZnZNV3JlUmd6VlhQYXhVdEVYdXNkMElLN3ZGNWozWk1RcFp0QV9MYlFKZ0d5eURPcXNhYTFCX0JPM0FJR2VHakR2MWFPNVBCazcwVEVBUXI4VWhaS2R5YUJ5eTUzbERqdk0tU1pPZDNEVjBsekc4SUx6NGdXZUphNmRrczlSYmx1NmFBeWtEWGhQczhMVEExUmhnaENIY3VtV1R1QnFWeHdoZkpFbC03WURZVVJCNF9tR2N1cklLUEZpdS1hV0Q5VUNGN2tmN0R4TzF2cE5Kcmpv?oc=5",
+   "id": "7dd714af43",
+   "title": "India wants Sheikh Hasina to return to Bangladesh only after Dhaka's guarantees: Report",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHc0Y3lBSFJHeUZjcGdzR0kzM1hjRTQ5ZFUyQU82SFk0VUphdUdLemhRNm80Sml0V0MzMVFPNXlNZ3QtYXlwQ29GRFlNZXF3d0NTUTRwVlc5dWt1ZEdadTB1UUV6ZWxHSHllaGo4alp4Zm9VOGpUQ1BDS3BsZmh4T0UzSVJnUGhmZ0JOekFLZ0w0THJOODIyeHp3UTZTVmFsaExDOFZOdl8tSDVia3NuaHBrTUFiR25fcXRodE9sbDZjZUEzU2JvSl9MQ2RrM2VPNU5IZHFXbzHSAd4BQVVfeXFMTk5pOU9BRUVtQW1YNVBfSmxpUUp3N2x3ZllXVnlvb3hwYUZlVXZTRU1XZkhpNHoyTkhoRlFBeHFOUkNpUU00YXhkeTU5VHBGS21Sd19xdmhNUzUxMDBzcFd1UDNoYUZ6bzFtQVhsX3NlTGhSS0E4cEVkSE1QTTkzRUt5el9sZ3ViY0hLNlRCSlU2SWJycW9EZlN6WHZTLXpEUlhySXhjMl9KMm1KXy14OHpLNGFOSlR0VUp5aHFOekNKX19oTHE0RHBGMTA0bW1zcElNVDIwZHoyczdRbUln?oc=5",
    "summary": "",
    "image": "",
-   "source": "Hindustan Times",
+   "source": "India Today",
    "region": "IN",
-   "date": "2026-11-14T03:28:10+00:00",
+   "date": "2026-11-14T03:45:15+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
-    "flag": "🇮🇳 🇺🇸",
+    "flag": "🇮🇳 🇧🇩",
     "also": [
-     "United States"
+     "Bangladesh"
     ]
    },
    "topic": "Society"
   },
   {
-   "id": "fd39e9ce40",
-   "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEQ5Q1VoVkdRb01adXJnWXVmNG5oaFl4SjJobDdyVVFaUV9YN1NXSEE3RlhvV3FnMGU4SDR4cllQTEpBM3FUX1pqNUZUOHJOOVBVTWhDQzJUUkk3VllqdG5NVUlQeVB6VU9rT3FaSDRud2xFMUNpRjZSdHR1bUJPWDFPd3NXMmlWOUtyVVlmQWk2eTZueThxNGZ6OWZRTWR5TUx0b3NfcFhwVVduaHRoZWR6bk9uYlp6YzNkX19iOHBwMGhvcVJlTW1pT3VQc3lsNFHSAdgBQVVfeXFMUG5mTEtnOGtRVjBKZGhucERSQmdvdFVxd1hQR1JMVjlXd1lsN0gzdEhnbkdTTjExQVhpZUpQYkFxRkt6aWFkS051V2h3ZkFqMktidTAtTWQ0Z3lqWVF3d3gxZ25xZVZfcEZLbXp0VHZnaktNUWZoVGRlUnd6djhEOTMteW9sU2ZYY0tFeTl6TlRnV3VkUjU3b1A1S0hVVUtZTUxIMnM5OXJxLUl1UWRXRDZXMktOZlc4b05ON1RoVHVyWHQxRk4tSGNQUEo1aWVBd3dOcF9DUVEz?oc=5",
+   "id": "c09200dc03",
+   "title": "'Ramayana' box office collection day 9: Ranbir Kapoor, Yash, Sai Pallavi's film inches towards Rs 600 cro",
+   "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNTEs3cFpkRE1yNEV4UktaT2x2VVltZDVnbTZNYm5fTWVMd2ZESXNDZXhVZXpYZ3VjUVk3SjEtMmJBZDZoTEpISndhalRpNE51NzBvUnEyalBTcm9ncmlJUzh1N0REOHFTOWY3OU1vbjdCbHRxeUNFMXhyTzVFOXBWaDc5aVVoN09IXzZETFBZNHpjZmJkcW5tdWtiWXIyZFlYYnhUY3pfUWtHUmthVXg1NjVnMjcwekF5dThQRzdVWTVmYk44N0lybUZ1bFpsUlFYblBHcXBibWRFdHRKVzJ2RkRsbEtBMkp0WEk3cDZ5NkRtOXRWRUxkMldFVWljRW1wSFV2dTFXRU1iRUFnZW5SbTZBUFZQMUIteVR1WTNLeHpNLUIxY3M1V3kwVk9MYU12dnJ0YUR2TmdCcFNkX3VvY1h0bVFVQmtoSkhDUHFIeDVMck0tV0ZpVHJkTWo5QjdEa01rRlpnOHVreVczRm1IYWQxb1FtRUJwc1p4VUpNTERtU0s1N0RmcnI4TDVxQnEzR3FSblBzQVNJNHM5OFVpMEswN2tkakx5aGdzTHR3TmdVeHZkWGE0?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Hindu",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-14T01:47:23+00:00",
+   "date": "2026-11-14T01:55:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "India",
     "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
+    "flag": "🇮🇳"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "d3bb98312a",
@@ -337,23 +388,6 @@
    "topic": "Society"
   },
   {
-   "id": "29f8df88d9",
-   "title": "Identifying diabetes type crucial for right treatment, say doctors",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHl0VExiQU5Eb0pvRDJJQ3hIZzVWZlBleGFnci1rZ2RJMVEtYWxzb00xbWU5NGEyY2l0RWZDNmtaRFBvMElIQTZ0M2F3SEpKdWtnNno2V2ZuNl92TVA2Q3NfdE1MbHBfNzNhSGpqZFhmODdEaTVLVHFYWXUtbXNKSk1heEc3TlFjTjVydUFFZnR1Mm5QR2c5c29GVmNxdkRrLUNmVnpyVnVWU1FNS1poNlIyaTlOQ1ctdEk0Q2dacmVNOXR2ekRBYl95M3V2dEVkWUg1TTV6UHNuUdIB3wFBVV95cUxPdzBmdjNWN1RrVDNmUGJ3U3h1eHdvdlg2REFiY2NxbDVyWERCMjNtcW9iejB5WFpGai1TUjdVX2o1NUR3cmZGLVlWUC1nSXF5QWJFRVl3Rm03UC1DSWtJSEdYSlc3MWE3eEMxM1dQQUFCb3pQMi1qZnRhbXlHZlJ4Zk5NYXN6NXdZWTVkY2pMVml4LUdLa3A3Yl9fNDY1Y1dLdDNzRVZnUlhVU2tsWjY2MWtFaU92NlNrNFV5QWEtTUJUYUNLLVdxOHRocmhRVzFNOW41N04zbkhxdlEwZlIw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-13T18:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "d97dfd1988",
    "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFMDR3Wkt1RFUwMzBfWE5VbVppVFdKVmNaZTJuTWpKQkN4WlFheWx6a0xBMEM2dnNjaVJieHBfSmZWdjl1TXlWdkIwajQ2SFdhdW5kM3B6aDc1ZTBvNDdrNUJ4bjJseUp5eDdDaXc4d0RMYlZZelJkQw?oc=5",
@@ -408,23 +442,6 @@
    "topic": "Society"
   },
   {
-   "id": "e08119fa06",
-   "title": "Sheikh Hasina Wants To Return To Bangladesh In December. 5 Reasons Why It's Unlikely",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0xIM011ZzJ2X3Bya0xyNi1JQnBOTEluVHZBSnd5N01tdTJyUkR2RVNmU0JCdGpRRE1vZXdrdHlNV2dxWG1waXZ4YkcwUkNOeU1mYTRRdThGU2xOUEU5aE4xblZSbDgzMVBGMWJFTU1oRFdvejU0Z3F6aDRPOHprekRaMWpObThFTEpQa0h6d2JnUUtpMHh3NjkyUGpJd0ppZ3BZYi1lcEhKNnE5Q0c1dzdCRW0zWWNOWFI3ZGpvYk_SAcgBQVVfeXFMUFdxc3NhdW8yZjBuWXhhSkNBRFhtM2dOMGtzYjgwNnNHcjRucFg1eHpvQ2pUZ3lfN09VSUl5Z3RjTTBEZUhWTVRlbVhLbjdJRTZ3V1RPeGZ3WGVHNnJoaHQzQVVZZUlPZzNaMmlTTzlVVTNTU2JLS0M1UzRxcG5jVmlMVnlWWGthLTNVcms5d2NjaGZMUVh4TDhpYnZfS0x2UGZkVjdueEdaQ2lpU0VpWVd2T3poeE0zcnlJOFpNbHd3RFZ1aTU1S0I?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NDTV",
-   "region": "IN",
-   "date": "2026-11-13T16:02:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "44393ef73d",
    "title": "Samay Raina takes a dig at the box office performance of Toxic in front of Huma Qureshi on India's Got Latent | Bollywood",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZTh2TlFMZ0hROWpwMFpvZURkNFhmODAyVlFwbzdTOTBiRmw0MUFrTjhJZGVybGc4d2VtUVFEOWZqUGVTbTJFSmwzeVJUUVBmNmVxMjdrRk1vSHlGeDU2cTdLX2JEdnA5ODdWQk43ZzlINGtncndTRGU2WEpsdGZzOEdtbXExODlzRnFQaUdLclZkVElLLVF6LW5DZDZTZWFBOXhlZENTeVZEZWpJbDhOWlJpZGFIbkdjTGhaUEI2Y3JzUUxOaDFYeEg5U1pKMl80MEFkQ05qYmo3SHgyS0Z2WnB2S3Z3bjFtWE5YSjdsQzJaLUVRZm5FWm9KbHF3RDM4NVlkRDdSanFUelEwNWU4VGVR0gGXAkFVX3lxTE9iVndrUHBBRmdJS1NoaUxQYkdwRGRSTEJGMHp0M2kwR0hJNmJjSHdPSFRBZlRWWXExLUg0LWJ5blZVWXVxX2dYVTh2UVhPMlpYUERhSmlhaTA5NWl2MUg3MHh1TmVSRHBVd0xFbGlSSEhEVGtXeWwwY2dsWHJ6VS0yMDVfZGtwOU4zRTJ1WW1rXy1pM0JaY01ZVHVkMllDWkpIN0d4REp2Ry0xeFh1YmVZNlM4YjA5UWV6Ry1fWk1wR1Q3ZjBCWnhGc0pCYkhkQ0IxQ241aEVScXFnWEhCdW8wUUR6a3R4bVgxc1k0Z3BBbzl0WThQU0tZV0ZTUWdpWDVOQmJRUkZmaWpBaEt2QUJla01YMk53MA?oc=5",
@@ -457,23 +474,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
-  },
-  {
-   "id": "fe3d8c93da",
-   "title": "'Josh' actor Sharad Kapoor fights back tears as he sends his four pet dogs to a shelter amid family and h",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPeDMxaG1ZNzZyRGRDVHdQNVMwRGdudjdDWVlHdE9KbF9iVzlzaGh0SVBQVUNrTTRhSkl1Rlo4elh0TFRJZkcwYTZVbTVGcTdDZUR4MmlsVXRYeXlwRTRNU2JjeVg1TEhxR0psT1d6c2hRc2pyVm1iUjdoaW9Yb1Z5U2VCTFNubTJWeHEwbURBTFNHTzhLTWk1NDFqUHREWHluWktxRXBGWTBzRzlVVFRqa1RrVHM1bzd0UU53MUp3OHZhR0dPaFlzYVVXSGJnUWl0UEFVTlVoaXgxYlJwTzZDNHR2djVDN290enZobV9tbE9aOE5jUW9hZl9DOXp1aGJsX1FFMVhpRk5IODVsSkRmaGNfVk9vUVZRZm1HY0Z2d3RaenRqQlZseWxHaHJsTU9DTWJEWU9KZGlGVHVoWDJ4ck5qdWxrUXRGeGVNN2JlaFlsWEZVOVVrVG5rR1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-13T14:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "dc7548bc6f",
@@ -510,6 +510,23 @@
    "topic": "Society"
   },
   {
+   "id": "5af8e8809b",
+   "title": "Bigg Boss 20: Scout OP's mother raises concern over his mental health after he shaves his head in latest",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOb2FOUkdYbWN0ajczS3h6Sm1WYzRNblg1V1VwWFJTalVuUlJ2cFBFR3NXa3BDbkhWY3pVMEU0Y2kzdVNDUURxMVN6eE5aX19kUzQ5SFhDT3NpaTAzNVI1MDZuSzBIMmd4bTF6OVgxY05GZXFwQ0thZVctbWFfeGFKM25ia1RaVC1oa0t1dlN2azZMRk5lTmlpdERBQWUzZEdrNTNUWFBCazM5SFkzblo5T1NoQ05YbG4zT1lWNERQOW14eG5sUklhRnFaU00zOGw3c2U2YTVaYm91OVRfbWRxNmlZaWdsSWFuTG4zMm56YUlCcFU2T1hHUk95ekQwYVdJWUZKUXJNeXRyMThna1NZWV9mSFdnRE9xaWJoSFZIakVVdUZtODktbVI1S0ZhTHhPdDJlMmo1WUxjUmJvN0JvVjRsczF4c09ta3ZIUlhMWXVDdmxxbkJEUTBKUW1XQdIB4wJBVV95cUxOZjBqWm9JaEl3N0FHYlZSdml2Ynpwd0F2Z0VJRnBuenR1MWxBMU9ndTRMMGdSeEZkTmhnY283d2gtWlJORzBaZUlwVmRkT1RyTHJ4VXo2REkzcWtVdTM5NmxoSWdvVExrdEgzbmNPbjI5S2lGV2dTOFp1X3Z4OWxicnVRdnhMajNkRzh0eGlibTlKRnZia3ZBcW5XSThMREFJSnFQRm01d0dxSEJRa0JVZzcxNmJsektVdUdXbVIwMHhaOTlGTFZHWFlySmNwNWNYb05wUThZdzhuSC1PZGR2UW1EMHZFX1E4VHVlRGhla200dDFJVndocUdQZFU4NFNWSXFVY01mQmZ5UUtCMERsamxZNDNTSExraGZmbGdnT240M0x5T0lUMktxS2dMaWFyeWE3VVI1QkZSZjNZcVJnVGppNFdZeGh6N1RZbEdsaGJBa2ptaHBKQjZWRnhlOVR0TkVv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T10:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "d93f23ed3b",
    "title": "Who Is Maruthi R. Akella? IISc Honours Aerospace Scientist Whose Algorithms Guided the IM-1 Lunar Lander",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUd2RU1XU0M4eG1iVDJKNm1UaTcwWElpVkNPZEs4emQwSEdscWJicGJ3ZXIxZ1VFWVUySVJHRWhsamZDYkhrbFdwZWtZa2xXVDZKU1ZuZ0dGbDRmek1oN0ZydWFxdnNncnpRZ0RRLWtMNEJaNTlOQ1ZXeTRIa2tXZWhsRV8xM3lsUlRnN2dyd3oyd2c3MkFRU05tdFZvN2FWRDZjak1FWXNlM2NLVU9rQlJIWTdKSmZnakxjZEJOLXlqRHNZbWRKVV9NYW9EZjFWazFJag?oc=5",
@@ -527,14 +544,31 @@
    "topic": "Society"
   },
   {
-   "id": "983259c865",
-   "title": "Google launches Gemini 4 Hydrogen AI model for faster coding, search and everyday tasks",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRkc1VVp1bWkwV01XelZuRm1XUVhHN1l5ME9uY2N2YjBiRUZNNVgzQUJKTEFsRXRZMUlxbWJac0d0YUF1b09PaUdUTTVPRllROHZyQ2dQZkFCdUhYYU9CYlZVUDJSZF9mUVhXQWxqNkJKNnY2Z01sRTJvTHA0V3lJYUtBMGZJUVJkUWZiQ2kxdGRGdnFaTWw4RzNmTWZkM1lVZm1iRmRKeTIxWS1HUVhsZXZzVl9DeFdIa1l5M09zSmJya0pYQnhNOVMyTHgtUzdwRmJ6M3FBYkxyaHd6M0FSVFVMSThpZmN0MzB0ZGFZRUhKWVdvcHhHQ1VRZUtpZ9IBgwJBVV95cUxOaFVPRmZmSFRtb0o3WHhBWncyU0ItY3BBSjVJWGVmNHYyNG1MU3Q1ZHpuX0loVUs0OE4tSEpEZVJFeTh2M1QzSUcwSU1Xc2xkT01jNmVpVTVwU2piTWN6YjdSRkNXUmpGX3BjQ0VHWXZqUHFIaG9PU2FnMDV6QmpwWF9wc1FhVGNZd05TMDA1aG1QX29tR21lNEpKZklldnU3eEFYTzFEQ0MwbVN0VTJSOGhjUWdpVGM0akFCRFE4Qi03bFp4aHA4SHE1X2MwZGh6Q2NyUVFaQWVGMEV0Q2ZUYXVIVzRwYUI1RUZRMkZUd0NXcEFIQzVLekdXcnZFYXhXdUdR?oc=5",
+   "id": "6500b8c8c7",
+   "title": "'What Happened To You?': Sharad Kapoor's Health Sparks Concern After Viral Video",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY0ZPSVdualhGRGRIenJ1RkJGYzZ2a2JCYmh0TjgzVW9tVXpNNUM4Vi1rTXBYRDY3b3ktTkJHU0JWR0g3UlpJMURZdERCanNqbU9YTjZ1cWN0blRqUDRsSll6NDNNOWJHSk1TQ0hscEpicWdiM29BRUxlZVVyZFBjTFhoN01sd0hoTmlTZ0ZiNTduSnNhWjVtTUJKSjk3RENyV25sQnBHNzVFWU5CemNOYXR0cThLdWRjN0hsQkprSTBUNGxuSl9rNEJ2T0llX2VlTFR3RHczVWFCWjJLb2xNNUI3TdIB6wFBVV95cUxQSUpObFZlSGgySWNFbzdLcEp0RnhvNEN0QUNyV3ZKYXlSQkFiYmdmNmhPVEFqbUIteWVENWV2QzRpU2VZaUw2dVAxRW9ndXNfWXZ1T25wd29KcnVWSVNyWkZBbFJkOHU4d1dZOXNsR0loX1FUUDh0MkJaSTU5ejdBZFdmMUg2YVFEcW54VEdjc20wdjMtRHhLMVJUVVlDa0g5MWMtdGNKVFRRbUJiMzFxSU5iVmNiNlpqangzc1pSMzB1Y3pWR3g3UTZhN3laLWhqTG1IZUpLeGlGN1NIX1FFaWVwT005MWFpem5F?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times of India",
+   "source": "NDTV",
    "region": "IN",
-   "date": "2026-11-13T09:24:00+00:00",
+   "date": "2026-11-13T08:59:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "4f81ced23c",
+   "title": "Google rolls out Gemini 4 Hydrogen with 2.5x speed boost, four reasoning levels",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0Z1WWNTZzJhMV9fUHhjV2lTeDV3Mm5wTlFBY2g0UXhOWjVVMjNldFNfTVBVV2FaSDB4M0xwcVd1M0czSjBVLURzVFFVS0hQZzNkSl93ZlVGT3VtTmdMdmoxS0t5djd6QTJsVGY2bUJ5c1ExdVFlM2ZOVmtaQTV3MW4wam9yN3FRQVJvZmZtNV80cVJoQ1dReHNIZmE3bks2c0RvQXpPOWVDOUlMTmFVLWZQYlJ5THRGYm1zY2tqVnhYVVA2TmRLM2t1SzBFOExkSjBET0xGYUZ2Vmlx0gHjAUFVX3lxTE9KQjdFaUN5M3lYbUl0V2ViZzc3aGNBWHdfUVdQT29ySWU1LUtLLWFQd0VPaW9wMFRLUzQ3Mkc1dUJHSHNkeXUtN0EzQ0dOSjRxZy05TDdOZkVqSk9oTWI1MFItMHBCUWkzLTV0MUREMFhCZlRRUERodnhHX0hBUzZaUEVVODR0UjF1TTdtN0E3eHM3ek5OQ3p6Z2lFUjZwdU9VbHRXVUhGdC1CUG4yTEtOMy1yc0hlR2NzZE5LRFNfXzhDR3BlNnJMYXM0MU9MOTdJM3Zrd3FmTlJvZjROang3VEhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BusinessLine",
+   "region": "IN",
+   "date": "2026-11-13T05:03:20+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -544,31 +578,14 @@
    "topic": "Tech"
   },
   {
-   "id": "989805e8dc",
-   "title": "Ramayana Vs Dhurandhar The Revenge Box Office Comparison: Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZVg2UDc0UHNzdDh5OFZ0ZXpBUkxhNW1PNmZYZVJsZVpIR01lZEJDVEE2VHF5WFhUaWR6dTM4cTRRa2RJYnIxaFV3VllTRUV4dGJVeUhHa0FhNTNCa2xxUDJEeVpXNXV0dmh4VVRPcTE4cEFYY3VRa0IyQzFWNkg5UmtDNllOUV8tcFRzNUVsRUV5TndaQUh4cGtpSmlsMUhVRHhxcWJHTE5Ub051U1d2S1VpNGFremJ2UUg1UnM3ZFdPTUdicUZrazFISk8tR2JfS1JEcmhiZVBCbk5NTlpCcnpEUnRZT05CUmlfV2VZb2dMMXlYZldqbG5fOG1Jd0xkcy1NSXV2b1lJU1NJZ3kxRkFScE84cE9qSWVNamM5TW3SAaYCQVVfeXFMUFdRbDRoUTZLalFhMy1xNUZPdkI4SFU4RWM2cDBBT0F3OTNDSGEzWlJNYWZzeUFXSmhGeEdhWk1qWDRtWGFwdElGeXpERlVKNnc4NDFMblRyZ0s4NzEtaUszSjVNSGxsMnRZLWIxM0dOMlYwVVpCU1d5NkgtYnlkMVZtU3lTWU5ybWstVlRsSVFqU0tKM1ctQXJjWWZ4Ym5XOEFiZ1ZHcWhYSUstdUNHY0ZhVmNKdzUtMTg2MXg5dkVjY2dycmxIQ2JuaWw0cjU4Vi1DOEdSdHVydm5WckFjNXd5djN0MG1Qejl0dE9IUWprWHk0VWpzSnczSTAwWnB3aGJzbi1YeGlVY0hlQUNEbWtOOTZZYlhxRmlXOXctR0FvN3RNakFB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Pinkvilla",
-   "region": "IN",
-   "date": "2026-11-13T08:08:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "2db3368790",
    "title": "Cummins threw Khawaja under the bus - David Warner",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1dWeFRpR2tFblNDM3psU1VIdjU5SzRxUk9ZRWw3M0Y1VndEcFVkUDZjN21mXzRlUkE0S2lxM3paTG84aWJYZEw1N1Fxd0FSVDRIQkM0aWYwQnEyRC1FVlRhbWZGR3JnQzAyT2ZsQVd3RFB1ZXBUTHRkc1JDZzJsSXdyWmdYWEhwS0xoT0U0TWhaa1ZsUHdMeA?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Cricbuzz",
    "region": "IN",
-   "date": "2026-11-12T10:00:00+00:00",
+   "date": "2026-11-13T04:11:37+00:00",
    "coverage": 1,
    "location": {
     "country": "India",

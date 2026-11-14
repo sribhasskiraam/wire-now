@@ -1,13 +1,13 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 33/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 40/80 used today
 
 OK   Google Top Stories LK: 38 stories
 OK   Ada Derana: 82 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 16 stories
-OK   Daily Mirror: 80 stories
-OK   Hiru News: 94 stories
-OK   Newsfirst: 18 stories
+OK   Daily Mirror: 82 stories
+OK   Hiru News: 92 stories
+OK   Newsfirst: 19 stories
 OK   Daily News: 59 stories
 OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
@@ -23,19 +23,30 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 94 stories
 
-Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (8 outlets) | Microsoft services begin recovering after glo (8 outlets) | All passengers and crew on New Orleans cruise (7 outlets) | African Miss Universe beauty queens in limbo  (5 outlets) | Rs. 56.4 Million Awarded to 40 Distressed Sri (4 outlets)
+Biggest stories right now: Microsoft services begin recovering after glo (8 outlets) | All passengers and crew on New Orleans cruise (7 outlets) | Trump, Xi, Putin to hold historic meeting in  (7 outlets) | African Miss Universe beauty queens in limbo  (5 outlets) | Thousands of flights canceled as airlines wor (4 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newsfirst [1 outlets]: Suspect Arrested in Narahenpita Over Illegally Assembled Jeep
-    important (serious news) - researching
+* Daily Mirror [1 outlets]: Tea auction offerings rise to 5.4 M/Kgs
+    no AI summary: saving the rest of today for important news
+* Daily Mirror [2 outlets]: Budget 2027 backs stock market listings for SMEs
+    important (also on Ada Derana) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [2 outlets]: 23 months from politics to corporate life: Kanchana Wijesekera says he
+* Newsfirst [1 outlets]: The World Is Coming to Beautiful Sri Lanka: Music Puts the Island on t
+    no AI summary: saving the rest of today for important news
+* Reuters [2 outlets]: EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese busi
     important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* Reuters [2 outlets]: What we know about Chinese businesswoman Alice Huang
+    important (also on The Guardian) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -44,51 +55,16 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-    openrouter failed (IncompleteRead(484 bytes read))
-    attempt 1 failed: no AI available for writers (last error: IncompleteRead(484 bytes read))
-    -> no cards; posting with the site's own summary
-* Daily Mirror [2 outlets]: Danushan and Sumanarathna best at ranking golf
-    important (also on Daily News) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* Hiru News [2 outlets]: Microsoft says consumer products services recovered; still monitoring 
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    article too short for cards
-* AP News [2 outlets]: Passengers wait as flights are delayed and canceled during US-wide gro
-    important (also on Al Jazeera) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Protesters heckle Hakeem Jeffries at Democratic conference
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    openrouter failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    "code": 429,
+    "message": "You exceeded your )
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
     -> no cards; posting with the site's own summary
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    attempt 1 failed: no AI available for writers
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
+    Google reader failed (503)
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
@@ -97,17 +73,18 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     attempt 1 failed: no AI available for writers
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
+    reader service failed (HTTP Error 403: Forbidden)
     attempt 1 failed: no AI available for writers
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 0
+  photos: looked up 24, found 2
   photos: 14 too small to look sharp, using the clean cover
 numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
 What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 10 story pages for Google)
 
-Countries: IN 36, PK 35, BD 35, US 35, GB 36, IE 34, CA 37, AU 38, NZ 31, SG 31, MY 33, PH 35, AE 35, IL 36, NG 33, KE 31, ZA 35, GH 24, FR 32, DE 33, JP 8, IT 31, ES 34, BR 34
+Countries: IN 37, PK 35, BD 35, US 35, GB 36, IE 34, CA 37, AU 38, NZ 31, SG 31, MY 33, PH 36, AE 35, IL 35, NG 34, KE 31, ZA 36, GH 24, FR 32, DE 33, JP 8, IT 31, ES 34, BR 34

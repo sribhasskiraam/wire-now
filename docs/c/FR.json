@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
@@ -245,6 +245,23 @@
    "topic": "Society"
   },
   {
+   "id": "4d1e83ec5d",
+   "title": "Résultats EuroMillions: le tirage du vendredi 13 novembre 2026",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGNPUERNdTRGN1AwVTJEemJDYmlINDVpbUZob2xGUkR5d3NnQ3U1WlZpMXQxQzR5TUpMNXpjZUt0dGRiR1pBTGlYQktwa3VVUmppZ21BZmt3bmRVV1lFbnFEQVJJMnRLOUdHSkFkZDlHUlZYdUdoZGFKNS1CQ0hMVG9NcTI4WnpVMHU2Mngzak9RcVFLaENYSXBGRUtvSDk1LTV4YUs3WjAxSkZjMXdZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BFM",
+   "region": "FR",
+   "date": "2026-11-13T22:20:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "00e57cdff9",
    "title": "« Je prends du recul » : l’ex-ministre de la Santé François Braun se retire déjà de la campagne présidentielle de Teddy Riner",
    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQc0lYbk1kREI2OXJQMTBZMk9kekNPbHVOZjk1Qk9RUHdHRkE2NVc2Wi1hSWJ5Uk10SGR1Mi1YOXJXQUZIbGk3WVdIdVRMaW5UVWduTTBjTzl4Y2J3R29QME9oMWNyMEt2NkUtaFB2VjhQUENJeHlLSTVXWTQtS3RzTFRfVU80d2JoeHRDcUQ4eV9BeURib0xNenFlT0xQRE5YUHVCMksxWUVwTURMVmRLaUpQemFwLXFCakttdVNyOVdpRXpwZTJWbS14LXpFWHUtZm5jTXlQNHlpVWQwNHBMWGdoZ1o2TDlab2kySm1YaWp0S0tXQ3NDLXN1d2F1YWVZTEFEYVNSc2h1RXl4T0tzalJaQTlWQ19KSTVsOURFeDM4Sk45dkd1M2VUNXROMF9SRFJKMmlR?oc=5",
@@ -304,23 +321,6 @@
    "source": "franceinfo",
    "region": "FR",
    "date": "2026-11-13T18:43:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "04d458cd4d",
-   "title": "« Il y a eu non-assistance à personne en danger » : les confidences de Rosalie van Breemen, l’ex-femme d’Alain Delon",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUUFlQW83aWhVOEUzQlREZXcxUDF3NnRyZ0Q2ODBpR1hDRVZtbEpUREN5UXJjWmY1elVUakktWDNEWTFRckpsMWdjTmJsWWNqSnlSeVoyWEdfanhBYy1zRWxGR3lLR09BVmdQaVZNdUZrbDh5dzZKU05CS1E1aXpvcnlmSnZEWjlkQkExZHlTanRkeGUzSFpfZDkxSmZkSXpDckFPdHJ4bG04NmhNQTFDQ1p2UWNKSmFqTWlDbDR2RlVDTHNwenFmeHE2a2VOYUNwZV9jcE5OZ2ptLVM0bDhQcWdkSzhOM1BYSVhONDNJRDFoRERBM2YyenBlWnM0MzhFUDZianlEMm1YbG9ldzFQZktRbGJ3a2JaTTFTU3Q2T0UzalNt?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Parisien",
-   "region": "FR",
-   "date": "2026-11-13T17:53:50+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -457,6 +457,23 @@
    "source": "Slate.fr",
    "region": "FR",
    "date": "2026-11-13T10:55:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "85fbd5dae6",
+   "title": "\"Brun, yeux marron, pull bleu torsadé\" : 30 ans après la disparition de Marion Wagon, les enquêteurs sur la piste d'un nouveau suspect",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQWlFGWjhILUl2T2h1dWo3Uk1ZSVBGRkt1Vl9xc0tHcGlMM2xGaXdIWFl3dUNmdmI2SFNwbXpzUVF0TjUtdjJncVRYN0VjS1NxM0h5alRwQXBxUDlEMkswb19CV0U1TTdSYkNJMW9uU1dWSDRYU3pDLTlEcHpPZ0dOQWprNTJQQW9mVDZjTWF3YkdtOVFkeGQ2bnMxMXZDTUZiQXEwdVF0NWZCcEJTUEZETWR6S2l4Q2JqLVpUd0l1Um1DWjZrU011Sk5LTUtnUWpXTDhOWFFZaG1rV0VDSnkxSE5IUFltcVotb0JGbUhxTGI3X3c0SDMyZGUwRmplX2MwVWJkTUFCXzd3ZjNMNWxTUTA2dW1uUllJcHNuOTFjckZ2Qnp0cERMSnRVUFRwbVRDaUJ5bHFTYVo1WG05eWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "France 3 Régions",
+   "region": "FR",
+   "date": "2026-11-13T10:17:11+00:00",
    "coverage": 1,
    "location": {
     "country": "France",

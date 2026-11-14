@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
@@ -72,23 +72,6 @@
    "topic": "Society"
   },
   {
-   "id": "ac39e43eb7",
-   "title": "‘An environmental and welfare disaster’: British salmon loses its organic status",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEFSZk5iMk5rVkUyVXAzNVhFSldBX0hBN3VoeTBjTXo1cWxqamVJbEkxYVQwV09JU3dkX1hpUHJEMXFMVldPUFlUOHNUZGs3cmRISkNnQTMzbms5aXl0T1VnbTIwQVl4V1djRkJJakxRU04wc1V0S3dubWJ4TG9xRndBRnRqMm5PNE1oZHRFOUhhVUdRd2ZIOEZEYzNyVGhtc2o3V2Jn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GH",
-   "date": "2026-11-14T06:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "fe88247392",
    "title": "This week Sony revived its classic Walkman headphones",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SEtGenMxM0pEcm1vUHhIOWkyeVY1cDVxWmUyX2dURmZlQjc3a0RXNTZWS3IzTVgta1RfeHV0RVJtVVZyWkwxOTVOYXRGdlVTNWlxMkFZRlFKVGVIRURTZTZPRWNIaUxyenRyTmhJU0loYlNBUDlj?oc=5",
@@ -121,23 +104,6 @@
     "flag": "🇬🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "18fd51c8a4",
-   "title": "Albrim Pay launches Small Small App, recognises first business partners",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaS1ZMFoxWkFQaGxhX2FkNDJWdXhWYjhtY0w1eWpFN0duLTdzNEJwRG5salVkT0ZwM0h4VFNZSUVGQzBZc0h6TWNUaF96NHR4Q0dsZkplUEx0VnZOTEpBMGlsNzFRT2c4d2Z1dDhYbWYtaEVOVUx0ZTNLZ1NWNzNjMTkzYS1KNGNzdzN6MkpIalQtbUpLcXhieVI2NWU4ZVRBT3RKMGxyZkRsd2ZKbDBjMzdBeGV2VFlrUWQyNEpn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GBC Ghana Online",
-   "region": "GH",
-   "date": "2026-11-14T04:40:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Business"
   },
   {
    "id": "01d58c0798",
@@ -259,6 +225,23 @@
    "topic": "Politics"
   },
   {
+   "id": "71b596a501",
+   "title": "Tearful Mauricio Pochettino admits Manchester United job too big to turn down",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjBsZjN2R05kUGF3emFGTmxncEdlWWU3OG92WGtad0VGRmVZVmZ3RVo1bzhPaVRUWl8xX3BRUU5YU2RFQ0FIWXVMdGRZOUVTVE5DdTVEakxxeHVGcHFqdkQ3VzhyYXQ0M0NRNVprczY0VmRqc0FzQ1Q5LTd0MkhWTFpNejBDNmFIem9BcE9oRDV3Nl9JbTQ3OG5IQUxEcVNYUllnOHZJZ3oyWjV2N0NJQXhZWXRGWmcxQ3ZzV0FkU3BRU2tORkxvdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "GH",
+   "date": "2026-11-13T18:10:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "dded3a825f",
    "title": "US takes on China’s dominance in African telecoms",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjlUN0pEQjQtakZ5cmh2OXJDcmZLTnAtTnA5czFGd0lraF9FM2FnOFRoQ25xRWFCdXY1bTVPcDh2ZVhLQVNQNVBsVE9hTjdiOFRoME9MeGtUSE9uSWlLcDlob09KOUlrVzJBMnk5SUg0WUtURFJieWZuU01LU0ppbFVuak8xRlg4bTBPYzFWWnU2SmRrZEow?oc=5",
@@ -355,23 +338,6 @@
    "source": "Graphic Online",
    "region": "GH",
    "date": "2026-11-13T10:01:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c20fe229bd",
-   "title": "Hosts sought for three future Africa Cup of Nations finals",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmNHQlpZeEdEOWo5ODgzaFoxOXVjdUJIRG5vSlhLVjdSRVU2T3hwaFdiNEFIQXhralU4Rk10c0NkcTZZQXZHLS1uU05SQkNEQ0hfNHA0WWZ4LXp3ZGs2S1lydk5oOGQ4aE1GbWdBS1J4dTktS0lsY0xMMDlVa3I4MEVSVkF4U1EwSkhOLTZrU0NJNFd3UjJyLTZzSm02VktidDB3Uw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "GH",
-   "date": "2026-11-13T09:34:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",

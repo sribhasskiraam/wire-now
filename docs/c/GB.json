@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
@@ -9,31 +9,14 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "BBC",
    "region": "GB",
    "date": "2026-11-14T07:36:27+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "United States",
     "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "01bc16c7cf",
-   "title": "SpaceX Starship launch as it happened: Booster crashes into sea in flames - ending hopes for breakthrough",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTFmZkNQeEtpRW15d2x1Rkh2eTUycEUzMUc4ZVVnWF9pTHZqc1lxcWxoQXY2QzBWWTVYVkQxeTFjSXdPeGJsZWtEbTNuSkpIWTJQZHZTYl92U1RRMEE5eEtQUXhhZGZ2d0ljSTJrLXVOd2J3YWMtSUs4b1FsRkVuS3FBZ1g5UUg5NC1vN196a2lGX0hZdzAtVkJva0o0ZmpJeW11MXdUOXZfbHRRNDBOcmpqWXUyU080aHFIUnZSdEQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-14T06:05:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -72,14 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "6ae1911474",
-   "title": "More than half of NI voters back UK rejoining EU, poll finds",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Qem5SVzFPSmVISkZYUTM5eU9hYnMxc0xaSkhtT0huTjZQanQ4YlVRRURobWNlazRXSHRYTGJZWmNKZld0emhndl8tRWlvNGJqcnRmNzhSZmRHR3BHUnJTajVXNA?oc=5",
+   "id": "6e85a8bac0",
+   "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnJGN1I3MjdNaEtyZnM1Vm9vU282WGJDM3BBaTZ3Z1RhUkJmMXVLRzlaZ3NXS0VxTU1oUWFfNHdJcWhWTGpldGpQVE9SaDNBWEY5dEFZOWNIMHI4bEFvZlNlSllpVXBFV0VyNmhES3pYeE9yRTN6S3l4QmNDSERFSEcwVVR6UnU0X3YzZXFGUkR3NWtmUmh3bmdtTHhoanRkTm5ONTA4VQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTE.ie",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-14T03:47:05+00:00",
+   "date": "2026-11-14T02:31:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -123,23 +106,6 @@
      "Russia",
      "China"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "35e7cfbe59",
-   "title": "Flights grounded across US as homeland security secretary says no indication of an attack",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Fd3dLckE1U1ExZEpjVTJiM1F4Yy1QalVXZTlhWWJneUNxbnN1Z0NfS2tKeWhrck9zSmdySmR2dTBJb2c5bmluUV9KNWpzc2hYQW5oZUMwaFg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-14T00:44:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -297,68 +263,14 @@
    "topic": "Society"
   },
   {
-   "id": "607436900e",
-   "title": "US military responds to ‘suspicious drone activity’ at UK air base",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFdFR3AzbjZwMUczaEpya2t5TVJ2dnM3VDdhVXcyLUxkbWM5SlUxQ2hEVHdlai10WnFQSmc4NHBubXo2RDdNcmUwb3lPaVhyV05aS0NVMTNYU3RQQTZEVUh5c3dWenN4RlhCVS1aajBXYWdOY1R1S2JKRGRNZzlONGJ3ZDc?oc=5",
+   "id": "173a6b7b17",
+   "title": "US Air Force responds to suspected drone activity over UK airbase",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkFnODI2ZmFiRTJzS3N4eXI5TzJqbXpFV3lUM29neFFnSFJJOVlQcDNZR3B3MmczQWlTNDA4ZE13bXpQcm9yQXdROXIzWjBCRnZHNzhwQkxldWtuREJ2Q1BvOFEzcTZRN2tpQkxwb3dCLUtvdzZiUEsxbGNvXzVmWTUzMTVvdHl5cjZBX2Y1VTJzZlFjUnZrMjFrVWZXTWltM1hoSkxDMThmdDdEckQ1NVJMbTE0dXFQYXJMM3NEVQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "Reuters",
    "region": "GB",
-   "date": "2026-11-13T22:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "696d7a6461",
-   "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRY09lczFvdlF1R0czUUF0cU1YcWpNRTNoeDk3UkFEVDZManE5SUtHdHVYaUdKY1FOUUhmUktzOUlHTGZFMkgxajhmMjhqam1tR29DRm9zTi05NkFiaXdwckJVMGducWM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-13T21:53:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7d38c45cfd",
-   "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUNST2NOSFpoRGJ0OXl0aHAxQnRuMFVPM1pjb3hpaFNBcDc3Z2dDdGZ2Tnd1VVBtVmRzUDRNcFlINjNrMXgyeTU2STFObGt2aExKSEFIZUdnNHBnbHdyTjM1c0JQWkdvRDZRaVl2UWxzRjRVUEJjUFhraTRGdFd5ekRYT1ZLb2xHUnk2RXQtMUNJYnJWRXFDTWhlZFNSUi1MSUZpTEpPMWEzOVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-13T20:59:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "607436900e",
-   "title": "US military responds to ‘suspicious drone activity’ at UK air base",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFdFR3AzbjZwMUczaEpya2t5TVJ2dnM3VDdhVXcyLUxkbWM5SlUxQ2hEVHdlai10WnFQSmc4NHBubXo2RDdNcmUwb3lPaVhyV05aS0NVMTNYU3RQQTZEVUh5c3dWenN4RlhCVS1aajBXYWdOY1R1S2JKRGRNZzlONGJ3ZDc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-13T22:30:00+00:00",
+   "date": "2026-11-13T22:34:42+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -422,6 +334,23 @@
    "topic": "Tech"
   },
   {
+   "id": "45e91f834a",
+   "title": "Setback for SpaceX Starship rocket's double-catch test",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wY1lvZHdnMS12VUlPWjYzWjFqcTQtMFhtOEIyQjhLY0dBSUxrdDlLaFh1b0pZbGc4djlnekl0MVVLVEtCc0k3b3pNcUNiOEFsRU01T0JPdjlqRmpGRHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-13T20:12:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "fa164102b9",
    "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZi1OWDlLcWNhQlFuaVJPaDd0cEg1VmViYy1jWElYcEZJU1NBOVF0RmE5bVB1bU9XMWd0QzVxN3pzcFRiaTdwakdGXzFFTnozQmpVLVU4ZDlncl9qbnNMSjF6QWJwb2ZQUkJrTjZHTGhreURqNWx0SXFORTRpYkVFUG4tUmE?oc=5",
@@ -445,6 +374,23 @@
    "summary": "",
    "image": "",
    "source": "The Times",
+   "region": "GB",
+   "date": "2026-11-13T20:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9d3c83d54b",
+   "title": "Liverpool's updated January transfer plan as Bradley Barcola sets off alarm bells - Transfer expert",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSTdsb2toTkZwc09FZWV4Q2RWNDRURl95WWYzVXpVRFB6R21hdzRjbWpzVGRUNkdwUjFTOXkyTmt6UHRJblpZWHphUF9hWVN3VzN0dDBSMUFxNEdvX0hZcVVXemNqM0xkRWltdExOcG94U25jdnhfdmFpbzk2N1NKMUJoMkljZkJMWHg2dV9rdlgtM04wS3ZaV1M3VG4xQmp0TWY4Ym1zSWdsajZxVFdGcHRhQlkwU25hc0NjQ0NzZmwtMXh3enlOdGNwYjR6Q0h4dDcxS0Vyd00?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Football Insider",
    "region": "GB",
    "date": "2026-11-13T20:00:00+00:00",
    "coverage": 1,
@@ -524,6 +470,23 @@
    "topic": "Society"
   },
   {
+   "id": "36ff70fb10",
+   "title": "Scott Colom: the Democrat who conquered the reddest of red states",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdhQXV4elFzWU5fUmF5TlFGMFpoeUt0emJ4dmZadVdHZ3Rrb3ZsdmZ2cjFLbzFtbmlaQW44ZGlrWjZ3X0VtZm10Z3lRY29nMk9LVUxJaUJTVzRBeHZWM0F4ZWZQZnRIMklIMGtpcUhYRUNNWFVvamZtX04wQUVhclpFcUs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-13T17:08:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9d8533d8bf",
    "title": "Piddington migrant camp a risk to women and girls, Government admits",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnZQVVE0Tm9OSG9qOGRXeElseW1vMlZ4Y2lfMjFOYVp1b0dSQkREMlEzaDc2ekE1QWxuWUtyN01DVlVQSmk2dVZzZ1RiNzBEUUNzRGRPQXFkcW91NndNNEFaRl9VSG5SMDFUUk5YU0ZaY3U1OEdVRWlyTEY2ZE12RDVVWjVEZVN1NTN5UDNocl82U3ZWVENsQ2UtN09uZWlRVUE?oc=5",
@@ -541,21 +504,21 @@
    "topic": "Politics"
   },
   {
-   "id": "ee6e19202b",
-   "title": "Washington gunman was furious about damp $1.1m penthouse",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb192eE1vcXRQTEszUXZBdHNOc0F2TnJ3VUl0aVROOE9zeFBIYVUybkNETEVtNTF3VV9QNHpNS1BQWkFmSUN5ODlXdkV0czhaS2RZdFhMQmhiU3lRX2ZuSkk5eVVEYTRGX3pzWGd3ZElSM2NhOEp3eUlBNlJHR05Yel9ERGJlNTU4akpkSWY3aWZMLVJpMGZlQUs5U3ZGczNlWFMtdE1HRGU?oc=5",
+   "id": "0eb6bd0ee7",
+   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Telegraph",
+   "source": "9to5Google",
    "region": "GB",
-   "date": "2026-11-13T13:14:00+00:00",
+   "date": "2026-11-13T13:30:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "262dc83650",
@@ -592,31 +555,14 @@
    "topic": "Health"
   },
   {
-   "id": "67bdb8a6b0",
-   "title": "Samsung's Android XR Smart Glasses Now on Sale, 30 Models to Choose From",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVlhckNHMk1vZjBKNUJfeXBxRExoMll2YUdyTmk1NHU1ckFFX0RFVldZUDgzelRzTFZCQ0FDRERIZmVSNE5ZQW83QkRid19neWJfOFNEM2d5UVg0Y1RlQ0FxVGd0aW1ZNWNvbjJJclBaVlpsak1VV2RmUW16cWFXM3N6MnJ1eUpuTjhfN2ZMUGxDdVBkZm52TFFWcF95V3YwbzJJb214eTl6WE9HSzhFeC03S1czdw?oc=5",
+   "id": "a06f3ab108",
+   "title": "Object said to be 'long-lost spacecraft' mysteriously accelerating as it heads toward Earth",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEQ5c0k3X1dfOE4xMEFQOC1Xb2hsUUN3SkszcG0ybEU5bzFzc1p5NkdpSkJPVGV2OXlpQnlHTTBNTXd0clpqZG9yN0VTOUx4SFdPMHFhM19mV19UN2pNdkhLVlhIWUQyS09DTzYwSW1ERUdLSjZMcURqeXN6LUJCMVBaRmh4UTJjUzFVaFB3a3JnSHpkMFQyN2xxc1V5c29mNnp5Rm90b24wVHRBYUNjR1NZR2kyeFBZVUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "PCMag UK",
+   "source": "Metro.co.uk",
    "region": "GB",
-   "date": "2026-11-12T15:30:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "be9f037e80",
-   "title": "Scientists baffled over mystery object the size of a BUS hurtling toward Earth",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkRrWkhZLTNPWE9KMXZ3NWItemZwbVNoZ2lDVDVDYnBYZF9GeGhxNmRIVmhKOWw1NlROSFkwdERYUm1ocUFJblhNVTFEODkxQ1FuQWEzck9IVTVqVVR4TXItaEtYUnotOTZmTVdjaUhwejY5ZXBqX2ZaLUIwcDNjWVVNSmZCa05mdDVDTFZvOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Sun",
-   "region": "GB",
-   "date": "2026-11-12T14:48:00+00:00",
+   "date": "2026-11-12T18:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",

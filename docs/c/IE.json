@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
@@ -119,23 +119,6 @@
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3490974814",
-   "title": "‘It feels humiliating’ – mum describes emotional toll of repeated failed attempts to find her abducted children in Egypt",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZGs4UHhDaDRscFlWbUl6UDdabzdKRHF4Q1pSZFFIaXJCNGlXNkFhTzUtVXkwMEpBRXVQNGJPd3dFRTE0a1h6ZnJmU2pNU05OWGM1VlV1UnQzbGVhTk1QeVdLbUZjUzhNRzVfdHRGOWQ3VFpVV0U1dEFMTm95UmdZYTVta1I3YVlrbVk0eDhmN3FrcTZITENIMzF2T3BuYUhsM1UtaWlwM280TWRkamE5bzhMMU02MjB0Y3dETy03WnR5VlhXdWNIQzV2Z1NLZXozQmxYSmV6VkhtNDRRNFRKQW93MWs2RG1MQktDbmFOenFoa3o1MGx1UTBDdm8xNHhq?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-14T05:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Egypt",
-    "place": "",
-    "flag": "🇪🇬"
    },
    "topic": "Society"
   },
@@ -262,22 +245,39 @@
    "topic": "Society"
   },
   {
-   "id": "845bac08a4",
-   "title": "Euro U21 play-off: Finland 1-0 Ireland recap",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUtnLVFXNG1WQXRkUXNiSi1wNVFlRFVjV0xQdDM5WGtvZUJGYkhWdVk2ZF9XMzdBLTIyZ2l0ak1jTUtpSHhlSzE3QWxvdEJ1OFFrYXY3cWUxMVFkTDVhZmMtWEE0b180ckxESTRXdDBGc0QwdWNLLUdpbXlGZW9xbnNhRkZwMnMwUjQ2MmZibkh2OGd4UllMUHhLcw?oc=5",
+   "id": "884255ad22",
+   "title": "Ireland Under-21s lose to Finland in snowstorm but stay alive in Euro playoff tie",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT09CSUtzeEtDWVl5MEdJR2Iwc0tLeHYyLXlUMFI4WmxmcG1XczYzWEVXeHhPWjExNzZZRGcxNVM3bFdsRWlmLVhnM0RENFhxS05IQ3A1QlNVcG1nd2RFSUxfRVBnc2ZuajZ0bHRDYzJISXZnUWRQUnZ0eHFKaXNRM1l4aV8tTUNoSXpRdDB0eTdPSGs3RGI1VGh2T3hTU0cxMjZiTk9Fazk3RFEyVy0xZ1AxNXBFQUppYXhTMG1fVjhPNTRZbDNZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-13T19:53:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪 🇫🇮",
+    "also": [
+     "Finland"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2581f87f69",
+   "title": "Ireland v Fiji: All You Need to Know",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWh1aGRDdllqcWtDdzZab0d3Z0ZPSGxZaHZndVE0aFptZ1V2b3FSWnFFc0o3bHQwdnNGTWs2MnFPTlNGN2dFVkJFSFFMVXpHdGZCQ3FkWjRhMUdocWVXWDNwd09sTXpieWtYM3NZRnNzOVZpUzRDTDFjcXZBU2FYZ1NkN3F4V0FWM0tYX2l3?oc=5",
    "summary": "",
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-13T19:06:05+00:00",
+   "date": "2026-11-13T18:29:32+00:00",
    "coverage": 1,
    "location": {
-    "country": "Finland",
+    "country": "Ireland",
     "place": "",
-    "flag": "🇫🇮 🇮🇪",
-    "also": [
-     "Ireland"
-    ]
+    "flag": "🇮🇪"
    },
    "topic": "Society"
   },
@@ -375,6 +375,23 @@
    "source": "Irish Examiner",
    "region": "IE",
    "date": "2026-11-13T16:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3899837a1c",
+   "title": "Galway city hotel apologise after website glitch sees bookings ‘well over capacity’ for Garth Brooks weekend",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaGExMFRhQlQtWXpyU2dVZGJDM1RYeXl2VENNQU9GMlZwcWxEX0k2MUpXVER4eTFZUjdjZnJYNkdCcEtqUzVHdE41ajJZVkZrQmNDQkZndDVpd3ZfQ1ptakRHeHY4eHEtc2xSV1JjaldNTFowWXpfallnWDRjczhiSV8wOG9jWERUemVwZlJPQlVlMHN2LUlXRmVFR1VWZFZYU1JLY1VGNXdLRG8tcFFyQ21TUnUtMEVEYXY0NXZVSVQ5N0NXZFZXdlhWU1JtSjNHc0RVZzRYcWZ2YzQ5eUg2QTVSSEozSXozSUFqSFlZZnlOMWhMaTBr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Independent",
+   "region": "IE",
+   "date": "2026-11-13T16:40:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",

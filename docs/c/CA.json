@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
@@ -58,14 +58,34 @@
    "topic": "Society"
   },
   {
-   "id": "b295149d7d",
-   "title": "WWE SmackDown Winners, Live Grades, Reaction and Highlights After Crown Jewel 2026",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGdWaXBRNmdQeE9SeXhfV2Zza2FXbU94TzFfdFdVTTRqQnRGTXdZYllWSzJjMGFCVWhjQ3ZKXzcwaXhBb09NRjNSU2JXcnpxWUZ1UGVjQ1NKSlg4Z2tXazE1ZXpDb0MyS1FwdkdJZTlrZWw0N3hYNk1xWFA3eThNemRhb0pfMG5jQW56eXhPU3J1cU0xOWVXOThmV1l2RFRERlJaMlNQR2tSQ2tDQnAzNDFqc3I1YlBwLXZPSEpVMkZIWUU?oc=5",
+   "id": "e647719982",
+   "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjQ0xJTk0tSnR6UGVLYTBKRW9oaHF0Wk1DMjJ3eU44dmRtMG5vY3dFeHhzcld1MU1idHZNamlYcEJYQVJMZ2FuS1BGT0ZFcDB1NDVEQnVjcHRTYXBqbU1HWVpoRFdEdmFlUEs3TG9LNVBPcmNN?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bleacher Report",
+   "source": "Global News",
    "region": "CA",
-   "date": "2026-11-14T03:36:29+00:00",
+   "date": "2026-11-14T03:39:49+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦 🇵🇭",
+    "also": [
+     "Philippines"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8934c8befa",
+   "title": "Thousands of students protest in Montreal against austerity measures, school conditions",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVMMzlCNUZaUjVwX2laZ0pJYndGSzdWVU9YMkJqVkZ2UEUycTNnaXZYYmFIeTc1MHVLR0pKY3lvdmhwbWRVd2xyWl83QXlvQkh0OVV5cWxSZTVsLXZlTFVfeEF4RXpNQTR4WTdQT1hzOWVKY3FDdHZjUFgxdTNxWXBwdGhDelBMekl6Q3h6aVVPVXl6UkF6Y0FOZHpicEdYRXB6Wkswem5MMEpERUNTZ1UwSnpSYUg2TDdqSW5XdUhpM01UM3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-14T03:19:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -75,22 +95,19 @@
    "topic": "Society"
   },
   {
-   "id": "8ce870a3f6",
-   "title": "PM Carney says Canada, Philippines conclude free-trade talks, target deal by 2027",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVdSV1R4QTFxQlJMbTc3VTQ0MmdFd3VfZ21UTVdsUEFSQ1NtcEFnS0s4dUREdjdUMGFNYVdyeVdmQk5pSVZ0WGh0TEJKVGdBREx1QV9ISHZiWFMySVktZ2hZOURTXzVHMmllX2wxTnNYQVdzNU1fd3FJMWtmSWQ5Vmh0MFlHVG5aR29mcGJsWGxabVUyUjhxMkVTVzV2alZWN3lpc0pSelk5MWNUQW5LWklrbXhBNG9V?oc=5",
+   "id": "eff268b51f",
+   "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTdnOVVNWjZfZ2kydUwtRE9DbEFjTUJUTVc4aGw1WEZGbHJWM1YyRzIzdlpYa3RnZTQtX3IxZTdYcG8tLWNmQzNncTc2T0Z5Yjd0M21QT191bkRmYUU4b2c4MUZoZ1BFdElzN3FyUFN1bEx2b0pkcmJ2b0EtQVdaakRrc1VNZ0U1d3Q4?oc=5",
    "summary": "",
    "image": "",
-   "source": "CTV News",
+   "source": "WSJ",
    "region": "CA",
-   "date": "2026-11-14T03:13:00+00:00",
+   "date": "2026-11-14T02:07:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "United States",
     "place": "",
-    "flag": "🇨🇦 🇵🇭",
-    "also": [
-     "Philippines"
-    ]
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -127,23 +144,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "94dba92f76",
-   "title": "Montreal student protest turns chaotic as police deploy tear gas and flash bangs",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkRPRGo3U0xma19ueTRFWGNhaDhOUUVnXzJmMFgzNlNnX3R1dXlYYjBwc2ZxenZsSmp5NGJISjB0VFNoejBhWDJFZElSNzUwbm9EekoyQ01BNFMxN2JwVDNfd1JBZS1US19aNGlQTzlGc2liRUJGemFTTURwZVRGenJkdndVX0FhRUFhalROdFlya2lxRmNIQVRFWkJtUHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Montreal Gazette",
-   "region": "CA",
-   "date": "2026-11-14T00:49:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
   },
   {
    "id": "51f13944c8",
@@ -212,23 +212,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "c84e07323c",
-   "title": "‘I breathe, I’m in pain’: Woman suffering from endometriosis urges Quebec to take action on disease",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIRWtVVkNHcHNxZXlTVTYzaGF5UURlcElXWGh1a1JCcWIzNEtqamhFLU1VaXpQQ3NwUVJPalpKN0U2Y0Q2NE9GbkpUbUNhZXByaF9qdjBkeUJSVlpyMGRfVnp1eUlaOEtNTUVTc3kyT09iRDRXUFBXMlZvVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo News Canada",
-   "region": "CA",
-   "date": "2026-11-13T23:33:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Health"
   },
   {
    "id": "4b045dda9a",
@@ -333,26 +316,6 @@
    "topic": "Society"
   },
   {
-   "id": "b821fc4b15",
-   "title": "Flight delays may continue at Pearson Airport as U.S. ground stop lifted, NAV Canada says",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUktkUWlYcUI4a0RtcUhsV2RQY1YxbGF3S1d5ZXhudUFXcU5oMFRmLWZPaXEzZjZ3U24wZTlMYXFqR2NvcUJ4Ql9tQmRCX2dqVDctNjRzY2Y4U1YySVpCTWJmU1E5UHU5dGJ2bkNnbDdWaUFQWE5wOXRpUHhweWdSdGM0T3N1Q3haZW1XcG9nUllyZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-13T22:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇦",
-    "also": [
-     "Canada"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "12bfb3e18a",
    "title": "‘How does space smell?’ Halifax students connect with Canadian astronaut aboard ISS",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwZ0VnNng5eVFkZl9zVlNWUlBwcXhCdFlTX0wwb2FuSXdLemE3RmV0eUdjeUhWdmlOZ29wQWNrNmlRSjNDOEJZM1BwVEhMQVV4amtvaW03eUtYXy1NaWZ0NEJHdWFpOU5HRURnMnc0QW13NGxJWV9YMzFfSms?oc=5",
@@ -402,23 +365,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Health"
-  },
-  {
-   "id": "90a3894765",
-   "title": "From Bollywood to Clippy: Nvidia scandal, Outlook glitch fuel meme storm",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVhnd293Z1pDMURYSGdRZ2NPMVRTVEsydHp1WTRYT2RacEZRalNCZHc3dDB0eHREVGNIZzM2UFhpMnFDakdwZHAzekFkcWRyTlE0WlY5UXB6OTJGZ3pjZ1I1dEhaLVcxclhWNDRNa0lRd3JES1JMSnNJM2ljTUl6YXR0R1lYMHQ5MEdZLWdTWnFFQnhOekp2ZlZ6aVdRa2xIY2dyYVpUU1licDVESDhFVHNTeF9vSW8wak81QXdB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "CA",
-   "date": "2026-11-13T21:31:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "495d988ccd",
@@ -591,23 +537,6 @@
    "topic": "Society"
   },
   {
-   "id": "77cdb0e2f9",
-   "title": "'He Needs a Second Chance' – Some Nvidia Employees Really Want Former CEO Jensen Huang Back",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnhoLTBBSi0yc2Eta1lRYU5YQVBTaS1xdWRPMl9BZkF1ZjZYSUhnSmdpRWloVGJXbndsZk5zb1RBUExDMmlyNTk5VGlra0JIU09TcnFVMDhsT0RWOEdxRkhTWlFsNmM1RXRhQzJsbHpKclpmV0hmREdXZVZ4Y25mY0s2SXdRejQ4ekZKQTNmNDVpd0RNN0ZoQzlBLVRRUUdjcXFGeU51cWVaTWpvbjMybGQtVVZhUGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IGN",
-   "region": "CA",
-   "date": "2026-11-13T15:47:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "0843ddf5d6",
    "title": "This Week’s Sky at a Glance, 2026 November 14 – November 21",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lrNWtTSVQ4RE9pU1BOV1RLMHhhLU92OC1iWjNhcC1hNWotZFZ3VHNQdkFnMnptTGpyUmVuSWREeXQ4ZmlfOFJlX3VPcnE5U29qRy1tNW9XLUllaXpEZGxUT2dpNTlMSGpmNEF6QjJxeEtZdnBhQ0lOcUJPOG1DN0Ryd2s5V2ZNWDlyMHFBYw?oc=5",
@@ -642,6 +571,23 @@
    "topic": "Tech"
   },
   {
+   "id": "ad38e8186c",
+   "title": "U of T music community celebrates beloved professor Mary Morrison's 100th birthday",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEsydmFIRG1lMExhVTZkT3VXZ2VDNHJkcC16VzE5dTFvMkFYcWs2bmFGSVRlZ0lpaGJvWDN2b1F3cUs1RXNOMkFBRW1JLWZiUmtXVzktZFI4bF9DNDNEREJodDhWMFRIWElSTkEyZ2FKN092bXdnQW5nR0NIcUpBbVJNQTdsWXEtWjlDY0VYdXNGZTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-13T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Entertainment"
+  },
+  {
    "id": "aee6a48ffd",
    "title": "Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUFHUkI5Y1p6WVhYVWZmYTEwWjVPa2FjaHlEazlGUjNkX1dWbGw3ZzgyekFjc1JPTWRLcGk3bDFfUHNyM1c1Q3NHXzE2S1BfT0xzRjI5dkVzVlI3ZXIxUHhIaVNYZXUwVldQVXBSVGI3ZFpUdDZuLTE4dHZyZ1VRMXNQZXB4YlFaeDloZENzOWk2cFIteTVzbg?oc=5",
@@ -657,6 +603,44 @@
     "flag": "🇵🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "c386cb4923",
+   "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "CA",
+   "date": "2026-11-13T07:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇺🇸 🇮🇳",
+    "also": [
+     "United States",
+     "India"
+    ]
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "db678a2cff",
+   "title": "Endometriosis care in Quebec inadequate, says women's health group in open letter",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXFxNWhKZS1NYU1TMk13WjgxY29WbW1QcVJMSFVtWWRGd3V3eWhPTEJteFNZdFRHd0U4NXF3Tm1zaE9FRmt6X245Q2Vhc3ZFaTh2VTBqUUtDSEZqcm1NZzhZM1hBcEo4bDVmUFdiWlpLaTFSd3JzbU9vaEtMakNRVmhVbE9HZU1S?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-12T22:26:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
   }
  ]
 }

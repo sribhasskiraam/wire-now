@@ -1,26 +1,9 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
   {
-   "id": "7cde15a714",
-   "title": "マイクロソフト障害が全面復旧 メールやAI、ほぼ丸1日経て",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aeHhkczlQNUVZNG9FaEZGSEVLZjVLMVJNM2kwdWthcVdGbHRFcTJpYndoN01hUHVEeDFNa3RPLU0zaDRyMEhSWjJ6VnljTUZ3TXV5SmQzUVVBcFhUYnQ0SmpzOHpJUF9lSFpqZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "日本経済新聞",
-   "region": "JP",
-   "date": "2026-11-14T06:01:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d9f2c7b471",
    "title": "接触GKに12試合出場停止 FW選手の胸に膝、心停止で死去 スペイン2部リーグ",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRR0hJckMxV1VQMmwydWphM0RUdDA3QVZYV1JKM3hIMWo1bk9CWHlQYThQb0lrOGw5YWUtRy1nTVhacE1HZUdWQVNMU3paQ1NocnVpbzVXbndpUlVFUWV1VXpGYVBkRWNibDBOaUhQTjhPeGk4NlE?oc=5",
@@ -38,14 +21,14 @@
    "topic": "Society"
   },
   {
-   "id": "d9f2c7b471",
-   "title": "接触GKに12試合出場停止 FW選手の胸に膝、心停止で死去 スペイン2部リーグ",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRR0hJckMxV1VQMmwydWphM0RUdDA3QVZYV1JKM3hIMWo1bk9CWHlQYThQb0lrOGw5YWUtRy1nTVhacE1HZUdWQVNMU3paQ1NocnVpbzVXbndpUlVFUWV1VXpGYVBkRWNibDBOaUhQTjhPeGk4NlE?oc=5",
+   "id": "fa90f98934",
+   "title": "14日は九州から次第に雨 15日は全国的に雨 太平洋側を中心に激しい雨も(気象予報士 藤川 徹)",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSkFsbkF1N2VnUkY1RXRicHNDUzl4UlVRb0ZObzhnTXRFOS1VakZEUWx5aTJqMXFXcld1dHZCZFZmRUNITEhRRkhRNUpDYW9jbVljb19BOVh5Z21pUlFJcDdMdzVzWTNObDlIbw?oc=5",
    "summary": "",
    "image": "",
-   "source": "産経ニュース",
+   "source": "tenki.jp",
    "region": "JP",
-   "date": "2026-11-14T04:16:54+00:00",
+   "date": "2026-11-14T03:36:48+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -114,6 +97,23 @@
    "source": "ITmedia",
    "region": "JP",
    "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1b62b92d73",
+   "title": "マイクロソフト365障害、20時間経て広範に復旧 謝罪し報告書公表へ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtejUzcVJudTFTbzBXQ29tSlhnUVQ4RXV1Q2pGNVdubzRLQWk3b0NRcTBqTkQ2OTRyVWNoM29COUpBb0did3Z0aFU0eUdHcm9yUHloTXEzYTZiSmxURmRNOXU3UnZmcjFpbkUzVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "日本経済新聞",
+   "region": "JP",
+   "date": "2026-11-13T20:43:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

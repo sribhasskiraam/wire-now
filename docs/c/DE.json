@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
@@ -48,7 +48,7 @@
    "date": "2026-11-14T06:30:58+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
    },
@@ -85,6 +85,26 @@
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7267530a1a",
+   "title": "Venezuela: Warum die Trump-Regierung die Forderung nach freien Wahlen als „Straßenproteste“ abtut",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcXAyelpCMjA5MWRhMV96b1p4OXVvX0FCZy1PcGZJM1hTR1U4LUNYcmtxMkxobFFZLXNHa1JVMWpoS3FKaGdyem4ySDVjelNKREJabkh2VkIyNEhNbjZrSGdPNnEySDZ1d0hqc1VQREhfVDR3emxDbkdIQlBNaUhUaU1OdXJhUWFfSHEwZHdFU29aNmpSaFZ3SGpJWGtEaGxCTW5jNTJKUDdSU3dJVEkxcTBfNm91VlQzaDhGWDlBdE5TWmRNOXkyVUczeVVfNXVoS1Rla3JvRWFDRG1YUTllOFVGWU04MHpJZXdMVzc3Yk5MMEhRNW5QVWRBTGk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-14T06:17:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Venezuela",
+    "place": "",
+    "flag": "🇻🇪 🇺🇸",
+    "also": [
+     "United States"
+    ]
    },
    "topic": "Society"
   },
@@ -153,23 +173,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d18dd737ae",
-   "title": "„Mini-Mond“ 2026 QQ8: Wie ein 1–2-Meter-Asteroid kurzzeitig zur Erde gebunden wird",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXRqakdqaV9Ed25PaXF1OEJDZW8tYWgxOFZJUW12blI0QlBzYnlXQ245UVdWdUtPNDBLU3R4SzJuZmJJTXhzV2RqSHlQUFdFRzhSdURKQWZMWUI3dm5sRjJuYWNqWUpvUkJmeVFncHh0N09NbXVBSGFZYVFiT1l3QnkyeWVwdG1DQ1JLTkgyS1Y4bXZOY2l4czlfanFmd181NnRCSTJ4YXI0UUQ5dVdneQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "it boltwise",
-   "region": "DE",
-   "date": "2026-11-14T01:39:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -565,23 +568,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "35a7edd65e",
-   "title": "(S+) Wie die Demokraten Pete Hegseths Impeachment verkorksten",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXRpR05YeVBRUXlYNHhkQjM0cTNuVFRsTFh3UENqU2tINnVCdnVadS1GRVliQjRmZ0NjNEdOcDBBQWJTT2VRSmRTSjZZOTJtRG5ZTVgwMDNtUUp1bnZVTklTVWo2NTNUTW1aa2hSSU5ScDEtTG02NEg2Mm1iTmZRa3NCVkRnZW1HMmk3empGUlFrWHBXRkJHX09sZ1pMc2pqb0NsSm4wWXhlMzA4YUpVWDluQjhrQkZ6N1NyMTR4VDFoa1VDVU0yRVBaT0Q0dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Spiegel",
-   "region": "DE",
-   "date": "2026-11-12T11:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
    },
    "topic": "Society"
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
@@ -22,7 +22,7 @@
   },
   {
    "id": "1ca6fb3e7c",
-   "title": "Quattro petroliere a fuoco a Hormuz. Pasdaran: 'Rotta non autorizzata'",
+   "title": "Guerra Iran Usa, due petroliere a fuoco a Hormuz. Pasdaran: \"Rotta non autorizzata\". LIVE",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtY1h0MV9OWndPeUVHR0Fic3JIc2ZMVVcxV3BscjRRU1lFT3QxMEhLV0M1T3g0QUdxT01STm9MTS16dHVyNVF5OVhqUTl0dUdLWF9fUDZlY3hVUkJKQWpTREtMSDk0SFlKV24xV0FlWEhnbHYtbEw4TDlqZw?oc=5",
    "summary": "",
    "image": "",
@@ -31,26 +31,9 @@
    "date": "2026-11-14T06:59:12+00:00",
    "coverage": 1,
    "location": {
-    "country": "Italy",
+    "country": "Iran",
     "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a198f1cc1b",
-   "title": "Wta Finals: Svitolina manda ko la Sabalenka",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnRPc0VjQ0FteE9Ib0QxUGphcG5lcWVoa0VIN3hWMlBWbHMxZVJhQlZfOGE0UTQ2UVMyUXM2c1pMTXI5VXBpVHV5SEpqOGQ4TnpBTXA3b245QUs4c2dadjItYTJhd2xTcFVDNE0zUjFnNDVCYnMxRXlqVEx1WmVnYU1aZi05VVpQNUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SuperTennis",
-   "region": "IT",
-   "date": "2026-11-14T06:52:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
+    "flag": "🇮🇷"
    },
    "topic": "Society"
   },
@@ -81,23 +64,6 @@
    "region": "IT",
    "date": "2026-11-14T06:30:28+00:00",
    "coverage": 2,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c593f67a82",
-   "title": "Terminator Mancini: oltre a creare, demolisce",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNERYb1lldEhvcEdORU5JMDVtWXBEUk1hV1paOVBIaXdDcUMxVDRUNlBzTERSQTRxZGU3MzFyYlA3UHNNUEowVmhhYTliQm9FQWhhcTZrN09POFB5a1dYeXBtVEJzYWoyMmFoU3l2aDlQQk5MOWh0WElqUlM0SEtGczNKZ2N5NUpwd0lySmN2b2Q4X2E5VmVEbE9BSkplaTIwOTlwX0xWZ0d6WlJxZ3NHUTBYWlR4NUZs0gG7AUFVX3lxTFBUVGRnekM1eHJYQ1J5UkJZSmNPc3k3ZWFKcVBESVZzbWF4V1pKdENzcUhhd2NtazRBZlRrMFlCaFZUc2VBNU9peUhORWhVNG40YVF4cFZteEdNUExyRFdSeFktNEtYUmNpcGtJQ2Y1VGhXaDMzblJ3YTdxUUl0NDc5Rm1XZVh5M3ZpRUFIdnhSanVua2Q5NjgxbV9WWTJMcFozRW1sMW92b0labjMxWGpqbmpKUFZNUnMwaGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Corriere dello Sport",
-   "region": "IT",
-   "date": "2026-11-14T06:22:00+00:00",
-   "coverage": 1,
    "location": {
     "country": "Italy",
     "place": "",
@@ -147,58 +113,7 @@
    "image": "",
    "source": "RaiNews",
    "region": "IT",
-   "date": "2026-11-14T05:57:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Palestine",
-    "place": "",
-    "flag": "🇵🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0e40e8c9b4",
-   "title": "Così il Microsoft down ha mandato il tilt il mondo, cos’è successo e perché può ricapitare",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzIwMzZ2NlFfUjNMZkRONGZjZXA3Vl9lem9sbWZ5dUlvVWN5QXljbTBGenlhem1xaVVodkxxQk02ZTdxZWlXM2FjdjRfNjZMM05BWkN4bjZWZzlfR2VCcEJfOVR2ZGMwUFVxNDduNE5PT3lqeHljZjRHQmFqN0ptRmxB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky TG24",
-   "region": "IT",
-   "date": "2026-11-14T05:45:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "95499380af",
-   "title": "The Voice Senior, pagelle finale: Arisa, vittoria con plin plin (9), Bertè sfratta Mannoia (5,5), lo spoiler Sanremo (8)",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHJfWlVEYWllQ2dUd3NZM3RsVElvYVdNR0xFVXpDR2laY1Nick85UWIwN24wRmNGVllCYVhYbC1sQ1VJWkVKbU1GSF9IaHZwYVUxUlZDaGJUMjE3cTc1YjlTM1Jvd2JjRFRPZ282NjBCeDl1eUh4cXpOaldLUjR2V0R2T0Eyb0lhT2JoNDRfcXpWbXdTQ2pZTXJlS0xiRTFvTHJJ0gGoAUFVX3lxTFBjSEJlOTY1YjZHMXdvRXpNOTd6cDV0aUZUVzl3YXpWQVVGWEtsS0tFZ21iZ1ppNGtkeGxwZVlhNnVsZ2lPcTFCRUkwdG5iMU5WN0xrVlFJRGtRNC16VldVR25RNW9MTVlabzRBTGVteU9BZWx4WkxuM25uU282MUJJRURtS2RxaVhaeVpoU2J1ZV8taF9YWVd4SXA1eXZFMUx3YmVNSFRhNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Libero",
-   "region": "IT",
-   "date": "2026-11-14T05:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3c3adaff7d",
-   "title": "Tutti gli aerei a terra. Voli fermi negli Stati Uniti",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLW5HbFptZUZsUFVyZFROOTd0b2tHMHY2c2NzazlXc0tiVFRYNTc0cUJGem93dlFsNnFLMHNhN0VrYjE4RjluOGFuV0NiRUNwN25ERHNxbUZ6NDJhdDVCUDVjNEw1ZHNDeXlGMk1FSzIzNzlVX2VpaU9KUFc3WXBsTnNnSnJJYl96T1VVM2JwQW41Nk1Pc2JiNXhwVDR3eko0a21VZkZKNXdRTUxLM1ROSUtZQ3FSbGlUa3RUMkYxdDFOcktwX0hhLVkxa0FTaU0xclV2OUlVbTZYYUJaOXBMTGtyWGXSAeoBQVVfeXFMT1RZUFBVajYwSjNfcmNxUnlWM2pxXzVGeEN2Mm92emNWWVZmS2E5MzFZZ1BMVGZLdjJjNDU1UnJUREZyRDkwbmtka1RRaDdtYXNnbkhwQUpyLWk1RmhXZFBWMWN4dEdrNEE2akt4UFB3ZDBNbXZXNE80MUFJbGc2X2xRcmN5Z1NhbDFETW5aU1g5WW4zZkc4a0RNTDR0SFl4M1VnN3ZtWjg2aUxCalltcXd4ZUdQTWNIY29LXzQzbUNtbTZQSWQtSmxSMjdTamR4SFJqMW5ieHFpcTdERmNjRktuYUc5a2xYdnJR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RaiNews",
-   "region": "IT",
-   "date": "2026-11-14T02:02:00+00:00",
+   "date": "2026-11-14T01:59:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -259,21 +174,21 @@
    "topic": "Society"
   },
   {
-   "id": "e67d46072a",
-   "title": "Garlasco, Andrea Sempio e l'intercettazione su Soldani: \"Magari hanno allungato mille euro ai carabinieri\"",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZk9Dbzd0YVRoNWktLW9SWHZnV1pLNGh4NXVIbVhHSEFnZEYwcWZTaElUZDB1S2dJME1McUlLMmp0cXlWMV9LUXB0UlR3REd4TGpEQ0NnQVhuRXpoSjNyT2I3cHF0RVV2YVE4WHYtVTZRRy1mXzNSY25uWUhrRFhiVHRVQzFMR00xVC16Tms0NzRueU9ZSXJydHM5am1QOXpIMUZxdmtPVU9JR2RkOWU3V2k4ejNNZnNHVW1jQ21xSXFCWDdZWk1OY2t4TEtNbWFGOWp0RG1VV1JUUdIB3wFBVV95cUxQWXF3ZE9mQy1tM1VlZXJzY0dFZnZYT0VBT2JIVmZGZDRMZy0xemtENjNlYko0N1VWMzl2YmM1OUdpOGJsd05BV1dMd2ltbVY2aEljMEpyQlZHTlZfbUVJbENoNHZWUXlsVTR4MllUdkt2V2dPMVc5SlBQRHo0VVNUeFM0T2pRRVMxc0dvM2tFV2k4WnQxZU51aHpWc0NaTDJuTmFtbWdrVFF1bmk2MTRqeTNxQU5xalZyX19BLU1aM1pDNE9aZEZybmVaM0xudHJza1dkLXl0Nkc1TXQ2dkFR?oc=5",
+   "id": "baf4dda842",
+   "title": "La Germania di Klopp ritrova il sorriso, dilaga l'Olanda: 7-0 alla Grecia. Fa festa la Svizzera per la promozione",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMnI4dWd1OWlUX3NKZlB4NENaWU82XzhrS1VqOFdqMEFsb0k2ZUlmenNsTFpTUi0xOXZndVU3dFkzbExUbUJzTEppOThJX3FlM2Jhd2EzUUd3U3NDeExQdmZxU0I0WVRpTGJBQzVwaHU4dF81R3czYXpmZlJrZ2hBdGljT3RjNVRoR1ZUQ0JmdHZTZ3g0WEJaeEEzcFFOejVnaXRFSUxfelJwNjBGWVlCeDI4T0k1YV9EU1Y4VjNCRkxTZXpJa19qeVNpZkg1MEdfSVpBb2JHOEd1ZjBKNUZqMkVKZXdpNEJNT0VOV1V1akFLbVo1ZmwwZ1p1bnAzOTR1TkxpZVFaelp5aVVES1RfdGpJN0pxNEhuLWNSY0ExUlR5Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Virgilio",
+   "source": "Eurosport.it",
    "region": "IT",
-   "date": "2026-11-13T21:49:00+00:00",
+   "date": "2026-11-13T22:21:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "e67d46072a",
@@ -463,6 +378,23 @@
    "topic": "Tech"
   },
   {
+   "id": "eb2a1cd3d5",
+   "title": "Italia, Mancini perde Frattesi per il Belgio: ha lasciato il ritiro per un risentimento muscolare",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQm4tNVh2ekp6N2pGVG9TS3VDQVZvQmVLUmNKSjdYY3pFYU9zS1ZpWEVXOUFSQ1VDR3g3UnlLUWk5WE1pWVFRekJ0ZFZNSV92UkJkTE9UUm5BVXNJWDU5MU1mbTJBVUJpM1F5T2d1ek9ZUzJ0R0FvaUtaN3BhU3NPdFBWRFk2cF9zamE1U085cXNTMGd4UmxUUGtGd1lUSm5aMnp0TWJMSGtJcGFJd1FydzVB0gG3AUFVX3lxTE4zTUZYN1BUYzVOYzJkck5kZDJqMG0wV3l1dzR3cXZ3N0ZGX2xyc25PSC1hbWtELU1jaVRhRFZ0bHp2SDhDQ2otdzViaHNreTdNMXNkZVByYkVqd2RNdTZsLTRlVzZXdzVVYW9GMTFwYVdDdE11QUVDZVUtM2lJRnBwRi1uU1ZSNG1JZTBodlhsZlZSajhZRlh5VzJQM3JKV0hhSk9iUVhGQVVuLS1LbXlzRXdzVTlpSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "La Gazzetta dello Sport",
+   "region": "IT",
+   "date": "2026-11-13T16:00:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "447a165fb5",
    "title": "Il neurologo Martino: «La sclerosi multipla si può tenere a lungo sotto controllo»",
    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5",
@@ -495,23 +427,6 @@
     "flag": "🇮🇹"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "351dc8575d",
-   "title": "X Factor 2026, il quarto Live non perdona: Scraffs, Manu e ALÌA eliminati",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYy1QYjNFLXJDNWY3aXl6LXh5S0NMLURzMmpqMnBzUHNKalJHT3pRWWhOYWIwTWlmbTBRTWNGbm95al9HMEhGLWFNYkl3OFNNUmlTMDM1dnBQbFJ2bzh3VnpkZFJTSVZQNVpzS1hBbURsaGVVb3pYcUFZZFV2dXByOGpVTUxubi10SGJzWGhSdmRtOVBDcFFENkltLXl6VmFHdlFFbFZDRi1fLWUtOC1JYTNMVHRwQVpfMXR4S3B0VkZvVGtDWlkxN3F6bUVBdlQyUDZJOXB1dm9xTjhxLWNkeVk0bWIyTjREX3Vr0gHMAUFVX3lxTE94MEl3Zm1USGotZ0pxRHZLSE85eE1ZTEJsSmp3Vll2ZTNlSmI1VGlFQUpScjlrRVJ2VFd0TklQZjFSV3BnVGpBTksycnlMb2t5SWg5WWY2SDFxX0RYVXBnNzlxMVQzQ2NTVkZkaTVDOWpsTXpYTFpPU0VQWTJab0FEU3E1WjlGQTc4SElLb3g2UkVUcl9pNjJGN1VPNmdyTDcya2Y4TEZFWjE0SF81MEVaaWlmV2xmYTZoWW5ZNU5hZDZTWW91NjA2UFpabw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "La Gazzetta dello Sport",
-   "region": "IT",
-   "date": "2026-11-13T11:13:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
   },
   {
    "id": "af9a3ee5ef",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
@@ -12,23 +12,6 @@
    "source": "Saber Vivir",
    "region": "ES",
    "date": "2026-11-14T07:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3552e791f7",
-   "title": "COP31 evita pactar la salida de fósiles mientras Finlandia lanza su hoja de ruta",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcEhBblRyOEpVMTRTUFNfektLU2pZalk3eV9uNnJKZkZjbGE3bWhTTVhKTW1VUTlibHYwcGdNdmhwYmU5RkNCaUpKeTdzVHItOUl0WnNSaHNFdTRSODFEMUpaV1dUZUZRWkJWTnBSUm9mZ214Zl9mSlFDTlg4a1JsS2hqbUJINTRYVTZRQV9lTjhXbDJPa3kwODdIY0hfbTZEUlBuXzJSZi0xS1lWQk1QSDZYVFl1UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Euronews.com",
-   "region": "ES",
-   "date": "2026-11-14T06:02:31+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -123,9 +106,9 @@
    "topic": "Society"
   },
   {
-   "id": "398492d4b9",
-   "title": "Un consejo de Rafael Azcona",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MNThGVlowOUF4Vnh3bTJIY0tMVjJQYWRKZWVrVzZpZUkwY3N2ZDFWRUdsTFZ0Skhwc0RSRDhGRW5ieU9OY2tudUdTbVBONHNQbk02R0d2dUwxWV9TN21PaG1NUkc3dFpyWV9Gdk0xSVdWREpjbU5wdk5R0gGOAUFVX3lxTE1DV2E1UEk1dllWbWNjUDlTSTltMXhqdi1wWFdFbzE2ZER6THF0NTRBNkVRR1BveDBOdG5PQk56blhEbE1VcEVMdTdpMW9Gb3AyN3VsblhqWlJYaWFDUWxoR0xoZWJGUFN4azdwbTJFbWt5eERvaThrdnlrQndtYlVpb0h4VHp3N1IxWUliZkE?oc=5",
+   "id": "a03fab62e0",
+   "title": "Diez obras maestras escritas por Rafael Azcona: de ‘El pisito’, ‘Plácido’ y ‘El verdugo’ a ‘El bosque animado’ y ‘Belle époque’",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRExwNEVvd2xmRGZ1Wmo4Z2dDSHdQc0tib3NCREhBRTZGb3ZYTnlOMmlSeDBGZkpHYVRCNG5jU1BKTEpQd1dVcGtWWmJScW5lU0Z4a3V6ajBHRmJJOVhPbXZGUnhodU9SMjBDV3A0d0thVWZicW9FX2E1NDFiTmVWX2Q1cUdoLWNVSDJrWTNEa2JUWW94eWoxdWJOX2RjLWNZTDMwa1JrWG1za0hsSEpYYllJTWxYd1lhWW1XNnRHUHVqaklRWDVwWnNzRzdCb1puTXh1OGZOa3FHZWtIcExLVlJORmczS0lvVGFxNW16bw?oc=5",
    "summary": "",
    "image": "",
    "source": "EL PAÍS",
@@ -247,31 +230,14 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2xydDdkb1NWTDJxY19tTHBJdVlsN3Q3ZFZ6UzRjRHVmWjRxSlR1SFdMd0ZTOXpnM1NZd3pkR1Utelk5Y0I2cFBHbkFTTkNIeDlBY2dvNFM2Wi15NkptWi1lOUEtSHBQWXZ1ZEZKdGFPUklTdUlBcTkybkJMa2gxVTB5dUpja2s5YmNYSGxDYmMzMXB2NWVhRWpNRTF1Um05ekpMYXhZcFNxZXpBUkZmTXFiN2VZREZVLVBzQ205NXQ4TlNYRGhJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "ESPN Deportes",
    "region": "ES",
-   "date": "2026-11-14T00:50:17+00:00",
+   "date": "2026-11-14T00:30:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Spain",
+    "country": "Argentina",
     "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "8860967b6d",
-   "title": "Guía para entender la montaña rusa de los valores tecnológicos",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlk3TjcyNWlHWUd0dUc1WWNrR3QzeGNUUTBzYnpUN2gzaFNpOEg3VDhTLWZUZW5wdk52V3BUWFkzNzFjaDlmNm01bTZULTNfLXYxMktPR0RNN3hSWVZ4TFZjNExPMmU0OHhQdGZvak54c1Bxa2FhV2dMYnBGQjlKZ05NWDJZT2RZbTBMczZtQ1BiTmdFZTFuNmpuZmZIcFnSAZ8BQVVfeXFMT19qbWxTMy1DZ3BzamhaWW1uN0dWQTEzVHpJMDFxYURDdjhkSm43WFJ0YXRlVTVEZEZpcXNqcGhDcnBCdjB5b2tZNVdQUTd4REZaNWJoektsNFNsLUVlTDJmVEc4YnM0T3hqWE9wdTFXWmphV3JLUVlQeXVJRTYxcFcwU0lwMDBIU1VoRk5ESFhtc01UTG03WkNaeFBJSWZz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Expansión",
-   "region": "ES",
-   "date": "2026-11-14T00:48:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
+    "flag": "🇦🇷"
    },
    "topic": "Society"
   },
@@ -310,14 +276,14 @@
    "topic": "Society"
   },
   {
-   "id": "633abd5d1b",
-   "title": "El Celta golea al Salamanca de Muniain y avanza en la Copa (0-5)",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzZKTVF2NWJHYlFkV2JQZ1FzNHhRLW0zcUxxbkFJeFdyN0RlSzhQQ0RiOW5CU05xanlCOXFjN3JZdHhsalotMTdWZHBfYmd4d0J6aTJGT19OUjZnNnUwRS1NaF81b0Q3S2NyVW9xdmNzd1ItSGZvSEh3elNaTVhLbncwMHhieWhubXktT1ZhNGJHaWlIdjZ2YjlqcmlpbUNNTUZ4ZEVNUTYzWm5wRU1maXBzZ9IBxwFBVV95cUxNVDZkdDVjWEl4bGdDN3l6YkREdTdkY052NTJKbFN5anVrZ0ExdTNyeC1hV3VBUUk1ZWRmYjNoUG1FWHRMbmJMUlFlUHpESkdrODZiSGZzZXk0QVhBVVlsQ1FNNFhRNTRoemt1U0ZuY3RUbnVncHV3MjNuR2RlYzExWU1KZDlUSDUyUTdza2t6aEZpQkk3MnZlQ2VpRFlGNUNJVkQxT1FpdlgtdzBFZEJZdGhRWTFXNnNlTTh2cGlJc0Jwd3YxWmlN?oc=5",
+   "id": "4fc4de9ed7",
+   "title": "Luis Carrión: \"Ha sido una buena puesta de escena desde el inicio\"",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKLWNYRzluVFVKWUVncmY1Qml5U2tCUGZlUnN2Zlc1aGYzUXBCSXU1bHd3QWlLTGNVQ0k3TE15VHFvQWVjNFJDaG1DZXUwQnlQdWNpNWZTU2txRUlBM090ZzJGeFhhSFhpTGJKcW82bUVSYkk?oc=5",
    "summary": "",
    "image": "",
-   "source": "EL PAÍS",
+   "source": "cd leganes",
    "region": "ES",
-   "date": "2026-11-13T22:32:43+00:00",
+   "date": "2026-11-13T22:26:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -361,6 +327,23 @@
    "topic": "Society"
   },
   {
+   "id": "420b6ccc26",
+   "title": "Piqué estalla contra la federación por la incertidumbre con las sanciones del Andorra",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGlVUm1MZ3dWaFhZLVh6TEJuV1hmb0FPSi1DcGtJQmtoVXVvSGlRWURQazM1YmRsamxKSFJRMnU2TVhERzhiY0tkVXVNNE9RMVBCUnNmcFN6VU1Fa241dUhoOFY0ZTZCeG9mV2h6aHZnMmNKQlc0SHJSYWQ1NHlyZjVGTXdoUnlKbUx1ZnppWC15REExbHNCX29ZVTNudFVJWjk0Tk1jZnUzMDB3aXBfblZhUDNKbTZjX2NMZTVlajFGc24yQUHSAdMBQVVfeXFMT000OFRqSTdHNlJqS19UcXpHb0JZSUhLdHFjX3pYdExSSzlLOGdrTDNsVnAydEJweEpBQXZVc0RWSkJHWnV0ZjJhSkhvNFlabUdaeU5Pd1hZY05XS241ZkZ0VFJhWUoxYTFUMTFYS1VUNXZ4Uy1zRm5LMzUyX3lJd25yTno0N3gyMF9IWlFFVEI3eWVCU0l5bko4NUFkRHJOblZQTHB2NkFxUXA0dUs5R0tjQ3VOeGhSOVItc3JuTWZmRUQ2ZHlUWkJfZ0hzV2VuV2RyOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mundo Deportivo",
+   "region": "ES",
+   "date": "2026-11-13T21:17:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "7733ce0048",
    "title": "Rosalía, Edgar Barrera y Milo J ganan en los Latin Grammy",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjc3TGNRaHZPdEV1cUsyanFiQnRqaG1RV1poVlB5elVGUlB2M3ZaTUJ4bTEzREE4ZVR3UUhyTmxGajAyMjQwWlpQeUdUM2xBNGRURjNOaEUtU1JBTGFsSWpYRGVwclg1RGtaNGtmR0FYbGM1Zkc2STgxcTNpblNEYUsxamgyaVltVDRRQWw0MjEtZDRTeFczQlJVMVc3RWd6Q1VGV3VrOTdhSVpGUDV4UzBRSUFyZ21jSzRZblB5d2p5dw?oc=5",
@@ -376,23 +359,6 @@
     "flag": "🇪🇸"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "411b41226b",
-   "title": "La UE enviará representantes de 5 países a las conversaciones de paz",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUG9rb1hPZVA0N3JKbVBERl9FbGFaWjFLTWZ6VGxJVHJxWWpxNkFDcDRNeUxXOE40WUdqWDJVWTlvbEFTRUNmMUp2b05rdzB1U2FmQjgyc1NqYjVXb0Y1SFo0bXB1aEUxaVMydlEyZEgtQl9vVzNmNlNSRkFJaVV3TGp0U3FkSW5YYkFEWWRSZTZ6cGVQNy1ld2xKYUtKN3d3NUVVZUhRSWlDQU5fSG5nZk55M3YzWTRNTFdadGxsSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Euronews.com",
-   "region": "ES",
-   "date": "2026-11-13T20:15:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "e03cb29ccd",
@@ -429,31 +395,14 @@
    "topic": "Society"
   },
   {
-   "id": "082ba7e1f0",
-   "title": "Alineación de la selección de Países Bajos: Xavi elige al sustituto del ausente Virgil van Dijk",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYVRGcVhiTHJNeXhGYXczUXhSZVQwbE94bmRSMmhWN1R1Sk5iUkl6alJoS3dZdXZtek9pNFBDWHlPTG5ZNC0yUkN5aW5idl9zODFQSGJjT0J0d21tTUVDOElWeXhKNFBIVEJCZXpvbk41M054NHp1SDNKbkJoYkVBMDVjS1ZFRDVpX3RvaUphYUxiN1NNRmN0dURxSC1pSkZFUzB3VUJsay1tUEZaZm9wZTdpd0FrMkFiOHBnNEZhejRoSUQzSGN3dDRZWi1uUF9pWUlmWEdyYWdPekZIQlVrUw?oc=5",
+   "id": "6663a4b9b6",
+   "title": "Guterres afirma en la COP31 que quienes se lucran destruyendo el planeta no pueden dictar su futuro",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3dFNndzZVF1UTRlc3pVX3RKV1RYYzlSUlNpZ0hqUVF2cy1KWElXWEdFb3drcERDS3B2b3hXeHhwYUl2aWVaNEFKbVFqcDR0RGJVMnlMRVlERjhDOWJicHpwTDRxWlJaOGJWb1p0VDdlbDBBZ3lGTWl3b2hKSHZuUlhfT19zVXNGaS0wX0xxZ3laejlyZmk0d0otM0JUQmJNNVVkY2p2U3R6cTjSAbABQVVfeXFMTXpVb012VlBXTDJlRE93NGs2bzZhRTNua25QNDFqYU4xdDY1T3NWN1B2eXN1V1p2QWZiZVA5U3c2XzBiWmNGZ0REWHVjNHJJZThpRUQxMjBWai12blU3X2hMUFNCYnQwdHdoOTBnT0NHUTNrQ1NjSGsxYmVQVUtWME9VckxZdWhzQXR5WmFDeE5ZM1lBcl9SdzV1M3RnY2xjZ0ZMeXJpdnlqNlpGWEM4eUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Goal.com",
+   "source": "ABC",
    "region": "ES",
-   "date": "2026-11-13T18:48:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "390e950f0a",
-   "title": "Piqué se queja por la demora en las sanciones a los jugadores del Andorra: \"Es una crítica constructiva...\"",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcUVWRncxdUxHUEV6SGszYjlLMTh4YXJHSTVGRVZZc29XUWpnWDJWVFk1Yklyb2Y4QVNtRU9RWjZ6Q05EV0o1RjBYOWQ5ZmxjTkxlTUFFS0czbUNOaGNCOTlINU5yclpOX2t2Zll6VHJtYkczQkdITFFxR1NzWWRWSkNWWUF4MzctSGpFQ3g0aHZNQTBiUzd0ZzJfRHQ4M3M0eG9weEhDc1VVRHpqbW11NmgzV3E1Vlc3eUZKX0xobWVzT0ppcFI2NThEVWxaQVVpZUxheWk1SDlyenV6X3I4Mkd5SDJTRDR2UHfSAeoBQVVfeXFMTTZlR1hQU2NnRE5HY2xza1dFOGMxNG8zTk9nUURoVW02dnptZ2NYZnZCQ2NTLVp4SDR2NE5PdmgtZHJ5OFIyT1BTblhqeldhMzl0YllDbFNsbjdrUkd3b0plN2xNbEdrMDZjYlFwOHpaWTBsbFZEZXlVTjl0S1FWTGNvazQwNGs2M0ZOeS1DNFZsSWZuUktkaDVUZEdXa1NRNUIwSmZIVGNydkhjTVdicnk3ZXJLaE1LdTVWNW1kRmlsQ29WUEo0Vks2anAxNTRPanZBQ0VFN3BpelM5OXZKcFV3bHVaUnNxUmJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Antena 3 Noticias",
-   "region": "ES",
-   "date": "2026-11-13T17:54:38+00:00",
+   "date": "2026-11-13T17:39:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -497,23 +446,6 @@
    "topic": "Tech"
   },
   {
-   "id": "5bed3dccdb",
-   "title": "Argentina vs Uruguay en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXNPU0ZKWnk5Vkh0c0c4NWkzd3dqUXJvVzBXblBZeFhEZTdfQUphTFhMbU9OZHNPZXJXVklHSlkwSXZSVG1sbzkxSkRrWTBEREh4djAyWVhuc0ZLRUZDbWU0WmhpT2RERUFqLWlXSjQzRDZDNUtEdFV3VDhSRnd3XzNBQzdfZWF5TDBEX19BbmZibk9oUFVzQ0kxOF9CQ3lPdDdvVHJJTGFXMVZ5RkVYckQ0cEFPNXIyTUtqWC1LTndwMlRfdFkxcDNjT215c0R3amFGci1HaVc1b3RFNzZhR3dnMWdhNDFldUU4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DAZN",
-   "region": "ES",
-   "date": "2026-11-13T15:29:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Argentina",
-    "place": "",
-    "flag": "🇦🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b4d02960ea",
    "title": "Enrique Cerezo destapa su estrella en Almería: \"Mereció la pena dedicarme a lo que creía\"",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb24wSVQxWVB4bVZwTjNKZW1kaXFXS2U0YmVIN2pSd0F2ZWxXV0RUSnZnYk9Zdkh4UWhlT0hLV2p0NTM4dl9VdGZYMC1hblBjNllITmswVjFVa2E4bnRvaXY0YmN1NURZS0RCcnA5MEZUTVlMV0NwdThCVm1DYll3TThzdXhseWxoOU50V0FTb3MzU3dxdjdxd2NkcEh4Y2Z1Rzl0eno0TdIBrAFBVV95cUxPZmJhVU1MUXBLRzVxRnRUQU0tMm1mQWtkZVJmWGRWSzcxUzVFR2QwZGxsZUF3VHFwZjlJWlJmSzB2aWhDVXE5TkdUS010alhuampwSThfbXkyc0hJVGpYajR2SEFSb0lIMmpWZm5jSWhkTFBJLU5CdWxXc09RNW44UTlfZ3U0dGJRbGFlcUpNVXNxWFpVc1dpUU9SNlVyWkhsblpWUG5CMndmdDVR?oc=5",
@@ -548,6 +480,40 @@
    "topic": "Society"
   },
   {
+   "id": "8d3a3855a8",
+   "title": "Lamine Yamal y Oyarzabal ya están en Las Rozas, listos para el partido ante Inglaterra",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2FSQmxDVWlxcVJOYmFZU1FmZ0p5eWNRT09HU1B4Y3RmUWVRNWNMRUJzelFQV1NMN1lRaEhlUmFtT2FXUnhJaDAyRlBzYWtDTTZ0YjlLbHlvbGdmQVFQck01VktqelJUUEFiWnFGV3JiX193M3podXZTNzRSR2VJQ21zd0h4aVhDbHB3Tk9DUWhSZnQ5T1BhWFh1dUJZY2fSAZ8BQVVfeXFMUEdoUG92bFZ2eEMxOG8yMU1wSzVoZnZlNHlWbWxLSXd4WFN2WmZoRnVrTTlPSU9GbTR6c2ZJN3lJY1NFaUl0MG90c0dvOE51WHdWbTgxLXRmeXBmd1AwYWxYY3M4SVdCOWlwTTJ4WkFxbS1xYm96TlhRUDBoRlM4WkdHM2IxUjJmRURqcjUzRklCcmVnV2NZMmVEa0t5aGFZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MARCA",
+   "region": "ES",
+   "date": "2026-11-13T14:10:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7b151ef786",
+   "title": "Pedro y Manu Sánchez mandan un mensaje de apoyo a Broncano tras su entrevista a Santiago Abascal: \"Ahora más que nunca, que lo sepas\"",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNXzEwcVJrNXdvTW96WDRqU0FsdlAxUS1qZkpyY0RySnlteVZOMlAwNzFneHVQMUZEV0NzSjgtNzRZeUZmYm5qQXJwbUwzLXZob2M3TnhtaUV5QmhQaXBPelpOYW1QYm5KTHhiY3VqQjUtUGs1QmJWR05rN2w1NFdPbmh2eldfZ0VxTkJOWGNiYUJJOFJzQXNPQlpBaElkYmtjRC04V0p3VUlQR3pYZmRfYU45UlNNaC1BbFo2aDZZZ3BmYlpEN2JLd0VOTGhvb0NQbUdjZlFPdXZtZ0JnNTM1aGpyWFpybVhSWEZpY2ZrS0w1b1VkZllTdlhQMGwzZ1Z5Q1FvdXZtdDBVdzdhcFlRTGU5cnlhUm50RXhpY2lKbmhYWjVwZHpVU09DcjBRRGpvX0RQSXJIbjBPVE1K0gGnAkFVX3lxTE14a2tDc2t0TzJILUpHTmduS1NBZDh5ZlBHdllaNkluWEV6bEJpUHhXTExwbF9ESEw1TEtsckprSHQya1JFOWhOdUhrbUU5bkl6YnZXRGM2OWF1aS1EbjJmWVVNZGJyY0VEbkMycGpWMnVxeS1NTTVrNDU2anpubWZrZlNfV29nbjNCZXNYRGtEUlZ3bHhodU0tLWlpNUpCTnpTYVJITWxjOFI3cGkyY1N6N245X1BHdjBDcHdEWmZRSGFsVE9LNk5JUnhMSWhZblA4VHRxWDFEY3RZdWpTejYyLVlYSGFwN05rSzFwY2xvU01Vdkcwb19abUl5Q1dJUHBEckNYS2l3TFhLZGtoall0RDY2VFQ1WHpsRGctUmdIQjg3ajVtdnM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "El Economista",
+   "region": "ES",
+   "date": "2026-11-13T11:53:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e0cada22d3",
    "title": "El Centro de Salud Tomelloso I acoge una charla sobre diabetes y salud bucodental",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGpvQmg3WHFaX0JOX3V1aDlQUXJIbVRMTkFYeGF3MGdxZDNKRm9ZQXhNaFdsdG52QVdZR2lqVGF0VWZJQTEtb0VrNy1GZnN3QjBaQ2wxRHV2aVgyczVzTXlpTGJqMjZQZm8yS3VvMUluSmpKNERhOUhqMUdUTnQyVnQ3UDVSdFgtZnROQUYybDZzaGZHNjA5RVk4VzhIcV9EblFpaE41TnVwdw?oc=5",
@@ -565,14 +531,14 @@
    "topic": "Society"
   },
   {
-   "id": "c3312be939",
-   "title": "¿Se acabó el OK Google? Las nuevas gafas de Google responden a Hey Gemini",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWVWRFk1N0hfNXZQWm80M2RiclIwbHVQRWJDcEVleVJhMExDQ01aWHRicWdta3lGVjZReVhNM3hmMGJTdjZmVDhLbzllYU42S2tjTHR6dXg2cW4zMzhGX3QwZjVFRzczMGpYSVVUZGhwSTFaNDBzWEtEYno4RmNoS2ZGZnZDRUM5bnRTSU5KaWp1V3JKNEwwQVdFbEZtaUNGeW9rMnlCWGVpWHlsSjRhMjRVaVRwZw?oc=5",
+   "id": "e5638b390c",
+   "title": "Warby Parker materializa su entrada el mercado de las gafas inteligentes de la mano de Google y Samsung",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGpNRTc3bktXVWRzMnJHNXZ1X2tGLUQ2V2YyLVJXcjFfM3Y5Y2J0c25VQ05iTlI2Q1BtWFF3M254YU50bHFXNUtBdE5xNXZyQ3lEcEw2QVhmNWhYUy1NVTNva2JUVXpBMHRFUXdfbU1pQW5GVktRR1VsT1pHTHNsR1ZWTmwyWE5KcEVQMFJPaGsxYWl0Sld6MncwOXRXYTBmYkNfbDU2U1NkbFhVQ1YtUkF1R2NXanNLY2ZtX0d5T2ZHM2pmU1Nz?oc=5",
    "summary": "",
    "image": "",
-   "source": "Geeknetic",
+   "source": "Modaengafas.com",
    "region": "ES",
-   "date": "2026-11-13T08:55:55+00:00",
+   "date": "2026-11-13T08:54:33+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -596,7 +562,7 @@
     "place": "",
     "flag": "🇪🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "f42eb7b57f",

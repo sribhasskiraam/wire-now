@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "countries": {
   "IN": {
    "name": "India",
-   "count": 36
+   "count": 37
   },
   "PK": {
    "name": "Pakistan",
@@ -23,7 +23,7 @@
   },
   "IE": {
    "name": "Ireland",
-   "count": 35
+   "count": 34
   },
   "CA": {
    "name": "Canada",
@@ -47,7 +47,7 @@
   },
   "PH": {
    "name": "Philippines",
-   "count": 35
+   "count": 36
   },
   "AE": {
    "name": "UAE",
@@ -55,11 +55,11 @@
   },
   "IL": {
    "name": "Israel",
-   "count": 36
+   "count": 35
   },
   "NG": {
    "name": "Nigeria",
-   "count": 33
+   "count": 34
   },
   "KE": {
    "name": "Kenya",
@@ -67,7 +67,7 @@
   },
   "ZA": {
    "name": "South Africa",
-   "count": 35
+   "count": 36
   },
   "GH": {
    "name": "Ghana",

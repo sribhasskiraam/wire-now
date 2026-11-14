@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:39:06.509920+00:00",
+ "updated": "2026-11-14T07:44:50.366198+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
@@ -29,23 +29,6 @@
    "source": "G1",
    "region": "BR",
    "date": "2026-11-14T05:01:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "41b1b63b7e",
-   "title": "Agência de aviação dos EUA implementou ferramenta de tráfego aéreo com IA três dias antes de suspensão de voos",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbEUwUjVmS0hFclVzdm1SUGxiUF9iR1FPS1hHaGdyaFc0aVBFT3F1TWNwZVYzNlZiRmFPb1dsRGtJdnRvcDlwOEFQMTdHOG1oSGZlSHRPdXZSSnlwMWpHcFN6WEVBVGdJQU9Nd21nWEROeURtaG8wSUV5UnBIQ3E1VEg1dGtmTG1ZUl9hRUpELWcybUlncDVDZWxCNF9sZHJwa3Bod0U0NFZtMk03NTNuTmZUbzBpcGlxX2pLZFpLNVNoN3oxRTBzaHZacFJxSGlFLUxJSkotd1o0U1MzWDVCX3E5WGYxenFQYjdIM2d1WWlocjd1Qlk4VE5R0gGIAkFVX3lxTE9kVEVXVVlsUFdDazZnQVJLRjVQTDkwd24zaFR5bjc5Q19sRUdJUHJEQTZMR19aWHYwWHdkTWdwNjlMSThlZUlxRXFkRjlGUElXc21pUW02NW1NUnJrd3c2Yy00TkRSSkV1WlNEYTNuRXhCQS1HZ2ZXOVZQTzNkdzNZMXkzT0paT0hhLWVQMEo0aU42RkkwTG1jZzN5bmEwVGtVSTg4VWljc0hNa1VWNFFHQndIeUR2ZC1sc1Rlb1IweE85OG1ZNWsxdjBjQ0loTDFMSVRZejZRR2tveHFsMmFSeWZHSjR0T3ZEVERwSmZzQzR6WEVlNzlKcXoteVNmNGRBZV9JZmVReQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "O GLOBO",
-   "region": "BR",
-   "date": "2026-11-14T04:42:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -89,6 +72,23 @@
    "topic": "Society"
   },
   {
+   "id": "bfac3cf8ae",
+   "title": "O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONGd5RmttMVFMUHBuMlpvTllQY3pQZmNYeTViS01vRlR1TFVzSmR3WlA4ODdJR0RmZ1dGeWtKVzI5di1WaTZEWk16LTRDQlM4Mm01QWVMOUxGXzdNdTNvcmJxRU4ybHFpQWtoTzd1dVd5WDhxeDg2TUJYR1NtOS1OVUM3Q3F4YlZkMDh4cmNZZ3hBZHZyek5oU2pRVUx5UXU0Nm05b2NRVDBNbm1ZdnhhS0hfNFNRand1dXBQS3ZvMXBYYm1fV05YRk00SVhzS1hBWThfNjlHX3lCdFhTZlViTURDVmpDRWdoc0lGVHd3eC1vdWItSEM4YUxB0gGIAkFVX3lxTE9RUUo3dkhySzZlNmJobWxxRElFWmRfSDQtUjZ0UUxaVUpJT1Znd3hQeE5Rd3MxOHdaOGZIMFpKZnVsVFhBbGFYMzM5U0xJRE16dVhaRmpyOWI5a2ZNQkUwRnZmclZMb1JVV2dVZ0lIcVJKZTd2TERtaXZOZ1FqQWJFUjlfVVA1RzJVX2NfQ0gxaUFPWnktYUFTTDFlSUxlT3Jwc3FjSW1QSlVrMVhYU0txMHE5N0NNOElVVTBFZFRweGR4ZWlhSlo0Y3gtbVUzdkdlcjUya1F6V1RBRUEzQ3R0VEhXOThmNWZRNlI0TWhsT0VqUUQ5bXZmOElxb3NFSndJakhFODJMbQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "G1",
+   "region": "BR",
+   "date": "2026-11-14T03:00:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e2732d3211",
    "title": "Eleição do Vasco: veja propostas dos candidatos, formato e cenário para decidir novo presidente",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnJlb2FWVmwyUlVGb004dk0tdmpvWUtpUzdybzlMYU0ycmRJSWN2OHQ5VGpQakVrVUVhSDJvd2hnbmFFeEM0Y0VlVWhJeXVYZXhidjNibTdRdkV1eDJsX2thZFBBQXhOX0g0MXNWc2dIY3JlQXFieUpyR3V5eTlnQk1NMTI5MUNqS0ZHMk5DLTgyeE95WUl3MDV0M2lHazhNVTdOakZXVlk1OUUtR3c5QlRxdWNWSEQ0YTFSTHZpSC1uaTQxQVBDeHBVRkRBVk9famxyVkJPSWUyZUhDYzdFeXhocWZxZ2lRYWhiVmJzeWvSAf8BQVVfeXFMTW1lZFBPUXIwVUdqdjhqdGNmSzZjVFdwWEhEZ1BYOW1yNmtMdEVJYnJsa3FibUJ0WWFlTGRSY0ppdUhmNGk0OVo3WDluWUlScFIxREFxZ2t2UG5pNjFmMEZhV3F0MDIzSnJZZzNaNEZvVklSeFZOY1hqZTlPNjF6NTV2WVhoWUdYd1JPa1plN1Nrd3BjQUpaMVdudWxQUHg2OXZkTUk3bTVnYXA5bEtzVEo2TDg2VjhkUHV6emo3SnhpRGY2MUVTRmlfTm4wcGVZMXNFUTVSU2FEdlN3X2V4MWV2S1RQN0RnRVNUdHpRa2h6NzNFNk4ybDdTQ01tQXY4?oc=5",
@@ -123,6 +123,23 @@
    "topic": "Society"
   },
   {
+   "id": "03771e2dc1",
+   "title": "Com Arrascaeta decisivo e gol contra 'bizarro', Uruguai vence a Argentina na Bombonera",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0gyWWRiM0pzdGZLYUU3M05YdllpSzJyeEN5Y0xCM081TDZNZldGZnA0WmNqaTZtSjNuVlhyVEFwYWxYZkJaT0p5MUpmaEJFM0VhSkVpbi0zX0J1SmVoUU1lRWlFLUVRckJiYlBIR2s1cEJ1QkRtRXpiMFVIcXJJQTFNbFhqWnhBYVZtdDF2WldxV0VrVnVucE9uSUNDREhGc09jS3FMQkRHb2VxUUs1Nlhyc25UMWFmNHJGcUw3NVVBOTRVUFFWUw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN Brasil",
+   "region": "BR",
+   "date": "2026-11-14T02:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "8dab892b01",
    "title": "Congresso pede que STF suspenda parte das decisões de Dino sobre a 6 X 1",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblBwY1dTdnRMdWdrVEY0cmYtbndQaUVIWlVMVkRNWUMwcHRhNzZ5Z2xfUzZ2d3NzSXM2aXdMS1gtYlluQ3IzcURWcGtCWTI0cmZVOEU2TDJUZ19GZ1BWeEoxajdTQTdhSzc0SzVFSTVrSmtrQmplN0ZmZnZpLWk3ZlQwaVZOLUpDY2dKc2hScjZISldUSzBqMTZhRHJDSEhpdjhWUnh1ZVRweW04T2RQbl9CMW0?oc=5",
@@ -136,23 +153,6 @@
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0b6a81df61",
-   "title": "Uruguai frustra Argentina sem Messi e vence com gols estranhos na Bombonera",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMklIY3JFYWNDaS1fcDg3REZzdEIzYkZySUxXTVpHSE1YcmNKb2hfUkNTbV9VZ0RpUVNURnNRUnBGNUdPT2JRZnNZUzluTWtHSVJmV2Z2OEt3UEl3bGl2MlpFQ1VHbzAyaWVodW5VdDVXVmQ2bjc1UElsWnNjLWNBRUsxamZ5RjdtWlRHQU94YUxhS0YwYXhyN3NCZGZoRmM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "UOL",
-   "region": "BR",
-   "date": "2026-11-14T01:00:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Argentina",
-    "place": "",
-    "flag": "🇦🇷"
    },
    "topic": "Society"
   },
@@ -212,23 +212,6 @@
    "topic": "Society"
   },
   {
-   "id": "75c252c556",
-   "title": "Triplex do Guarujá: Gilmar diz que Moro manipulou processo e que “envergonha o Judiciário brasileiro”",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnRWZmF4THdQRi0tR2R5aGNsU2V5MUFmYUZ0OUQ3NHhGZVJLSUFfV05NaktQdWpaclczUmNqNkRFVy1hd2xiT2FNdUFkWG4zTEk0Mi03dGhIZElOU0JXNTc4aFlrN2NiX0Y5VEk4b2FPeWRCN0pHYWpCU2RhcW1WVGdYVU1DdHBkcUhYT2ViakRJbk1OLUJHbXVGNUhjSDV2UEl1QWNGaXNVVThoeDFfbE1zLTNnZGpXVXE4ZDNCVnd1Yk0weHhVMm1qdzNaZlhD?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NSC Total",
-   "region": "BR",
-   "date": "2026-11-13T23:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4bbfc65d2a",
    "title": "Mpox: Secretaria estadual de Saúde confirma primeira morte pela doença no país este ano; paciente é da cidade do Rio",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcFM4N1h6SGhmWFYzbUN4MGtNam5uSVJBVExmc0NkY0xzMWItV1UtS05kRjU0X0VPdzVBRm1kcWJBbjhMNXFjQkRFUGlvSVBGOFJobkk3MUliWUxwdm81Y1dITTlfUlItaU9iZ290LW5Ja3R2S2xnSG1BR0o4UDI4ZzVpZlBDUXo1UFdOVmRJNUtyYjczWTN5MTFrRVB3ZXVLR0o1ZWczM3Z1N1NNa1FuRl92dFZNdjdSc1A3ZW01NmgxLUthelR6Xzh5NlJwM19xejJtRThrZ3JLZ0dLd2VpWU5sSkdqbzUxNjVSbVhCMFN4WnZLalljTXBacVPSAYsCQVVfeXFMUGQzSVVPcWRoelg3SDdtZ2YyWE1Eek8yZlF1UHRDRkxYSVBHS1BZbmVDdURmanBZbzl2RUN0Tzc4VTg5NXZ3UWgya0dtcEtaN1JMODFSbWk2d1hMdVlPS2J4T2x1a0VwLVEwQ0g1V0RmbTJTcjljdzhxSG5remtQVm03alpjMENmMnNoWHp1ZEJNSUR6YS1QVVNCeXVTdmhyM1A0VWFKdlRKeDVZZUVMTmdGNUFwbE1NcVVzdU4zZnlxa2k1bXhkZkp2MTY2dC1BcW16NUxLT09YbGxvX2loX29YZWVDU3RZZGdxejdFeHg3UmYwaDVHNVBLVnBabENkMEk4LW12YjF2QUNz?oc=5",
@@ -280,6 +263,23 @@
    "topic": "Society"
   },
   {
+   "id": "807e7e0627",
+   "title": "Gilmar diz que Moro manipulou Justiça para tirar Lula da eleição de 2018",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmVmTmVjbFRlNFBaZk5fSFE3SXA3OUFWSmU2cks3X1dPRlFteXE1N2xiRHpGNk1ZVHpQT1pqQlBPUkpXaHpHelQtX2c0OTFYMWN4V1VIVGx4UzlSWmMtQ0dBVDYwbF84SnZWZzc2dHQ5Z3lDTXZkbERmQTBZMVZQWUlVWkZkelVpd3BjY0ltUHFOREJYVWxFMWdRLTJrU3c2NlBKN0ZnSzM1Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Metrópoles",
+   "region": "BR",
+   "date": "2026-11-13T22:35:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "71ba90c0a3",
    "title": "Dá para pedir indenização à Microsoft depois do apagão do Outlook?",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtYVBHalR1VWIyZ1YtdU5oTmdZaTE3QnpoWi0xTWpMSVNrcWJvZXc5bGlOS3lMR24tc09nR25WOHR2WFVhTE1YXzFrcWlPQ0VZVDdlVUt0UHZXSW1ZTGhEbDBwb9IBaEFVX3lxTE5INDBvbHFNR0NZWG85dXN4RVpCVk15MTUwYUZENU1Jb25SVjNlMG9yYVNMZHlacUtRTzdBdHB4VEhUaXJzSlhvVnhPWEVSMTNKVjdaQ2w2SlQzN0JPQkM5QURzcWNPckd5?oc=5",
@@ -312,6 +312,23 @@
     "flag": "🇧🇷"
    },
    "topic": "Society"
+  },
+  {
+   "id": "470d01bc9e",
+   "title": "Presidente do PT diz que ajuste fiscal preserva programas sociais e mira privilégios",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGNUcm1ac3R6RF96bTRjOUJ5M1JHTTNCLXZUTHhBZWhNZjJoNWs5NjM1SmhlenhLdzgyalRqa21Ga3I5bU5QQld3RTlNZ3lMcWg5S3NIQ2RhVjlXTXFSN1QxRGhKbXVnNUtxT2hkMEZFR2U2ZENodGhBel9OMUxOTmhHelJRWkt5cnVDLV9rTW1halJrdjByZ1FEMkFQZEZmT2k5dnNR0gGuAUFVX3lxTE03WWN0ZERhU1dickJpelROejRHbDFPdVVJVkFvSm5CZGtZekNmelVnX2lmR0pwa2JYaVEyaGNBM1ExZFlNLS1RTF9tZWRzc0tXMHVqdVpCMnhsYURYZkR1RWltVE5GV1ZxNUZMVGhGYjhNNWtUZUVqcC1ab2FIV0lTNlhOZ0w2aG5xYlZFLURhMTlVMkFPaUFIZEE3Ni02VThkSG1CY0hobExsN20yZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Partido dos Trabalhadores",
+   "region": "BR",
+   "date": "2026-11-13T21:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Politics"
   },
   {
    "id": "f6400be04d",
@@ -399,14 +416,14 @@
    "topic": "Society"
   },
   {
-   "id": "6273b5dfa6",
-   "title": "Morte em academia de escalada: instrutora e colega dão versões diferentes sobre queda de aluno",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR3BfcG5Gcy1wY1ZLNnU5dHM2X1Z5Nk1YWUcyajBDWGdmS3pFY0JZUzVTUlk2aXBGTV93ZmJZY2dwNlpITU02ak5DdVBEZm9mdGtQUXU0TlhVWndFc3labk5kdGNQb2JJaWYzQUhnYi1MODljTHZLNHpweEdJOVNJOXpxNE1PQlJYUUQ3NGl5eE1oLWVTaldzZ2c3Mi1VVTlpWUEtQ096dEd5THZCUllSd0ZLQllYU3NURDh3NFJLSnNVYnlNTUdiVFVzbnkzMTkzR0w5cVdxaFoxSWlxUjY2RTRuZEJiWkQ4V2JLdGxnTTh6NkRBWVHSAYQCQVVfeXFMTlp5dmJld0ZuUU9uWWN1TG1kN0R1UHhXTXp3MDlTN0stUGtZM3ctck5GME9TRlV6NTNUbjd2SVl3UkJLcU5GazZFM3VsN2NQZUhlRUM3OEc1S0xleXZJNDRUVFhiclhQZWNYUmZGYmdXLTBTaEw1SDVEV2J4cHRYTUJ4TnY0NVl5U2dZaWRoV2lVQWxrOHdwSFdZUmNqU0pkVXZZbXk2cDZCQ2dfZ0hYTENra1RzNjl3c3JiUEczWGVQamtiODJFMkx0U1NJSmhvMTBDUXpiejFJUjVyODgwa1J5TFU5VkJmR0hSbW5RT1RPc09KYWtoN19zT29iWXlZVExlR20?oc=5",
+   "id": "4457f61796",
+   "title": "Bloqueios obrigam fiéis a fazer peregrinação para ver missa onde papa foi bispo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRW83VUxvRWc4Qk50bVRFbS1hOTR5NWt1YTR5UjVnb0d5bDF0T1kxMHZFMGlWLUVvX1FPV1FNV0xWWXA5YWd0QVlMYjk5VlpVWXM2TDQ3WUpvY0UxZXhJOWpJUDRBUWZiUlItYUZOWEFlVHQzRWVib1JZaGd1eTNzbkpncWdTaGcydzRqM0hPTXNnX25LeV9hOG96RXIzZldKTm1rOEZFZXpIZjBaVFFxNURkYmtxWDQ4SDFzN3BwOUZ3RU9aeWU5Uw?oc=5",
    "summary": "",
    "image": "",
-   "source": "G1",
+   "source": "Folha de S.Paulo",
    "region": "BR",
-   "date": "2026-11-13T18:17:44+00:00",
+   "date": "2026-11-13T18:07:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -416,14 +433,14 @@
    "topic": "Society"
   },
   {
-   "id": "4457f61796",
-   "title": "Bloqueios obrigam fiéis a fazer peregrinação para ver missa onde papa foi bispo",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRW83VUxvRWc4Qk50bVRFbS1hOTR5NWt1YTR5UjVnb0d5bDF0T1kxMHZFMGlWLUVvX1FPV1FNV0xWWXA5YWd0QVlMYjk5VlpVWXM2TDQ3WUpvY0UxZXhJOWpJUDRBUWZiUlItYUZOWEFlVHQzRWVib1JZaGd1eTNzbkpncWdTaGcydzRqM0hPTXNnX25LeV9hOG96RXIzZldKTm1rOEZFZXpIZjBaVFFxNURkYmtxWDQ4SDFzN3BwOUZ3RU9aeWU5Uw?oc=5",
+   "id": "a395852b5b",
+   "title": "GTA 6: fãs descobrem forma de aplicar um golpe na mídia física do jogo",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEVpeHNPN2M5Y18tUVNfV2ZFZnNQMm1HY1hDeTlPMExxd1RTVjZ5ak9NWElmWlBkdUwwb1M1NExiUmRfWXdqYmI2azRodGlmWWRXY2N2MjNyWF9zN1B0RDQwWmdNZ21yRUNSajdLRnF2TlZLUk5JMlluUFBkZ0RPUl9USElxV29aRHhTT0UyLXVoa0tqUDZyTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Folha de S.Paulo",
+   "source": "TudoCelular.com",
    "region": "BR",
-   "date": "2026-11-13T18:07:00+00:00",
+   "date": "2026-11-13T17:16:14+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -458,23 +475,6 @@
    "source": "Estadão",
    "region": "BR",
    "date": "2026-11-13T14:22:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0d5b9d4603",
-   "title": "GTA 6 terá versão física sem disco e exigirá 212 GB no PS5",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzZraDItVHRhTEF6NU96aWZ6NEdtNmp4S2d5SXViYV94Zl9kQm55ZTg5bGlhdUhyVFN5U3NTYVhPNHdDdG1oSnVaYzR5WUlPeV9hSnZVdU5qb19QM0RGS1RlamxyY3pFamtBTVphUWRtQlUyOTFXV0RnTlJkeXVxLTN2cnQwcUhFZUVpd1FPa1pwMDFxNVQ1bjNwb2tUNHlvaV91alZ1Sk9wSUthUUNV?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Metrópoles",
-   "region": "BR",
-   "date": "2026-11-13T13:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",

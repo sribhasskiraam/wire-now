@@ -62,6 +62,13 @@
   .actbar button{flex:1;color:#fff;font-weight:900;font-size:15px;padding:12px 4px;border-radius:12px;background:rgba(255,255,255,.08)}
   .story.held{transform:scale(.97);box-shadow:0 0 0 3px var(--acc)}
   .installbtn{display:none}
+  .living{display:flex;gap:8px;overflow-x:auto;margin:-2px 0 10px;scrollbar-width:none}
+  .living:empty{display:none}
+  .living button{flex:none;padding:7px 12px;border-radius:999px;font-weight:800;font-size:13px;background:#e9f7ef;color:#1b6b45;border:1.5px solid #bfe6cf}
+  .living button.on{background:#1b6b45;color:#fff;border-color:#1b6b45}
+  .sofar{display:block;width:100%;margin:0 0 12px;padding:12px 14px;border-radius:16px;font-weight:900;background:#e9f7ef;color:#1b6b45;text-align:left}
+  .tl{border-left:3px solid #bfe6cf;margin:10px 0 0 6px;padding-left:14px}
+  .tl .d{font-size:12px;font-weight:800;color:var(--muted);margin-top:12px} .tl .h{font-weight:900;margin:2px 0} .tl .w{font-size:14px;line-height:1.45}
   .checkbtn{display:block;width:100%;text-align:left;margin:0 0 14px;padding:14px 16px;border-radius:22px;background:var(--card);box-shadow:0 2px 0 var(--line)}
   .checkbtn b{display:block;font-size:16px;font-weight:900} .checkbtn span{display:block;font-size:13px;color:var(--muted);font-weight:700;margin-top:3px}
   .chkbox textarea{width:100%;min-height:110px;border-radius:14px;border:2px solid var(--line);padding:12px;font:inherit;font-size:16px;background:var(--bg);color:var(--ink);resize:vertical}
@@ -219,6 +226,7 @@
     <a class="tab" href="community/" style="color:var(--ink);text-decoration:none" title="Talk about the news" data-i="community">👥 Community</a>
   </div>
   <div class="topics" id="topics"></div>
+  <div class="living" id="living"></div>
   <div class="mycountry"><span id="likes"></span> <button id="countrybtn"></button><select id="countrysel" aria-label="Your country"></select></div>
 </header>
 
@@ -465,6 +473,8 @@ const TXT = {
   v_confirmed: ["✅ Confirmed by reliable reports", "✅ විශ්වාසදායක වාර්තා මගින් තහවුරුයි", "✅ நம்பகமான செய்திகளால் உறுதிப்படுத்தப்பட்டது"],
   v_false: ["❌ False", "❌ අසත්‍යයි", "❌ தவறானது"], v_misleading: ["⚠️ Misleading or partly true", "⚠️ නොමඟ යවන හෝ අර්ධ සත්‍ය", "⚠️ தவறாக வழிநடத்தும் அல்லது பகுதி உண்மை"],
   v_unverified: ["❓ Can't verify yet", "❓ තවම තහවුරු කළ නොහැක", "❓ இன்னும் உறுதிப்படுத்த முடியவில்லை"],
+  sofar: ["📖 The story so far", "📖 මෙතෙක් කතාව", "📖 இதுவரை நடந்தவை"],
+  sofar_s: ["{n} reports, oldest first. This section grows as the story goes on.", "වාර්තා {n}ක්, පැරණිම ඒවා මුලින්. කතාව ඉදිරියට යන විට මෙය වර්ධනය වේ.", "{n} செய்திகள், பழையவை முதலில். கதை தொடரும்போது இந்தப் பகுதி வளரும்."],
   say_hello: ["This is the news from Wire Now.", "මේ Wire Now පුවත් ප්‍රකාශයයි.", "இது Wire Now செய்திகள்."],
   say_what: ["Here's what happened.", "සිදු වූයේ මෙයයි.", "நடந்தது இதுதான்."],
   say_why: ["Why does this matter?", "මෙය වැදගත් වන්නේ ඇයි?", "இது ஏன் முக்கியம்?"],
@@ -552,7 +562,7 @@ function iconCover(s){
     return `<div class="icv"><div class="ib" style="font-size:24px">${esc((ini[0] || "") + (ini.length > 1 ? ini[ini.length - 1] : ""))}</div><div><div class="l1">${esc(who[0] || where)}</div><div class="l2">${esc(who[1] || T(s.topic))}</div></div></div>`;
   }
   const hit = ICONS.find(([re]) => re.test(s.title));
-  return `<div class="icv"><div class="ib">${hit ? hit[1] : (TOPIC_ICON[s.topic] || "📰")}</div><div><div class="l1">${esc(where || T(s.topic))} ${l.flag || ""}</div><div class="l2">${esc(hit ? T(hit[2]) : T(s.topic))}</div></div></div>`;
+  return `<div class="icv"><div class="ib">${hit ? hit[1] : (TOPIC_ICON[s.topic] || "📰")}</div><div><div class="l1">${esc(where || (hit ? T(s.topic) : ""))} ${l.flag || ""}</div><div class="l2">${esc(hit ? T(hit[2]) : T(s.topic))}</div></div></div>`;
 }
 
 /* ---- streak ---- */
@@ -630,7 +640,8 @@ async function loadCountry(){
   try{ const r = await fetch("c/" + myCode + ".json?t=" + Date.now()); if(r.ok) countryData = await r.json(); }catch(e){}
 }
 function render(){
-  if(view === "factcheck"){ $("topics").innerHTML = ""; renderFactcheck(); return; }
+  if(view === "factcheck"){ $("topics").innerHTML = ""; $("living").innerHTML = ""; renderFactcheck(); return; }
+  drawLiving();
   $("topics").innerHTML = ["All", ...TOPICS].map(t =>
     `<button class="topic ${t === topic ? "on" : ""}" data-t="${t}">${t === "All" ? T("all") : T(t)}</button>`).join("");
   let groups;
@@ -650,8 +661,10 @@ function render(){
     } else
     groups = view === "mine" ? [["", mine]] : view === "world" ? [["", rest]]
            : [[myLabel, mine], [restLabel, rest]];
+    const lv = livingNow().find(x => x.key === subjectKey);
+    if(lv){ const all = allStories(); groups = [["🌱 " + esc(livingName(lv)), lv.stories.map(id => all.find(x => x.id === id)).filter(Boolean).reverse()]]; }
   }
-  let out = "", waitingTr = 0;
+  let out = subjectKey && livingNow().some(x => x.key === subjectKey) ? `<button class="sofar" id="sofar">${T("sofar")}</button>` : "", waitingTr = 0;
   currentList = [];
   for(const [title, list] of groups){
     const inTopic = list.filter(s => topic === "All" || s.topic === topic);
@@ -930,6 +943,26 @@ $("tabs").onclick = e => {
   render();
 };
 $("topics").onclick = e => { const t = e.target.dataset.t; if(t){ topic = t; render(); } };
+/* 🌱 living categories: subjects people keep hearing about grow their own section, with the story so far */
+let subjectKey = "";
+const livingNow = () => (data && data.living) || [];
+const livingName = x => lang === "en" ? x.name : (DYN.get(x.name) || "");
+function drawLiving(){
+  const items = livingNow().filter(x => livingName(x));
+  $("living").innerHTML = items.length && view !== "saved" ? items.map(x =>
+    `<button data-k="${esc(x.key)}" class="${x.key === subjectKey ? "on" : ""}">🌱 ${esc(livingName(x))} · ${x.count}</button>`).join("") : "";
+}
+$("living").onclick = e => { const k = e.target.closest("[data-k]")?.dataset.k; if(k){ subjectKey = subjectKey === k ? "" : k; topic = "All"; render(); window.scrollTo({top: $("living").offsetTop - 80, behavior: "smooth"}); } };
+document.addEventListener("click", e => { if(e.target.id === "sofar") openSoFar(); });
+function openSoFar(){
+  const lv = livingNow().find(x => x.key === subjectKey); if(!lv) return;
+  const all = allStories(), list = lv.stories.map(id => all.find(x => x.id === id)).filter(s => s && hasLang(s));
+  $("sheetbox").innerHTML = `<h3>📖 ${esc(livingName(lv))}</h3><div class="note">${T("sofar_s", {n: list.length})}</div><div class="tl">` +
+    list.map(s => { const c = cardsOf(s) || {}; return `<div class="d">${esc(new Date(s.date).toLocaleDateString(lang, {day: "numeric", month: "short"}))} · ${esc(srcOf(s.source))}</div>
+      <div class="h">${esc(titleOf(s))}</div>${c.what_happened ? `<div class="w">${esc(c.what_happened)}</div>` : ""}`; }).join("") +
+    `</div><button class="btn" style="margin-top:14px;width:100%" id="sheetclose">${T("close")}</button>`;
+  $("sheetclose").onclick = closeSheet; $("sheet").classList.add("open");
+}
 $("list").onclick = e => {
   if(justHeld){ justHeld = false; return; }               // a long-press already opened the action bar
   const m = e.target.closest("[data-more]")?.dataset.more;
@@ -1032,7 +1065,8 @@ function translateVisible(){
   const all = allStories(), top = (data && data.top || []).map(id => all.find(s => s.id === id)).filter(Boolean);
   const pool = [...top, ...all.filter(s => !TR(s)).slice(0, 80)];
   const need = s => !TR(s);                                       // the robot hasn't translated it yet
-  dynTranslate([...(isDyn() ? Object.values(TXT).map(r => r[0]) : []), ...(isDyn() && data && data.brief && data.brief.en ? [data.brief.en] : []),
+  dynTranslate([...livingNow().map(x => x.name),
+                ...(isDyn() ? Object.values(TXT).map(r => r[0]) : []), ...(isDyn() && data && data.brief && data.brief.en ? [data.brief.en] : []),
                 ...pool.filter(need).map(s => s.title),
                 ...pool.filter(s => need(s) || !(TR(s) && TR(s).cards)).slice(0, 30).map(s => s.cards ? s.cards.blurb : s.summary),
                 ...all.slice(0, 120).map(s => s.location && s.location.place).filter(Boolean),

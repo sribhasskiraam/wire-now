@@ -774,6 +774,51 @@ def add_story_images(site_stories, settings):
     save_json(IMAGE_SIZES_FILE, {k: v for k, v in sizes.items() if k in keep})
 
 
+SUBJECTS_FILE = os.path.join(ROOT, "data", "subjects.json")
+
+
+def _subject_key(name):
+    words = [w for w in re.findall(r"[a-z0-9]+", (name or "").lower()) if w not in ("the", "a", "of", "and", "in", "sri", "lanka", "lankan")]
+    return " ".join(words)
+
+
+def living_categories(site_list, now, settings):
+    """Living categories: a subject people keep hearing about (5+ stories over 2+ days in the last week) grows into
+    its own section with a "story so far"; a week without new stories sends it to the archive. Subjects are matched
+    loosely (same words), so "2027 Budget" and "Budget 2027" are one subject. No extra AI: the summary names it."""
+    data = load_json(SUBJECTS_FILE, {"subjects": {}})
+    subs = data["subjects"]
+    for st in site_list:
+        name = ((st.get("cards") or {}).get("subject") or "").strip()
+        key = _subject_key(name)
+        if not key or len(key) < 3:
+            continue
+        kw = set(key.split())
+        match = next((k for k in subs if set(k.split()) == kw or (len(kw) >= 2 and (kw <= set(k.split()) or set(k.split()) <= kw) and len(set(k.split()) & kw) >= 2)
+                      or (len(set(k.split()) & kw) / max(1, len(set(k.split()) | kw))) >= 0.66), key)
+        e = subs.setdefault(match, {"name": name, "stories": {}, "first": now.isoformat()})
+        e["stories"][st["id"]] = (st.get("date") or now.isoformat())[:19]
+        e["last"] = max(e.get("last", ""), e["stories"][st["id"]])
+    week = (now - timedelta(days=7)).isoformat()
+    active, archived = [], []
+    for k, e in subs.items():
+        recent = {i: d for i, d in e["stories"].items() if d >= week[:19]}
+        days = {d[:10] for d in recent.values()}
+        if len(recent) >= settings.get("living_min_stories", 5) and len(days) >= 2:
+            active.append({"name": e["name"], "key": k, "stories": sorted(recent, key=lambda i: recent[i]), "count": len(recent),
+                           "since": min(recent.values())[:10]})
+        elif e.get("last", "") < week[:19] and len(e["stories"]) >= 5:
+            archived.append({"name": e["name"], "key": k, "count": len(e["stories"]), "until": e.get("last", "")[:10]})
+    # forget one-off subjects after a month; keep grown ones (their knowledge stays in the archive)
+    month = (now - timedelta(days=30)).isoformat()[:19]
+    data["subjects"] = {k: e for k, e in subs.items() if e.get("last", "") >= month or len(e["stories"]) >= 5}
+    save_json(SUBJECTS_FILE, data)
+    active.sort(key=lambda a: -a["count"])
+    if active:
+        print(f"  living categories: {', '.join(a['name'] + ' (' + str(a['count']) + ')' for a in active[:8])}")
+    return active[:8], archived[-20:]
+
+
 def send_facts(site_list, state, now):
     """Wire Now Fact Base: every checked summary's key facts go into our own database, each with who reported it
     and when (confirmed = 2+ outlets). Uses no AI. Only stories not sent before."""
@@ -1088,8 +1133,10 @@ STRICT RULES - follow every one:
   article says). Natural spoken sentences, no lists, no symbols, do not repeat the headline word for word.
 - "person": the ONE main person the story is about, full name as the article writes it; "" if it is not mainly about one person.
 - "role": that person's job or title as the article gives it (e.g. "President", "Health Minister"); "" if none.
+- "subject": the ongoing news subject this story belongs to, 1 to 4 words, as a newspaper section would name it
+  (e.g. "2027 Budget", "Gaza war", "Microsoft outage", "Dengue outbreak", "Asia Cup"); "" if it is a one-off story.
 Reply with ONLY this JSON, nothing else:
-{"topic": "...", "country": "...", "place": "...", "what_happened": "...", "details": ["...", "..."], "why_it_matters": "...", "key_facts": ["...", "..."], "whats_next": "...", "blurb": "...", "spoken": "...", "person": "...", "role": "..."}
+{"topic": "...", "country": "...", "place": "...", "what_happened": "...", "details": ["...", "..."], "why_it_matters": "...", "key_facts": ["...", "..."], "whats_next": "...", "blurb": "...", "spoken": "...", "person": "...", "role": "...", "subject": "..."}
 
 HEADLINE: %s
 
@@ -1130,8 +1177,10 @@ STRICT RULES - follow every one:
   article says). Natural spoken sentences, no lists, no symbols, do not repeat the headline word for word.
 - "person": the ONE main person the story is about, full name as the article writes it; "" if it is not mainly about one person.
 - "role": that person's job or title as the article gives it (e.g. "President", "Health Minister"); "" if none.
+- "subject": the ongoing news subject this story belongs to, 1 to 4 words, as a newspaper section would name it
+  (e.g. "2027 Budget", "Gaza war", "Microsoft outage", "Dengue outbreak", "Asia Cup"); "" if it is a one-off story.
 Reply with ONLY this JSON, nothing else:
-{"topic": "...", "country": "...", "place": "...", "what_happened": "...", "details": ["...", "..."], "why_it_matters": "...", "key_facts": ["...", "..."], "whats_next": "...", "blurb": "...", "spoken": "...", "person": "...", "role": "..."}
+{"topic": "...", "country": "...", "place": "...", "what_happened": "...", "details": ["...", "..."], "why_it_matters": "...", "key_facts": ["...", "..."], "whats_next": "...", "blurb": "...", "spoken": "...", "person": "...", "role": "...", "subject": "..."}
 
 HEADLINE: %s
 
@@ -1163,8 +1212,10 @@ STRICT RULES - follow every one:
   article says). Natural spoken sentences, no lists, no symbols, do not repeat the headline word for word.
 - "person": the ONE main person the story is about, full name as the article writes it; "" if it is not mainly about one person.
 - "role": that person's job or title as the article gives it (e.g. "President", "Health Minister"); "" if none.
+- "subject": the ongoing news subject this story belongs to, 1 to 4 words, as a newspaper section would name it
+  (e.g. "2027 Budget", "Gaza war", "Microsoft outage", "Dengue outbreak", "Asia Cup"); "" if it is a one-off story.
 Reply with ONLY this JSON, nothing else:
-{"topic": "...", "country": "...", "place": "...", "what_happened": "...", "key_facts": ["...", "..."], "blurb": "...", "spoken": "...", "person": "...", "role": "..."}
+{"topic": "...", "country": "...", "place": "...", "what_happened": "...", "key_facts": ["...", "..."], "blurb": "...", "spoken": "...", "person": "...", "role": "...", "subject": "..."}
 
 HEADLINE: %s
 
@@ -2230,7 +2281,7 @@ def main():
         c = site_cards.get(s["id"])
         if c:
             out["cards"] = {k: c.get(k, [] if k in ("details", "sources") else "") for k in
-                            ("what_happened", "details", "why_it_matters", "key_facts", "whats_next", "blurb", "spoken", "person", "role", "sources", "mode")}
+                            ("what_happened", "details", "why_it_matters", "key_facts", "whats_next", "blurb", "spoken", "person", "role", "subject", "sources", "mode")}
         out["topic"] = (c or {}).get("topic") or guess_topic(s["title"] + " " + s["summary"])
         out["location"] = places.location_for(s, c)
         # other outlets' reports of the same event (shown when a reader double-taps a story)
@@ -2315,6 +2366,9 @@ def main():
         add_translations(site_list, translations)
         save_json(SITE_FILE, site)
     save_json(TRANSLATIONS_FILE, translations)
+    # living categories: subjects people keep hearing about grow their own section (no AI needed)
+    site["living"], site["archive"] = living_categories(site_list, now, settings)
+    save_json(SITE_FILE, site)
     # our own Fact Base: the facts from every checked summary (no AI needed)
     send_facts(site_list, state, now)
     if state.get("facts_sent"):

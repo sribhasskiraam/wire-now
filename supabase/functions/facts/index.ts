@@ -13,9 +13,13 @@ const clip = (v: unknown, n: number) => String(v ?? "").replace(/[<>]/g, "").tri
 Deno.serve(async (req) => {
   const robot = Deno.env.get("ROBOT_KEY") ?? "";
   if (!robot || req.headers.get("x-robot-key") !== robot) return new Response("no", { status: 401 });
-  let b: { facts?: unknown[]; people?: unknown[] };
+  let b: { facts?: unknown[]; people?: unknown[]; stats?: boolean };
   try { b = await req.json(); } catch (_) { return new Response("bad", { status: 400 }); }
   const sb = createClient(Deno.env.get("SUPABASE_URL")!, serviceKey());
+  if (b.stats) {   // the owner's private reader numbers (anonymous counts only)
+    const { data, error } = await sb.rpc("reader_stats", { n: 14 });
+    return new Response(JSON.stringify(error ? { error: "stats not ready" } : data), { headers: { "Content-Type": "application/json" } });
+  }
   const facts = (Array.isArray(b.facts) ? b.facts : []).slice(0, 500).map((f: any) => ({
     key: clip(f.key, 64), story_id: clip(f.story_id, 20), statement: clip(f.statement, 600), topic: clip(f.topic, 40),
     country: clip(f.country, 60), place: clip(f.place, 120), link: clip(f.link, 600),

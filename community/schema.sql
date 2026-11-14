@@ -1170,3 +1170,55 @@ create policy "read checks" on public.claim_checks for select using (true);
 revoke all on public.facts, public.people, public.claim_checks from anon, authenticated;
 grant select on public.facts, public.people to anon, authenticated;
 grant select (key, claim, lang, verdict, explanation, sources, asked, created_at) on public.claim_checks to anon, authenticated;
+
+-- =====================================================================
+-- PART 8: how many people read Wire Now (anonymous), for the owner's private stats
+-- Each browser makes a random number (no name, no email, no tracking across sites) and says "I'm here" once a day.
+-- Only the robot (through the "facts" helper) can read the totals.
+-- =====================================================================
+create table if not exists public.visitors (
+  vid       text primary key check (vid ~ '^[0-9a-f]{16}$'),
+  first_day date not null default current_date
+);
+create table if not exists public.visits (
+  day  date not null default current_date,
+  vid  text not null check (vid ~ '^[0-9a-f]{16}$'),
+  lang text check (char_length(lang) <= 12),
+  primary key (day, vid)
+);
+create or replace function public.visit_ping(v text, l text) returns void
+language plpgsql security definer set search_path = public as $$
+begin
+  if v is null or v !~ '^[0-9a-f]{16}$' then return; end if;
+  if (select count(*) from public.visits where day = current_date) >= 200000 then return; end if;   -- flood guard
+  insert into public.visitors (vid) values (v) on conflict do nothing;
+  insert into public.visits (day, vid, lang)
+  values (current_date, v, case when public.supported_lang(l) then l else 'en' end) on conflict do nothing;
+end $$;
+create or replace function public.reader_stats(n integer) returns jsonb
+language plpgsql security definer set search_path = public as $$
+declare r jsonb;
+begin
+  delete from public.visits where day < current_date - 120;          -- keep 4 months of daily numbers
+  select jsonb_build_object(
+    'days', coalesce((select jsonb_agg(x order by x->>'day') from (
+        select jsonb_build_object('day', v.day, 'people', count(*), 'returning', count(*) filter (where s.first_day < v.day)) x
+        from public.visits v join public.visitors s on s.vid = v.vid
+        where v.day > current_date - greatest(1, least(n, 120)) group by v.day) d), '[]'::jsonb),
+    'langs', coalesce((select jsonb_object_agg(lang, c) from (
+        select coalesce(lang, 'en') lang, count(*) c from public.visits where day > current_date - 7 group by 1) g), '{}'::jsonb),
+    'top_stories', coalesce((select jsonb_agg(jsonb_build_object('id', story_id, 'opens', opens) order by opens desc) from (
+        select story_id, opens from public.story_demand where last_at > now() - interval '7 days' order by opens desc limit 10) t), '[]'::jsonb),
+    'total_people', (select count(*) from public.visitors)) into r;
+  return r;
+end $$;
+alter table public.visitors enable row level security;
+alter table public.visits   enable row level security;
+revoke all on public.visitors, public.visits from anon, authenticated;
+revoke execute on function public.visit_ping(text, text), public.reader_stats(integer) from public, anon, authenticated;
+grant execute on function public.visit_ping(text, text) to anon, authenticated;
+do $$ begin
+  if exists (select 1 from pg_roles where rolname = 'service_role') then
+    execute 'grant execute on function public.reader_stats(integer) to service_role';
+  end if;
+end $$;

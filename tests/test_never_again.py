@@ -126,5 +126,18 @@ check("English left untranslated rejected", not bot.right_script("Microsoft serv
 check("English name inside a translation rejected", not bot.right_script("මයික්‍රොසොෆ්ට් සේවා යළි ආරම්භ වේ Microsoft officials", "si"))
 check("short acronym allowed", bot.right_script("IMF ණය වාරිකය ශ්‍රී ලංකාවට ලැබේ", "si"))
 
+# 14 Nov 2026: World Pulse (owner-only analysis) and the anonymous reader counter
+import pulse
+_h = {}
+pulse.record(_h, [{"id": "a1", "title": "T", "cards": {"subject": "Fuel"}}], "2026-11-14")
+pulse.record(_h, [{"id": "a1", "title": "T", "cards": {"subject": "Fuel"}}], "2026-11-14")
+check("a story is counted once per day", _h["days"]["2026-11-14"]["subject"] == {"Fuel": 1})
+pulse.apply_reply(_h, "P: X happens | high | 2099-01-01", "2026-11-14")
+check("a prediction's check date is kept within 45 days", _h["predictions"][0]["by"] <= "2026-12-29")
+check("the World Pulse is only sent to the owner, never posted", "CHANNEL" not in bot.world_pulse.__code__.co_names)
+_src = open(os.path.join(os.path.dirname(__file__), "..", "community", "schema.sql")).read()
+check("readers can't read the reader numbers", "grant execute on function public.reader_stats(integer) to anon" not in _src
+      and "revoke all on public.visitors, public.visits from anon, authenticated" in _src)
+
 print(f"\n{'ALL PASSED' if not failures else str(len(failures)) + ' FAILED'}: {len(failures)} of the never-again checks failed")
 sys.exit(1 if failures else 0)

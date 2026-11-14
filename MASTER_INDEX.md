@@ -289,6 +289,8 @@ Main page `docs/index.html`:
 - **Every word in the reader's language (14 Nov 2026)**: in Sinhala, Tamil or any other language, the site never shows English text. Order: the robot's translation (data/translations.json) → the live translator (Supabase function, shared cache) → otherwise the story is hidden with a "N more stories appear once translated" note, and other texts show "Translating…". Place names, source names, other reports, fact checks and source descriptions are translated too. Test: `tests/check_language.py` (headless browser, Tamil and Sinhala pages must have no English words except brand names).
 - **Independence plan (long-term goal)**: after a certain level (revenue), Wire Now stops depending on outside services and runs on a system the owner controls: (1) own server (rented VPS first, later own hardware) running Postgres + the website + the robot; (2) own open AI model instead of Gemini/Groq/OpenRouter; (3) own domain (e.g. wirenow.lk) and own email; (4) own backups. Every piece built now must stay portable: plain Postgres SQL, plain HTML/JS, no lock-in features without a self-hosted equivalent. Supabase itself is open source and can be self-hosted.
 - **Admin deep analysis (Level 2)**: the public gets Level 1 ("🌍 What this means"); the owner gets a deeper Level 2 version of everything: connections across stories, causes, scenarios ("if this continues…"), risks and opportunities for Sri Lanka, trends over weeks. Delivered privately (admin-only table behind the authenticator, or a private bot message), **never** in the public repo or docs/.
+- **🌍 World Pulse (14 Nov 2026, built: the first part of Level 2)** (`pulse.py` + `world_pulse()` in `bot.py`): every run, the robot adds that day's stories to a private trend memory (how often each subject, person, place and topic came up each day, 60 days kept; no AI). Once a day after 7 PM Sri Lanka time (`pulse_hour` in settings), or when the owner sends **/pulse** to the bot, the AI compares this week with last week and writes a private briefing: 📈 rising, 🆕 new, 📉 fading, 🔗 connections, 🇱🇰 what it means for Sri Lanka, 🔮 2–4 predictions. Each prediction has a confidence (low/medium/high) and a check-by date; later briefings mark them ✅ right / ❌ wrong / ⏳ too early, and a 🎯 score shows how often they came true (honesty: predictions are educated guesses, never presented as certain). Sent **only to the owner's Telegram chat** (the one that sent /owner), never posted; the memory and predictions are stored encrypted in `data/private/pulse.bin`. Uses only Wire Now's own data, so it gets better as history builds up (the first two weeks are weak, and it says so).
+- **📊 Reader numbers (14 Nov 2026)**: each browser makes a random number (no name, email or cross-site tracking) and tells the database "I'm here" once a day (`visit_ping`, schema PART 8). Only the robot can read the totals (`reader_stats`, through the `facts` helper). The owner sees them in the daily World Pulse, or any time by sending **/stats** to the bot: people today, how many **came back** from an earlier day (the most important number), the last 7 days, languages, most-opened stories. Daily numbers are kept 4 months.
 - **Batch 2**: ⚖️ Different sides (how each site reports a story, like Ground News / Particle "Opposite Sides") · 🧒 Explain simply (like Particle "Explain Like I'm 5") · ❓ Ask about this story (AI answers only from the articles) · 🧵 Story so far (timeline of an ongoing story, like Google News Full Coverage).
 - **Batch 3**: 🇱🇰 daily life: gold prices, fuel prices, stock market (ASPI), power-cut and weather warnings, pulled from the news.
 - **Batch 4**: 📴 data saver + offline reading (like SmartNews) · 🌙 dark mode, text size · ☀️ morning/evening briefings · 🧩 weekly news quiz · 📊 community polls.
@@ -347,6 +349,7 @@ Made for **introverts and ambiverts**: calm, quiet, no pressure, no popularity c
   - The bad-word filter cannot check private chats (it can't read them).
 - **Authenticator app (6-digit codes)**: anyone can add one in Settings. Once added, private data (chats, keys, alerts, follows, blocks, votes) stays shut until the code is entered (enforced by the database). **Admin powers always need it.**
 - Database rules (row-level security) decide what each person can see and change; tested with 141 automatic checks.
+- **Reader numbers are anonymous**: a random number per browser, no names, emails, IP addresses or cross-site tracking; readers can't see the numbers, only the robot (for the owner's private stats).
 - Phone pop-ups never contain message text, only "New message from …".
 - Public things (posts, topics, Workshop pages) are not encrypted on purpose: they are meant to be read.
 - Everything travels over HTTPS; Supabase encrypts the stored database.
@@ -391,6 +394,7 @@ Status: **vision recorded; translation layer and example collection to be built 
 | `bot.py` | The news robot (collect, choose, summarise, check, post, build website data) |
 | `cards.py` | Draws the picture cards for Telegram |
 | `places.py` | Countries and Sri Lankan places; location labels |
+| `pulse.py` | 🌍 World Pulse: the owner's private daily trend analysis and predictions |
 | `site_extras.py` | Today's numbers, Top 10, story pages, sitemap |
 | `social.py` | Reddit discussions (not working: Reddit blocks GitHub) |
 | `feeds.json` | News sources and **all settings** (see section 15) |
@@ -448,6 +452,7 @@ Newest last. Add a line for every new decision.
 | 13 Nov 2026 | Sri Lanka's three languages (Sinhala, Tamil, English) are equally first-class and come first in translation. |
 | 13 Nov 2026 | Meaning Engine must cover **every language** people use, and every phone carries it (its own language's part). Languages are trained in order of how many users use them; Sri Lanka's three languages (Sinhala, Tamil, English) first. |
 | 13 Nov 2026 | **Wire Now Meaning Engine** (a language of pure meaning in the middle) is the long-term goal and part of the system in the background: one translation layer, example collection from public content only, per-language phone parts trained after revenue, Sinhala first. |
+| 14 Nov 2026 | 🌍 World Pulse (first part of Level 2): a private daily briefing for the owner on where the world is heading (rising, new, fading, connections, Sri Lanka impact, predictions that are later marked right or wrong), plus anonymous reader numbers (/stats). Only the owner sees either. |
 
 ---
 

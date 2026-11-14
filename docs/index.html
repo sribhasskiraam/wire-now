@@ -942,6 +942,18 @@ function refreshSlides(){
   $("vbar").innerHTML = sl.map(() => "<i><b></b></i>").join("");
   $("slides").scrollLeft = Math.min(i, sl.length - 1) * $("slides").clientWidth; progress();
 }
+// anonymous reader count: a random number made by this browser (no name, no email), sent once a day
+(function visitPing(){
+  if(!LIVE) return;
+  try{
+    const today = new Date().toISOString().slice(0, 10);
+    if(localStorage.getItem("wn_vday") === today) return;
+    let v = localStorage.getItem("wn_vid");
+    if(!/^[0-9a-f]{16}$/.test(v || "")){ v = Array.from(crypto.getRandomValues(new Uint8Array(8)), b => b.toString(16).padStart(2, "0")).join(""); localStorage.setItem("wn_vid", v); }
+    fetch(`${SBX.url}/rest/v1/rpc/visit_ping`, { method: "POST", headers: sbHead(), body: JSON.stringify({ v, l: lang }) })
+      .then(r => { if(r.ok) localStorage.setItem("wn_vday", today); }).catch(() => {});
+  }catch(_){}
+})();
 function onOpened(s){
   if(!LIVE) return;
   fetch(`${SBX.url}/rest/v1/rpc/story_opened`, { method: "POST", headers: sbHead(), body: JSON.stringify({ sid: s.id }) }).catch(() => {});

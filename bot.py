@@ -25,6 +25,7 @@ Without the Telegram secrets it runs in TEST MODE and only prints what it would 
 import hashlib
 import hmac
 import places
+import pulse
 import social
 import html
 import io
@@ -855,6 +856,49 @@ def send_facts(site_list, state, now):
         print(f"  Fact Base: {got.get('facts', 0)} facts and {got.get('people', 0)} people saved")
     except Exception as e:
         print(f"  Fact Base not reachable yet ({str(e)[:60]})")
+
+
+def reader_stats():
+    """The owner's private reader numbers (anonymous counts), through the robot-only "facts" helper."""
+    url = sb_base_url(os.environ.get("SUPABASE_URL", ""))
+    if not (url.startswith("https://") and TOKEN) or TEST_MODE:
+        return {}
+    key = hashlib.sha256(("wire-now-robot|" + TOKEN).encode()).hexdigest()
+    try:
+        req = urllib.request.Request(url + "/functions/v1/facts", data=b'{"stats": true}',
+                                     headers={"Content-Type": "application/json", "x-robot-key": key, "User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read().decode())
+    except Exception as e:
+        print(f"  reader stats not reachable ({str(e)[:60]})")
+        return {}
+
+
+def world_pulse(site_list, state, settings, now):
+    """🌍 The owner's private daily World Pulse (Level 2): every run adds today's stories to the trend memory (no AI);
+    once a day in the evening (or when the owner sends /pulse) the AI explains where things are heading, with
+    predictions that later briefings mark right or wrong. Sent only to the owner on Telegram, never published."""
+    sl = now.astimezone(timezone(timedelta(hours=5, minutes=30)))
+    today = sl.strftime("%Y-%m-%d")
+    hist = pulse.record(private_load("pulse", {}), site_list, today)
+    owner, force = state.get("owner_chat"), state.get("pulse_force")
+    due = force or (sl.hour >= settings.get("pulse_hour", 19) and hist.get("last_sent") != today)
+    if due and owner and ANY_AI and not TEST_MODE and minutes_used() < 10.5:
+        titles = {s["id"]: s.get("title", "") for s in site_list}
+        stats = pulse.stats_text(reader_stats(), titles)
+        try:
+            reply, model = council_call("writers", pulse.build_prompt(pulse.trends(hist, today), hist, today, stats), settings)
+            body = pulse.apply_reply(hist, reply, today)
+            msg = f"🌍 WORLD PULSE · {sl.strftime('%d %b %Y')} (private)\n\n{body}"
+            msg += "".join("\n\n" + x for x in (pulse.score_line(hist), ("📊 READERS\n" + stats) if stats else "") if x)
+            for i in range(0, len(msg), 3900):
+                telegram("sendMessage", {"chat_id": owner, "text": msg[i:i + 3900], "disable_web_page_preview": "true"})
+            hist["last_sent"] = today
+            state.pop("pulse_force", None)
+            print(f"\nWorld Pulse sent to the owner ({model})")
+        except Exception as e:
+            print(f"\nWorld Pulse not made this run: {str(e)[:100]}")
+    private_save("pulse", hist)
 
 
 def sb_base_url(u):
@@ -1919,7 +1963,7 @@ def collect_countries(cfg, settings, now):
 # PRIVATE things (the owner's chat, readers' chats, reader tips) never go into the public code. They are kept
 # encrypted in GitHub's private cache (data/private/, never committed), locked with a key made from a secret.
 PRIVATE_DIR = os.path.join(ROOT, "data", "private")
-PRIVATE_KEYS = ("owner_chat", "bot_offset", "convo")
+PRIVATE_KEYS = ("owner_chat", "bot_offset", "convo", "pulse_force")
 
 
 def _keystream(key, nonce, n):
@@ -1995,6 +2039,14 @@ def handle_bot_messages(state, stories_by_id):
                 reply("✅ You are now the Wire Now owner. Mistake reports and news tips will be forwarded to you here.")
             elif owner == cid:
                 reply("✅ You are already the owner.")
+            continue
+        if owner == cid and text.startswith("/stats"):         # owner only: anonymous reader numbers
+            t = pulse.stats_text(reader_stats(), {k: v.get("title", "") for k, v in stories_by_id.items()})
+            reply("📊 READERS\n\n" + (t or "No numbers yet (the counter starts once the community setup has run)."))
+            continue
+        if owner == cid and text.startswith("/pulse"):         # owner only: make today's World Pulse at the end of this run
+            state["pulse_force"] = True
+            reply("🌍 OK, today's World Pulse will arrive in a few minutes.")
             continue
         if text.startswith("/start report_"):
             sid = text.split("report_", 1)[1][:20]
@@ -2403,6 +2455,9 @@ def main():
                 print("\nPosted today's Top 10 round-up")
             except Exception as e:
                 print(f"\nTop 10 round-up failed: {e}")
+    # ---- 8. the owner's private World Pulse (trend memory every run, the briefing once a day)
+    world_pulse(site_list, state, settings, now)
+    private_save("state", {k: state[k] for k in PRIVATE_KEYS if k in state})
     if ordered and errors == len(ordered):
         sys.exit(1)
 

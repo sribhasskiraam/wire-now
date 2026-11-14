@@ -22,6 +22,19 @@ Goal #1: **every Sri Lankan uses Wire Now.** Then the world, country by country.
 5. **BBC level:** a trusted international news brand with its own reporters worldwide.
 What that needs beyond technology: people (journalists, editors, fact-checkers), published standards (ethics code, corrections policy, editorial independence), legal setup (company registration, Sri Lankan media rules, defamation protection) and steady income (ads, memberships, licensing the Fact Base). Everything built now (trust rules, fact-checking, never-again tests, the Fact Base) is that foundation.
 
+**Long-term direction: from news to knowledge (owner, 14 Nov 2026).** Wire Now grows from a news service into a **fact and knowledge company**: a place where every kind of information and, later, scientists come together into one trusted picture of the world. News stays the engine (it brings people back every day and feeds new claims to check); facts are what we keep. Stages:
+1. **News → Fact Base** (running): every checked story adds facts, people and claims.
+2. **Evidence**: each fact links to its proof (official data, records, studies). Sources beyond news too (e.g. Wikipedia, government statistics, open science papers), each source's terms checked first (owner's rule).
+3. **🎓 Living Experts**: when facts about one field build up (e.g. rocks/geology, dengue, the rupee), an AI expert for that field is born ("🪨 Geology Desk (AI)"). Its "brain" is its library of checked facts with sources; the AI reads it before every answer, so it gets better as the library grows. It explains stories in its field, answers "Is this true?" questions there and adds notes to the World Pulse. Levels 🌱 Learner → 📘 Specialist → 🎓 Expert are earned by **proven accuracy** (checked predictions and answers), not by volume. Each expert keeps a real history (born, learned, predicted, right/wrong) and a consistent character.
+4. **🏛️ Council of experts**: big cross-field questions ("what if oil prices double?") go to several experts, who give their views, challenge each other and end with a joint answer showing where they agree and disagree. Feeds the World Pulse's connections.
+5. **Real experts join** (small-newsroom stage, needs revenue): verified scientists and specialists review and work alongside each AI desk.
+6. **Knowledge map**: tap any topic and see what is known, how sure we are, and who says so.
+
+Trust rules for this direction:
+- **Labels say how sure we are and why**, never "political truth" style categories: ✅ Verified (records or several independent sources), 🔬 Scientific consensus, 📰 Reported (one source, unconfirmed), ⚖️ Disputed (both sides shown), 💬 Claim / opinion, ❌ False.
+- **AI experts are always labelled as AI** and never presented as human scientists or given human names that could mislead. They are tools with a public track record, not living beings.
+- Our edge is not size (Wikipedia exists): it is **today's events explained with evidence, in Sinhala, Tamil and English**; start there and grow outward.
+
 **Read this first.** This file explains everything about Wire Now: what it is, how it works, every rule, every decision the owner has made, and what is still planned. It is written so that **any AI assistant or any person** can pick up the work without other notes.
 
 > **Never-again rule:** every mistake the owner reports gets a test in `tests/test_never_again.py` in the same change as the fix. GitHub runs these tests (and a check that the website's code has no errors) on every change and emails the owner if one fails.
@@ -453,6 +466,7 @@ Newest last. Add a line for every new decision.
 | 13 Nov 2026 | Meaning Engine must cover **every language** people use, and every phone carries it (its own language's part). Languages are trained in order of how many users use them; Sri Lanka's three languages (Sinhala, Tamil, English) first. |
 | 13 Nov 2026 | **Wire Now Meaning Engine** (a language of pure meaning in the middle) is the long-term goal and part of the system in the background: one translation layer, example collection from public content only, per-language phone parts trained after revenue, Sinhala first. |
 | 14 Nov 2026 | 🌍 World Pulse (first part of Level 2): a private daily briefing for the owner on where the world is heading (rising, new, fading, connections, Sri Lanka impact, predictions that are later marked right or wrong), plus anonymous reader numbers (/stats). Only the owner sees either. |
+| 14 Nov 2026 | Long-term direction: news → Fact Base → evidence → 🎓 Living Experts (AI desks per field, levels earned by proven accuracy, always labelled AI) → 🏛️ council of experts → real experts join → knowledge map. Trust labels by certainty (Verified, Scientific consensus, Reported, Disputed, Claim, False). |
 
 ---
 

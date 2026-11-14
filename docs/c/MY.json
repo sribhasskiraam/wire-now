@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
   {
-   "id": "3aa9934e14",
-   "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kTHhsUnJnRUtzWnc5SUJoUlQyTWJ4bkc4WTltYUxiVG1vS3huV2VmajY4UVBJRXk4V2wyWGxjczB3ekNzTXhmMG82UVVQaUhwb3FyWDNiSGlwN3pTSW9CMXdaMGFMUnMxcHpyQWtJTQ?oc=5",
+   "id": "0eeee2599a",
+   "title": "PH loses key Melaka fortress in another bruising state election",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVJ4S3RtTml5Q3VJa1cxOTQ5VC1qaVlFd3hILUYwM282RGtHNFJ1S0prSUp3WWZRVjU5enJYSEtVNV9fcUJpMHQ5ZWxQZnJncjlxYVY1WUJFcXp4VTA4amNON2FZbkVDWExPRldpNzhxeWFSdzdZcXRTY0M2amhNZTFXOS1SbnR2ZjYxd19SOUNodjRQOWtqWTNmdm9tRHcyZS13aXVxbUNYMkJNcWpzYm80bjZxRVRtRUpuRjU0SWV0Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Science Daily",
+   "source": "Free Malaysia Today",
    "region": "MY",
-   "date": "2026-11-14T12:00:51+00:00",
+   "date": "2026-11-14T13:44:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "3cdba4e4f3",
@@ -29,6 +29,23 @@
    "source": "Science Daily",
    "region": "MY",
    "date": "2026-11-14T11:44:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c5bd75e789",
+   "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Space",
+   "region": "MY",
+   "date": "2026-11-14T11:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -72,19 +89,22 @@
    "topic": "Society"
   },
   {
-   "id": "42c80c14db",
-   "title": "Two Malaysian pairs reach Kaohsiung Masters finals",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzcxZV9HcjV1YUM2YXItSWFOdHVfT2YzaWhDNFBzZEMzNzMyQTlVeHBpV2lMcW5sWVVIaldMdExlX3p0ZGZqaUhQcVBoTTROSk0zeU9SYzRyelFCdGVoSjhWV2RiTy1vSzB5ekM0cDR0MDdyZlg2XzNIWXRqSFNVOXg3dHUyeVJkT0xxdklnYjhGZzFpVmJhdWZjWk5KN3ZLdldYejVUWG40UdIBrwFBVV95cUxNc1hEVldRV1NUaUJFdnQ4V0taVDMzMHlfNE5ZWld0ekZ4WkJYcHJnSlNYMGpIdm1DZTgyVTBCN3MxU1F0akpxbFVhc2E1a0hMZXl0T25UaVFwTXNXb25uVUd4a3VwOTVySjV0SE9NdmNKSFZKcWdOb1VmM2s4QTlBejdpOEhGYUFrU3lETDZ6c0VqWl9zRFRVZ0ZCYUc0TlowS3ZmSlQySlpjYWtCd2pV?oc=5",
+   "id": "7c9960a3d9",
+   "title": "Badminton: Malaysia eye double delight at Taiwan Masters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1M2OHc4Z2t5STlXWEtGdmptQkRnQmsxd25rblpNNjAxX0dPb1N6UGZCWkFWbDI1WVJOTy00cmduTXByQVdwNzNWeW5PYWZfYl9mOW9reUFiX2Vtem1wRm1hWGpLRnFoalplLWUtLUdTTkxPUXhfYmY3TnFJam10TDlGSkRtY1RSOFNjakJULVROVzIzdXFGOUp3Wlh3Yklm?oc=5",
    "summary": "",
    "image": "",
-   "source": "NST Online",
+   "source": "The Star",
    "region": "MY",
-   "date": "2026-11-14T09:22:13+00:00",
+   "date": "2026-11-14T09:06:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
     "place": "",
-    "flag": "🇲🇾"
+    "flag": "🇲🇾 🇹🇼",
+    "also": [
+     "Taiwan"
+    ]
    },
    "topic": "Society"
   },
@@ -194,23 +214,6 @@
    "topic": "Society"
   },
   {
-   "id": "fa8832efb7",
-   "title": "DAP defends itself, blames Umno for testing boundaries of unity govt pact",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVDQyclY0TEZGWXRJcHBhamw0ZmlaUTlwVFZOZHRTeGF1OTFoYW5Takk4Qm9rRWNJZGdSRXhvQXNXa21yczJKQUE0V21kYXJFRHhJOHBzbE91djFYYmNSM0xTaHpPSlN2M0w2Tm9sTjZ3d0pUTENVem5XQS01SEM4S0xnVTE3MUZaYm5KZTRxMkVicEpBYkZuTDN1N0o2Y1JtcHNCaWw5YnFCWkxvb2g3TTV3ZnhtV29IaDhfUE82TEdHQUlGTXFuZDB6ck5oZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Free Malaysia Today",
-   "region": "MY",
-   "date": "2026-11-14T03:43:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f586b2f79d",
    "title": "Queen urges review of data centres’ impact on local communities",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZC1nUlFaSl9CM01oM29FUl9YQ29VVjNocGZ6eEdPQ01idUpqb3dvam5CTEpob3otMzNmM0FHaHFBR19tcUlQbnJkSERGWFpyRWJfRk5wTkdYcV9NVHhVbW9WNTlYOW90a295V3ZlcnpYRmM0dU54aWhrTU5UVElBUS1INjdrdC15Y0FhNkFkYlZrTEJtQnU5UGZsWjBGOE9aWjJBNGI0dmNoYmlLTEZLeXl3?oc=5",
@@ -260,6 +263,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Health"
+  },
+  {
+   "id": "56e7877401",
+   "title": "DeepSeek Opens Full Suite of App APIs, Letting Developers Replicate Its Entire App With One Click; Tool Calls Billed Per Use",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKWkdubnhYS0czMHM0OEJ2aUdSS0NtOHkzZTA0Y0N4cWFid0puTnFGRkZ6aTNWNk9sNWQ0X0hJT3RLRDl6WjNlTjB1LVlHT0ttRXB2d1h2UWtQc0VmcEZXZHIzcnY3MmNKdmg3anJpc2NFd3RyQ2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BigGo Finance",
+   "region": "MY",
+   "date": "2026-11-14T00:35:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Tech"
   },
   {
    "id": "e74389530f",
@@ -313,23 +333,6 @@
      "China",
      "Myanmar"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "eb1d7b8ee3",
-   "title": "US to resume flights after air traffic network failure sparks chaos",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmVuWG9uWUpiX0JJV1RpeGhnTUF0NkRGT005RlhielVLTk1NTmdlWnZiU3EyeFQyRHBaTl9QalJRZ0tLbThCUEJHdl94ZlRqVWpWdmQ5UzVyTXBBbGstbG1uTFE5eXRmMWZvNm10T2U3QXVhdTloUzBRRVJ3emNDanRWQnRuRDVBTW1ZVGQzMmxWbXBBd0tCa3hwcUhodmJZb3lHb0pNcHNvRFZIOTlrdHRfaWluOGpfc2NncndhdXg3THJ6anVRSzlERVBQOGM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-13T21:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -419,6 +422,23 @@
    "topic": "Health"
   },
   {
+   "id": "e67dfec334",
+   "title": "Hock Seng, former national hockey and football double international, dies [WATCH]",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUhwNW11U0VKVlhlY0hFak5UVWpUQ0NMc3R4TFpqMXp6MlZHdzlxVkN5dVZoT2E3TmVrSUYtZk15N3FMTXFrNFUzQVZSYU5qY3ZhbW9pWmR1NklFUDkyUnBqRGtpOXF6UFBVcmhZczVfMWVHYWZyN2c5R0RMRHJfY2FVSHAzV1dBM3dhaDEzT1V3Njhwb1M4TUlvNjR5LVlXY25NdFp1eWlwVkF6UWZvQjAtTW1OOWlSdU040gHAAUFVX3lxTE1CbzRGVUhsR25JNkJuMmY4T2F5OFNxWFdwcks1NWR4SDV0Q1lib3lCcVJYczl2ZFpuVlJOMVVDZExHai10b2ZhNzQ1cXRLYzVzUHhGU3dnUmFuVTV0S3dWdGRUMXBEc3BiQmdXYjZoZzlLUlpPSTV5eXE2WDJFSTlkWXMxTzQ2elNKYjZyQkgxVE4yUTNBQnV3NC1Sblo4b01JdE5Wc013Vzk0WVFvWDVHX25lRUc2RFpJRy1LaEJQYg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NST Online",
+   "region": "MY",
+   "date": "2026-11-13T07:33:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Sports"
+  },
+  {
    "id": "9fc3515dcd",
    "title": "Samsung Galaxy A18 5G gets Bluetooth certified - GSMArena.com news",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWE2V1h3VTNDRThKSnVvdEZLRHNaVGs0X1BPOTJUYzdZNTNyZFJPUmVfX1Y0M3ZJdGxjazFnQjNIcWVWc21OSEU5eDRFY09RYVFscHdyemg1TFUwekxISnFPVjcyYmZQQ19oellCRy1OWVl1U2t5VGVmazIyazFCb1NLYVktSVNt0gGEAUFVX3lxTFB3Sy1xNnlnWV9QemNGeVhsZWZoQTU4ZmF4RjVpbVJpbDduOGROYjRVaHB6UlhXWk9NSmtTTmpnMGc4LXpsTEg3R3I4TFFKNHoxZi0yMTJDd1NJcWg3M0lGWWxTZkczUlNjY0FLeDUyWG9jOU5nUmFEODhxb2hfbEZpcFpoVQ?oc=5",
@@ -471,23 +491,6 @@
     "flag": "🇲🇾"
    },
    "topic": "Business"
-  },
-  {
-   "id": "10a4029420",
-   "title": "Huawei Mate X8 now has a rumored launch date - GSMArena.com news",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0RwVnprWldNc1EtRGp1UjV5V2ZtdnFYQW00LVlxVEYtbHk3MUlWVXBZUVU1d0stSEVpWTVxNW5NY1YzV0ZhZkRoSFFSNElZRks0Q0E5Zk5ieU9WcGctTXdPZjVTSFBtOEE2V0YzbktBNXRPWHJ2QWR6ZVdnaGpOM1NIS1AzeWUyZ2xPMdIBiAFBVV95cUxNUGNVUUhwSEhCQ192ak1qUi01eE5MMUdoV3RjS3JzV3hMWXFOVlpRbzB6b29mT3p3cFRWa2JUQ3E2UWV2a2w4TzVoNXBxNVVuRnNoRzlwUnBadVlqanFEbEhaamFuelVxb1Fib0tYUk5fVEpLakpCSThtYmxRUEVxVHRONVhFc3lu?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GSMArena.com",
-   "region": "MY",
-   "date": "2026-11-13T05:01:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
   },
   {
    "id": "5f474157e7",

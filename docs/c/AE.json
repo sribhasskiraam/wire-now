@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "AE",
  "name": "UAE",
  "stories": [
+  {
+   "id": "1d4eb83d6e",
+   "title": "Disruptions Persist as Air Travel Recovers from Nationwide Ground Stop: Live Updates",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "AE",
+   "date": "2026-11-14T14:09:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "988dde4f4c",
    "title": "Surging measles cases are forcing doctors to treat conditions they’ve never seen",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "The Washington Post",
    "region": "AE",
-   "date": "2026-11-14T13:04:49+00:00",
+   "date": "2026-11-14T14:05:32+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -19,6 +36,91 @@
     "flag": "🇦🇪"
    },
    "topic": "Health"
+  },
+  {
+   "id": "40181176d5",
+   "title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "AE",
+   "date": "2026-11-14T13:39:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Iran",
+    "place": "",
+    "flag": "🇮🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "75705535b1",
+   "title": "Nvidia was Jensen Huang’s creation. Now it must imagine a future without him.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFlScWRzVHduMUZ5aVZVby14ZkhpSVQtVng0eUJkOUFiTHc2WFppYzhXbDBvWFRjQVJEMmxqX0toZ0FpR3RnMmVwOVdTZ1lueUtNaFktWVdINjJCU0FkREZ3a0ZRQkFRcEtpcGNrblE1cFdna2c4c1ppeWpfZmJua2dMMmE5bmx1bnFCdkRrQ2J0cXRxUnJWTmh6V0tWZkNBWW15VTYwZmRHbURIbjhsY2N3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "AE",
+   "date": "2026-11-14T13:36:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "b77a1f11fb",
+   "title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "AE",
+   "date": "2026-11-14T13:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Peru",
+    "place": "",
+    "flag": "🇵🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0a6292a82b",
+   "title": "What I’m hearing about Chargers-Broncos trade bitterness, why Jonathan Taylor stayed",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSS1oaTVxb2pMUnpRNldkSlBJd0xMRGhpbkhMdVdzUldpMXJia3cxaGcxcFNHa3dFZDF2dWxSRERWVmpFU0Q2V29MVFB0MXdxV3N0LU1FSm9YdXpVX1hnYnd1VWRxVGh5UzRiQ1U0Rm0zWUttVXJveGE0anFtNmc0b2lqVDZrZkEtdjFnYWd3ak5oVThOY3lZblRWRmJXXzg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "AE",
+   "date": "2026-11-14T13:27:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b4f1bcdda7",
+   "title": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjhSbmVIV2VsQXprSVowOFVLUWV3T1pPUGFNekUxc0xEeHJMV0dqRENUNDNLSDFFaHhpQWRsMDdadjNXZThxak9nbm5uLS1fRWdMQUJnZWd6UTFicjZBZEMzbEFrRTFGanB5ekdrQTdOZVJ4YzZzR2pBQjYwMk8tSkdibkxTYUxrdjV6UW5TRHlfRmRNOWpfX1lRSGtSY09GZDRB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "AE",
+   "date": "2026-11-14T13:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
   },
   {
    "id": "44df091f70",
@@ -38,19 +140,39 @@
    "topic": "Society"
   },
   {
-   "id": "d211695cb0",
-   "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
+   "id": "7499a39d20",
+   "title": "MAGA turns on Lutnick amid China spy scandal",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVjViYmdFdVdLcUZqMlFIdWsxdGZad3pwSEh2dHpzaFVzWVNzdXJ0bVYtc1JPYW5lajh1WEZ0dFk2VzhzdGxsWXNEUmtmMFZRbTdiZjhsVlFKeEM5cVhrZWNGS05wUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "AP News",
+   "source": "Axios",
    "region": "AE",
-   "date": "2026-11-14T12:43:00+00:00",
+   "date": "2026-11-14T12:39:39+00:00",
    "coverage": 1,
    "location": {
-    "country": "UAE",
+    "country": "China",
     "place": "",
-    "flag": "🇦🇪"
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ca251ad673",
+   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "AE",
+   "date": "2026-11-14T11:41:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
    },
    "topic": "Society"
   },
@@ -92,23 +214,6 @@
    "topic": "Tech"
   },
   {
-   "id": "7767fa0558",
-   "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkFZaWU0ZEdlakM1WnlreGY5X19qOTNjVjFlWTJXZWFwZkl6QlNYdUlYZ1JCNkNtQ0U3T04zaDNPYnNyd0NqZUtTYlJlRkhwaUwwYl82aWpUaEZ3Y2FCcGh6UHdXaW5FUmZEZU93NE81U0UyYVhia1JXdnVZUG1kYW1UbGZWTlJsQVh6bGZFMkZtY0I3SEdCNHFlVUlsYU1rRUNF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WSJ",
-   "region": "AE",
-   "date": "2026-11-14T10:33:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "e92d72c60f",
    "title": "Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVJ3QUJObTl6RU1OcEw2VFJOQUszU3ZXX2FXMmdkdklEN3dMNWhVRVh0OExYVmpfRDVpMUVIV081Z0JtbjVEbzNxN2M0UTR3eEFMRUM5ZmJnUms0UkRlT253OG1sY0lFVGdLRzhZSTZBbW9kOUpqTkxtWUtaZVVJdHJ5UWFaTFg0RUJSV0NMQkhRTkF0WXdWYnROUXM4NW9uLWh2dlNUSXlDT2VIcWRiZUNR?oc=5",
@@ -117,6 +222,23 @@
    "source": "NBC News",
    "region": "AE",
    "date": "2026-11-14T10:25:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "UAE",
+    "place": "",
+    "flag": "🇦🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a1c2c9cf0c",
+   "title": "Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeTZmcWotSFlrWXUwU3RIT3hYRWJKRUxwSUQ3U0NkYW4xSW9rREFvMjNTdDR0aDNKZnZWLUg2SV9OX0VzRTJ5b3JiNG1xbWoxaFVqa0FydmdqZ0t1Zm1oMDM4Q0VWSjdROXg5eF9xQTEyQnpwS2cwUUMwZHdheXB6VjBVOUdYRDhtcnZjOEgtNS1uMXpMRWd0Sk1TNXBITDhwQXQ0amZIc2dyRVAzNThzNkduZmVVM0FOeHd6Z0FQaFR3VTJoN2ItYTVYbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScienceAlert",
+   "region": "AE",
+   "date": "2026-11-14T10:02:17+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -143,39 +265,19 @@
    "topic": "Society"
   },
   {
-   "id": "0a6292a82b",
-   "title": "What I’m hearing about Chargers-Broncos trade bitterness, why Jonathan Taylor stayed",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSS1oaTVxb2pMUnpRNldkSlBJd0xMRGhpbkhMdVdzUldpMXJia3cxaGcxcFNHa3dFZDF2dWxSRERWVmpFU0Q2V29MVFB0MXdxV3N0LU1FSm9YdXpVX1hnYnd1VWRxVGh5UzRiQ1U0Rm0zWUttVXJveGE0anFtNmc0b2lqVDZrZkEtdjFnYWd3ak5oVThOY3lZblRWRmJXXzg?oc=5",
+   "id": "567334d246",
+   "title": "$100K Mega Millions ticket sold in Northeast Ohio",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZN2U0MDR1YTlFcXRfMkhkOWtoXzhCY3hCbWNsWFR2NEM3a1RGTlZDaFdIbTVqdlZxWTNGdEZITlh4aFdFNlE2OEs0R3hZQWZXNTBUV0lWcW5IbHhVQjRQc21aQVh1RWo2WEVJTDRQU29sZ3RKNTRFNTJKRdIBgAFBVV95cUxORGg5cHBrMVZtU0syaGNPQ2daaXJaRTNZMWhnelVSYWY3T1JZWTJDV01GeEhWTkljRkxZOXFkYVdyaXlGeEsxb2VMOXFldWctRXFQNDYwSXBfMVdWOXIxdDJzbG1SWHF5Z2QtM0wteW9QVm9SMms0bVIwRWZEb0l6dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "FOX 8 News",
    "region": "AE",
-   "date": "2026-11-14T08:00:15+00:00",
+   "date": "2026-11-14T08:56:49+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "46fb672e54",
-   "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "AE",
-   "date": "2026-11-14T07:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺",
-    "also": [
-     "Russia"
-    ]
    },
    "topic": "Society"
   },
@@ -231,6 +333,23 @@
    "topic": "Sports"
   },
   {
+   "id": "707d58c5e7",
+   "title": "Mary Peltola’s Lead Widens as Alaska Senate Vote Count Continues",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGRpUnZKOEtydjhyR1RaNXRaVS1xdUk0MkFZTldVUktXM2xNa2JGS3Y4TG5LbmhkWHZ1VVpaaE43RnBaMElMczBHcGQ3LWpQRjFrTy03Y0FzNGx4RXlEOEtERy16RWJ2TkhDVVFYbVlWZmtvMWJ2dGxxbHQxVXhLdW1ZVERVV3VJbmVkLWpENA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "AE",
+   "date": "2026-11-14T05:31:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "133e9c128d",
    "title": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0RVLUUtOEhac3A3Mm9TT0FhM0FVY3RVS3ByZHF5MDZTQ3YyQ2xCSkV2WjJYQ19JdnhfNXlZa28yd2FVOW5TLXpCeVRSYUFzeENQcUpVRTQydnBQS2x0ekg2Y2hRR1VIanFtbzJBdy1GNXRkamRKQlIxX1ZKX0ZxMnZLSGEwR1JlRGpMeGNMREc4elFXeEtzaHFWb2l5Um8?oc=5",
@@ -248,48 +367,14 @@
    "topic": "Society"
   },
   {
-   "id": "fd7533da3c",
-   "title": "Alaska elects Democrat Jonathan Kreiss-Tomkins governor",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkJpMlZvN2s1OENYeTk1RzFhRVhKY0xmNVVJX3YzTnJDUDloTlp3LWVacUM5UzNJNi1QbHhfdWd1a2JKbS16RzM4c1VlcjJlY19IUU8tWTNmdkpGMk9FaFNhV2FpVWZDTlk4aXdGSjkwcXM3eklZWi1QZ2dzN3BYNUt6Qll3cGp6Rzk0U0trM0JtZ2VHMGhNSGQ3Rm5oM1o4NVJSTHJ1Q0Z3dHk0cWZfWm9HQjVPdw?oc=5",
+   "id": "ba999db9bc",
+   "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmF1V3p1V0dJZjlHUUtXSlFyYTE4LXQ2emRiTjB2TTI2Ukd3cm5BUlM0TmZlcDB6azdUdmE3Ni1XNXc4TG9YMW82SGV5TkZMSlZvbG1ramxDUEdFZEJTcWZqdmluMmw0RkFoN2IyeHl0ZG9STGRORV9TaWFoVHptOXVVc1EyQzl3QVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Alaska Public Media",
+   "source": "NPR",
    "region": "AE",
-   "date": "2026-11-14T05:05:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "03fde25aa1",
-   "title": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUFfQldSNk1DVDM1WnJZTTI4Q0hROHlLWW16dU9lMEVtU0drN0c4RjRGU29VY0xMLV91NE5xaExJUXhBQjFYb2M5M0t4Q1lMRnlPR2hZVk81U2NUMkN2TFR3al9sbWp1dU9nMzVEMEdyM1FvWnFvcTdtMXEzVVFBcDFBOUF1NGlJM2dDQg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TMZ",
-   "region": "AE",
-   "date": "2026-11-14T04:15:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "5ae8777cd7",
-   "title": "MAGA firebrand Lauren Boebert falls to Democrat Eileen Laubacher in Colorado",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmxuTlNJU0plaldsZi1kNXYyLTRKQ1ZGZ19zc0pEMkJfYV9RMl9ERjdPZXJmZkpzcGxfdGpKZGtGRDIyLTZqbXVxRWVwY2ZGemo0aTZ2VGxsQ2VBUFRWOXl6c2NhV2pJbDlWeU12MkJUcVpXdF9BX2JfVlV1UHFhVlhmVDF5RC1KcV9XT1Z4VVBfcElQWjJaSjBnQUtiYVVJbG04cmxzdUZMV0k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Politico",
-   "region": "AE",
-   "date": "2026-11-14T02:05:15+00:00",
+   "date": "2026-11-14T05:12:43+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -333,23 +418,6 @@
    "topic": "Sports"
   },
   {
-   "id": "d38de1625a",
-   "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEdCMktMcUhKb3pUNmdCdjcxdTJrUVMzNlJkRmZHLWVBd0RoTWRuSlZHM09ySGwzYXo4U0FwZGdzNTdGOGYzRndsZ052cG1SakY0NEdLb1ZOOXhlbklZN3VYZzNUMGJWNFo0LTIzeTJUQWxRWlNvY21KZkxHNlZxVjZfOEFvazlaMDBWYUFNTHY1bkMxYkltVDZZYnZJeDBQRjlxZEJsMllyVGhYcUQ2aUttOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PBS",
-   "region": "AE",
-   "date": "2026-11-13T23:50:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "2ad50da5b3",
    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bmJSeXZjVmZQcm1sZkRQQmlCa2hPYUlhbEN2UzFnN184RzZTWEk2ZEM1OXR6ZTFOTWpaU21QOGVMX3UtZUZ6RGFLTGdlOF9TNVJrWFBuZXF2WEk?oc=5",
@@ -367,19 +435,19 @@
    "topic": "Society"
   },
   {
-   "id": "ce46448da8",
-   "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXhQWVFoSHVHNFR4ZURLdnJrdVFiQlY5bFlHMGRqZDNqMkRVTUdaRTJlLVhPVEtHTTRoZWIxN0VCRWNpdGY4WmJ6Ty0yQlBQRURPX25QYWNzT3FGX3VwTThLX1ozQW5BTExtbXhLWGFXdnJiX2NqQmVMeU1hVlZ5bTZHQzA0OWJ4YUU4?oc=5",
+   "id": "5586d0f864",
+   "title": "Shane Gillis Addresses ‘SNL’ Monologue After He Promised Show “No Controversy”",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOXZ4a0xWWW1zSHo2VmFVbkw3ZVpYR1hVOVZIWFRIY1BCQWxSWXlvVVFCMTd0SjMwOXFqQkdMME5TdFNmTFhndGQ5S1J3VnBjVkdLSlVYNDVtRlRIa21OeUh3QVd6MWExd0xEaDRPZnhrc3drNW5LNWtzazdXdEFXV0llSVVxWTJNM3hoYkctd2xjRy1FNURpNDE0V0dtakNVSlVV?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Deadline",
    "region": "AE",
-   "date": "2026-11-13T23:10:21+00:00",
+   "date": "2026-11-13T23:38:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "UAE",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇦🇪"
    },
    "topic": "Society"
   },
@@ -426,23 +494,6 @@
    "source": "WUSA9",
    "region": "AE",
    "date": "2026-11-13T22:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "addead7af5",
-   "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVNtSnk1YnAzSDBrR3ZfUTRxQi1HelNrbDZ1eUwwckFneGJpampkOVZNZ1J5MEhYNXpEeXU4YV9zN0RiazdNYmVwSmgyUE9yZjV0b1l2YXlLWFQ2bkgyLVRLc2poZUVOVlhISy1UN2Q4eXpZcFlUek0zSzdNZC1IRHZPbXFCUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "AE",
-   "date": "2026-11-13T22:21:04+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -503,23 +554,6 @@
    "topic": "Society"
   },
   {
-   "id": "9275229745",
-   "title": "Apple TV 4K Launch Day Deal Arrives at Amazon",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TTW00S2c3dnJuSS1fSWpWalRBLUI2YTRFSFJ0RF9FZ1daYWpRWTRidjdtZ1V0ODRUbXlLYXlGbUN3U0RwRDl6VWFHV2p3bFQxMTRxUFlBLVc5M3BERHNEWkp4NWIzNWZVcGhFZThJTDMxeVk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MacRumors",
-   "region": "AE",
-   "date": "2026-11-13T18:16:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "8bdcc4beff",
    "title": "What men need to know after a major update to prostate cancer guidelines",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2RxWnpJX1VSUm9kWno2QXpLdzRCZnJsOWJraTV1dWo2c1M0amJUZWs2emhSYURsc0lnUFhRNUtFQWtGUEN3U1d0emp1ZVFDN0pnSWVRWFZpM01HZmxWNmZ2cTJHVUV4SmJGQm8xZG4wQU13aU1yMlg0cnFPT3Z2dWdqbVZ0WmNLd2ZTQzJQbWVVU2xfTmYxVXh2cEY4enFaVkZQejlYWUg1NUN3?oc=5",
@@ -528,23 +562,6 @@
    "source": "PBS",
    "region": "AE",
    "date": "2026-11-13T17:58:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "UAE",
-    "place": "",
-    "flag": "🇦🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b9be882ce6",
-   "title": "BBC undercover reporter is offered fake art and awards for talent visa",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQy1yV204b21oU05GS1ItTWJWU1dpV01uenZ1bGszc3RCbTE1Z29CVW92Z2wxbVBZWHIwY3QxMnAtYlE2UkVLc2xXMElDY2h0S1hBemhMdG8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "AE",
-   "date": "2026-11-13T14:45:19+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
@@ -571,21 +588,21 @@
    "topic": "Tech"
   },
   {
-   "id": "8524914013",
-   "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5udms4RHB4TFMtWldCTl93aks3SkV5OTBieXM2a2hDNmJWX2FSSHlrcGkwZEpYTTVUX09zckl2VWdSUXhhbjVvM3U5ZmtqMkNZdG9KbDdMUWVYX1ByUzJER2FGVjRyd25zVWk0amR4Z3pmUFBXQ1JlUA?oc=5",
+   "id": "0eb6bd0ee7",
+   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "9to5Google",
    "region": "AE",
-   "date": "2026-11-13T10:02:06+00:00",
+   "date": "2026-11-13T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "UAE",
     "place": "",
     "flag": "🇦🇪"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "c29be15b3f",

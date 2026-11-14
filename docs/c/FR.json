@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "Le Monde.fr",
    "region": "FR",
    "date": "2026-11-14T13:04:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "be02748432",
+   "title": "\"Ça va faire taire des bouches\" lâche Mauvaka",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb0thVU1hVWR6VmV4MXVMRDlGNE9DeXdYYW1IcFh2MnBoaUZ1YzJURUlUd2cxZG8yVVBXbmNiRjJJUEQ4UFVDWXhTQmNfcVlSaGRCb2VGRnlZSTVwT2xhTmdkQUtlSmNaZGhoTnd2a2M1ZWtsaVdUaEo1Z3hmbjgxU1JodHM4N0xDS0VOcmI4OC1FUm9NNG1sX2Rxc3pJTnNSMlNUVkY4RF9XM2VZLUl4NXRGYjA2SGl4TW5CQlBKSm16TEtEczdIOHJNQ2lRdUJrb2xOak1BdjhXNnVvbkhYR0otemJRQ2ZZTGQtRmFJVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Rugbyrama",
+   "region": "FR",
+   "date": "2026-11-14T13:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -55,21 +72,21 @@
    "topic": "Society"
   },
   {
-   "id": "ab997ca2c3",
-   "title": "Tesla va vendre son Cybercab, une voiture autonome sans volant ni pédales, à des particuliers",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXJyUWxDdmhCZUxNcmloNkFPUlgwVHptOGNFNHc0OG1xVzRVaUdTT3Y5bzZGTUc4SUV1d0J2LXJ5VFdVZmZ0SHVEOHNLeTZqSk95YTd1NWkxV05fUjJQNTRzamE1RGp4Vjc0aEJ3cUFnZUZVYUZwWUtZekgtMjJfTHpJVzRlbVhiVWxHSHNnWlhRSEZuTlFsMlRjMHB0YTlrd0dEeFA0ZVNMa2lXbUxaeWxPNkd6cVFNdU84bTgtS0JvR3pBR0RFWS04cnd0dw?oc=5",
+   "id": "2c6c8a492d",
+   "title": "L’ancien ministre qui soutenait Teddy Riner le lâche déjà",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ0pWaWxGdTMyakwtMHVieDltcnN3UG5VNjk5ODBoVlhzTUc2b1E3WHZSRHpZcVkzNzNWY2NGN0tqRFU4VFV0ZHVPR1RFczNZdlRKMWpfbUxONUdkYXp0b1RJYXBCZF9jX1JYMlFOdlkwUVJuU0N6cnRWTE5xWXI4dWJjTDBNNU1GQlFhOS1aSjB6bkhRMGN4QXNFTkJHeUMydURKODRIYWRWMDE0WmdaQmlpV29zbjItamFjRnRDSktuMi1HRWtBaW5SMU54QTJORHhz?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "Le HuffPost",
    "region": "FR",
-   "date": "2026-11-14T12:39:59+00:00",
+   "date": "2026-11-14T12:27:13+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "0608306c46",
@@ -106,14 +123,14 @@
    "topic": "Tech"
   },
   {
-   "id": "b408c6ddab",
-   "title": "Disparition de Marion Wagon : journée pluvieuse, départ en courant, passage par l'école maternelle... On a retracé le trajet de la fillette",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONkRDZkpYQlpYVVo2SVJYVlJOM1pJYkJZVk9OYmdFbjRFLWdrQVF4VkxudG5yaDM3STJBYnRqcnItOUQ3UXFxUEIyckpObkhMZ01DdWU1ZEo0UEQxektBNEUwU1BhLUgtdkh6QmthUUVBRHVQMnpyMzYxRm1IUG1jcFR5V1VCX0V0cXY3MGZTYmhkMG1rRFZiZWdaRUF6VEdZWF91V3RWQUFSNE9yV0kwTFI5MXBuUkp6RVROU1NpUG8wb3hka09BeWRrWjRuR2Z4VE9YenVNbXJESnZ3V0VEX2VGUXR0WTRXZ21kWDd1VVhaR2N3SXhMWWhmUVJhUU84dHBqNTBRZklPRVNm?oc=5",
+   "id": "076ae080b9",
+   "title": "Déjeuners à la cafétéria Casino, trouille de sa vie, « le bon temps des copains »... Bordeaux, là où Zinédine Zidane est devenu « Zizou »",
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQX3ZOUTZhZFQydktScEsyUVp6WXRoZkNNOGE0T0NPcnBvMVFITG9xS0djWEFaT0p3VEJ3WXRZY2wxc19qUWpvNFU1MGVSOFpoNDZfQzJ5RzFhZ1V5ci0wZmZxLVlKTjBNZDZLUEphMHRZa0hYY0FsQXQxaGlhWlFwWUt2cGw1TWZsVEd1YWFPY0dlRHZ4X2haS3BCWGhZTlpPSjgwMHZHU21HYVZwSzR6anRKMkZqZnBPTzZFU2FVSzYyMjlUdzM3Rkt2M1ozZHQ4NXpkMjlrcnY4S1ltMWstMlZZb1puYnZQZFk0Z0lHbmNhUF9Db1g1RmRzM1hOMVBxOG84bTlNSFhZc2tvY2NlcGJyYmhOT21wbzMyMFdCdVI1VWZpU2lwQ2hnVWxBdFU?oc=5",
    "summary": "",
    "image": "",
-   "source": "ladepeche.fr",
+   "source": "L'Équipe",
    "region": "FR",
-   "date": "2026-11-14T11:01:00+00:00",
+   "date": "2026-11-14T10:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -123,31 +140,31 @@
    "topic": "Society"
   },
   {
-   "id": "2d18856070",
-   "title": "Menacée de mort pour avoir refusé «la validation automatique du semestre» de ses étudiants, la présidente de l'université de Lorraine porte plainte",
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQV0lJbkdhRTc3anlTUG5SWm1tdU1YX2VEYnQ5WF9SeDZDaHVkSVFQRFBfUnQ4REY4aUhmQlMxV2JIZ1Etc3dfaW90VTY2NlAzYzZjRzFaRC1wVjR0OHBlbjUtazF3TGN0alNsd2t4SGlUQXNIMlpGNkpxQmtJV0kyNHVORzRuOGF2SFg1NVlpM0lMU0gyak1MYWxVd0ZsT0k5TlYwTWprRVV0V2ZMOGgydEk1ZjVXbkxyem5nWlp2dXVaeXJXaEdmR3NpdGVMeXRyVjd4Vmhhc09vTHB4TFdQS3plQlVSUDFZSlRiYTJ5U0NJUTNvdHNLTjZhckZQVWRwVUZlSnNSM3dLV3l4bzhjV0RVZWpBOERsTXRvaTU2dw?oc=5",
+   "id": "5cbfb02975",
+   "title": "Nvidia : dans la Silicon Valley, les tech bro défendent le soldat Jensen Huang",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmNRSk0za3doMEdpNDRXMy1KU2FoaEo1RmNjMlRsY3NCTVR2c3RvVW9nelBiVjluR0RQOXJFTGp3ZWtqR0hIdkJxMjdvZnVRZEZPcjlmWUgtSVoycEhlMWJVaDc3dHJ4MnpONnVmTzJqcGJxZG9zNEVmeGFKeHRjaUE0ZFpwbG1ZREJWZE9OQl9CUkF4NEg0Qm9KVnNYMG5jQUtVNTdnZGNTVXlWTThKMFVHVDJjNV9hMUxfemVQeTF2ZGlwaEVN?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Figaro",
+   "source": "Les Echos",
    "region": "FR",
-   "date": "2026-11-14T11:00:37+00:00",
+   "date": "2026-11-14T10:45:21+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
-   "id": "a318e76ff9",
-   "title": "Le RC Lens crée la surprise en nommant Didier Digard au poste d’entraîneur",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjc0R3JDZXI4ZjQ0ZVh6SHl0TWUxREpsRUhsbWEtcVFMTFNxM01GMkxFRmpBaVVJcmthdDl1QTIzOXd0aEptZmR3SWVkZC1hRkNsLTliMEJ0OExZY1FKRjdERlF6VFVnX3BaekhyQ1NqTGFOU0pyY1lUWmxfT1hyQXM5dFJHUDNvQUtNUnFUaWZxVTRrM2xhaWdacmJUSjRsQ2k4b1J6WkFheVl4VzE3ZThYOXlDQjlmVGdfekk1MXllaGh5YmFYTmVfeVF6RFFYSEtNbEdsRQ?oc=5",
+   "id": "6bf179f5d3",
+   "title": "\"Ce n'est que le début\" : Les autres \"maîtres\" voient Fils aller haut, très haut",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUFNtbzlFYkZMeV8tbTBQUXdXcnpqMXRXYnJ3a2czRzllZ2tnWUhEaHZtNmhaUzM5Y3FVVjZvdGV1NFNmaXNrMUl0M3Q2TkRPM2lleGhMU3gyZjdfbUhqcnFQRlNaT08yS3ZSYjZ4MW1RclpWNjk3bHVPQXE4dGxsd1lNY3dBM1dpcFhGU0xnTlhsLTMxZUQxY0l2RGEyUWg3T19tTkFiZlByOEhBTHdwUWxPOTZjajduSE9EV1JMZGk1OTZ1NUYxVkxkdkFldkEtX29Ib0c0b2xSLTQxUzJOcFRnaXlYS3dHMzNxckhvZGxoMEpwWnJYUGlTX3E?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "Eurosport",
    "region": "FR",
-   "date": "2026-11-14T10:49:17+00:00",
+   "date": "2026-11-14T10:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -165,6 +182,23 @@
    "source": "Boursorama",
    "region": "FR",
    "date": "2026-11-14T10:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "22e02f5d48",
+   "title": "Collision spectaculaire entre un porte-conteneurs et un bateau de croisière à La Nouvelle-Orléans",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX0FTTW9YSE5WaFdCbVc3bElBX1g2enpTaUhPZFhfTThhWkg3T3lkSS1pT2dFUFc2NFR2ZGdPRWhXdVdHR0VqMElITndzUWN6U0F0bnNrZ0VaVFRtdzdnVTREbVBXRjZJRTd0SzRtVkhZdHBwQUdqaWszUlVSeUpzbk9OZnQ4emNLVEFTS3hscHktbWNIWFd0NjVCOVlLdC1sdkw3R0lFVC1fVC05XzBsN3FOS2dFVktuakhiQV8za29kU01NQkRMWXlIR1lWSDA1cndEQlA2OVo1WFNGMUJN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "franceinfo",
+   "region": "FR",
+   "date": "2026-11-14T10:12:13+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -208,23 +242,6 @@
    "topic": "Society"
   },
   {
-   "id": "b77db5fcf1",
-   "title": "France-Afrique du Sud : la cartouche de Bielle-Biarrey, les ratés de Lucu, une mêlée secouée comme un prunier… Coups de cœur et coups de griffe",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPR2hzWUFSN3hMcEZaaUVWcFE5dFJIMkd2ZUkxY2t4dFoxbmVxMXoyMHVfVFFUeC1wM3l3ZmkwYy04ZFE5MDdQRGwxUWQ3T2xqbFhjbERHWmV2OGFfTy00QWQxR0hZX1hyYzVsRDFwVlNsSkpfQzR6YjhmS1F5dE9aRjJ1NU45ekV4THp1UlFWRzNDWng1djd2YXJpV3VCS0I3M1lZT082clRmMThub2dmUl9sLWUwQ1g1Qi0zaFFSLU9lSkVacm1uYmVYU0Z0ckZrV3lXMjF3dmdQTnVPZVVvSmY2Sk5NZGVleVFlQUN4WTFtYlFNZFRKUHN2TzlRRnd0cWdieGoxTlFzLVdTVzlBR3pBZTBINmZzc2FySFhFUTY5WFRQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-14T09:10:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "566843e90e",
    "title": "Maria Melchior, l’épidémiologiste pour laquelle « la santé mentale n’est pas qu’une affaire de cerveau »",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX0RHN3RVOVFSR094a2FyZHowQ2x6V0FPZks3LWZ6QU1PVkk4NEFtQW5UdDZLdUttU2ppQWZyZUo0SVpncEh2NE5naUxfQUlJaTZfenFyczRTR1NZQ2tUd3ljVWRsU08yU3pHSS1BRW9QS3N5YUlReVJGaFdvM3dYdHQ1cDlJNFVQY2dUZ0ZFeFFWTGdPTFpDc3Iyamd2WWRmSml4TjVWR3dya21Kd0trYkJzaGdRQ3pya3owNGM5ZGNYQjE1NDhGcWFYYW1hdU5kbnBzY2JveUhUVGJuM0M1Y0x0RG45cjdMcFZWdDhNdnFpTE1KeHJsbndYazRSTDB6?oc=5",
@@ -242,40 +259,6 @@
    "topic": "Society"
   },
   {
-   "id": "e6a15d2f59",
-   "title": "États-Unis : spectaculaire collision entre un bateau de croisière et un porte-conteneurs à La Nouvelle-Orléans, des passagers à l’eau",
-   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWTN6TW5PZHg0QWhlRldMQnd1YXlZLU1MR3ZJU0Fuc2plOXE4STMzMk9zaEtxMU5sa1B4TjJrdWRVbi1VZzNpTHJ0OUNodUVWc25sMlFDODNNc0NwTGVMbUxYa3AzU0RGTHJUUTd2Y21Wcm0wX2Y2YnhKbnhTWDB0akJ0Y2xxZE82MERsU0xld09aZ3lwS0N1ZE1LMkhJcndkdHlPLUdqR1ItR1UwamtISlR1czB4R09ucThFakVfX19ONkRnVm5jdU55UkQxTUdFbTlubFVJZE5aQ1lXX1RTNHlXUlJQYlJ2TFVxc3UyZVI2Z1dDNkhxcHpfRjI5b0N5THdQWmNGLXhxbXZfSlU4d2lpQl8tVEdFbEdHNHdVeERKZjdfRmRTX09JQ3V0Z1hpNzVCeTdlRmY5N2ItSXhSeFE3dGI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Parisien",
-   "region": "FR",
-   "date": "2026-11-14T08:06:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ec5151907f",
-   "title": "Avant France-Turquie : « Zidane ? C’est la génération 98, la première étoile, le génie »",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXljenh0WjQ0WkZHekxTVXRyYnJrSmpTaFVZSmtfNzZXTUdyQy1uVHBxWlZPdFpuTDc5TGdSLUlocnY0Zm1ORmJFcUFWdEtPQ0lIa2pqbWRqN3l6eEVTdHNBZmRLYW9paWhiX3BmaVRhYWdOdEtMVDV3cTQ5NVNHVnZud2xpbHZtOG9RTDhYd2lXZUUtRElONkJyRFZZRWZlR1NBNFhvUVJSVVBNRThBTW9HbHpFd1huY3lYNHROUUdyM3N3MmEyS1NGX3o?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sud Ouest",
-   "region": "FR",
-   "date": "2026-11-14T07:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4783e4f75f",
    "title": "« Si on va trop loin, elle devient méchante »… L’adaptation de « Mortelle Adèle » en série animée expliquée par Mr Tan",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzFWcFBEejYwUFNFcUxQVm5FQVdpVzRHaHpsUGtwQTNTUkdRZ0JYSjRkU3BOMndrSTBhMDNQbHpnaXNsZWxMa0RVM2VQbHFXejE3NndocEhXeVJ0N1pDaEkwdkFqTHZNTUdrTTdMaTVGc0VWUzFZTnVYZVNCZEQ5RUprT2doYlpIM3FxS2FKTFBHaHduMENtM2J3dWZUZExzcV9haHlKSk9zSVZVR3pCcDd0dmdIR096SXhPbUUtRzA1VnZiU19aYXhOWS1za0gzODRxTU9Tb0xTYUVyS0lwWEM4Y19DUUE?oc=5",
@@ -284,6 +267,23 @@
    "source": "20 Minutes",
    "region": "FR",
    "date": "2026-11-14T07:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a77aef784f",
+   "title": "Disparition de Marion Wagon : \"Si j’enlevais sa photo de mon pare-brise, j’avais l’impression de classer l’affaire sans suite, de l’oublier\", cette Agenaise se souvient",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSzZid21DMDRSYmFzTzJCbHFYci1lWjZld0kxV3F5RDRhQnFURUhUUGFINkpMbVUxN250RUliV3NQOHl4VUlLaEtrVUZyOTNzb1BKd3pfYjJXNkhLM0JoTG0tZ3NBOHU4TG5FSnFCUjN4TE8zRXpMSFFNamJEYWFRa0JtbjBfNVF2a043ME1lUUlkblVrSUdiaDZ5YVhFRjZwVU5LeW9sMnFtcms2WGo5ellLaFd5U0FjSFBqcllwdkx0ZndDN2Y0WnN4bXMxMGZ6VUtCM2tvbEZHbWNlWnVZYnFWWjRPbHpTZG9JaUdtY1lkYmpmYVhxbTV4SmpsOWR5cWhhMWh4RUNIeVIxZDNzTzlfYzl1TFlsUGlQbktQOHdfZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ladepeche.fr",
+   "region": "FR",
+   "date": "2026-11-14T07:31:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -395,19 +395,22 @@
    "topic": "Society"
   },
   {
-   "id": "2f29621936",
-   "title": "Les défis d'une Francophonie fragilisée par la crise du multilatéralisme et les tensions internes",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMXBCa3JRMmtENjNmMzlxNHFlYk9MTHRPbkU1aThVUEk1LXMyR1FMSDd3QUpGMWZiZks0aU1UT0RuYkQ4LXNDeHM2ZnRKRTFmendWMS1ISjVMNVQwRUFINmNtajhjN1ZVcHd1ZzMtWFkwWHl6UU0wZFQwQlp5emRjMktYRm1meG9rYVBOWGIwcFRyeVdaQ0NHeHJzTEgyWFVMbU0za2JMb2FPTjRPOVNzN0U5ZGx5V01GaXZJby00cUwwS2FHMmcwVXNWV3lZN1ZfUkszUFF0SzhIUlBDOVQ0bXJOOTFza29QWHBVNmZwYw?oc=5",
+   "id": "e409cce99c",
+   "title": "Palais royal de Phnom Penh, temples d’Angkor... Emmanuel et Brigitte Macron attendu au Cambodge, une première pour un président français depuis 1993",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjBVTTFvMVNIeExTS3hpQ3p3WExlY19xc1dzSG1ubzJ5MnJveEtQaGNveEpIVVFFV1hiNkZheElqZmIzcXIyRHF6LTA1NEJHMzdnR1lxX1JsdDZKOW9XbjNod0tReTR5VnE1dUI0V2E3UlFjclBwMVc2dlp4REVQeVFyVUNrR3JCdzVRMEJwaWJPcXk2TU1CUkJsaUpSbjJ2RDdoOTdXZkFCRUtnRDJPYVNVQzh3anJmLVlN?oc=5",
    "summary": "",
    "image": "",
-   "source": "RFI",
+   "source": "CNews",
    "region": "FR",
-   "date": "2026-11-14T04:57:32+00:00",
+   "date": "2026-11-14T05:17:02+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "Cambodia",
     "place": "",
-    "flag": "🇫🇷"
+    "flag": "🇰🇭 🇫🇷",
+    "also": [
+     "France"
+    ]
    },
    "topic": "Society"
   },
@@ -446,14 +449,14 @@
    "topic": "Society"
   },
   {
-   "id": "ae04ac52ea",
-   "title": "Présidentielle: l'ex-ministre François Braun se met en retrait de la campagne de Teddy Riner \"en attendant que les choses se précisent\"",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkNRTEFZVzdjV2lEYTV0ckpSY0F3LXRPbDVCTExoRUlESHpQVEo2Mm5melh6SFRJdmtIcy1VUGdsVENMcDBJbVMwSm5ibHo4WVNXWS1KaGZ3NDdOa1hCclpFUmg5OU1LamlyRzFWd1hRQUVYQm9EWjBoanYyS2JJdTVKN196VGF1SFIwUjU4TmpyaVg0TVcyYQ?oc=5",
+   "id": "9d4006a961",
+   "title": "\"Il faut dire la vérité sur ce qui se passe\" : le premier syndicat des chefs d'établissement conteste les chiffres de l'Education nationale sur le nombre de lycées bloqués",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTzFtbl94STdPWHNnWVprVFlycTliWEx0bXNPcWMxdzZsTS0yX1c5SjMtRS0yME0xclNRdTZRQ0VSYjlKSGNETWxqN1lrd1NrcWNYN3NUUk9RLVlPRXhUQVpfRVBVNVhUTGh3ZXVxS3VoNDJ2d2JUMmtnZzF2SWI2dy1CMkgzS0U0S3pzUjRzT0ZMT0hUaldZeHU2RUpxRmZfMEY5SldQX2xiV0hJSVA0STMtcm5OZFhoSlZseng0cW05VW5hUmk5WDN3QlMtakZBcm9GaS1Bdno2OTFNVjVjLVF0Tjc5aVBKX3M3OHVPWllva0QwQ2hHREVUeERNc3ZJVW5FQ2RVWEtLOFdYUEpkT3h4cVFERkhJWFJfc25WM2tMSEFzRG9vY2Z1ek85QWRKR2VCRVJRY3lDV1h6OUN5MEZ1X2k?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Actualités",
+   "source": "franceinfo",
    "region": "FR",
-   "date": "2026-11-13T23:40:00+00:00",
+   "date": "2026-11-13T18:43:43+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -463,14 +466,14 @@
    "topic": "Society"
   },
   {
-   "id": "9d4006a961",
-   "title": "\"Il faut dire la vérité sur ce qui se passe\" : le premier syndicat des chefs d'établissement conteste les chiffres de l'Education nationale sur le nombre de lycées bloqués",
-   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTzFtbl94STdPWHNnWVprVFlycTliWEx0bXNPcWMxdzZsTS0yX1c5SjMtRS0yME0xclNRdTZRQ0VSYjlKSGNETWxqN1lrd1NrcWNYN3NUUk9RLVlPRXhUQVpfRVBVNVhUTGh3ZXVxS3VoNDJ2d2JUMmtnZzF2SWI2dy1CMkgzS0U0S3pzUjRzT0ZMT0hUaldZeHU2RUpxRmZfMEY5SldQX2xiV0hJSVA0STMtcm5OZFhoSlZseng0cW05VW5hUmk5WDN3QlMtakZBcm9GaS1Bdno2OTFNVjVjLVF0Tjc5aVBKX3M3OHVPWllva0QwQ2hHREVUeERNc3ZJVW5FQ2RVWEtLOFdYUEpkT3h4cVFERkhJWFJfc25WM2tMSEFzRG9vY2Z1ek85QWRKR2VCRVJRY3lDV1h6OUN5MEZ1X2k?oc=5",
+   "id": "716ffb1f96",
+   "title": "Succès monstre, GTA 6 continue d'affoler les compteurs et dépasse déjà le milliard de dollars de recettes",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFNtUWdXNVlLd2xhdTZ6TzJjLTBIakdHTVlTazFqY2JaUHUwOW9iQVdvM3FVUWp0T204VzU4SEpEem5QTE5XVWNtMjNDRXdWZ2w0N0J6VHVhYkFrTzNETEZIbnFGQUlhd3FvU2t4amloeGR1aHpKVTZMVWdIeTBSdHhpbE1NanFrRmQ4a0hEUVR2MGJlTlRWX2FkV1NJbTNsTGVVMEFlcmNLcEJ2eXJlaG5iSnViZE9YTnlfUy0yOFljQU9QM1ViTGp2dC1nVG1JaHRsMVoxTF8wVFROWHFZWVIxWQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "franceinfo",
+   "source": "Clubic",
    "region": "FR",
-   "date": "2026-11-13T18:43:43+00:00",
+   "date": "2026-11-13T17:31:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -514,23 +517,6 @@
    "topic": "Tech"
   },
   {
-   "id": "897cd9a3d1",
-   "title": "RECIT. Des premières révélations à la chute du PDG de Nvidia, comment une affaire d'adultère provoque un séisme dans le secteur de l'IA",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcGpOY1dldG9vaTFhT2VRaHJsNHdjLU5zeUdwMlhRbTBMQzU2QjRCV202M1ZFUmFrd054RDBWRjEzc0szdDVpR2VBZDhjbzFmZGNWUlQzNmdLeUJjRldJNWtHQzhJcjNjZjVwaFh1My1hTi1xSk9uNkJ2aFd2MFpfSHN2STRHZXdqbHlZWkZRWndLaUxqcW5SRlRjdmVzQ3NFVWM3ZEF4cEFnSFJFTnpQQ21zU3RpcWZ3d0NESzNBbktqNHgydWZUMVcwaHJNZDBfMjZ4ZDktdWFwWUVrV01YUFBaSzl0SkI3QzBPMGdQbFM1R0tCR2tPRWtPMDhZLXpzeXQ5NzZnaWtraGtSMU5vWVl5MEc3UW8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "franceinfo",
-   "region": "FR",
-   "date": "2026-11-13T14:57:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "e96fa4345f",
    "title": "Navigo arrive enfin dans Google Wallet, avec une vraie limite à connaître",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORE40MW44UzJRb1BpOW14NVNkWEZWUGNrWC1velZOLXg4Q1c0Mm1RT0lHYmxNUXpIVVBLMGJ5aW42LTdSOE9iaWJESGNiN01nU3U5bFZYbGtOb1g3bVlleVZLMTMtRTVqLXJwRU9sYTNtRWE5ejR4Sms4aU5xVi1Wb3g1MlBSRkM4MWhTbGNwV0w1MTJkSkVjOWo0TE1rNV82QXJGVjVPZzFkMDBaVnlCU2Zja1o?oc=5",
@@ -565,14 +551,14 @@
    "topic": "Tech"
   },
   {
-   "id": "ba26bb852f",
-   "title": "Le plus grand enjeu de GTA 6, c'est de savoir raconter l'amour",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVJzMWhYRlFFa0NtaDhycURuWTZPbi1lLWFwdE9vS0pveWgydExBUkU5dFhfOVZhLW1NZXNYUThPZ2Zvam5mejEwSXl0REdzT2VGcDhmZWJSY2RYdDZDQkd4Ylk4RjJVdXlyeVZ2UEdheFR2aEVHUFBtVXlsamlQS0ktbHdYVzVWWno2OWlVTW5ESWFhak94Rm03TXI3WGdzNFdmZl9DY1czX3lPS2NqelV3?oc=5",
+   "id": "9f77446b18",
+   "title": "Distribution : l'Autorité de la concurrence épingle la centrale d'achat commune d'Intermarché, Auchan et Casin",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxONXRkNHd4S3Z6REoyaUh2bDI0SWpZSGdBb2d2cVJGTjJZUEt5VG1jWFJ3VGpaR21GUWFKOEhxTndCdE4ydk1PY2NlYjlDZkRrcTRCYko4Q2daX3R1OUJSNUlEMm9wamg4dy13ckFSSXZVZWdaeUhrR3EtWjhxQVNwZlF1U203Q0llODRoeXpMdjBQVTdCQnQ2Zl9VS1pWV1REYnJTNG5IQWkzclRjVmlwQWxWc01MMUN3dkZPT3FlMkowYUNpRV9Ib0lmak4tVEdQZVhtYUZ0VjFvVWYtYW5uMW9PQmI1OHpyR2NOM3g4eEtpcEJJVHIzbmxtV2gxbVNBMktSU2JOQWozN05tMVo5RU1JVC1nQWhCa1R1Zndibzg4UXE1V1840gGsAkFVX3lxTE9Oclg2Q1Q3bWoyWElGNjRPb1ZFaHoxaVBaVUstTnpjaG1CQWJ6Z3duT3V0LU5XQ0dRUDN3VnFqWXp6YTBHY3REaDVPR01INTRqUjZ2bzI3R0psdkFyM3lfSFN5VTBVUnpucmtyUGNmNGM1Y3cyTHZnalNqbWNVSnA0c2U0cFRZOGZlanBRNzU2ZUhPaWRUWFctMnJiOGVOZW5UdU56a0piWHp4MDdlcGlyRENNUjhCTmNRTFlMbHlETkpjVmlkX0t2emdqM2FmNTR6T0pmQjlsZWdORDJDZkJzMmNWUUxLc3B2RGNURjlUVWp5d2ptd21VNjZ6bTJSZVJVMmR4SnVHYkI5TkRubndacWpLOVkzSmNlR0pCaWFmSUc4eDJaRlZtZUIzOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Gamekult",
+   "source": "Boursorama",
    "region": "FR",
-   "date": "2026-11-12T18:00:00+00:00",
+   "date": "2026-11-13T08:09:24+00:00",
    "coverage": 1,
    "location": {
     "country": "France",

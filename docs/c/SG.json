@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
@@ -19,26 +19,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "52958f591b",
-   "title": "US proposes Ukraine cede territory in exchange for joining NATO: Zelenskyy",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXhiUFotWnloVHVWVFpvMHhsQmZ6OVMtVnpFU0NFbldPblB2UU1jYmRoak1FMjJQcm5PTGlTOE1CUjZRdTBTSERKUXhlY0dhVVJHczJDTS1tNHhpTDFfY3NlUFBGSkJQM2E4VU1kd1hYZ05fWTdiamk4bVlrb1phTENLMlB1cWtjd1NnVmg2aFE4d2QxNVdDRWpoRDBiNDd0X0YycU1BX3FScUdWT2NHOWNmaVhrQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-14T12:52:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇺🇦",
-    "also": [
-     "Ukraine"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "f8f6b38ade",
@@ -184,23 +164,6 @@
    "topic": "Society"
   },
   {
-   "id": "dafc50bdd8",
-   "title": "Singapore has suspended a telco licence in the past – will Simba be next?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVlanpka1NwMmQySHBBczg1UlNEZ0taREVEWGhLWmtVdTB5Vy1ZTk8tN29JUFd6S2xVOURtOHZ5T1lEc0tKQnpJM2hpZlcyU0JSc3RGanpDSER2dURSZU9sd05CTTk5V3hMSV94ZUtwREx4QkpvMHNUb2szbmw5YmlYeU9jYnFaeXJ2bUlvb1ZxbGl0N0xDblJENFhxa3gxb0ZfU2xmazQ4LUVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-14T04:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "dc5f49cc2f",
    "title": "‘Cool, friendly, evasive’: CAD investigator on suspect arrested in $3b money laundering probe",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1hoOE9oM3hkWlU4SFh2WEhiMnVaa1VmY3EyYXFpWkMwYWpnakF6RUF4WHhSSXB6TE1nM3dFNGFSR2VIbjlud0FjeVkzUmU5cGRxVFVISFg5WGYxSUExRVRQb042aFFwUG5fZXRmLXpKekR5Rm9NWmdJZ1l0TGlVNS1RY0l3anJEeklCVE5EZURvQmY2eVg1cVRjOXlwTFFtOUNidGx2SEcxeDJ1cFBha3NMYmlkR0xad1kxSUZHaGJjcXpEa1BxenNubl9pQmE4MkJUYXBn?oc=5",
@@ -267,6 +230,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "21e2b20b2f",
+   "title": "17-year-old goes on walkabouts and meets with residents to address community issues like 'an MP'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmw3RmsxTjBYTVEta0tRN2VNT3l6cDZnTjdUblZPVGZUU2FhQndZc3JxQjdINGkzQzFDczlhZ01vUVBWZGhUQVlPOVlLZkFuZHpzOHBCc25iblRscmlOMUZXMUVwSDZMam9McldpUDdYVVp0RzBBSFJXUW1kSzQ4SEw0TzczWU5yOTdTMjlEOGI2YVZESjh5MEl5N0Rud0x6?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AsiaOne.com",
+   "region": "SG",
+   "date": "2026-11-14T01:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
   },
   {
    "id": "bd5f1e329d",
@@ -337,6 +317,57 @@
    "topic": "Sports"
   },
   {
+   "id": "7f3a24f2be",
+   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "SG",
+   "date": "2026-11-13T23:00:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "d177828254",
+   "title": "Introducing: The Raul Pages RP2 The Hour Glass Edition",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVV3UjVJTFN5azhRWFVYNHgxRzJ4dXd3TlY2Yi1JZ3VkbVAwZEdidU5kNkRVbDJOMUxQY1FPY25PU0FBM0pWX0piZ2VDTHNvNjdVckJGVkkta2EtdW5GMlQ2QVo5NFNSZEo0czc3dnluVVhaRVNHbnFmNW5mbGJpVFhOSExXendmejBlTEtnaG5SVm5WbXVueTBnUElMd3RPQjNsSFNrVmVNNWwxQXNOVw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Monochrome Watches",
+   "region": "SG",
+   "date": "2026-11-13T17:10:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "04c26cd4de",
+   "title": "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWhFaS12YTJmTFZLWF94WFZXRndrbWxyWkhSX2FLSXFvSFBFbGR6emtfcmVPckRNZjlKYWYwX21Ha3hubnhEUmQ4bW91UndSbmZFRkd5blZyOFdqaC0yRHZXOFhWQjJuOTdrQlZJVXB4S2tvWFI0aVBpdU1mMjRnNy1TU1ZxajZ1WlNBdm9fWDFNNVpDMUFVb0hGSUVOYUE3Ui1USTRSX2w3T0dCWXZiTmpiMA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "SG",
+   "date": "2026-11-13T17:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "32f553310a",
    "title": "After 5 pregnancy losses, Hanoi mother welcomes 750-gram baby girl",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVl0RGtJQXM1TVBUbVdmQlZqbHBEWG40ME5fRGdLX1hGNzlLai0xamk2RXVhdHR1V2lucXZodzlSSXNnYm5peVJQaFlJMHgwVWxIblZvY0ZjdWwxYnA1WDh3eFNKNFhER3EtcTRjSWJFVkloTHFjRVJkNEprekdjZklFVk55X2M0R1lXM2h1bmszOUxkd3QyUGNmOVU2OW96bWRTZWswd284dEZYWlVGYQ?oc=5",
@@ -371,6 +402,23 @@
    "topic": "Sports"
   },
   {
+   "id": "8a99bfaf86",
+   "title": "Islander Watches: Everything You Need to Know About Long Island Watch’s House Brand",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91MWJ1cFFkemlRU2lUOVBSRy1nM1ZoN204SFRwU2EtNUc3cFFUXzBCVC1pa3NuZXpCdDNYMndRM25VT1M4RGNTcXhQbkxmUDg3cmgzeHpfU2locUdRZTBxOFI1WWI0QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Wrist Enthusiast",
+   "region": "SG",
+   "date": "2026-11-13T14:00:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "03d694410d",
    "title": "Euclid's first data release: A stepping stone to its 3D map of the sky",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTb2cxYW9hYlBQemU2VnR2QnVVNUtKdUl5azFBU1dZdldNSTJfR0JoRzVJRUFocEZ3WF9fdTlOYVNoMldmR0JOZjVzaGFBendSM05POHRIOW85QjNVUm1Tc0dKSU8?oc=5",
@@ -403,40 +451,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e25ee806e6",
-   "title": "Singapore's healthcare cyber breaches expose growing risks beyond hospitals, warn experts",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFZZZlJLSWs3cnZCVjZmWjM1TktVUl94eHFFbGN0bHVaZ3ZFek9sTGhmQ2FYcHNjNEJwMzRFT2RnT3Q3OHJiZEF3Vl9rcFpmQmpaMzhxalUtOHV2ZG1TSW9KRzlTekhzTS15MEVHZVZtVDgtUklvQmd4M1k3TS1uVmMtZzdyREV5dEV4aXBHWjROTV9YV09aOUN2UXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-13T09:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "bcd99a8d24",
-   "title": "Daily roundup: Off-duty police officer disarms and rescues distressed woman on road — and other top stories today",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFRGQ2hwVWtTa2NvVzh4RV9GUy03VGxYanJEbHFkZHNKUW9BbXpCbkV3S1U2cDJkTXk3MGRpVWdMSlRIbDBDem1IYmJNeEhsd3hIMWkyeUtrZ2tBUmM2NVpKWXhxeU1IN2pZTkphMGtHdmhXZld4eFcwZFFkZEdJMnBDU2ZWN3JFSGtlVjVsanNVTEs1QldvaXhhZlBkR2ZTeDJteTV3a3BLRFRzLU40Rkl2VkFCSEYz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AsiaOne.com",
-   "region": "SG",
-   "date": "2026-11-13T09:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Politics"
   },
   {
    "id": "e677319663",
@@ -490,23 +504,6 @@
    "topic": "Society"
   },
   {
-   "id": "c38be37e9e",
-   "title": "Mickaël Gaspar Souscription: First Hands-On Impressions :",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnJqNXlEZHFiTjVwZEFpQkw3aFhId29iZXJVZXk2MUh5QXVpZHZaZjdnaGNYeDhSTDhIc1Z6RXIyTFUyOTBJbWU2cTY1cmJGWHptZERMSGVNbndUbE1UMG5CWnhFc1RSWGo1bnkyNVdTMUowRlJ2eTF2QTJSUVU3UTFrVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Deployant :",
-   "region": "SG",
-   "date": "2026-11-13T05:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5f474157e7",
    "title": "Malaysia PM Anwar yet to accept Loke’s resignation as transport minister",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk02QU9IUWEtVzNZVTBjMnJZSzFWRmxZZGVzQTc0RjZONXVjNVh3WXpRMDNrNFF5ZUZPeEZySnViSDNDb0gxS2JaT2liN3ZmSkNvOTlNZkhtSnlyVDdveWN4SENoWXhtMTZHVjhFcGhxY0RJMHlsdFo4ODVFb2M3M2lDZWZFQWdJN3l5YlkyaEd4UXJ3ZU4yWlhsbmYza0pqejJKTTRfUmwxMy1mZXFF?oc=5",
@@ -522,6 +519,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "f7d072e538",
+   "title": "Gold prices drop to 13-month low",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFhuc2RxbGhyOWNGY0FSNmlwUFB1bURucW9zb3h6MVE5MnRDYXIzRGV6YV90c0lqejBYemM4WExDNnNqS3NTS2JDbHlBRDJRbjBRMHFvajFOTW9hNXlhR21pYVpSak1MaTV6ckVsS1dyZS05NlljTGhNQkpRcXE1T0NjZWFHWFB5a0FrMW5OYkViM2d2aWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "VnExpress International",
+   "region": "SG",
+   "date": "2026-11-13T03:50:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
   },
   {
    "id": "8ca6ee8126",

@@ -1,8 +1,62 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
+  {
+   "id": "d4aed5e5a0",
+   "title": "‘You have to cope’: why don’t we hear of the ‘epidemic’ of women’s loneliness?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcllQOThBaEdUcllQV0JLdGhuTDBKZXg3cmxJQ0VqZDRrcFdPUE5NMWhfdk0tR2J6TzlvUDdyNDU3N0RIeVBIZmhOWFVVYlZBWXlRZnp4cmtNTVdlcXNMY1RxaUl4dnE5V2R2LUdOM24wZXlKUkliZ3RuWERDSzFrUDZjdjNiSV95TmwyVlB6ejZUSkJndkpmTUFnOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "AU",
+   "date": "2026-11-14T14:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "52958f591b",
+   "title": "US proposes Ukraine cede territory in exchange for joining NATO: Zelenskyy",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXhiUFotWnloVHVWVFpvMHhsQmZ6OVMtVnpFU0NFbldPblB2UU1jYmRoak1FMjJQcm5PTGlTOE1CUjZRdTBTSERKUXhlY0dhVVJHczJDTS1tNHhpTDFfY3NlUFBGSkJQM2E4VU1kd1hYZ05fWTdiamk4bVlrb1phTENLMlB1cWtjd1NnVmg2aFE4d2QxNVdDRWpoRDBiNDd0X0YycU1BX3FScUdWT2NHOWNmaVhrQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "AU",
+   "date": "2026-11-14T12:52:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "64298527ab",
+   "title": "David Warner’s war is only getting started and he won’t be silenced",
+   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNSEhvUVh1bTZ2TERzY0xqSi1kb2Fpdi01OE52NlNsYzVwUGlYMHYtcVhsajhpeV84ZXMycGNmbWd5YWdEaXVidjN3T0Rab2hja2dlNF9tOEVTYnRZRVVOQmlLT2kyVDhmaS1Ia2JHVklRU251RWJxNHV0VmxpTnpWMnhZTDh5TmF1Q1dSTjVrOEdyaEd3d1U1enpwSnNsQy1rNV92YnhrUHFSYnJVVVhwd1YwLWI4MXRKeHNfc0JOTnN0emEzSTlxaFFwYjlWN3d6U1gyLTVNWVd0eEdBdEUtVDBBdGo4RkpjYlhMb1BDN0dnLUdjdnJwOXpXYVA4Z0lnSzcxcmFnNGF6RWd6WDFNNUdQU09Belk2UmNncV9DOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Australian",
+   "region": "AU",
+   "date": "2026-11-14T12:22:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
   {
    "id": "d3e17fc6ba",
    "title": "Physicists Propose a 'Supercurrent' To Read Qubits Without Destroying Their Quantum State",
@@ -72,14 +126,48 @@
    "topic": "Society"
   },
   {
-   "id": "b6e186a99e",
-   "title": "Twist after Warner’s explosive Sandpapergate investigation claim",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUTIwVzRoODYwMlBSMmoxSm9xc1QxWDNmQU9WZUFPcTFDUm0tblp5dDVjSVpESmVnSmk1WldGZHN1Y1ZhazJfeWcyRUpsMHpPWHZ5eG5fMDQyT251YUpwTVhzVUdnb3BkakVCTm5GZ2xMOUNpT3NXV2RIZnVYQzA0M255N2YtdXVHR2JVOUpFLTI2UW90WGk4Q21MN1l6Vkt6WThUeGRYLWVWZThWOHZWV3k4QmRiUV9yZ0hRZlRWUmtSa1hhUGx4ZE1xTlpIeGVSUC1lYlA3TGZ1eEZ6RktFWl9MQVBtbkI0T0pGbw?oc=5",
+   "id": "10b7c29bfd",
+   "title": "Voyager 1 space probe is one light-day from Earth",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmd1ejhMdVdraXJ3eDU3YkFVd2JhNzQ2RjNWSDk4TlZBT3ZfaExBdHFxb0JYMlV0VzlsUkNDWnpMUmtLRG40RHBTelVfS1FQMzJjQmljNUVhNnd0bHI0eGZVRU8yaEk1UTVleC1sQ05sd1IwTzVMQ3RFUERiU3I5dDJGMjNYaEdLcnVjTjJvaU91cC04RzlvNENvSnA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Naked Scientists",
+   "region": "AU",
+   "date": "2026-11-14T09:14:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1543bfcb2b",
+   "title": "Man shot dead in Perth's south, triggering major police response",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXd6cjViejdNTmlhenFYZ2wxMV9UMkxfSUZ6WVk3SHJOcTI3dklWZDFEUUUyY2g0bzFPZDRReGN1LXFqZnp1QnA5Z1VhVXo3bVo1aWFUNjVFTmdhcU82aDRYdXZNVHp0RXdpVVBJUnYyYnhSdERvMS14aU1JN0JRbzdmZmtDOEhsQ3RMbU9Yc0g1dHlxQlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-14T09:11:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "ab849a06d7",
+   "title": "Latrell ruled out of World Cup final in Kangaroos blow",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcVczQ0hDYlR6WGoyU2ZBb1R5SmtDQld0UDlYUF9HNG9xNHBWS2VGRzNVNFY2YmJZS0cyODAzZjVQQ2hkV01LbEJybDVIMklOMExqOFMwNUdIMklhZ3h5VjdhaDN0N3B3NFJKdk0zdWVxZjNsYjJ5X0JZNVFHRS1YanhIMHJMcDh0TXdjT0JiWDVGRnFvcmNZZEgzY3pEX3ZtNXJnSHd1NGxxbFRVTjBBWG1oazFpYmhRZ2VHZU9qY05LbHdDTVpLZ1ZwMlhyTmVNY1Njb255MTRwbl9yZ0xxb3FKU1VCeW9EdUhqRA?oc=5",
    "summary": "",
    "image": "",
    "source": "Nine.com.au",
    "region": "AU",
-   "date": "2026-11-14T09:01:01+00:00",
+   "date": "2026-11-14T08:45:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -138,23 +226,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "ae41775c3a",
-   "title": "Huge Aussie blow for World Cup final after Walters' warning over Roos' biggest weapon",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEZaZXNPYWZ1djdHaXZsaWxNNkRzVDRjcEZrMkVjOTk1T3dGdVdaSm1aWnp0ZVNoa1BEYjV2aGxOb2FaaEg0RXUxaGZsNFhhS05pVnpDdnpFM0tiOVZnWlc5SnE1Qk5NTERObWhOUGFXSG8wZ2hkb1ZhQjI5N2xBYUV1aFhlN200UW9ZanB6c3JVWVduZGd2dWtfQUV3RGtzRlBYX2xsVW1PRlRFOFluVkVzVFVCNmFKQXBwWFBpZ2p0WHdpVEthWTNReEs2azVIY2c0bUFGR0FEdU1FNER6Y043QUE2UGhwUjFfcF9rS0dxTmh0TDNuUg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Fox Sports",
-   "region": "AU",
-   "date": "2026-11-14T07:46:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
   },
   {
    "id": "d117301e01",
@@ -242,23 +313,6 @@
    "topic": "Society"
   },
   {
-   "id": "2a2a3a7cc8",
-   "title": "What we know so far about why US flights were grounded",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzY1NzA2VEo2c04yRXhhN0VSUTdrQ1A2alRyM3JTNGRTZVltZUVsRUNxWVlseDdZeXAzMHI2TTdhZ0tNV0tydGpPUDF5MXgzQll5YTRIelkybVpjRk1Pekg0STJ0eW9PakJLSUs0SUVEY0xSMkw5UXZ3eVEyWU5ZSEJTUTd5Rm5iVnp2WnB1Z2JzbkRMR3J3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-14T05:57:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2cf249524f",
    "title": "Actress sets record straight on major rumour",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSFEybWlfZVRhRXVCOF9obG0ySHdLd2RnM0ViX3FPSG15ZHZHOXFuc3RScnFXRklfWVAyS21kYTVpRFo4VzRYZFNDSk5pVXlreEx0UFV3RnNsV04waE9GejQwU3UtV2FXWng4OUZHSG1sNl9wNVhGSFJxdl9fUmlMX2s4WkNpZjlSR3gtQW5sWVE2TkV3TGNIR1dYN0ZEbnJYRXRVU0JIRU44Q1FuWDN0UFBKRXNNSTNmMHB6VWRMNjhJN2VQSnRoTTltZUpSRTUxc3ZweE45X19Gd29KOC1tdVRfXzJKWnRwVDRTU2FB?oc=5",
@@ -274,6 +328,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "09d86f959c",
+   "title": "US flights grounded as it happened: Departures to resume as FAA lifts ground directive after citing ‘extraordinary circumstances’; Homeland Security secretary denies cyberattack, Microsoft outage link",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQLWlTcmZjc3F3VVhZSUJ2SUJENmdGUkl2MnBlV1dOMEtKWmJ0UVQ5SkhmUXRqQ09qcmdJTktXSmV4S3RzVTZwbHdtWWtlLUhWTG5iVHN5anBxa09fRUdXRE8wS3NXT0xCaFBtQklvVHcyeF9jTERIeE1kSGdXVUNiMlhsbkZJWXFwaURGZGpyNzRsRjY1MzBVREdueUM4OUhkcnZQZGdSVjVJTmxRMkhZMkpfUEJqbDFFVHBmY25QSF9mb24yNjZzN0V0NjNBdWJPYkhaWGJiX3Etc05EMzhIYXFPRjZqeTBSbGlWSkI3OVkwWmNzQlVXV2otNnUydWdKVk1TVGp3MUIzSnRLY1ZKQXNNRDdiV3l1OVE2N09udDdRNEFZS3NLSDNySDdlQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Age",
+   "region": "AU",
+   "date": "2026-11-14T05:31:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "d19cad522d",
@@ -308,40 +379,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
-  },
-  {
-   "id": "cbf8acd0db",
-   "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnJ2SUdNbERMS0habW1xekRqamtYMzdka1p1UEpjV2J2Y2lFZFFKNGRLNVVVdmpUQ1NPSFBEdjhKVmxUeFE5LXFXV2d0RXlkY0Q0S1NwZnpVNnFNZTNHeUxPSXJFU01SRGh4aExpMTA3NkRMUlFjYmdZWUlUN3RNMzQwX1JBR1gxQXN4RGxPcFB3Nmlrem1nWElERFlRTTJWNGc2TFBwOFpWRmRkTEZxaDRxUTIyd19tc05QVlVKTm8tTy04?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News-Medical",
-   "region": "AU",
-   "date": "2026-11-14T02:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1543bfcb2b",
-   "title": "Man shot dead in Perth's south, triggering major police response",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXd6cjViejdNTmlhenFYZ2wxMV9UMkxfSUZ6WVk3SHJOcTI3dklWZDFEUUUyY2g0bzFPZDRReGN1LXFqZnp1QnA5Z1VhVXo3bVo1aWFUNjVFTmdhcU82aDRYdXZNVHp0RXdpVVBJUnYyYnhSdERvMS14aU1JN0JRbzdmZmtDOEhsQ3RMbU9Yc0g1dHlxQlE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-14T01:41:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Politics"
   },
   {
    "id": "9f90609acc",
@@ -419,7 +456,7 @@
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-13T21:29:56+00:00",
+   "date": "2026-11-13T21:23:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -427,23 +464,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
-  },
-  {
-   "id": "801b18d59e",
-   "title": "Police investigating children’s author and Little Britain star David Walliams for sex offences",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ3FxdHNWY1lTeS1SVTJhbk5SME5TbHY2ZDVzMkxYRFc1cW02NFlHV0pDOHU3d0NjN0JJNEZfUlpMeGthU3JzcVh6enYzSkl4SFdybjdBYmlaV2FqSmYyVlpJRGRvT0RVcnEzMzNLY2s4dTg0SWVUbU1ISVVnZF9TbVNlYVpfenJlanFGem5TM2oxeERVamdiQVU0M0RXS2JQZEpnR19NVnFfT2V1ZzNOLXZNbG03THpFY0R6cGV4b1RzY1k0WUJmNDlyUW5EbzhzOFNHUzdZd19WUkFzVFpiaFlzSlB5WmU0dE5pY3BJTno?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Age",
-   "region": "AU",
-   "date": "2026-11-13T20:12:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
   },
   {
    "id": "4a93ef1d5c",
@@ -601,23 +621,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "ee647ba03a",
-   "title": "A 12-year study links longer TV viewing to faster kidney function decline",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOXzhhZElwNHdsN01jcWozM1UtLS14dVlVTzRYU0wzZTdwWnVDcG9oSm5ydGd6NzZlSGE1WFdxcEFGMThodlFaZ29oSkUzMFJqeXRoNEFHUDV5anZkTXVCaDlpa29qSkRzd013ZTdRRjV0bnBHakFRT2Z3NmlFMDNETXBDdEl6V05TaGEwWlJLWUhpeVdnZ3ZHU25BZWtwcjZYeXdNQk9XWkhYR0I0RE1EcTBUUERWa0FHQk5Kc3VB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News-Medical",
-   "region": "AU",
-   "date": "2026-11-13T00:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
   },
   {
    "id": "82d08a6c21",

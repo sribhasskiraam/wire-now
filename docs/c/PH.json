@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
@@ -21,6 +21,74 @@
    "topic": "Society"
   },
   {
+   "id": "aeeaee8950",
+   "title": "First Eurovision Asia about to begin as world's biggest song contest heads to Bangkok",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50aGdOcU0yeVlSSnBqREVvSW83VDBwS0tmV2xBNWZxNVVTV0NqUEFBQWtPTDZ3MXJqZllNRUU0ajJINU9VcFVrT3BSWjg0WUdZcmNCQXVR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "PH",
+   "date": "2026-11-14T12:56:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Thailand",
+    "place": "",
+    "flag": "🇹🇭"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "4aba8851a3",
+   "title": "ASEAN fast-tracks regional haze control center amid transboundary pollution",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkhFR0g0VUh4VW1OZVNfWGNIdnJvQlIySjFOOTVJRmNtTWU2QnJRc1BQbUJIcGNlekZDMjN1VDJRaTRkamxvTFZpTmtDWlJ3T1ZaNF9PZVV0TmR3d2tFVXBlNC0yX0RSV3Z3SjhIaWJVV0R6WFJXb1NMaDA2dGxtSFNEMlJaTklzRnpOUzllQzEzdWRuZW5xdTFPRXVXVlVReDNINEtBdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manila Bulletin",
+   "region": "PH",
+   "date": "2026-11-14T12:53:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1767717d7e",
+   "title": "PBBM, Brazil’s Lula seek stronger political, economic, people-to-people ties",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVByQ2Jwb2VyLS1SY1QzdGUyb190OUFPX0l0Y0pyUEdXQ1Exb3RWTkZwOHJjck00UzVjaTBidjVRUGs5dXFHYXU0ekNmbEtGRjc2VWlsd1A2eWpMMEZBa1BoS2pkVG1tbC1vdzVxcFlsUEYxQU1vYkZzelhWbThETXRQc0RnbDR1Vlc4cDI2S3pZZ2hLRGFOSjhTaW9rZEJmN2VYbGdB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine News Agency",
+   "region": "PH",
+   "date": "2026-11-14T12:43:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "401b9a9f73",
+   "title": "Ben&Ben collaborates with Take That on new song",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdU9HWGs1ZkJXZjdXdUN0RE55V0c5UXoxY2xuSnpITkZncERPMUZobldjNmIyNVhvTmZreUtpT0ZfQlc4MFRxVEJrcmNkRGR6NHl3M1VxU0dpYlNHWGtPZkxDX2hfZ3VrY3ZxNzNsS2lMTm55cFB2WHI5c1VocGF4TUhacmRvTjA4UkhuRkhobVJVbGtqS3JaR2VEYjZMZUdhSzYyZzViR1lKZmJuZS1RWUZKSUVpQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABS-CBN",
+   "region": "PH",
+   "date": "2026-11-14T12:33:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Entertainment"
+  },
+  {
    "id": "a398564477",
    "title": "Timor-Leste to chair ASEAN in 2029",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91VzhiM00wTFF3cGd0andrbGdjWjJfRXdNVDR6Yy1VZFlVVnQ2a3pmNWgwZXZQRkRnMV9OVkQtUTNldi1TcUZ3X1FaSzBtek55SkdZN3ZWQlA5aDFpeXBjWWFKUFFVUnBHSk5abDJHLUhOMGM?oc=5",
@@ -38,14 +106,14 @@
    "topic": "Society"
   },
   {
-   "id": "9c1d4ac1b3",
-   "title": "Mesh masks, Nana’s lampshade and the other Beck: what to watch for at Eurovision Asia",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkt1bzJnazJHWXJOT3d0a1A5V0pjeUJXclFSWnZVQnhDVWg4VXFxTTg1ckt0Ni1GRkFuRThzc2ZDUzRuUVNXR0FIM2dwTHVCTkV0eDdzeFo4Uzd1TExYOW9WVUo5U3RyRXVnR2hwZzkxUUFzb3hwNE9XX2NFWGozQXhENkFMOHg1cWdEQ093?oc=5",
+   "id": "4c4abf43d5",
+   "title": "OIL PRICE WATCH: Fuel prices set for another major rollback; diesel may drop by up to P5/L",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJoM3JVVjFvVFlkS3NkM3RmR1JsYm9SYm9OSDNfUnlxZ29ORU5HaEdpeXFmUDhKODB2QjYxQmdaSUF0TW9HMlY5ODI0bE9kdkp2SVFmcVFibEp1ZG9BaF9reURxMEdRdjVQMHh3d3VuUlh6czdyc3Q1WlRneEZYOHMxZmJnYWx5NHI3dVowQ2k1ZHlySl9rVUVtUmtuSmMzXy1ZTjhucHBqR3Y1M0kwZjh3?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "ABS-CBN",
    "region": "PH",
-   "date": "2026-11-14T12:04:00+00:00",
+   "date": "2026-11-14T12:11:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -106,6 +174,40 @@
    "topic": "Society"
   },
   {
+   "id": "7851f0639f",
+   "title": "Collision, stalled truck disrupt traffic on QC roads",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOamNvWmlBX2FZV3V2RnBPYTV3VFFLOXVFcGd0dWxwSVE4MkhtcFBkVjUtRGE3NU1ZZjZjUE1nOGhLWERCLVZELUowVVZrb3dFVnRjR1N3NDJCRlF5Q19lbmJFQjA1RFhHS0g1dDdNUjhZYUUza19MQlIzbU5ydTdudVg3OVJWdG8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Manila Bulletin",
+   "region": "PH",
+   "date": "2026-11-14T11:42:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "39e2d524ab",
+   "title": "MSMEs may supply to big-time exporters under PH-Canada FTA",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVm9FVFhaa015X3ZkT1FyUVdUX2YzOFJSTGdVaG5aTUU5aXJzMUF4WENrU2piNVRmdXoxQUFxVlAwanRyaHBObk9zbHV6UDBodDF1Y0JFT2ZSN3k3MnoyeHo2anc4SDFVUTFIRVN4djVrVVNiQUJ6elVWODE0OW1DY0NDWnlEVGJ1X1hsWk1Ydm1SSTA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine News Agency",
+   "region": "PH",
+   "date": "2026-11-14T11:22:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "18286a841a",
    "title": "Looking for Permanent Lights Instead of Tired Bulb Strings? I Tested Govee’s Installation",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2NWa0hRNjZhVUhmaFZyWlB0T0Q4NHVGeTVSdU9RS1Rtall4c0xlX2hlV3h4X3pkMTNDMW1XRlRaQnYtOEx1UUlCZkZTc3Vub21IUklhZ2VwVWthMVNzREZyc3BsUUJEMFZQVDV6NDNEOUJSZXQxcllwcEdBNnotQ19MZE4tbS02eWRIbmtZYWJCNkQwYmtBX1Z2VnpNOTJIVThTZ3VuUnVJSEQ4UDJFLUlXVlF1SkxuSGpuWjJHLUVSYU0?oc=5",
@@ -157,6 +259,23 @@
    "topic": "Tech"
   },
   {
+   "id": "9f5c37baef",
+   "title": "Marcos creates National Artificial Intelligence Council",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdlpLYXNpVUVNTDFteVVrVUtfc3BobW9aS0FveFhEaU4zeDhEX3NucVZGU2hMc0t0VzZEZXFKaHFpTXFqNEE3NWVldF9pcVZOdjRpMXJFSjU0WHlSdWFGc1RwMmdRdU9kVndBbnFFMGswN3dlZ2VEa2VhdkdBWXJOSmloYTgyemRVMEZwcjN5bW9sOVRJTkhJSDlYcUNLN2hLcnRkNy12SVY4bGxKeEVfR0hqdEJKQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Rappler",
+   "region": "PH",
+   "date": "2026-11-14T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "76357da0b5",
    "title": "Vietnamese PM arrives for Asean Summit",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUFWNFItMVBMMHFvcHNLV2ZlUmJWRlhEOTRKVkFJUTlaekJ4TTFoZUhOTV9kUDA3UDhXc3ZMQjJBSWZ2VTRVc0lhVzRXNnFzc3VoR1o4Y3I2TkhzdUdFdzB5SzZ6a1NNV3BkVUlrWnJJY1dyTU9TYjY4em1pRkVjY2lrLWFnRDYxbWE5Z00zT3B5eV9f0gGaAUFVX3lxTFBsQUk2OWU0MXJGQmpJZEF4Y1VTR3VUVS16RlhlLTdJUFFqaU1qdmZWMjllZXl6bzg5RlF0OVZkeXB5TmhRTWtFX0lFU1hCZGVEWmZrMktqejBsZVcxQzZVTGFiakFvUDhaRy1EZHBNMU41ZFFjYXdmaEpIbkx1WVN6Y1dPMmxOOXZmZV9zalFGOVpQMWhGTG93THc?oc=5",
@@ -170,23 +289,6 @@
     "country": "Vietnam",
     "place": "",
     "flag": "🇻🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bd3888948c",
-   "title": "Trump’s visit to PH still on track amid US flight disruptions — PH envoy",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkRyWUxvamJnQk8zTWhRQXRwM1VCcUlxS29hWld1Rlc2bDhpVWZORFNESjNqRnZ2WDdpelpNdTczdjE5eDdSX1lRREtsWksyV3BpXzFoZGhIU2JvVTBOVlJuSHZoM0xGSHhhYXBiN2RGLWdRLU1CSkU5ZFBROWVRZkJoQkRYaDFBNlBUOWRqZkZlUWZ5b2o4RlZaYkRMZW1xQVVaVExhQWl1VGZwd1JFaUhSLXhyQ2dLSVlYc29Law?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-14T08:45:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -225,26 +327,6 @@
    "topic": "Society"
   },
   {
-   "id": "cfb80b480d",
-   "title": "Philippines, Canada wrap up talks for free trade deal",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3pFdnl2YW50S1dmWWItaGg3R29YbGV0amRWbXd1VnVxdlcxQXdUeVFEcXZhWlhRY3U0UFl6SDJ1TmMwNHEyZkt2QlJZa0l4WnhHdVhnaHJwMEdaSGlENE9xYVVNaDVoR0RyS1E0b2I3WnZSNGRweXdYOGZxNVEwbVZ1N242R0tWN2tNYzMzdDBKMTIy?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Rappler",
-   "region": "PH",
-   "date": "2026-11-14T07:35:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭 🇨🇦",
-    "also": [
-     "Canada"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "05b887bc96",
    "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkZoaUVyNE9YWk5BckgwYTc5WWhiemY5TFdvXzljS2ZQcVdnN3ZUZ21KVVVEOWhfcWNTTlZ4MjJUdWhqSXI2ckN4ZXRhaDhZZUxDWjZobF9oTFE4bXM4dFFJX0NfS1lPYnNyeG5MYWdmN25kRzNTMmtJVFl6R0ZTdTVoYmV5ZmVSZll4TDdXRDliRjlLZUQ2bzEwTGtYelVlbUNQaGt6dlR4ZWhNcDhOcWhOV180cXlSYzE00gHAAUFVX3lxTFBYRkRsRXV4NXJtWjR4dkFJbi11eEZBOUlMUDJsc2lVZWk0akRRaWlxN1pwRnpLQnM5TmJGdkxvY3paVnRJM0xuSTNZMlFFd3g2ZGpwNHZWekEtZDlUbXlPMExSY2sxb3lfTVU2S1dXMkJ1NzA1WEdqYzVibEkwNEMtc1FyUHQ3M0E1ZWZnTm1WSXFGVVF1UEdlZm1GSlY5R212VU1pMDlhNkFVQXJDdVY3dzBoNHZiNmxkRUM3QjJjUQ?oc=5",
@@ -258,57 +340,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "93fa81df10",
-   "title": "PBBM: ASEAN must harness AI to drive regional growth, prosperity",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDFfcDBDMEFyQWVHcTZvYVB0Y2JlVnl0Vl9aMjBjRFdEbzNtUXBtVXcxeThqTUZSeUc2YWNJYXR3TmxpYzZjUmYxaWpaWEdLcXFaOVpzaWZTSzZlbXVzMjMzWDZpVlpMQnZPSVc2azBiVHZKLWlkcGVDbnpNVEwwY1dsTWRDQzlRV2k0YndlV3BrREl1Vlp2Vw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Philippine News Agency",
-   "region": "PH",
-   "date": "2026-11-14T06:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "be6271a0c0",
-   "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWklFRmpJamZ4MHlORGd6WWhIbFlGdzhlVE1Ld3JIeHZ6M0lVMWxGTmpSdXRXWTdJdnJpMnZFVTM1Um5fR2VxeWtwSlB3eHYzRl9LQjR1YTdrNVJoMWFnWXcyR2s2RTB4YkxTVmVUM1k4Zml3Y2F1aUQ1cDcydUZ0emFHLTNiZUtBb3drTXhBdzl4d3pJ0gGaAUFVX3lxTE9ZNnBOc0lmWjlfcURIR2VtdVVsMV9fcUd2Ykd3emJFZnpud0piMmF2MGc4TFh4ZE9LaUhrd2hCUHFxaTFIbjVqZGdsdWdYanhDTVFVTWpzZGZpUmZBcFNjaFM0VHRmeE9Pb1NnMk45bFM2Q2ZKMTB0S0w0Q25nNEtpa1h6OWJsWmxOOEtIMVhRS2FuemdrNEpMbVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "PH",
-   "date": "2026-11-14T06:41:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4c4abf43d5",
-   "title": "OIL PRICE WATCH: Fuel prices set for another major rollback; diesel may drop by up to P5/L",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXJoM3JVVjFvVFlkS3NkM3RmR1JsYm9SYm9OSDNfUnlxZ29ORU5HaEdpeXFmUDhKODB2QjYxQmdaSUF0TW9HMlY5ODI0bE9kdkp2SVFmcVFibEp1ZG9BaF9reURxMEdRdjVQMHh3d3VuUlh6czdyc3Q1WlRneEZYOHMxZmJnYWx5NHI3dVowQ2k1ZHlySl9rVUVtUmtuSmMzXy1ZTjhucHBqR3Y1M0kwZjh3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-14T06:26:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
    },
    "topic": "Society"
   },
@@ -415,36 +446,19 @@
    "topic": "Society"
   },
   {
-   "id": "392952627e",
-   "title": "Amihan no longer affecting PH; easterlies prevail",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRmhoQk9ueWF1bm1LWUxMblhrc1FXYWhVeWpqbUdWZW1aa0M1RmRTNnJyYUhjWnVVZ1k2RDZ4a3ZyanZWZVgxXzlJZ2hTRlJ6cXJzMlVrcGxNeVAtSUVid3NrLTI5OWd4bVo0bk5QSTB1YWJWQ2ota28wSERUZ2ctV0dzSGxlNGw3Z1I5YzRJY9IBlAFBVV95cUxNcHRXLXh6WEViSmpqeDRSdkRMalFUVEtsR3NwVUtTZllrSHM3NWg0VVJ1bVVhWmhHTnVoNmZScVhYblB1dmp3OUd5QkhBYlNSekE2d1pFcGp3VHlQM0FTcVNEQ1FVNTNxc3dZNEFLVkFZaUtqMVdTX2RCblVGU1AxSk85UFJBcE12ejY5QnMwMkhDai1D?oc=5",
+   "id": "e8b6e942fd",
+   "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVUV4MUNOVVV6ay1Xb18tS2pBeC1VeEQxNFFSYmd1Ql9QVS1BRkFwdE42dGJzWmkweFdLQTdQTzM1MFRNRTRaWWF3bUl6RUk2clFTbDZudmVXTDRHWF9VNmhBWTA1UUQ0NzJsRlpvcmVPXzBZdTJEdElEUk5ibDZNb3l4UHg2eDA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Inquirer.net",
+   "source": "The Guardian",
    "region": "PH",
-   "date": "2026-11-13T23:25:00+00:00",
+   "date": "2026-11-13T21:44:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Philippines",
+    "country": "United States",
     "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e71c8bc87d",
-   "title": "Brazil’s Lula eyes deeper Asean ties thru PH visit",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUNSS1RQQXFvSTkwd1dmSmEwczY5T2Y2M0FIOEFuUzlRVHBJZG9pTW9CaUNmRm12Y1FSLXJ2ai1wNkU4Z3E3eWsyLWxvR0FmcC1fa29sM0RpWGZ6WTZ6V21YQjAwYmNxRzVuWkxqdk9xenpPdFlLZm03ZG1kVURkUjlCRDE0SUNzcDJ6bHo1VWbSAZYBQVVfeXFMTWpJTzBkVE9vVHptQmVKSnNzUFdUX0g1ZnNwVnZuOW9aa2ktbTVzMDdmRnc1SWFVSzk3RzVraElzcklHY0M1QU50aWg1VldDcHZkNWRZc2JOb1RLZ1Q3ZENIak9GRktjSnk4VVNvb3BGR2FuWDNpMl9xYzZOSG1fblhMTmNTYkM0MnBNNHJnQkU4ZEVmRGx3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Inquirer.net",
-   "region": "PH",
-   "date": "2026-11-13T21:39:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -534,58 +548,21 @@
    "topic": "Society"
   },
   {
-   "id": "87878db563",
-   "title": "ASEAN leaders to review Myanmar peace plan implementation at Manila summit",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWhoektkZUhDbHFPYWxrZHZhcEhfanNmeDJYR0U2dmZCYnhqRDJ6blBxWENHZF9nbTRYakVHLVFMRVpQZnJfa29zcEVlY1FrV2NVUXkxUUpEUUdhVDBMdmRhNmI0Z0tfV1Q2eWc3VmhOSGJ3QU9aTU0tU3ZRU1NQLTlVTVJNQlFJdjNvM3BpQ0ZqVlN2UnRBdm44ZDVFRDJNZ3pjcWtn?oc=5",
+   "id": "d38aba81f2",
+   "title": "DFA: ASEAN leaders set to review peace plan, decide on Myanmar situation on summit day",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVk5EdV9SVkJTaVl0MTR6U1NhUnM0SGJCWFVMdTVpcUh0bUJtYU5GQ1puWDNPRmpzeXVZbTlseFdfai1tdmp4YXI4bXZMLW1JME1KWk5pR3pScm1fRFdHZm9adENHZ0RhaU9RLTZKZXhTWUR4QVhhRUpsaGlZUXpWd2NnNWhhVlhyMldxNE1KdnlQd1AwNUQ5c1g0c2V5SVZEUmNQdTdPX0otTTM2WU1KSmRUUWhxZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Manila Bulletin",
+   "source": "Philippine News Agency",
    "region": "PH",
-   "date": "2026-11-13T07:20:49+00:00",
+   "date": "2026-11-13T03:51:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Myanmar",
     "place": "",
-    "flag": "🇲🇲 🇵🇭",
-    "also": [
-     "Philippines"
-    ]
+    "flag": "🇲🇲"
    },
    "topic": "Society"
-  },
-  {
-   "id": "90f6d0cdd0",
-   "title": "Marcos calls for patience amid Asean Summit inconveniences",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY28xWmNRZFZFUFVPSGJjd0xzUGdLS2htWWx5R1l0cU1ia2Z2Qy1jVlE4RVVnd2Q0NGMwRkdmNV9SeWwtOURjajdmcWZkWnQ3aUtDUzlvV2VrVnFQTUQ5Rm0wVnJDQUNKWEtuU0J1alBodXZVZFBRMkRNVDJOdDNUbDl3YzZGNWROWEladkRlcDJNLWxfWVVJ0gGkAUFVX3lxTE9NTmJ6c0NLdzRlQlJXQktMM09USDVNZ2dTY1BFN2l4Umh6SmZqQkFPRlNHTGNtX3JtbllyY1BGSDQxOU9Zcm1PVTNERzlFcU1NZmNXTXdvNFF6X1o3UFBrWnlJTE1IM1hLNkVxdHNXb3k0UWtRczQwNHBwMFd5TzAwaWFkdTBmTDVnUnJzY3ltMldxamhVZHpjQWxxX3dMLUM1UURR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SunStar Publishing Inc.",
-   "region": "PH",
-   "date": "2026-11-13T07:19:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4cec750a2d",
-   "title": "85.9 Million Records Exposed in Philippines Cyberattacks",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwa0YybzRrZlhKTmkybWxWdkRvQTg2RjdZRHpCMTVSZC0xbDF5amVBd092R0ZMdFNXeVN3U2M4SWpjY3pJSjNYWkFSejNrMDVxbmRteTRZck5aV1RZWFY5bXkxR3lSV3JVdVdBa0hyM3U4RHJPVERB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The 420.in",
-   "region": "PH",
-   "date": "2026-11-13T07:08:49+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Tech"
   },
   {
    "id": "e682b8bea0",

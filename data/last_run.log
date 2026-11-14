@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 58/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 60/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 46 stories
+OK   Ada Derana: 47 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
-OK   EconomyNext: 11 stories
+OK   EconomyNext: 13 stories
 OK   Daily Mirror: 66 stories
-OK   Hiru News: 93 stories
-OK   Newsfirst: 15 stories
-OK   Daily News: 48 stories
+OK   Hiru News: 95 stories
+OK   Newsfirst: 14 stories
+OK   Daily News: 46 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 0 stories
@@ -23,44 +23,30 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 96 stories
 
-Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (8 outlets) | 'Miracle on Mississippi' - All passengers res (6 outlets) | Hungarian authorities uncover $20m during pro (4 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets) | Exercise book prices to drop 18% next month f (4 outlets)
+Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (8 outlets) | 'Miracle on Mississippi' - All passengers res (6 outlets) | Second catch attempt for SpaceX Starship rock (4 outlets) | Live Updates: 3 oil tankers hit mines in Stra (4 outlets) | US has floated Ukraine ceding Donbas for Nato (4 outlets)
 
-6 new stories to post
+5 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Newswire [1 outlets]: 15-year-old girl missing for 5 months found with 2-month-old baby in f
-    important (serious news) - researching
-    news search: 0 results, 0 about this story
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    attempt 1 failed: no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    -> no cards; posting with the site's own summary
-* Hiru News [2 outlets]: Binance targets full reopening of withdrawals by next week
-    no AI summary: saving the rest of today for important news
-* Hiru News [3 outlets]: Sabalenka's season ended by Svitolina at WTA Finals
-    no AI summary: saving the rest of today for important news
-* Hiru News [2 outlets]: UN climate chief urges speed as COP31 confronts fossil fuel divide
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: Trump tells advisers he may hold off on Iran attacks barring new provo
-    no AI summary: saving the rest of today for important news
-* Reuters [2 outlets]: A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of h
-    no AI summary: saving the rest of today for important news
+* Space [2 outlets]: SpaceX Starship Flight 15 live updates: Starship heat shield looks goo
+    important (also on BBC World) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    -> no cards; posting with the site's own summary
+* Hiru News [1 outlets]: Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need
+    no AI summary: saving the rest of today for important news
+* The Washington Post [1 outlets]: Surging measles cases are forcing doctors to treat conditions they’ve 
+    no AI summary: saving the rest of today for important news
+* Al Jazeera [3 outlets]: South Sudan postpones first-ever national elections until February
+    important (also on Hiru News, Reuters) - researching
+    news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     reader service failed (HTTP Error 403: Forbidden)
     gemini failed (AI error 400: {
@@ -69,24 +55,61 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     "message": "Request contains a)
     gemini failed (The read operation timed out)
     attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-
-Top 10: 0 fully explained
-  reader summaries from the website: 0
-  photos: looked up 24, found 0
-  photos: 10 too small to look sharp, using the clean cover
-What people are saying: looked up 0, 0 stories with Reddit discussions
+    -> no cards; posting with the site's own summary
+* Reuters [2 outlets]: Indonesian president orders greater share of mining benefits for the s
+    important (also on Hiru News) - researching
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini failed (The read operation timed out)
+    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
     gemini unavailable this run (AI error 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your )
-  headline translation failed (no AI available for writers (last error: AI error 429: {
+    attempt 1 failed: no AI available for writers (last error: AI error 429: {
   "error": {
-    "code")
+    "code": 429,
+    "message": "You exceeded your )
+    news search: 0 results, 0 about this story
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    reader service failed (HTTP Error 403: Forbidden)
+    attempt 1 failed: no AI available for writers
+
+Top 10: 0 fully explained
+  reader summaries from the website: 0
+  photos: looked up 24, found 0
+  photos: 11 too small to look sharp, using the clean cover
+What people are saying: looked up 0, 0 stories with Reddit discussions
+  headline translation failed (no AI available for writers)
   summary translation failed (no AI available for writers)
   meaning check failed (no AI available for checkers)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 11 story pages for Google)
 
-Countries: IN 38, PK 36, BD 35, US 35, GB 36, IE 35, CA 38, AU 37, NZ 33, SG 31, MY 32, PH 36, AE 35, IL 34, NG 32, KE 34, ZA 31, GH 29, FR 34, DE 33, JP 8, IT 31, ES 34, BR 33
+Countries: IN 38, PK 35, BD 36, US 36, GB 34, IE 34, CA 38, AU 37, NZ 33, SG 32, MY 32, PH 35, AE 36, IL 34, NG 31, KE 32, ZA 33, GH 29, FR 33, DE 34, JP 9, IT 32, ES 34, BR 33
 
 World Pulse not made this run: no AI available for writers

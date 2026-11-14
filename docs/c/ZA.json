@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
@@ -11,7 +11,7 @@
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T11:35:50+00:00",
+   "date": "2026-11-14T11:49:48+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -38,6 +38,23 @@
    "topic": "Society"
   },
   {
+   "id": "1d7ce577dd",
+   "title": "Six people killed in head-on collision on Eastern Cape N2",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUxFTEpoUkExTTY5VjNSczdKZ3lmTmdTUlIyVjZIS0pPZldSdFhiRi0tNzZLaWp1Y1JTdWp6TnhfNGNzMXFKS0Z4UnBpNVp1XzZWSHptY0wxUFJLX3VYRjFYckU0Sm5yNU5WX2djNXRCVDhyanV6ZV9Sd3o1VW13Zl9LRF8tb2h0QlhUTDJVZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "eNCA",
+   "region": "ZA",
+   "date": "2026-11-14T10:02:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c1bbb50769",
    "title": "Hamza, Paterson return to Proteas XI for first Bangladesh Test",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdi0tcThVblJWVWREWlliajMyRFByUWpxTkttdHRFUkNhUG5PU0tLcVhramgtQTRVbDczN21ONDhxTWhwQkE0NFRCcXZEWEZacXVJYlhpYWtLOGd0ZG0wTWlCRkg2SVhOLTRYZVRlV3g5cVd0R3pKYnR6eG9namZyWHAwSFRGcnRwZUlSMHJKUEdCb0JERC1ESG00RWcyU3Z2OGp3MnNiY3pYc0Fqd2lZSmt2LWZBVFNpZmxn?oc=5",
@@ -45,7 +62,7 @@
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T09:34:42+00:00",
+   "date": "2026-11-14T10:02:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -62,7 +79,7 @@
    "image": "",
    "source": "BusinessTech",
    "region": "ZA",
-   "date": "2026-11-14T08:01:24+00:00",
+   "date": "2026-11-14T08:05:03+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -96,7 +113,7 @@
    "image": "",
    "source": "IOL",
    "region": "ZA",
-   "date": "2026-11-14T06:36:05+00:00",
+   "date": "2026-11-14T06:52:11+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -123,19 +140,39 @@
    "topic": "Society"
   },
   {
-   "id": "bbd2fbfe88",
-   "title": "Alarm bells ring over car recalls, and the ANC announces coalition picks in South Africa",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHkyNXU3aUt1UC1Zd2RYckVtWFFocFdPRHc5U19WZjZxT3R4TkZtbkNoSlhwT2lhbjNFai1BWDhoSmp2QUVjZFhoZU9yeS1FaDJ5aFUxVFBIc28zdGpKN0FoRm5IcmxMbG1INUlNa29Bc1N1Q3I1V0pBN1ZDX0pHMDVQMWRTUGFnNzNvaXYxS1FZWG5CVDh4NXRUeDh2R0VlZ2diNUtrWGdOWlNxaUIza2JnUjBMMDhfb2RENXNGc0czR19XZE12d19Ybmg5RWNadGc?oc=5",
+   "id": "2fdb4985ca",
+   "title": "\"Robbed\" – Andrea Piardi referee graded after Springboks fans rage at France defeat",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUl4aXJiVnpHQmlma05WOE1lcUNlMDBNZ3FqUGJ4cFc5ZW9wSWR0NHJGQmlvbzJKMEhsTkc1VU0wcnZCRWlDWmZYUnUzUXFfeEE0b0t5alhHbmREanpDMGRWSkFKdDg0SVJjTmNSS2V3NjhPTFl5NkNHeUxjSEkzOFYxYVQ2bE0?oc=5",
    "summary": "",
    "image": "",
-   "source": "BusinessTech",
+   "source": "Ruck.co.uk",
    "region": "ZA",
-   "date": "2026-11-14T06:10:48+00:00",
+   "date": "2026-11-14T06:04:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "South Africa",
+    "country": "France",
     "place": "",
-    "flag": "🇿🇦"
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "11358d58c5",
+   "title": "The Dutch demand drawing South African artisans overseas",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnBPLXNPbmdGcGlHdjhBdVdQbVhONktfaHg5TzdMWnptR0xHZVFNXy1Ua2cxZVRzZzdPQlBvZjJ5dVFYbVJienhYNUpHLTFNSURTM3A0WWtWVWJoR1U0RHNJYVo5MmNvX3Zvb2UyOTJ1T1J5MUZuTWtuQmgxYWNmVXJkSTBnNlRtbHAxcTA0RlR5akFNbjRaMmJGZGI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-14T05:53:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Netherlands",
+    "place": "",
+    "flag": "🇳🇱 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
    },
    "topic": "Society"
   },
@@ -182,23 +219,6 @@
    "source": "Financial Times",
    "region": "ZA",
    "date": "2026-11-14T05:00:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "66b5e93f88",
-   "title": "Swimming SA admits it was wrong to withhold Tatjana Smith’s prize money",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXBlb3UyUGpzN3lRSy1HXzJOVmdadnlZZEE0MXMzUnRBaU9ILVpUdzJZZjJ3UG1Oa05BSXFiNnRlcC1LajYtYTZyZ1RoZmY4WUppQldGZWJVbURWTThrX3lBTmxpaHVGTzJQOWY3S1QyQU82cnRkTWRXN0EzUTZzUEJhNjR2N2RvbTJyWkk5NERMeVFHTjduZF9JSHZaeGNUM29Oa3pONmdyNUl3M2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-14T04:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -279,14 +299,31 @@
    "topic": "Society"
   },
   {
-   "id": "2343f23f89",
-   "title": "South Africa 2-2 Kenya as it happened - Mofokeng stunner not enough for Bafana",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmtYUGdqTGRDeUZvNDBPYjJwaGRmT2c4UkhCSGZBNkhuSmdHQmFpUURSSl9NVncwODFvdEVNZFlUOVhzNkZSOU9iV3lUNFI4NVEtSk12UXNvNmRtbnRzM3ZjMXU3OF9YLTB0Y19IODhSYlVEZjFfdUg1VnlUREJ5dHRLSVhTSnRFcFQzbnFfY3JQRWo2TDVBbFo4dw?oc=5",
+   "id": "ba4d7988db",
+   "title": "Rabada sidesteps ‘Sandpapergate’ flames, assumes senior role as Proteas kingpin",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVkkteUZUOWlrcmo3MXozbGdoTl9kZ2Zyc2dUUmhzeVRrR3Vob3JoVUNaN3lYUzRZVTdiS0JTZ1VhSDVRV25RNm1KMXRzazE0bU1vZThka0tfSEZrTDdxcVV6clJBUEZTRzhUZEdaa0FMcU1vUTBFemFxY0o2S21VN0VYTG52SFhqcS0tZktsMmxxM2h0YS14d2Y0NVdZYlI3cTJhUk5aWkoyNjFFMnpkMjQxc1ptLWlWeDFzenNvM0o1eGNKak5xMjc5UXMtYVBf?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News24",
+   "region": "ZA",
+   "date": "2026-11-13T18:05:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0d5fa77171",
+   "title": "South Africa vs. Kenya - AFCON qualifier LIVE updates, as it happens",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWZGbm1RN3czNGc0eDFhY1pRUnVsMGNpdUk4cXVaaHd5bWUxRVRPb1ZwUnJMampmYW5mb3NVanNDRFRwdlZRVmRPRWh6dW5kbUJHTVN2Y0JpdHRmTXhDcmFuX0xDMUFkN3RxdWJBRUpLakloUTdkRjRmMksyeHhtOTM2bUgtMl9JeVNRWkQ5X01OMW9yaXpqR2pCd1dJeC1B?oc=5",
    "summary": "",
    "image": "",
    "source": "ESPN",
    "region": "ZA",
-   "date": "2026-11-13T18:24:59+00:00",
+   "date": "2026-11-13T18:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -316,53 +353,19 @@
    "topic": "Society"
   },
   {
-   "id": "4ea422e23d",
-   "title": "Seven dead, including child in N2 horror crash in Eastern Cape",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam4yTGhKRGFXMjhFRmVpWk1UQkRaWnpuR2tjNXpnb0lOS1poUVNlQ0JVaWF6WGVKNnVTOWpLS2lwN2lOZGFnQU1jZjFBMkp6eUx0OGxYMmlGY2hvM2hobWFyZS1ScktwNy1OOENydGxJZkxuOTF1WE13WU81TnFHUlh1enphV3FvNGtIT3UwYkdreDhnZEZqRg?oc=5",
+   "id": "6489524211",
+   "title": "Rand nears R17/$ on mounting US rate hike fears, ‘loud political noise’ in SA",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmpZYnpmQVJOQ2V4VFpzMGdLM090WE9uRklwZG1HRm9HTXh1NGtGZXB5c3JTQ0JXelpwRHBhV3p5VjVaY1VqZ1c3QUxaZU9rWXdaWkV2N0lWOWl6Qmw1bFN5Z2RPNjNSZnQxR29pWk5DcFVCcXN3cERmUnR0NjZYYmFQa0R1WjJBWFVUT1pYZ1ZOM0ZHVV9na01heVQ1eTVidFlkc296aml0YkZrSUF5Z0dHTlJ3eWxzeG5nZzE0LVJMUUI3?oc=5",
    "summary": "",
    "image": "",
-   "source": "eNCA",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-13T16:12:46+00:00",
+   "date": "2026-11-13T15:03:11+00:00",
    "coverage": 1,
    "location": {
-    "country": "South Africa",
+    "country": "United States",
     "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bb24356525",
-   "title": "Pochettino appointed as Man Utd boss after Carrick sacking",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT1JmNlRMbVVhLTRJYmNuWHdfZUZuQmVRTDN6Q1d1ME9nbzlTOExxS3FFQUttZGxDYktDVzlqUFk4NEZvY3RRUV8wdVNVR1VzMmo0VlhHSFJydTIwbGlBZzVMTDl4UGZHd1dxcDFuZjRydUtpbTU1NmJTQ2plMm1ZUnJteURzdHhpRXBiR0lOZFpmSzVpX0lSSXlfdHpfaEZVVEpNcUV1WllDYmlUZkNGZE9nV0VXQ2xhZ2s5YWJ3V2JpM2NlVkNIT2dIM2s?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SuperSport",
-   "region": "ZA",
-   "date": "2026-11-13T15:37:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "785543c2d8",
-   "title": "Nations Championship, Round Five: Teams, predictions, global TV channels and more",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXhMNEhaZU9WUldRdUgtV2phTm9FVkJMOEo0RnUtTGJ6MFJHWGtYdVZYMTNqeExVNnpsUlM4XzdvYUs5OVZuVUY2VkhpcnpnSXpRcUlRMHdGMXQ4UVdubXhwS1ZZcVFNWFZhU1ZkZ1BMNjk5aEtjX3JCZXFyME1fRUc5aVcxUVRTR1lHaG5LQWkyS0tWUlRoN3o2Q1JuUXhoTU9MdmhtSW9hQXJPbHk0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Planet Rugby",
-   "region": "ZA",
-   "date": "2026-11-13T15:02:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -392,6 +395,40 @@
    "source": "Moneyweb",
    "region": "ZA",
    "date": "2026-11-13T14:15:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e48fa1ad53",
+   "title": "Ashley Oosthuizen’s transfer to Bangkok prison brings family closer, renews hopes of release",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEF5QTdrSVB5WUxwVzlKeDQ4VDVLdk5veFBxb2FBWlF0V2w3REMtd08tbVhVdFk4eE9jSHVLdHk2UzZ0UFRnb2ZhV1FoejVMd2E1eDcyaXJqZnRMUjNrbkp6aXl4Y1RxTmlyQUVmeXpuTnFkRjM3dkQwUUU2XzFHVklReGpJakxLYzZFWG9JdEJzWGpYQkdmVTl2clhqdFUxR25CWWhobHk0Q0tlM1EyMHFnODF6U1Y1Wjl1UDAzR0pfQUZVcjZVa0ZZcHc4QlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-13T13:30:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Thailand",
+    "place": "",
+    "flag": "🇹🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5b4d316e6d",
+   "title": "Nadia Jaftha marries Reece Meyer in stunning Cape Winelands wedding",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpaa1FXc2NsX19uNG5xVmVDRlg3bFN5dU92WndzNWJjMm5vaDZXTmg1Z1B3ZWUwcC1sMTVQX3Q1RjZxUXFNeXRiMk4wUVNwam13bmtUNFVQYk01S1NROG9kLWVmcTl6UVMxRXNoeElWWm1CTDZYYy1NY05FaThvNnZscHZCZV9wQnZwZmxSTlVRM1p1NVREWHRvdVhtVlRycVFQVkdTeVJyNjBwWmFUWHlJTTU4cmpT?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-13T13:00:07+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -435,22 +472,19 @@
    "topic": "Society"
   },
   {
-   "id": "9726a5f6d5",
-   "title": "Africa’s wealth map is shifting as Cape Town surges 35% while Johannesburg and Lagos record declines — Africa’s top 10 wealthiest cities in 2026, according to latest ranking",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTVnczJBbk02eVdMa1ZJTk1CWTBIckpXN05Kb1lyMm9fVHZ1bF9WWTFmdWdsTE90MjJXejBPTmxBRE1QOFMxYkQzcDAtYTBpd0VzZWtJSlgycjRwR0FQM0dSS3dWSEVHazd6ZmllcnZrU2hSUnVaR2ZnV2M1U0pISVZvRUxRV19TWF9admRkNHlRdWpDclVXUEJwcjVZMHNlVkV3Yjg4NzVEdm02dVI0dVhBcjhnc2pfbU54N2RsNkRXOXVyQVZ1dDZ6c0JGaUpqb1NXVlhR?oc=5",
+   "id": "acafc31cf0",
+   "title": "Tatjana Smith swims for the Netherlands: what readers think",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3J6cWRfYVEydXBVbGpzYkt3dVVESS1IM3ZVS20xSWt3ZE56aXE5N1ByTTZaSmQ5aVpfdjdaRkxXTWJLbU16blpTVlM3WlFfcWZ5WmpWWGFOUDhXX29TczQ0NG1icGRCMlZrR3pVd2JTS2ZialpBcUVnbHVRRzhfVkxJTG9CQjJPS3NOaXRCVmRjelBfOEtHZTNJcUxkSjFMQUpCTkZpMDh6aEEzbjBEa3hjX2ZRVUhuM0xR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Business Insider Africa",
+   "source": "Daily Maverick",
    "region": "ZA",
-   "date": "2026-11-13T11:48:18+00:00",
+   "date": "2026-11-13T10:21:34+00:00",
    "coverage": 1,
    "location": {
-    "country": "South Africa",
+    "country": "Netherlands",
     "place": "",
-    "flag": "🇿🇦 🇳🇬",
-    "also": [
-     "Nigeria"
-    ]
+    "flag": "🇳🇱"
    },
    "topic": "Society"
   },
@@ -472,21 +506,21 @@
    "topic": "Society"
   },
   {
-   "id": "4162f13f5b",
-   "title": "Australia captain Pat Cummins speaks: Khawaja ‘100 percent wrong’ on Sandpapergate",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDdkUFlCX2FIVmh6WkwwcVpJZDJyMm5xVW1OTmdSZ3gzMkNaaTBldVVYdVJBZGJsYUI0ZTNxTkRSU2xLSlJ4TUlIeXAtb3VScW9FNXJUYnpqQVEwZjhDNFlkQmFBejg1dWNqby1rdGhPdnN4ci1xUTJsZVpvUFVIS1JPTWxBbkhsdzBJWmoxMDFIeVRVdUo2Y3YwajViUFR0NnJmeW1ySlF6QWJDaVZqZ1hXUkpwOXFGS090RnVESXF5ZW1sc0ZrekZR?oc=5",
+   "id": "a8f9bf7155",
+   "title": "Ramaphosa heads to Silicon Valley to position SA in global AI race",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR09xVVVrbFFldFlfVHZLSnhJWlQwZHJucng0aUViT05TN0VLbjY0X3pOUERjcEpPM2g4bGkxZE1EaURCUEVrNWFRa1llMXdEbUttclV5MHRJdnhIc3oyVER5MDNzekxvOG9xWkhtWTNidFVpSURJRVliR1NTNmNTbGh3V0t5ZkxpR2xIdlNBZ3Y0VGM?oc=5",
    "summary": "",
    "image": "",
-   "source": "News24",
+   "source": "The Citizen",
    "region": "ZA",
-   "date": "2026-11-13T05:06:25+00:00",
+   "date": "2026-11-13T04:57:30+00:00",
    "coverage": 1,
    "location": {
-    "country": "Australia",
+    "country": "South Africa",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇿🇦"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "c0f70a5412",

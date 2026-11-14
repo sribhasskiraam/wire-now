@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
   {
-   "id": "50acfaebde",
-   "title": "KBC lawyer Velma Kwang’a feted at Nairobi Legal Awards",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HY254UkMxN0tjbjlvUTZUbVFiZzc0T2R3WnRMY2p1MmZVZnAxN09ETk10VGprdzFZSTVibjhZVVJ1STBNbWhXbHhhak1UaUNRWFUtZEo3OU10OXpsbEQxVU9XNEh0X01WNWJnMzBoZndoN21ha0dQTjZVeHROLUE?oc=5",
+   "id": "ba29cb7f70",
+   "title": "Top nine most disrupted airports all in US according to Flightradar24",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUJCUHdhbk9oNTRVM1o0VTlaaHhRNjAwcXVfU2tYa2JMWmxHWEExdWJJY2tKTHNpNTFBUnl5VWkxRDBlV3hDQ21NY0U4ZmpraW1kcEpua3ZBMnk4dkZCVHZDUXdGQnVDSzFkVHYtbDZIcHQxWDdQakJTU19oV0MxWWFfMDBpOTB6Zmh4YVl2VVd6cFVnZUd0R21uTTJmd2FEM1JiX1NTdlFuVnhyanRZR3BnODVUV1kxaWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "KBC Digital",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-14T13:10:32+00:00",
+   "date": "2026-11-14T13:40:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d40877e26b",
+   "title": "Tragedy as Grade 5 pupil drowns while swimming in River Kithyoko in Kitui",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmlBdjNFdEE5YTBrbXlveUtQWlBKUWV4WGhVZlpyZzRRdmJfSlZteHNoSGtQMlNaUk5NdFQ5c0YtV1kzOWk2STg1b2JsTFc3TUZ3S0xNT01SUVVEcW5XaTVMbnFSbFRybnZZUXd4dW9lcVlpcFBJeDdVUW9Xd1NEcHNobFBrS2FEaHF3Nk9VYVhpNGZ4LWk0VQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-14T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -21,14 +38,14 @@
    "topic": "Society"
   },
   {
-   "id": "b4f1bcdda7",
-   "title": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjhSbmVIV2VsQXprSVowOFVLUWV3T1pPUGFNekUxc0xEeHJMV0dqRENUNDNLSDFFaHhpQWRsMDdadjNXZThxak9nbm5uLS1fRWdMQUJnZWd6UTFicjZBZEMzbEFrRTFGanB5ekdrQTdOZVJ4YzZzR2pBQjYwMk8tSkdibkxTYUxrdjV6UW5TRHlfRmRNOWpfX1lRSGtSY09GZDRB?oc=5",
+   "id": "b5ade078c9",
+   "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGJEZ3ZyQ243d3F6SlozY2U3dnRlOW8zMHZlV21ScXlmV2VnNDA4SEMwcjByMFRtTVZROGluM3hlSWFzWUZCbnhNWGhqOHBaYVJvc3BNT2JWRXhYV3kyaHB1T1l1WGxWdVZZYmFKMTF0UnRzZjlRWXVsZnFJQXBvZ2pPM0lWTWI3ZEk2cGlWZF92ZENNRGU4Tm9Ec1FHVW9RYmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "AP News",
+   "source": "Big Rapids Pioneer",
    "region": "KE",
-   "date": "2026-11-14T13:01:00+00:00",
+   "date": "2026-11-14T13:13:39+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -46,6 +63,23 @@
    "source": "The Star, Kenya",
    "region": "KE",
    "date": "2026-11-14T13:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3b2a0680a2",
+   "title": "World Diabetes Day: Key facts",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2VWQnM3SDB0WnNDblpYZjAyQXBxUGNnMzdOM3NQZVZyZDV5bGdiUXFMejgzSFdhMHJHVHdZQVNNSDVmbG5rdnFkTTNMUWVEc2dBLVMxeDhDTlQxQzJ1eVhmeGxHb2doazVOekI1NUV6cUpJazhxakxPTnRHQzNtS3V5WTlXQzRCd3lGLQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-14T12:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -89,14 +123,14 @@
    "topic": "Society"
   },
   {
-   "id": "9ffca2d5cc",
-   "title": "PS Omollo orders crackdown on defilement, bhang and illicit alcohol in Yatta",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1JjWGtmNjNnc2pGa3h3cFVudElicGZ4S3Q2Q3k5TjNGZWZ4dERuaDRLektLSW1Wa2kyaWNaNml1MEtIRlVYckJ1UlVxNEVCZ05yaTA2VzZlclBRNXl6OGhqR2prNERjam40elRabXZFODdldEJOallNYkg3YktVazlzaGRfMlFtZFluRW1CQzNFaGMzNENVeVppYlZHbzVlVTFNaWVSOFJiSWdZeUNRenoxcHpPVHE0X2c?oc=5",
+   "id": "b8626981d1",
+   "title": "PS Omollo orders crackdown on defilement and illicit alcohol trade",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVVmZy1GX2JPQVVzUlQwMmV2RlJQY1BsMGpnVWFEbzZZR082aDQ2bGtVcm54S2hEekNrU1dOdW5HQ3QxZFBYSDhYbjJhNG1pekFYSV9YbVFfck92emtQU1BIZ0FBTDJyUmIwM3V2bFVKZ1lLc3lwS21WMS1QVFBlNjRkLXBJN2RadE5xeU5QbHI5WTh3em1VNkVfRDhhVDJlalg0TVJXRi1sakxnUExnQmxxMUQyaDFyU0xCbXAxWGVwWHM?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star, Kenya",
+   "source": "The Standard",
    "region": "KE",
-   "date": "2026-11-14T11:55:00+00:00",
+   "date": "2026-11-14T11:56:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -123,38 +157,21 @@
    "topic": "Society"
   },
   {
-   "id": "f5a35b688d",
-   "title": "South Sudan postpones first national elections again, to February 2027",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM2FTWVNpRFpDeXhLc2xueGM2MWQ3a05OSXphMkgyNlZGYW1WNXZqN1c0Y0M2bjFlYVZlRE1pR0owaERhYVVKYVhrSXlkNzBMcGRYcUNoand2Y1RvTkozOEtldjVKSTNmSWFXYWlwWjJHRFdYZndKOEFzRjVQSnYtOTlHeWRWWGRCSWQ1eHM1N1NlYmN1X3pCLUh1RGFCeG5mSENTblBkQzJSM3loQk5hMmdMY2RYMl8wVzJMYzRfbWRxVHROSlcwWExZVXZGb1MwS1FPb3B4YllHZFE?oc=5",
+   "id": "292dd2d41b",
+   "title": "Maa cultural festival disrupted after rival groups clash at Sekenani Gate",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1NVZ3E1SV9VUzB5VjZDcVlmYUNrdDU3eEhPdlBqc3p4QU9aY1hCWUFFUGVTcU50UGZUSFdpckJZVWp4bHVLMERQNU1Ba19PMWJzWE1zZmMtb2Z3UjBLaXpnQ2s2bzZFckltTDJ6R2t5MW5GdUhGb1VtWlN5MVJSeEVEYmFIVURhX01VTTFVN05RYVdhNVgw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-14T11:28:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Sudan",
-    "place": "",
-    "flag": "🇸🇩"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "d7ef806ef9",
-   "title": "McKinsey boss Bob Sternfels laid out how companies can prepare for an Nvidia-like crisis",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUJBaEk4eVlhY2RXcGdEclNrNlpvUGpHVU01NU8tS00tdl9rUlZXT0hqOHBtS05Ba3lzT0JPb0pTRDFxeUtYWFhjSzNDTVZFTHpGYm9IYjlVYmRtX1lweDgwVGJDc1VlQTcybFZFNG1QZmNDV0xNV1pqclFJMmE4UV9FTHJZTUtQdHlsWTgzUmFEWXYwT1lpcFc0QmlSdm5NV01BZFRB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Business Insider",
-   "region": "KE",
-   "date": "2026-11-14T11:27:00+00:00",
+   "date": "2026-11-14T11:20:30+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "6c0008478a",
@@ -191,6 +208,23 @@
    "topic": "Society"
   },
   {
+   "id": "ef2cd2ba48",
+   "title": "Court holds State liable for missing Busia man, orders his production within 48 hours",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmV1REVSaVd0TkM5ZjN6NzFYUTV0LThkMzl4eDEtaGtpQk5EMjUtRWpLMUh4YnlqU3A5X3Y5bWkta2diOWN5aHpKVGZwLWlFZDNJU0o4dVNscXV4SjlXQnctX3JyaElVRDlsa19Tb1Uta1cxUkV3Qm5NaTRZNWNsdy1KOUFBTFN0Z1cyT0hmaXlpRTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-14T10:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "f229dea857",
    "title": "The outdated 1974 standards law KEBS wants changed",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUFkMEgyUFVQZGhYQzNoS1kzLUtDQTdxVUlNeWMtNWxwTG0zSi1waWxrMlAxbzlzMXB1NGpPUWhfMUVZZGZ0RUU4eUszcnpBMUVpQzY0eXZxeVJCX2FGMldINEFfX2tLeXlXQ2E0bkVya2lSWkxmOGJwTEVfS2cwMHpBTmhNcTJzTDJMNEFYaDRlSnhqMTNhZVk1MUQ?oc=5",
@@ -208,38 +242,21 @@
    "topic": "Society"
   },
   {
-   "id": "b92c827e90",
-   "title": "Florian Wirtz sends Liverpool message as Cody Gakpo upsets Kostas Tsimikas",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0dWZnJvaUdDZWlFMzRMaFV2Y2xDQmszbk9FWmJTblN5V2lINGNPa2J2X2ZvRUtzV1R0aUZoQlJiZFlXZmRyQVU5V2VJRk5rNmFmVlFkN3phdVhZV2ozVm0yUzBfcGF4YmhnSHZfSzhrRndKaGQ3RG9FYlljck1VM0trckRoZFljN2hPM21tc0ZrdzZaeG8zQnpidVVobWRfM2NnSGlCT0JVMknSAbABQVVfeXFMTS1fd25EN2VqbU83R25MQzJIQkQya1UwUzhEdWZ1OGNPeHY5SzV5dk1xM2xlTGVHSFJLa0dQMEZGRHpIOHRnRWxDMEZEWS1ydk9iTjFfRTlBUVRJdmw2NVhPeUhvdUJ3S05hUVVUMXhtOFJ3bkZFZUQwTkN1RUk3RmpMVGZXTUtQNUhBcndsamhabEFGM241LVlvU1V0OUpGY1lHWFJFNV9UZmhmYzFuUjI?oc=5",
+   "id": "0de56468ea",
+   "title": "South Sudan postpones first-ever national elections until February",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRktXcU81NkQxMXF5WlpXVFZTSzcxNkJtdkFodFpWRk1EeVNmNkFfcUdHY2xyT281eUNvd0cyZDMwRHV3LVUyTV93Y3Q2ZXB4THQzUldHNWIwczk3bFRqX0VRU1A2bW5tUVVYejZxU3JNNmpBVmJ1WlVEb1J1djF5QjEtWWhaQTVDSkp2N2t2anVveTJOVmZRR3lZcTBoQTlHbmkyWUxKcUxiYklT0gGyAUFVX3lxTE9XRjkzRW5TMUZPRFY3cGYzRy1SV3RPUDJTRU8yaTlpMTlwMkVnX1lNbWlmUlVxeXppVUlKX2lmUm9ONlhVd0t3V01KTGVsY0l3SzF5cUVBUl9BTy1RVWRWWUJ0UUxZTm52ZWJ1Z0FzZ0JfaU8xZXBMeGJ1bTlLVFpmaTJreVlmRHl4TG5pRTJDZFhtQ3BFd2xPN0VSdWZ6V3JxdDhYVTdxbHdOVVRFZGxCUlE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Liverpool Echo",
+   "source": "Al Jazeera",
    "region": "KE",
-   "date": "2026-11-14T10:28:00+00:00",
+   "date": "2026-11-14T10:39:25+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "Sudan",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇸🇩"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "d8f0a8b919",
-   "title": "Political storm at Maa festival as Lenku accuses UDA of turning event into campaign platform",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRjh6SUcyVlc5a1M4SGxkRENNWVlRbmROdzdXS2VfYUx1cnNwLWpjSUhUQmpvRy1qakpMaGxOM2xab3c3NjJKRnJQNkp4REVNejBOYXVJQ1dqMXhGUEZnUlNiWjV1ME80NWRBSjBUekRqWUtJMDNXQzZBWWlWN3piOUNIVkVQY0hqZm9hZU9TRWwwMHM4M25aSlNFSVhxclg4RWFaNmZadm1CdGxud2w4akRzNzlEekdGM1ZHOFBlNURJaUplRmVjQ2Roc0tiam53Z1hGOEhaWXVBMzZhdzk3VHM1SmZacXlWMFJn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-14T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Weather"
+   "topic": "Politics"
   },
   {
    "id": "336ff9ba64",
@@ -310,23 +327,6 @@
    "topic": "Society"
   },
   {
-   "id": "369d2ec6cb",
-   "title": "Could street lights in Glasgow's dark lanes improve women's safety?",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wZkI3akx0ZzVOZmwxa1hvN3RMVE5FOUl1WHJRdHV0ZEhnX3lTRWlna250STluMDZoU25JSVZWV1NtNmtqdDFZRHBYaHhMSndTaFFROHRtb0UtQ0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-14T08:27:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2d1bfeb8ae",
    "title": "Mudavadi, Mbadi back more funding to secure AU’s financial Independence",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOC1aYmNhaHVqb2d0RWtNSjhSUlBrXzVjdkJNcU5wZnFXdmxlbTNGOHNva1BjMGNQUHBEeWR1TGxObFl4b0NXWWJxVHRMYlhiRkQzemNrMUNsaHYzTlV2TV9xVlg5OGZ4WXhILXR2a2ZaXzByYlNMWDd1Rk1rMk9RVzRzUDJGWVZvR2NvMmZTUVNHTTV1WURN?oc=5",
@@ -359,23 +359,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "1aec38e6e8",
-   "title": "Justice Mohochi orders police to produce abducted Busia businessman in 48 hours",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxFMWtTRTlPa3hPVFBueFBBaE8wejNCXzh1dy1hYlFPVGNVU2o0bjR1UFJ1VDZPVzdqVGZYanJ4OGsybm82ZUt5SlgxUzNUVGFCY1FZQXlXb253VXoxNlNZbUNUSEFvSjBydnRmNy01UGY1Tk5NOHlFZVNDMUxnRmxRel9qRlphV3lncXpsSEJDWFp1WmFsM0FrcVFidnJkaU9OdUktclB6QXVFRnFCX0xiSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "HapaKenya -",
-   "region": "KE",
-   "date": "2026-11-14T04:29:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Business"
   },
   {
    "id": "c10c758d76",
@@ -466,23 +449,6 @@
    "topic": "Society"
   },
   {
-   "id": "dfab76c051",
-   "title": "Could you be living with Diabetes without knowing?",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKWmpqUExyajFUN2djWVZGcExFRWZmeE9MaXFLalJ3cWRMLUNPSm95VW1ZVkVYZzdoNUI0bjFuSTB5S0tGSEtEYV9XV2RfSE5OeEt3SHRzcExsZW9pb3JrM1NfNG1TS3d4WlVHNUlwaGVjUFdEOWJwbnFRNFdBUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bizna Kenya",
-   "region": "KE",
-   "date": "2026-11-13T15:35:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "68e4c4fef6",
    "title": "Premier League reveal October Player, Manager and Goal of the Month 🥇",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0tiQUgyY05HOXpXMDd4bFJpM3Y2eWRoTzZFbTVmUW82MDFkVnR0WEYyX09CdW1LcHNQN0JwbGhueXp3NUk4Z1dTVEc2N0t4QWEzcGhKUjNhLUw2eHVOdEVTaGpwSkdDdFlmRE90UWtFa1NDVjNsS0hneTVRX3RYR0ltRkhPVVVpMF9aYVFn?oc=5",
@@ -517,14 +483,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "a259b93aef",
-   "title": "Samsung confirms December launch for its Gemini smart glasses",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0l6M3pfSm5DQ0lVMmxvdnZ0Q3p6NzNhc2dzNXloN05WXzNNT1hxNUdzQWxnWkVmTnR5M291QlhGU2p4c3F1bHBYMjNYMlBJUzgxNXhmRUhRWkppN1BxOHBDQTdzZUpJSXg5R0dQUTVNbGxsWDZCa3JBVVFDNWRmQS12dDVQTHJKMFl1cWM2ZkV5TWU0dTl4OFJR?oc=5",
+   "id": "c5ee8fd104",
+   "title": "I was told I wouldn't live past 20, but now I’m 23 and studying journalism",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkRnUTZTejZUUDlXUno2cDVFWEFwVzR4aVlEQjNDcHdZbXVWU3pqT21ubjV0WXphcmxvdkk4TFh0bzRTVUpsNzdtNzk3VFkxQjJIc090eVc0Y2tiUDExM1RqZ2sxVS1VaE82VlR3OFlCTUdzY3p2VE1La2JYZm5QUEd2WldNUXRiY2ZjWkRKZnVwMjc1MlUzN25xS2tCZWNvSFNCSlRpR18xZk5kTWs2YkIzdVJpaU0?oc=5",
    "summary": "",
    "image": "",
-   "source": "Techish Kenya",
+   "source": "Daily Nation",
    "region": "KE",
-   "date": "2026-11-13T11:31:12+00:00",
+   "date": "2026-11-13T10:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -534,14 +500,14 @@
    "topic": "Society"
   },
   {
-   "id": "c5ee8fd104",
-   "title": "I was told I wouldn't live past 20, but now I’m 23 and studying journalism",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkRnUTZTejZUUDlXUno2cDVFWEFwVzR4aVlEQjNDcHdZbXVWU3pqT21ubjV0WXphcmxvdkk4TFh0bzRTVUpsNzdtNzk3VFkxQjJIc090eVc0Y2tiUDExM1RqZ2sxVS1VaE82VlR3OFlCTUdzY3p2VE1La2JYZm5QUEd2WldNUXRiY2ZjWkRKZnVwMjc1MlUzN25xS2tCZWNvSFNCSlRpR18xZk5kTWs2YkIzdVJpaU0?oc=5",
+   "id": "d96be9455f",
+   "title": "Princess Diana's gorgeous twin nieces Amelia and Eliza Spencer wow everyone as they support cousin Prince William at event | Fashion Trends",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRlpyS0RrS0MxSVdKVWNYN2J6VFE4UmZpdEtQR1JxWDJIdmdEU3RpZzFIVlEwZ1hpVGNFM2p1MDNGQ1JkVVp5ZU12RnpVNG9fdGRBSHJRb21OWEltWC1YNm5tcm5ONmFYd1QyeWpIUTdLWWtUdDE5RkRhRkZLRGduaEd0NzIyM0dDdVhOdFk2VEVuVWloMEtxLUlycGFYTjBiMF9sUHJFcVktYnFmM1NlNERwVzVuRkY2S0ZXSTJuQkhoS3Y4a3g0YzBXWWFSNjRlZ3VKYXVjS1o4U1YzZ0p6enBYWWJ4di1YT1piVnBxcll0N2dtQ2Y3ZFg1d1RKVktBQS1MOXdZaXFfUjRPdXpZMUgwNWZYSDRzbjVN0gGgAkFVX3lxTFBUZEZiWTBHMmRueXdqenFNRUh6aERtZU94UE9sZG1EOE01R3hHMmxaYVliazZVN1ZKU2IxNWJUUVpYLWVaTmRzWjlFeFNweTg1d2FkN01pelIxTlVHeXRQWTF1TjZheFMxZ0RvQ2dTVHE0el9CbUZ0MTgyQkhONWtHdXdNMUFyTXlfUVBUZkZIc0ttc1VyMHJGa011UnU5M09RUTM0d2dueUdzZ3paWWRoTDl0WnJsNlFtektBRnJnS2pwRXQtcHJpak1McWltbURuWGhCUkR0S3lYSXZpcWlYOFkwS3JJVmtNYW01dDhxQjZxcl93c19tT01sSlJOTmwxTWtwVUI2dkJxVzhSTkxndDk4QUhkZ211b2d1ODAyZg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Nation",
+   "source": "Hindustan Times",
    "region": "KE",
-   "date": "2026-11-13T10:00:00+00:00",
+   "date": "2026-11-13T07:13:18+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -568,14 +534,14 @@
    "topic": "Tech"
   },
   {
-   "id": "d35a19c589",
-   "title": "Ladies Amelia and Eliza Spencer Are Electric in Silver and Gold Gowns at a Gala With Prince William",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnZKSDJLTWlpQUE0WHk2LTUtR2g1Z25YTzNzMTJSUDlfNjlVR2QtZURKYThINllobGZFNGxHY1pkSTF0cFB2WVQzQ2JMb1J1dkh2a2pLSDVEcXpBVTZ6LXhkTkFEc2kzOUZNZGRMUl8xVUNpUzhyd0pmXzhrblRIUEIxd3A0UHZ2SVRnV3FoTk0tWmVyR25HRldBT0w2MGdERjBRZlBHSGFkdkFnUW1XNENLZjE?oc=5",
+   "id": "550f141576",
+   "title": "'Smartphone Pinkie...' Signs You Are Overusing Phone Use | Vantage on Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEI4X2hpc1BQektOSF9XYWQ2UUJic0ZjTzNGa2tOdmZPeXVKUHBJZ3VyRUluUFVpR3BKWWpXR1JpWFNBVk5oMGdxc01XQVJ1OWo1MWF0XzBrYS1TNFNEQml4UEd1WDVGV3FDNThsbUg0Y0l2ZS12VVd1OFk1SDFDVEdBa2NvRVN1MUlTLTZhOVBYNFJpWUlSRzMwS0ctNWtLcTlYaVlYMUc4eDNnSzFpMHMzZGM0Vkxj0gG-AUFVX3lxTE5KMTVVa3NwWkVrVmU2TGNrTFhTRlphYURBbmoyNjhWV3FqUTBBbGNNb2pBVTl1ekp6cThyRmZwRV9SbkhsZnlaUkw2SnBZVjB1OXlFMkVWODFxRmFnbS1rM1FBRDU0dWkwbGJ1QXhMWGY2WEg5ckMtNGhaZWgxbW9nMXg2Rl93MHV3Qm5mSnlhRFlQUmc0UFllTEpwZVNNZ2FWd0tBUTFwRlVmNVRkWjg0RVlmYXBXOVVmdmpNdEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "Firstpost",
    "region": "KE",
-   "date": "2026-11-12T16:33:31+00:00",
+   "date": "2026-11-12T17:48:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",

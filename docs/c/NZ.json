@@ -1,34 +1,17 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
   {
-   "id": "f2a633244d",
-   "title": "Person missing in the water at Karioitahi Beach, four rescued",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkhPTU1sVzhHaDJtX1FtTlFyNnRqN2s5VUN1VkdUSjNhUlhJUG1ROFpfbXhjMzZaZHltQ2NtM2Jmb3FTLUZsT3UxZXhQT2hNb3A1SE1rd3FyVHdHNDRfdENGOVQ3S1RTU0RHVWJuQkdrLURldnVOak81dkFYQ0hfTlY4YjNmQnA5Z2xjUFU4VVp0azJ4ME9QZXBzdkQ?oc=5",
+   "id": "6fb7c249a4",
+   "title": "Today’s Wordle Hints for November 15, 2026",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53clR5OTZINDZqc1dwS0hkMnlSb2hDWXV4amh2MkZOTlZ0ajNCSVpzYmNKZE1CSU1ORTE0d1BiekRzRUpJN25CQWlrRVdVN1NuYVhMT3d4cDk2Z1luU2xOcEZhU3NPNnI4Y0dod3BoZEdNVC0xNGxRNA?oc=5",
    "summary": "",
    "image": "",
-   "source": "1News",
+   "source": "The New York Times",
    "region": "NZ",
-   "date": "2026-11-14T11:14:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c1767b43c6",
-   "title": "111 'solid', 'fragile', 'effective' and a safety risk - all at the same time",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjd2bnM4Wjd6bE9DVVFkTlVTaS1ZX0piZUlwY21MaHVrNnJIVER4Q2xhOFg0amhuclo4M0NZWTZCVW1lYldWaFBNalhvYnZ0b0tpNGRyU3oxZkgyNGNhOV9Xc1c4OXFmQk9PdUtULWxVaVIzTkdJQUgxZEJRdHRaZWNWeWt4eGhLSjFxemIxRnQyR0hBWkQwaUkxbEwzTEdmZWE2ZzlIOTFrZ2FmUjktdVFrWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-14T10:12:28+00:00",
+   "date": "2026-11-14T11:00:03+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -85,6 +68,23 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bc8001bf9b",
+   "title": "Four rescued, one still missing at Kariotahi Beach",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVNlSWk4Y2xIZE03OHpuTExFc3ZVVEV3R25LU01JWHU5cnFhOXZ6bVgwdDl6Q1BHVGFlZDg2QndwWnl1clZiaDhZZHZYcmZqRXFab3pMSTkwQjNZdTl6SWZ5YjZGaDl6QTQ4TGo5R0ZFNHVaVFVVaUY4NmpZZ1hrWVVDN2libXFYZXV0WERzTlZScU5Ed1F4N3FNakdJdS1qdWc2YQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-14T07:26:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -310,23 +310,6 @@
    "topic": "Society"
   },
   {
-   "id": "992b3b9803",
-   "title": "RNZ chief executive Paul Thompson announces early departure from organisation",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVZ5M3VUOXFwbDE2YWFvaFQ1aTcxRFBqTUo5YndIaVAzU0Y0em1aSy1oankzVzNGdVpMcHNIdEZPb21XbjZIdVgwa1Z3YlcxTFd1U0w3THR4clBHZjJsRE56VEstVm1OVHpwVjN1T2gwQmNSbzVpRGk5QmhRNmNRYmExLUJoclR6ZC1VenNYUW52SHNEQzJoV2pkWTJBRmdKUHd6d3RCRUZDcUVBdVBoQVlJMXlRT1ZWUDI5RFpn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-13T23:58:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "2bb0e509ec",
    "title": "Whangārei man arrested after 15-hour standoff with police while up a tree",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFZJUnl2eFlaeXgySVBzSnUwNEpqU1lzcGdFMEltUTk3N1prMkFRcFRsRy0ta2pQTTlTMldfZ1M5YXowR2lVNzNFUER5bWhwNE1MUDdhY1FWV3BnUWZqSG9DdjFQaXRPeEJpeWtXelJGclRITTl1NXhkd1lEUUNCOWhEc2VDRklIU3EtMzFCRlUxOWI4VFYyZ2E1ZFFySFhiVUFIalFRd1hSVmY1UU95VjhCcHFLQVpIZjloV1VUeHVvYjN1?oc=5",
@@ -378,6 +361,23 @@
    "topic": "Tech"
   },
   {
+   "id": "8282507f28",
+   "title": "RNZ chief executive to leave role early after shock $12 million loss",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVY1YVdaSjlkcVlEOG43cWVHMko2Y050SjlVLXZGQlo2RDhZcW16TmtScjlUTmNvNFRVOW9KSk05dTctYXJPNXRUWEx2WW1IZm9MdEtxN29HOWk3by15SXp1OVZBeTlXYWxjYzMwUDRyNm1nWmFtVzh3QlBBQW1EWWFwX3N2NVoxOEoxVVZOZTFyN0d4LVBtdnBCWmZ5X0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-13T20:27:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b61f96453c",
    "title": "Best Apple deal: Save $9.01 on Apple HomeView",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45djQ1MXZkaTE0ME8ybGxkVGV6akp4N2s0UVdrMVdEU0RzQjhPcHB0NFdSSy1vVTRKLXNHcnkxWm1GeUlMOTJId20zMkpESW5GbUs0T2Y5akR0SGU4UV9QMWczWXdtbjVtS21CSEtvazBOTHAxbFV1bnl2dw?oc=5",
@@ -412,23 +412,6 @@
    "topic": "Tech"
   },
   {
-   "id": "77fd3101aa",
-   "title": "'Sheepiness is erupting' in return of Kiwi cult classic Black Sheeps",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajhZcTFqWjVOMlh1MWlvbDdHZG13cFRKWEpyZXVWOFVCZnY5WE56M0h6d0NMVUxWb0JyRHBNUldFMm5uSWI2bTl4T0RLM1Q3Tmp0cXBCMlZ0RU14Qk1ubkh6OVhkYWVON09QbF9CSGhHOEo4TTRHMF9MQ1BBY3dJMEoyaGJmWEd1QnRTZzhsOFZSdVlmOWpmVEV4ZVNPOXdESWw4NjNiV3ViU01S?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-13T16:02:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5cfdf3613a",
    "title": "All Blacks v Wales: All you need to know about the Nations Championship test in Cardiff",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFl5a0lyak5oRERIZ2h5N3E5SGZ0SmtkRnJhRW83SmFTWFlyaDltNHBBakhlTUQyZDRjSVhWZmVibzEtUW1rNU9ra3pCMUxYam00VnZyYUI5MVVya0ZiQ2pobURPOHFsMUZmRGdyYldPYjU3U1lGNnZwak5oQ0FUaDFkRF83bHBpbVJPT1hDTnZiYkRFNklaYW9XdlRicFJTWWxvQlgtSENwVHZw?oc=5",
@@ -442,6 +425,23 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fbcb54805d",
+   "title": "Fickle Australians desperate to lap up Pat Cummins’ implausible version of events",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUVVX28tUlVrM3JmalFuOUdfaWZmOXRCdUU3NHVJdnlWbHBqdEpseTQtdVNNaV9xVm1CeWdDQVFnbFNCVzJCc0dZSnAzNHZIZjFMOHFDajQ2WmI2NXJVbHNJdWVuM29YcFNHRFBFaDhVLV9BN1M4M2NLTW03SUlncUNTX09FZVRrVDJ3bm40U29wb2F2X0lZeWUwYWoxR0Z3UThVU1ViMUhRYWM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "NZ",
+   "date": "2026-11-13T14:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -548,14 +548,14 @@
    "topic": "Society"
   },
   {
-   "id": "ff2dc89cd0",
-   "title": "She ran 7 marathons while pregnant. Here’s what science says about it",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWdpaTlpOGxqQjNsNkcxNVFmVW5HMjFMVVlhamlhOVFCVnpXM09wUmVhTndDOUdsWndsWmNCNUNYcFFoZHM4ZjZ4bGQ4QzhWcmM5c1Zlc2NOd0phNHdHZGFDQ3RPczRtODI5Mk9rLW00SXZOLTN1aTFmTThLUVo0b1ZGeFdpTmd0UHVCMVhfQUhVcjhwQVQwVDQ0NHVzUHQxV0dxNGotUFlkVWk1ZkRLYzNpUFNaaGY1bWZBVXdRQm1URHFIakp0eXh4eFVGMUY2alJvUzY0SQ?oc=5",
+   "id": "cc818750f5",
+   "title": "Three-week vote count no barrier to negotiations - expert",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWZ4azFrRW5UOUxDZmZCazluLXpkRnBRbW5mQmZQQzhvSGxrX3ZVNlo2aEhpX3pORll1eVZZSFMwdHQ4TllpWFBFTjZYVUNxVHpLT2tHTjNfVjEzWENZUnIzWWs4cFBqV3lTaXBETDhwNWFKYmtFdlp5eFVCSHg5cUt3NnJEVTBVdmN1Sjh4OXZYU0lJRUdQb1VwcnpFTkZVYm9Ydl9Xd3RkTmtSREZEOW04OA?oc=5",
    "summary": "",
    "image": "",
-   "source": "NZ Herald",
+   "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-12T17:05:20+00:00",
+   "date": "2026-11-12T18:49:47+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",

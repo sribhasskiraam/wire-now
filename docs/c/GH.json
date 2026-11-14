@@ -1,34 +1,17 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
   {
-   "id": "8b42c82c64",
-   "title": "Voting delayed at Ashanti Region NDC Regional Election",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0JULXdQamkyQzA1NDZrMExHTVp4V19sd1djVkF2Ull2TkNJNnUtdXlGUUFGQk5KXy1tNWFxXzlVb1FCSzB1NzJqWmRDbV9GSWtEakVoZmlLUE5uVG10QlRob05ncFFCZ0NrYXc5bUpVOHJ4V2R4VmNBUmdqaHZ6eHppZl9jR0llQnFiUGRjbGZuWDZVTGFtNDJiLV9XbGNnWVE?oc=5",
+   "id": "804517c65a",
+   "title": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GLXV6dVp1X1M2dUQtNHR5NUY5dHdWbnJpbHdKYnU3Q0prMnFKTmk2bTdlb19VOHRSdFVabG04TFpWMzJUYTFzb1ktYi1Id09nUWRHZUlSbmJnSWRlekxLMVZDU1Q5X083c0MyR0VhUnFoYVh30gF6QVVfeXFMTXRRZ2p5eXRCZDRNcUh1MEIxNEo0QzZvS3pMaG03ZWxvVV83LTk1bGZBRHFhbnBCdlYta2dNTXkzRk5kQ0loVmczeXJsWGNla3BWb3VNS1p2UVdmLW5sSzAtODN1S291dGRnVVN5RDdXRmNKMC1vMHQtT3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Graphic Online",
+   "source": "CNBC",
    "region": "GH",
-   "date": "2026-11-14T13:37:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "d3357258af",
-   "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "GH",
-   "date": "2026-11-14T13:28:00+00:00",
+   "date": "2026-11-14T14:00:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -89,38 +72,21 @@
    "topic": "Society"
   },
   {
-   "id": "469616fd0b",
-   "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSlplMVV4OVBleV9ZYWNBM3pFcW1qMkEwOF9panM3RjgySm9GMy1PVVVzX3NldnNMNlRYblBNUHB6NGdrcHVLeXluY3JtSVB4cTF2Tlp4TFBsYm9FRmlhc0g1UVpqblFad0RDaDlCa1pnSF92UWZ5TjkxSXdVUDgxSm5GU3E4dw?oc=5",
+   "id": "9b3255d6ca",
+   "title": "Nikki Samonas speaks on AI’s impact on Ghana’s movie industry",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3hxbnQzUklFVjdQOVh6VkY4dDZaOVV6R3BIU0tyM0pmY3I3WEJaN3NFNU4wZlNXODJNMUU5ZFNGbkt5d0M1ZlZYUWRRcnc3a3Z6QmVPb09Gb1dicWJyR21KM0V0M2dwM3p1aXJ3OGduWFg3UkdzaWZTSVk2VTl0NWhvNUlyb1laYXVfa2dLdkNraTB6bnNYZmxobFZIS00wbE1hM0pIWkdHU2pXeVduaFZoYVVHcm0wZWlqdG9uaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "GhanaWeb",
    "region": "GH",
-   "date": "2026-11-14T12:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "3aa9934e14",
-   "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kTHhsUnJnRUtzWnc5SUJoUlQyTWJ4bkc4WTltYUxiVG1vS3huV2VmajY4UVBJRXk4V2wyWGxjczB3ekNzTXhmMG82UVVQaUhwb3FyWDNiSGlwN3pTSW9CMXdaMGFMUnMxcHpyQWtJTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Science Daily",
-   "region": "GH",
-   "date": "2026-11-14T12:00:51+00:00",
+   "date": "2026-11-14T11:51:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "3cdba4e4f3",
@@ -157,21 +123,21 @@
    "topic": "Society"
   },
   {
-   "id": "fb9aeb4a77",
-   "title": "Africa tells COP31 that a just transition must be an African transition",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ284aDZfR1k4dkVfeVBXcldBamdlcUw3MkpXaGw5elAzNjU5X1FvYXZ0SHdlT1pNc1JFblE4TDhfZHZlSXBIUjlnUE1BSVYwcTdubjNaVzV0dnlKeUJTX2ZhLUNiQ0dhRzJRM1RxSndwV2ltckRnV0NfcHZ3ellDRXVvanMxUkctcWxmUUM2eWZkMEJ5VmkzbVpFOTFZYkxscWFfblIxZzlqdXU5dWRNQi1TeTlEUDBs?oc=5",
+   "id": "cce9873e0f",
+   "title": "NPP lawyer, Franklin Cudjoe fight 'dirty' on social media over Dr Ato as 'worst finance minister'",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnVyU1BMYmF3aExaLWhjVkd5d0ZxWVJSUXBpdUpxNzRhdjFVeV9ibEFkdVRtWENSMFFTRGJZSlRCd29PZExHQ3NKWVBOR1c5NTVLODNiTzNjUGRjbFEydk1fUGFaR1dIcERsSk5tc1k5YVNWdE9uSVhTRi0wS2Y3dVNWd1NaX0F5UUluWTFXUFpYSzV5YlhMWlY2RVhhWlJWRGFJVllSU2ZPNzdaRzJkU2dqaU4tZ2FVNnFHZmFzbHFsaTlBZ0FoeWN4U1p1SGNtLUl5ZU51NUpGc0NVX01SWHNfbC16dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ghana Business News",
+   "source": "GhanaWeb",
    "region": "GH",
-   "date": "2026-11-14T11:16:15+00:00",
+   "date": "2026-11-14T11:08:18+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "6c0008478a",
@@ -191,14 +157,14 @@
    "topic": "Society"
   },
   {
-   "id": "74a612db4e",
-   "title": "Africa Is Not Poor, It Is Looted: A Call for Economic Justice",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWNUVDQ0czVOUzBuZW1ieXR5bUJ3bktQRy1yVlktRGctaEFhQ29WdGNTRWp1VXp5YVVRNXNIaG9reEVXSjlnYVB3OXZzS01LVWdfaHc1OEdUUTgxMEVrMENlcUZ4NmRKY1lWR3RxWld6ckxmLWhqMGxuTDF5azV4dUpsNmJqVU9K0gGHAUFVX3lxTE5aamxZbVlOLXNSUTg5ZnFCTVoyZzQ0S1dZMXlzU2Q2YkxLb1VzTnhMOEdjOFNkYnRuSi14c3ZVNlc5RjVHSXUtUElGZi1BelBrNUw5UGtTTDRMQ1N1eUw3d01EeEtiNEVyMmR2M0stUFpnYlNLYU43SEd2UUpZYVlSU1Z3VXl3dw?oc=5",
+   "id": "c5bd75e789",
+   "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Modern Ghana",
+   "source": "Space",
    "region": "GH",
-   "date": "2026-11-14T10:39:00+00:00",
+   "date": "2026-11-14T11:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -216,23 +182,6 @@
    "source": "Graphic Online",
    "region": "GH",
    "date": "2026-11-14T10:13:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "734d0b039c",
-   "title": "Early Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96eTdrdUxyVkNEUGJ2SDdtcENIYmczZVo1THlSQ2RMVGFNNjBoM2l1VnNEa3NueDVaZ3ZPZFhCQ2xXWmpva0FaSGV6eGRyTnVWMDR1UVFoXzN5bGlEb3RkeHpfY3VVQnh1RGpWU2p4TDJaMk52SGlHZXlWcVJ4Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "GH",
-   "date": "2026-11-14T10:10:52+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -310,6 +259,23 @@
    "topic": "Society"
   },
   {
+   "id": "48e68a19d3",
+   "title": "Developer urges Government to support private sector to reduce housing costs",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0U5bmx1NjZGYUswLW40X0xqdlpEZ0t0OVVtWEo3WmI0ZFAtclk3UG5qNnhCZ1o1TV9rTFFESGVUVEZPV2hneFkzYXJwTEVOUkhyMGFUOUM2TUcyMnE4dkc0cnlWemd0aTBrMlFhLUQ1Z3ViRzlPWV9jNzBOMFNlMW1hMjM0NHZtVDdUVHBvWDBIWEp5UUllMzBsZ1RROTFka3NNQVdaYm9OekJnOHhCRHNTTVR2TGFvWXBiUUhWYTNHWFJDUnZlMmprcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BusinessGhana",
+   "region": "GH",
+   "date": "2026-11-14T04:37:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "550ff35c1c",
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xa25uZ25Ya2hyRWFTd0dZRHItbGJmTjdKSld5VDNmQnRhd0Y2ZWNTYUN3bVZOZmxCSFpIX2loa25yRWxrTEVybnh1ZGVDbklmdVVBSy1CZzRJUk0?oc=5",
@@ -344,14 +310,14 @@
    "topic": "Society"
   },
   {
-   "id": "07492ea026",
-   "title": "Ebola outbreak update as of November 11",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTh4SnZXUzlKUTlndjVLRS1TbXhodjVOeUpMRGF5U002MW9nOHU5THRxSzNRWGdqdmFheEhMUm5US29naU1UU0VhbGpadVR3YlBQdUpRdVVZQ0xxenByblI3cklrY3VpdXZXU2RBWFE3Qy1SVzkyZ0pvcHpCZjJOSDYzMEFYbVBn?oc=5",
+   "id": "253e33b12b",
+   "title": "World Diabetes Day 2026: Ghana Must Act Early Before Diabetes Steals More Lives",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFQ2ZmItSXgyVFp1U2RNaEMzWkExcDNKTmQtT0JwQkZFZUtJU3ctalpsc3ZyeUtpWmd1c1N2WGxYYmMxWHRlZXJLMGdJeWpVdUE1Vy1xeG5kczZmQVd1Nmpjbm5VZEd5LU45ZW9IaHhnOV9FTTgzekJESEstcURfYjRhWDY0MWhZTzVMODA0elpWanZjbU5ySldlVQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Outbreak News Today",
+   "source": "Modern Ghana",
    "region": "GH",
-   "date": "2026-11-13T21:25:56+00:00",
+   "date": "2026-11-13T19:35:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -361,14 +327,14 @@
    "topic": "Society"
   },
   {
-   "id": "253e33b12b",
-   "title": "World Diabetes Day 2026: Ghana Must Act Early Before Diabetes Steals More Lives",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFQ2ZmItSXgyVFp1U2RNaEMzWkExcDNKTmQtT0JwQkZFZUtJU3ctalpsc3ZyeUtpWmd1c1N2WGxYYmMxWHRlZXJLMGdJeWpVdUE1Vy1xeG5kczZmQVd1Nmpjbm5VZEd5LU45ZW9IaHhnOV9FTTgzekJESEstcURfYjRhWDY0MWhZTzVMODA0elpWanZjbU5ySldlVQ?oc=5",
+   "id": "92cf8d3e1e",
+   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SGEwOVBLUHZEOUtMRkQ0T3RmNDJ1a0lyRGhYNWFZb2tWal80bEFYTHJfa29NOVRJbFo3cmxLR2RqbkJIY2lwMjJqd2x5RGdyNkx5dXA0MA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Modern Ghana",
+   "source": "UN News",
    "region": "GH",
-   "date": "2026-11-13T19:35:00+00:00",
+   "date": "2026-11-13T19:22:08+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -412,34 +378,14 @@
    "topic": "Society"
   },
   {
-   "id": "dded3a825f",
-   "title": "US takes on China’s dominance in African telecoms",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjlUN0pEQjQtakZ5cmh2OXJDcmZLTnAtTnA5czFGd0lraF9FM2FnOFRoQ25xRWFCdXY1bTVPcDh2ZVhLQVNQNVBsVE9hTjdiOFRoME9MeGtUSE9uSWlLcDlob09KOUlrVzJBMnk5SUg0WUtURFJieWZuU01LU0ppbFVuak8xRlg4bTBPYzFWWnU2SmRrZEow?oc=5",
+   "id": "50d96becb6",
+   "title": "Dark Roast, Bright Future: A new report sheds light on the future of branded coffee shop markets...",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTTUzUzh6dnppRkpXVnRoT2FNaUxKNUJOSnFoS3VSd1lXX05rUW5CMXdsSU5XYmZvcHlsQXBJSE5QY1FfejV0YV8zejdHMXB3dFEzR1diaUdzaEhvOEtxSEtyejhZMFhoUFNTLTBJQlQ1Umdvdk9lUHVJRkwwT0lTeTVubHlZQ3NqdVdPR3BWQmJKVXdSZHhiZlVGQXFOekp2b2xhcGNtenlRTFRzUjJVVy1qRF96Mms0VkpQNkF6V0x6MldYVmsteUNqMkxtbEZ3dDJlb0psN2kzYjFHZ1kxaFJiM29fUWNFdXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "African Business",
+   "source": "BusinessGhana",
    "region": "GH",
-   "date": "2026-11-13T15:21:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇳",
-    "also": [
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e049572527",
-   "title": "Ghana, Côte d’Ivoire urged to deepen cooperation on border security",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlBDbldXdEtjbnUyWkpnejJ1c0MxR0JCWFA4X2NxVUc1aXBVOFc5U0ZDM0VpZ3M3cHNzSGJ6eFU0SDB2STR4MFNIN3laLVBBWWJMQk1NU1NIQVBZU1FnX24tcEFVWUI4MElobGdiMFA2bE13ZWhvWXc1MkNxXzZBT3RKRE9XX0Zxa1Vzck5YNU9QZVZ5ZUHSAZQBQVVfeXFMTjZzbzdndHVZU0s2aWRVRHBnUm1nUlkwZnR2TnBVVlJDcjBHMGJkMzQ4SGJNbVFJdkdpYmY1ZmN4cDFmTlY5MDQ5cjllWGw5N3lXMl84LXJRRWJwTVRDRGpEbXB0WHM1cDFvVVg4N1NtLTBmOG4tZmJFYXFRVHY2amZvSTNJYmd2WWpUYWdpZEQxR1BLbA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Modern Ghana",
-   "region": "GH",
-   "date": "2026-11-13T14:24:00+00:00",
+   "date": "2026-11-13T14:27:56+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -447,6 +393,40 @@
     "flag": "🇬🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "bf6e2ba7ec",
+   "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUUtQ2VKVHlSMHFJT3JaYnZueXBkWkRrQXg5b1B2V3VKM2JlUG5XbEl2cWo2MkN0VzB1LWlBbi1QbHYwNEZOUDRWXzNQMEFIdnIwVVV2cFZEa0t5b3NmejRlMmc1aWZqaDVNS2VwTHlBbHFJWGRuN0RmUDgzcGl6SHhDc2xVTmY3NXVNTDlkYVV2MTdHMXFYWjRwWXppU0JMLXlFbk5sVzdOdV9NVXc4SUhDWWpFRExoNGNPeWZycno0TkFrcERj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-13T10:43:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1ab1ab027e",
+   "title": "12.3% Is Not Enough: Ghana's 2027 Education Budget Must Deliver More Than Promises",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTZNYkdCSVNhN1NhQzdIMkxwV1lTX0dLTmhacTJ2bDN0dklabU4wMlYweFlIVk5hTFZ5RkZhRi1RMHdFS3hhdXdwRE1Majl6Z0Z1S1RGdkpZVVBJQTB2ZWZYcHM2c2ptOEdlTWdLTFQ2T1hmb2p2MTN5YVZYSk5SYW55ekFVR0JSWTVsZzdiOGxUR2Y5c2RV0gGWAUFVX3lxTE1SanplbmxjdHNBekVBaUNidVp6Z3N4bFJoY1Fka0tnTXRhbFlNdFNXcUI2VC1QdkZSbWlkWTVwMGJHRHV4UGc5OVBad1B0S29oMzFqNTJKTnNRWlQ3LVlzRko2OUhlVzJkakM5b092WFN6MWxXa1BZMWFwSzJFUVU3dnhRandWQzZ6cnRlZlJiZ013MkRzdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Modern Ghana",
+   "region": "GH",
+   "date": "2026-11-13T10:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Economy"
   },
   {
    "id": "58d414edc9",
@@ -483,14 +463,31 @@
    "topic": "Society"
   },
   {
-   "id": "a501b0254c",
-   "title": "WATCH: Diomande’s Assist Vs Gambia",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDZQOEt1YkItQzIwNE1GN1l0M0JyRDBrcDk3M2dtZmJPelZRdGZNZnNjS3NyRFVSdmVlUmJiNmVoaUhlSVg3SThicVJpa3VSRWIzaWxZeEtZbnpZWEdyTlhnOU9kR01qUmZUZkFuMHRMX1dlc05RRVB2bjY2aThHLVB1UXcyT0E?oc=5",
+   "id": "4cafc287d5",
+   "title": "Cote d'Ivoire takes third straight win in 2027 AFCON qualifiers",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2s2TmZKcFNZVUl4ZFIyQlREYm0xX05OdEF6QVZhZXhWbGRLOGJ2NEZYVXFKdkRITXJIX0NaVmNvdndyMlFyTTJWSGU1VG4yUmp3dkVjYVdwZk5yT0h6clphbDVQRlFZY1RxdkZrUDEtWmh4N2RJRU95eHpDa1RwbTlfa0RLNGtNZlN0R3JXd0N2aG5jaURyWlZpaDZHbGVIUHZ4b3l6ZTlkZ3JE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "Big News Network.com",
    "region": "GH",
-   "date": "2026-11-13T01:49:00+00:00",
+   "date": "2026-11-13T09:19:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7c783e547f",
+   "title": "Muntaka reiterates need to strengthen border security cooperation between Ghana and Côte d’Ivoire",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFFLeDB4SmxON1A4YjFxV3VodEg2aHBmOGNZcjJxTUw0UnQxU1JIVUd5R0o0RG9GczhlSHR1SGFqZ21ma2d1VUh2NUxVZHZRQ0pHRDlnUEdjdFp5SkV6dXVVNW5CRnlFQ01Uay1JN0c4YjZlX3FtN2RudS1TNkNSZkFPUXFaRm5WZ1RyS2NXZXN4XzIwc1VzckZfSmzSAZsBQVVfeXFMTmtDUnNPYkRIZk1XZ05IRmFJS0dpa0NhVGcxaktkZWtKbXpGbm9QdVhabHk1TldGQ19kaThqYXVZbEhzMEtKNXhOVE5hZ2xXLUlIU1RZMzhVY1NNUU9MMUJpRDVFQWlWbklYRTVhS3FoejVTODY0bXNuSnRHazUzQ0lMMG04dlBxVmUzUmlKR3E1VGNPVTBXYnZmbFk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Modern Ghana",
+   "region": "GH",
+   "date": "2026-11-13T01:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",

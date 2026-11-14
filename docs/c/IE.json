@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
+  {
+   "id": "67613a1181",
+   "title": "McIlroy wobbles as Hatton takes lead at Tour Championship",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmNTMjlFYy1LMDBLSmlNdnV5czh2aUR0a2RwLUxjNmlGN1o5ZHljMWNpTURYaU5mTFNPcDg1NnVxQjJadUlsTWpETFdmVkJldlh4RTB6WkJFTGJjcVFabXJQWWh2eVBGN0JjY0Fqdm1wUy1NSGllQ2c3MW51LUNuOEVXa1BsWTRjOG5aSDdta3phWEJ2V1VHT0JqNnd4X2UxSmoweVhESzBmZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T14:02:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "e219516b44",
    "title": "US proposed Donbas swap for NATO membership - Zelensky",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-14T13:16:26+00:00",
+   "date": "2026-11-14T13:34:29+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -24,14 +41,14 @@
    "topic": "Society"
   },
   {
-   "id": "67613a1181",
-   "title": "Rory McIlroy wobbles as Tyrrell Hatton takes lead at DP World Tour Championship",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmNTMjlFYy1LMDBLSmlNdnV5czh2aUR0a2RwLUxjNmlGN1o5ZHljMWNpTURYaU5mTFNPcDg1NnVxQjJadUlsTWpETFdmVkJldlh4RTB6WkJFTGJjcVFabXJQWWh2eVBGN0JjY0Fqdm1wUy1NSGllQ2c3MW51LUNuOEVXa1BsWTRjOG5aSDdta3phWEJ2V1VHT0JqNnd4X2UxSmoweVhESzBmZw?oc=5",
+   "id": "9bde4eb029",
+   "title": "Post-mortem due on body of man found in Phoenix Park",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82S1lId2pyeTZFWU9YZlJDOVdHNEdqRVc5YUEtQUowVDVXTnRUNnQ1VS1wQ2hJOGEyamNVdWVwYWJjeGphcGJRNFFOY2ZqNTNZZzVwVms5eVJVN1REVFZvNkpJMnBtZ1JrdHJVWUhqd1RsVmIwSGc?oc=5",
    "summary": "",
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-14T12:57:15+00:00",
+   "date": "2026-11-14T12:47:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -41,14 +58,14 @@
    "topic": "Society"
   },
   {
-   "id": "9bde4eb029",
-   "title": "Post-mortem due on body of man found in Phoenix Park",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82S1lId2pyeTZFWU9YZlJDOVdHNEdqRVc5YUEtQUowVDVXTnRUNnQ1VS1wQ2hJOGEyamNVdWVwYWJjeGphcGJRNFFOY2ZqNTNZZzVwVms5eVJVN1REVFZvNkpJMnBtZ1JrdHJVWUhqd1RsVmIwSGc?oc=5",
+   "id": "97baf8c515",
+   "title": "File goes to DPP as man arrested over €10.25m cocaine seizure released without charge",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR3ZCanFkRXV5b0tYYWZBNGVqQThTalJOcW9rYVE0NV9aQjM0bjRIUUd5UjRSX1RqbUltaFRteUNSTDdWTWlYZndKTU5Ic1lwbkh3OVc1bkJKdlQ2OG1pekxUZE9BbWdoN2t3eEd0M3VDMTBZVnRQWlZzcmM4QjVZZ0hCTVRScmlaYXlKblhvX1V5d1dMbkotbjNmUFIxYW5hSmszbGlqbVBDOFg4VkdfTnRxdmp3UGlGSkp3WnpycnI2M21za3NhelNvN1I?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTE.ie",
+   "source": "The Irish Times",
    "region": "IE",
-   "date": "2026-11-14T12:47:15+00:00",
+   "date": "2026-11-14T12:37:53+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -100,23 +117,6 @@
    "source": "Irish Independent",
    "region": "IE",
    "date": "2026-11-14T11:32:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d032cffc9e",
-   "title": "'Realistic replica gun' leads to early morning arrest on Cork coach",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzgtMzFXQlJBYlZxemJjYkZ0d1lNbVc4enEwMEVoSS1rSnNuaG8wTDlncnFjT3BRX3FaaVlqZmZCeTl5LW8xdVRkRlZfbWVyTENCRFZwZFl6eXhHSFJhSGFmckIxazdtbm1oSkpqMXpMcHNPSXNWQUZXN2xEUlR4eDZtTlg4VU9M0gGOAUFVX3lxTFBVTHBncGJ0V2ZYLV9KeDU2VHJhenk5SENnNXpFMDBKTVZKeUtGTnJ4bVpBcVBCSjlmTjR3T2UyZ0dPYkg3OWpEdkZqeWpmODlOaDh5UjdxMHhFLWtRM0ZtMUZlMkdmVmhKajRxOHppYlZMWTRKX2NwWjdyd3ZXbXphbElHMkhOc0E2RGs3LUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cork Beo",
-   "region": "IE",
-   "date": "2026-11-14T11:08:54+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -194,6 +194,23 @@
    "topic": "Society"
   },
   {
+   "id": "78bb4d03ed",
+   "title": "A record-breaking year to remember in the art market and auction business",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LS0xSXzNiODNOai1BNnhUUi1oOEs4eVhMT1RidFpCc0FpOWpKa3JCLThiSWQ5YUk1Q1had2NnUnhfNVFJNDVyOFdVOG5XVlgzdjVadHBxYUhkeUh6cEVlYnY4b01ZY2VCcUl2bko2Mk5NQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Examiner",
+   "region": "IE",
+   "date": "2026-11-14T09:20:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Business"
+  },
+  {
    "id": "bf2843d497",
    "title": "James Kelly, 215 Ros Suilighe, Oldtown, Letterkenny",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOU5GVEhKRGFrRGlrVHZVWWl6ay1mZlNib2I0THYxNnp3OEU2QW5pVEJVa3AyOHVieFRPNjBZN082NW5hRlZIZlNWWW5QNXhfTzMydkQtTW04M3hkRmhvc2hWY0tFdWh1cG1MQ1dKNW9Na2dlcVRFTlRraVpmOG8zNFN6UThLY1dmeWlzNzBOZ1RaNTZNbHc?oc=5",
@@ -202,23 +219,6 @@
    "source": "Highland Radio",
    "region": "IE",
    "date": "2026-11-14T09:10:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4d7cea449a",
-   "title": "Important collections propelling international art sales to new heights",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RazNwd1lZajB1M1pMZFZET01PYTFqUEtBbzZGVjl0QnpKNlhHZElUajBPdlp5a3dDYUZYX2RPeFVxejR0c19SeDZsYzNQTW5zakhFa2NNTVBpbEU1dVpCbmx0WU5JUHBnTXUySzgxQjYtZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Examiner",
-   "region": "IE",
-   "date": "2026-11-14T09:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -418,6 +418,23 @@
    "topic": "Society"
   },
   {
+   "id": "fe7993f3f8",
+   "title": "David Walliams being investigated by Met police over ‘serious’ sex offence claims",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUS00Tk1HY1NDMmd3WWxnSlM0S3ZHYXk4N1hoRkJsQVZwVGZtMUlvdkNBVFRLUGIzU2ZGd1J5aWpWSmwwMjZXNWVKUnROZnZRWVRNNjFCQ1ZQWGQ3THZOOFAzTmYxZzNZMkJibGcwdWdGVEhCT0E3MDduMGVBaDBXMm82bXY0b2tmcnNNQ2F1UTd6NVlCVXMyWDdsYTJWdWh3T1dfbDEzc3M3cUZHQXFLYzY2ZUFXMlNoclVvcWpneW1nSFdnd0xWQ3d1WkpjZUk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Independent",
+   "region": "IE",
+   "date": "2026-11-14T05:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "6ae1911474",
    "title": "More than half of NI voters back UK rejoining EU, poll finds",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Qem5SVzFPSmVISkZYUTM5eU9hYnMxc0xaSkhtT0huTjZQanQ4YlVRRURobWNlazRXSHRYTGJZWmNKZld0emhndl8tRWlvNGJqcnRmNzhSZmRHR3BHUnJTajVXNA?oc=5",
@@ -484,23 +501,6 @@
     "flag": "🇮🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "3f307ae9e9",
-   "title": "London police announce criminal investigation into David Walliams over alleged sexual misconduct",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2ZLb3hNUzFycy05cl9KblRWcnROeExXUFNrUFlHa3B3cHVldURaYXpDSkhLX1JGTXk1eFhEX2diaTFodGd4WFFIdlNRdDFBeTZKWjNOaFRiSXh4ckY3UllHT2lXbjlxbm1kNVFYVGpkMTZYR2sxSmo3bEFlYW1nQUd4Wlhsa1lXZzUzb3F0ZmF6Y3FPRG1uNWI5bUUzM01oSS1KMzF4UmpDS0ROOEhtSmNR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-13T18:25:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
   },
   {
    "id": "b099de4694",
@@ -579,23 +579,6 @@
    "source": "BBC",
    "region": "IE",
    "date": "2026-11-13T06:22:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a2590490c9",
-   "title": "Late Late Show lineup revealed as Patrick Kielty gets set to give surprise Toy Show news",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Z2dWZVR1NndlVWJsNm5tMVZYVENrcVA5eVZFZDdaUnhxMl95ajBGUXQzdDdpUVBBQ1JnWlBGdjJra3JQRE4tVzc3OTFZY2F4MWFqcGpfNkpNdkFOc3hpMkUyeWg0dHJiNDZqQ2dtbm5VZmVRdE5n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EVOKE",
-   "region": "IE",
-   "date": "2026-11-12T17:10:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",

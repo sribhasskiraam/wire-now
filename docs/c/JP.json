@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
@@ -55,6 +55,23 @@
    "topic": "Society"
   },
   {
+   "id": "9bc2275f04",
+   "title": "「お袖のリブとショート丈が完璧」ユニクロのリバーシブルダウンが11月19日まで10900円 「軽くてあたたかい」「白と黒2色買いしました」",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pZzFsVi1jTzFKVGNCUlc3UVRYelBINWZOdWZocjhYRUtYQWw5eldmdnpRbEhhR0xtaTZheFhUek92aFhxaGVESzFqQ3R4bVRB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "まいどなニュース",
+   "region": "JP",
+   "date": "2026-11-14T09:05:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a34c6af142",
    "title": "明日11月15日(日)の天気予報 低気圧や前線が通過 全国的に雨で激しく降る所も",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1taDdYZkV0MkZoVWhXQ0pnWDl2b2hTN0k5SWtUZjZGN3BsLWtEV3B1SjRDMEItLUhwcUZHLTBndzYxdWVVUE5XdU5heC13Nkl3ell6Ug?oc=5",
@@ -72,14 +89,31 @@
    "topic": "Society"
   },
   {
-   "id": "17e6b0853f",
-   "title": "フィギュアGP 山本草太がアメリカ大会で2位発進",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhQTVMcjE4SEFyOWRxV2NDdk90SkxDVDB1blJIb0xiNFpiamtpMkd6VDNMMnVvYVIyd0ZIb1U4X1pxbmYwN3lsaGx0TVA0dTZhSHBjUFVOcVRkM1RSaHF3?oc=5",
+   "id": "468350573e",
+   "title": "［新発田市長選挙2026］小柳肇市議が出馬取りやめ、体調不良を理由に 15日告示、2回連続無投票か",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PRnFsZU1uY2pTbUk1ZGVpT2gya3lRVGw2cmdRSE1UMDVfV2dIS0FHSmQ2dXlwbVBTR1M0N1pVellHSk8tX3hrdTJGay03SW5qeVNkZDhEQjdhMWRVYVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "NHKニュース",
+   "source": "新潟日報",
    "region": "JP",
-   "date": "2026-11-14T08:00:00+00:00",
+   "date": "2026-11-14T07:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0daefdb0ad",
+   "title": "【S耐FINAL大感謝祭】スバル、6速MT仕様の「WRX STI Sport R」公開 MT復活を求める声が寄せられ企画が実現",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RQlh4TDRTbXR6MDJzdUo0Y1lNUEZsNDV4Q3VDM2M1TWZnV09ud0Y4Z3d4UlJLVUdVTFo1X3M5UldyWnlBQ1o2d0VSWEZtQWxBU0FlM1dQdXNTQmVtM0R6aTJCemk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Car Watch",
+   "region": "JP",
+   "date": "2026-11-14T07:47:38+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -97,23 +131,6 @@
    "source": "オリコンニュース",
    "region": "JP",
    "date": "2026-11-14T07:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9a2a1cd210",
-   "title": "京阪HD 不正アクセスで最大22万人余のLINE情報流出か | NHKニュース | サイバー攻撃、企業・経営、ＡＩ・ネット・ＩＴ",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xcGdWaU96RHFsTExkUWlLUFdoR2k0RmVVSnY5V183YjIxVHNrZVk0RGNQT3BSdktOcXhzVEhua1F5MHc4Z2dSelhOMDl6WHFlcFlwcjh2Tlg3eUJsN0pn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NHKニュース",
-   "region": "JP",
-   "date": "2026-11-14T04:07:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

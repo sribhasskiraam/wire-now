@@ -1,8 +1,76 @@
 {
- "updated": "2026-11-14T13:36:21.692119+00:00",
+ "updated": "2026-11-14T14:26:01.823772+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
+  {
+   "id": "804517c65a",
+   "title": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GLXV6dVp1X1M2dUQtNHR5NUY5dHdWbnJpbHdKYnU3Q0prMnFKTmk2bTdlb19VOHRSdFVabG04TFpWMzJUYTFzb1ktYi1Id09nUWRHZUlSbmJnSWRlekxLMVZDU1Q5X083c0MyR0VhUnFoYVh30gF6QVVfeXFMTXRRZ2p5eXRCZDRNcUh1MEIxNEo0QzZvS3pMaG03ZWxvVV83LTk1bGZBRHFhbnBCdlYta2dNTXkzRk5kQ0loVmczeXJsWGNla3BWb3VNS1p2UVdmLW5sSzAtODN1S291dGRnVVN5RDdXRmNKMC1vMHQtT3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNBC",
+   "region": "IL",
+   "date": "2026-11-14T14:00:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "88891d87bc",
+   "title": "Buying property in Israel made easier: where AI meets human expertise",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wbjZlN2hoaXBKaVlQRUV2enVrdmNaWjU2LVVhNDA5T1RUOHdkM2FSUGFnTXJQSGxmMUgyLXJYWUEwMC1JV1Zrdk1Ld295bVhCejJOUi1BNTNoR0lKY3VCdGlVWFdPdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ynetnews",
+   "region": "IL",
+   "date": "2026-11-14T13:52:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "160632997f",
+   "title": "Medics: Woman killed, 3 wounded after grenade thrown at store in northern Israel",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQm5mcFAzUHpTeC1EcWY2cGpHM0Z4Z0FGV2h5U1Vkd28wOVozVWdGdkZJUWVPWWQ2Qy1uUi14QnZwWGF0RzBzWG44VldOU1BzQXZzVld0OFpmNjlDNFZPMy1mRktlbUxNdGphNW02ajQzcUpFRmNTcXpFeEtGbnBkX0MtSGYtYzVlcUtfaFNZR2MteTA3Y2JDcTJZODBjOU5mTmlTLVg5bW16MmpQZEJ1SENJQ3pIbVlnQ0hUd3RCTHVmVWNfQWNLQ2dERGZJVEJieTVCc1NHQWxCLVZrSmgzZGo3RUxIRk5FbjEwc0R6emtQVldHMGxjYTdDODUwMFhhSGh3RldXY1M2Mlg4WkpaRWpmcm9nbTVFWDNEelh0Y2w?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Haaretz",
+   "region": "IL",
+   "date": "2026-11-14T13:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f09e7443ae",
+   "title": "Nvidia’s Stock Drop Made a Tempting Case to ‘Buy the Dip’",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFVUNmtCX1hPb0tkTHFhc2k0RXE1eW5qV0Zoc2k4X0RueXpHdHBzaEVqUGt2LWI3UWF5bGFUQlBpSWwyMFA2MlhiblJldmVvUXExYWloUFVQZmVXQTg2ak0zel9fbGxxU2lwNkxhWVBxUDBPWFZhVVdZN3BaRldZcWJ1Q3l1OVJOR3VHMUtkQ1Q3MHhUTWNDQXk2akJlX0wySTFpOUJxX1NhTWc3Qnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg",
+   "region": "IL",
+   "date": "2026-11-14T13:01:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Tech"
+  },
   {
    "id": "aeeaee8950",
    "title": "First Eurovision Asia about to begin as world's biggest song contest heads to Bangkok",
@@ -38,14 +106,14 @@
    "topic": "Society"
   },
   {
-   "id": "3cdba4e4f3",
-   "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZM191UEhYNFZBQmxRQVd3dV9yMWNlYjdMSkIyNktXOU5idU05SWlzRGQyVUJDSTJWZjc0Xy1MZlpERklDMlVnaUlab2RwMHRZNGJJdENDQjVBNjk4aWJpcEhzWDZBYkRCYm95c0tzbw?oc=5",
+   "id": "f1c50fb354",
+   "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNThCQUZMWVRCWGFfbm1uNVJudnNBSDRYUnVFZW9kVDZpX0g5Q05qWDFGV1ZQMTNEOEd1UEd0Z0dBYzZjRGdsQVFQUHE1b1dqcngzdF9iZWtpWlhaTGh0dldFSVVlZHpuSUp1ZVUzbklaN0tiWUpaSFluLTJBV0ZaaQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Science Daily",
+   "source": "WIRED",
    "region": "IL",
-   "date": "2026-11-14T11:44:21+00:00",
+   "date": "2026-11-14T11:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -55,14 +123,31 @@
    "topic": "Society"
   },
   {
-   "id": "f1c50fb354",
-   "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNThCQUZMWVRCWGFfbm1uNVJudnNBSDRYUnVFZW9kVDZpX0g5Q05qWDFGV1ZQMTNEOEd1UEd0Z0dBYzZjRGdsQVFQUHE1b1dqcngzdF9iZWtpWlhaTGh0dldFSVVlZHpuSUp1ZVUzbklaN0tiWUpaSFluLTJBV0ZaaQ?oc=5",
+   "id": "c5bd75e789",
+   "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "WIRED",
+   "source": "Space",
    "region": "IL",
-   "date": "2026-11-14T11:30:00+00:00",
+   "date": "2026-11-14T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "856093cf90",
+   "title": "Israeli study finds why humans suffer from joint pain while apes stay agile",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aSkpKZ25zSGtUWHQwck9rRVJDQVFvRm5FVGJ1M1hDNDh2OXMxMlZqV2pXQ0lQOWZPMDVsaDctdUxuWUo4NTJDQ3d0bUNjTExORC02TVNXMDdOUmhYQ2R0Y29GRGlXdnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Jerusalem Post",
+   "region": "IL",
+   "date": "2026-11-14T10:48:58+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -89,57 +174,6 @@
    "topic": "Society"
   },
   {
-   "id": "0176545ea1",
-   "title": "Passengers face widespread disruption after US air traffic control outage",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFVJZ0I4S1JKS1BCVkJaYV9XbjlFN2c3S1p5MkFXbmJSSklyMDVhS1liMllBdndNNnlxVDdzTThyajlaMkhBZjVNYXlpeS0zUXE1Ulc0T2lhcE5KeWxvMFlFaUl5aUw4eGlTTzk3X1F4eXo3RGpHU09SU3F0SEFOdU4yc00?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "IL",
-   "date": "2026-11-14T10:19:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "734d0b039c",
-   "title": "Early Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96eTdrdUxyVkNEUGJ2SDdtcENIYmczZVo1THlSQ2RMVGFNNjBoM2l1VnNEa3NueDVaZ3ZPZFhCQ2xXWmpva0FaSGV6eGRyTnVWMDR1UVFoXzN5bGlEb3RkeHpfY3VVQnh1RGpWU2p4TDJaMk52SGlHZXlWcVJ4Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "IL",
-   "date": "2026-11-14T10:10:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e00b264a1f",
-   "title": "T-Mobile is giving away the iPhone 18 Pro for free — how to claim this weekend",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81R3QxQk9UOTNiaklaRGY4QzIzZHJJVTd6YzduMWxPRTQya2ZMVEF1R3oyc296LXFMYmNuSHpmMjdXcGhVMS1jWWZycy10VFVLOUp6bndsaVpFc2NPcW41QWF2cFppZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "IL",
-   "date": "2026-11-14T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "b8f191b1ba",
    "title": "Elina Svitolina still has a ‘great relationship’ with Gael Monfils and they spoke before WTA Finals",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdU5sMDdSLW5KaTh6N0JfSU1uTHRHUmxSd0RqazhMT05fT2FaTUlpSDRuVDJMd1l6UmZndVdzZkNISWM5Mk9jQ3FMenNIbzBLVGRqeThVQmMtUmd4STlhWENFZjRmWnphUlJZazd0UE5YejhfRVZxdmVZcldxM3FlOG5vN1lJWXo4d2FWamJiSURMaW8?oc=5",
@@ -157,9 +191,9 @@
    "topic": "Society"
   },
   {
-   "id": "0bee7c7de8",
+   "id": "a8640d2785",
    "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlg5VkVtWnBvVVBmY2IxcGd1akVUa1gwOFRlVnRsRmFMSjY2NHM5ZWktSzZRSGtHejlSakhfOHN5eUswWjBWN0NuLXBCX2pZM1FkSWFaM3p5TjJKdkNONEx1bXpXODJMSThIaHpkRUxxNFgtTll6T3NPWFlqQjlQTERiQWVJTWxOcGpRMzdRVkVnMmdpSTlvYmdiWG9PTTE5S0VrYjAzRzVGZnE2dXY3aXVn0gG3AUFVX3lxTE1fYTM3bDcxd005emwzUkFnT0pTZGFOaHBJV0pocUVSRWJ2WFZRdUhEd2ZhcDBkTEFmamlueXJfLXJhQVFuLVFFQzd2T3NzSmM1blBRZUtWQmo1WXRWc2w0RW5jZE0zMmNXaTdCNWxIYW9XNFBBY0hCVkVLQ2g4eFVxSWN5aGtpUXZfWFFjUUlucWZVenRLdXNVbUJfc0taZmw2T19SWkFsSUh3OGdKN3JoWHh3aU5PSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlg5VkVtWnBvVVBmY2IxcGd1akVUa1gwOFRlVnRsRmFMSjY2NHM5ZWktSzZRSGtHejlSakhfOHN5eUswWjBWN0NuLXBCX2pZM1FkSWFaM3p5TjJKdkNONEx1bXpXODJMSThIaHpkRUxxNFgtTll6T3NPWFlqQjlQTERiQWVJTWxOcGpRMzdRVkVnMmdpSTlvYmdiWG9PTTE5S0VrYjAzRzVGZnE2dXY3aXVn?oc=5",
    "summary": "",
    "image": "",
    "source": "Al Jazeera",
@@ -206,26 +240,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "985bf8afd0",
-   "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeExBSWlaRFkzRS0yMjFMNlJNMzdiUHdlSnZDNWVnbFVUdERETHJLM1RCZWFDUjVhNVFqNlpfdm4xbUhYY2hqUjJfRGt1eGY2cnFlTkp2dWVfdnY4MGJZanozRUN4aWZ6bmNzT0dxQ0daVEhOb1JYQWljYnVZZFpqZS1lVU5zSkRLVjBYMUFpazdEdFpkLUt1Qlp5VkFlWnhpZndtUmlUWGVrUdIBrwFBVV95cUxNOU1VbWJKQmp1Q3JOY0YwcF9WT1lTZGtqRWdvUk1LdHJfY3JiVkRrdlFZbERmVHExZ2NCdGRReU1OdE5qQjZJeGZnX21SeTN5UXNhZXZDa1EzM1RldEJMR3VWNlZkYjlqbVdiVzRlOGQ2MjZjd1VyNUNuN1RodTJQWEFxQmt0SHNKZ1VLVHdqRUtpRWdFQ1R6ZWFlR3hNMFBoRDZLSUU0c0lENW9JWE9B?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "IL",
-   "date": "2026-11-14T08:14:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷 🇮🇱",
-    "also": [
-     "Israel"
-    ]
-   },
-   "topic": "Politics"
   },
   {
    "id": "7be9c7c3ce",
@@ -296,19 +310,19 @@
    "topic": "Society"
   },
   {
-   "id": "8afa9d95cf",
-   "title": "‘I used to hide my insulin injections on dates. Now I do it proudly’",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPSl9QNGEyNG51cl9reHNiLUVXNEJkdE1LU000VnpFX05ESGZRXzRmeHRZbG1LSzRKY2NZeXhGWmtoaG5uc2Z1UW1kdFVTU2NBcmVtVDdQTlpaam1SMWVNOW80bzBET0tmLWxj?oc=5",
+   "id": "aca14360d7",
+   "title": "Airport chaos continues after US ground stop lifted – as it happened",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2YxQXU0MXgwbEExN210S0ZoVGJMY3NxYzE1MERWVGU5ODhKRUhYdXRVM2NWdVdWNWtqTWhyNUhkZnVSY0ZIeTFGM3lDSVc0am4wSkwtTEFBRWhwS2NpQkJwZmZRQXcxOWFzNUJwRmRWXzFHc2gzZWhsTXpqYk9hLVJLcWphYktyN3hWcXk5NGtpU3dWR2FZbEpMNjM5VW81ay1IVW9rbk1SenlobHlEaDlWS1A3bzBYaFVXT05MWHNRMlUzM2VRazA1VXduVXVpdm5vd0EwSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ynetnews",
+   "source": "The Guardian",
    "region": "IL",
-   "date": "2026-11-14T02:48:37+00:00",
+   "date": "2026-11-14T03:08:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Israel",
+    "country": "United States",
     "place": "",
-    "flag": "🇮🇱"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -330,91 +344,40 @@
    "topic": "Society"
   },
   {
-   "id": "4d187858ec",
-   "title": "Gold Plunges 4.78% in a Week, Biggest Drop Since June, as Fed Rate-Hike Bets Weigh on Precious Metals",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUkNjYUs2SUNzSEFKQ0gxbno3S2I0NmV4S0RfWDB0UEdYSjA5a3U2VmQ5bXFXdGtLV1FXWUFwVmZXekM4OEwxeVR1Vy16RjA1cVpRbEM2VVdwTEpFVmhwTC1jRFhmcXNLd1gwc0tLYmFvYUZJREE?oc=5",
+   "id": "e21933604d",
+   "title": "The US Dollar Firmed Ahead Of Data And Fed Speakers",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWE4Mk13Q1RHYzFnLWtmVnQtSzVRTldBbDV2NXNBZWxRQnpQQTQ3TGVVdDItVGtpYzNSVzFzdGpmRkE0d1ViZHhJeGNLX3lvZjBOVDdhYzVOTmNwUW81Mmo0RGRhMnpCdzFaTzRpZl95OFVlNUJTUlB6bHE0WFZmQVduX1psems?oc=5",
    "summary": "",
    "image": "",
-   "source": "BigGo Finance",
+   "source": "Finimize",
    "region": "IL",
-   "date": "2026-11-13T23:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "202e7cf190",
-   "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG5hUEtNekVUelhnUVFLRmVVZC10UC1fbmNIWjJ2a3R3UFY4V09EbWRVQ0ZNWkNBTGtTSXJxOWw0dEJrd09SRHp6LTB6REVLeDNpVGx4eWRtd1hlclREVV96VjNnbHYtX19kbXh3M3FDZm1sd3JmM25lY0g2THJNdXZya3RBZXJCVmJmUU56UUdhWDFRRGRBQXpnX1NRYkFYQTZwYjRQVkZSYTlaRkNIVGt1TWpJQdIBuwFBVV95cUxNNHNCUjZHRVhKRFJsZ3o0U0V1bWtlTkp3SHBzWU42N2xfcEd2LVRHWUxNUDhJYXluVklMTkdFQjJ6bndDS09kUHBOVmR2TGJaV3lIc2l6c29lVkFIekNCeGNJc2hhYTVOMDJTb2FqeDg0X2RrdHVMMjBOODhnU0RGVkx5eUxLdFlHVmVhaXlkYWRodDhOVnBoVzBteTNaQ2ZXU0FVZVNiUHBRSVU3RDc1WVdTOEN6VXY2NjV3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of Israel",
-   "region": "IL",
-   "date": "2026-11-13T23:03:37+00:00",
+   "date": "2026-11-13T22:03:09+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸 🇮🇷 🇶🇦",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c0b95d8e31",
+   "title": "Report: Mossad chief in US for talks on Iran; Netanyahu didn’t update Eisenkot on visit",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaV9VSkxSWUVFcEUzdC1zV19zSjZtUWRWSmdEVlN0QzBCZV81TWpmN2plUkNHbEF5VHpGcnRTOG9DMGxwbGlYaWQ4am8zVnFURzRxdkdaeTQ5d241eldNdDBzbkVYTTlmMHZlYU9RYTBfUlZRZkVudGhkb2lDUllRTW5TcEZoM3J6SU53ZWtiQ21SZjBCVjJCcXVwX1NxNlVYNm1tU1lyWWxRQWcwTVh0MU1IajdLZ9IBuwFBVV95cUxQdC1DSVBuZllWd1FuNFNpTk1TQjcyNXV5cUt3S1BmMlNMRkRDNFBrdDFRYmhDelVqNmIybUw4MkFaQUpRMVBYSGY4bnRDYTVmdXdzQ2xCQWRfdzZCTmJ6LUlwYjhLbVUzRDg5RTRVM3FRZmZEc1diVUFNWTJWVER3ZW1hdy1WOEpUNzR0TGJkdTl0OHpobVllamxidzdKZlBhQnJZeVNfZnhSNlp5T0RRazRkRHFsT2xPUHJR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of Israel",
+   "region": "IL",
+   "date": "2026-11-13T21:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇷 🇮🇱",
     "also": [
      "Iran",
-     "Qatar"
+     "Israel"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c9a715a8d0",
-   "title": "Physicists Find a Mathematical Limit to Making Time Run Backward",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUluT3hRcDViam5qSzVrWmpCZGdxOGR1c2lkSU9qV2RENkZkV09ZYzVGUmg1WkxsWDg2MkwxNGVHZWpUZUprREc1ZldMVmhfa2RaWldicE9xS3MyYUczWFpneHRWTzNWOEc0dUN5VHJuMUxjVGQyWjFNbm9vaDBhb1NGcmlrOU1ZTlNxWlkxbUNBZmFhOFZqMg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScienceAlert",
-   "region": "IL",
-   "date": "2026-11-13T23:03:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "32c8b3c352",
-   "title": "AI Stocks Close Lower Friday As Markets Absorb Jensen Huang’s Exit From Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODBOSU5fTm9LbHJwSGxFSkZoUHRlX0VGT2JHa1FyNnNoek5zOFJqTS1QZUJkNy1FWXd5NEtsLVBPT1JoZnJJbndwdVlXOWdOWHQ2eEtGRFZ6T0Zvc3BCbWJzdDI2a1BOLVF5M19xcWRZSnFybjJwREZTNi0xUU91WV8xMFdjT1RmYjJ0aWE2aGNSS1Z4SjRsNEJGbkY0Wlh0UmRRVV9fdHBoMGN2NkVLYkZPZ0xzR1p2VFBSRGtjcUI3UDg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Forbes",
-   "region": "IL",
-   "date": "2026-11-13T21:36:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "8a5a227468",
-   "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg",
-   "region": "IL",
-   "date": "2026-11-13T21:32:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
    },
    "topic": "Society"
   },
@@ -434,6 +397,23 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "c7fdc0a816",
+   "title": "Somerville city council votes to divest from Israel",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEZaLS04OVhZMnNDcGcwaUdnYnQwSER3ZmNTQWRXdjZuWkoteTZtYzFvWko4bFdjR2EweXVtUnRhNXdaN2JmZ3cycjJOWHM1d2t6TFdXdy1heWhKMmlfLXlZVDVPZ2wzNjEwM2FFVm5zTmk0Y0o1X095U3JRMHhuekI2RmlOcW9YeVNqRzg0VUtIUG56N3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Jewish Telegraphic Agency",
+   "region": "IL",
+   "date": "2026-11-13T21:28:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
   },
   {
    "id": "b5432f9254",
@@ -542,31 +522,31 @@
    "topic": "Weather"
   },
   {
-   "id": "c3c3b2994f",
-   "title": "Nvidia CEO Huang quits after affair with suspected China spy",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTWF1OGhaWjdWc05seWN3SmVZQ2htR1ZVVHpMWXllcTNKa3dIQXNMS202SFBNa29aR0k3ZXFBd2hOWVFINDduNXNKc2g5eERJZTVpM2ZHRnpCdXMtOTF3aXRGQ3JCUTM4ZUVfd2p2VE5UZU15cS1BUTVkNEtDUE1kRVB5ODc1YXl0c3dSLVV6cl9pbmljbnphNGhOeV9nNzJueVFGc0owOVJsMUdEVzcxTVAwbFZWLWV0b2IwdENqTjFzd3dGRjZ5c3B0cVJFcXpjTGUwQXlQR2pLMGVOZlhwM1VkUDhHb0xZb3c?oc=5",
+   "id": "da243b6764",
+   "title": "Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlZTSkwyZnFHLVh6YnI4azZ1OW5uZlpVUkxzTmF6S3Q1dnNtWDQ5dHYyRGpHRzhvcGJDWlVwMl93ZzkwUlc5TVhteW92SDFwX3NFSWY1OVc0RzljY2tILU1JTHRKcUYwWFkzbUFBRHVmSW44cVZBemdHSHphbjhkYmxVNUtwcVZXWHZZV3M4dk9UQ0dQNG1sZjNXNkpVUW1fN1JYMUlzMm9KTk5lOGtqTGstVFQ5QdIBuwFBVV95cUxNQjhqWGd6ekhPUnVPcXg2WnpUY1JxUjhCTUF2SmFSeE5abGcwdFZXVmlDRGhyX1ZlWTFSV2RVNUFTOEIzZmU0aF9VZEIwTzJQRUk3bkZiRFJyM192RU1SSzhwRm5UTGJ1ZllBWnNhV2lrVE41TDVCdlVrQlRCaGhXZWE4NWRJMnh4MlNIWkVaa1lqX1Ztc1BabFJTMDVKYmxMRnVja0VGU1c5QVRsZUthcFNDSUpmUlNxYThN?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Jakarta Post",
+   "source": "Security Affairs",
    "region": "IL",
-   "date": "2026-11-13T00:23:40+00:00",
+   "date": "2026-11-13T12:00:19+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "Israel",
     "place": "",
-    "flag": "🇨🇳"
+    "flag": "🇮🇱"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "cee8585461",
-   "title": "September 2026 Interview: Nvidia CTO Michael Kagan on what Israel must do to win the AI race",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTJ0emRJTGZYR2ZLbFdIcGk1NDVhbmNXZEhZR0ljS3Znb0IzV0VYZ3hUZFdiN1RIc2NfU0FnZEZmVjVDQ3NGMnZXUlVfQW5wOUZQWUFPYlN3bjNxTmROTUtVVEtiYzA2bnc3cWdSM0draHFicGdQeU4zdFVkZkctWDRpcy11S2xGY2RLdHg0TllhTy14UzdjeWJLT29qLWgyMUR2TzZPN0dkbHRjbzMtTVYzc1ZTQjN4MVp6WkJ2YkprTEtWSFc1UV84Yw?oc=5",
+   "id": "4bcefa03eb",
+   "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3JDazJKNVBsNG1hUnFjVVA3T1dZd194cm5vWGllbExxckg1ZFRwcmZMdzRydkZJaDVvTFNZSDV2SGMzSHZkY0xuanJOQ0pxNWJYVTQ0QlhlZUk4X21ZWnNEalpsUHlZUDhfSi10MGdlWnNLUHNRTmU5MzZfamQ5MjRwSndENGNNWDZjVldiVEEtVEE2U3FXa29zQlcyN3Y3N1lvNWs0YWlzV1FIampmd3VBVkE2NUk2MDhSaXFHSWpUckQyWnFqSEgwWDg5ZFBkWlBoVlhR?oc=5",
    "summary": "",
    "image": "",
-   "source": "www.israelhayom.com",
+   "source": "Live Science",
    "region": "IL",
-   "date": "2026-11-12T20:29:52+00:00",
+   "date": "2026-11-13T10:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -574,6 +554,23 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "b71ded0071",
+   "title": "Experimental blood test detects early breast cancer and predicts recurrence",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaTRBWml2SjJuVGtSb1lnblRjRjBIWXBpYlV4RFk0amNyZU5JVFM1M2p0YkJ3Zk1Lajl0Q3BmNGI2MTZUUFdQRUI1SGZZNy1vVWFndm1hNXZkUTd0QkphRm53Sjh1RDZ4UlZuYmJKTTdSME9NSXYxUzEyVG5aU1hsSElBSV91V3VWMWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Medical Xpress",
+   "region": "IL",
+   "date": "2026-11-13T00:00:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
   },
   {
    "id": "ac63084371",

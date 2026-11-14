@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
-  {
-   "id": "30fbc313db",
-   "title": "US air travel ground stop lifted, flights set to resume",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZZzN5RDA1ZUJKLWw5SkV6RHkybURmTEduTXA0MEpZQW1xY2ZhbXJMbmI0ZkpSYlc3TFgxNjlDRXpCamJ3dkQ3aDBvT2lNZzJyVHVZMXI5OWkwNnBYQ05RdUpVRzF3QTdFSDhyV3VR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-14T04:18:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
   {
    "id": "3b9a10e24b",
    "title": "'OMG look at that': Scurvy and pellagra warning over Ozempic-type drugs",
@@ -38,19 +21,53 @@
    "topic": "Society"
   },
   {
-   "id": "a2c0e36f03",
-   "title": "All US flights grounded by authorities for ‘reasons of safety’",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlNsNDVoNVAtVXRQamxMY1dBOVpvZXZLQ21YNkQtZnE2NUpVR25KS0xIc0JiYXF0d2ZFTnl3MVBXdzlrajUtRVg1dXNTb3ZjRXkwbkJjMDMyXzF6VWMtVk5ZNm1fWlp0ZUZqa3RIRERiX1FFRjVZd3RKdGNjdkZXSURkUjA0aUZLOHhTOUxYSmZkd1gyNDRuQl9XTWZpeWpFbG1KaWJfV1J2MkE?oc=5",
+   "id": "3ac6ade874",
+   "title": "Tánaiste seeks views on Irish unity from party leaders",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUxENlI5ekQ3b2U0U2FrdjVJOUF4ekVlOVJ5MmF0NGNWaGY1S0FfcW8ybmFtYUVDOEhYc01TUGZnblczOEJkYmp0UHRjeXp6QWFkWkE4YnlZQV9zYTVKN1kwdXYweUI0UWdhWVVPcXNEUm1fYmRjRmZ3UjJLTW9GWWFlZy1NSnZSdHJuNl9MOUE0RUZ1OHlzUDdScFVxS01HdzJqWE1VbG8?oc=5",
    "summary": "",
    "image": "",
-   "source": "BreakingNews.ie",
+   "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-14T01:07:40+00:00",
+   "date": "2026-11-14T00:57:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "f627ef0647",
+   "title": "All US flights grounded by authorities for ‘reasons of safety’",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHN3YVRNR0V5QjBxcXpVaG12TDFxT0JLQUh1Vlk2cFVrXzJLNEVlQ0RQdHZ5R1pEUzVwX25pU3lBckFCaV9IUUE2azk3ejV4MEphU1ZVSGg5TmJPT0VoZ0RlRi1wYkhUU1E2UkRsay1pVTFMVW9VZy1CLVNzVGt2RnBUNEJkQlRaSVdWU2Vhbm1BYkJYYm85NWtpSV9sclNhOXJTeF9iWk5Nem5n?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-14T00:35:18+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1c59fb14ba",
+   "title": "'Crude but viable' device made safe in Dublin",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGUXM2RS1HYXpiUlcxUHZOcFBuZDV4SHpteC1vbVRxLUxQaldsWmFtMkFnb0c1c2FYZVZXOUdwdWNaYldEODB6OFRFWXMtU2k3bldnRnZGWjNRX0RHNHgyNWVIeDJFZlljd3lWa1hBNkNkZnZZNmhsSm9LOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T00:12:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
    },
    "topic": "Society"
   },
@@ -109,36 +126,19 @@
    "topic": "Society"
   },
   {
-   "id": "22b284d4f2",
-   "title": "Explosive device found at Dublin’s Merrion Square made safe after major security operation",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjc0V2IzclBCVjgwWDBLUWVLcW9xU3VhWGk1a1VtUkxRVlF2bVZ5WGZhNnh1S3pIR0pWUVVMZ3piRVNFcXhkTFNCSnNLUGVDa29PUzBZdTMwOEM3ZGUyVnMwalRxeEVMbmRQVEJSWnlGWnZHOWQ4dlgwSG9lcUpvYmRYY200U3I4U2JhQWM5SzlZNVhNRC03bHNTT1B5V2d6TGs0MHZMQ3BHNG1NTnlJZmVEeGg3UUpqWllwZkRKZ3JGQ0NiN1dB?oc=5",
+   "id": "f5dd60294c",
+   "title": "All flights grounded at US airports due to ‘extraordinary circumstances’",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFBjQXJ1M2s4RGZFdXdYVTF1ZnZhb3ZTVTZTZk1Ibk5uVmpCd2c3SWtWMFhvUFdNbGEzODhhYUxNcG1oMGRCb0RJYnJkZzV2Rkg3SmVfUkhYbVZ5TGxKdVRLYm04c3dVZ25LdkpTdGZfT05GcGtTYW80LTUyS2lVWTlyZFBaWmlhSjZiQ19GSThFZ01VS2FjeUpkb0tGenZSZmp6Q3oyX2xjWkgtSW5nb01FcE9jXzhn?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Times",
+   "source": "BreakingNews.ie",
    "region": "IE",
-   "date": "2026-11-13T21:40:47+00:00",
+   "date": "2026-11-13T21:53:30+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ireland",
+    "country": "United States",
     "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3f9c05dc8b",
-   "title": "Europe selects negotiating team for Ukraine talks",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BZ2FFSjZnSVNvQnN0cHJlS3ptaGh1eHprMFpmc2puNm8xUkx0WTBHRzdES0lwamFiYUlFMEstRWcxTU51OHVWSC1QV0JSQWZXTjVRZTJrVi1oQzVBaXlxSXlaczhpT1lyRDZjNl84dmhYNS1Ld0NJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-13T21:11:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -180,14 +180,14 @@
    "topic": "Society"
   },
   {
-   "id": "1a4be67210",
-   "title": "Homelessness: Record 18,065 people in emergency accommodation in September",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVA2TTd4RUk1SmtVQXNOdTFRNFo3MWROaG9obzRMOElwajU0Y1JlUURHRmVBdU5vVmtnaFFCaXhIZHAwcHNZYl9ZLWR3cmw5Z0t2Y3UtUElCOGZCbzZQWFFrSDN1cVlndi1QV214eDF2Zl9GY2d2T1JJUjNuM3lBWS1zRkNxcWQ4XzFNNUhTT2xxRXJxZC1WRDgxSF85bTUtMWc?oc=5",
+   "id": "a57c6cc81a",
+   "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjdnYmtseDIzOVFxVzBGRzFVVUFKZmpNUEtwUHFQR1N4MTBLY29aX0dWd196OVo4eW1iTWQtSGp0b3U1dElMR0dPcDNVVEdyOUhTRFVXMWY4SUlhX1FyaDl3Mk1FcEtURUtTN3dnYVZXWmlaVHREbjdiSUZYSDNHeEpaRVNjLVBUQlE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Journal",
+   "source": "The Guardian",
    "region": "IE",
-   "date": "2026-11-13T19:49:00+00:00",
+   "date": "2026-11-13T18:38:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -231,23 +231,6 @@
    "topic": "Politics"
   },
   {
-   "id": "71b596a501",
-   "title": "Tearful Mauricio Pochettino admits Manchester United job too big to turn down",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjBsZjN2R05kUGF3emFGTmxncEdlWWU3OG92WGtad0VGRmVZVmZ3RVo1bzhPaVRUWl8xX3BRUU5YU2RFQ0FIWXVMdGRZOUVTVE5DdTVEakxxeHVGcHFqdkQ3VzhyYXQ0M0NRNVprczY0VmRqc0FzQ1Q5LTd0MkhWTFpNejBDNmFIem9BcE9oRDV3Nl9JbTQ3OG5IQUxEcVNYUllnOHZJZ3oyWjV2N0NJQXhZWXRGWmcxQ3ZzV0FkU3BRU2tORkxvdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-13T18:10:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ac486fc908",
    "title": "Three arrested over Fermanagh car theft and burglaries",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1VKZzhRb3k1VTdUX3MyMHpsMzUzSmpLZzM4X09rNjg4REMtVzhrN2ZGTFRSb082QkVNb3FoZTF5dHlwb1VzVlFHWVR6ZnVQUkp5Unh1a1BaS0FQS1JjS2xBdmdXU2tEX1k0TUl4b3VWNHRKZ09JRm1tbnRDN2lHakdnVHlCeFNHaXpQcjJNMW5VRll0VHc?oc=5",
@@ -256,23 +239,6 @@
    "source": "The Fermanagh Herald",
    "region": "IE",
    "date": "2026-11-13T18:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1b4ca519f0",
-   "title": "Gardaí investigating ‘unexplained’ death in Phoenix Park call for couple to come forward",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1VFdzJuVnFVM1I4ZW9NeXl5bXhnUEdYZ0F5aDEydDA0d2VYRy1USXRrdjc1enR5Wm9ucTZNS2FCNFhoNllRQ2xjWklOTUF6OG83eG0tLXE1RFpyNUNKOTZtYUJGNkdtZTlTRmphQzdLLW1oZDFqQzRHakk3aUF0RXE5bDVhWXFheG5ZOEZQMlcydHpPTWt3T1AzTWE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BreakingNews.ie",
-   "region": "IE",
-   "date": "2026-11-13T17:29:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -435,14 +401,48 @@
    "topic": "Tech"
   },
   {
-   "id": "cc3b93b085",
-   "title": "Jackie Finan, Carny, County Sligo",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iVTB3VkJZS09xemZrMnl2bGg4RWdWbFVEZkpEdEFqZGQtbXh4U3VMSVZzczFPNjFzUHBaNmF5NWhJdkhScWdhTFEyV093RjVqVmZKOEJ0QzBmR3VscUFudjhrdFRTWVZBbXRJMEFJbkpVWklxbjV5UVZMX21CZw?oc=5",
+   "id": "59ff032c43",
+   "title": "Man found dead with suspected stab wounds in Dublin’s Phoenix Park",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDaDloanN6V182ZTlaSnBVLWJGMEUyWHc0MFpyQ19mM0JCelFKa3BDOVlWaVg5NkJjWlFsNnJWakxkMXJUTzMyYVV0R2dRVlVWNnJPeS1pNmFVMzFVUWZ4SFFZUnkxMjRTa0tMNzYteTVCQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ocean FM",
+   "source": "The Journal",
    "region": "IE",
-   "date": "2026-11-13T14:04:00+00:00",
+   "date": "2026-11-13T12:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "181f1206e3",
+   "title": "Microsoft says services gradually being restored as outage causes widespread disruption in Ireland and globally",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTXFGUG1PdWFrejh4ZmM5TE81MkwxZDJCM0xxYzdqS0Y4bGNpcmFtbEltU2tRQm80cjZRT1VwUEJ0T3c1RkZyRlZSNzZ0N2Qtcm9seVFHSVJPUW1ObnhoODVqOHFEQjBJbzJwb0VFRGZXcS1ZZ25IUlg5RkI4a1ZkdnU4WWxFX0FybVZKaHZIVm1HSlg3cG96MUFIa1FaMlc5Z2xnejlnRDNsVjlQUERPVU42U3BjX0EyRy03MjZ5RTdMNU45OHR1N1JMN2h1cTNxNGNSTGE3ekN0U0taWjF2VVk5ZU1YeExrOFhVaGRQT0N4TTdTcHAwYjJn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Independent",
+   "region": "IE",
+   "date": "2026-11-13T12:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "357c7131bd",
+   "title": "Mauricio Pochettino confirmed as new Manchester United manager",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFYtc1NyeG5mdXFoMmFBNS1jRTRzUnpDVjVkbU92NUlDb29JcHplWVhEYXJXaG8xa0RmUktGSDRYLU42N1RORU1oWU9lbS1JTEdOUzlHc19fLVBObGNkWFlKb1ZudmE5RURGV1RIYzlkQWVad3ZRM1BBdG1DX0ZPa2RLcElFM3RwYUpJQUJLNGU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The 42",
+   "region": "IE",
+   "date": "2026-11-13T12:07:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -486,21 +486,24 @@
    "topic": "Tech"
   },
   {
-   "id": "ee44d07c6a",
-   "title": "Euronext asks listed firms to phone after Outlook outage",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZWlYU281UkNMZ3piTVgtSWJNSHczZU5pNU0yaEtLMk9ZSlpKMHBvVXdHMzVoVjVJRFF1UnlUTEtnTDA1UWdWcDN2eXJNVjhtN2c5VHNTdnF3UWVXUGxkSDRKVXhHRXV3Q3drTlBycXNhQmRvSXZBdDh0SFBQbTdKYlhSa0g4SWtfcFoydWlhY0RhSldrdmVHQkIybDREa2JweFRVRDNLQndtQUFO?oc=5",
+   "id": "43a98afee6",
+   "title": "EU intrigue over whom to send to Russia-Ukraine talks as top diplomat suggests herself",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzV5dXExMERjZzRVQlhpcGN3NkFCY1AtS0xuZXlsVHZEcVMyNTZyR2FnNDhoTlVsaGhlOFg4TUNPNU1xT3l5YTMwT0RpQV9uakRCSnM3OXhmOC1HVjZ0M1k1WE9qckNDWGhvOEkzUC0xbDFJZ1poTmN1OTVYVV81MUY1NlhpSHha?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTE.ie",
+   "source": "The Journal",
    "region": "IE",
-   "date": "2026-11-13T10:20:23+00:00",
+   "date": "2026-11-13T10:15:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ireland",
+    "country": "Russia",
     "place": "",
-    "flag": "🇮🇪"
+    "flag": "🇷🇺 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "1a823c0ad7",
@@ -511,23 +514,6 @@
    "source": "BBC",
    "region": "IE",
    "date": "2026-11-13T06:22:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5212cc3843",
-   "title": "Frank McNally: Welcoming Taoiseach finds hugs and kisses the first political pitfall at Dublin’s EPC summit",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUU93dzlwaEctNHBwWTY5MDY4d0tCSXRuZnlNcFlxREV1UThRNFVuMC1pWjBBblZQdHhzOU1FeThrRWxMRnhCci1pcjh3RC1RN2JVMXJTaGlId3ZmWlBtWjZRbjdXNExfejZELW1ndjE5eVcweldoVm1Ob2JKNVEzSlEwbzNxR0RxNUJ5bHJaVWNJYlR2NTR0eGxla2JLcy0xdUpfbWVhdjhqcFBlRlloZEROWjdBd1dNRERTd09uQktUWXhlcXozb1VDZHhGX3JVVWhiRQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-13T06:06:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -588,9 +574,9 @@
    "topic": "Society"
   },
   {
-   "id": "efec8bfb44",
-   "title": "Body of Carrie Mullane ‘left in van for two weeks before being dumped in lake’, court hears",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZ254VWVEVjJMc3RNRWJSTGdOYWJEY2FtU1dEbE91WjljcWl3VzV4ZTZsanZ1UU1FVEMxMC1uV3NDZ2ZBMERzOTBhWEFFWmdadUZIdUtjUUJOcFM0N0gxTllfcEp6aUJvNFU3bkFYSmp0OGs2VVRFM1UwNkZHUVV0dlFIaVFWbnlfQ0k4MkRzZllYTHdtZGR4c2d6RVE5NTI2bGZ0Y2xRdk5xMHBVVThMUzVQc3NvMTlYTUV5elhsYXRrQlE3N2NYZjFHaS14ZXhCYUVzbGEyQ3RweVV0QkM2Wm51bzRKcXJrbFVMdW9HNG82VGpWUUo0?oc=5",
+   "id": "545eb3a176",
+   "title": "Body of murder victim Carrie Mullane ‘left in van for two weeks before being dumped in lough’",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVBGbDRaajFaRTk0UlBhN2ppRVRTVHFJVURMdmFSOEQyOUdydEtDNENIU0MtWk9VcV9jUEdWUWotSG9FZ1hWQUppNkdFbFpsNkJxdTR3UHdZZmNxV1c1ZkwxZVBEYnJGakptam5NZU9oeVpzU2d5SUFkRjJCeEFtWndtSi1OU04xN1BxMkNLa0ZhRGNFWXhmaUNpQVgtbzZkdUpla1AwMmRWeTdUcXZBcE1oajNTOFFQVmQwTXRocTlfLWNCTGUxc3k1czJpUU90Tm9nbDI4c3lWa3ZNUUJJ?oc=5",
    "summary": "",
    "image": "",
    "source": "Irish Independent",
@@ -602,7 +588,7 @@
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Politics"
+   "topic": "Society"
   }
  ]
 }

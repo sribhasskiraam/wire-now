@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "3c17fea293",
-   "title": "US flights allowed to take off again as nationwide ground stop lifted but delays expected",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
+   "id": "869070af4d",
+   "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-14T04:36:07+00:00",
+   "date": "2026-11-14T02:37:30+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "b11a03cf9f",
@@ -123,6 +123,23 @@
    "topic": "Society"
   },
   {
+   "id": "23cef44704",
+   "title": "SpaceX aborts attempt to catch Starship booster rocket",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNnWFZjVm4xQnc4N1VLS2pwTjUtNGlIM1hGLW1xeDVnLUZJaFhfSXlneFhrel9kRFB5eU1fZURhSEMyWml0SWx3NVZJTi12WVluY01BdWRpLUU3NlV1a3liaHk4V0dDbm1EdldPS2JielZPTTlUMEhmRlJYbVRIeTJyTUc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-13T23:43:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b9d6a977de",
    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTDVpNXFuVDVmLUU2SUROS0l0bUVGQlpRWXl6cTdGbW92ZkpQWnI4TzVnSFpwZ2F2bEpzTGlla1BaS2NUWUFKNnJSZmxocFNESjFCcVV5X3JQZm00dHc?oc=5",
@@ -177,9 +194,9 @@
    "topic": "Society"
   },
   {
-   "id": "ca2447c31d",
+   "id": "c85c318811",
    "title": "Tough watch as Scotland again battle against their own limitations",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObFNmaVM2bUU4X3NJUm82c000NjNPQWtWQXNRZnhKVlhKVWZ0S0lDaG96UHdzSzA2bmZnUUJWOGE2YzBKbXBxWGFmbEZkUGVGeTYzV2xIZENza0ZpOVVHNkFGcHVZZTFp?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43eHJ6T09IMzJRWkgyNm9EdXl2bkM3aFJ3a05pUTFLTVliUnhKYTlOcFNPbXlVUmJPTXVCbHFNcTBtb0NCZFlPbHJ5QVJOUDEwc3lNZS04cXlXQ0x4TUpYLWMyY3JLcmNVSHBz?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
@@ -194,14 +211,31 @@
    "topic": "Society"
   },
   {
-   "id": "97067fc787",
-   "title": "Lorry and three vehicles crash on East Lancs Road as drivers told 'avoid the area'",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3M1Y0xXaGhKQlE3SGgyMTBrclpiZEJMaklmTHFVM2w4Wm91U0VTMy1mbDlyc0FCVldnYmJzRFRDTWE5TTVETVl4SWdWNGNPeXRQaDhpaWdwNW84MnlEaXRMaEFCQUR0bHFfYkxwUGdVeXNFM1VVWlJZcFR4R25QdVBQSUs2NldqWUhYNGUwcVdfMHRm0gGaAUFVX3lxTE5ReWNSSjlabkMxdVRLQUlqNXdNNmZxZ2dyQlBBNGxfWXBXSnN6RDlBZVlpV1ZuRE5rdmVlZElmRFF3LUtNYk5RbXdpN1N6WWxyRGVEaEFHZEt6RWQ1MG5WYmpYaGh2X0trMlFZOVVfaHNlYzR5RFBZd0hrYUNuUjNkdkRvU3RKTnNYRzVzNEthNE0tX2hDc0NnYXc?oc=5",
+   "id": "ae09188fa4",
+   "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFNnX1RBdktPVXhIN3N2NDkzbWFEdVFZbGFWQnBsMTRXbEw2cnRFQmJrcnltUFExaWtjZlBodG1hR1RSS2x4cjhEY2ItQ2FnbWQydm91ek1wYTZzRXJHN09wR0NyUE1nV2IzNkF6S2dnVnVRamszSzVOQzFsMzZvS2ZLUHo3OGZjSkE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Liverpool Echo",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-13T21:55:00+00:00",
+   "date": "2026-11-13T22:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4a6cf42030",
+   "title": "Jesus Owono: Goalkeeper gets 12-game suspension for tackle which resulted in death of Jesus de Miguel",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NOGtJcS1pQlVjSFMxZ2xfeGVlb2NLejJwOGNJNEhDdEhDckRmT2lIejVFZmVvUFhvX3g0SGRmWTdmenRvRGxxQ1BvbElzUnh4SWZjYWp0Ym16SmdQUTlIYk5IUzQ4MXMx?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-13T22:37:30+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -211,21 +245,21 @@
    "topic": "Society"
   },
   {
-   "id": "9f2906dca5",
-   "title": "Senne Lammens speaks up after red flags from two Man United icons - 'I won't lie'",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSE1jSUJSSm93QVJSRWphYzZoeWdVbEZBeTJQSl9wanZTd19UZnpEb045VlZNUEhpMW93TTBHTm5NcDdkZHZIN1QzdjIwdU5OQi1ocDlpVXE5OHJRT1huLTE5VmxEUi12cG9hNjNENTY1X0xvX2ZKV3phS0t1RHMwODF5NGRqLWFFTXJGNTI2dl9RZkk3NV96SFZsUi0zQ01FRGRNNW81Z2JEYndWNXhGd2ZnUUxnQdIBuwFBVV95cUxOaGtDb1RtdUh4bHBxRWtBWkk1bUo4VV94ekhvVFVCbVpsNUZmVm5PUHZrTnBTZW9NU1U5Y2drcjJsdHVyUU5fWlgtZTh0V056V3JFa1JpTkxKVGxHeHp0Q3I0S0R0eEh4aDJiM3NPSzhBemxqTzl5UjBHWC16TnRDQzR3X0tqdEhod3JLdDNPcWh5MVRkMWJLUlJZWWxjMGZyZURTMG54VHFBRklTbHlHS0k0bkRtOXQxbmhR?oc=5",
+   "id": "8e9cb2db62",
+   "title": "Nvidia approaches boss of Britain’s biggest tech firm to replace Huang",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFRVWFRRUXdHX3g5MmU0MG5UbDJPdXRtTnMyUXhNeWhlSUtfUlF1ZzZ6aWw5OU5UTXRuU0dhR0RrSWZPenREWnFiSWxTR3owSE5CQ2c2d0lTMldSZmpwS1FvcmlGY1ZWc1lJS2I3UUwtWUFicnBpWEswak1aWXZxR3JZMUUtbGZTaVQ4SGNQd2l1V3VxdGVSTTdJX1JSMTJMMVlv?oc=5",
    "summary": "",
    "image": "",
-   "source": "Manchester Evening News",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-13T20:56:00+00:00",
+   "date": "2026-11-13T20:32:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "f2c30b67bc",
@@ -296,21 +330,21 @@
    "topic": "Society"
   },
   {
-   "id": "e6a6e9383b",
-   "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuTG5Mc1g4SHFlbnhyWkk4MlE3VjhzRG91bDVoUDRBZXRUM2M3azN1cXhzSkRxRDR6bjBGdi1PTlhUTGRtek1pOXRoRDdmV0tsMlhud1FobXY5TkxHSHg0?oc=5",
+   "id": "280bff5522",
+   "title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
    "summary": "",
    "image": "",
-   "source": "Nature",
+   "source": "Reuters",
    "region": "GB",
-   "date": "2026-11-13T19:26:21+00:00",
+   "date": "2026-11-13T19:56:33+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Ukraine",
     "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇺🇦"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "ed2503a2fb",
@@ -347,14 +381,14 @@
    "topic": "Society"
   },
   {
-   "id": "236de1eb8f",
-   "title": "Labour lost its connection with voters, says Welsh leader",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nYVpWaWFtUUVMVkhOalFXWmEwbW5kWW1FN3h3SW12Y2l1d1BHeUhERU81cVd4Zk00REpieTY5Ty05WjRVYlMyTENmYko5dWxBNHU1NUFKNXh0TEdBSGc?oc=5",
+   "id": "22acb7c595",
+   "title": "Snapchat sexual predator jailed for 30 years",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3pLSm5aNjBjVldOLWtaNkZqNTVhT3lsWllXQjVNSWhnNzh3a19Dem1rUkxBQnZmb0hIdzQ3eTJTa2Z4cnlXbDU3RDU2SnNfZndvQllOM2tPWnYxNWF5cmV5Nm4tMUYwMlZQbG9NR2ZGbDlVbG1BVHNTSU9iR3pLUlBNTVM?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-13T18:44:11+00:00",
+   "date": "2026-11-13T18:22:52+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -364,14 +398,14 @@
    "topic": "Society"
   },
   {
-   "id": "22acb7c595",
-   "title": "Snapchat sexual predator jailed for 30 years",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3pLSm5aNjBjVldOLWtaNkZqNTVhT3lsWllXQjVNSWhnNzh3a19Dem1rUkxBQnZmb0hIdzQ3eTJTa2Z4cnlXbDU3RDU2SnNfZndvQllOM2tPWnYxNWF5cmV5Nm4tMUYwMlZQbG9NR2ZGbDlVbG1BVHNTSU9iR3pLUlBNTVM?oc=5",
+   "id": "e63d569ba0",
+   "title": "Reform UK pays for Nigel Farage’s security despite £5mn gift",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0ZpR0lPazNqT0lBVlJXSXNLWS1jSm5nbUhJUXBMV1I5THdZWVVqd1NZQThOelhjOWlZd1NNenhrZFdwcVFTZjdtdHc4V2dpZ01lN25WUlMwYTQ2VFd5d1Y5UkRSRWNaeFlQdGVxMEY2N1lTLUwzVGVYNmFtbmt3djlobXU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky News",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-13T18:22:52+00:00",
+   "date": "2026-11-13T18:05:05+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -398,48 +432,48 @@
    "topic": "Society"
   },
   {
-   "id": "13f3776357",
-   "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5",
+   "id": "f3b8d8cb01",
+   "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VUDRfRFRhbnMzN3pHMDZOTzJQNk9xcW51d2JhTVRXazNjUENGel9yQXE5Y1NoN3FmYURTbkh6X2lDUUlKUC1zTGhJbk5rTDFkNjFrUHI0UXU0aHBudHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-13T16:53:17+00:00",
+   "date": "2026-11-13T14:34:21+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "9d8533d8bf",
-   "title": "Piddington migrant camp a risk to women and girls, Government admits",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnZQVVE0Tm9OSG9qOGRXeElseW1vMlZ4Y2lfMjFOYVp1b0dSQkREMlEzaDc2ekE1QWxuWUtyN01DVlVQSmk2dVZzZ1RiNzBEUUNzRGRPQXFkcW91NndNNEFaRl9VSG5SMDFUUk5YU0ZaY3U1OEdVRWlyTEY2ZE12RDVVWjVEZVN1NTN5UDNocl82U3ZWVENsQ2UtN09uZWlRVUE?oc=5",
+   "id": "fbcb54805d",
+   "title": "Fickle Australians desperate to lap up Pat Cummins’ implausible version of events",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUVVX28tUlVrM3JmalFuOUdfaWZmOXRCdUU3NHVJdnlWbHBqdEpseTQtdVNNaV9xVm1CeWdDQVFnbFNCVzJCc0dZSnAzNHZIZjFMOHFDajQ2WmI2NXJVbHNJdWVuM29YcFNHRFBFaDhVLV9BN1M4M2NLTW03SUlncUNTX09FZVRrVDJ3bm40U29wb2F2X0lZeWUwYWoxR0Z3UThVU1ViMUhRYWM?oc=5",
    "summary": "",
    "image": "",
    "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-13T16:17:00+00:00",
+   "date": "2026-11-13T14:28:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
-   "id": "4e065e9c62",
-   "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
+   "id": "543166b0f7",
+   "title": "Charlotte Church's wellness retreat forced to shut for good",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSW9TOS1qN0lCRzBqMFVJMm9QQW5KcmpZMjNmR0RIMjAxRkM1dnU4NEVvSGxZNnF3WW5sTlBBSDRVYU5PMWJoOExsNU9vbVJ2SUhEd0tGaDFVSm9KOXVVN1lJYTBLWXE1VmY0NFlSdGZpZjlQZ21uQnlGOEk3UmlaU2Qtc3pWaDlHUFlUUDZlbnJkTldmb2MtWFpOdkkyMW5jc0dVMNIBqgFBVV95cUxPTHc5LVNnTWFSRDljSEJkWDBxcDZ1blZVLUV4U2xvRzc5bm5xYkd3S25LamN6TXp6cUZ1cEZuTXpZdlZTRnlfcWhWTndXLThScmxIS2xFU2Zqa1dkZUpiNkdvVVpPLW1feC13elJVVzVVMHUyY05NSzY1QXc0VWx1ZF9tc1B5VmZMRGdJNklDWTRiU0QteERvUzhkajVoRWFQWTZNb0MyOGExQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Wales Online",
    "region": "GB",
-   "date": "2026-11-13T15:25:00+00:00",
+   "date": "2026-11-13T12:32:14+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -483,48 +517,14 @@
    "topic": "Society"
   },
   {
-   "id": "a647827a1a",
-   "title": "Loose Women star’s daughter dies aged 27 while studying in New York",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNllhU25OX0lvMGxUUUFMLVVwRGdBY2ZONnBnT3lDQWREM0lKTF9oaXF6ZEpzczBlUk5GQWgtTVVsNjNpTGVQNmE3VWhGRUx3MzhyeHdhVjhaaXBTRzRiYTBaei1wY2EtSFVTNjFBeWd3ZVVMNFlFMVVFUXUwdUV1SUZKZEtBTTBISmlhSkpvMVRQVEdiTUNBdktuTjY2aGZMa1E?oc=5",
+   "id": "0262eb7ab0",
+   "title": "FBI seizes $1.2bn stolen in Binance cryptocurrency hack",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkxtMklzWnpDZExyRjZselpsWjhZa21lOU9kaGNrMHhCSFA4VlNTRzNMeTZiY09EVFlJaFVlMVpWUTZRT1Y5VDF2bmpVQVBKbUh2ZWFCZVcwVFB6cnBtdG5xZXZySEpJbWpwRHZ4ZTY2YVdnUkQ4Rjgza2M5cVpwVTFlUWVoZ3lENmpoM25kdmtxUUdE?oc=5",
    "summary": "",
    "image": "",
-   "source": "London Evening Standard",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-13T09:03:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9d39e72d67",
-   "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GSVpqbFJpbGRGeWI1T1Q5YW8zdEhKbHU5SHVBVk9LSGwtcE80LWY4ckN6TWtFbW1jckYwSHVUSWl6R0hJeW9GU0k1M0NIaWg3T3BIYkdhZWl5UTJfRXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-13T08:20:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "3285a44265",
-   "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUDBURDlTbERCUTdLaG1QbzFZaUg1bjRSTC1qTnF3Q25UZlY0Z1VYRnQ1VnQwTmtpRms1NVFCSThHaDF0TG9oWk1sbXJ5YVpBVURMX2xVd2NfUTFhZTRRM3VqeTJJOU9vZTMwQ2dTOE9GVEdNdUpnaGFmUkduTTBFS3p0UzZZQmt0c05uN2ZtanF0ejVXUkhLNTI1a0JPODREaTlSUElSdVZFYW81eU92c0Nwc0JfNjBEcVI0RTlyRXlnLURuUjNBVFc2REJOZng0cWNuaGFVNDVzLUY1V2YwUGZGaHIzaGtSbGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Space",
-   "region": "GB",
-   "date": "2026-11-13T08:03:59+00:00",
+   "date": "2026-11-13T03:18:13+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -568,23 +568,6 @@
    "topic": "Tech"
   },
   {
-   "id": "3dee44bd9e",
-   "title": "Nvidia’s next test",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUstS3BudF9hOVByZ1YyekxyVWk0cTBVS0VhN2RwVmw5Mm9hYjA2dVBpSU9HZ1o4VGlIaWlXQWdUenMya0dFeWlacll2cm1DcXNPYUtVSzYtQld1YXE4bXhBdmkxYlc1MDNzM19ZQTNWSWY4VDJOM3RTaFQzcXV2TUVrRm1WNWZyWWZ1VnFTeXpUb3N2R2Jr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Economist",
-   "region": "GB",
-   "date": "2026-11-13T00:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "a06f3ab108",
    "title": "Object said to be 'long-lost spacecraft' mysteriously accelerating as it heads toward Earth",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEQ5c0k3X1dfOE4xMEFQOC1Xb2hsUUN3SkszcG0ybEU5bzFzc1p5NkdpSkJPVGV2OXlpQnlHTTBNTXd0clpqZG9yN0VTOUx4SFdPMHFhM19mV19UN2pNdkhLVlhIWUQyS09DTzYwSW1ERUdLSjZMcURqeXN6LUJCMVBaRmh4UTJjUzFVaFB3a3JnSHpkMFQyN2xxc1V5c29mNnp5Rm90b24wVHRBYUNjR1NZR2kyeFBZVUE?oc=5",
@@ -617,6 +600,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "0b1634695f",
+   "title": "Apple HomeView Review: A Versatile Smart Display And Siri-Powered Home Hub",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yc2MtZ1d1c21MalB1cUt2V0R3eEJFb2huZ2hLUEVkaTVqQU5Oand3b29nWFlQdk5wR3NJazVHUUtWaEpHLTl6TDBqUE1HNWJycHpkX3NXLUtKcldoSG1UWEdOXzE4UQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Engadget",
+   "region": "GB",
+   "date": "2026-11-12T14:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
   },
   {
    "id": "c178b240e7",

@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
+  {
+   "id": "75fdff6dba",
+   "title": "Muslims need not shun Islam’s enemies before gaining power, says Hadi",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1dkMDBXNUtReHBKTkhTSURlVDRCWjN6VGNjSVZ5aUJQdDhVVFA5V2Y4YU1acjFrSXJBaVNUbUhlNjJFV1VLUWpzdjFWelhvNEZCMFp4bkgxR3h3SWV4cE14VFIyWFRRN3BGRG56dkpwaERuRElNdldwTEwwRWttdGpsd19nWjl0bVJnaGlQcTdNTUh3TURaQmRJYUVOd3FnOHpvYVZxdnJkNkVxSTN4R1NRanRPZ1o4eGc3RGdONUV3NVRWX19LMA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Free Malaysia Today",
+   "region": "MY",
+   "date": "2026-11-14T04:25:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fa8832efb7",
+   "title": "DAP defends itself, blames Umno for testing boundaries of unity govt pact",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVDQyclY0TEZGWXRJcHBhamw0ZmlaUTlwVFZOZHRTeGF1OTFoYW5Takk4Qm9rRWNJZGdSRXhvQXNXa21yczJKQUE0V21kYXJFRHhJOHBzbE91djFYYmNSM0xTaHpPSlN2M0w2Tm9sTjZ3d0pUTENVem5XQS01SEM4S0xnVTE3MUZaYm5KZTRxMkVicEpBYkZuTDN1N0o2Y1JtcHNCaWw5YnFCWkxvb2g3TTV3ZnhtV29IaDhfUE82TEdHQUlGTXFuZDB6ck5oZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Free Malaysia Today",
+   "region": "MY",
+   "date": "2026-11-14T03:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
   {
    "id": "78fc34125d",
    "title": "Melaka polls: Voter turnout at 17.96% as of 10am, says EC (live updates)",
@@ -38,31 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "af646190ee",
-   "title": "Jensen Huang misled top lawyer on affair with Chinese businesswoman, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUVmMldTZmdtRHllS2lTbi1ISEJpNHdvUFJQQThTN1BiaUNMMVgtbkM3UV80QldRbzhrMnBsT2UtOGtvbmhuZjBzS0lrQ0ZuWHpFUmRwY01yQlpRZDRGTk95blFZQ0Itd1IySVJBMzRpNEowaFdJUDlWYWw4akk2VTZwbWRMX0hJWVF0WVo4OTE4enkwYWVvc3FhNEdWck9VN1hMbjVsUGM0bFduTU1ZTkVMT0ctaEVCc0hoSDhONHRiRm1LdjJZYQ?oc=5",
+   "id": "d72dba43e7",
+   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUEtuaTR5Vzh3VzM2RXFzek1rVFQ5cmZKOV9TX01mS3ZSM3ZqVU9oZjYxRzJ1cEJsSjUzSnFlQXhIdkRoZnlYS25jNHRxcHdHdVpuTEhaYkVsTG1jZ2EyNEhiSy01bjQweF9xaXFIYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star",
+   "source": "Science Daily",
    "region": "MY",
-   "date": "2026-11-14T01:14:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "651045baea",
-   "title": "Umno hasn’t shown it can stand alone without allies, says analyst",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0gyVWJLVDRPZjhhZGVHUUlMMkpWaGYya0t6Ul8zNVlSZmNoTHBBenhJR240SnFUTGZPZ04xSjV3Q2luOU1RLTVwelJsQXo5c1plWm55MHNMNHVmYVBERDRyNl9tQ1RhVFNlbnB1azN2dEtiMmZtNFpqVzFNTHFXcGhzX2FLWFlIX2xWdTE3OVh0djdoWEhGNGRlSTZOdHk4RzQ0UHI5NHdQQVRtMXJPUmd5eElpeXhCYzc1bnd2QnFmbFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Free Malaysia Today",
-   "region": "MY",
-   "date": "2026-11-14T01:00:00+00:00",
+   "date": "2026-11-14T01:14:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -70,6 +87,23 @@
     "flag": "🇲🇾"
    },
    "topic": "Society"
+  },
+  {
+   "id": "c06bd82a1b",
+   "title": "Negeri Sembilan MB moves to back Tuanku Muhriz and avert government shutdown, says source",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVmZaWVdCWmloelNtVXF0ay1yTlhlQi1Ka0NlSGNnSUIzQVhLbl9aX05XNVJuUVVWWGxVQjFORnZxYTNSVGRWeklrR0FSZW1SSlFFSTlsTUJnZGFfTnF0Ml9yV3VTXzJERGFkd0dmaERuQ2t3TFRPQmR2V05CZHE2WEg5UlduWXJ5d1JQS2d6ZFRyWnljT0lDZERNeE5qX1UwYXF1a2UtYnc5TXBkdHgwNWF2N0swUlQwcWFPbDJLQ09WZjJUc1cxY0xsLU9tUGs1N1JyOW51bnNsMGZIcldN0gHkAUFVX3lxTE91VGowVmJ2dzZzLUMzWmRybGhLaUltMmlqakdGOG56M2pPY2l2MElSYVpWTUh0T25oUGZRU2hSenRzMjl2OXJyeXRZVlBWZGVUNVdCa2kzTHNmdDV5eGZPdlVoLVdwdTdhSEgxcTB0R0tyb0o3OGpTY3B6X1lkVjFMZWhmcVB6bmVkZUdXcVMxRzFuQ0Rod1VwZ1daeVFYYkZBaWIxeGpwZFl3dG9jdmpDNjVhUjhDMGxMNUtmTFIxMFFwa043enN4WEF4NE5zVElub0FlTkJBV0dXdk96cklWbEpVZA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Malay Mail",
+   "region": "MY",
+   "date": "2026-11-14T00:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Politics"
   },
   {
    "id": "eec1d69421",
@@ -140,23 +174,6 @@
    "topic": "Society"
   },
   {
-   "id": "eb1d7b8ee3",
-   "title": "Flights grounded across US after air traffic communications outage",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmVuWG9uWUpiX0JJV1RpeGhnTUF0NkRGT005RlhielVLTk1NTmdlWnZiU3EyeFQyRHBaTl9QalJRZ0tLbThCUEJHdl94ZlRqVWpWdmQ5UzVyTXBBbGstbG1uTFE5eXRmMWZvNm10T2U3QXVhdTloUzBRRVJ3emNDanRWQnRuRDVBTW1ZVGQzMmxWbXBBd0tCa3hwcUhodmJZb3lHb0pNcHNvRFZIOTlrdHRfaWluOGpfc2NncndhdXg3THJ6anVRSzlERVBQOGM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-13T21:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "81d926e216",
    "title": "Huawei unveils Sense G1 blood glucose sensor with smartwatch connectivity",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVC1CejBEUmlYdnRtbjdjQTFmNmR1ZFpXVHRQU2pialRHUVc2LUJUOURpTnNiY2NLbllFZkhxSkRVMFRycXkyTVR1OTdhWC1FUE5CckpTTG4wWW8xaGV5bXB1RnFSaHNvclNlY1lDWnBYTE9VMzYtS1N6RzZJYl8ybGp0ajRhNm1QRGw3NXJRbm1NbmxjS1ZoSTItNTVTMC1OYTQ2UWhsaHYyQjcyRGtLTHh5SUo1aDY5eVE?oc=5",
@@ -204,26 +221,6 @@
     "country": "Indonesia",
     "place": "",
     "flag": "🇮🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "97727dfb21",
-   "title": "Alleged Chinese spy Alice Huang leaves trail of shell firms and empty offices from Singapore to Johor",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcXdFeWFNNm94TXJXSHE0VzBiWGtIQWVTNHNLRGFDLXVLaXotRFpqYVFVR1k4enc5NU0yM3Q2Slo2dEdQcGNwWG90TWNidEMtNV9qREVYMkNUVlRhVVNmV2Z6SWVKdjBUSUozZ2J3T0laLXZqWmxEZXVkS0c0VWJBZzJiT3JSU25tdU4tODN0c09YVTRyQU9QeFdWdmk1WUMtOEpBTkNnUUMyZTBhTnJ4aWRidE9vQll3dnRxX2t2RGJuTnBsbl9PbndFNzZ4R3NaT2VSeC1GMXZhSDVycDIycTBuV0w0WERieWdJR0UxRGl6UdIB9wFBVV95cUxNeHpUdjl6UnZkb1IyeV93V0E4dFZ1dm9wSHk1OFZFLTdxVDhyX3RVZjdXSjlZWEV0dldlVmlFbDFXa3dHdFNXVTJWSldiN3JOSVNhbkNibG4yZHQxclJSWngwSm1xbkV5b08wMDNHbVFuLUNyMENpWWswbTRzeTctUDRUY1F4R015clNlZTdBb3JYNjU2ZWFWZmN4d2RCeDZTcDVvcmdDVnlqQTl2ZlpvSkNBT2hxNlhjbnZEU2FRTU1LT1ZoQVZELWVFZjNnMGxrc1oxa1dCVFFCeFNXZUtKbWZoVll3dG9nWXVvSGhZZTFPYUo2RTFZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Malay Mail",
-   "region": "MY",
-   "date": "2026-11-13T13:03:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇸🇬",
-    "also": [
-     "Singapore"
-    ]
    },
    "topic": "Society"
   },
@@ -279,23 +276,6 @@
    "topic": "Tech"
   },
   {
-   "id": "8be049d081",
-   "title": "Selangor tables RM3.3b budget, pledges flood-free state in 2-3 years",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGNweXBhejc4S1BTSEdTeXVBMnplX3lUSmczUVRBb09pSFpjNjAxLWRfWE5fM3Z3UGt6UEN1Sk01MUlQWUt6V3d1V2pwd2NhNUoybnczeld4R0hYV3FzVS1wUUdGZTd2QXE3dnpJdlpkNERZNERqN1BNVG9aQnZZSXFZcG1SVGk0Rk9QSjVHS3VBM2o5NnFKMTRTNWtMZE02bkZ2NXpwWC03VWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Malaysiakini",
-   "region": "MY",
-   "date": "2026-11-13T11:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Weather"
-  },
-  {
    "id": "caaa512537",
    "title": "Hadi's 'wicked Muslims' remark draws flak from Harapan leaders",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRll6WTBDSWxtNlRpbTBuZElmMWwxSjJzNEt0eXEwQm43UGU2RE9oV3ltUVkxcVRVWUxDZ0ZXcHE4MGtDZWk4Rk9sUWFVbDIzNVY1Y3VjbU8tMWsxVjdjUTR6OWFHdmZEZlVQMGJUMlIwb0FOTEplb09BckNzZDNqMHdXRWdFWUc2T0RVZU5PQ3lRYkRZMDBjQk9VWURQVklDYUE?oc=5",
@@ -326,6 +306,23 @@
     "country": "Denmark",
     "place": "",
     "flag": "🇩🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9aee56a5b7",
+   "title": "KLCI ends the week at fresh 14-month low, analysts see rebound later",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrejhZMG9RMWdJQW83cVJrcDY1bWtZMkJiXzZ6QWZFMzBOWm1KRWN2dDRXNnZhOWlhbzlYV1pXMDVfeU5haE1RbTBFUVBSMW1w?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Edge Malaysia",
+   "region": "MY",
+   "date": "2026-11-13T07:51:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
    },
    "topic": "Society"
   },
@@ -362,6 +359,23 @@
     "flag": "🇨🇳"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "d08485b7bb",
+   "title": "No indication AI chips were exported from Malaysia in NVIDIA-Megaspeed case - PM Anwar",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVZ4aEQ2SXVqcFV0S1EyM0FDMUZscUZkRGxnMC1tbnRlaU53YXdhMDFnZmo4ZzdfbXBiWjBoWW8wMHRBcUlSMnlWbmZnQ3F2VG4xMWJHMDJpdGVtcTJETmRUUTVwQWdWa0ozOHdWTklieS1ZQVZYSEM3Z0dQa1Q5RzVHcXh3aUxVWFdtZFZRNG56VkVKLU9nY0JobndzWFU0NzBodVMzWDRTSlo0NEh6WFd3eTZRaUFOOWlhYzBmQWVXMjNpaWRqZV9pcVQ3ZXRrVElhYllXOGxiU05jTUQ4Yw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "MY",
+   "date": "2026-11-13T07:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Tech"
   },
   {
    "id": "5f448beda0",
@@ -421,23 +435,6 @@
    "topic": "Business"
   },
   {
-   "id": "dafe0bc85a",
-   "title": "Malaysia probes Megaspeed subsidiary over possible AI chip diversion",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS01WWkRUTFVsUTBIbUd0MWU4aDlEbXVGWHlLcDJSVzZOSVZzRUljQlBoVzlORzhQelA3TFQ0Q1Q3NWh5SzdydENDWWxxM0xFZ3dEUE4wcnJyZXBsOXdmcmMtUTQ1Mnl6ZmFKbE1wbkE0U3RURXZjR0lIbXVOMzB4WU1ZNGlOWXZSaGU3b3ExV0Q3Z3BtQktCa29FekgwT1lULW5kMGc5RVlzRGl2ai1xVm9UTk1CbVBCMFdSWmZmdkxwTlI5eTNXMw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Free Malaysia Today",
-   "region": "MY",
-   "date": "2026-11-13T04:59:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "5f474157e7",
    "title": "Malaysia PM Anwar yet to accept Loke’s resignation as transport minister",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk02QU9IUWEtVzNZVTBjMnJZSzFWRmxZZGVzQTc0RjZONXVjNVh3WXpRMDNrNFF5ZUZPeEZySnViSDNDb0gxS2JaT2liN3ZmSkNvOTlNZkhtSnlyVDdveWN4SENoWXhtMTZHVjhFcGhxY0RJMHlsdFo4ODVFb2M3M2lDZWZFQWdJN3l5YlkyaEd4UXJ3ZU4yWlhsbmYza0pqejJKTTRfUmwxMy1mZXFF?oc=5",
@@ -472,6 +469,40 @@
    "topic": "Weather"
   },
   {
+   "id": "76cfb376e9",
+   "title": "Jensen Huang quits Nvidia; non-invasive treatment for kidney tumours: 7 highlights",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0dRSkhtQk96VVF5MDQ5XzAtb05zU1dZUXdhSU5XNmxONnFlbVUxNXJVX0NxbXUyNGFycHA3MkdSR2xYcFNfejZoOHZNX2hCSmJmb051Wmh1dHVtcHhyNVlQSGZyRkttWmJFWV8xMG9jRDFCbFRxRGVhejlPUEZuaXBZc1hyV2Nwc3JoN29hWVdac0l5dnRHNFlUTTdTYkUtQl9ja2d0ZUExdnVLUXQ0dk5fbkl3b3JDNzlhM1JtVFZVQkhiSlgzQ1Zn0gHKAUFVX3lxTE9zZ2J0T2ZCXzc3dF9MSWlJNGd0Zm1mSExDZDhWdXBoRXQ4ZEFYU1Rfa1F2THhvR0xCeEd6LVNFeTd1QUx6RnJwVG9fb2otYnlTRGNvVXFIWEIyTmo2WC1TdUZzQW03MVhwblVWc1hFRmlpR1lOazJQR0xwWV9mYl81S3RmaG5JQW82bGRKdmQ1Y1VXdDBJRXpVUnpPUW0zRFhfZVBybWVEMGF4c1lqQU82aHA4YjJpODBIZTIwVmt0VVNBbnBySFc5N3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "South China Morning Post",
+   "region": "MY",
+   "date": "2026-11-13T04:15:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "b76990f595",
+   "title": "Scammer Pretends To Be Eric Moo, Tries Selling Chinese High Schoolmate S$7K Ticket With Backstage Access",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFo4MDUyOGZTdHpydGY3RUVpWWJiSVh4YzdQZi1wc1lvaUJGUzVHRWtWQVoyNkk3STJrWDdTajVoQkcyc2xIN0N6VTEzcklJT3pJU2RrcmJ0cjVjVnBGSUthWE5qdzV4SHZCNlRYSEVQeklWSEZjc0ZxczVlZ21TQW91UDlybkZVWHhDSTdTMWN5LVBRLVNqZ3Rfb1gzcEg4VzV2Zg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "8 Days",
+   "region": "MY",
+   "date": "2026-11-13T03:50:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "cb5254026c",
    "title": "Structured Exercise Prescriptions Should Replace Casual Advice for Lifelong Brain Health",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdy13VDhiN0JQdmF4Y1lBOFY1c2VELW1pTlUzelRtSzhLa2RKZnNjallUZndrVjFDd2Q1VlhpakU1YXJCclpxcmgwbnUwUDc3LUpCbE96S1QyYjRRVWpxamg5QlFvbDhQZTItaG41VExGVy1vNUViRWUwUzMwUWJEMGdDTlExMTJzMFNxd2JlMG5XVHpDWVpsOUNCQ0JBMWZUbUk3WmJGYklmZUJCT19pQ3BGVQ?oc=5",
@@ -489,19 +520,19 @@
    "topic": "Health"
   },
   {
-   "id": "554e5ef6d1",
-   "title": "Stronger Dollar And Rising Oil Prices Shape Ringgit’s Friday Opening",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmdJTEZ4TmpZZ0RHcU41OVcwWEpNdmVTRFg4MTMwd21kVkxac3c4SkZ1eERlNFZQMjIzMEZ6WXN3enV4dlVwQkt4UGpYT1JHNXBadWVBbEYtczhIcnB1c0hPMzMzQmsxMjBQcmIyN1JyUnMxeXZ4SDcxZzhINVUtWnVDOFBzMDVqZzJNZk1IcDlHRktnZWdKMWstbjFKQ1hGbnY0eXh6a3VjZWw4R0NPNTFB?oc=5",
+   "id": "6b0b5ecda9",
+   "title": "Ringgit rises against major currencies, slips vs US dollar",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVBhNXE3Qk1IQnRBZDdrbHRQQWFvRDFqbFBudDNRc3A4VllOXzVSSFlHTmZwWGFOR2s1bWxyaVRFOTh6Q0FiS2hqYlVBeC1FUjBJME84ekZtbjR2YVVpY210dmdKeUFja1U5OFNpR2RxOVgySmR6WFJ6Rmd0VG1tRkJiQzVUM2RxUXFxYnl1UjdvMlk2cnIxdFpKblBBVGppVTA5WjhBYU9CS05yT2FJRnN2a3hMbEJqWG9FMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "BusinessToday Malaysia",
+   "source": "Free Malaysia Today",
    "region": "MY",
-   "date": "2026-11-13T01:31:55+00:00",
+   "date": "2026-11-13T00:30:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Malaysia",
+    "country": "United States",
     "place": "",
-    "flag": "🇲🇾"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },

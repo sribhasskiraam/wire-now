@@ -1,8 +1,79 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
+  {
+   "id": "4df6152bc9",
+   "title": "Fresh Ethiopia fighting sends stray bullet into Kenya, injures Tanzanian",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEJzNERMU2N2T2x2bXJ6M0N3NExkWXBHNzRyeHBUSTBtRFVOZDNGUDlIdURuY2xMY05UTzlKRU9nOGZta2VXWG50bUpva21WaWVEUE8xZW0wdlBoTjlBaWdOakFrbjhueXJIR1BRQXhmc0l4UHZZMm0yTC1ZemtHZ0ZuRVRSYnhtMmxLTnd1LVBySWxwbVpYVU5hZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-14T05:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ethiopia",
+    "place": "",
+    "flag": "🇪🇹 🇰🇪",
+    "also": [
+     "Kenya"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "133b70c603",
+   "title": "Moon phase today explained: What the Moon will look like on November 14, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CYXF3R2lrVFdPMjA1Tkw5ZnpVTTNjc1dELXdfcFJTaHJ4bE1LUkRMUHpwdW9sWXBIalYxNjhSV25tUExmZDJtYV8wVUVhVjJYTndkM1VXdWxERGZKdXQ4di1IeFdfZHA2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "KE",
+   "date": "2026-11-14T05:02:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9ad9648471",
+   "title": "Justice sector warns of school-age gangs, sets out plan to tackle goonism",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3EtdmhhSnRsd2F0ZVVHYklWQXYyVkV4LVhOZzFobExhcDJjTFNLWmpYLTI5SDh2bERLWGYtaHY0M2YwSmxhVXNiZGpWbUpLVk9VUnBJcC05N2JJdHRiNHYtQ1BwRkFBYU13aU5ZWk1ZNnNCZmtvZHFUZ3M2VnBuWnBONWxNS2s4Ykdz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-14T04:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c17b8b679d",
+   "title": "Musk endorses purported move to reinstate Jensen Huang at Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObF9hcW8tM0oxM2paS3NKVHQzQ0h4SmlfTmFLMnNTd3dOc0kzZFpQN3NIX1pKTDg4SmxVTGtHWTRkc01fOEg0a3F4R2JzU0w4LUt1Q3c4U3F3MFlsWE1GQV85ajVPYktGZ0NpOUpFQUlJaUI1Ulk5bTJ2S0lxNEs2X1lfdWt2aEgtZjFpWGdLbXladlFwazBSSm42ZHRnUUlfSm9YeWhwSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nepalnews.com",
+   "region": "KE",
+   "date": "2026-11-14T03:56:43+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Tech"
+  },
   {
    "id": "5bf141960c",
    "title": "Inside Eastleigh, Nairobi’s commercial powerhouse and the price of success",
@@ -38,14 +109,14 @@
    "topic": "Society"
   },
   {
-   "id": "cbf8acd0db",
-   "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnJ2SUdNbERMS0habW1xekRqamtYMzdka1p1UEpjV2J2Y2lFZFFKNGRLNVVVdmpUQ1NPSFBEdjhKVmxUeFE5LXFXV2d0RXlkY0Q0S1NwZnpVNnFNZTNHeUxPSXJFU01SRGh4aExpMTA3NkRMUlFjYmdZWUlUN3RNMzQwX1JBR1gxQXN4RGxPcFB3Nmlrem1nWElERFlRTTJWNGc2TFBwOFpWRmRkTEZxaDRxUTIyd19tc05QVlVKTm8tTy04?oc=5",
+   "id": "b444d35070",
+   "title": "Kenya’s nine Ebola cases trace to single DRC entry as Africa CDC warns outbreak is far from over",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjV1Y0JFcWVBYTNNR0RlVVpkMmJfVWd6c3c0TGZTV0o0M2E5eXNnd0F5eUo5RXpBV2ZYSzZuOEZOcU43VEtBTEEtdXFycFRMTHMwMGREVG9QVUdUa1NzZzdFUXJ5OHU2VUY0UzktM3YxLVlmS3BnTldiYlAxRmpLcEJJWlRsSC1seU9Xc01zM2VNV25fZ0RGTTJvSzBsLV84T0M1MG9HcksxVDJhbEdfa0pNUmotWWl5cXNXSE41ZjM3VE82cVFwR1BIbkh1MVFjVDRkOU53?oc=5",
    "summary": "",
    "image": "",
-   "source": "News-Medical",
+   "source": "Daily Nation",
    "region": "KE",
-   "date": "2026-11-14T02:55:00+00:00",
+   "date": "2026-11-14T03:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -55,14 +126,14 @@
    "topic": "Society"
   },
   {
-   "id": "b08aa074d6",
-   "title": "Evolutionary DNA changes may explain differences in primate brain development",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEVkUVJvOXcyTGtwMFhtVWZuQlNpclRoMGpxNnFubGdzMlV3S1FwRHpKSXYyMGgzaUtEYUpVRmxtdks2OFNBUWNvcFFWMFpOU3NMOXhnTG84VlpHSy1zdkJJT1hoeEM2VDZYcW8xZHc2NXdZelJwREItTWU4SUlKcUZia2lPU1NDSGNWRzFuYXU3UnJQOTdsR2R3bWs1SGU0bGNESC10ZjQwZlZ1Q0RCUUVfcDQ5Q1EySVdsMF81c01LWWM?oc=5",
+   "id": "cbf8acd0db",
+   "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnJ2SUdNbERMS0habW1xekRqamtYMzdka1p1UEpjV2J2Y2lFZFFKNGRLNVVVdmpUQ1NPSFBEdjhKVmxUeFE5LXFXV2d0RXlkY0Q0S1NwZnpVNnFNZTNHeUxPSXJFU01SRGh4aExpMTA3NkRMUlFjYmdZWUlUN3RNMzQwX1JBR1gxQXN4RGxPcFB3Nmlrem1nWElERFlRTTJWNGc2TFBwOFpWRmRkTEZxaDRxUTIyd19tc05QVlVKTm8tTy04?oc=5",
    "summary": "",
    "image": "",
    "source": "News-Medical",
    "region": "KE",
-   "date": "2026-11-14T02:41:00+00:00",
+   "date": "2026-11-14T02:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -89,51 +160,48 @@
    "topic": "Society"
   },
   {
-   "id": "7a97af3ffd",
-   "title": "Sifuna intensifies diplomatic outreach as he meets UN, Italian and Japanese envoys",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkN1SFZfVGdvNzBXcndBNjBESTJUSVNWSGt5WFdwZlhlT2JTS3NJcGV4ajNCZHVsRWp4eVhoVW85UG1xcjFsd0tYVUhSUmtjZEZFcEQxTjFoVHNxYXZ6QzNiMWpvNHRyVEYzLWFwRTl1Q1pvU3NlR3ZKVFF0bGJtaTJSbk1QZk1MU3BpZi1DbzRMYklmTHdZZ3V5QXJIR3dJMHc?oc=5",
+   "id": "4e2f73fb20",
+   "title": "Abductions: Missing Kenyans found far from home as courts press police",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkNuaVdMRjRqbDdSeTlKUGxiQU9Cb2ZULTF0bnhkNmpFR0ptcmE4YkFTSGotX3BLYmZLUVB6RENvYURPN1BMY3ppR1JRZENWOUZ4MUlkdzctTG9DVTA5OFJnYWtqUW1ST29VVEJTQ1FXRk9Ja0ZjUlhOSGxMNE1qdEFlRkxRWlRHeFhIUFlfMWdlb1ZlbUtKVEJPQUZjNW5VcEZTeHJKSXpXQS1GbldLOGdzc0RaamlXdWkwdTd1UWpIeHVqWlBvdFpJYmpFcjVMc0FMcA?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star, Kenya",
+   "source": "The Standard",
    "region": "KE",
-   "date": "2026-11-14T01:54:00+00:00",
+   "date": "2026-11-13T21:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Italy",
+    "country": "Kenya",
     "place": "",
-    "flag": "🇮🇹 🇯🇵",
-    "also": [
-     "Japan"
-    ]
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "af8b97714a",
+   "title": "Linda Mwananchi rebrand sails amid internal revolt and legal battles",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUURYalEySWUtbTVuYktvNnZNRjluRHdSekp6eUFvbzQ4WGFUQlUtLU9QVWRiRVRDdVBLb1J0SDJRc0p2czY0X2ltQk1aald3TGFhZGZ4UGtzSlRfVlpYSWY5Q2dVci1UeE1uNDFWVjkwN0lxc2l2dE1SY3FONkpEOUk1X29paTlQcU4wWkM3alJTbXM1SzhRNTcxRkNINHA3WkZJMFdXUElpdXRlZWVLNDVvdkVQUkNyZzJGNVhLbURFeTZMQ0JV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Standard",
+   "region": "KE",
+   "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
    },
    "topic": "Society"
   },
   {
-   "id": "ae87096465",
-   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+   "id": "f2c30b67bc",
+   "title": "Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0ZWZFJCWmp3MUlFMFFrRExhTldkeEs1aEt2bVJDend6Y24yck5wUHlsNF9yNERkQWNsY25va25DMnpMWFE2QmtZVy1CQnlVMjZTNlBFM1g1ak5kWjJEclk2V0IycmFKRHg1RjU2M1RVaHhwTEJUM2hZa0FXaUZRWVRZd0tpTThCZkoxeTJxZERQSFZBb1M3SWptclpVVUVxUEtzSUFTMWxLcmM4VURJbXNCQ1NZQm9fTzBnOS00eGRiV2NRVUo3Rl94QnR2TnlfMGM5dUYxRmZuVDQzZzBWRE0zb2w?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "Forbes",
    "region": "KE",
-   "date": "2026-11-14T00:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "d298231c65",
-   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "KE",
-   "date": "2026-11-13T19:53:57+00:00",
+   "date": "2026-11-13T20:28:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -141,40 +209,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "2880d6d5eb",
-   "title": "Yeztugo PrEP Shot: Dosing, Side Effects, Cost (2026)",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPRXhLR3BqRFZEUW5OMXZJZEpfNGdJUi1hZjlFT0xIQlR3S05GTUdOSFRpSXhqZWhsM0NLbGdCM0lyRWlPUGNsR0dfU1c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Gayety",
-   "region": "KE",
-   "date": "2026-11-13T19:30:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "92cf8d3e1e",
-   "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SGEwOVBLUHZEOUtMRkQ0T3RmNDJ1a0lyRGhYNWFZb2tWal80bEFYTHJfa29NOVRJbFo3cmxLR2RqbkJIY2lwMjJqd2x5RGdyNkx5dXA0MA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "UN News",
-   "region": "KE",
-   "date": "2026-11-13T19:22:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "ef7f6f4108",
@@ -202,23 +236,6 @@
    "source": "The Irish Times",
    "region": "KE",
    "date": "2026-11-13T18:10:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c3f941ab11",
-   "title": "‘We are not for sale’: Matiang'i returns to Gusii, two days after Ruto's tour",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDBFMDlSY05DTkpuVzhuVS1RQXIxUEpUTmdVN2ROQXRLdlA5OHRNMjViU3JmdndkMnhSR3VzeGhZdmNnUTF2UnM1M3czZEFaMHdTQUk4VWtvWkVLXzh2WmZLUVZKYW5QM1hGdkR2WUo4dE9WaWpGdjFZY09HTjdiMi1BR1d1T09XbG5JSTdlN1pOZ3pRRmNIemdieE4wamFfTmc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Nation",
-   "region": "KE",
-   "date": "2026-11-13T17:57:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -398,14 +415,14 @@
    "topic": "Society"
   },
   {
-   "id": "13581df59f",
-   "title": "Kisii leaders hail Ruto’s development initiatives",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yb1dsSFpsYTdHV0tjblplTEFRSEc5MWoxN091WmtzUXdhenBmeDR0WXEtcG05VTJQODZrOWxmMVc5XzBBcnRvcVRsNXJhNXlPVGlldy1TSkxnb2l1RTdHbTk2bWt2dlVFUTEtaXd0MUU3YUVPeDhTRUhZNA?oc=5",
+   "id": "504facfce3",
+   "title": "COP 31: Why global climate finance cuts could make Africa sicker",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORC1fNk8tNUlNbm5CMWx4bUZVU1lpMU5sckJvZnRWUWlPNGVfRUppcWpsanR0UHFDVGJSTVRzWHhJYU9sTC1NZGlLdUtuLUdEZnVQbTlrdjl1TVA3ME5CRUt0NVhXTWRvdVBNQnVmUEpnWUE4SUVLblpwMGdYZEV1a3RtUVRrYTZuUEFoYndQWHZacnExcjFzR2hzdm51a2g4VzNCRlpfZ3JWV0tfSWlhQjJITmdwYUp5TE5uSzQxazRZUEFvdlRKVXBpYXFkQ2lPRVNFcU9yY2I3ZW8?oc=5",
    "summary": "",
    "image": "",
-   "source": "KBC Digital",
+   "source": "The Standard",
    "region": "KE",
-   "date": "2026-11-13T09:00:48+00:00",
+   "date": "2026-11-13T05:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -413,57 +430,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "f84cd61e2e",
-   "title": "Lawyer Abshir Abdi appears in court, seeks to narrate 11-day abduction ordeal",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbUt3Nm1yVlRyZWc3Mm1DSHoxMGlxS29OdzI0bUpNOEdJcE1tQWpfWXpzUF9ZdjBBd3RzQlAxYWIyS3FRbzJ0RFdMNUptOXViOFFlYjZVOFRBd1JUSUdEdHIzU1F6RjNVbTllTXRGcDR4aEllR1JFcktNRVozaWttYWJZZjhrNWpwOU5iVEhNUGRnTjhjQ1ZtSk0xalFZNVB6M2tGTzdOT0ZyM09oYzFsOVkzZndsNFpQWjFXTjh4RExzTDNycmhETDdzS1F5TlZHRVlYc1Nia2xBV09pSmc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-13T08:40:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "c70b9dc9b5",
-   "title": "Microsoft outage spills into Asia-Pacific business hours despite 'partial recovery'",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTBoWWd4RERubjVsYzEySXNZbklMS1NBeDB1aFA5N1pDTmdiSzNTOFhxcEcxU0k3OTFReFNBUGt1SGN4ZXZrTWRjQXo2eWNRZE1Ud2lGeE14VnhMcy1qcWxKNVZKaTVrdjBxbzR5a3ZJNUwwb0RvQkZzbm9sNHFJRlZRRDFhS2M3QjJyRFl2WS1jWVB0VW9zb3IwMGduWlgyTW55WFpER3NKV21SNnJ5OFQtSFVoSHp1ZHctUjZiNVVDU2w5dmpqS1FVMGhramF4UHlZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Nation",
-   "region": "KE",
-   "date": "2026-11-13T07:32:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "0157278389",
-   "title": "The origins of Friday the 13th and the associated movies to watch",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjFnQV90ZU1OYjE5NTU5Z1VsaGF1OTd5Z0JPTUhIb1JpMmdQNUdqM01pY19jZngxbVdFLXAyMDJkZmJ4R0Q3UDVjX3VEVUNkcGRqYXFGMkhJdFlDQUpaV3NFcFdMaHdyQ1lDaTVMeWNuUmxuN04tLUFFTlpHZW9kZFNNZFZUd2s3LWpYVF9UTGdxdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "KBC Digital",
-   "region": "KE",
-   "date": "2026-11-13T06:39:50+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "349e450dad",

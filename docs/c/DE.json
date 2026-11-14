@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
+  {
+   "id": "5c41f0bd4b",
+   "title": "Blende zu, KI an – wohin entwickelt sich die Smartphone-Fotografie? | c’t uplink",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUp5VU9vM0F5d1lvMzExazhiQVRjWjZ0dV95VTJWclJkbmd0WUZSMUwwbmlqYVFSdS1WRnVLNjhUWUlGOWNjOGFRSmR0QjZuMVRaSXJBOFVvVHdXZHdYcEdqaVowdEpPejg2NktTSnpoNXB3eFhMZlRzT042eURkeGVRcExFbHBicWw2VlFpLTY2VUlVZURjaXVPbjF3T3VOTW5fUkxOUFVZclV6b1FOXzVoMEs?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "heise online",
+   "region": "DE",
+   "date": "2026-11-14T05:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "d0ae959e9d",
+   "title": "Raketenstufe stürzt ins Meer: Fangversuch bei Starship-Testflug scheitert",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3pGLVlvWUt2TFl5MkVjX1hPWG1HNHdXQUk4NUhuNVpUbzVxeEk4aUFtY19vdDhaRWJDdzBoN2ZRUWEtUVFaSVc3Y3l3cWltM3QyOGV6SnYxVHUxcmZ2X1hiV1o3bUpjX1ZzTmlRSTdwd1M5X3ZmM0Y3ejVNdHpiUzBtaFVmVnN5c0NUMEFrbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-14T04:52:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
   {
    "id": "722ddd300e",
    "title": "Gefälschte GTA-6-Shops locken mit Rabatten und Vorabzugang",
@@ -55,14 +89,31 @@
    "topic": "Society"
   },
   {
-   "id": "d18dd737ae",
-   "title": "„Mini-Mond“ 2026 QQ8: Wie ein 1–2-Meter-Asteroid kurzzeitig zur Erde gebunden wird",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXRqakdqaV9Ed25PaXF1OEJDZW8tYWgxOFZJUW12blI0QlBzYnlXQ245UVdWdUtPNDBLU3R4SzJuZmJJTXhzV2RqSHlQUFdFRzhSdURKQWZMWUI3dm5sRjJuYWNqWUpvUkJmeVFncHh0N09NbXVBSGFZYVFiT1l3QnkyeWVwdG1DQ1JLTkgyS1Y4bXZOY2l4czlfanFmd181NnRCSTJ4YXI0UUQ5dVdneQ?oc=5",
+   "id": "5d37c0c332",
+   "title": "Nach missglückter Beauty-OP – Gina-Lisa Lohfink: \"Ich habe keine Kraft mehr\"",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDR3SWFFZFVJVVlVX3c0U0s3MGpYcUxMMnZmTTVoUDRVSmNrcGxHMmR3LVBPQ2g5TmZObkNnaFY1VEpaMDVTVl8xcjAySW1OVlJiU3NLR2hiMGVxYnotUFVTMUJ2a2VUc2pKUlRyb3h5eF9zNmRaUnpkMlFfck9JTFR4RUE3b1N0bndEQWVJR212QzdjdFB0eTZWcng2THRIbmwweVFpX0tPOU5WdVgyLWpHSXVRanhVaFBvMUxjWnpMcDZtNEtnOXVqYw?oc=5",
    "summary": "",
    "image": "",
-   "source": "it boltwise",
+   "source": "T-Online",
    "region": "DE",
-   "date": "2026-11-14T01:39:01+00:00",
+   "date": "2026-11-14T02:17:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "62081f3ec6",
+   "title": "Ukrainefriedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzgxZ0hEc29fTHphcHB0eGhVY2hMZFF1Y2NXdW02cGd1VVVMVDhJOUZjUUhVT3ZjSlYxQl9SRVRhZmFaeHNSblZBSVlmR2Q5OUNOVlBlbXlsbFZCUDJBRWN2YkxsMUdJUmhWdGthNlZ0c0lKY21OX0xuNTN0ODJBNGEzYTdkWXRLMnJrdjRXajBqYlJjbHFnbnQ4ZzVSZkZjaS00?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-14T00:58:32+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -85,6 +136,23 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "db5b66fe45",
+   "title": "Svitolina serviert Sabalenka bei den Finals ab",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMUg5TkhyRzBnZDJvcndaYlU2ZzZsOTllbkNpQmNTODRjQlZvZGozSG55TmpGdWM0THpFd0M5bklYSVlQempiSWZSUkZ4bUxOMmprczVMRUpwVnhMQnRRQWZNVDV1ZjNwMUtub0tVZl81SHMtT3NlWnFXQWFxTm8tUm1JMC1UNHFMazYzdkwtc3VFV3VJUDFDTW56RXJ2MDBxbzNkR3BNZWVMaHVpbzZjRWtZSEVvUVVZb0pjU1hYbUxlQmhrREU3N21sNUN4dFRWak1rRHNOZXAxVUhnaDRqSHJ0MkdORzVGUVI3cktHYkg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Eurosport",
+   "region": "DE",
+   "date": "2026-11-14T00:23:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -191,6 +259,23 @@
    "topic": "Society"
   },
   {
+   "id": "74e4b44c53",
+   "title": "Vater unbekannt: Sängerin Avril Lavigne mit 42 Jahren erstmals Mutter",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWJZMFgyNjZGWFZEV0JXMHlHU1gtNndYMkEzaGN4WS0ybGw2OXI1czZYU3piM1A1TmxhcFhEc1FkTk1OM0Y2azJZZUJGeEZUbzlzRXhsZkJQLXlSRnBFQ2tLdkdmSHVDRThpV2lXNlVkNm44NmRwenpxMThIODQ5bDBybzlRZ01DcGNsZGNINEJPY05CVTBwNklHbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "n-tv.de",
+   "region": "DE",
+   "date": "2026-11-13T20:45:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "bf0a8aa532",
    "title": "Wie GTA aus Fehlern, Provokation und Skandalen entstand",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVExU29TSDZJMG8xMVo5Sl9Id3FuamM3elVWTTR0NHZZb09nWTFnTnE2Wkd5em5nMlNsWlkyYU9za1FnX0p4WWt2UUVNNzZzMjRUanM3NDk2QXVoSkgxSWM4dVVXRFpKdTBNaEoxVGF1dEg2M0hYcHVhVDBtS2t5eEd5U2xfUWhwS2Q2dFA4QQ?oc=5",
@@ -223,23 +308,6 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "21ace3ec36",
-   "title": "Erdbeben bei Nvidia: Was Trumps Haltung zu Huang über ihn und seine wahren Interessen verrät",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnB4a1BjLWktZVVYY185RUVGWk9LSG05QVUzblREUHNYLU14OFFGM2ZNRGdMcmJiTmhrdm5ISUNmN0FFMTFlRTZxZHpybWtJMFpiM2dXNU5yV3FubGI3cFdJUFVMSXFfN0xHTnFiYjRHRVA5WjQ5QWxwNWZnZVNsaUgxWXFSRXlOeWtwQTBtVXJRZTQ2cTFsUFc4V2pCTVNyVGgxUUlSQWN3UlBz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Frankfurter Rundschau",
-   "region": "DE",
-   "date": "2026-11-13T20:09:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Tech"
   },
   {
    "id": "a8197ef837",
@@ -276,40 +344,6 @@
    "topic": "Society"
   },
   {
-   "id": "06f1bd2fb7",
-   "title": "Siegesserie beendet: Deutsche U21 verliert gegen Belgien",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRnJyeUVGeGJxaEdzSjZBdV9zQk1uM29JS0I4TmdIcHhIWW5iT0NhWnp2cGtJYnFhY0tWQ1VHbGdKckg3M1JDSVdERFN2dkNZYjhaMjZJRTV6MGVUVUtOb0FWdlhKM3dOelFsTlotNFRMNW1CeHRLclZVS1pHeXgtYXBQZEF0SHBwbmE4enQ5SkZNYXJJQzZtZ2NKeWF1eklWRmZKU2FEeUlzV1hFUUxqM05XQmxndzVxSzc5R3VZdUI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WEB.DE",
-   "region": "DE",
-   "date": "2026-11-13T19:00:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9637354acb",
-   "title": "Gina-Lisa Lohfink: Eine missglückte Beauty-OP macht ihr immer noch zu schaffen",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVBGcFZSTEJ4YldIWHFTb2RtNHg4aXJmZ0ZJSE1LUlVzdlFwYWpJRmVZQXlCQjBiSjFFVGl4cTE0UlZwNXNlempHYWhBWGRPZ0FjcldEZ09MenFzS1A3MU0ta2RkV2RQUlVWU0ljWnRBd2xUcE5aWTBwR2FyaFZ5SDZUS29XUFhiZjBLRm5OMzY3UXlKZkJaeHBXLWZ0MFAxNmNJSFRkOGNOY1VJRDNYSTFqTnBGdVhyRTYzUzlrZVRRWFlHSW9wNTd0Y29KTjJE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GALA.de",
-   "region": "DE",
-   "date": "2026-11-13T19:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a45d38e6e5",
    "title": "Bereit fürs Upgrade? Samsung S26 in der Vodafone Black Week",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmE2a3JGMW8wMXUzeDJiaVd3eVhWT0daaWVKd3hxajhRa2syTExYZXVlNlFtNUxrY2Nva0hSRV9DYjV0NzZPT0c4bkh2bEtDNmM0cEk0ZzJfTkhpOUZwZFNnQW1fSkI0djJLY0g4MFZPZzFid0ZkZFhfSlVZRWxrTTk3aExtcGNES09hcnE2Q0g2d1VzbWVBVDdR?oc=5",
@@ -318,6 +352,23 @@
    "source": "SMARTWEB.de",
    "region": "DE",
    "date": "2026-11-13T18:20:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3a152140df",
+   "title": "„Kindergarten Cop”-Star: Schauspieler Christian Cousins ist tot – sein Bruder nimmt Abschied",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLU5YWkNaNGwyN2ppTkdtME84RVphazY0WUxPWGxXUmFNQmFYR1BqSGxJYnBaX2Vxc1NjSndITVotQmNOdW1JTEpRczc5b3hvUTRscnA1ZFNmVFdGX29jVzRrWW1HQzk4MzhxeDlST2dvWWUwRmRvZm9tQm92c0pNamUyQndqU1RDV0JVVUdOSzZTX1V6a0dkYTRhMVdsSnp5aWlMNzNOSXpqSHMzVEJ4aGQ4RUNvck9XVjFSTjVYcUNvNjdOWk5jR0VzWnZsbUtlZjZqM2hIb28?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTL.de",
+   "region": "DE",
+   "date": "2026-11-13T17:25:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -365,23 +416,6 @@
    "topic": "Society"
   },
   {
-   "id": "e76dc98318",
-   "title": "SpaceX: Musk plant nächsten wichtigen Starship-Testflug - Aktie tiefer",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc25xdVN2NUwyUEhHRjRFaUxpaWpLZzVXaTNBbUNyUDZhZTFGdndiN2dSTFlIdG9SNFRqZHB3Q3cycElRRmtXX3ZtQV84SlZjVVZpTWVZNlhnclB3UDN5Zl95Y0R2d1FXLXJ3RlhySkV0YzBsNjd5dUdhMG8yUm9mWUFEWjU2ODRESFdLaDY0VFB3TUM4U21WdlNIU1BFbXFYblRYeFctQmp5SnJROEcwckJYUlJQZXZTM01wdnBpSFllQVZkaGhtYXYtVjJWZUNqUnNadg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Finanzen.net",
-   "region": "DE",
-   "date": "2026-11-13T16:04:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7679754b3d",
    "title": "Besser als BMI: Neue Adipositas-Definition bewährt sich",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkllLXRqZUJPSnNBaFM0eFRfMU9Sb1dMc21LRHF6bFZLdEVwcUh6SnlKV05sQ21LeU9xdnlvOUJXUGlsUThPZlZjdDRvU0swUnVFM0hmVThGZEI5X3k1TUI5LUhsdVZRUUpwZHdlV1pVUG4zUEpCeUN3UmRaZ3hOVl9JbE9TbjZnN051U2p5MXc?oc=5",
@@ -390,23 +424,6 @@
    "source": "Pharmazeutische Zeitung",
    "region": "DE",
    "date": "2026-11-13T15:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1369a50844",
-   "title": "„Ebenezer“ im Kino: Johnny Depp bittet um Vergebung",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMngzVU4yWXQydllYOTJRZldIOVQzUzVRM1UwajBWcUg0dllUVHV3bXd2ZU45YmZCMU1rRkNIWjg3dTY4QVZyOXJVT1lNX0Z2a0lyZzhUXzFkVUFPYURGcHhNMWxyVnJwaHNaS1FVSld2OWticzZWSlg2QzlmNXMta0FtZG9YV2ZtQXphdUVrRlhJSnlkdEpmbUJTclBCYnBIZUNyQU5UaHl4YXlpcHdEaFNCS2RiZ1JD?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-13T14:38:36+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -433,31 +450,14 @@
    "topic": "Society"
   },
   {
-   "id": "a87c7556a4",
-   "title": "Ukrainekrieg: Merz geht von deutscher Teilnahme an Ukraine-Friedensgesprächen aus",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDhQRkVBaTVDM29WV09lS0xvNEh2eE9HY19sQzZOb3V1c3lDcmJ1bHdHcHVyTmxMZm1YTk9tSGJhVlhnSVVYRHIyWFg3cWl2cE9lUmlWQmJoUXFFN2hHcE9VZ2VCNXlkUFZCTzhBS19VX3hMT1AxcFBqTmd1ZmdGVHFlYncyeTcxbUJlNWdtSGhITHdRSXEyZmhYVzFUUUtEbzhNUEJUV29QQklRVk45d3pjV19kQ1ZUYXc?oc=5",
+   "id": "83150cc7d0",
+   "title": "\"Jahrhundertreform\" macht aus Nachrichtendiensten \"echte Geheimdienste\"",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWFMZk1rREJqdnpCWjByZXg0VmNyRDNUanF2NjJvdEg5UVk1Y2xnN1ZBSEUyZ3lhQk9oMklkUGc0SEdzZ2FsbXVpYnU4clJ3VDRiTVA2QTl1UnZEZnhaQmNyU3ZFUmlrVmtQX3VWbkhiV0NkQ1ptaldYaXdzMU1iR0xxbUMtUG5vWEtJaVhIajF1TEdhQ1FvR1hWdjlYOF9hSjlBWHBZQXA4OElsS1dlbQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "DIE ZEIT",
+   "source": "n-tv.de",
    "region": "DE",
-   "date": "2026-11-13T13:10:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "715cbd1612",
-   "title": "Gesetzespaket: Bundestag beschließt „Jahrhundertreform“ für Geheimdienste",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWhyMGFrRDFfcWxiand5RGxIQW1ScHllY0NITDc4NVp3SENORWdRRXhVVzVKWUpaNjZ3T3N6OXNOUHJFaXlyNHZmRjlvRFplUkFabGpPdkhmNkUtbmNLZ2NxUGl2OTRLSVJVVDJhZDQ4ckdKTDZhc2JQUk9sM0FsSXc3OXVlOS0zYXRoeWppd29aTXVjcHZPYk96Qkk4NXd6WmRBenNTRU8yWXoxZFNmbGxFVkpCMUYwTzBpT3BuSXRtY2ZaVlVreml5V01WeEVfYWpVRF9zd0hrZ2RYaTNLYUk2dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WELT",
-   "region": "DE",
-   "date": "2026-11-13T12:51:09+00:00",
+   "date": "2026-11-13T12:32:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -465,40 +465,6 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "4df15f133e",
-   "title": "Serientod bei \"Die Bergretter\" bringt dem ZDF Quotenrekord",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWotTEVpUEUxS3NVZjlaYjFJTGF3YzhqX1dsQ1JweVlMUHlTbjM2bnNKZy1XYktkV3FBTWpfZDlKei12QVdYLWJudWlVREo1SW94cEQ3T255TVNXZXBvZVpEeEZhTnFCZHBUcTZsaTZhWTUwVHFnbHo5QkV2ZDVNVDg5WXFJX0RnOV9RWGs5X0JScEJ5Y2pwT251V2ZhMkFZN3dnRVhtY25sWmhOTklCMGVwZ1dwRmM4RXlJcjhiVVFldnIxXzV6bEJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "T-Online",
-   "region": "DE",
-   "date": "2026-11-13T11:49:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8e8618e37b",
-   "title": "Regierungsbildung in MV: Kritik der Opposition an rot-rot-grünen Regierungsplänen",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3ZOaDN0eUxOZ2lLenJQRTF4MTd0OTRWSkItUm1LMDd1TzdGbktKZXg2aEdmcGlyYjBmM0RTVGl5ZEw4MmEtYTFuYUJjVzhFdVVzRmo5el8xdmVoaGlhT1F5Y0lIdHVIMFJCMENNYlVfZVhFRzhCQXRnUWE0SE03SkpJUS1zbjZkV29ZcVlCeG53WUtVOEtzc2Rn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "DIE ZEIT",
-   "region": "DE",
-   "date": "2026-11-13T11:18:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Politics"
   },
   {
    "id": "109a8b5e1b",
@@ -518,6 +484,23 @@
    "topic": "Society"
   },
   {
+   "id": "2c097b1a00",
+   "title": "Kurz nach seinem Rücktritt: Bericht über dritte Affäre des Nvidia-CEO",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTW5fb2M2RlV4S2NSXzlqTG4xWGZQNmVlb0wwSnNsTkJlXzJVS1JpT1h0UENYWEpHdC10X0ZOWFh1TzRiZk9jNzJMSkNaWTRRS0tPSG9KejVMN3VmbEk2NkZVc1JCeExrS3dndU9jeUhqWFVoTWJXZ1h5QXFvNmVkOTRwVDktS1RoM0N5VnJSVTMyVTh1N0dZbUdrc2RqU3dNTHJpOQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "STERN.de",
+   "region": "DE",
+   "date": "2026-11-13T08:46:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "0190145c74",
    "title": "In den USA sollen sehr viele Arbeiter auf Rinderfarmen mit H5N1 infiziert sein",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnNZbzBhUWhsU0s5X2FsM21IRVZJODI4aDZfNWxqRTNIM2locHlPU2hlVy1QZzFGQ1haYjJJVkZsclVxdDhzdmdsTHhkNnFNMVNNdVVBUW1wbEtaMzh2bDhmRnJFeVhHTFFkSHhZeUNMeWJRcmM3b2J3cElXYjJmWkE1bGJidWFmU0wzakNVR0c5S2EtQmh5dmE5alVPREZHVkgtRC1wXzF0YWlLYktqZXhGTC1RRGNSTHZPaXJvOFF5Mk03SnZaMERjYw?oc=5",
@@ -531,6 +514,23 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "38ff1117f6",
+   "title": "Urteil zu Grenzkontrollen: Bundesinnenministerium will Rechtsmittel einlegen",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaG4tYkVLaXRjQkl2VW1aLWVXSnl3bERHWDhGTU14c0ZmSFBKdlVOMWRFdjhxdzUydHd1SUtKUWQ4ZzUyV2VUNVB6dnZ0TTMwNTgtekRTaVJSZmJyQmtjdDFlWlVOTTV3ajVCR1VBY1AzbFliY0dWdnhCbG91SHFDTG9TNVFpZGE3TFFBR2xyYVFMTFJPNzVCRFhvX0JDUkw4bk82eTdnTldXeE96TjFtczI1bFdySmIxcS1uSUJkbDI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MDR.de",
+   "region": "DE",
+   "date": "2026-11-13T04:00:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -552,14 +552,14 @@
    "topic": "Society"
   },
   {
-   "id": "35a7edd65e",
-   "title": "(S+) Wie die Demokraten Pete Hegseths Impeachment verkorksten",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXRpR05YeVBRUXlYNHhkQjM0cTNuVFRsTFh3UENqU2tINnVCdnVadS1GRVliQjRmZ0NjNEdOcDBBQWJTT2VRSmRTSjZZOTJtRG5ZTVgwMDNtUUp1bnZVTklTVWo2NTNUTW1aa2hSSU5ScDEtTG02NEg2Mm1iTmZRa3NCVkRnZW1HMmk3empGUlFrWHBXRkJHX09sZ1pMc2pqb0NsSm4wWXhlMzA4YUpVWDluQjhrQkZ6N1NyMTR4VDFoa1VDVU0yRVBaT0Q0dw?oc=5",
+   "id": "1a6cbbee29",
+   "title": "Neuer Koalitionsvertrag für MV: Schwesigs Kabinett überrascht mit Super-Ministerium und Altersrekord",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFdUOXBQNWR3RWpTOWxrTUlzM1EtekVWN0RCUU01LVNLTGw5bEtNNlVTUEFQemthM1Nub0hhdW8ydTQyLTI1NmphTjBuU2JVYldmSW1OZ3pIRFVDVnhWbUdsSlBuTHFROHNHNUFYYURQMndVVThOV0pTSnBhWU1aQkxVUHRKVmxUbXVjazdLX2hwRFpNY29teFN3amQwdWVSNXk0UmZ5ZjRVc1RXRzhoMFlVaGdacGx4V2JJVEdIMHZKUlpDREFtMTg2UQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Spiegel",
+   "source": "NDR.de",
    "region": "DE",
-   "date": "2026-11-12T11:49:00+00:00",
+   "date": "2026-11-12T17:57:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -569,14 +569,14 @@
    "topic": "Society"
   },
   {
-   "id": "fb8ca9df24",
-   "title": "Pflegegrad vor der Reform beantragen? Warum eine Expertin dazu rät, noch 2026 zu handeln",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeng0dERxa3lQWVVsQ21mNGpUSHlQTzN0V0MzNl82T1FYZjRhSE5nUE8xYjF3QVV5OEJNbldISHNWb2stUnNiMml3V2VZaHdtbnkwcTgxbHVnSGtRakt6VVp2bU9feGVFdEJjZmdUZ3dwWHpSWV9rYlp5a3RSWE9lS0N1X3RZWHpKVFhhWmNMRUI0RUF5?oc=5",
+   "id": "35a7edd65e",
+   "title": "(S+) Wie die Demokraten Pete Hegseths Impeachment verkorksten",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXRpR05YeVBRUXlYNHhkQjM0cTNuVFRsTFh3UENqU2tINnVCdnVadS1GRVliQjRmZ0NjNEdOcDBBQWJTT2VRSmRTSjZZOTJtRG5ZTVgwMDNtUUp1bnZVTklTVWo2NTNUTW1aa2hSSU5ScDEtTG02NEg2Mm1iTmZRa3NCVkRnZW1HMmk3empGUlFrWHBXRkJHX09sZ1pMc2pqb0NsSm4wWXhlMzA4YUpVWDluQjhrQkZ6N1NyMTR4VDFoa1VDVU0yRVBaT0Q0dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ZDFheute",
+   "source": "Spiegel",
    "region": "DE",
-   "date": "2026-11-12T08:15:00+00:00",
+   "date": "2026-11-12T11:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",

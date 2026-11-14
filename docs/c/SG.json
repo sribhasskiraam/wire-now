@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
@@ -19,6 +19,40 @@
     "flag": "🇸🇬"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "29f0d9faee",
+   "title": "Man arrested for causing hurt, drug offences after knife incident in Yishun",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGl0TlItdE1PM3FpWlltYURYOHdBZl9QeTBvV0xKbTFOSFduekQ1SWhkNW56R2tveVlmUl9JSUFheFFXX1RGbF9sSWZPQ3pPUkp2SFZoSmlyNlFtLW1hR3VQazFkbkppS3pqZk9EbmhqZmJpMGxHNDhIY2pqQVA2UFk0WjdSNGpNMzladHpHajNjNHJsZjI5aWRaX3BMa1Rvc3puZFRrZU8wc3VfbGtPaDlEWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T02:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dc5f49cc2f",
+   "title": "Cool, friendly, evasive: CAD investigator on suspect arrested in $3b money laundering probe",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1hoOE9oM3hkWlU4SFh2WEhiMnVaa1VmY3EyYXFpWkMwYWpnakF6RUF4WHhSSXB6TE1nM3dFNGFSR2VIbjlud0FjeVkzUmU5cGRxVFVISFg5WGYxSUExRVRQb042aFFwUG5fZXRmLXpKekR5Rm9NWmdJZ1l0TGlVNS1RY0l3anJEeklCVE5EZURvQmY2eVg1cVRjOXlwTFFtOUNidGx2SEcxeDJ1cFBha3NMYmlkR0xad1kxSUZHaGJjcXpEa1BxenNubl9pQmE4MkJUYXBn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T02:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
   },
   {
    "id": "cce5a580a1",
@@ -55,12 +89,12 @@
    "topic": "Society"
   },
   {
-   "id": "97f8b8c8f7",
+   "id": "bd5f1e329d",
    "title": "Singapore start-up taps peptide power to tackle pet infections, seeks to replace chemical preservatives",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnl3MHZpRkZobmVIVGV0eXJkemZLVWpERFY2bEJ3aEtPZG1GZ0ZuSTRnZU5IbUdVOEZ3cnBnNU8xTFZTSkxnV3Rsd2lBY0FEWVBXeTVBU19pemt4d3RMQWtKR01YX1Z4UUhBcmhlaHVKeW5Wd3ktUUd1SFRtUEZ3ag?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3lTV0U2UUN4a0ZhN3VyZExYTGtQcWJRaE51cVRFVjJnaVVhUmJxV09VcE1zRWE0eWI5WWNiYURzMFhYZFBWSXE4bmNmb1lKdGozN2pFOUxEY1NpcVpzUHJvd0NBSDNuS0EtWGdSeVVtZzRHVnFfbG9iaTdyanU5RW5WUWx3QVFScTJUaGtrV0duT0dwSlRGNlhTcm16YW9fREN3Vm55b0MtaFVyazdPM3cwQlVpLUdzblpsajB1YkZHSUZDa0lTSjFsRy1OWHM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo News Singapore",
+   "source": "The Straits Times",
    "region": "SG",
    "date": "2026-11-14T01:00:00+00:00",
    "coverage": 1,
@@ -107,7 +141,7 @@
   },
   {
    "id": "af85762042",
-   "title": "White House confirms US-China-Russia trilateral on Apec sidelines",
+   "title": "White House confirms US-China-Russia trilateral talks on Apec sidelines",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUQ0eHVXbzA0bDFwak45Zm4zdFd6REJ2SnVLYUNVS3F5M3RNM1MtSmlSNmp2c01NbmNHSkNUcjd1REEtS1hKSTROQTZjUzhQNnpyLW83ay1la1RwTFRnQTlvOEdMUmh5dkp2aEV4T1VoYW1CNUtBYUJncWpuNFZqOVg2cVhHb3h4X1hzWmFCYjFmYk5mZDNyUXA1ZkNOU2hjQi16QXE0UkJleGQ3dG0tMlBGa09jc3lJYzN3Q9IBvAFBVV95cUxOYlBkRl8tMXo3dlZDM296Zjh0UGtEalk3TVFEdW95N0ZHYU5pZFZMWEdaZ0NLN3hzT0F1TjZWajZEQjJ4UFZuSUdsMWY3WjFCZ2hBbDFNazItZ2tBSW16dUkyUDM2UTRoR2pFX0FqTkdBZHgwUkM5SG9uWjdWREN4UmhKbDBub3dwRG5UaUFLVE9iRjIxWWRxck5VZl9aa1c3QnRvMHowOE5fMzJpZC1UOG42dW5NQmx5ZUMxag?oc=5",
    "summary": "",
    "image": "",
@@ -161,23 +195,6 @@
    "topic": "Sports"
   },
   {
-   "id": "7f3a24f2be",
-   "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "SG",
-   "date": "2026-11-13T23:00:31+00:00",
-   "coverage": 2,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "2d063fccda",
    "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeE9wUlNhZDFoeHgzUVdadWQxYnFKTmZZSmZCSkVKUjd1VkM3dXpxTV9acVExbzNZdElxTC1DbHpRWGlKV09aSmsySEprSHBGUHRvUzBISUFfUVdkdmlLU0xFUzlnbWJ5cmJleHR6eFIwcTlJTFVMUzVFNm9tMHRUU0gwd2Y2Z05TLUdXNHowQUdDT0w2b2NxTGRGYmk4TURxSlBJbTAyTk82VTNmQ1N6UTln?oc=5",
@@ -191,27 +208,6 @@
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d64af320cb",
-   "title": "ASEAN leaders gather in Manila with South China Sea, Myanmar in focus",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGtIbDM5WFFycHhxZndnX0lWcG9mUlNIVDNfSHcwOWNXYXlaU2hWeUo5Rmg4ZG1qRFpzeHRIdE5Vdkd4dWQ2Y1FsY1FTYzVhN3BxOEpjV0g5eVU5VTNURV9pUEVzMEZESXFyRkJBb2lLR3R5cVJNOVpHdG5WSU5XZzNvZGxHZVF3cFNhM3ZnRjNyUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-13T22:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭 🇨🇳 🇲🇲",
-    "also": [
-     "China",
-     "Myanmar"
-    ]
    },
    "topic": "Society"
   },
@@ -267,23 +263,6 @@
    "topic": "Society"
   },
   {
-   "id": "358b64a813",
-   "title": "Secretlab to open first experience store in Los Angeles, targets S$500 million in global revenue",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUTZmNXNNRlJuQktENVhlZ1hPazZnUmxrX1FUMnRzVTNQbWRCcjhUNFlhb3BQZk1xNTRXOHAyTjNjWHRlWFFyY3I2RXRqdWJtTHJTdno0aFQ0eFF0VUlKYmZDSkp2SGdoS3lvUEY4UkRFdENPVUlNMjNyN1QyS2VNRUx6ZDQ5WnNBenVyR1U3U1B6TmxJM0xmZVV2Qk9oMHRQZXAtZDB4akgxR1lhRzdSZEdiak15T2VCVnZyNVAxajAxSVZkVWVJRzF3cnVSY1N1Q3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Business Times",
-   "region": "SG",
-   "date": "2026-11-13T16:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Business"
-  },
-  {
    "id": "0a275fb7fb",
    "title": "BAE Systems Wins Spacecraft Work on NASA’s PRIMA Observatory",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejA2ck02WTg4UHQ0VEhQT2J3TG82TjBlX0JjdDFncXpFeXdPU3pIYmxXUFVOZkhtcmFYVmx1Y1VqWDI2aDdPbUd0MmZjNXdaNjNXU3FIbTdUcnAzaDdXamh2VHJ3aE5waFFFalhQV2hWWXNaREhyNHRlQlEwNUJnRHQ1b005UHBzNWJNZi13QQ?oc=5",
@@ -326,23 +305,6 @@
    "source": "Wrist Enthusiast",
    "region": "SG",
    "date": "2026-11-13T14:00:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "67e22bc4e7",
-   "title": "Man, 67, arrested for causing hurt, drug offences after stabbing another man at Yishun HDB block",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR19YWmktN190dkxaQXdrQ3B0WEMzNFJXUVcyeVByYkRIYkt1eUU0RDRXMGQ1bWs2Q0RRZm1FcTQ4NjhudTJOUmtFeWp3X3BRdHBvOEVMTWF3M1dpa3kydWNLQ0NaVjltU0drbWNwRGhIb3dsNHJXYVY2OVAycmM5RmZ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AsiaOne.com",
-   "region": "SG",
-   "date": "2026-11-13T13:23:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -457,6 +419,23 @@
    "topic": "Society"
   },
   {
+   "id": "c38be37e9e",
+   "title": "Mickaël Gaspar Souscription: First Hands-On Impressions :",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnJqNXlEZHFiTjVwZEFpQkw3aFhId29iZXJVZXk2MUh5QXVpZHZaZjdnaGNYeDhSTDhIc1Z6RXIyTFUyOTBJbWU2cTY1cmJGWHptZERMSGVNbndUbE1UMG5CWnhFc1RSWGo1bnkyNVdTMUowRlJ2eTF2QTJSUVU3UTFrVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Deployant :",
+   "region": "SG",
+   "date": "2026-11-13T05:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "5f474157e7",
    "title": "Malaysia PM Anwar yet to accept Loke’s resignation as transport minister",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk02QU9IUWEtVzNZVTBjMnJZSzFWRmxZZGVzQTc0RjZONXVjNVh3WXpRMDNrNFF5ZUZPeEZySnViSDNDb0gxS2JaT2liN3ZmSkNvOTlNZkhtSnlyVDdveWN4SENoWXhtMTZHVjhFcGhxY0RJMHlsdFo4ODVFb2M3M2lDZWZFQWdJN3l5YlkyaEd4UXJ3ZU4yWlhsbmYza0pqejJKTTRfUmwxMy1mZXFF?oc=5",
@@ -472,23 +451,6 @@
     "flag": "🇲🇾"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "44c55972ae",
-   "title": "No talks with govt on taking over AirAsia routes, says Malaysia Airlines",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUdUd08tYmJNdVFBeU0xU1hqLXhwUG9pTXRYQ00wVzZ3bnBqdERyNXFKMHdTbmJQb1ZIcWx1TkRLS3NoQmNMRnN1OE5DVUdJdkRjYVlYc0NlOUs5dllUS3o5bG1hNFYyZ0pZc2RCdWxhZDV2Zk1fOEFKdzUtQTVGX0ZZNzYtWURCODN0M3YwSTlabVRITkxHSnZneXZTQ0RLQ0ZBeGRoXzJ1NXdhUlNCOXBmVFJCTW1aVGFVSkF1Ny1kalkzaThmbDhQcTU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Free Malaysia Today",
-   "region": "SG",
-   "date": "2026-11-13T04:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
   },
   {
    "id": "9f2f82e924",
@@ -508,6 +470,23 @@
    "topic": "Society"
   },
   {
+   "id": "5e4289a056",
+   "title": "Inside Jensen Huang’s last hours as Nvidia CEO",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjZWNDk2bjVSblhwNHdLbUgxVGUxNXM0N1ExWXpSdTFCLUJIYkVqRXh1X0NVN0NUTjdYaXB3NktOUVBFcS1qRnlRbDlYUzRtaGc4c3BIbUU3dGNpTGozZjhRQ25DZlhCY3d2YW93b24tTWFOZXpVdklJVkM2bGd5VUZRd1RUcWoycXdDSG5od2lHU0E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Business Times",
+   "region": "SG",
+   "date": "2026-11-13T03:21:00+00:00",
+   "coverage": 4,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "d5c6817c33",
    "title": "Prawn mee eatery owner thanks wife who quit banking job to help out at his business, Lifestyle News",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcEd6cE01bXN5anBvZFAwM3daZTl3YTZpSUY2Tl9DTWwzYm12aGJzMW5UV181b3NIU0N0UFpqZHFOdkpBalZGT1V1LThCRG5TSTBPMkxQaS15VlpERHFoWFdsTkstR1UzdTdBYmt1V0lsM2Q1czZLTGl0Z3o0OUx1VzJOM25NZS1R?oc=5",
@@ -523,26 +502,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Business"
-  },
-  {
-   "id": "e9a99c1235",
-   "title": "As China’s futuristic city hosts Trump, its startups bank on foreign buyers",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG43c09QM3ZmaVpnZ1EwX1E5TlNiMUdLS1BKdWU0bHMxSkYwUmNoUzV6UG9aS3c0SXlIZXhXYXpZQzduQUt3MTRUSjdadVpHQ2wwM1RhZ0xVSTdNajZfODdzYk9zcl9MRzFRU3Fmdnc0S0hqQmRneGE1S0YzRm5KcDhTTnc1akRsZ19hXzhwelhuM1VyUXZNRDM0NlpTTVZndEdKMmlqVmo1TV9yTUV5LW9rbWRCRERX?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "SG",
-   "date": "2026-11-12T05:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Tech"
   }
  ]
 }

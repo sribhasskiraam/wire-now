@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "6c17f9e31b",
+   "title": "Canada's Alphonso Davies exits vs. Guatemala with lower-body injury",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXpCQkFpUXJDV1NTcWc5N3h4bHRNOVhIeEp1WHZuTnFKZUFaYWx3VTUxaDFPaEJGbnVsRWNLWlZCbFNnX1JsR09KZmpIWUd6QWE3YjlmVXFkck94MFpCV0FBNEtwTkZIaVhScjVpVnZudjZyTXRPUzZFXy1PU2JjdnYwaWdiaTA3SHp3YkNzLXpzLWVXRjc1Z1hHUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-14T04:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
   {
    "id": "232c6b0c3f",
    "title": "U.S. flights resuming as nationwide ground stop lifted; Canadians warned to expect delays",
@@ -58,14 +75,14 @@
    "topic": "Society"
   },
   {
-   "id": "6c17f9e31b",
-   "title": "Canada's Alphonso Davies exits vs. Guatemala with injury",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXpCQkFpUXJDV1NTcWc5N3h4bHRNOVhIeEp1WHZuTnFKZUFaYWx3VTUxaDFPaEJGbnVsRWNLWlZCbFNnX1JsR09KZmpIWUd6QWE3YjlmVXFkck94MFpCV0FBNEtwTkZIaVhScjVpVnZudjZyTXRPUzZFXy1PU2JjdnYwaWdiaTA3SHp3YkNzLXpzLWVXRjc1Z1hHUQ?oc=5",
+   "id": "8934c8befa",
+   "title": "Thousands of students protest in Montreal against austerity measures, school conditions",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVMMzlCNUZaUjVwX2laZ0pJYndGSzdWVU9YMkJqVkZ2UEUycTNnaXZYYmFIeTc1MHVLR0pKY3lvdmhwbWRVd2xyWl83QXlvQkh0OVV5cWxSZTVsLXZlTFVfeEF4RXpNQTR4WTdQT1hzOWVKY3FDdHZjUFgxdTNxWXBwdGhDelBMekl6Q3h6aVVPVXl6UkF6Y0FOZHpicEdYRXB6Wkswem5MMEpERUNTZ1UwSnpSYUg2TDdqSW5XdUhpM01UM3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sportsnet.ca",
+   "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-14T02:26:00+00:00",
+   "date": "2026-11-14T03:19:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -92,6 +109,23 @@
    "topic": "Society"
   },
   {
+   "id": "51f13944c8",
+   "title": "When Einstein's Gravitational Waves Meet Newton's Tides",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmJtQnJ0NHlrTG9odGprcGtDS09IWkwzQVZ0NTJid08zSnZDTWktM1NlNjhLanlFaVpDeEdNanktWm5YR1BQVVNJcGY4VVVKOUdZblpLTkFEQ0lReVdZR0JVZmlBQVhfcXRfYkZLT0p2aEY5QnlmQVRhMFFrMUVYT3FsVHFmTjFtLTFmM3lRZURpTWdlUlow?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Universe Today",
+   "region": "CA",
+   "date": "2026-11-14T00:35:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "496b5166bb",
    "title": "UK police open sex offence probe into comedian and author David Walliams",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlhqYXllaGlEdG5SdDRvd1FQb3JTdW42ZC1yZTRSSkZBQ1Fzb0g3bTdrWHZITE43TDZXbDBtMGtGXzMzRFNSRGd3MVE4TEpSQ1cyRzRZS1p0VDdQQmZlTkFzMVFNMjZIWEx2NW5CYlhrczRybHhFSEJvYTBKTHRfREtkbGczZ1N0blprWmgzemNySVdJdTY1SzhpWVV4VVdPWXZ4QTJDUDlVUEF4cXVvWkRBY2zSAboBQVVfeXFMT1ZXcGczbE9VbHhCT1lFdERvNFlTczE0UXFITGdERndSeENtTkJTeUJPdmhpNnA0N1M3cDdPVUdLcUFlQkRzZXAzVXVOanhHTUxZRzdnLVdHdDQ0X0huQmVmRVBUcDZkNFdTdGMzUExud3c3VEpMSk9GMnVVemprVV8waDdUWHVIRl9XOThpY2lXc05Fc2ZBR3h3UUdOSjFwM3h3XzM1NjlPZWJWdGhoc29KdGplOW04OFhB?oc=5",
@@ -109,23 +143,6 @@
    "topic": "Politics"
   },
   {
-   "id": "f6374baa61",
-   "title": "Ben Major headlines officiating crew for Grey Cup contest Sunday",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2lFaEVQWUh0amxsOWRWSkVLSVNadFpSTkJISFFuMWpQbG9Ba2pjUHNqMDJlVFNfWER1VktETEMtTjRFM1F3LTNDZ1lCYm9LckJrbW54N1VVZEh4RFBQaXZ0NEhTRTBaUkRjNmpOQkpDY0Q1WDN1SDNWOV94NVdyTEx2cVdvS1dqNDFiZ2J5NDZHV0JQUDY0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TSN",
-   "region": "CA",
-   "date": "2026-11-13T23:57:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0a13cb0105",
    "title": "Ottawa, Ontario working on package to persuade Stellantis to cancel sale of Brampton plant",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbURZeVctVlJoTGRYdTZJa19hZWUyZUdfYWVEQXBzXzlnZ3FfcW1BWV81S3cxYWNhRFJvaFZkT2hIdllKOU5NLU1MYnJHRmxfbE5kR05adjFMRm5SMnNSY2pvRjUyX21PS1RoMlpyU1Izc28zMy16eEhDNDNOaWcyWHA4WXppREs4X3pOOGRwSmRydnU0WDhLZVAtNUR5OE1hWks2S05NUWNiaFYzOEVnQ2VUQlc1QjFJZTZ3?oc=5",
@@ -134,23 +151,6 @@
    "source": "The Globe and Mail",
    "region": "CA",
    "date": "2026-11-13T23:38:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5cf3181d44",
-   "title": "COVID-19 school disruptions still impacting students today, learning loss report finds",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81enM1dXZZTHJhRG1wSEFTdTM2d2VTRERGR3F3Ry1VcHpYT0ZnTXN5UkJNU0Fudm5ST2J0ZTB2dEpncW5oRlh2em9FTXVYMlVrSWpfUGRLQWlGekZoNVhXZ2JVTHdhX3lWckxZLXdxU1NpM2NHaDRxN2Jn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-13T23:33:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -313,6 +313,40 @@
    "topic": "Society"
   },
   {
+   "id": "e6b6766802",
+   "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNENSQWo2eG9BYl85Q0NnYUFfY291R0wxMmhqYTZRYkJMSkhpNVBhOF9lQjlKcFY3a1d1RGRhMHNVVUt0OVFjQWVnaVo3UDczdkdPSW1zSGhyNVNNWjZiTUtaajlEMW91d2RidkdNYWZmcEtaanNOSXdqMjRJZ0t1cmNYRmdQZUVVS3BMMXFIZEdZNkZCcV9EVXkzWVltTXhtMGVoQ2JYWHRfZERCZkFKTXFaT1BlUGVwYmJSSlBYaUtEeUhNMWtNR0RWSksyaWZGVjZDTDJoWXg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Space",
+   "region": "CA",
+   "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5fd371d839",
+   "title": "TwitchCon 2026 Kicks Off In San Diego With Announcements Including 5-Minute Clips & Classic TV",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JVUZzcW5acWMwWEFZWnNDNllwN2R5REFOUldZTkV2SkhMbnB5TUhYRWpFaWl6TWdtakMzOHA1TkNVLW56a2J3bFVZUm5YY1J6eWJvbEpPM29UNUszdFdXTVRuUFBJNE5Yd0FnT3ViRi13eHI2NlBUbWNmTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Comics Gaming Magazine",
+   "region": "CA",
+   "date": "2026-11-13T20:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0623cf5028",
    "title": "Apartment fire causes $1M in damage, arson charges laid: Winnipeg police",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUS1JTTF0d0U3elRWendOR2VWQVdMYld4TFNSZEw2MjhfVkMyLUpkRUhCWlJFbjUwZTdwZDNVemJVQnBaSThnNEQ3TlBRc01tRDdzYzZqdUVwenJrRGpPbmpaYTF3ZG1RYmdpbVcxcGljTUJKVWRkZTdoajRYdjZqTS1jNExQbmxjLUViOXdVMXJhaEFQS1R4Y25UWG0wcldJU3F0SklOS0RCU3pXSTVR?oc=5",
@@ -398,23 +432,6 @@
    "topic": "Society"
   },
   {
-   "id": "2dd2f9378b",
-   "title": "Canadian government investing $200M in B.C.’s Woodfibre LNG",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVFyblpMaWJkbFBlTzdOVjNiRXF0LVdmQU1HVjZZbkJFTzZBX3U4SC1ma01VSm9oTkpnckNpamxIYVVMVWdnN2RfZXdaZWhRUW9qSlBXdmI3ck5sSlRoSWMyOXBfd3FsVzdaNDdtZTlrUC1jeEx0SkZYMjV0RzBWaWRUejd1RV91cVpubG5iQ0NtZnFfYTNEWkh3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-13T18:30:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "4330a9062b",
    "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont. on Dec. 1",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdWJLQ1VSbUlpeExUQy0yRzRPZ3NlQlZwcl96eHZSRFhLbTJ4WmQ1cU9lU2FUY0RLRGgyVHRIb2tQdkFqaXUzWDBJdjJJeHN5SEVsUHVoMW5aNWc4MmVnVTdRdW5ZeEpn?oc=5",
@@ -449,14 +466,14 @@
    "topic": "Society"
   },
   {
-   "id": "172be58d62",
-   "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0dWX0RGbVFpVmZHRmZpSUdVQUMwNmFsejUtRGcyVkVBY3FDVXhIRDBkY1pzWjNSTl9tamVpbWdHZzZzZmN0NzB5M0pNWGVmTmNadlFVYVZMUHhSNWE5WllCVmtYNFpWWV90eTFoeUpLbE5qRmktOEdzQUYwcHNONEU0QlA3S2xRWVB6WlBfQzctM0l2bFJVVW5QVzh1b3pIY3pxT2xONmtsams?oc=5",
+   "id": "a9aed114b9",
+   "title": "‘Painting is not that difficult’: CFL Commissioner urges City of Regina to reconsider decision to stitch Mosaic Stadium turf",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaUdURUMtY01aMlhKdHNMZ1g5cUYyY3RVTFNsd1Jfelo4S0FWN0xCeG9fQjM4SDZVSGpCS3Vyc1lUaHhaZ2VPSFQ3SHdkaVNsMFdkRHU5RzEwYi1HRENmX3lHcmprTm00cmx3bmNOUDh3aGlaeUZQUzZwRmdiWXV0bHMyb0RoeWZWVkljTzAwM0Z3Yl9zUmlOY3IxNWxrYXJuNWtJMWZoZzFSTGg5V3pDUHNfcUFSbXlZWmtKN2RueTQxODVBUC1NY2dKTVp2R3o0YzJGOFNiZlg2VFlETERXbUQyNHpFdEZfODVaVWNSMC1NUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Universe Today",
+   "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-13T17:51:00+00:00",
+   "date": "2026-11-13T17:03:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -517,23 +534,6 @@
    "topic": "Society"
   },
   {
-   "id": "afacce9777",
-   "title": "Gemini and DECam showcase a young Type Ia supernova",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NbHV1MWZzSUhwcjlISEZOaFZNdFREdXFVS1RFUkJmVnRSeGxUV0J0YmJQRkxkMkdVbVhiRUc3VHFLVXI5c3hxeDZVTkdNdURhLVVpYU9oaHdkSzY3RnVwbTFtMFFHSjFQakx5UVBWcl9BLVU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Phys.org",
-   "region": "CA",
-   "date": "2026-11-13T16:20:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0843ddf5d6",
    "title": "This Week’s Sky at a Glance, 2026 November 14 – November 21",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lrNWtTSVQ4RE9pU1BOV1RLMHhhLU92OC1iWjNhcC1hNWotZFZ3VHNQdkFnMnptTGpyUmVuSWREeXQ4ZmlfOFJlX3VPcnE5U29qRy1tNW9XLUllaXpEZGxUT2dpNTlMSGpmNEF6QjJxeEtZdnBhQ0lOcUJPOG1DN0Ryd2s5V2ZNWDlyMHFBYw?oc=5",
@@ -583,6 +583,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "2d3ed67aeb",
+   "title": "Canada to invest C$200 million in Woodfibre LNG to grow project's capacity, source says",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG9FMWVSeGhlb2hKb1JMN1VRZWNCWEsxR1pFanBrUGFEdkRUZmJySFh6SEk5RnU1WFc3U1NldWRNZVJONmU4VHhsb1lCTUxRZkVOcmxOS0pJODJCNjhaelJCbS01MWlVem1sUkpaYXFWVWVCVmVXUzBYOEVydlNZRVRVYUtmajl1NE5GSmMzczBPQzctd1I1NTNReGtGU3hiclZkSklsNmVnS1RfQ1BTVElnQ1V4WXktZnJlNlp3SWtuMVJoUHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "CA",
+   "date": "2026-11-13T11:58:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "7d8e2d0154",

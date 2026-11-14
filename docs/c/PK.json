@@ -1,42 +1,8 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
-  {
-   "id": "ab8fb0adeb",
-   "title": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlNhWk5pSFNqTUFqUWN1YTYwMHV1aEpNQUQ4cjcyNVJhZ1lBSmM1RW52b09ZVjEzMkpZdHY4WlhoZlc1czE3U1JjSXVhV2pSTFUtLTM0cjM2UjJGMktVeWc3a0xfZ1RVbUtCcy1uYWx3c3hUT0FkcjhyOUZ0cnNyRDNEUjBOdVk2bGVUNkd0R2N5YWpJVHl0VHBCLVRndTRBZ1hydzd4bUk2MUFORE1XNUtlbWl4Qm1hTXg1OHln?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "PK",
-   "date": "2026-11-14T04:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "43c23f7e30",
-   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "PK",
-   "date": "2026-11-14T03:46:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
   {
    "id": "88eff6a1ab",
    "title": "World Diabetes Day being observed today",
@@ -89,6 +55,23 @@
    "topic": "Society"
   },
   {
+   "id": "73413b1890",
+   "title": "US flight shutdown exposes deepening air traffic network crisis",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-14T02:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "75b14d1889",
    "title": "Bloodborne Just Got A Complete Overhaul On PC",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSVgxX1JnbFJTbEhZN2xXSVkyZ19KUlJkTHNqaFAtRzlMZ1JFaU5oc21UWXRnZ0R4NVNNQkxiZEdCY3ZyREljX2o4U2NxNzVtMExlLTNWM0w0UWctc0hYeFVTZ3lNWVV3Z3ZTQlRyUGk?oc=5",
@@ -102,27 +85,6 @@
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0f156993d9",
-   "title": "Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVFBRWNTOVlKblQ5Y3Y1bXBuM0VPTGVXdVBkVkFCYmFPbVJvSk9WN211a19NWHFkejduQS03UDZCbWtMQi1HOWotOTROdjZyc1E2U1JMYVVsUFpFbmpyVEw5dnNlXzgzT0RqODBvY1Z1enhMYXRLX2pXUWF4bTk1WUd1T0NUcXBEYUwxOXZyRWk5bEoxeElPT0NLX2o5Sll1YUlWekRR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WSJ",
-   "region": "PK",
-   "date": "2026-11-14T01:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇳 🇷🇺",
-    "also": [
-     "China",
-     "Russia"
-    ]
    },
    "topic": "Society"
   },
@@ -144,6 +106,74 @@
    "topic": "Society"
   },
   {
+   "id": "4b44f966d5",
+   "title": "Showcase event yields over dozen mineral deals",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWk0VEVIejdFYzVmOWtUeER0VTNEbnBTQ0RQYXBWYVhNQ2VpdXBpazRxQ1M0Sm1NTmRXSVpOVFhFeFlldWZjMUY5bjh0eFRnSWwyUnFtZWcxSXl2SWVpZkZRbGtWWFlmeDV1WDNRQVZJb05HMElkZVBhRV9oaFQ5aWs2ajhJVTA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-14T00:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d767434677",
+   "title": "Islamabad to go cashless by year-end",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jODRsbFQ3TUF6aHR2aXhGTzM2c0NjZm4yU1BkaWd1NVV2Z0VFcXMyMUdKZTZuUTU3RjdOR0g3cHU2VDRtR2FwSHVMem82SEQ5M1pUdTF3MHViV3h0SXRCWEd1aU1xN3JLam1LZmE3LVAtNk1INUZiSGFR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-14T00:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "73499bc4f4",
+   "title": "Human rights discussed with emphasis on gender-based violence",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0lvQzhPaUtZeHhfOUFvbFBxcWYwQ2o5bklMWTJscHIxdjhpRi1tSHpSTG9fZXZWQVB2d0hzbkI1RXBZQzUtR2hJcTdlUTFXekJTLW1IMmRheTZ3N2Qta0V5OXRLbzBKYTVWdnVONk9Uc1ktWGpZN1ZobWs2S21RSlFMUkQxZEZXWFVIdUFkNUw5eXYzdmJkNzczdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-14T00:25:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ae87096465",
+   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-14T00:25:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Business"
+  },
+  {
    "id": "8a5a227468",
    "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
@@ -159,23 +189,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "04a28220a4",
-   "title": "PM courts mineral investors, CDF promises protection",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcElMb0pNME9nN1ZOM0o2MjdvRWVtOW5PazlrZG5TWVRxRXM5RVc2N21oY3RXTzRYeVV2bC1YYmRXcUNPd251b2xzdzRGZ1ZaV2I5UXg4ekZaN0hIdlVkcjdwSFVsbUoyUTRlc3V2bnA1SkUwQ3JhN2ktbndFLWFBZUtMNzhCcTFoMjlrYU0wSDhieW8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Nation (Pakistan )",
-   "region": "PK",
-   "date": "2026-11-13T20:05:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Politics"
   },
   {
    "id": "fcbc899da0",
@@ -233,9 +246,9 @@
    "topic": "Society"
   },
   {
-   "id": "0f2a35f750",
-   "title": "ECP suspends programme for local government elections in Islamabad",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXZscTdPYTgtOGpLVmdYTkNUdnhueTgyMWpMT2JxbkUxcDBKV2lDRTVId3FXTkh2cktzUWRXZ3dod2Vpek8xR3I1dzZ1SkJ5WEtDSkp2VFRheFN4MjRqTDQwTF9lN2xmWEgzNnppMXpQb3BWSXl3a2xYblI3dGtMUEdHMmRFNkxZRXdHdVk4VUh2eDVENkhoaEc4QmtXbUFOc24yTg?oc=5",
+   "id": "0d45b5fb3a",
+   "title": "President's Spokesperson rejects reports of discussion on provincial matters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTdUTVRqT0c4UVh0VEc1VkJQcUJVZTh0UWhQcGRyMHNDNmN0RHFPeWpsUEZOSUdrT1JXYVdCbEZPdmNQVXdZbFhTQW5pTkxBMkMzQ0c1MWQxYldjVVlIWHpoeDlEaU1yd2NoeDQ1T19HWUx3MC1pYWkyVlBhQjVma1VUOWl2Vmd5ZGlGMEpVcHd0WmdwajQ3NzdzLWtoOHZrSGhYZ1dsd0hDNGp0WHJMMA?oc=5",
    "summary": "",
    "image": "",
    "source": "RADIO PAKISTAN",
@@ -248,57 +261,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "14fe4ea9b3",
-   "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zQW96X29FMFZfUTIxV25TYUNRZlBGLW9xbnhQTnJZYjctZm9iRnFZMWREdndqeFBzLTZTTXFZamlNSTdBTDNRVw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-13T16:00:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "efca009da8",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJCYlR5dlhvNXJ2UlNrcHpZZ0tCNVZLVnBmUVB2X0R5NlNpMmRESDhlUzZiVXRUWlFYQ050RmRLX0xvRkRUdnJnX3hOSUc4RGItVXRCZDlmS05CWDZWMzRYbGhheTJxN0cwNEtNSi1KYV9wUEh0a2pJLUc2V00zTGJiUnZfZDEwQnNxNWhIc2Jqa1N6TzdvV1lEZlFPblU2UGhPZg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "TechCrunch",
-   "region": "PK",
-   "date": "2026-11-13T15:58:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ce25660a59",
-   "title": "Thousands of UK Gamers Face Downloading GTA 6's Pre-load For Over a Week Due to Poor Internet Speeds",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFVqUHZ0MXRfWEw1Q1dBMUs0T1dlM2gtRzBJbHNJdzBLVkZJQnpGaUg5MS0ydTl1LUVYUTU4QW9SVjJVcngxajNYWmtLbU04WGZyNlk0U1RwVWhlQmF4QUJZOEVWVENCZmhySFlNRVNlYWV1Y2RaVVF1aEhHeGkxYWYzRDluc2ZhZ2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IGN",
-   "region": "PK",
-   "date": "2026-11-13T15:12:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
   },
   {
    "id": "7697e10de9",
@@ -317,6 +279,23 @@
     "also": [
      "Iran"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "661a4fe1f2",
+   "title": "Deepti Sharma bags second ICC Player of the Month award after Zimbabwe series heroics",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVFGSnpIcC13MWdsVDRLajY0bHBDTFRFcjFrQ0JHMWszYjJoN3ZScC1Yc0tRV3pHSXI4MFE4UDZMSGpFa0RKTVhiMGtNbGdzc2lERFhZcEtxbDVXM2d3VHI1MXVIWmxfcEJvWnllQzNXODh1VUUtWThuUlYwMjQydEFCTzdiS3k0aWlWQWpGbTRwYmJUVm9GMWRfNzBWNDZYY3FCS0hVc3FjRFpRMXBkQzdDdEcteThoMWlnd2pYSm02a012MndF0gHMAUFVX3lxTE1Qd0s1eVlLV1NuNFBkaWF5SXM2T0dyemRjQWE0STg4YjBTQ21BaUZTSVJoTHFvaUI1QTlVQWJia1dXbXFwcW12b0xrdVk0LTBWaVFMMFFrOGFGTVM2TXRmYk02dzVmR3BxVE5DZkR2N09HMF81NEJUeHZqaEJtWjNfR3VHU3lBdllpWnJVWVFxVmtKN0JhNTl3YW9NSm8yTUxZTDR2cURPZm5qQUZRbmZvaTc4SmZNR1hhTzdkajZRTzJWb2VQRnB5WThDeg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "India Today",
+   "region": "PK",
+   "date": "2026-11-13T13:37:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -358,6 +337,23 @@
    "topic": "Sports"
   },
   {
+   "id": "90cc83f466",
+   "title": "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjIzMXU5XzlDRzZwb0F0OExKYnFKcEhwQ3J1QjFCQzBRLUwxb0ZfRy1GYWI2cDUzc3hSelZYbG5yRE5MbGE1QmF6eFFuQ1BZcnJsMXhUdnMwdHJuOHh2SnpKZWhESGRUQVFfblprUjhWNktCemtrRS1ZdFowTEswdlFaWXVpNkJzWG1Td0VGVHlVRlItQXpnUHJoekZlcG4yVG85Zm5UQklPVXgtczA3eXhGRXlreFNJTDFB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Economist",
+   "region": "PK",
+   "date": "2026-11-13T09:23:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e17900cacc",
    "title": "Palm oil prices set to recover in coming months as production tightens, analysts say",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmZHpyLWlQTlNRVEIxUnF2WG01U0psVUlBNEdKLWRjLUVBMTlzWk1WeDl3NDZqdWxHOVNCbl9ZMUlIMjBKeW12emhoSVBXTnd2?oc=5",
@@ -373,23 +369,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "c906793816",
-   "title": "Pat Cummins: Australian cricket's sandpapergate is back, reopening wounds in a 'nation of good sports'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dnFQZ2Y5cm1YQmlHZlVIV0k2TTFDZmxheUhuRklXMlk1UVlIa2VSaFlkakJ6ZXNMLXBVdlBnNk9aZVJCcGRBMUwtOGhJcVBObUZzajNwYmRIY1k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-13T08:20:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Sports"
   },
   {
    "id": "e0ff623b3f",
@@ -446,36 +425,39 @@
    "topic": "Society"
   },
   {
-   "id": "4d32cba2d4",
-   "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
+   "id": "7aa6707a01",
+   "title": "Lisa’s ‘Viva La Lisa’ Las Vegas Residency Setlist: Every Song From Night 1",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDN3dmxKUVNraW5RME9iemhsTGkzcVl2YWZUYXJqM3Nld3B1UjFFWldOclFpRXpyanBHalVEUGl1aGtaU0FJREJpMUt2d3Z1d2U3Y0tJdDlLYWJYWkFIZmJDbW9Vekpucmd1bkZRLWp1Ny10NnlLd3lFa2UtSlItSENBSnBSWGVHM1YycExmSzM3Z1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "Billboard",
    "region": "PK",
-   "date": "2026-11-13T07:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Iran",
-    "place": "",
-    "flag": "🇮🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "74cbdc67ea",
-   "title": "Oil prices set for second straight weekly drop on signs of growing supply surplus",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "PK",
-   "date": "2026-11-13T03:01:00+00:00",
+   "date": "2026-11-13T07:43:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "947ea31b0d",
+   "title": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZWM21SNjNsMVEyeEU5MWxSMkh6Y2JiSVRkY1BqNVUtNkRBV1lyN3pwUmwwZDRiVU1Pb0hibnQzWmstYV9OR2VWV2ozSmFsRU92SHptbnhKejhkWWsyaHhGd09fdTZMVnZnWGYwVTBFWkp6NTNNYm0xTVp3STB3c25JU1piTFVHT0V3aFp6dkplUEZETnAzS3RFUFlaZ20yR1JEUGhGM2E1YjBYYTk2V0VKclRFWkZJcXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Zawya",
+   "region": "PK",
+   "date": "2026-11-13T04:11:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇷",
+    "also": [
+     "Iran"
+    ]
    },
    "topic": "Society"
   },
@@ -531,6 +513,23 @@
    "topic": "Society"
   },
   {
+   "id": "8e5196ec99",
+   "title": "'Utter nonsense', Australia skipper Cummins denies involvement in sandpaper plot",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1VwRHRsQ2h5aTRGbFZINXUzOXd4TFBBZWJUOXU2VFpjZnFsTkpNTFJ1Y1lJcHpWbFk1UUljYlIxZFRyWDZXXzVYNzJRY3FqUlJGd0lhYkZnS2MxcTFqV0htY0kxSkV0U2NZeUQtNkVtMkxOZnE0Njd5ZjcxLUJOYkxNenBCYUVFWmlUYTRwc09kTU1GeVAzQTA2OURPcDVqdmtWLUlMUjhZVHNPaHluN2ZBbG1YWWhtUGozMDY3VlVvUWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PK",
+   "date": "2026-11-12T23:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0c65e3d467",
    "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTEybk43ODZTYmdLWGp2cGN1dlp0M19tbTBqZXNucVI4WkdxdHVDalRneDNpRWVuZ0hYLUdrU1M0M2FuZi05N09iTEVGX2lZcFhPVGluTDRnQzN0eWh6bVI2Y2dfbWh4WDNCSS1MZGVRdS1Ram9KMnFwTmwyUnVJV3BR?oc=5",
@@ -580,23 +579,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "6000a3ab5b",
-   "title": "Bilal Kayani calls for further promotion of digital payments",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOG11UFN3QXBNY2k1U2hlNzZyUmFidFRiVVRwaVBpVmY3SFduOWJCcnktUzFUVjYzWEpnRUZoaGpmNkhJUEFKeDFiZkZPa1ZQR2JOSXlBM01tRWlVdU5mVV90YVluRjNjM2I1d085Q1ZmSDljREdZMno3dWFRSXNZYl9WdGlTaWlHclI0b0JWVzRTZTI1NVc4ZHNIUDk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RADIO PAKISTAN",
-   "region": "PK",
-   "date": "2026-11-12T13:52:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Tech"
   },
   {
    "id": "2e33cee564",

@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
+  {
+   "id": "18fd51c8a4",
+   "title": "Albrim Pay launches Small Small App, recognises first business partners",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaS1ZMFoxWkFQaGxhX2FkNDJWdXhWYjhtY0w1eWpFN0duLTdzNEJwRG5salVkT0ZwM0h4VFNZSUVGQzBZc0h6TWNUaF96NHR4Q0dsZkplUEx0VnZOTEpBMGlsNzFRT2c4d2Z1dDhYbWYtaEVOVUx0ZTNLZ1NWNzNjMTkzYS1KNGNzdzN6MkpIalQtbUpLcXhieVI2NWU4ZVRBT3RKMGxyZkRsd2ZKbDBjMzdBeGV2VFlrUWQyNEpn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GBC Ghana Online",
+   "region": "GH",
+   "date": "2026-11-14T04:40:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Business"
+  },
   {
    "id": "76d12d181b",
    "title": "Self-sensing artificial muscles made with graphene fibers play piano and move robotic eyes",
@@ -38,26 +55,9 @@
    "topic": "Society"
   },
   {
-   "id": "b08aa074d6",
-   "title": "Evolutionary DNA changes may explain differences in primate brain development",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEVkUVJvOXcyTGtwMFhtVWZuQlNpclRoMGpxNnFubGdzMlV3S1FwRHpKSXYyMGgzaUtEYUpVRmxtdks2OFNBUWNvcFFWMFpOU3NMOXhnTG84VlpHSy1zdkJJT1hoeEM2VDZYcW8xZHc2NXdZelJwREItTWU4SUlKcUZia2lPU1NDSGNWRzFuYXU3UnJQOTdsR2R3bWs1SGU0bGNESC10ZjQwZlZ1Q0RCUUVfcDQ5Q1EySVdsMF81c01LWWM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News-Medical",
-   "region": "GH",
-   "date": "2026-11-14T02:41:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "877e03355e",
-   "title": "2027 Budget: Ato Forson contradicted himself on borrowing – Amin Adam",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1h5NHlrQzhxMmtDaU1NRUZ1dzZsN0IyRm5McjhCdmpha2pUYjZmdEpybEVuc1lCUUFxTjlQbG1OWFZjaTMwWUFtaHpjNDdveG1tUG5pX0g3WURXWVlsc1NBSVUyamh3QlhBM2NvbEZobWZqcTM2aUVsc09DeDJhWXN4OTBneDVGckNfU081VE9icXJVTkR30gGWAUFVX3lxTE95b0F2QUNwb1AweTZBQk53d3FOb1puLXJ1MVhHeFpYcW9UTlNSaV92NkZCdVFFY3BObXFiRHFRZ0tHZFZlbVYzdDMyUmZnS2FCa1VxMUEtS3F6bGZvQ21nNnJNVWhMXzlIbkdfRFhsb2tyWEVGT1FlWG9oOEZia2VUbVNIMExfMm5jYl9mandPU3ZDT01YQQ?oc=5",
+   "id": "94908b880a",
+   "title": "2027 Budget: New Economy is ‘copy and paste’ of 24-hour policy – Amin Adam",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVF1QkNrbWdxT1ZsZ2xXQnQ4QTk1NWthRkVFaTZURnNUZWdpRjlrc1BrdTk3S1VxaTdXemt3eUxHa1ZPSDFTbkVlZ3hQWVNSaldZRXF1aVEwZXVyU1VyQnFRekNrT0RWWFJvWVB1WGMzZzRPTElYeHp4Wkk5Q2ZGd3o0dkFROHJiaXpvcTRZTGpOX2JE0gGTAUFVX3lxTFBFNWJYTndVQnFsZFY0ZmlwY2JETnM3S0xnMThOcGJnMEFqODFwdldueVV6c0EwRGF1SndtWjEyX25IRHhLd1VZMElZNGZUUFlfc3BsYVZrRFJ2MUNLb19oQlJUQlJFSzN3TFQ3SXNqTzNJaEEtd2VEMWNZMkpZZms0WEd5bnZKcktUNnNCdzdwdjI5bw?oc=5",
    "summary": "",
    "image": "",
    "source": "Modern Ghana",
@@ -70,6 +70,23 @@
     "flag": "🇬🇭"
    },
    "topic": "Economy"
+  },
+  {
+   "id": "d72dba43e7",
+   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUEtuaTR5Vzh3VzM2RXFzek1rVFQ5cmZKOV9TX01mS3ZSM3ZqVU9oZjYxRzJ1cEJsSjUzSnFlQXhIdkRoZnlYS25jNHRxcHdHdVpuTEhaYkVsTG1jZ2EyNEhiSy01bjQweF9xaXFIYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Science Daily",
+   "region": "GH",
+   "date": "2026-11-14T01:14:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
   },
   {
    "id": "a8e481e3b2",
@@ -174,23 +191,6 @@
    "topic": "Politics"
   },
   {
-   "id": "7e97c5fb50",
-   "title": "GRA intercepts smuggled goods concealed under okro powder",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1JDdDVNVXNncWJwN0hiU2dMdU5QLUsxeHlrWmxzTWFUcno1Y1Y4YWpJclVXUU5VYVpibTQ1US1XTEFMbzVOSkRhUVdnc2ZuTGpna0VIWW9tS21hMGFKRmh2bWpmY0ZlT2hZejRHTFdtOXZTUnhOcVJ6YjZsazUzcE5EaTZyMEhTYUZxV0o5NVJodThvTHpaWmQxcG5QQU1LbF9Jamp2cF90aVk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Graphic Online",
-   "region": "GH",
-   "date": "2026-11-13T22:35:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9f84d13afc",
    "title": "BoG Board Member Beatrice Annan provides clarification on GH¢50 note and Theodosia Okoh portrait",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTHQ2eFpBb1FTSm9MS21JT203Wl91NFRReUEtMXZleVdyem5OV0dnLXdVczlZZXdHLXZ6eExwQXVEUHBFQWZVTzBQNGJGV1NUSU5jRllKV2ZKVnpoRVhubHBSdGtJUE5WZ2xfLXRwRGxucm1uX2JhNVNCN2ROUjZuMFBaSnFoaS1ILUFHb0dEOUtsemxzMXZuRTZma3dOQVFLWTBRMlVELWExdEVTYkhvQ244b3VCSU53M0JXdGRJem8wbEIzdWIwTjB2QVFwM2FTZ0JSLWxhRUp6LXJpcWdv?oc=5",
@@ -206,23 +206,6 @@
     "flag": "🇬🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e6a6e9383b",
-   "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuTG5Mc1g4SHFlbnhyWkk4MlE3VjhzRG91bDVoUDRBZXRUM2M3azN1cXhzSkRxRDR6bjBGdi1PTlhUTGRtek1pOXRoRDdmV0tsMlhud1FobXY5TkxHSHg0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nature",
-   "region": "GH",
-   "date": "2026-11-13T19:26:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Tech"
   },
   {
    "id": "dded3a825f",
@@ -347,6 +330,23 @@
    "topic": "Society"
   },
   {
+   "id": "6bfa7c84f9",
+   "title": "AUC Chairperson has arrived in Accra, Ghana for the 27th Extraordinary Session of the Executive Council of the AU Dedicated to Financing the Union",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzVaOFdLQVBXSmRfaTFKRGdYbkZXY3pYZG12VXVOMEUyV3BpUDZ6YnZEOWwzRTYzb05QdHIxa0RzZnlEd050LVFTZWtVakw3WExWWXEtUmQ3T19objBxMjFzYnBCMGtBUWV2NC0wOW5IUXBXTUNWREU2Z0huTlJZdGtqNlhrWm9LcVJRY1RmUnEtUTZtMVQ4Wl9fRFM5ZE5qaGVEOUhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "African Union",
+   "region": "GH",
+   "date": "2026-11-13T06:28:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c06de7f089",
    "title": "African Arguments Interview With Dr Antwi-Boasiako Amoah Ahead of COP31",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wU1RBRzdvNDBoX2hYZGlrTWM3Sk9tSDRTVlRmZUx3QXVfMG52YjBsbHRQcVNZRUQ0bE5DdHdEZU1hd1B6UjM1bXc3LXZJWGxObHRlTmJYUFRjYTQ?oc=5",
@@ -396,23 +396,6 @@
     "flag": "🇬🇭"
    },
    "topic": "Business"
-  },
-  {
-   "id": "fe5e2f6b9c",
-   "title": "Ghana to host AU summit on financial independence and sustainable funding",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGFVVEh5ZldmU3c1SDd2bzJ1TTRfZktva0FJRkp1QW9nZHhLT0l2Qmt2MTJScXZmQjNMZktxcWhxYVZvSktKZzR4MDRpaGxvcHp5cWtyeko2Vmtxc1RCeWVkSkFnaW1qYXllXy16OXlHQWwya3BtTEFlTWpkSDY5TlVMQUJyazlTZXI1UkRQOTQ5NEN2RVJLcFlTd9IBmgFBVV95cUxOWld5N3A5clU1SG1Da1A5SFdqUnJDZXZCUldoMFAwd1NhN3FuTWhVbTQxUjN1V0VPOThZTU1rb1k5WHRYRDFMSW9yRF9CZW41M0VmblFfdDdrUnlZaDNzNzUtdERPd3pELWFhMDBQUjd6a0NHNFpramZ2cWF2S2VSc2ZjdlBkYkF4bTI5MFBWTUFfYjVjNVFzREln?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Modern Ghana",
-   "region": "GH",
-   "date": "2026-11-12T08:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
   }
  ]
 }

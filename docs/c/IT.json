@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
+  {
+   "id": "1db65c9104",
+   "title": "The Voice Senior, trionfa Giovanni Scribano",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZi04Y3M0LWt6Vm5rOVNoUUhYaXJ0VlVfUERDOWF0R1NlNkc4cWN0U0hGemJ3S1ZGdkc3UWcxNXJyVWdXWUU3YndONmV4OU9XaXlxdWRpaEozejZWdGVCT1UySUxpdlBWNVpwSGRiYk1nVUJ2cmV6S0RMMFBwbGcyZmZYTDktTElVNWJzTEFkbnhoX0VmUDI1dGlHQkk3MERyMkJBTUxnZ1dJU0lINGxLZVJvUnhmZnRMdkFzRnJzb3pfd9IBxwFBVV95cUxQdkhBMTlGWmJYUGtXeWxNSmFvNjU1clZ0N1B0bG9mRXA1N0VhMzN3UXVLcUFVcTByajZ2RlVtUXBCOXM3T2pTa2o4Zkc4MnpmOVZlQkN6QktQNk9CanJmYzJMNjdveFB3WnJFd1hXeWJTcXFfcm1sRGU1Q2l1cnY5TktLbUhFSzhBdjdPc2tYek1HREtLa21ZSzJxSVE4UEV3Q3gyeFpfNnVWX3JmT1YtQnRsTW4wYVlBV2d5RkF5TUU3aXdZRGhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RaiNews",
+   "region": "IT",
+   "date": "2026-11-14T01:59:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
   {
    "id": "ef714b6778",
    "title": "Starship, stanotte la sfida del doppio recupero: la torre proverà a riprendere al volo sia il booster sia la navicella",
@@ -72,23 +89,6 @@
    "topic": "Society"
   },
   {
-   "id": "baf4dda842",
-   "title": "La Germania di Klopp ritrova il sorriso, dilaga l'Olanda: 7-0 alla Grecia. Fa festa la Svizzera per la promozione",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMnI4dWd1OWlUX3NKZlB4NENaWU82XzhrS1VqOFdqMEFsb0k2ZUlmenNsTFpTUi0xOXZndVU3dFkzbExUbUJzTEppOThJX3FlM2Jhd2EzUUd3U3NDeExQdmZxU0I0WVRpTGJBQzVwaHU4dF81R3czYXpmZlJrZ2hBdGljT3RjNVRoR1ZUQ0JmdHZTZ3g0WEJaeEEzcFFOejVnaXRFSUxfelJwNjBGWVlCeDI4T0k1YV9EU1Y4VjNCRkxTZXpJa19qeVNpZkg1MEdfSVpBb2JHOEd1ZjBKNUZqMkVKZXdpNEJNT0VOV1V1akFLbVo1ZmwwZ1p1bnAzOTR1TkxpZVFaelp5aVVES1RfdGpJN0pxNEhuLWNSY0ExUlR5Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Eurosport.it",
-   "region": "IT",
-   "date": "2026-11-13T22:21:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "46d43ce633",
    "title": "Mosca: “Mai parlato di Ue ai colloqui. Finlandia fuori dalla Nato o niente pace” - Zelensky: “Mi aspetto il più grande scambio di prigionieri della guerra”",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUktGcnpkQW9hRnJ0T1VrcEN3TDRBb0RQLUM0dEpJRHJGWEk0azhVajczNER3Slh6Q1Q2Z2JNLTd6cmk0RWljbWJWUGRMdHJNVVVROExhVW9NZDNjTzluOERKanFZekxYRnlqdDJWWjBWMGlvYnRVc2QyTGFKaTFzZjZzamNGYjVRalFxQm5LY0xWRzVfMmlMOWpkUG5QRkI4aFVpUldqZ25GYXBPMFZseXZSSjA4dFJManJ2WGpVYWJqRGJkNWlGYUl2aXY1cnNQM0xfaGlQTEdXYV85a05oQzNHWFNaWkNzc0VBWlJzZWJIT3B6VTRSb0k3Wlh5WXlkQWlWYlQxWU81TjBjRVQzczhCNNIBmAJBVV95cUxNZkVFbFd0a3RxQnBoYkpVZ3dvNVA3RF85UXpKdGM1eV8zanhHX2tWMnVPYmNGVjIyMWN4ZzFDRVF3ci1iZ25aUHd5cFFibmNUVXlXeEM5Zmx5ZjE2RHI0MkRxQzBaZ3huMHg0UkVFUmtiNks0YkZDUktjb2M0SEF1Y2NIY1UyNi1OWTF0OTlUc3FrSFVGZF82UDA3S1FGOHplWTZiOEh3V1pQbTNvUlNjbjdOdkMzSnY0UWpRNHNEa3VETEpveEtCRFFnc1pDbmFoNFdlMjluU3RaSlltazhqbldIdTc0VHVKbTJfMzRZMkZfdEZTem1hRFlRZ1hSU3VkU3BncE9mZS1LQmhDT0FSWkpqOHlNbVhC?oc=5",
@@ -104,6 +104,23 @@
     "flag": "🇺🇦"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "999148f818",
+   "title": "La Germania risale, l'Olanda esagera e ne fa sette",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUlMN0oydnZ6blZSeW1iRGFTRmtWdWlMeVE5NERkcmQ3Z2lObjJqVzYzR2dXNUtzSEItT2ItMVdYYkgyVWpiU3dJVWpGLVZnRkN2d3B6azIzMUJibDNOUVRwcmJJQXFaakZSVDhqaHVTSEhiV25BX1VHbmpVN0RubzhSRW9RVGhXWnhycEtLU1JWREt0RlgwX3V3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky Sport",
+   "region": "IT",
+   "date": "2026-11-13T21:43:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
   },
   {
    "id": "1b0cd7b8eb",
@@ -191,14 +208,14 @@
    "topic": "Tech"
   },
   {
-   "id": "2178ee9320",
-   "title": "FOTO. Da Cobolli ad Alcaraz, che atmosfera a Torino per le Atp Finals!",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzAzS0VXZWNEZUFGYmFuQ3NGSlZLTjViQkZpSnY5VTZYeEZTNzllMjhvQlBFYnFXSFZtUmRGc3hmWVI5LXNET25iUXhMQ1gxRl9IcWxsR2xUYTh5MGt6OEwzSHR4WlJGMWpCMGVMMVVOQXRadkNaS1FMUExac3FicFlUeEE?oc=5",
+   "id": "3da8c1dd04",
+   "title": "Atp Finals, dal cappotto in pelle di Cobolli al total black di Alcaraz: le foto della sfilata. Ovazione per l’azzurro: “Anche noi nonne tifiamo per te”",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmFPYWNzV3NvajlsVHpncXBPZDVDN3BZUkNDWG5uU0VpRHNZN2RROWN1QWtGY0lFYU1ZcFU2a0dLOXBKNXY4R29LSFo1RTZxYTJHRHgzenF0ZnhDd0dXU0ZsVEtRTmI3MURIT0FZNl9yeUJYeDRPZGNTbTRMWTB0RnJaQUVSdDYwdHJ5RUpBdERRa25tSzlzRkQ4MGxFbno2Q2ZzTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky Sport",
+   "source": "Il Fatto Quotidiano",
    "region": "IT",
-   "date": "2026-11-13T20:06:09+00:00",
+   "date": "2026-11-13T19:11:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -276,38 +293,21 @@
    "topic": "Society"
   },
   {
-   "id": "d7fe6f27f5",
-   "title": "Dacia Maraini: 90 anni di ombretto verde acqua, come i suoi occhi. Il suo autografo colorato",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWZSM2xTeXNZTVAtMkdCYjJmSXcwN01sZzRHbnlfc1l0Y0hjSjhMcG1ZbHJHenlLcjhOLWVKSWdzOUh4aGJ0UDBTRi1kSVpGTWxMbDhvQVdoTVhKRWlvcW5fWmhJeUhycnAzaURFNzdWcGdCaTJFS3NudWtpVXJLSnMtVndyWlFOV2lIcTdJbkM?oc=5",
+   "id": "4234c7ec68",
+   "title": "Settimana positiva per l'azionario europeo nonostante le incertezze sul tech",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZV9pQjhraVlDejJ3bXNYMjMyX0tkWVpNeVZtZ3BSYXhycGE5Y0Vhb2VHUUx6d0dDUkpOaUpKNEJOOEpHbTMxeWNnajZUWDlfNGlNUHM4MjBDWkp4Y05mRS1nb25Ob1Q5YUUzZHp5Y2RzYWk5cHhiTnZFUG0ySGZHYzFIYmdnbHlZcG82X0loZ2lmNmNsd2I3WWloWHhQSlpyM2FaUzNBU3pPMUNtWlVYMEVIN04zb0NiaWthb21GTHVBMG1FYl9DSTVXM19UMk9jamFHX2RJV1hLS3V6aFhIckh0S2NWLTJ3aTE4cDFGRlZLcVprLVo5T2FvN2VUaHF0?oc=5",
    "summary": "",
    "image": "",
-   "source": "Amica.it",
+   "source": "Borsa Italiana",
    "region": "IT",
-   "date": "2026-11-13T16:15:47+00:00",
+   "date": "2026-11-13T17:02:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "65d6c197af",
-   "title": "Crédit Agricole insiste su Banco Bpm: «La fusione ha un forte potenziale». Ma Tononi frena: «C'è molto da fare»",
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPOVJZN0hVWkp5dERlZUc0dDJ0LWh1SllycG80RFdVUDFqMmZKY0xqdTFjcFNuc3Vsenk5YlZzcUd3UDItMF9DbWxaYjRSYkxoZnBKVnFmbVE1WjlXeVFPOUxvZ216ejRiNHc0N1BIQlNaYkxsbVE4V3RnV0VyeDBJV2Z1RkZVLWM0UjVoY25lY0ZEaE1Qc3VHYkJnRzVqUDdyQmo5cWpTM0RHSnBXX3NqUUZaQTlNOXdDcndBaUN0cjlLR1k4UDE2eVFhODh5TEpxTHgyVldfUjJienBwVEEzcTd0djNRMnVheHd0Rm1SZUMtMWlSaGpGM0J2RXJoMkhLNW16b3ZhZ0x6WUJIOVphLXJLR1VlbXBFbzdYVjVQeTdiQVJROTltOTVhSdIBsAJBVV95cUxNWVhLN2lCNnhOaGJGNE1rbHM4OXhxLTdYdGNEaGhxWjRwbi1OSlg1cUcwdmQwMnNFTThhcmxQSGUzajZtU0ktRTM3aWVtN2UtTXNNM3ZMeDE4VHVsTkg0MlN3dEpmR001VVEwaFdMcFJnS2NCVXhrSVl1UGpZbGhlcGoxY0otNmlnMVh6c3JiTzk1emRRLXlIT3lsQklKQ0JDby1MUE5zdVV5ZTVLOUZqYjZXWjhxeGxmMk1kMmpIMS15cmU1d2lPaGZrZGYzQWdPREZuczh5RFhKMGxNM3lBVzlLOHlOclc3alU5QlJDNHhxOEp3TVpNb0lpSmlDQ1h5dW5tSms3UWNFcl83RUdSNUl2eUxYOV9VR2xWb2hwcnR2TnlTR1gyRk9vVWpLMHV5?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Corriere della Sera",
-   "region": "IT",
-   "date": "2026-11-13T16:09:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "447a165fb5",
@@ -318,6 +318,23 @@
    "source": "Corriere della Sera",
    "region": "IT",
    "date": "2026-11-13T14:50:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cca73e274e",
+   "title": "Sui social i meme festeggiano il down di Outlook: «Non va la mail ed è venerdì»",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnZzVlV0VDU5MGlnc3pNLTBIb3hhN29JekRLTTdvN0dpdk1aN2VnSExfX1hINy13by0wUTB3RFo3TnVIaU04QTJWbjVTZnRHcDgyX2ZNN3prdFZDRm5qdkpaZUI5NXVJS0dSSVhUNHNjNUwtRTAyZHdwSDN3M2JRa0ItM1UyLU50ZlZRclRERHVVT3VGcXNoT2F4ODQ4bjNfeC0wQVlLcFFTZ1o4bnA4S1lZSjBqZkpQQXdXYXpXUzRnby1lVV90OFk2WUpLWnhERlhBMExGUllsY3c2SDYwVGZ30gHnAUFVX3lxTFBrU192QXVvb0VOWTloV3ZMbGhFSzRkU2ZZMWtndGpWLVJoQU9OTDNhdXpYY2xNRTlkWS10aUpQSEVWSDFrb2JNM3NpTl9qREVaNDFBcVVVLW5FQ1p1VG1HVFlzbEE0RkV5bENlVVE5VnY0NW82aVdNM1o1dE1JYkVZc0FlcW9WYllldDlRT0JfY3VhVWI1bnAtc2g0czZoODAwTU41YXU4NDQtdjlvdkdaNzh1ZWlRTVR0UlNHbXFLUTROVkFWLXVwZHVtZGNISFBoQmNudUFOQ2lKT0JnajA2RkMxSGlqMA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Corriere della Sera",
+   "region": "IT",
+   "date": "2026-11-13T14:23:35+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -344,6 +361,23 @@
    "topic": "Society"
   },
   {
+   "id": "2711eaf47f",
+   "title": "Diversi utenti hanno già restituito l’iPhone Duo: il pieghevole di Apple non convince tutti",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVp1OVZVc2JaS2VhWFBZT0p4Qk82MWJ3SEQxampTdnNJaG1kWHVZWkFJWFpuNFNoSktOX08yUlJqTGhXYmFmTlVLLWk1bWRCVlFMR2prdVRndlRxRWkySEo1THFzLUVzTkQ5blJ4OHRxUTBNaVVQamlpeXJybGNYSGstMGNqQi1CaU5ha0VScU1zREIxUGRxYW14aW14WVN6V0p5dEQ1a0syZVB3bElDYXNyZDZMMHhZbTUyWXpGYXBwV28?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Multiplayer",
+   "region": "IT",
+   "date": "2026-11-13T12:18:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "c42695c05f",
    "title": "Famiglia nel bosco, rigettato il ricorso: i bambini non tornano a casa. “Per ora rientro graduale”",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkZ3UGF5Q1ZjNkJldDJJU0o5R01hODJQTk1uVW1md1NybUlkTllUeEF4NXpCNkUwYko5X0JEaVNFcjRtcThtVEJZSGV4aFRES3FQMm54X0dkN3pmM2cyOVIxSGdKZW9ZbnlXM2hwSVVTQlZaWXpLeGVLNElvSGRYeTlHRjJDcGlrV1NXblRzU05UNXUzN1dJVWhDM0hta2R4RGZILXRodzIzdG1lbE1YNV9ZY19fTG5tNFFKY1RfVdIBxAFBVV95cUxQcnFOTHFWNDdRZWg5MGFUa1gxQmN0bjhjVnB1eGpiM0NrY3Fyazl3UTZwTmZhVkwxdmlfdGltTnJiSEZILUg0UlFfWDRIZERyaW5MTmRzNGx1NVVGOFEwSzhhUm5yUGZjLTBUZTNvbjNCVXJLVXhLQmRVWmRQMG5YZmRnVnZfYXFDNE85V0lsUVdhUExfZHlnTThIak5CSHE4R1duRDZOQnMtd0JyRThfUWNhb1o2ZWZnTXZ0ZnlsS0E0RVBD?oc=5",
@@ -352,6 +386,23 @@
    "source": "la Repubblica",
    "region": "IT",
    "date": "2026-11-13T11:50:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "af9a3ee5ef",
+   "title": "La Russa risponde all'ad di Intesa: \"Manovra sudamericana? Offensivo\"",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNkpYb2JlZEhiQ3hnVy1UdWtNdzBFSXZHSTFSNU9ZUU11WDUwajBZa1pObWMzSm9JZjBHWjNTclA3WkdJcm92RGN3TjNLUXdBUGlMUlZEWjVvMjNrRTNtTnFjNVhpRUdBVDFfOVF1M0FiaFNmblc3MlhRSF9YaFlBaU5iY202V0JVZmVXbDFOck00ellYUTlQMjZ3R0ZHRFJ4b3lGUjJlWl9JTG9tbnVKYW9BZTJzRFhXQ2VtUUhhVXVDaUhqeXloclFpX2tHVkdFeExuODhZOHVOQXJYbUx2bndtSVB5VG9OcDB2OFNqQTAwZFh2TmR4NjBYM04?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Il Fatto Quotidiano",
+   "region": "IT",
+   "date": "2026-11-13T10:59:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -378,23 +429,6 @@
    "topic": "Society"
   },
   {
-   "id": "6ed04bb430",
-   "title": "Outlook e Microsoft down, cosa sappiamo e quali sono le conseguenze",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2RMbGczSHhOYTJaWk1LWnphdFRDSm1rN1p2dl9LSVJnRkN6TnJwaWxKNFZ1blItSXJSdnJsVm1tUTZvLTVWMWx1RHFqZW1uSjVCdzNvME5QeW5Cc0Y3YWF4QTVuYklhdkFxS1kxRVQyWFNWWDc5SkJudXRoaENPUi1FTFM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky TG24",
-   "region": "IT",
-   "date": "2026-11-13T09:57:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "b99f8c38af",
    "title": "Attacchi hacker, l'allarme: \"Nell'80% dei casi la vulnerabilità è l'errore umano\"",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbFF3VmRXZW5WOTFxRmpwVjF4M3Jtb3JDMG8waUFDdm1DZlFkdExndlcwTE5fYXEtbUVDaFZBUGpNOFlQT01nQU5TVVBZMjNVZE5NTm9jWXh6eUIyOFJWOTF5SGNZb1NRR3NkNm5ncDZCYWxxUzl0bzV4OUNHT2RCQ3NMUWFOZllleEtxRFpWYlRRalhMbkVLenl1YkVWUW9ZVkFqajB1X3NGbEtBYjQyTlVoVXVHeFBjTjl3Sm5RMHMtdFIwZngwQjVhWmFmOVlGMjFRWWxqRDFVa2hLTllCd3VkNS1VS043MXk0MmphTnV3Z2dCNmfSAfsBQVVfeXFMT2NmanMzbDdMMlFsQjBmYUZ3di1keF9nX3BGTnk5Z0ZLb2QzRVF5Z3VzcHg2WjhONHc3Smg4dnFJSW9HdnhCRE9pbWF5Y2JBaWJnQUlaUUNlMWxZR1pOMm8zN3ZNV2lzTTRJMjVkM1dOZ0x1R1R0NlhENUJMQzRabWdCU3ctSkR1UVJSaHJ6UTA4Z0F5MHZYV09pSXUwMzV5T2RzQ1QydGRhcXdHMHJ2Nm5FWldjWFN4NF9aa3U0V0VFWjJoWmtDTEV5cTlhd2pNSmdlQ1BNV1FkbXkxVFI2Rjg2V1lwcm9lUFJycUFHSWFucmFZVklyN1M5V3M?oc=5",
@@ -403,57 +437,6 @@
    "source": "RaiNews",
    "region": "IT",
    "date": "2026-11-13T09:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ce8a0efc42",
-   "title": "Maltempo, esonda il Metauro: case e garage allagati, una persona salvata dai vigili del fuoco",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFJBSWE0MVlpXzV1T3djZUhZUEN6MDNRTHlselFHb1MtR2lvUEd0RWdZR25lckVrdlBXRklQTjg0Xzlid2FqbUFzZXVjVmFibktwMGNQajV2UUc0VlJLWUowNjl0a1RBUjNvOHlRYVktOTR4MXpEWkNQVDZhVXhEbXJn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AnconaToday",
-   "region": "IT",
-   "date": "2026-11-13T09:23:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6950498537",
-   "title": "Il gameplay di Fable è stato mostrato in un video da quattro minuti",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnZhd0haTFRnRmt5RXZsaDZOYzQ3NDRfMUFkci1tMkhQVGtfS09mN2VPSXFBejJ5QU1MYkl0djhZU1luZUN5S0gwdUFhYVhveUxwOEs0OW1ncU9aWVhsUGM4Zzh0TWM5M3pUbUF6ZHVsX3hTMnFBc1JreUxySW1uRVVPMlRRc1JCeWI5V04xRTBPdzVlUUE2SEtoa0xqM0xNVVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Multiplayer",
-   "region": "IT",
-   "date": "2026-11-12T19:55:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b8797b25e0",
-   "title": "Perché Leone XIV è un grande Papa",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUR0akdQY1cyTFhFTkdnSE8yMVNWSkNaR1JFMi11S1VIM2h2QURBUkZScXJYMWR5YkQ5X0paVGt0ZW9INlpBVW9hMUVVTUk2TnJmZXFOTDFFWG9Oc2U1ekdSUUVBeUxaYlJSS1ZTSUJ6cHNKRUZ3UUtWZUhuMTNoM1FzZzR3Uk1ETjNveF81X3k0b0dzYXVxZXo1bEx5aS1aRjRwRXZMLTlmMEplX2FXeVFFMnRXT0RXNjM3THRTc2xZWmlfOWsyM0pJM1Q3d03SAdQBQVVfeXFMTUdKT3lFenRlUEZZWUhVMDdTT1dvSXh0ZFNEQmlXSXZsbUVkVUZxOEhwNVo2N3BjVHo1Q1pYUkVzY3F0TjFkYnZBS0o5YTlCYXpSQlVKa3V1N2hfcmRiNHVRWU5saW83d3RlX0VmMnJBbXcxUWRBMDM2eXhLQV85TWVtSDhhWU5tMWlTMmduY2x6S2FSOUw5bmJhM0dMZXFGRzJnSnBuSkVYZlVORzE4S2JraHFBdWdubkt2cG5iZU5OVjR4UWhMVVhURGpTY2E1di1UVXA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Corriere della Sera",
-   "region": "IT",
-   "date": "2026-11-12T17:26:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",

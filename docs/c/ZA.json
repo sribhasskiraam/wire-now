@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-14T04:33:52.119609+00:00",
+ "updated": "2026-11-14T05:32:20.242549+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
+  {
+   "id": "839f80ddde",
+   "title": "France vs. South Africa - as it happened - Springboks suffer Nations League loss",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjk0cXgwd3ZTWkhveE5wMUV1S1ZTdzZISEZhZjNDRHdpNGNCZGhRZTVUSGxEd2Y5MEdmWEZlb2N2eFI1TmlrVGk1eEN5NVM3bkRVVVA2WC1udU5FZ1NFVWJKc2xlcHFsMFFJS0IzSkpiaGV6TkRnek01ODkyNlROLWo3WEhaUElmanVTQmduWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "ZA",
+   "date": "2026-11-14T05:03:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "d4286aecc7",
    "title": "From Parly to the Palm Tree State: Ex-ANC MP and Zuma man now a US ‘refugee’",
@@ -11,7 +31,7 @@
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T02:00:25+00:00",
+   "date": "2026-11-14T02:34:08+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -21,22 +41,36 @@
    "topic": "Politics"
   },
   {
-   "id": "839f80ddde",
-   "title": "France vs. South Africa - as it happened - Springboks suffer Nations League loss",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjk0cXgwd3ZTWkhveE5wMUV1S1ZTdzZISEZhZjNDRHdpNGNCZGhRZTVUSGxEd2Y5MEdmWEZlb2N2eFI1TmlrVGk1eEN5NVM3bkRVVVA2WC1udU5FZ1NFVWJKc2xlcHFsMFFJS0IzSkpiaGV6TkRnek01ODkyNlROLWo3WEhaUElmanVTQmduWQ?oc=5",
+   "id": "04ffa3d061",
+   "title": "ANC’s Sthembiso Zungu secures another ward victory despite corruption, assault claims",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdWlhODdPaUplUWZ0cW5xYk56azdoRGxuc2RYbzUyMzhFdHBmb0hHclZyS2dhSm5yQmRnY1dJVnZGNVVNN2V1aE1IYjNYREZEMHl1QXpFdjRyUFFuQ2JfQWVtTUQwVkJ5cGlXakUtSjQ2Zng2OXlOcEpFdHN1VEVHTzNvZVZlcVRpOGNwTVZDNjF5ZldNUXFITjBYSzBfWE5iVEdsRU9UMUFKdGYtZFpuV0s1MzV2aHdiQ210VGpFVDNFUldjV1JQeDZjMjQzakMyalZv?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T00:03:37+00:00",
+   "date": "2026-11-14T02:34:06+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "South Africa",
     "place": "",
-    "flag": "🇫🇷 🇿🇦",
-    "also": [
-     "South Africa"
-    ]
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "66fca2c8de",
+   "title": "PowerBall and PowerBall Xtra results: Friday, 13 November 2026 [WATCH]",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTJWdUdrZk5lMGkwc1J0em01UHhxUWM4eFp3WU80eEdwd2RTbG05a1dhS0JlY1YwQmhzLUNTa0Zja3pjeWZramYwc3hUd1NmNWZyV1NNblBsYWxFOWJFYlR1UVVZVXZCTTl5dVBKZzlWUjVlbzZxMGtvaXNJSGxPQ3YwMHlVVXRzT093Tlp3emVJZnRfS2F1THBXakkzXzVp?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Citizen",
+   "region": "ZA",
+   "date": "2026-11-14T01:46:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
    },
    "topic": "Society"
   },
@@ -248,43 +282,6 @@
    "topic": "Society"
   },
   {
-   "id": "45ebe5c5d4",
-   "title": "Microsoft outage sends traders back to phones and fax",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1h3WjhRMTBpblRQWjlxSE02Um9HNUo5RDltcEV5cUlsV0ZsTjhsQUNmSUE3Ui1IRVZvYThXQndMZEJBUE02Rk5YX3NRdkRZNWVGbUV5b3h5Wkd6Yjd6ck1VejJ3cC0tLTBsMElyTXF0WlVISlNwcFJJWjRTWEFIV1J6X2pkVWwwN2xVY2NTbnNlamJ2UUtiakdwM3pudWlPYWhTQUpLM1Q2cFNF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Moneyweb",
-   "region": "ZA",
-   "date": "2026-11-13T09:09:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "7d3d6db6d9",
-   "title": "German auto giant starts production of Africa-focused SUV in South Africa after $241 million investment, even as it plans 50,000 global job cuts in biggest-ever overhaul",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVV3QmYxNVgybmVOdG9ReUJpaVB0UmxhU3NiQlhFQjlaRGdZcDZ6dEt4UG5vcjRDMWdlaHU1dFZlUFZfNGY4cDV1N293aW9UVk5vNVRKSC1OODhWQ2hCc3o0dUx4VHdvMExZWFBMaHFpOWZ4bzk1U3dBR1VubllLZXdMaW95VDVxYnUtbm1XRlZoZnVhRU5OZ3YtNVZab0FRS1BHZE5RX290a0RJQkh4d0s2cW1xMkhuUUZrd1JPSHY2SWt0ckM4bzdWZ0VkRWJFQ3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Business Insider Africa",
-   "region": "ZA",
-   "date": "2026-11-13T08:47:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪 🇿🇦",
-    "also": [
-     "South Africa"
-    ]
-   },
-   "topic": "Business"
-  },
-  {
    "id": "d571b3cd9b",
    "title": "More Level 2 water restrictions announced for South Africa as severe weather hits",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmJGXzNyT010Q2U3aEtBbU1TZzJobjgyT2Z6d25yRUFQUU5uUU80dkU3UU1ub1VwTWhPTFZ4TndfZUpxdHJzaWVadTQ0S0dLVllCcHhUdFpIUFJFN09heDR5LXVweUNSWF9ZaU8zQmdnVXlhTHJvczBFYU0xaWNndEZ5THdZdWdVNUI0Zy1NMkhic2lXNVhHZG9UbXg4eW11dHFYV2RSOFdRWmRrTVJYTnQwcFZqN2xmVE40UlAtVjhYOWdr?oc=5",
@@ -387,6 +384,23 @@
    "topic": "Society"
   },
   {
+   "id": "488fc77c84",
+   "title": "Global outage hits Microsoft Outlook",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jb2JLTW1qbXpQdHBBYkhEQ1BYa0pNcmprUm5TTjJ3YmM1Si1fNjcwYTZwOUFYZ2xkWndINVYxSjhHTHZhUngtR3BCOVFabzI4UnNRNU81aU8tQUk5T1lhUzlnbDhrX2ctdEFJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EWN",
+   "region": "ZA",
+   "date": "2026-11-13T04:03:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "c0f70a5412",
    "title": "Rapper forgives Tsekeleke’s body-shaming jabs!",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFJrX3JDeTFwcTY5cVJsQnB0b0llNXo2NGlhX1FwRkZZLTVyakZNbXVWYjFfUzFTQjlaak5QUmc0bkh5bzVrX3JfMWw2dEV3Mi0tTkFlU1R2QktveHRvRlZXOVA3Z0RFM0xrdk12OUctM2Zta1dwTHZuNW9ZYzVwczZUb2hNMzJ1ZHlN?oc=5",
@@ -436,23 +450,6 @@
     "flag": "🇨🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "23ef08f213",
-   "title": "The anti-Jensen now runs Nvidia: Meet Colette Kress",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGxYMUsxMjRDWFhZMnU2WlVVQ0RjNnRHb2lzZ19FTHd0b3VNSWkydE1nVzVpZnlMQkFSeUVtTVE0N3RVbDFkV0VlMmlvbnJsUjI4MnNTbWxlY250Z09kcXNqV1I5MFRxME1xM1Zfd0MwaWhCSUpkN2RZVTdvX25tUVJ6cTk1NFU5U0J0WTdXTEVsNXBsRkh5TmNBRUM1YVBzMGQw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-12T20:00:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Tech"
   },
   {
    "id": "27286ac775",

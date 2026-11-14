@@ -1,34 +1,68 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
-   "id": "3c17fea293",
-   "title": "Passengers face airport delays as US flights resume after nationwide ground stop",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
+   "id": "01bc16c7cf",
+   "title": "SpaceX Starship launch as it happened: Booster crashes into sea in flames - ending hopes for breakthrough",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTFmZkNQeEtpRW15d2x1Rkh2eTUycEUzMUc4ZVVnWF9pTHZqc1lxcWxoQXY2QzBWWTVYVkQxeTFjSXdPeGJsZWtEbTNuSkpIWTJQZHZTYl92U1RRMEE5eEtQUXhhZGZ2d0ljSTJrLXVOd2J3YWMtSUs4b1FsRkVuS3FBZ1g5UUg5NC1vN196a2lGX0hZdzAtVkJva0o0ZmpJeW11MXdUOXZfbHRRNDBOcmpqWXUyU080aHFIUnZSdEQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-14T06:30:39+00:00",
+   "date": "2026-11-14T06:05:38+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
   {
-   "id": "b11a03cf9f",
-   "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmQwMFdlaHEwTTMxR3J1aXdLVUttSTAyTVR5UmRIRE1BNTAzMTFVcGhSN3VQZ3FkNmxnZmFUa0toZXBfSnV5VFFRRDltWThMNVNWMEVtOU1tb2ptTkRpOFdwUDdBcDZRQ0ZGd1cxOVFwSkxRSEk4dUtFb3E4c0RDd3lPdzZJSE9obm84cmYxbVpJWTZ4ejJBQkZhblZnWDZmNnBXYUU2TUlkbDZ5NDdlZU5tU1ZLUm8zYzNQemJtQVg?oc=5",
+   "id": "fbfc3c660b",
+   "title": "Young people should have legal guarantee to job or training, says Milburn",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adnUxNC16eDdUeXhOSzVWWVNjUEMtU0pTUEcxZ2xTS3d1cUlCa2hlQWdyQ1p0Tm5EWHo3X09FU3QydDZLUjhCNWhsR1dBVXhfUjBiY1AxUGU4VnVwOGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T02:31:00+00:00",
+   "date": "2026-11-14T06:00:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a78e13f05f",
+   "title": "Will we soon cure cancer?",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWh4cmVZRFM4aU93TE11N0tvT2lsbWhKamhIWUU2R3BrbF9ieFpUWUhldFZkV2ljSS0yWkVwczd4bHZxdnV4WGIxR0toOEhXMThQZzhhbmxSM0FaNE5fbVRrakxYX1d3QmhVOHp1YTEwQjE5ZVdmUWxjMHlzS1J2OXUwblA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-14T05:00:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6ae1911474",
+   "title": "More than half of NI voters back UK rejoining EU, poll finds",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Qem5SVzFPSmVISkZYUTM5eU9hYnMxc0xaSkhtT0huTjZQanQ4YlVRRURobWNlazRXSHRYTGJZWmNKZld0emhndl8tRWlvNGJqcnRmNzhSZmRHR3BHUnJTajVXNA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "GB",
+   "date": "2026-11-14T03:47:05+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -76,6 +110,23 @@
    "topic": "Society"
   },
   {
+   "id": "35e7cfbe59",
+   "title": "Flights grounded across US as homeland security secretary says no indication of an attack",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Fd3dLckE1U1ExZEpjVTJiM1F4Yy1QalVXZTlhWWJneUNxbnN1Z0NfS2tKeWhrck9zSmdySmR2dTBJb2c5bmluUV9KNWpzc2hYQW5oZUMwaFg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T00:44:19+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f7b0aad2ff",
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peXRGaTVTWHN0TTMwMGdISUQ3ODZlV3gxZS1GMWZnakRMdGRtcFpPUFExaDVfNDVHX1VOYUJ3NXRRSnZmcVZYdWtRNXVLRm9iR0pfMnB0VGJXYVJtR0E?oc=5",
@@ -108,23 +159,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "71378556a7",
-   "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02RmFNNFVwNldBNmxocU1yeVhUc0VLNHNIR0d2Vko0REFGamF6WXRkTEtMUDJZRGZhS1FXaXJQX2ZHdENLZHpnMHFfSS1lOHZpcXNlVFFVY1hIS2pqYU5vRGp3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-14T00:12:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Health"
   },
   {
    "id": "824dbad70a",
@@ -178,23 +212,6 @@
    "topic": "Society"
   },
   {
-   "id": "23cef44704",
-   "title": "SpaceX aborts attempt to catch Starship booster rocket",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNnWFZjVm4xQnc4N1VLS2pwTjUtNGlIM1hGLW1xeDVnLUZJaFhfSXlneFhrel9kRFB5eU1fZURhSEMyWml0SWx3NVZJTi12WVluY01BdWRpLUU3NlV1a3liaHk4V0dDbm1EdldPS2JielZPTTlUMEhmRlJYbVRIeTJyTUc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-13T23:43:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b9d6a977de",
    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTDVpNXFuVDVmLUU2SUROS0l0bUVGQlpRWXl6cTdGbW92ZkpQWnI4TzVnSFpwZ2F2bEpzTGlla1BaS2NUWUFKNnJSZmxocFNESjFCcVV5X3JQZm00dHc?oc=5",
@@ -225,26 +242,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8b92aa4136",
-   "title": "US military responds to 'suspected unauthorised drone activity' at UK air base",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVi14Zk5NZkZaRFpCdXI0cVlmQ2FUejlobXlPTjVjS3VWeXRMTWQweEpWRVV4WTBFZElYSjFhYjJ4NG82Z3Q3ZWNfcHRpVjBsbUVSM0doQlVhX0dOVEdIZkNRdlI5b25kdW8zWXduWks3UDZ5eGpRcmFjVU9iRlFKajRkNVRVcnNoSFZrd0xHZHhvZzhZSnVpMThkTkRwWmRLWmxxU2NmNUJIclA5dUdWa3Z3M3doUWtSc1B6Tlh3dnRvczg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-13T23:30:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
    },
    "topic": "Society"
   },
@@ -283,22 +280,56 @@
    "topic": "Society"
   },
   {
-   "id": "d32dfd028e",
-   "title": "France 21-19 South Africa: Les Bleus beat the world champions in Nations Championship",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHa2V1OWhua2Z6Z1h4VDVzRWtoWUF4STJfY0NrQ3N6S3lpSm50RjZ3UXFydFJVQ1hJdHN4VGRIak9IMnBSbmVDUHZWZ1ZaLTNXZDlkUHJHUlpnRU1YSkJubXVCMVNIQkhPXzV6WFJjUQ?oc=5",
+   "id": "607436900e",
+   "title": "US military responds to ‘suspicious drone activity’ at UK air base",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFdFR3AzbjZwMUczaEpya2t5TVJ2dnM3VDdhVXcyLUxkbWM5SlUxQ2hEVHdlai10WnFQSmc4NHBubXo2RDdNcmUwb3lPaVhyV05aS0NVMTNYU3RQQTZEVUh5c3dWenN4RlhCVS1aajBXYWdOY1R1S2JKRGRNZzlONGJ3ZDc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Financial Times",
+   "region": "GB",
+   "date": "2026-11-13T22:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "696d7a6461",
+   "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRY09lczFvdlF1R0czUUF0cU1YcWpNRTNoeDk3UkFEVDZManE5SUtHdHVYaUdKY1FOUUhmUktzOUlHTGZFMkgxajhmMjhqam1tR29DRm9zTi05NkFiaXdwckJVMGducWM?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-13T22:39:56+00:00",
+   "date": "2026-11-13T21:53:37+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "Australia",
     "place": "",
-    "flag": "🇫🇷 🇿🇦",
-    "also": [
-     "South Africa"
-    ]
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7d38c45cfd",
+   "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUNST2NOSFpoRGJ0OXl0aHAxQnRuMFVPM1pjb3hpaFNBcDc3Z2dDdGZ2Tnd1VVBtVmRzUDRNcFlINjNrMXgyeTU2STFObGt2aExKSEFIZUdnNHBnbHdyTjM1c0JQWkdvRDZRaVl2UWxzRjRVUEJjUFhraTRGdFd5ekRYT1ZLb2xHUnk2RXQtMUNJYnJWRXFDTWhlZFNSUi1MSUZpTEpPMWEzOVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-13T20:59:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -337,23 +368,6 @@
    "topic": "Tech"
   },
   {
-   "id": "a07bbcea29",
-   "title": "Robert Pattinson reportedly leads James Bond contenders",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYU5vS1hVdmZlMzlMc1hjWS1aUGZuLWtwRUhJWlFZMm5OSWM0SS10Q0c5OHZGNlJ6N2NqelA3clBvUUo0UDRRZ3V6UnFSdDc1WTl2RlhDQm9ReDNfbkJqcTFKUkJuUHY0WS1pX2w5MHZxU25HRS1ESm9FSi1ZdWhSZ05ZS1JpWDhyLTc1NFRGYnBtOGU3X19YVGRaVXhlUnl6a0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-13T20:27:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "fa164102b9",
    "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZi1OWDlLcWNhQlFuaVJPaDd0cEg1VmViYy1jWElYcEZJU1NBOVF0RmE5bVB1bU9XMWd0QzVxN3pzcFRiaTdwakdGXzFFTnozQmpVLVU4ZDlncl9qbnNMSjF6QWJwb2ZQUkJrTjZHTGhreURqNWx0SXFORTRpYkVFUG4tUmE?oc=5",
@@ -379,6 +393,23 @@
    "source": "The Times",
    "region": "GB",
    "date": "2026-11-13T20:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "599fa46ab1",
+   "title": "Liverpool: England int’l backs Reds ace to be a Ballon d’Or winner",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHcxczJCc0lOR0l4alBRMVpqMnJGbzBQS0tudTRlU0xETlBpVTVnbHVEdVZNZUNrTFd6TnRSU3RVdVV3aUhRZUpTVDJaVlc4R0lHUE5kTVVmT2RaZWRKUHFqQ19YYUpCeEE4NldHbG1yNDNsNTg0akE2ZEZmS000alhpZ1FidWtJcjRIZjJn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TEAMtalk",
+   "region": "GB",
+   "date": "2026-11-13T19:33:40+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -439,14 +470,14 @@
    "topic": "Society"
   },
   {
-   "id": "36ff70fb10",
-   "title": "Scott Colom: the Democrat who conquered the reddest of red states",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdhQXV4elFzWU5fUmF5TlFGMFpoeUt0emJ4dmZadVdHZ3Rrb3ZsdmZ2cjFLbzFtbmlaQW44ZGlrWjZ3X0VtZm10Z3lRY29nMk9LVUxJaUJTVzRBeHZWM0F4ZWZQZnRIMklIMGtpcUhYRUNNWFVvamZtX04wQUVhclpFcUs?oc=5",
+   "id": "7caaf44d05",
+   "title": "Children sing Happy Birthday to King as he visits market",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVY5MkNYdTRUSGhJc2YwSkYydFRvVC1SdzczTmtOUkdEaWxqSGtram1MMnNOYzdSdkhocGZlNlN2VG81NWJWVmNfVzNEOEF1UzlNbEk2Q29jMDJSZVYtZWVyekhsbGVZR3ZWbEgxTDNQQjA4RGNVa29tSmRvdmx6NWw3dHNYcFBNcTI0YjlGZ3l2VlotamZfM2JFNFg5VXRfa09POU1aY3dxZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Financial Times",
+   "source": "The Telegraph",
    "region": "GB",
-   "date": "2026-11-13T17:08:50+00:00",
+   "date": "2026-11-13T17:31:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -490,53 +521,19 @@
    "topic": "Tech"
   },
   {
-   "id": "8aa5b21207",
-   "title": "My son, 13, died of condition we never knew he had - 4 signs masked by 'flu'",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjhSS210dTAwQmxDVHVYMVhsME5LTHZrM25ackdUM1NuTV9rcXJyVTQzUU04UTdVR1BDMVJnbXU2UTNaVU1BbG9hcUJldEpabFM3X3M0QWNOVUtZemRrY1MtU3FTck1zVHpRbHhFYTE4NjVrX3FQcnVyalRtNXZRSWptOGEzVjlqcnI0?oc=5",
+   "id": "262dc83650",
+   "title": "Jensen Huang’s years-long effort to get close to China",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGdpdFdoUHF2WEtfdW1CeUUxamVuY0RTeHlmLWFEcnB3ZzBnRk9mbk5IdVBZTS1taWJrcjdKelBfbGZTUWpOZHh4NWNSQTZhRTJpTUdueVR6TTZNdGNCWS0xSlNrYTVvdThtcDBmNnBtY1dBYXktSFE3NzRFWl9oVWVfc0M?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Sun",
+   "source": "Financial Times",
    "region": "GB",
-   "date": "2026-11-13T10:17:00+00:00",
+   "date": "2026-11-13T12:04:12+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "China",
     "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "70d17ade4f",
-   "title": "Princess of Wales speaks Welsh to cheer BBC presenter on cycling challenge",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWZEVlhHZHZzYkdqVkVsTEM0T0RENU5TSHd5anV3S1F4SnVXVU5abTlRZWlfRlRENnJQOHFiQnBzZVpDRV9fZERwb09SeDdPMjA1TkN6RDczbVY2NXRCR0pjRUU1YjNNMkgwM21PUnR4R1ctaXJacFFfckNwRG5HUXNTVC03UXhKRnduV09BNzJTcHo4cTZ0cG00OHl0UTM1bjhnSlV3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Telegraph",
-   "region": "GB",
-   "date": "2026-11-13T09:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0262eb7ab0",
-   "title": "FBI seizes $1.2bn stolen in Binance cryptocurrency hack",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkxtMklzWnpDZExyRjZselpsWjhZa21lOU9kaGNrMHhCSFA4VlNTRzNMeTZiY09EVFlJaFVlMVpWUTZRT1Y5VDF2bmpVQVBKbUh2ZWFCZVcwVFB6cnBtdG5xZXZySEpJbWpwRHZ4ZTY2YVdnUkQ4Rjgza2M5cVpwVTFlUWVoZ3lENmpoM25kdmtxUUdE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-13T03:18:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
+    "flag": "🇨🇳"
    },
    "topic": "Society"
   },
@@ -556,23 +553,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Health"
-  },
-  {
-   "id": "45367decc8",
-   "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYURWRHQyOVoxd0RRQU1TWVVwYmpoclgtMUlmc1lfOFlBdkw1aDk2QU5qbFZFSVdyWmlkQzdBUFZyYnRzNVhILTktN1hvei03UGxQeExaQmN2RDE2eTdoSXl2QlhqZkUxYkhRMWEyQlc3RXVGTTR1Y3pkeXFZWklsdndqT1d1cHBHSGNZMDE5UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-13T00:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
   },
   {
    "id": "a06f3ab108",

@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "c70bc1b366",
+   "title": "Journeyman Gawdin stars in hometown to lead Rangers over Canucks",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTB0SzVDUGZacG9icEhBaDZYdzhaNktpWnlQVFM0SzNma0Z4V1g0dXNSZnVJaWlQNm9zVVRLdHZxQUc2SmRNa1BucWZGYm96dU1jWUVwajdpMkNKeVZtOVlFLTI5TzJFZTIxczBabG81dWxpdkZGSjJlMHdGWlhZSzE0dTdPRzJ6R1BxYTNwU2dHc05TY2VZSnF0RTk0Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sportsnet.ca",
+   "region": "CA",
+   "date": "2026-11-14T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
   {
    "id": "6c17f9e31b",
    "title": "Canada's Alphonso Davies exits vs. Guatemala with lower-body injury",
@@ -17,40 +34,6 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8b4386ba66",
-   "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1d6N19YcmViZG5XbjRVV2V3enhYQ0M3R2VyLWxsNDZJRFZtZGZZMTBhRWtWY0lyRkJPdWU2cGhfSHRKZ1J3TWxNLVRlcWJVc0Zya29maHhsYXJHaDBZcExpUGg0bC04UF83eW50Yjl3Q2hiVnR5ZWMtM2xibEc2T0R4bkNvMTQyenRxTlVXWGNjX3gwalA4cU1oY25qVzVmd05fWGxPWXdGZlhrMmRfYzc2QnNGY3M?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Android Police",
-   "region": "CA",
-   "date": "2026-11-14T04:29:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "232c6b0c3f",
-   "title": "U.S. flights resuming as nationwide ground stop lifted; Canadians warned to expect delays",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUC1BRWRabVNXQnRDOXg3bDRDRE9PaDhjYXNUT3ItQzJIT1JvZWc3Tk14LV9RTWhiUXBHanBFeXZuNWExNFBnSk5oLUcyR0pDX1FpbE90ZHJNMmVoVzN2eUM2UmlDZk9RWjlYcGs0OA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-14T03:47:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -245,23 +228,6 @@
    "topic": "Society"
   },
   {
-   "id": "bd073d76a9",
-   "title": "‘Ripping up and down’: Three dead after boating incident on Squamish River",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGVERmNrWjVrVUl4ODNaRGlta0RfRGJKQWZiYnh1enNTeDRjMzFWeGZXLTdMWEJ0TDM4cDlocmpEZnhfY3Q2dDJrYzBkWG9PVDRaTUxjb1RvSGJwZmk4U1R4NWhueEw0cGhRclllZWN3SEFaZFJhckZOUHRlNURfanJGMGduR3RyX0RlRnpDZ1ZxczY0MEdZZmNjcw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vancouver Sun",
-   "region": "CA",
-   "date": "2026-11-13T22:39:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b37083dd7c",
    "title": "Flu activity ‘high’ in several provinces including B.C., Alberta and P.E.I.",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWJNbjd4YXlKbGowLUhzbUxtdU9TOEVyR3o5YlRScVFydWtWbnhDOWQ3NmNvZmJ0WmRIMDBHN1E3cXhLSjdCazFiSGFIUXhzWG5hZjBVSmRWdlBsUkw0MFRjZ0tOQWxqTjBpUGJXdTRmdzVpVjBEMm9VZEtpekVKT3RKaTU5aGZMMzNaOVJZQ3lScDgzQW9KMjJTMlpTUGlIcUY4eFYydWxUN1NULXoxRlhB?oc=5",
@@ -326,6 +292,26 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b821fc4b15",
+   "title": "Flight delays may continue at Pearson Airport as U.S. ground stop lifted, NAV Canada says",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUktkUWlYcUI4a0RtcUhsV2RQY1YxbGF3S1d5ZXhudUFXcU5oMFRmLWZPaXEzZjZ3U24wZTlMYXFqR2NvcUJ4Ql9tQmRCX2dqVDctNjRzY2Y4U1YySVpCTWJmU1E5UHU5dGJ2bkNnbDdWaUFQWE5wOXRpUHhweWdSdGM0T3N1Q3haZW1XcG9nUllyZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-13T22:08:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇦",
+    "also": [
+     "Canada"
+    ]
    },
    "topic": "Society"
   },
@@ -449,6 +435,23 @@
    "topic": "Society"
   },
   {
+   "id": "b44fbcd532",
+   "title": "Google’s AI glasses raise questions about enforcing biometric privacy protections",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTJYZ1E1VWJ1SGJUdUdfMGxjTW1nWGF0YlhfcE5hZjVYc3d2ckNjYVRHMl9vLWM2T2lKdDdMMy1zSHNSVVRzLVBFb280NnYxSG1OLXFFaHNESldQUTlqei11QVd4b0tCU2UyWFhwaE4zeFVQbG1LLXliWXlyZnRVZ2pqN3lEcUpPRXJtOWtiVFVQWC1vd1hnZTU0UG1obW9wZ1ByLVhyY256LTdMV0RBaGRwYm9WTHh0ZUNN?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Biometric Update",
+   "region": "CA",
+   "date": "2026-11-13T20:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "1535972016",
    "title": "Vancouver's oldest mosque vandalized with disturbing graffiti",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wem5TX1FkS1NQWFlnZUJReFRNTHdoanNCWlZWVm5FcnRmZWpjQy1hVlhRc0g1c1dTVHJpRlJFekRaa2RTakZUZ2NtamxrWm5qX3RGelNCeXhGU2lDR2FFSkJCMmFoYkhKZExnazFKM3NFU1JiMFFPRWZwWDdMQQ?oc=5",
@@ -464,6 +467,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "2dd2f9378b",
+   "title": "Canadian government investing $200M in B.C.’s Woodfibre LNG",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVFyblpMaWJkbFBlTzdOVjNiRXF0LVdmQU1HVjZZbkJFTzZBX3U4SC1ma01VSm9oTkpnckNpamxIYVVMVWdnN2RfZXdaZWhRUW9qSlBXdmI3ck5sSlRoSWMyOXBfd3FsVzdaNDdtZTlrUC1jeEx0SkZYMjV0RzBWaWRUejd1RV91cVpubG5iQ0NtZnFfYTNEWkh3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-13T18:30:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Politics"
   },
   {
    "id": "a59b504247",
@@ -483,23 +503,6 @@
    "topic": "Society"
   },
   {
-   "id": "a641b87edb",
-   "title": "Nvidia Employees Push to Bring Back Jensen Huang",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0VqX3RaWGN3WU04cEpKU3dUTk16WHhiZWdNOGJaLUxZNHBiWEhrbjlPWFpyQjhxVnd0VEQ3cGtybG5DOUZ2a3VYNjF3MUxDQ3lKS0k3bUtzclhwdVU4M3BHbG01V2dwREdKOHI5SVgxZlJVSTlSUnRnTlo4VE03dzI1VV9MbHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Gizmodo",
-   "region": "CA",
-   "date": "2026-11-13T18:05:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "172be58d62",
    "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0dWX0RGbVFpVmZHRmZpSUdVQUMwNmFsejUtRGcyVkVBY3FDVXhIRDBkY1pzWjNSTl9tamVpbWdHZzZzZmN0NzB5M0pNWGVmTmNadlFVYVZMUHhSNWE5WllCVmtYNFpWWV90eTFoeUpLbE5qRmktOEdzQUYwcHNONEU0QlA3S2xRWVB6WlBfQzctM0l2bFJVVW5QVzh1b3pIY3pxT2xONmtsams?oc=5",
@@ -508,23 +511,6 @@
    "source": "Universe Today",
    "region": "CA",
    "date": "2026-11-13T17:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a9aed114b9",
-   "title": "‘Painting is not that difficult’: CFL Commissioner urges City of Regina to reconsider decision to stitch Mosaic Stadium turf",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaUdURUMtY01aMlhKdHNMZ1g5cUYyY3RVTFNsd1Jfelo4S0FWN0xCeG9fQjM4SDZVSGpCS3Vyc1lUaHhaZ2VPSFQ3SHdkaVNsMFdkRHU5RzEwYi1HRENmX3lHcmprTm00cmx3bmNOUDh3aGlaeUZQUzZwRmdiWXV0bHMyb0RoeWZWVkljTzAwM0Z3Yl9zUmlOY3IxNWxrYXJuNWtJMWZoZzFSTGg5V3pDUHNfcUFSbXlZWmtKN2RueTQxODVBUC1NY2dKTVp2R3o0YzJGOFNiZlg2VFlETERXbUQyNHpFdEZfODVaVWNSMC1NUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-13T17:03:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -551,6 +537,23 @@
    "topic": "Society"
   },
   {
+   "id": "77cdb0e2f9",
+   "title": "'He Needs a Second Chance' – Some Nvidia Employees Really Want Former CEO Jensen Huang Back",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnhoLTBBSi0yc2Eta1lRYU5YQVBTaS1xdWRPMl9BZkF1ZjZYSUhnSmdpRWloVGJXbndsZk5zb1RBUExDMmlyNTk5VGlra0JIU09TcnFVMDhsT0RWOEdxRkhTWlFsNmM1RXRhQzJsbHpKclpmV0hmREdXZVZ4Y25mY0s2SXdRejQ4ekZKQTNmNDVpd0RNN0ZoQzlBLVRRUUdjcXFGeU51cWVaTWpvbjMybGQtVVZhUGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IGN",
+   "region": "CA",
+   "date": "2026-11-13T15:47:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "0843ddf5d6",
    "title": "This Week’s Sky at a Glance, 2026 November 14 – November 21",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1lrNWtTSVQ4RE9pU1BOV1RLMHhhLU92OC1iWjNhcC1hNWotZFZ3VHNQdkFnMnptTGpyUmVuSWREeXQ4ZmlfOFJlX3VPcnE5U29qRy1tNW9XLUllaXpEZGxUT2dpNTlMSGpmNEF6QjJxeEtZdnBhQ0lOcUJPOG1DN0Ryd2s5V2ZNWDlyMHFBYw?oc=5",
@@ -566,23 +569,6 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "c5fa508f33",
-   "title": "Microsoft reports progress as it works to recover email and other services in a global outage",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUl1d3RSc2s2MloydEEyWllNTkVhaEZaU3MxV1FzQW1EYUVOWk9lQXFIczFSNkxVZmdfRTYyNlBlUERjQ1hGdW1MMnZ4ZjZmX3RVOUxfQ2xFeUFqb3EtV3p3TzJXb2dRX3hlSFNiSnNvSzA0bTRzM0V6U1o4UTFnSVV0eGRoR0N4NXBKdkZQbDh6TWNXTUw0ZGYtSTk1b054TkIzSmk3eU0xb3phZ0JhUkFKUFUydw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-13T13:45:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
   },
   {
    "id": "f52a80a710",
@@ -602,21 +588,42 @@
    "topic": "Tech"
   },
   {
-   "id": "2d3ed67aeb",
-   "title": "Canada to invest C$200 million in Woodfibre LNG to grow project's capacity, source says",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG9FMWVSeGhlb2hKb1JMN1VRZWNCWEsxR1pFanBrUGFEdkRUZmJySFh6SEk5RnU1WFc3U1NldWRNZVJONmU4VHhsb1lCTUxRZkVOcmxOS0pJODJCNjhaelJCbS01MWlVem1sUkpaYXFWVWVCVmVXUzBYOEVydlNZRVRVYUtmajl1NE5GSmMzczBPQzctd1I1NTNReGtGU3hiclZkSklsNmVnS1RfQ1BTVElnQ1V4WXktZnJlNlp3SWtuMVJoUHc?oc=5",
+   "id": "aee6a48ffd",
+   "title": "Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUFHUkI5Y1p6WVhYVWZmYTEwWjVPa2FjaHlEazlGUjNkX1dWbGw3ZzgyekFjc1JPTWRLcGk3bDFfUHNyM1c1Q3NHXzE2S1BfT0xzRjI5dkVzVlI3ZXIxUHhIaVNYZXUwVldQVXBSVGI3ZFpUdDZuLTE4dHZyZ1VRMXNQZXB4YlFaeDloZENzOWk2cFIteTVzbg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "AP News",
    "region": "CA",
-   "date": "2026-11-13T11:58:12+00:00",
+   "date": "2026-11-13T07:27:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Canada",
+    "country": "Peru",
     "place": "",
-    "flag": "🇨🇦"
+    "flag": "🇵🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "c386cb4923",
+   "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "CA",
+   "date": "2026-11-13T07:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇺🇸 🇮🇳",
+    "also": [
+     "United States",
+     "India"
+    ]
+   },
+   "topic": "Tech"
   },
   {
    "id": "db678a2cff",

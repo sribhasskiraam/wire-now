@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "NG",
  "name": "Nigeria",
  "stories": [
+  {
+   "id": "9eee5bb6eb",
+   "title": "New method reveals how glioblastoma cells invade the brain",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "healthcare-in-europe.com",
+   "region": "NG",
+   "date": "2026-11-14T07:03:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
   {
    "id": "229c25dd0e",
    "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
@@ -38,14 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "2869068be8",
-   "title": "Africa Is Not For Sale: The World’s biggest ATM has no password",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGM0UEFleEh4SjRmb19pZlQ3SllVazJHb3pvbVFWc1BTcTBYMGlYUHZsX19sZzk5NllCUl82QWNKR2MzTXI4d09NNnFBQmphMFpyV3diQWpoU25BeWJmejFBUktJYVQ5dm1SMDdWUmhSNEVJOVFpX1NDRTdaUzlsVERZZ29MZVNxQzEwdlhHemJhdGR4c0E?oc=5",
+   "id": "3862e79ee0",
+   "title": "World Diabetes Day: Insurance gaps fuel late Diabetes care, deepen financial hardship",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXVqUlhNMHZucm5sQjI2N1RkRVpnMmxmdVg0RTFZNlZMNjFBd3VOV21CNUVuVm9zdHc0V1NKcWR0QjJldEk3SmFnSmZnMGxWZV9WcDJaeU9wa3VKODRqNEpadUNEbFZmWktKRDQtQ05yQUhEQ1FsT3B2M1ZQaFEzek5vQldQOFI4ZmsxTDNoZTlPbTRnUDRWZklhOG9HVUw2X2huN3VKTGI5TWVBMkJsVEhnd0FVZ0JOQXprVg?oc=5",
    "summary": "",
    "image": "",
    "source": "The Guardian Nigeria News",
    "region": "NG",
-   "date": "2026-11-14T03:23:53+00:00",
+   "date": "2026-11-14T04:05:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -55,19 +72,19 @@
    "topic": "Society"
   },
   {
-   "id": "cbf8acd0db",
-   "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnJ2SUdNbERMS0habW1xekRqamtYMzdka1p1UEpjV2J2Y2lFZFFKNGRLNVVVdmpUQ1NPSFBEdjhKVmxUeFE5LXFXV2d0RXlkY0Q0S1NwZnpVNnFNZTNHeUxPSXJFU01SRGh4aExpMTA3NkRMUlFjYmdZWUlUN3RNMzQwX1JBR1gxQXN4RGxPcFB3Nmlrem1nWElERFlRTTJWNGc2TFBwOFpWRmRkTEZxaDRxUTIyd19tc05QVlVKTm8tTy04?oc=5",
+   "id": "01d58c0798",
+   "title": "What we know about the longest US nationwide flight ground stoppage since 9/11",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "News-Medical",
+   "source": "BBC",
    "region": "NG",
-   "date": "2026-11-14T02:55:00+00:00",
+   "date": "2026-11-14T03:45:21+00:00",
    "coverage": 1,
    "location": {
-    "country": "Nigeria",
+    "country": "United States",
     "place": "",
-    "flag": "🇳🇬"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -173,23 +190,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1014906a1a",
-   "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjhPOUZPQTNzVWhVT0JweFpqVldVWldDYW9tOTNRbWFrQUxRZHJyRnpiVU5fNm9XTDdkV3NISVoyN1R4V3dMYUlYRlB6aFFLZThEUXpFMVl4aV9jeEsxNF9sZEtpNlJPR3NTSVRBV0liZE8wV3dDanI2bHcwZEY0S3ZUTnEwRHNvYTc3OWR2QnZza3c0NklTd1oycmMtN3NDOENiUmZvc3A1Qk5TcXg1c29n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Arab News",
-   "region": "NG",
-   "date": "2026-11-13T21:42:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
    },
    "topic": "Society"
   },
@@ -313,23 +313,6 @@
    "topic": "Politics"
   },
   {
-   "id": "cb6306e925",
-   "title": "Bitcoin Slides Below $70,000 as Dollar Strength and Middle East Tensions Ignite $1.3 Billion Liquidation Wave",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82SFY2eWk5R3NxcF9lVV9nNGI2TDJaVnFvY1F2LUFaMzM1UUdzMWFKSmljTVl6a01fU3JCWENzOW51YXV1YmFlcEF6bzlsY21uNVRmdUpKYkgxTEtZdmdTMlVQYXhscGhvTXIzZ1BiRjdVempMakE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BigGo Finance",
-   "region": "NG",
-   "date": "2026-11-13T18:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4c0dbe53bd",
    "title": "Early Black Friday Gaming Deals for GTA 6 Players",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBNXBGaFU0QnFNREE2QmJ6UFplYmY4d3pxLUZLSmhsZXpBSVh1d3MxWGxSTlo4cnpPZ0FvRDJwSXFERFNwM2x3c25TbkowR0FoUTYweHp6ZGFnZGczV1NOYmxFSkZUa0VpREdLeldwVERnY1NYSllWQVJyaEFGdw?oc=5",
@@ -347,14 +330,31 @@
    "topic": "Society"
   },
   {
-   "id": "27b48307d8",
-   "title": "Afreximbank’s CANEX Creations takes stake in D’banj’s CREAM platform",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUxtSVhBWHpYQXNILXhFZnNRaFdqYlRMNEZDRDAxWGVsM0lCWUo2eW9IVFByUjRmTktDTVk0Y0hQRW5UVnBMT1k0RDJRWUM5WEVYb3N6ekt2Y1JrVkFnYkhaREpqYl9ZUVh6Ui1VUWpmaThTQ2pETTNmQndRaEJNcGVEMF9SQVYyclU5WHluM2pTdFU1OF9Dc2VaNEhxZHRRMGNpaThSamJxc1E?oc=5",
+   "id": "f0ed912ae4",
+   "title": "D’banj’s CREAM secures equity investment from Afreximbank’s CANEX",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDhJX3VlWm42UFc2bHpMOXkwS1paSHQ4dF8xZW5udjg4cUprZHdFR1JIOWZaMmlHSVN0SzItejFGZWpENU1qN1lTVUdDdFBOdXRKTkFBLTg0d053SDNjcGVMNi1STW9hQUFCcW9IVkU5VFdYWTdCQzZLWUk0UEplLWlET0V6VnJlcXZVMEljNW0?oc=5",
    "summary": "",
    "image": "",
-   "source": "Business News Nigeria",
+   "source": "TheCable",
    "region": "NG",
-   "date": "2026-11-13T17:05:57+00:00",
+   "date": "2026-11-13T17:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "fcbc87140f",
+   "title": "Bitcoin Slides Under $70,000 as ETF Outflows and Binance Hack Shake Confidence",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vYXdoZTZkclZvZ2xRYUlnZ1VfOXFjRkgwcVlpRDhRUmFEY3EyTldiSTdhblB6MFhaYTVnMUtSZTJldVRNV2tGYjBmMVB2bG1aV0hPRFZ5TGtQZnV2Q1h6bmlnWHNOOEJ1ckNfQ2ZGOW5lQS1oSGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BigGo Finance",
+   "region": "NG",
+   "date": "2026-11-13T17:05:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -362,6 +362,43 @@
     "flag": "🇳🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "1dbc69d28c",
+   "title": "NITDA Partners Lagos Business School on Review of STRAP 2.0",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVFFaNFNaMUN5eE1zRmdUcDBTc1BWY25VeWFnNVJiN1V2bUVYc3VGNHN5aTd5MnBFNTZjbzZuel9zcVkxSzBVVTVWLUI2TzVIRTBoNTlscEt2aEpPX0VPdVYyX3dBekdYX1lHOWFnQ1hJVjdXXzZQemRQSEkyaTZqaGhLT2VRYjFfX25mV3lKaHExSTE2ZGVGOHZaWHIyVFhQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "THISDAYLIVE",
+   "region": "NG",
+   "date": "2026-11-13T16:03:34+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Business"
+  },
+  {
+   "id": "d3179dae8c",
+   "title": "Nigeria’s U23 Dream Team Chasing LA 2028 Olympics Ticket against DR Congo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckhNQzIteVZSYmNJVmR5dzMyWjNNQzZseEZDSWRsSTJZSTRaWC0xOWxTRTYtVUh6MEdDQVNjQjRHY1ViSEk3LWJuV2pCcGdaR3lCUFRfX0Vncl81bmRnQXpjdkxlYVcyQzlNcWVodERqVmhCY0JyN0R1aU9xWVd4M2IxT25tRGd3T05ibFhuQUNBLXltWC1BS01pMjVNSzJFNzE2WFpYT1BVNWh6eGxXMlRB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "THISDAYLIVE",
+   "region": "NG",
+   "date": "2026-11-13T16:02:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬 🇨🇩",
+    "also": [
+     "Congo"
+    ]
+   },
+   "topic": "Sports"
   },
   {
    "id": "435d97add5",
@@ -415,40 +452,6 @@
    "topic": "Society"
   },
   {
-   "id": "5ee9cff532",
-   "title": "Dangote Raises Africa Investment Plan to $70 Billion by 2030",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzBoaGFiMzZUbUNWM0ppdHBwM0pJaVZockF0VTROaENZMmI4VVlUZmNyYmV3NVJXVXBTWWRSb29uM2w2QnVzRW1hNXBrb2lEcV9BVFhyMmNtWkdFSUZFSHd4OWo0UjVpZEpzWGhJaWNBZDZXR0U3aXhoR0ZXa1JFbmtkdGNBRmZNWGJtdG53YWM3N3hGSFF3eDItaXhDZ24tYlFJek5GeEdhZzhaQUJz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg.com",
-   "region": "NG",
-   "date": "2026-11-13T12:32:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "da5398e305",
-   "title": "Portugal squad to wear No.7 shirts in ultimate Cristiano Ronaldo tribute following international retirement",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjR244WlhibU82UXBHVmxYQnh6eWZ6Y1JvTDM4Q0hYQVNSQU52TElsZGxBSVllb054cmsxSnZJd21MM1VNWjFBZTlyRnMzeVI2TzJMSFc4NWw2UlE0ajZPaTA3MlVCRXpiNV9oYUxsUUhDc3IxdEhGWnkzdFZJQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "NG",
-   "date": "2026-11-13T12:23:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Portugal",
-    "place": "",
-    "flag": "🇵🇹"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "77890fd337",
    "title": "No plan B for Atiku-Amaechi ticket, only A - Amaechi",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYV9UM1JzQmJOQkFmaXlUNWpaTzhCelpBdVE1UXlWcEFCVWxMY2ZmZWdrVHBHTUxfR2FpRUdXd09sMkJkN3hCQVI3X0hPck16UGlrd1R0LU9HVGFSQzluQkZMcmcyYzc3TDQ2dUJRQnNVLW1BaURhYnlsSlJXTE4wTF94YVNKMjd3T2VIWU53cUI?oc=5",
@@ -462,6 +465,40 @@
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3c178368a3",
+   "title": "‘They used us run ads’ — Phyna blasts streamer awards over Carter Efe, Peller’s loss",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlZDUzJIeDk1dFV5blIxTm4zNExYd09wRDM0S2ZWbHZWMW5Ydnl0LTZqLW1EdlpIWUY3TVJscVdSNlJPNjIzVlJBUGlqNHdVUk43S25tSEpyRUdoUDkwYWtSdWZwcFFXaUdnQ0o4STF3YnVQaWhBNmhvNXdkQjlWVFp4RFZxYkFSbkpDZjFnQVZMX1hPSTZPN0EzQS16dnFQclBHOThHTzhBLUExWkNlYg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Post Nigeria",
+   "region": "NG",
+   "date": "2026-11-13T06:07:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5aac2174c2",
+   "title": "Apply Now: Gwen Ifill Award for Journalists- United States - fundsforNGOs",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY2toLWtSc0QzQlNsbEJLZWpWWm52N1hMV1hmR29IWC0tNFpUcWlWWkZrZ3hBNTBubm9Pd21ZNnZfYXFnbjlSVVFaTVpmcFd2MXQ4RWlGQ1BSU25pbTBvdjI4bGxxdjlVZmdZSVF3Sm1Zb1R1RGJtZ1YzSVkxeXVaVjBkWTFxUi1kaEp3QkFjcWt6T2NieTJMRWxhVdIBoAFBVV95cUxNd253R2ZXNVlBbnNLeGZKTDVGWTZmYWNCZnJyT2hBVmdMRWFTY3JETFFka0NPZE9wUklmdkhxQmthV3daU1JhZDd4a1ZJdmVWWlJHcFdpUWhPOTd1aTBUdDJpUlQ0Nm5KVl90dmdtRDQ1aU1vQkhMVFhYZkRWcWliNF82UExHa1IteHBwUXluV0ljUUdva1RQSnI5SmdiZzB3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Grants and Resources for Sustainability",
+   "region": "NG",
+   "date": "2026-11-13T06:00:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -500,23 +537,6 @@
    "topic": "Society"
   },
   {
-   "id": "94e40395d2",
-   "title": "Nigeria’s digital credit access below 20% — NITDA",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ua2xqaVI3M2kyejhPX3YwYzlRTFF3WVdaSGc5OGFLRkRaelRMV0dILXMyTVZwU0Yxd2xEdE5GZ2k0MFFGR2cxLWlvdHQ3Um5rUzVteXNMNFdoY1VPZl9zNjAyaXJJQVIzWHFpNnFRVzFhNEFO?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Punch Newspapers",
-   "region": "NG",
-   "date": "2026-11-12T23:28:58+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "1c26731573",
    "title": "APC Condemns Attack On NDC Lagos Meeting, Seeks Arrest Of Perpetrators",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjJwS2EtcGtFYjEtbEpJZEVvcUZCS1RYcmtWM0FiQ1ZlMEItU2Y3QnZIUkExRkJHUzVIRzB3Q1BONnpCaFl3NFdRSENVOEp0cUFGUWd4bF9zZk45ZXRER2c3TXc5MWw1X2gycTFKVmpYOWUtMEl3RUpjRFExeDNjVlJ5V09lWkFWaHNHRGd2NG9Fbnk4bEVPTGpNODlpSUdoTG92b1ZLWHJmb3c0?oc=5",
@@ -534,23 +554,6 @@
    "topic": "Society"
   },
   {
-   "id": "a8756b3599",
-   "title": "Children of Blood and Bone Trailer Unveils Paramount's Epic Fantasy Based on 8-Year-Old Book",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMWlmM0dUbGFFZ1ZhN0hsWWlZUFI5SXluMXQ0RFJqM1FRdzIxTGtKM2tvTDROeHRoTDhhcVpPaTJuOEozajEzdl9jZXhKNk5HZ3NiUE10bjRJSHlNQ1lrcGs3cUtVcDdJN2RTLVZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Comic Book Resources",
-   "region": "NG",
-   "date": "2026-11-12T19:05:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "8d0dcc586f",
    "title": "Nigeria Cannot Build $1Trn Economy On Govt Funds Alone -Anuwe",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzlUa0taZzQtTmVVc1FRdGRGSkpDbVpsZ2VhRHA2aDZyM09vbzBJYmxsTHdJVjFhbkVMYWY1R01RR1NZRGhiQWdkaU9lTXp4QXFhMGlxVGZZZ3ZZMUYwaXFFZG5kcmE5RkFHUjR1REFSWF9zUEh6LXg3RUE4SVdsVHRqQ05NQQ?oc=5",
@@ -566,23 +569,6 @@
     "flag": "🇳🇬"
    },
    "topic": "Economy"
-  },
-  {
-   "id": "58dc7ec13a",
-   "title": "EbonyLife Group, Logical African Partners Launch $50 Million Fund to Support African Cinema (EXCLUSIVE)",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMll0RS1NTVVtYWFvNHlpM3VJWHhKV2dUVkkyZ0hKWUxtREhZd1h6akxENVNRUDBmT1JjVHRURlBOLTV2a3FadWlQdFdWY3d6aDhIak80YndHcGU1UTFHMGRWbm5SSWtPcVJpb2Rva0IyQWRTZERoVE9yVkw1NnlpeEdCOFo2bU01dDcwT0d3MHpZbHhPcldvdGJXV2RmZmpRR1JLbF9Cdk8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Variety",
-   "region": "NG",
-   "date": "2026-11-12T07:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Entertainment"
   }
  ]
 }

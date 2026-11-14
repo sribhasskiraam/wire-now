@@ -1,24 +1,41 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
   {
-   "id": "40d0ff7db2",
-   "title": "France hold on to break drought against Boks in Paris",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZElIZDg0akNXWDUxWmhCYVpNZlJoTnJkYzlSa3BWYzN2cGh5YXdqX0VqX05QMVVkUE5FNmd6aHBFQ3ZKRDlYaF92Tll5b1JqMGkzeThDbVBIMVY5SFp6SWh3REtnQ0J5M3ZXR1R1ZHExMi05bEZrUTNPam9OdlhuZk4wZUZqVVkyQy03YmMtY3dwLWdpVkkydFFFVjdiY1U0N3RmMmVOUC1hVm1ZdjZORkhxVENmVzRPUkxnWFFPY3N1dw?oc=5",
+   "id": "bbd2fbfe88",
+   "title": "Alarm bells ring over car recalls, and the ANC announces coalition picks in South Africa",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHkyNXU3aUt1UC1Zd2RYckVtWFFocFdPRHc5U19WZjZxT3R4TkZtbkNoSlhwT2lhbjNFai1BWDhoSmp2QUVjZFhoZU9yeS1FaDJ5aFUxVFBIc28zdGpKN0FoRm5IcmxMbG1INUlNa29Bc1N1Q3I1V0pBN1ZDX0pHMDVQMWRTUGFnNzNvaXYxS1FZWG5CVDh4NXRUeDh2R0VlZ2diNUtrWGdOWlNxaUIza2JnUjBMMDhfb2RENXNGc0czR19XZE12d19Ybmg5RWNadGc?oc=5",
    "summary": "",
    "image": "",
-   "source": "SuperSport",
+   "source": "BusinessTech",
    "region": "ZA",
-   "date": "2026-11-14T03:18:13+00:00",
+   "date": "2026-11-14T06:10:48+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "South Africa",
     "place": "",
-    "flag": "🇫🇷"
+    "flag": "🇿🇦"
    },
-   "topic": "Weather"
+   "topic": "Society"
+  },
+  {
+   "id": "8a52dc3dd1",
+   "title": "Diabetes can silently damage your eyesight: Why regular eye tests matter",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSl8wY0FzQUNuRGZHX0JVdUc3QnVWTmJRNmphcVdrRkZYdmxVSmFNcDZEZDlzTzlnTndSU2JfY2QzVVY3ZVFHVzBrTlZ6TC1oZWNONU9SQjhjWHFLNlMtbFZtalVKU0Q4dFNzWlhfS2syQV94bkRDcnQ3WmxWSzVLNVFZUThCVXN3dDdtVDkwNDZ5MXZXR3MzdkVXdTRHUUFLdW9EdHNGMUFUTXhBclNaZFVOSXM1VnR5SWpRQ2Nob280OWk4UEFrV1d4alZnR2FWdWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "George Herald",
+   "region": "ZA",
+   "date": "2026-11-14T05:04:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "d4286aecc7",
@@ -28,7 +45,7 @@
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T02:04:08+00:00",
+   "date": "2026-11-14T02:28:47+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -72,19 +89,39 @@
    "topic": "Society"
   },
   {
-   "id": "6d0d3e6c59",
-   "title": "Springboks lock Ruan Nortjé: ‘We can’t put the blame on that at all’",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXJxVzFURVRlX1QyYWJCaFQ4Q0ROZG4wSnVoaFlWVXVhOE9BTWJTZ09pUWgyZXMzYkpIZVFlaXVSZDllV3YyRGFFME1pTmNvaFgtUUd6OXB3Z2REeU14THhIRWJfdExkcXc5UkM0NjFrNEJXM2tNTHJIT0FfZGwwcHhjZVI5MlloTkhjeVFzOVZYeEtLNWdfdkY2c3RGQQ?oc=5",
+   "id": "c0c8c19352",
+   "title": "France resist Springboks’ second-half rearguard to win Paris thriller",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2gxMUFLU1Q3YVFaQkJfQzdVNmQyblRqWGpjQkZXVTZVRmVqUk5YN3RtQXA5RE1GWXhoUkVnWXBnclBPTWFEMWpwRG9OWERjbmF2Um8tNVNzaXpzOE5SSm1NUHNEWTZmYW9zLV9Wd1JhZ1ZwZGdqS2VqSllMSnAzelN6alY3Z1NIQWV4d09HNE1sOTN1WHNrVVNHNl9WRm9wM1lmZUJVWXFEd2JlMVJGZXdTYmxwcjFQcTM5VA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Planet Rugby",
+   "source": "Daily Maverick",
    "region": "ZA",
-   "date": "2026-11-14T00:37:22+00:00",
+   "date": "2026-11-14T00:57:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e35758bbb2",
+   "title": "Jasper Wiese red card: Why was the South Africa No 8 sent off against France?",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHN6cjRDN1RMUS1RSjN0OXdoc254TjBhNFc5UGhLSGJrZWNoUXdLb1gxTEx5eS01bklJZC1tQTB2T2xqS2JxbTdieVhIYW5FVFd2azFrdUxPcG1adGNIZi14Mll3YVFacWptR05OSktHTGRsUXFsVW5wR3NZajI3UUNlX0pHT1Y0d3pTT0ZRNS1vR2QxeXNmd09PakEwVF8zbTkzaVNNdG9uYUsxbWlZX3k5M0hTdzhITGtfMw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Independent",
+   "region": "ZA",
+   "date": "2026-11-13T21:42:00+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
-    "flag": "🇿🇦"
+    "flag": "🇿🇦 🇫🇷",
+    "also": [
+     "France"
+    ]
    },
    "topic": "Society"
   },
@@ -97,6 +134,23 @@
    "source": "Universe Today",
    "region": "ZA",
    "date": "2026-11-13T21:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e4680f6ce1",
+   "title": "Five by-elections on the cards as IEC finalises 2026 polls",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlRNSUdKNnVuVzRQbEhMZHZrYnh3SkI0a0NfQWtzZl9xQlZLaDRId3hOc2hGcmlmbGFsdkZISlFUZzlIeEczb0NSLTY4bF9idk0zdGFZVFNCYjVUZk04SDA0YXpXdDNUdXdqUDFqd2dIWThRbGwwcjVJRVpxS0dTRkFMWDJ0cXVVeEUxdTFuTjEteGYteHlTM1g4Ni0tbjZWV0RRcA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-13T19:36:03+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -119,23 +173,6 @@
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e4680f6ce1",
-   "title": "Five by-elections on the cards as IEC finalises 2026 polls",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlRNSUdKNnVuVzRQbEhMZHZrYnh3SkI0a0NfQWtzZl9xQlZLaDRId3hOc2hGcmlmbGFsdkZISlFUZzlIeEczb0NSLTY4bF9idk0zdGFZVFNCYjVUZk04SDA0YXpXdDNUdXdqUDFqd2dIWThRbGwwcjVJRVpxS0dTRkFMWDJ0cXVVeEUxdTFuTjEteGYteHlTM1g4Ni0tbjZWV0RRcA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-13T18:38:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
    },
    "topic": "Society"
   },
@@ -174,14 +211,14 @@
    "topic": "Society"
   },
   {
-   "id": "33c4785daf",
-   "title": "MSF warns critical failures are undermining DRC Ebola response",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlJnVTBWdXlleWVKQU9rVDdiRHBjSWE1b0ZqWkpfRUxmdG9XaHVQUjBsd0xBelV0MDBySFgxQmU0XzVUQnhYa2pFNHBWVmtjUEhkWU1BTWJPQkFCdTFZSHpZTEJ6aHBza0xQVzE1NmZQNXFSUzZ5ZExQUmtrRUdidjd5M3h0bnlUQTBTY2UwQWRacXJDSGh0T0FJT2xkQ2V2OGtrZV9Vek1QNG1EUkZJTnRNWXc?oc=5",
+   "id": "c33fcdf200",
+   "title": "Nurses urged to ‘think type 1’ this World Diabetes Day",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVgtdFFzOHpOWXJyMXFYSUJ1U2N4UmkzNTJFM0hVcFFVdHNZTFpwbklNNjdtZEdsUWNYbk9tcnkzaGxNeWs4THc0N2pqYUhYNjh6N2NOLVp6VlBDVDAyVk9jVVNKS0ZJbE93S3dCSU91LWQtOHB5SmgyYWpieEsyTUd3T054WjViaHNMTFhkT3lEMkFfXy0tWVR6LW5EZ0t3RG5ialoyT08tclRGRk1SaG1fRFZhN0FyQllBYTVfU0k?oc=5",
    "summary": "",
    "image": "",
-   "source": "Channel Africa",
+   "source": "Nursing in Practice",
    "region": "ZA",
-   "date": "2026-11-13T16:58:32+00:00",
+   "date": "2026-11-13T16:15:28+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -199,6 +236,23 @@
    "source": "News24",
    "region": "ZA",
    "date": "2026-11-13T15:40:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "785543c2d8",
+   "title": "Nations Championship, Round Five: Teams, predictions, global TV channels and more",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXhMNEhaZU9WUldRdUgtV2phTm9FVkJMOEo0RnUtTGJ6MFJHWGtYdVZYMTNqeExVNnpsUlM4XzdvYUs5OVZuVUY2VkhpcnpnSXpRcUlRMHdGMXQ4UVdubXhwS1ZZcVFNWFZhU1ZkZ1BMNjk5aEtjX3JCZXFyME1fRUc5aVcxUVRTR1lHaG5LQWkyS0tWUlRoN3o2Q1JuUXhoTU9MdmhtSW9hQXJPbHk0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Planet Rugby",
+   "region": "ZA",
+   "date": "2026-11-13T15:02:08+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -296,40 +350,6 @@
    "topic": "Tech"
   },
   {
-   "id": "faab1444e3",
-   "title": "STRIKING IT RICH: Bringing context to Bok quest and reopening of Sandpapergate",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSllhc0d6SzFMYjBjXzh3Y1NOQ2JVUkFoWnVrZUx0bnNOQ0MxdGRsQlJxeGIzclh5X3VjbThFT05ycU1jNVdYSVRsbXUtejR0RU9wVFVXWWcyeThiZ19BUFpRWnlJSkd1MWVpRzhqbG5WM2hzYlFYR2pjenRnTmdVc1VOVjJ6QVhjSGNLb3FRcmxKa0JRQUlVdjVlczFHS2tQQ0ZJX3lTOTlDWS1zR1ltWnRRUDdGVUlmZFlmNjNMNmV0eHVnUmpRN0FXTW12eTBhSFZqV0tSNzZ3ME1EbHhiLVhn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SuperSport",
-   "region": "ZA",
-   "date": "2026-11-13T08:34:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ce95621353",
-   "title": "South African rand slides to seven-month low ahead of inflation, rate decision",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHJUYnA3N1BkeU9GR3djUy1pMzFjNHlJNjJXZWVFb3IwVkJFR1NCV0RwVkFhRld3YjNqam9RWWZTMVc1dnY2WHlOWkZNSzZtOHRqUDQyaTY2MXQxdjEwb1J2dm1Xb1ZVaFhrZURLR2xJbG5rRmlHZkdld01FMEFvak5tbG1MWjFDRk5rWlNHUHdjWVNiSWxYaUdfZV9UTUFpWEpnQjdyXy1LcUg2Vm5CRDdsN241clFaMTdoeXBB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "ZA",
-   "date": "2026-11-13T07:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Economy"
-  },
-  {
    "id": "3c89b9ee42",
    "title": "Man dies after being handed bomb disguised as traditional Indian sweet",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFF2czFDNlpwU0hsdU1NVEw2SnNnRWxaTDVCYUdiME1KZmw2OGVkM0ZxRUU2TFoxSWFMaFVOaE1aRmhjNTRBOXNlcEZHVE8tejg5WlBGcWsycVZIRjA3eW9uY0pnVUIwaDBtc3I5NXpNeGRLWlRxNDhKZDNkQm5iNDVtYU5xYjJscHRNR3hkb3JrMWZzdnQ2anlzaHd6NXhodEVsZXE0aXpaNEtKT2lYSg?oc=5",
@@ -337,7 +357,7 @@
    "image": "",
    "source": "IOL",
    "region": "ZA",
-   "date": "2026-11-13T07:10:17+00:00",
+   "date": "2026-11-13T06:55:03+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -379,23 +399,6 @@
     "flag": "🇿🇦"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "60c0cc58a3",
-   "title": "Ditch The Dishes with a brand-new Bosch dishwasher, thanks to Bosch and Finish",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJSFB3OG9yb3FnWnQzbXM3cnFtcGhRaGQ2NWQwNHZXMU5zYTd0aktlbXgyN0hlMlhVUGFaN0RUU0syclRxdmYxRWtmcnFNZ3VEaXVFLXNEN1JHMFg3WmFjWFlSNTBTdEhmU2RBTTRrb1p6eTlYTTM5RW5GVFdsM2s?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Jacaranda FM",
-   "region": "ZA",
-   "date": "2026-11-13T04:04:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
   },
   {
    "id": "c0f70a5412",
@@ -449,9 +452,9 @@
    "topic": "Politics"
   },
   {
-   "id": "23ef08f213",
-   "title": "The anti-Jensen now runs Nvidia: Meet Colette Kress",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGxYMUsxMjRDWFhZMnU2WlVVQ0RjNnRHb2lzZ19FTHd0b3VNSWkydE1nVzVpZnlMQkFSeUVtTVE0N3RVbDFkV0VlMmlvbnJsUjI4MnNTbWxlY250Z09kcXNqV1I5MFRxME1xM1Zfd0MwaWhCSUpkN2RZVTdvX25tUVJ6cTk1NFU5U0J0WTdXTEVsNXBsRkh5TmNBRUM1YVBzMGQw?oc=5",
+   "id": "bb35f2091f",
+   "title": "Former Nvidia CEO had a relationship with a second employee, sources say",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVk0dm40M2s1czRxYzl4RGQxYklyeG50RVBsM0h0N2t2R3R4Nk1ZVzZ2WFZqUTUzZ0dJYXpqc09UekFJZUc3aTdSNnVMTWVabHBkYlNoeFJIdDBZeVNvRzZLZTZ3WUFWX0ZIYk9xSnZ1ZC15UklqckdDdUtveTdRaEZwNGJ2YnptNDdOSGxfRnF0Q2NsMUcyMnJ3eXZGZmtnR1pxZ3Z4NmVJYkpCRXF3UHUzOGFSWVBrRlc0Wm56dw?oc=5",
    "summary": "",
    "image": "",
    "source": "News24",
@@ -517,23 +520,6 @@
    "topic": "Society"
   },
   {
-   "id": "02e5d6f347",
-   "title": "Beyond the diagnosis: Parent shares realities of raising child with type 1 diabetes",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjRRR2ZZVnFTS2pXR1U5ZEt2MkpKd1A1SWo0Q2kzZFNQazVpRXNCVlpBS1VEa24xN3l5R1ZHcFlINDJqaWgxNU5tMGg1Z3AxbTBMV3lCZzhDYTJ4ck9Sa1hDNUVXQmkyeFpkMTVBVlRUTlZ6NTZBSi1odHFINVNKRmdmTjJnaTBndDc5M0IwTXdvNzhiUlI2Z3NPWHozMTkxbkEzX2pJRnNUNkgtbXFXeE1aOGstcXRHOXVIam9hOVlRelVZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "OFM News",
-   "region": "ZA",
-   "date": "2026-11-12T13:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Business"
-  },
-  {
    "id": "8567efeff0",
    "title": "HUAWEI XMAGE Awards 2026 ceremony and the annual exhibition",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2NSVnplQVhwWlc5WnpZUll3cG8zOGV2M0ZFWEsyWE8zYk1GbURUQ0Vodk9CemVJdzFPU1A3ak1FNDlibHR4UXNmRGUwWHMtNTU3enEwaDJNOUJIeWcyUV9tYzc1UC1WRHlHZXZsLVVWd01Qak94RUNOa1BxMTE1eW10UEFJanQ4M3BidFh2RnRTNWpsTEoxdVA3WQ?oc=5",
@@ -566,23 +552,6 @@
     "flag": "🇿🇦"
    },
    "topic": "Society"
-  },
-  {
-   "id": "6040ccb98d",
-   "title": "Round 2: ‘Please resign’ – Bonang tells minister Gayton McKenzie to step down",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGxIUGxRRFotY2hrTjR1OUdtTzRRdjN6dV9xWG5rQ2ZpVUIxNnhETFg5NGMtUDZiYUp4NDJ3aU5WamdrRWtXS25XY3RmZGJmZ2Z2YmdpZ0NfZXZ0bWh4amhFcjZfeWZzMjZtMExWTWl3NGU1UzRMUmdIcDVMNDlfb00wSGNjVlBMdy1vREsxMzJJWVlCM1hNVTQwdlhYemIzaldzaHVNRG9WUTA0M1B2bnhFS2lqYzZVdnJKS2VSdmJvOWNCN0pFTWhxbmRYc012R0lRaA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Citizen",
-   "region": "ZA",
-   "date": "2026-11-12T11:43:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Politics"
   },
   {
    "id": "3470045c92",

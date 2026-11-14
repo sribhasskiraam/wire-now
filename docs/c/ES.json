@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
   {
-   "id": "b7b6fa5268",
-   "title": "El desafío del cáncer: menos tratamiento, más calidad de vida",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2pJUnBZYmdkTUtJNThSYzR2VDFHQlNXbmtYVnFLVkVIR0FHX0JjaV9iSWxBY2M4MGwxX2ZiZ1RRZXUxOG9maDd0bXEyYVNvcHJmOU1OeVhRRElLWlZja2wxZ3pONERHaUpHOHZjWnJhenVlWjltS2U1LXYzWjBFZGlXMzluaXEzTUZ3ODJBUlB3RURTd013SGd5NGlXYXVJUVFEb2loNNIBrAFBVV95cUxPZDJuNEF5VEpqaEppMkdZeDhXQjdHRGpHN0dXUlRxRUVUaE4zTDB1UHFXbjZGak5OdURzdnNWRy1XSGNKQnB0bXNNbHQ3Q182VFh6UVRRNmp3S09lbnAtNG1xbC1acWpLenZiVkljV25QaEE1VU96V0w5c3d6ckM1TlBkTlRLbk1GblM0cUtsdHhmZllqd2RZenZHekhhY1VkNm1DdE1ZdU01cUxL?oc=5",
+   "id": "e3728cb3bf",
+   "title": "Avances y desafíos frente a la diabetes: más herramientas que nunca, pero con retos de equidad y prevención",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1F2Ym00eGRqS1E1S29fQWRDMEFaSFZMaUg4ZVAzenRadFhsZmhsbzRCaTNwem9kLXk2VHZYbmJtbTZzRWVjSWxmNHNkRXZ1M3Q3OUQxbXlXNkJxZFA3QWVHMmxjUXRqcjhSOGlqbjhJUFBqeFkzRnlwOS1DTzNuYXFOOW9xdGV2LWRGQ1JZR2F1R1Nlcnp4WnpPWXU4bUlZVEhSMnRkUUFyRk5KRTU2TmUwbVc0TGZ0MVB3UTJTRmJtRnRWY1Z1dWkzUjc1Q2RaS0xMbTFNMTJGVVI1am9BQWlRdk1Xdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Noticias de Navarra",
+   "source": "Saber Vivir",
    "region": "ES",
-   "date": "2026-11-14T06:00:41+00:00",
+   "date": "2026-11-14T07:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -19,6 +19,23 @@
     "flag": "🇪🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e6918b7177",
+   "title": "Cómo los ‘amores’ furtivos acabaron con altos cargos directivos antes del caso de Jensen Huang en Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaVJFV2dqakkxdWxHWXA3Y3JDYUpWT1VNX1dSZlhOejB6LU1oQ0JpbFYzNjRBM1djNm9mS1dWV1ZPa1pwVXdqVi1tc1BTc1JiRjlxZVJJVHhtNmowbHdZajRFMnBEU0lrNzhXcThfaUlKVG00Q3dHZTlFYmpKdzhwRkExamxaQjBBSm4zTEJNOHBZaHVWS0lmU2RxaE8zYjVtOVJIQmlIRll2R05UUkFzMmNGVDNtaUhuaWlEUmFFaHVOU3BVd0JjWTBsc0ZvczRkTGZiLTBqRUFaMnoz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EL PAÍS",
+   "region": "ES",
+   "date": "2026-11-14T05:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "941c8996f5",
@@ -45,7 +62,7 @@
    "image": "",
    "source": "DW.com",
    "region": "ES",
-   "date": "2026-11-14T05:15:00+00:00",
+   "date": "2026-11-14T05:16:31+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -55,21 +72,21 @@
    "topic": "Society"
   },
   {
-   "id": "ef96d49ea4",
-   "title": "La perfección de Jensen Huang y Nvidia se evaporó en 40 días",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWhVdUNialhGMzZxY1pCY3M0c1RuQ2JVbGJrUTdvb3RwRlBxRmRNeC15bHNBaWdlZ241WEVzYy0wUmZydjFGYXFneUV1b283VllRMUVraXJMVko5YkxMVkR1ODBaRWk4YS03X1lQR1NKUThDQWtOV3Mxc1IyUEkxM2ZVN3VTeWd1SWUwN1FLTXNma1JoV2FJYU9mb1J6TGxNMlVVNXRPONIBuwFBVV95cUxPeXNiRkpwYnhWZ1dxdXNRQjFBVjh5VDY3R3dnN3FBU25NaE1OTXVRMzlldUx5X2VzdFIwSVFseDhnblZyekZJRnpmLW5YVFRHRFpyUkdERXVweGJIZl9LQTJ1ZHdJdFhfa2RILWlKRmJfYWFDaHRscmF1YndBQ2ZXRV9oQnNxQVFNcmJSSDA2djJDVmxmN3pzZm1FYjhNOUdfTnduUmZVbFhQajVnTDZ5bFljcl81Qm5yZU1z?oc=5",
+   "id": "f9e86863c0",
+   "title": "La campaña arranca con la derecha en el horizonte de los 190 escaños",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSU03YlhkOGpKZTlPMTl0a1htTGxqT2lCMjJJOW52dEVySlVBYjR2SEFEQVFEVldBQm9SY2N1U2Fjd2ZRa2xoTXZKOWZlUjYwWGNKbmY2TWZfMHJPWmdySENjNHZZajNQMFVsemZZY0xLQjNxWkQtQjNpaDdsSUNuRXFQME4tQ1JodVRzRThIZFFabjI1WlEyNlRpcGVMRmtVdWIzckNLWkVBWDBVc0hOb0pvcHNQZTllWUd6RC1jSXRNMXhKRXp2ck9nVQ?oc=5",
    "summary": "",
    "image": "",
    "source": "EL PAÍS",
    "region": "ES",
-   "date": "2026-11-14T04:45:00+00:00",
+   "date": "2026-11-14T05:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "84e3bdebe1",
@@ -89,14 +106,31 @@
    "topic": "Society"
   },
   {
-   "id": "28b0a4e011",
+   "id": "a03fab62e0",
    "title": "Diez obras maestras escritas por Rafael Azcona: de ‘El pisito’, ‘Plácido’ y ‘El verdugo’ a ‘El bosque animado’ y ‘Belle époque’",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRExwNEVvd2xmRGZ1Wmo4Z2dDSHdQc0tib3NCREhBRTZGb3ZYTnlOMmlSeDBGZkpHYVRCNG5jU1BKTEpQd1dVcGtWWmJScW5lU0Z4a3V6ajBHRmJJOVhPbXZGUnhodU9SMjBDV3A0d0thVWZicW9FX2E1NDFiTmVWX2Q1cUdoLWNVSDJrWTNEa2JUWW94eWoxdWJOX2RjLWNZTDMwa1JrWG1za0hsSEpYYllJTWxYd1lhWW1XNnRHUHVqaklRWDVwWnNzRzdCb1puTXh1OGZOa3FHZWtIcExLVlJORmczS0lvVGFxNW16b9IBgwJBVV95cUxOTkNxcUFDc3hUaXdiXzhUOHVIYTNsYWhUQ1dCNU0zTHhIZjlfMVczUzRDbU9OcFJGbmRveEMtekhHcFdzTEcyZDZmR3oxbWJQa3NyZlRNcjBkd0xkTi1FS244Qy1nV2hlY0NvRWhwRGxMdzcwMDJzSTNJNEJnVUQ5YUlFNUpjNGFhM3MwWmJhaXRMcmMyM19nUFlnQTBvTWZlSjBNZll4dEd0MkdZR2stbi1YVHpkOG1rQVFHOE0zbEp2RWtqa1huMlN0bm5IUXBCSXdhU1l5SS1YRWtESlV3TDZmc0lMMWlBNjNJM3dHd3F4X19neHVMWFVwbC1DTWxGQjBz?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRExwNEVvd2xmRGZ1Wmo4Z2dDSHdQc0tib3NCREhBRTZGb3ZYTnlOMmlSeDBGZkpHYVRCNG5jU1BKTEpQd1dVcGtWWmJScW5lU0Z4a3V6ajBHRmJJOVhPbXZGUnhodU9SMjBDV3A0d0thVWZicW9FX2E1NDFiTmVWX2Q1cUdoLWNVSDJrWTNEa2JUWW94eWoxdWJOX2RjLWNZTDMwa1JrWG1za0hsSEpYYllJTWxYd1lhWW1XNnRHUHVqaklRWDVwWnNzRzdCb1puTXh1OGZOa3FHZWtIcExLVlJORmczS0lvVGFxNW16bw?oc=5",
    "summary": "",
    "image": "",
    "source": "EL PAÍS",
    "region": "ES",
    "date": "2026-11-14T04:30:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d69c223a5d",
+   "title": "La Starship de SpaceX entra en órbita luego que explosión del propulsor impide doble captura inédita",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTVSd1AtTWxGUFhjcGJzNlV4dG11d3Q1amZoSGhuVUMwd01XRVYwNHBRbUhBUV8zdDBuOENaQTNaWFMzSmN0TExTNDZPem4tV3BhUVItMWN1M3ZvTElaUkd3enBPWXV2d1RmQk5RbmdvNUdCQVdqallKNFV2c2RabF9RV2lGSWktc2dPUHR3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "ES",
+   "date": "2026-11-14T04:13:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -140,19 +174,36 @@
    "topic": "Society"
   },
   {
-   "id": "0324d5d7fb",
-   "title": "En una ráfaga, Uruguay le marcó dos goles a Argentina",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2xydDdkb1NWTDJxY19tTHBJdVlsN3Q3ZFZ6UzRjRHVmWjRxSlR1SFdMd0ZTOXpnM1NZd3pkR1Utelk5Y0I2cFBHbkFTTkNIeDlBY2dvNFM2Wi15NkptWi1lOUEtSHBQWXZ1ZEZKdGFPUklTdUlBcTkybkJMa2gxVTB5dUpja2s5YmNYSGxDYmMzMXB2NWVhRWpNRTF1Um05ekpMYXhZcFNxZXpBUkZmTXFiN2VZREZVLVBzQ205NXQ4TlNYRGhJ?oc=5",
+   "id": "2f0b732594",
+   "title": "La caída de Microsoft: qué pasó y cómo avanza la recuperación",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamlFZzdmbDdoOFdmeWlnNlRUVW1STDV6eTVzY3NVTmJKbldLdVYtWno1OEFJaS1KZTdJYkUxQmowOGp5ZmJveFpKLU1TTFhDYmJxZHpuYXoyZnBGSXBiZ18xc3hYR2dyVWxhWnhfeS0xSl9aTjl3ZXJsLXg4aC1IZQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN Deportes",
+   "source": "The New York Times",
    "region": "ES",
-   "date": "2026-11-14T00:30:00+00:00",
+   "date": "2026-11-14T00:50:17+00:00",
    "coverage": 1,
    "location": {
-    "country": "Argentina",
+    "country": "Spain",
     "place": "",
-    "flag": "🇦🇷"
+    "flag": "🇪🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "8860967b6d",
+   "title": "Guía para entender la montaña rusa de los valores tecnológicos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlk3TjcyNWlHWUd0dUc1WWNrR3QzeGNUUTBzYnpUN2gzaFNpOEg3VDhTLWZUZW5wdk52V3BUWFkzNzFjaDlmNm01bTZULTNfLXYxMktPR0RNN3hSWVZ4TFZjNExPMmU0OHhQdGZvak54c1Bxa2FhV2dMYnBGQjlKZ05NWDJZT2RZbTBMczZtQ1BiTmdFZTFuNmpuZmZIcFnSAZ8BQVVfeXFMT19qbWxTMy1DZ3BzamhaWW1uN0dWQTEzVHpJMDFxYURDdjhkSm43WFJ0YXRlVTVEZEZpcXNqcGhDcnBCdjB5b2tZNVdQUTd4REZaNWJoektsNFNsLUVlTDJmVEc4YnM0T3hqWE9wdTFXWmphV3JLUVlQeXVJRTYxcFcwU0lwMDBIU1VoRk5ESFhtc01UTG03WkNaeFBJSWZz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Expansión",
+   "region": "ES",
+   "date": "2026-11-14T00:48:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
    },
    "topic": "Society"
   },
@@ -191,31 +242,14 @@
    "topic": "Society"
   },
   {
-   "id": "1617533fa2",
-   "title": "Falla intento de SpaceX de atrapar dos etapas de Starship",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbU54MWNBYkhkT0k4R0RYYVdlUjZMdkQ2YzJZb2stb0pSdHViMmM2NU1KVTJhMW1DZHNXTzV4aUJmVTh2TlVxREJ3d01PMllZLVNWZjQ2aFdUYXJhcy1ZM3JvT01qbkk0UERuZndHQWEtN0tDQk9QRG5ITUU3Z1JyWFVWYzhEMUJOYmF5VTBBZ0dvVHUxb2hzTnZtYw?oc=5",
+   "id": "06fabeaba6",
+   "title": "Países Bajos se da un festín griego y Alemania resurge en la Liga de Naciones",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkczNThMMnozeDFQODlQX25SWTdfRHVWNkJSYXBJekJYNVJCYS1KTGZlczNEMy12eGl1blc0SWRKdFZyZjlIRjNsaGdfdmNfSlNKaHltX3NCQUdHZklWcU9nZHFWbmVjbUhPZ0diSjA4dEs0ajhCWGRmVWJnR2lJNVNNRFBSb1NKRmU2RHR6NlZYR3h0QnIwVXlvaXRYbkp1MmpVLWdidjRPeEYyWXAtOUVPZzYyamMwLWQ3V3RKRDgtU3RNSEhCbDdOR1NOZ1lUX3c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reforma",
+   "source": "RFI",
    "region": "ES",
-   "date": "2026-11-13T23:27:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4fc4de9ed7",
-   "title": "Luis Carrión: \"Ha sido una buena puesta de escena desde el inicio\"",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKLWNYRzluVFVKWUVncmY1Qml5U2tCUGZlUnN2Zlc1aGYzUXBCSXU1bHd3QWlLTGNVQ0k3TE15VHFvQWVjNFJDaG1DZXUwQnlQdWNpNWZTU2txRUlBM090ZzJGeFhhSFhpTGJKcW82bUVSYkk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "cd leganes",
-   "region": "ES",
-   "date": "2026-11-13T22:26:09+00:00",
+   "date": "2026-11-13T22:31:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -242,31 +276,14 @@
    "topic": "Society"
   },
   {
-   "id": "420b6ccc26",
-   "title": "Piqué estalla contra la federación por la incertidumbre con las sanciones del Andorra",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGlVUm1MZ3dWaFhZLVh6TEJuV1hmb0FPSi1DcGtJQmtoVXVvSGlRWURQazM1YmRsamxKSFJRMnU2TVhERzhiY0tkVXVNNE9RMVBCUnNmcFN6VU1Fa241dUhoOFY0ZTZCeG9mV2h6aHZnMmNKQlc0SHJSYWQ1NHlyZjVGTXdoUnlKbUx1ZnppWC15REExbHNCX29ZVTNudFVJWjk0Tk1jZnUzMDB3aXBfblZhUDNKbTZjX2NMZTVlajFGc24yQUHSAdMBQVVfeXFMT000OFRqSTdHNlJqS19UcXpHb0JZSUhLdHFjX3pYdExSSzlLOGdrTDNsVnAydEJweEpBQXZVc0RWSkJHWnV0ZjJhSkhvNFlabUdaeU5Pd1hZY05XS241ZkZ0VFJhWUoxYTFUMTFYS1VUNXZ4Uy1zRm5LMzUyX3lJd25yTno0N3gyMF9IWlFFVEI3eWVCU0l5bko4NUFkRHJOblZQTHB2NkFxUXA0dUs5R0tjQ3VOeGhSOVItc3JuTWZmRUQ2ZHlUWkJfZ0hzV2VuV2RyOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mundo Deportivo",
-   "region": "ES",
-   "date": "2026-11-13T21:17:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "638cd683bf",
-   "title": "Carlos Cuerpo (PSOE) anuncia la creación de un comité de expertos ferroviarios: \"Puede ser el germen de un pacto de Estado en infraestructuras\"",
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNeE5wX21pVEMxMkJpWE5pQXhmZVhTSXN3RF9CNDR5UVYzQnNUNW1yeGk5MVV6NndRYmp0VmZNM1FUNTVvRnc1M0ZWdXI0RVlBUjI4d085aF9EVzhCRFJaVGc3VVdPR3BQNXVFeWl5X2RMazA1MG1LdkNqbFFhYW9wdEdXZG9wS3UzOTlBUTJIX2gzcHNaLXRyeGw0T3pOaEowdkhGclAzbnF3RVJLYWVJdUJERFJTemo2bWprZW5WVDlLeXZmajdIeGdCMks2MmdmMUhBc0cxWlo0X3E2Ukc1OGQ3dlRUcmxtMWJyTU92VnhDUEFkNHZhVzR4cE1EVFYxQTYzWWRpU21PY0dic3VNRkxLb1ZucWN4cTlKU3FESdIBnwJBVV95cUxNTGxPU0hQUGE1QWJET0ExT3VYQUMwN3VnYXBQMklQVFFIMm9ZV2lsOWtDUTFMMnV4U1ZIVUhEcnVSeXJtTXhXQkpZSG9aYmVHejZ3NHo3Z0xHQzBZOG1SWVVzUmEzUVVRMFBfRVNaZGRyS0JmZjhtTTE0dkE0RjJxanVfTThLMmlTNlRPQ054MzB0aTdJYlZTay1QOG1xcG1fdHR3MElpVnpYY0NaVWNxVHJSLUJvOFU2QVJXcm5BeFVHX0VmVVFjNWxVakEzUmUxYUJ3NlZlUjVLNkVZUVhqN1BneS16UW1Ha1hOQjVHclFvWjRNeF9IQ1BXOUljT2U0QW8xQ0tiTU5xYW51R3NmSVFwaTc3WE1ZZWRnTDVjTQ?oc=5",
+   "id": "f8547efdb6",
+   "title": "Cuerpo (PSOE) acusa al PP de no invertir en ferrocarril y Bravo responde: \"El Gobierno ha usado fondos para poner puntos de selfie\"",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOejRFbk82TXl0a0NlRHlGWTBOOWVMOTF1d0w4Qy1oQnR4cXN4R21pM0l6V2tKUkxlRGpnbEs3QjlUdml1c251NFJZejBnUlY0VktRa05SNjJpUGhTX3FjVmtzQjJ6RmpCa0xraTFOd0Fka3ZRUXozaVl3VlhkTE5sMU5Rc3ZrSUpfbWIyX3h3U2tFVDhiMDJ0Z1EtYTVhaW5PM3JfUDVVWUozLTJKZlpCcnpQZ2pWVkE0amVYajd3OVFzaHg5TUdIS1VGdEtJLUdoajhlanZKNXpBSlFlZ3Z2UWFmbWM1Ul92SWN4RGxuVzUwRjk3U25rcTBaSlI2czdJZDhBbC12YlkzZ9IBigJBVV95cUxQcVZJRGRKLWJabVE5TjU1Z3BaWkVXLWR5WTl2QW9lZjRkekFqVVJSeFJhTnNlWU1udFFwc1AyY1VsdklBY2IyVmtpcmJ1SjRQRjMyTEhHSF8wOGQ1RWRob0pEQzNVSWJoeUNxYWotLXlGWmFRbFc3dXBlUkZVYTRZTFBtX2IwRFFjQU9pUjdOQ3JBeEwzQUg4TTF0SXlUWEhGcm1MVWp0U2owVkFXQm1MQmFHVkZ3Y1Vjb3p1Y0h1cE52MWRfYVRuUFNjVnYxeV9wVS12Z0s5VFJSeWhuVGkzYmZ2bFQtVWhNZS1CRVIwZnNtMjREYllIYXJGdnZrRU5xZXdVQUF6LUlaZw?oc=5",
    "summary": "",
    "image": "",
    "source": "LaSexta",
    "region": "ES",
-   "date": "2026-11-13T20:59:22+00:00",
+   "date": "2026-11-13T21:18:23+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -293,23 +310,6 @@
    "topic": "Society"
   },
   {
-   "id": "87ac753cc6",
-   "title": "Huelga del 11N: churros y porras",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHdyZl9HZllHVXotU0ZsQlpXbU1td2tLZDluSndhcVhia3hPZGo1d3B0bTRFQ19KOG02LWRmZE8ycnBZTEYwYlhZYy01RWlRSTRzRWdaQ19ZTmU5QmNEdFk4MmpLbTFZbklZTWNlTXpQZzdEcjRFV0FfM2h0UktvTmtQSGxNZ2RCZWVOZU5mdi0tU2g5blpDbzgxaktrNnIzVVJqRVduUzI3SWZLaVBsMTVwa0vSAb8BQVVfeXFMTWdMaW15NVdnbUtLVU95WDYyVVJGZzNreGpjUC1MajdXNXU5OXJudDdiT3ZHUXhCLWVQVlc0VW9URk1pMEZmaTJVcFRDVlhsX2ZuWm56WXJUbFBsaElMaDdwQWpqZmh3eW5EUG1rZVhRM3FTbENIcFhPbmk5V3hhRTd1RENPcXA2THQ0M29NVnBtMmFsRVZYVTVVc0gyNXowQU9oRFQyb3hQc2xidmw0S3BrWkZqQ1dvblpOTG1ucDg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Libertad Digital",
-   "region": "ES",
-   "date": "2026-11-13T20:49:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "7733ce0048",
    "title": "Rosalía, Edgar Barrera y Milo J ganan en los Latin Grammy",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjc3TGNRaHZPdEV1cUsyanFiQnRqaG1RV1poVlB5elVGUlB2M3ZaTUJ4bTEzREE4ZVR3UUhyTmxGajAyMjQwWlpQeUdUM2xBNGRURjNOaEUtU1JBTGFsSWpYRGVwclg1RGtaNGtmR0FYbGM1Zkc2STgxcTNpblNEYUsxamgyaVltVDRRQWw0MjEtZDRTeFczQlJVMVc3RWd6Q1VGV3VrOTdhSVpGUDV4UzBRSUFyZ21jSzRZblB5d2p5dw?oc=5",
@@ -327,48 +327,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "03b693923f",
-   "title": "Inicio de campaña: Sánchez reivindica a los sindicatos, Feijóo tira de insulto, Vox de internacional ultra y Colau dice que \"no todos son iguales\"",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNblBXLThVVUE2MVdkZGVIRjJod3ZPSE0xOE9DZUpJY3ZVZm9zejgzMWsxcjB5M1J6T19LdkU5TEg5NEh3YmdaTklVWXVzSjNmbENvRlZsSHFQbGUtN3NvN0c1bnFuaGxuOXVtcDRHak1mbW9KSEVqbU15bU5RNjZhZGFTM3FlR1lPSmd6LWw2UVFwM1ZYWGpxQ0NQLXBSU2I1MVpKWUZqWU8tSW56a2ZmZHdyQmRtUlIzeG5ydVZzeTFHbUJ5bDgwbHZfdUdLT1ZsMlY3TF9qcDYzQzgyMDNwT1FoaUZRZ2JzeWRUaGI1OWw2M09JMTY2cG1hTlVVbEI0QjNfTVVvZjBOWjdaWmtmWGlUUXFpV1gyU3FFWHhpQmtzX3U4S3FqbGxEYU5vNW1Z0gGwAkFVX3lxTE9Bay1DNEhLRDFBM1lkZWJyNnpSdWlzX0Jyb1NqVHJjVzF5OVlCV2RaLTE4clRLa3NjMVNISkEzaFNNOHM3RHpTeG9xcmpfU0p0ZDNvejRobmpJYWFaSkhhMU1qbUw0WkpFdXlqaUNtTUc2MzhhRjM2T0lFRl9ZRjUyRHh6cm4wdzVrdlBITWc3S21pUF9qNXpBM2pkZ1IwbkZKd0hVdE93YjBra1VydTkwUWo0U1p3ZXVheUlGTU5FRERCSFdYOWc2eDZ0SkFjZFBsVUtRdEhSRmMyNllzUmVhSjVWMWN4REhIUnhlVHRMTjZ6bW0zZTdiRDMwUUxHWDViVjdVaUlTc3o3T1VnMnR1T0k5MWhjRGpQbVBGOHBMZnhWUlF6YWRHMHRoXzFkSGs?oc=5",
+   "id": "411b41226b",
+   "title": "La UE enviará representantes de 5 países a las conversaciones de paz",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUG9rb1hPZVA0N3JKbVBERl9FbGFaWjFLTWZ6VGxJVHJxWWpxNkFDcDRNeUxXOE40WUdqWDJVWTlvbEFTRUNmMUp2b05rdzB1U2FmQjgyc1NqYjVXb0Y1SFo0bXB1aEUxaVMydlEyZEgtQl9vVzNmNlNSRkFJaVV3TGp0U3FkSW5YYkFEWWRSZTZ6cGVQNy1ld2xKYUtKN3d3NUVVZUhRSWlDQU5fSG5nZk55M3YzWTRNTFdadGxsSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "LaSexta",
+   "source": "Euronews.com",
    "region": "ES",
-   "date": "2026-11-13T20:15:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e03cb29ccd",
-   "title": "Expulsado a Marruecos un imán radical residente en Huelva investigado por la Guardia Civil y el CNI",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVNBSktiNm9xOGxFck9RM1hnY1RxTjZXQTlJdVQycEpERWUyVmxoSXAwc01yX0d4dUgyTEszb25vR0dTaHhENzB2QmFyazZEU1p6MEh3TUFSVVR5UkUzcmN0THNGUHo4VjFkVkVVN0NaWmg2VlEyd05PWWgzT0ZuRVFaVWR0bUZPMzFUZnBObkNrUDh3TWFYYzhuSUYxcEVEWTRVQ282THhuVjFaMXZGM2kxeGFMWERqeThUTnVScnRBYzJlTnktQXNMUkE4ci1qTjRvOQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTVE.es",
-   "region": "ES",
-   "date": "2026-11-13T20:01:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f480c56cf3",
-   "title": "Economía, vivienda, crisis en Ceuta y migración: los diferentes discursos de los candidatos frente a Jordi Wild",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX21iTVVGN0xRY1Q4NU5rQ3E3bFpGajJnMzNnU29ycE1OUnBYTXdaUWxCQ0JpMVUtbmlPN29yaEVvTk1HOElfOGE3VjlsS0huLTBHUWotcEpmemx1Q01BYXhnQjA1TUVscjNwYTlsbnRxV2JzQnVQeW9iVTNLUFRiSFU3RUhiVXVOdW5ZWEZkMXI2VzkwNTBuUTBuSnFRd2drdnBMaWZULXYzLVFOMkxFa3haRVRBX0JVcVNtTUNHOGNZbU1qZHNfcG52ajNYNi1KUkJKTEYtMHJwR1QxYWZTelZQOGdjeDJOTnBydXZ3NEloU0lLQ0lPbmgwMXVIMTE2TEhJ0gGDAkFVX3lxTE1LaFZfNFpZaWw4TlF2MXp6VDVnUm1IakQ4Z0lVb3UySl8tb3RENFBGa3ctZ0xJSXBlZVdhQ1BYbVRBRUdObmZXam1nbkFpOU15N3RXb2Nxd0dyQUUwakJnMlJ1eXlkMWc3WnZOWTJ0dHJTeDdXbXVuZk44QzdESUttdXE3S3dNM01sUHlaWUdzWGhJQzNubzI2dFlyakFJREFEQ2JUeUdyaEdfbEtsblh0WWpMWGdvV0N6d3FURjktX1piT2QtbjVobENScGNLZ2JiOU8yMVlqZjgwdUVUT0xmc0N1ZjF6T29rNnc0dnZwSGZfNEg5bHkxcnBIRWJpZkVmMEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "LaSexta",
-   "region": "ES",
-   "date": "2026-11-13T19:18:13+00:00",
+   "date": "2026-11-13T19:23:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -395,14 +361,14 @@
    "topic": "Society"
   },
   {
-   "id": "e5942fab1e",
-   "title": "El Ibex 35 reconquista la cota de los 20.000 puntos tras subir un 3,35% en la semana",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVFrdWpBUmZRNGZEUlVCLXFiMm9GeEktSzFFTUw2RHBmU19HUFdwM1p3VUVaWlNQZWN1Sm1xeGJHeTZNT0JEWGxnRkItd0JLNXVuVnh0V0UxeUdhQnBUVXlSbHV1VlpKRGtXU0tDbFlNZWtvX21JVjF2R2N1X19uNzRxNURRZlU?oc=5",
+   "id": "6890aae78f",
+   "title": "Expulsado a Marruecos un imán de Huelva por lanzar mensajes radicales",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2c2eUpSVzZES2NJMFpqNVRMUXU4MlVaYjNJa3JpZFhncTlnbENyZnkxM2YydnZnejJCQ0lTdzEwdUdiclVoRzBydklvcGhSQTlBX0VXMjNwMUtzRzVmanNjNkNza0NCSGRZb013LUpQUUg5U1h6bmFNTUh2elpCVng1VDdweVNpNVROV1ZpN0l6b2x3QmNDOC1JOVlyUG1DYXRDLXpKNXlETGFVc2FNdkZSUTnSAboBQVVfeXFMUEZSOEFTTUlqX01uLV9YUGI1R25yUDQ4T19YZXFlTW9FSk1lZnk0SDU1WG5wN3pIQzVGSXJfZ09SZFdJZHlSUUF1cUZQMW84T2czanRRZ3VjWjZpQlhMLTRIdWlwdXNRYzJ1NmtEMDVpaEo4aTliZnVDUUpzODFLZWVaUDJJN1pjYXdiWFM0TkMyaVVDcy00RkN5WmJqLVM3bk55c3RGdmJaR1hoQTFVb3J4UjM5MTdDNjJB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo",
+   "source": "elDiario.es",
    "region": "ES",
-   "date": "2026-11-13T16:40:00+00:00",
+   "date": "2026-11-13T19:10:21+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -412,19 +378,36 @@
    "topic": "Society"
   },
   {
-   "id": "0f198df142",
-   "title": "Plus Ultra suspende todos sus vuelos menos a Venezuela y prepara un preconcurso y un ERTE",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWhLdlgwT2lyenhaV3g5ZWtneU84amJWc2VPc3N2YjFWNFRPT2JrM2I5TE5LN0NfNjR5cV80Wnl6ZHJLZ3M2alFhcGhSMTVJaEZvRVRVVTZyYjlWSktTVWlKX3YzRGxOZmRIMUVsNDY5QXpZYTBQQk5Nd29MalU4RHNkYmRfTUxDd2ZzWkdmOFZoZVhmazJKYWZWZ3YzQnFGU0xsWWlwZ25PT0RHYWdFX094WkdReG1mMlF6ekpWNU1tbGV4eE40dzlNYjdxUkh0NXFzdGdTbkV4QUFXWmVOZ9IB5gFBVV95cUxQaXZCTzktT09DVExzMmVBZUtLVjg2d1JaTTdjV3JfdzIwb1RTWi1adnRFeG1GR2RuRmJISDNLX3BIcXFkYk03SWUtOEN3TnlFTGdtelcxV29GdGNZTV9mVkY0X0tXOFkzcGJyRFJHcXZxRlBnTGViZ3FMenJPamJfLUNpdlNTVkw2c21hUjl1NndieU54VXlMUHJwblo1WURKZmJOWjI3cWtfd29uclEtZkJnYmpuaEQtekdnWlA5SDQwN0FkSklfZnE2VlZTZVd3MldrTXVxX0lpUXhIa2FSSFpHc0VWUQ?oc=5",
+   "id": "390e950f0a",
+   "title": "Piqué se queja por la demora en las sanciones a los jugadores del Andorra: \"Es una crítica constructiva...\"",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcUVWRncxdUxHUEV6SGszYjlLMTh4YXJHSTVGRVZZc29XUWpnWDJWVFk1Yklyb2Y4QVNtRU9RWjZ6Q05EV0o1RjBYOWQ5ZmxjTkxlTUFFS0czbUNOaGNCOTlINU5yclpOX2t2Zll6VHJtYkczQkdITFFxR1NzWWRWSkNWWUF4MzctSGpFQ3g0aHZNQTBiUzd0ZzJfRHQ4M3M0eG9weEhDc1VVRHpqbW11NmgzV3E1Vlc3eUZKX0xobWVzT0ppcFI2NThEVWxaQVVpZUxheWk1SDlyenV6X3I4Mkd5SDJTRDR2UHfSAeoBQVVfeXFMTTZlR1hQU2NnRE5HY2xza1dFOGMxNG8zTk9nUURoVW02dnptZ2NYZnZCQ2NTLVp4SDR2NE5PdmgtZHJ5OFIyT1BTblhqeldhMzl0YllDbFNsbjdrUkd3b0plN2xNbEdrMDZjYlFwOHpaWTBsbFZEZXlVTjl0S1FWTGNvazQwNGs2M0ZOeS1DNFZsSWZuUktkaDVUZEdXa1NRNUIwSmZIVGNydkhjTVdicnk3ZXJLaE1LdTVWNW1kRmlsQ29WUEo0Vks2anAxNTRPanZBQ0VFN3BpelM5OXZKcFV3bHVaUnNxUmJ3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Radio Intereconomía",
+   "source": "Antena 3 Noticias",
    "region": "ES",
-   "date": "2026-11-13T15:45:50+00:00",
+   "date": "2026-11-13T17:54:38+00:00",
    "coverage": 1,
    "location": {
-    "country": "Venezuela",
+    "country": "Spain",
     "place": "",
-    "flag": "🇻🇪"
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cba15d6145",
+   "title": "El cara a cara entre Sánchez y Feijóo será el 19 de noviembre y estará organizado por la Academia de la Televisión",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYVVqTTFFa2twNFZFamhvVnF6UTRta1Frc1FOSWpYVVZOSkhtZk5kb3BBaTIwUUdCVkFCVjgzdWlnY09HcEZlZi1BV01PeVF5UTE0YTY5REJ0d2ZTQ0Vab2Z6LUNHRVRlZTRWcS1PRE1fbWlSMmdTQk5xYWY0allWWjJ0TGtxRUxsa21Jbm40TXVha2loZHJXZTFFZjYtZmRnemNQNV9zRzIxY1hIYXVqdC1CY2F4VENrRmpsWE0tdjVlSERITkxTU3R6YlozMUhSMkNPZ1pfTV9HQmRXTHZFLVNtdU5McHlFUUlJbU9uYU85Y1RGbHfSAfYBQVVfeXFMT0p2aXdsUVBwVHQyZjZZU0FIWF8wTzBHb09PNWxCRWRIRENTZnplUHJSZ0cwWm4tRjluaVhzaGpIUHIwNGJxRTJOelhSYkZDYUs4NE9FWWdRWE5OdWM5anVmQzZSVDV3Qm9VWWs2STRacEpqZldZemk5TmFlclFLYjNqakN6UW9iQUYwUEZTVzRSOE5sRklQOHJEYVozVnlaZzJGWTBqeUJmTVJUbVh5eWd2bnJVUEZtaFFYRldmd3FBV1U5V3d6ZnJKMUZTUW50VUwzWnNWOVBrSEszZTBRVU1HWmRtYldDWHFsS3Y2eU5JaHJfWXJB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "LaSexta",
+   "region": "ES",
+   "date": "2026-11-13T15:38:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
    },
    "topic": "Society"
   },
@@ -444,6 +427,23 @@
     "flag": "🇪🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "5bed3dccdb",
+   "title": "Argentina vs Uruguay en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXNPU0ZKWnk5Vkh0c0c4NWkzd3dqUXJvVzBXblBZeFhEZTdfQUphTFhMbU9OZHNPZXJXVklHSlkwSXZSVG1sbzkxSkRrWTBEREh4djAyWVhuc0ZLRUZDbWU0WmhpT2RERUFqLWlXSjQzRDZDNUtEdFV3VDhSRnd3XzNBQzdfZWF5TDBEX19BbmZibk9oUFVzQ0kxOF9CQ3lPdDdvVHJJTGFXMVZ5RkVYckQ0cEFPNXIyTUtqWC1LTndwMlRfdFkxcDNjT215c0R3amFGci1HaVc1b3RFNzZhR3dnMWdhNDFldUU4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DAZN",
+   "region": "ES",
+   "date": "2026-11-13T15:29:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Society"
   },
   {
    "id": "b4d02960ea",
@@ -514,14 +514,14 @@
    "topic": "Society"
   },
   {
-   "id": "7160f3b7d1",
-   "title": "Abascal propone desde Toledo un cambio profundo para España: «Sin ningún rencor, sin ninguna revancha»",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3JxRExsbFk4alFOc2VfemdNRF8xTjJQNTVHdHBfMUUzWmpnZmJpX2FvNGJmOTRBcVJXUGFuZ2RyUGE4SUJnNDFldEQ1UTFPRGstaXowakM1YTMxSmhQcmFLSEZTYThkNy1uQUNFYTN2Y2RseEx1YXVHSHdidW55UFdqUE0xZ2N0U0xDdWZ5VzJUN2d1cDhqaENJZjFDUWRPenhaZkY2ZzBBV1FEeE9feXpjUFBVWHNoODZKNEhtYVdUby1QMkVHRGpiSjBtemlydDZzMVhEONIB3AFBVV95cUxPTkJLMGhUbDZHMEtCb213WFlhZmxiRTFxOFhVSzhNajlzdGFJNGJKVjBFWDJvb1FJX3ZfVThLUFYyVXppa2Fqb3RtNkVMS25UYjZoVFp5WjJGXzZ4SHhwY0RhczJXQTUzRlZpYlpicXI3d0Zwa2xsX0k5MFA4bnkzczdUeVBCWk5Vdk1WY01PY3ExWXZvclNibVZEYjdqeHludzVhZHhURkhCRTJ1TUc5MDA5eG5SZW13WUc1QzBTR0F2T0VkTVNmaE0xLVFGOU9Pc2JWZW5TclNiSm1u?oc=5",
+   "id": "7b151ef786",
+   "title": "Pedro y Manu Sánchez mandan un mensaje de apoyo a Broncano tras su entrevista a Santiago Abascal: \"Ahora más que nunca, que lo sepas\"",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNXzEwcVJrNXdvTW96WDRqU0FsdlAxUS1qZkpyY0RySnlteVZOMlAwNzFneHVQMUZEV0NzSjgtNzRZeUZmYm5qQXJwbUwzLXZob2M3TnhtaUV5QmhQaXBPelpOYW1QYm5KTHhiY3VqQjUtUGs1QmJWR05rN2w1NFdPbmh2eldfZ0VxTkJOWGNiYUJJOFJzQXNPQlpBaElkYmtjRC04V0p3VUlQR3pYZmRfYU45UlNNaC1BbFo2aDZZZ3BmYlpEN2JLd0VOTGhvb0NQbUdjZlFPdXZtZ0JnNTM1aGpyWFpybVhSWEZpY2ZrS0w1b1VkZllTdlhQMGwzZ1Z5Q1FvdXZtdDBVdzdhcFlRTGU5cnlhUm50RXhpY2lKbmhYWjVwZHpVU09DcjBRRGpvX0RQSXJIbjBPVE1K0gGnAkFVX3lxTE14a2tDc2t0TzJILUpHTmduS1NBZDh5ZlBHdllaNkluWEV6bEJpUHhXTExwbF9ESEw1TEtsckprSHQya1JFOWhOdUhrbUU5bkl6YnZXRGM2OWF1aS1EbjJmWVVNZGJyY0VEbkMycGpWMnVxeS1NTTVrNDU2anpubWZrZlNfV29nbjNCZXNYRGtEUlZ3bHhodU0tLWlpNUpCTnpTYVJITWxjOFI3cGkyY1N6N245X1BHdjBDcHdEWmZRSGFsVE9LNk5JUnhMSWhZblA4VHRxWDFEY3RZdWpTejYyLVlYSGFwN05rSzFwY2xvU01Vdkcwb19abUl5Q1dJUHBEckNYS2l3TFhLZGtoall0RDY2VFQ1WHpsRGctUmdIQjg3ajVtdnM?oc=5",
    "summary": "",
    "image": "",
-   "source": "VOX España",
+   "source": "El Economista",
    "region": "ES",
-   "date": "2026-11-13T12:58:24+00:00",
+   "date": "2026-11-13T11:53:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -548,31 +548,31 @@
    "topic": "Society"
   },
   {
-   "id": "b678370531",
-   "title": "Sánchez estuvo en Córdoba el mismo día que Corvillo asegura haberse reunido con él allí",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZDBFR2FqS1JuM2poLUlNdmI4clA2OTRZdDV3S1Y3TWY0WERuMUU2cU8yS2QwdVlCZWdWdUJzVHM3VE9HZXpieUhLOHRKRWJVb3kwZXhjcUlEbG9tY0x1YlVvRkZrZjhJa2NYUGpTN1NXZXdvV1hYQkdlVEJubXl6NmVsWTBEcl9oWk50amtqT1BJTHZWMHhaZ1p5NzUwem9pU1BPZ2FfNlRzZzRHVlVSR2dIUkJJWnRaOFkwczlhNHIxWEp5c3BucGFrZXBMd3pkanZSVGFfTzVtd9IB7gFBVV95cUxOSlZwLVRGMUlsVXlTaUNuWEstR2ItaFVVd3VvalE2WTlCTWlObzNTZXBZQkgwXzYxdTdSZnZRRjkyU1RTb0xzZnhsdFlzNnNCV0dmUno0UXRob3FkMlVIMW5fM0gwN0c0am56YzNNanprMTdwcDNTdjBHLUF2emRZUnJfREN1UkU5RXlObjhsMVJLSDlnUkkya05mdkxLLUhZWm15WnQ0bWEzYTIxUHphV2h5bFBCcnctRWUtOVVMUVNpTE1lNy0wbXcwa2F6QVlIWGFac0pkc2Z6YzNNOXRsU0tKZlZES0JfSVIxWER3?oc=5",
+   "id": "c3312be939",
+   "title": "¿Se acabó el OK Google? Las nuevas gafas de Google responden a Hey Gemini",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWVWRFk1N0hfNXZQWm80M2RiclIwbHVQRWJDcEVleVJhMExDQ01aWHRicWdta3lGVjZReVhNM3hmMGJTdjZmVDhLbzllYU42S2tjTHR6dXg2cW4zMzhGX3QwZjVFRzczMGpYSVVUZGhwSTFaNDBzWEtEYno4RmNoS2ZGZnZDRUM5bnRTSU5KaWp1V3JKNEwwQVdFbEZtaUNGeW9rMnlCWGVpWHlsSjRhMjRVaVRwZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "La Razón",
+   "source": "Geeknetic",
    "region": "ES",
-   "date": "2026-11-12T17:25:13+00:00",
+   "date": "2026-11-13T08:55:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
-   "id": "893ad441b0",
-   "title": "Khadija Shaw lidera el Team of the Week 9 de EA Sports FC 27 junto con Florian Wirtz y Grace Geyoro",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVzNDcXJucG9yVU9GVWVDbXpoTS03N0w3VUZOa1MwOFZNMVFXdkh3N3NWcGxYallXREVIblVLS0laS19PcE5EMHNMeGgtUVgyN0VzZ0NtNXNtR0d3SXdPaV9BeExOVXVidEpwOS1zZE5iY2FBQWNNQnA3VHI2WGJxWW0zSFlRWnFwdlRfaWk3R2p6RmZkb1MzRFBTemJLT0FZYWs1Wko2VUJaOXkxN3ZOcUhJR0ZfMkxhTUlXQV90Q25WNjjSAcgBQVVfeXFMTlpOc2hlRS1FSDNwMGk1THR3UVAzUEcyb0Myb2hLUmtKUkpoTUhfaG85bXA1NVpPRHB0V3RLSDhzX0hiYWdfNS1vMmc2akV0VmF2UXZJcHRERy01b2ZjdkRBcy1MNENrU1Ftc0JZTTlMTXhBNWFNTzhPeF9rU0wxTHpXVTRQakc3V3JmaS1kcTBfa0VOY0IydTBfc2hEVmw2eEctLWc2VkQzVkRoZHFYZXdsdkVJQkFrVDBzejFMUW5GWkZlTlNYSFI?oc=5",
+   "id": "f42eb7b57f",
+   "title": "UGT y CCOO celebran el \"éxito\" de la huelga y reclaman atención a sus demandas sobre vivienda y salarios",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbFJ0OF9ienZHR1hqYkNNZzRBM0VscC00X2lNU0lrbmhHMmxpeTJ5WVIxRkxmX2NDakhaNTRiSGRlakFEeGQxdFUzZFFSNmZZY2JnRmtpT2Z5LTZNLXRoVW9OVHdNRDVRdUFaUHRhWEJ5VF9CRVB1YTcwamhYeXh2R3dKSmZrUWpxdmpzeGFEbHVsU2RWZGVfWi1lS1UxM19LV1F4aXJmY0oyd3RNS0poUWRURXFqb2ZXTURkR0ZBQWpZdXppVmMxeWZnNDJFSWJIRmdR0gHYAUFVX3lxTE45V3d1RGhpX1lzTzhHU2Q5WGIwaFV4Vm1GdWFfQWdtSmtYMm5oVTBEeHkyTkZfQzN0eEM3Q05Cc1Y2NXZEMFFCOVR6cFhUUFNNQXFNMTJzc2hOOEJZVGo2S1N4ZzNHcGFlMHRDV0wzZHRGa2lwWjRrUEptQXRmTmtvdTBmc1c4NXhSbHpvZzFTRy1XWlZLSVRMOWpPMHplQlQtbmpMWnAtLWQzTWI5UzhyejhpbjdKMXE4aWd4R3ZPQjJISUtkSkU2V2ZmQWJCcVpQZVlBd2M0Zg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Vandal",
+   "source": "Demócrata",
    "region": "ES",
-   "date": "2026-11-12T07:13:00+00:00",
+   "date": "2026-11-12T13:03:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",

@@ -1,17 +1,68 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
   {
-   "id": "29f0d9faee",
-   "title": "Man arrested for causing hurt, drug offences after knife incident in Yishun",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGl0TlItdE1PM3FpWlltYURYOHdBZl9QeTBvV0xKbTFOSFduekQ1SWhkNW56R2tveVlmUl9JSUFheFFXX1RGbF9sSWZPQ3pPUkp2SFZoSmlyNlFtLW1hR3VQazFkbkppS3pqZk9EbmhqZmJpMGxHNDhIY2pqQVA2UFk0WjdSNGpNMzladHpHajNjNHJsZjI5aWRaX3BMa1Rvc3puZFRrZU8wc3VfbGtPaDlEWQ?oc=5",
+   "id": "c79a29eef9",
+   "title": "Window of speciality store in Holland Village smashed; police investigating",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlRFYlF2T1Z4dnRtOHlyQ3dCdC1QaHBqS2x5ZGpscnQzdmYxWHRwRkoxQWUtMTVhaVR4WG9RbExZNXNnQVQzNU93Qk5aWUFwOTZ5M1lhQkN0SldHa3BiLXlvWTRWYjF3dS1fS0hmUVFSVmg2Z3hTbGJ3c1otMWZaYWJLcDZJaVBxWktyYVV2bkhRSko3eWlrMV9oMnRCR1Q1dl91bU5kSDJpRzY3TFAwZXQzZw?oc=5",
    "summary": "",
    "image": "",
    "source": "The Straits Times",
    "region": "SG",
-   "date": "2026-11-14T02:15:00+00:00",
+   "date": "2026-11-14T06:20:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "6c3d96945c",
+   "title": "Singapore government’s Outlook services fully restored after global Microsoft outage",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkVTR2NQeUFORmlEVzVObVJjVk5iNk1YcTY0cDFzbDhaa0szbWpzLVhDSE5Yd0ZJcm1YSUhyRElFOXdGVjVlVUVSTjlSS25FTWxHUTZ4d1l1V29QcFRZVlRITEl0c0tyRzU1SS1PZXAyWkNWckJyai1Eek9odWh4eGQ4UU9JWkphbXktVVZQNl84RS15a0xnMHNXb1NtbmtSV1M5Y21OYVpqRllfNnhHWjdR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-14T05:04:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "0c543cb19a",
+   "title": "Over 600 personnel take part in multi-agency exercise at RTS Link Woodlands North station",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWI1MkVnbGU5MmJnUDN2d0xGQ29NcG03U3RRSjlybGRjLUgtS3NXZWNCLUZMTHh3SVFHSGpydDJPc0h3MDkzYWNYZDdWNENPMkxGREVSMU8wSnNDZENfR2VnU0llZm03Nk9hdVFvV1VBSDRneHVEdUkxSWhGb3ZWR0Z5V2p2M1ZTY1JtVmtoai1tSnp5N0t1TUVlc0lkNTJqTDRwa1BzdGl2cU1WUzI5YmhLcTBSN3lQMTVubFlPempZYkVLQW9Z?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T02:40:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "129d9f6abf",
+   "title": "Voting underway for Melaka polls (photo gallery)",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3JRZ0JmYllkc29RREVCSEktcGFxdjAzTnloYnVpaXpjSXBvdURMVGt4Um5mRmJiUmJWMnhJV1ZnZTlzZmFvZk5yUGFpbmVGdkwxUXcwQmJOZDRIRUlSZ21fOXo3a1lBUThrX002NnN3MjhOSkFFVmdFRFZqZUswb2NHWDRDYmFIQUljdU9wbk0wbWlJQUw4MVVLXzg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "SG",
+   "date": "2026-11-14T02:24:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -68,6 +119,23 @@
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "52cf39a95e",
+   "title": "‘I may lose my mind’: Frustrated travellers stuck in ground stop of US flights",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWE9ORTBtWGwtczAtV3NNb1h1VlVCaHhOcWFaRWtCbmxWdEtoQVV1OHloRnRfZ0dDZVRKeXVhNkZlTm5XQjFlVlduT3plM2lxOUxkY0Y2bzFkTnBKQUlHYUJfTG8yclN1bHk0Q0VoMHF6MVctWlF6Tlc4RDI2aFktVjBMYWtybHBsSWFTYnBYS214NmtGR3Z0OWcyZURKdVU5LWRvNDVTSXY3aWptWUFJN3I2Q20?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T01:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -212,21 +280,21 @@
    "topic": "Sports"
   },
   {
-   "id": "2bf37eee2c",
-   "title": "Experts divided on whether Najib's house arrest sets royal pardon precedent",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVW4wVnBtcnlrQ0tGajZnMFM2V29qcnJOeWtnNGlJVTB6akJoNjlqSUFGcktRSndTekc4WUpwVlBCWHVocXZ1eGdOVW5PN09YX251M2tGcjZLZGdYcHJPenEzb3d1YUFyY3p2TlI4VTVHd25tQVNoaXphWFlYZWhYMWZyeHdxVXI5bm9oQjJ5NmZra3hiVXd5bmM0QzZteGNYeUN3VFhCd1FsTGM4NGpTMmUzZHBSUUt6cFlOWEFHUdIBxAFBVV95cUxOOW11QUVZSzNJMDR2US1XVGNVdTFKS3NnWUJPbHJmY2VRU0c4Tm1EcmdlYzcwTjNBLTJmQkN6QWxlRDNUYkZhaW4zSzFSaDZMWUJKeUdCdmRUMDFQZVU3SDhzQW1sRVV0ZmhfUXp6a1J1aGFaN05KWmxFY1d4enl6dlpnTE94MFR0RlZtQlp5c05jaDhTWWI5cUY0a0RoMDBEXy1NeHllVlR4VDliNE9LZ0xpOEQwV1lfN2ZRUm1uazYxd3VJ?oc=5",
+   "id": "0b3eb302e1",
+   "title": "Jensen Huang is out of Nvidia, but his family is still inside. What roles do his kids Madison and Spencer hold?",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2VnVTJubXIweVI5Q0IyMGx5ektlNmFEZUgxMjRYR1J2dno5YmRySDlhTnctYk9ubnFOSzZoRV9oWklLb0JENWZDZFBpeGVUMWFXU3Q0T18wZFVzSTctcG91Z3hKWWYzd3FjWGhLYUZEWS1lNzNkZlpLa2UzOHROZG14TUdGdzVRcjBsWA?oc=5",
    "summary": "",
    "image": "",
-   "source": "NST Online",
+   "source": "AsiaOne.com",
    "region": "SG",
-   "date": "2026-11-13T23:02:01+00:00",
+   "date": "2026-11-14T00:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "7f3a24f2be",
@@ -259,23 +327,6 @@
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ec40da45a6",
-   "title": "US lifts nationwide ground stop on flights caused by communications failure",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlBfRi1DNWpWaDFYdjRNS2ZZSFp3YUY5ZDFVTTJoeWt1bkwyRjl6OV85Ti1NQVBMdlJNRVlTVC1OVEU0TmtIUjZjeGZkTjJzdUJKbEJGVmIyVEFzNnpkZXBJUmFRUDZlWExPd3ZRejR5Qjh5WkdKSDdodkZlMzZXbWZjYlc3WnBJSjA2UEJtRlVJdnNGbDE3VDg5UWxuT1hQdWRWUGQ5ZHRjSGZFZURiNkhrZFRyaTFYbS1jSWdUeXdRODNpVUtfR1h0VmFBcTA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-13T21:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -348,43 +399,6 @@
    "topic": "Sports"
   },
   {
-   "id": "8a99bfaf86",
-   "title": "Islander Watches: Everything You Need to Know About Long Island Watch’s House Brand",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91MWJ1cFFkemlRU2lUOVBSRy1nM1ZoN204SFRwU2EtNUc3cFFUXzBCVC1pa3NuZXpCdDNYMndRM25VT1M4RGNTcXhQbkxmUDg3cmgzeHpfU2locUdRZTBxOFI1WWI0QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Wrist Enthusiast",
-   "region": "SG",
-   "date": "2026-11-13T14:00:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1bcc623ce8",
-   "title": "China could cap rare earths sales if US expands chip curbs over Nvidia: analysts",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "South China Morning Post",
-   "region": "SG",
-   "date": "2026-11-13T13:00:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "e0e2be6f19",
    "title": "Family of 37-year-old cyclist killed in Katong accident seeks witnesses, Singapore News",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVhPWUdYUGdlclE3d1hRUVpKakZRU1hsUXlsZlVCbEpXdDR2by1vOEMwV200cFhXWnBNWnJ0VEtRVnFNVmpTM1dLZDlUcEtDM0ZKZk5NVG9fS3UzY0VlTUlwRElDOGpfWDRKMXd0azJGQXZ0Q05oUmVLeUI5UFJXWTdVdXZIa2s3XzNOVzB6WUl6SzB2OUNwSXZXaWZONVR6Zmg0YVJ2cUZmT3ZVZFpQaVZYNEc3bmU3?oc=5",
@@ -434,23 +448,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
-  },
-  {
-   "id": "4a93d5b1af",
-   "title": "Microsoft Outlook outage: Governments, businesses affected worldwide as tech giant works to restore services",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Nrckt4RE5xc0V5Um9mUXREdW5kUmNwUDZjVFRGaVZYSl93eG0tTms1dDJFYnBpVU1BMU1FSG1tY0dpdmtiLWhOMF9jRXZDQThUZXpLRURNTzF2a0F4THZ1cnZ6UFQ1QmVjUUp5RExKRk80Y2p3NG1FN1VIYm9xMWhxYWRjazhrb0JhaTc2ZnY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-13T09:28:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
   },
   {
    "id": "3777d03f9f",
@@ -521,21 +518,21 @@
    "topic": "Politics"
   },
   {
-   "id": "eebd24cea8",
-   "title": "Miti says it never cleared Megaspeed, Speedmatrix as Malaysia probes possible AI chip re-exports",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUnZLbFYtb2hWYzZHOHY5VXJKcWtzcXZidThpa1JqdE1CaFVEelFzeEVmRTIyVXJqWUFmQkJ6OGd0WE81dEU2bjdPbWl2dzhXOXAyQTM2WlU1SGZpWFo0NzJuWklLZ0k4aVVxMmI5cEZ0cHNPNmJjMVpwazEtR0N5TUpRVnlCQTdhbndCdG54blhJZmFRNjNYV2c4bDEwTHhfM2lsLUliYndSLTNPMHdMNlM0UHVsaVRPZkdTeTZBam9NVldBWnZOdlBhYXZ0Z0dWRjF2UjZ3ZWRTRTZPZ3FaSVh1SFfSAeoBQVVfeXFMTVRKR3FwMkh0UEgxOEhld0dtQ05vUHhLNG53MW1mNE9rUWpxazZpd1BaTFFiNm9fSXlKWkFzOGlhbmM2QVlSSjhjRjZJM0VNMnIwZmZYU1hfeVF4WkxQSE1ET0RtWHlRNU1BV2VjWV9ibjRLWk9LN1k0bjI1MHFBWEtMMzVNaXk4SWMxZUlJTnNWcDFLV2FZZDhLM0dfcVFTSGFlRGM1cVRxY2JIWDVBRGx1TmY1Ymo3amxSRTJTU25hdllwb3dBUEozTWhiOC16MV9qZ3BWWWZPVTdhYVg0cmdPdnlJVngtWlV3?oc=5",
+   "id": "9f2f82e924",
+   "title": "Malaysia probing whether chips linked to Megaspeed unit were re-exported",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWl1ZFBGQWpRdHFQQUFMTU1QYjZkemNWYXhaUlV4Zm41X0ZScTdfVDVKdTRHYUJzYTNzalppOFhtREJJbmxtOXNGN0E4NGJxSEJlbEFxMWRrdDROTk9Tenp3MjhHdk5ubVpDbjFXX2w3QVltYjNRQ1VrenNON0Izb2lkSzEyQ3VMVnVyOTBoaG96eFA2MVpZa25CcFNzRmtzTFZRSkhxaVdpeHVuazRlLTBzd3RLNmdFT0g5UzZ0Q0JXTGw2eUcw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Malay Mail",
+   "source": "Reuters",
    "region": "SG",
-   "date": "2026-11-13T03:28:40+00:00",
+   "date": "2026-11-13T03:23:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "d5c6817c33",

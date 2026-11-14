@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
+  {
+   "id": "8e474800fc",
+   "title": "NDC elects regional executives today",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZk0xdmx4dDRzTkl6MWFDWmdvOU02TFFXVkJoWjduRVpmaU5KLS1OTFBITE5wOWNSS1FrWmItcmxIT3Rfa0xLbEQ3U0tzTFc1NVk1RDVCQTNfYWswV0tjOS1xYW9teFUwNXZiZFluMHZGam1QOENRZU5ycnc5MzV2WE9R?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CitiNewsroom.com",
+   "region": "GH",
+   "date": "2026-11-14T07:23:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9eee5bb6eb",
+   "title": "New method reveals how glioblastoma cells invade the brain",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "healthcare-in-europe.com",
+   "region": "GH",
+   "date": "2026-11-14T07:03:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1c18f0257a",
+   "title": "Hairstyle swap and security features: BoG's full explanation for Theodosia Okoh GH¢50 portrait controversy",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZW5lc195ZDNGWmg3Y1c5cERkazVXbUhPUHVNaWdlUTM2XzB4cUN1NjYxNHFWLXYxQ3RZemtnYV9kakZ5Qkw3ZTByQzg5YnZPZGRiX0VLdjFsOWRLVXZiblMtUjVTY3UtcVRMZGt5VDdDQzE1cmZJam1iTG1sTlV0NTF6RUhxRWQwLVBEdnRUbTM1NGIxUXYyQTZ1TWY2VXgyY0FJbnM1eDlHUHpGMG9MdGNrekhPMXJCdFhMXy1Fb0xmeF9IQ0lCWkJaUFRJX2pPWHRqSWliMnlXbEJPbWJ5NDI4SVVIUjEwczUzWmpub1c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-14T06:56:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
   {
    "id": "229c25dd0e",
    "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
@@ -17,6 +68,23 @@
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ac39e43eb7",
+   "title": "‘An environmental and welfare disaster’: British salmon loses its organic status",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEFSZk5iMk5rVkUyVXAzNVhFSldBX0hBN3VoeTBjTXo1cWxqamVJbEkxYVQwV09JU3dkX1hpUHJEMXFMVldPUFlUOHNUZGs3cmRISkNnQTMzbms5aXl0T1VnbTIwQVl4V1djRkJJakxRU04wc1V0S3dubWJ4TG9xRndBRnRqMm5PNE1oZHRFOUhhVUdRd2ZIOEZEYzNyVGhtc2o3V2Jn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GH",
+   "date": "2026-11-14T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -46,40 +114,6 @@
    "source": "Mashable",
    "region": "GH",
    "date": "2026-11-14T05:02:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "18fd51c8a4",
-   "title": "Albrim Pay launches Small Small App, recognises first business partners",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaS1ZMFoxWkFQaGxhX2FkNDJWdXhWYjhtY0w1eWpFN0duLTdzNEJwRG5salVkT0ZwM0h4VFNZSUVGQzBZc0h6TWNUaF96NHR4Q0dsZkplUEx0VnZOTEpBMGlsNzFRT2c4d2Z1dDhYbWYtaEVOVUx0ZTNLZ1NWNzNjMTkzYS1KNGNzdzN6MkpIalQtbUpLcXhieVI2NWU4ZVRBT3RKMGxyZkRsd2ZKbDBjMzdBeGV2VFlrUWQyNEpn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GBC Ghana Online",
-   "region": "GH",
-   "date": "2026-11-14T04:40:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "cbf8acd0db",
-   "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnJ2SUdNbERMS0habW1xekRqamtYMzdka1p1UEpjV2J2Y2lFZFFKNGRLNVVVdmpUQ1NPSFBEdjhKVmxUeFE5LXFXV2d0RXlkY0Q0S1NwZnpVNnFNZTNHeUxPSXJFU01SRGh4aExpMTA3NkRMUlFjYmdZWUlUN3RNMzQwX1JBR1gxQXN4RGxPcFB3Nmlrem1nWElERFlRTTJWNGc2TFBwOFpWRmRkTEZxaDRxUTIyd19tc05QVlVKTm8tTy04?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News-Medical",
-   "region": "GH",
-   "date": "2026-11-14T02:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -189,23 +223,6 @@
     "flag": "🇬🇭"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "9f84d13afc",
-   "title": "BoG Board Member Beatrice Annan provides clarification on GH¢50 note and Theodosia Okoh portrait",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTHQ2eFpBb1FTSm9MS21JT203Wl91NFRReUEtMXZleVdyem5OV0dnLXdVczlZZXdHLXZ6eExwQXVEUHBFQWZVTzBQNGJGV1NUSU5jRllKV2ZKVnpoRVhubHBSdGtJUE5WZ2xfLXRwRGxucm1uX2JhNVNCN2ROUjZuMFBaSnFoaS1ILUFHb0dEOUtsemxzMXZuRTZma3dOQVFLWTBRMlVELWExdEVTYkhvQ244b3VCSU53M0JXdGRJem8wbEIzdWIwTjB2QVFwM2FTZ0JSLWxhRUp6LXJpcWdv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Graphic Online",
-   "region": "GH",
-   "date": "2026-11-13T20:26:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
   },
   {
    "id": "dded3a825f",
@@ -330,23 +347,6 @@
    "topic": "Society"
   },
   {
-   "id": "6bfa7c84f9",
-   "title": "AUC Chairperson has arrived in Accra, Ghana for the 27th Extraordinary Session of the Executive Council of the AU Dedicated to Financing the Union",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzVaOFdLQVBXSmRfaTFKRGdYbkZXY3pYZG12VXVOMEUyV3BpUDZ6YnZEOWwzRTYzb05QdHIxa0RzZnlEd050LVFTZWtVakw3WExWWXEtUmQ3T19objBxMjFzYnBCMGtBUWV2NC0wOW5IUXBXTUNWREU2Z0huTlJZdGtqNlhrWm9LcVJRY1RmUnEtUTZtMVQ4Wl9fRFM5ZE5qaGVEOUhB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "African Union",
-   "region": "GH",
-   "date": "2026-11-13T06:28:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c06de7f089",
    "title": "African Arguments Interview With Dr Antwi-Boasiako Amoah Ahead of COP31",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wU1RBRzdvNDBoX2hYZGlrTWM3Sk9tSDRTVlRmZUx3QXVfMG52YjBsbHRQcVNZRUQ0bE5DdHdEZU1hd1B6UjM1bXc3LXZJWGxObHRlTmJYUFRjYTQ?oc=5",
@@ -396,6 +396,23 @@
     "flag": "🇬🇭"
    },
    "topic": "Business"
+  },
+  {
+   "id": "fe5e2f6b9c",
+   "title": "Ghana to host AU summit on financial independence and sustainable funding",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGFVVEh5ZldmU3c1SDd2bzJ1TTRfZktva0FJRkp1QW9nZHhLT0l2Qmt2MTJScXZmQjNMZktxcWhxYVZvSktKZzR4MDRpaGxvcHp5cWtyeko2Vmtxc1RCeWVkSkFnaW1qYXllXy16OXlHQWwya3BtTEFlTWpkSDY5TlVMQUJyazlTZXI1UkRQOTQ5NEN2RVJLcFlTd9IBmgFBVV95cUxOWld5N3A5clU1SG1Da1A5SFdqUnJDZXZCUldoMFAwd1NhN3FuTWhVbTQxUjN1V0VPOThZTU1rb1k5WHRYRDFMSW9yRF9CZW41M0VmblFfdDdrUnlZaDNzNzUtdERPd3pELWFhMDBQUjd6a0NHNFpramZ2cWF2S2VSc2ZjdlBkYkF4bTI5MFBWTUFfYjVjNVFzREln?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Modern Ghana",
+   "region": "GH",
+   "date": "2026-11-12T08:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
   }
  ]
 }

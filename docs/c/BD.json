@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "BD",
  "name": "Bangladesh",
  "stories": [
+  {
+   "id": "1c96fb753f",
+   "title": "Microsoft says services fully restored after for day-long global outage",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yR053WENWTzRjZE9uRHZQSHVQNWNydGxacVlYRzlMNW0xTndLMG1kVWxhczZMRDJyM0JEaWYxZ1Jua19jRkRfYjZsV3pWMGpqLTBubVBTNWpTeEU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "BD",
+   "date": "2026-11-14T06:42:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Tech"
+  },
   {
    "id": "064509c7c3",
    "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "The Washington Post",
    "region": "BD",
-   "date": "2026-11-14T05:18:23+00:00",
+   "date": "2026-11-14T05:45:28+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -24,14 +41,14 @@
    "topic": "Society"
   },
   {
-   "id": "29b728f55d",
-   "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnkyYjBoWS1aV2dpOEZsWm1Rak9SZkVUaEllQVMwai02UlpnYWZ4bzlfckdiaXFEYVhXUEEtSkNVdVhJaFU1T0dIWGhiSk5Kb2ViV2laSC1PbUdrazBiWW5tWmdUajJsSVM3a3FNb1FZa3h1LTdZankxRVpJZkh5eFVMYkpwNUZnZTBQQWZfMWpoclhBSGZScFF1THZRS0hPbVc3X0k2Zmh0dHU3UFR4Q0VaLUFiaW8?oc=5",
+   "id": "ba999db9bc",
+   "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmF1V3p1V0dJZjlHUUtXSlFyYTE4LXQ2emRiTjB2TTI2Ukd3cm5BUlM0TmZlcDB6azdUdmE3Ni1XNXc4TG9YMW82SGV5TkZMSlZvbG1ramxDUEdFZEJTcWZqdmluMmw0RkFoN2IyeHl0ZG9STGRORV9TaWFoVHptOXVVc1EyQzl3QVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "NPR",
    "region": "BD",
-   "date": "2026-11-14T05:05:00+00:00",
+   "date": "2026-11-14T05:12:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -78,23 +95,6 @@
    "topic": "Society"
   },
   {
-   "id": "43c23f7e30",
-   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "BD",
-   "date": "2026-11-14T03:46:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5d67864ef7",
    "title": "'Mormon Wives' Star Taylor Frankie Paul's Ex Dakota Mortensen Sues Hulu for Defamation",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFFCN2hEVjBmbUtTODFNZ0ZtMTlEbXR1S21hMGhrSnFhc3lNeHVZN2V0SS1jZ2ZieFE4d2V3S0xKajF4ZU5hNmFac2w4SlJ0UTN2NEJaZlA4UGV3OHkxbGtlcTJaUHVwRkE3RTUzanVWTDRpVEZUUDV4bnZxUnJNLWNOVVpmT1hHVFNoYklrUnJOU0N6NE1QTDY1UmFHZE5ic0NoTzg4NW90dGE3c2xB?oc=5",
@@ -103,6 +103,40 @@
    "source": "TMZ",
    "region": "BD",
    "date": "2026-11-14T03:34:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "37718e7bc3",
+   "title": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "BD",
+   "date": "2026-11-14T03:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "ff3daf1865",
+   "title": "Nationwide flight delays and cancellations continue after FAA lifts ground stop",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVZ4Wk5XZ0d0b2dGQ2hlMWVia21pOV94bGZzay1yaTdJa1IxSU56NzcxYkQ2OTlJMDg5Y0RwYmJncmpScW9haFZhNmtzMnlXcFRmNmdQckdWY3FiUERZSkJ3OW5Ta082OHdBNFl4aGRWMWVqRmczMlFoeFhzb0N5cDJR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "AP News",
+   "region": "BD",
+   "date": "2026-11-14T02:57:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -129,21 +163,21 @@
    "topic": "Society"
   },
   {
-   "id": "402c6111a5",
-   "title": "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3A0V3dtWnNnWFB2Z0x2RVBhX2hiYmJCa01TYnc0SUZucUJFcm1mdlUtRTgyV1l3dEd3NVVvcTFfTnM0Z1dBMkFHbTMzZzBLVkg4QW1zY1FoUzNnLU1aOFNYbnlkRTlNMkxkWThTYnpROWlYMWpqVlotRjBYMGROY2VQWHBFbmdDZzFGUjhR?oc=5",
+   "id": "0d797dc271",
+   "title": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\"",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM1NJUktyY2M4RVRjVlktSzNBdUxXVG1mQkhIVDFwbm5ja2ctOFltOUNMWjhOT0V0MDBTWnZnYkpDdE03RGIwM1B5bnBiRkpMV2pMYVFwRTZWRUJVTTJYQjB0N2wyN003M1dQSm9jTmtuREk?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "CBS News",
    "region": "BD",
-   "date": "2026-11-14T02:24:29+00:00",
+   "date": "2026-11-14T02:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
     "place": "",
     "flag": "🇧🇩"
    },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
    "id": "691ca7aea1",
@@ -180,6 +214,23 @@
    "topic": "Society"
   },
   {
+   "id": "7eb6760dfd",
+   "title": "Man whose wife, son were injured in Brooklyn building collapse wants answers: \"The building had no reason to fall on its own\"",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR1MwRDNUMFFyZ2NHNGhyRWE0WjlDQzNseENzaXBsajc4SjBxaTJ3V1k3R0lBNWw2eFVPbk5WLUt4LTV5UmxuSUhMR19OdzA2UFUxZ2ZIOTkxX2hoVUc3TUdYM3IxOFd1bktfX2VqWFJOcmtXQURYUHRSazZucHRtOUhVd1lJZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "BD",
+   "date": "2026-11-14T01:53:49+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b4ad0a8208",
    "title": "After 26 years, the US has lost its measles elimination status",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5",
@@ -193,6 +244,23 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f788f0f288",
+   "title": "Woman in truck that crashed into soccer field, killing 2, won’t face charges",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQalE5SUtNel9DbW84bnVvbnVfYktrNVdsWGFmWmczYjdqZlM3VHJGMlJCdTV2ZHZrMnVIOFRma01BSUVIY2pzNkJDQ2E5T3M2V05kRkFTUWF6VHZlOXZ0MkZMYndHblphN1kxWmZtcVREOURISGZBdk9PUFhWR0dpaW9jU1lvQXc3TEp3N2xSZi1iM25EQmtXSFlSVHV0OGFXam1TcENOdDZCUDlFRlRyVEpwSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "BD",
+   "date": "2026-11-14T00:42:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
    },
    "topic": "Society"
   },
@@ -214,21 +282,38 @@
    "topic": "Society"
   },
   {
-   "id": "4f8ef39a32",
-   "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 11",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3lfY1c5bXlsQlQydEFUY21SVUw1Sk1KOE5oZUFmYnBDOTg0bXhOMEp0N01jQ0NpaHp3eG53eXpPbUcxd1pyTWo1UnVOWFZOWERvaEhrdHdaMzF6dXNuY2p3aF92Z0JyYkFxVmNGaXJzUUwwOGRFRGtWbjZJOTFET0djNUxjNlk1Y3dOeVA3STFiZFRSeWpWQzh3QlFVV3hzbnZpc3pHQnBsdXI2SHMwSEo1aUlyNzNsRHB1MUVVSGJvVS1FalhiaVd3?oc=5",
+   "id": "9782b81302",
+   "title": "Andorra goalie hit with massive suspension after brutal collision led to death of opponent",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzJvNjBVYVp5YkFUX3R3Z1VMVDlSWUhOajBJd3FNcW1wdzFqUkQtNFNpcTRzQlBHT3hMWl9ZbGpSTDVDSld2bjlGVm5teFpoRXc1TGtodHZtRUJFSnV4ZzB3ZjFOejByX1ZHbC16bVUtM1lDbmNUbU11Tld5Wi1nT0xNN244WExvNUxYYmJqTnNkVXJEUUhab2lNZWI4SXdfeG03Nlk3RUV1VnRDaHBham15dlYtNHc?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBS Sports",
+   "source": "New York Post",
    "region": "BD",
-   "date": "2026-11-13T23:59:00+00:00",
+   "date": "2026-11-14T00:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
     "place": "",
     "flag": "🇧🇩"
    },
-   "topic": "Sports"
+   "topic": "Society"
+  },
+  {
+   "id": "d38de1625a",
+   "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEdCMktMcUhKb3pUNmdCdjcxdTJrUVMzNlJkRmZHLWVBd0RoTWRuSlZHM09ySGwzYXo4U0FwZGdzNTdGOGYzRndsZ052cG1SakY0NEdLb1ZOOXhlbklZN3VYZzNUMGJWNFo0LTIzeTJUQWxRWlNvY21KZkxHNlZxVjZfOEFvazlaMDBWYUFNTHY1bkMxYkltVDZZYnZJeDBQRjlxZEJsMllyVGhYcUQ2aUttOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "PBS",
+   "region": "BD",
+   "date": "2026-11-13T23:50:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Tech"
   },
   {
    "id": "6eb211428f",
@@ -265,14 +350,14 @@
    "topic": "Society"
   },
   {
-   "id": "589eebe986",
-   "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
+   "id": "addead7af5",
+   "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVNtSnk1YnAzSDBrR3ZfUTRxQi1HelNrbDZ1eUwwckFneGJpampkOVZNZ1J5MEhYNXpEeXU4YV9zN0RiazdNYmVwSmgyUE9yZjV0b1l2YXlLWFQ2bkgyLVRLc2poZUVOVlhISy1UN2Q4eXpZcFlUek0zSzdNZC1IRHZPbXFCUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "The New York Times",
    "region": "BD",
-   "date": "2026-11-13T22:52:34+00:00",
+   "date": "2026-11-13T22:21:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -282,31 +367,14 @@
    "topic": "Society"
   },
   {
-   "id": "65ba4b7639",
-   "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUW9wYzVONXkwcTRlZXozYW9uWm9tbjZSODgtajV6U0o3V21yQ002b2dMZzJvWjB6T2JhV1BsUlFjNm5PeXJfdVNFUFVJNWNqUG9vcDZrQlc5S0syX3dIZGI5aWlwRUVzRjV5Mk5KVk5RSXVGUVNsTkNZSzZMTnB2cGEtcVBDVWc4OU8zX2I1LWhkSTBNcjR0TWpaMHFSRUJ2czRoY2czV0xHN2pkMGc?oc=5",
+   "id": "e996f4d204",
+   "title": "John Harbaugh: Cam Skattebo was not supposed to push on Jameis Winston sneak",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbHpiTENjNF9iQW9mdmFKd3ZrV3RZcTBPNGVyc2Z0ZEFRdGhzRHhZYi05X2lhNUVQNzQxbnN6VFJjN3d0bjlreFlQMVhHX2w5dE5WU1dhM1NkXzdMdE9DMnltMm9wREpOT0pBSWwzanRMbzhCYjN1MmcyUElLVktDVDBDeE0zUEhmRE40YXJuQjhjb2dFbDg4ZTNFMDd3QUQtUlFzcVdNWWpzY01kamxKRmFmd0xHS09NQVJsZmNxeDV6aWVBQlc3cTM4eGxncXd6QzRJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN",
+   "source": "NBC Sports",
    "region": "BD",
-   "date": "2026-11-13T21:44:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "11c2ecbdf6",
-   "title": "Family Dollar to pay $63 million to settle allegations that it routinely overcharged customers",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjJaa1d3XzBUVGtTRHNGZlg4REFRMkxBUWhwcEhSaXVWN0dqZTNJM0ZYZDB4V1gzUTJjV0E0Qld3Y3Z0UWhPWFNncjhtZXhNb1hYRGpkTlZMZjBDWUFpdnlFUVNBVlRXcEVXSVdhb3NVSXBsX0E3VllMOHNkWXJTcVR6dUdXS3pVaXI0NkJObWF2c2s0eHYzSV80SEJsaEtRUF9kN1dGYnQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "BD",
-   "date": "2026-11-13T21:16:00+00:00",
+   "date": "2026-11-13T22:18:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -350,19 +418,19 @@
    "topic": "Sports"
   },
   {
-   "id": "77f4fb82e9",
-   "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
+   "id": "a172c606cf",
+   "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHRoQnZYNFlOWHFjNVdsZWlIektzY3JHbm9fUS1YbmQ1bW9JNnRrdWpURjFwaUtuNWlKUkYybEVUVFpnaGNjZG9wNVBPQUNrN3VsQ1lsQnlSS3lIb1VSQ1QtVzRZT3RVeXQ4ZGpSa2tBZS14bEVPUEEwY3QzTjRSdHF0YnBoMUhOZFFHLVEwN0Q?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "The Verge",
    "region": "BD",
-   "date": "2026-11-13T20:09:00+00:00",
+   "date": "2026-11-13T20:30:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Bangladesh",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇧🇩"
    },
    "topic": "Society"
   },
@@ -382,40 +450,6 @@
     "flag": "🇧🇩"
    },
    "topic": "Society"
-  },
-  {
-   "id": "81c808129e",
-   "title": "Microsoft explains what caused global outage, Outlook to go down for millions of users",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRVbU9PdFJEdnpXOWxVb3EyTVBuZjkzTDI1Tl9Od3g2cjZmc29DaVF3aUdMZTFfMGk4T3h2amxsWFp0ZFlOUVRFZWxBZy10dU1OV291QXpwakpqNkhHc1NrOXZPdjEwV1h6YWlhWWhVTUFWcktRVWVsNmd2SFI3X0Q3dmRIcHdiel9kVHJEaHJ4SDllTlZoNTdCYTFScE1kNElNb3o0VmR1dVVV0gHAAUFVX3lxTE83em83Z0EyUmdoRXkwTEdJZzh0LTluaXhZUU5fMDdhS2V0eGQ0cWhNUkZ5Ym5kaWZIUk9xTUItb3dlY1NCbGlBa0tMLVFwVnlCUmRETlRINHV1cGF1MmpCMkRjbHBLYy1LajJCTUhjVE5tTGF2d2VwOWpnWTJDajZmNFZpYVpVRWJxemp3T0hyQklxQjBqZ1hiR1owQUJzRjA1VGI4WmdHaG14LXBRa29adVVQWGZrMWppZzN2NXlZWg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "KPTV",
-   "region": "BD",
-   "date": "2026-11-13T20:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "d298231c65",
-   "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "BD",
-   "date": "2026-11-13T19:53:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Tech"
   },
   {
    "id": "43107347b1",
@@ -509,23 +543,6 @@
    "topic": "Society"
   },
   {
-   "id": "e53ce33f60",
-   "title": "Sixth victim confirmed in DC condo-related shooting in US, police say",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNsYTRYZ0FoalloZ3JkMHcyNkFQQm5HQlo5OG5nUksxMEVRWmZfSXJrOGt0blBCaEtCSzROa05CaVYxelZUMVE1QmdyUl9LbzQxWnBGMDYyNFhtT0NFSkl4VGszZDJZYmR5ZnpqTXRJdEZwYVV1Zl9YYkd4aHF2Z09nQVRERGxJM0NxV0RTQXVuYmdpUzZwX0lHWDl3ejFIRnVWNkFyTdIBrAFBVV95cUxNTEI1Z3pwMFVUVmI4Y1ktNXlGcXEzYU12aV9xY2RGYWN3d1FsOUp4VEFUdHdSQ0dYSHJrZ1pwZk9SS25ELTZKNWt3amZPTnBBcF9uWmJxcWxRanpvYkN0RU5Pc2ExdUt1NXNEcnJZS09xdDlwR1cwek5teDRDLXlJal8tZEc4RmJSSVNWX0Y2RnVCMGZMWFk5a1FrOG1zMHNZSEp3aHBMZ3B0d2lF?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "BD",
-   "date": "2026-11-13T16:37:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "f3592280a5",
    "title": "Limit of light: US scientists reveal why no material can ever be 100% transparent",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHJxdmJFb2hlMzJyMzE4WXQ2Qk5HSlF3aHA4Y25TT2t1WnVyaUlzY1U4T0UxcmZUMGZjQ2p5TzM4b1c2cXV0X1ZqaHpLOG1JTHNpalBlWEh1NFRzUl9qYW52a3pBYUdoV1F3b0d6Z3RoZ25GYzBzZnlERXhsdnVvWnM0NU5qaV9sRUl6MnRqUEIwbENMc3c?oc=5",
@@ -577,39 +594,19 @@
    "topic": "Tech"
   },
   {
-   "id": "0eb6bd0ee7",
-   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
+   "id": "90efd60e59",
+   "title": "UN climate summit pushes electrification goal as groups call for mining safeguards",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlUSWVwbVZ3UkJ4dERlR1FpSXZ3WmZEN2ljSnotaS1HNE1CS19CZ0lLZ0hXa3l1SEotV01uWWRRNVBQSi1ybmxVSE4yN2tYZkwyRTg1VGhOTWxCeUdlMU9vNDhxdGdCZFIzLUhCb19LMEtFZ0VTSm94TlVuMVc1T0k1TGU2LVZCN0dNdUJZcnBCWl9YTXIxTzBmbTRNRXY5Z24wcXJ6bWlrLVhsYUNpMlh3ODI2WnU0WUZtOA?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Google",
+   "source": "AP News",
    "region": "BD",
-   "date": "2026-11-13T13:30:00+00:00",
+   "date": "2026-11-13T02:03:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
     "place": "",
     "flag": "🇧🇩"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "3a08605650",
-   "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "BD",
-   "date": "2026-11-13T04:05:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇹🇼",
-    "also": [
-     "Taiwan"
-    ]
    },
    "topic": "Society"
   }

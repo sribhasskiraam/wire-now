@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "PH",
  "name": "Philippines",
  "stories": [
   {
-   "id": "b4b05297c1",
-   "title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYy03aVU1cUJ6SUg3aDNiVkNaNFB0b0dsZ0ZNTU9XNWI3eEo3ckxHY1BSMUZ1WmdrN3JZRFlQUGYyOFpTc09JVUZxR3g2MHJCTDcwVXpXTUh4aDFxczZFSlc0cjdFQ0dmSE5SQ2o0YXhVVXBFNW5NcktXMFpLeWJnX2NWc3pWRTA1djNzTFRPejVZclA3NFJwb29pRDk0R09CSV92TFJVbVpSVldhRVZwRkVjSXE3VDU4eTBuLXUzbkZGZw?oc=5",
+   "id": "895f2179d4",
+   "title": "NYT Strands hints, answers for November 13, 2026",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
    "summary": "",
    "image": "",
-   "source": "Manila Bulletin",
+   "source": "Mashable",
    "region": "PH",
-   "date": "2026-11-14T06:14:14+00:00",
+   "date": "2026-11-14T07:15:33+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -21,14 +21,31 @@
    "topic": "Society"
   },
   {
-   "id": "3902a9135b",
-   "title": "Southeast Asian leaders will call for peaceful resolutions of conflicts. Trump will join final talks",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnl6T2hQSElYUzA0RXNscy1hcS1aQi1mX3ZvN3FaZnhPNnlyaG05QkRlU3BZdGdUR2Z1ZXJuVnVxRzdTRnpRSzR1NnBDTGs0a0EyVE5YLTFiVWFNcHAwelBmWVh1SE5STFYybDVzY3JiejQtNmM2R2Z1TkY2MzR2MFNGclQ1cmFsY0FtM2l6MEhiSnVS?oc=5",
+   "id": "9eee5bb6eb",
+   "title": "New method reveals how glioblastoma cells invade the brain",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5",
    "summary": "",
    "image": "",
-   "source": "AP News",
+   "source": "healthcare-in-europe.com",
    "region": "PH",
-   "date": "2026-11-14T06:11:00+00:00",
+   "date": "2026-11-14T07:03:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "05b887bc96",
+   "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkZoaUVyNE9YWk5BckgwYTc5WWhiemY5TFdvXzljS2ZQcVdnN3ZUZ21KVVVEOWhfcWNTTlZ4MjJUdWhqSXI2ckN4ZXRhaDhZZUxDWjZobF9oTFE4bXM4dFFJX0NfS1lPYnNyeG5MYWdmN25kRzNTMmtJVFl6R0ZTdTVoYmV5ZmVSZll4TDdXRDliRjlLZUQ2bzEwTGtYelVlbUNQaGt6dlR4ZWhNcDhOcWhOV180cXlSYzE00gHAAUFVX3lxTFBYRkRsRXV4NXJtWjR4dkFJbi11eEZBOUlMUDJsc2lVZWk0akRRaWlxN1pwRnpLQnM5TmJGdkxvY3paVnRJM0xuSTNZMlFFd3g2ZGpwNHZWekEtZDlUbXlPMExSY2sxb3lfTVU2S1dXMkJ1NzA1WEdqYzVibEkwNEMtc1FyUHQ3M0E1ZWZnTm1WSXFGVVF1UEdlZm1GSlY5R212VU1pMDlhNkFVQXJDdVY3dzBoNHZiNmxkRUM3QjJjUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "PH",
+   "date": "2026-11-14T06:51:10+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -36,6 +53,23 @@
     "flag": "🇺🇸"
    },
    "topic": "Society"
+  },
+  {
+   "id": "93fa81df10",
+   "title": "PBBM: ASEAN must harness AI to drive regional growth, prosperity",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDFfcDBDMEFyQWVHcTZvYVB0Y2JlVnl0Vl9aMjBjRFdEbzNtUXBtVXcxeThqTUZSeUc2YWNJYXR3TmxpYzZjUmYxaWpaWEdLcXFaOVpzaWZTSzZlbXVzMjMzWDZpVlpMQnZPSVc2azBiVHZKLWlkcGVDbnpNVEwwY1dsTWRDQzlRV2k0YndlV3BrREl1Vlp2Vw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Philippine News Agency",
+   "region": "PH",
+   "date": "2026-11-14T06:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Tech"
   },
   {
    "id": "229c25dd0e",
@@ -92,14 +126,14 @@
    "topic": "Society"
   },
   {
-   "id": "3f133457de",
-   "title": "NBA Cup 2026: Knicks drop to last place in group play with loss to shorthanded Pacers; Spurs dominate Warriors",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUURVeFpwVWRKUGlZek5XY1RYRDM3ZU9VcXVOb3kzb2h1cDNLdDNTVjdtbFhMYnN2aG1QSU11Y1BPc1lhSTlTbnlfX0JzTzdkT0lmZ0pxeTFlR2tnY1VqR19MU1VGZ0EtRmVMQkh6WVhZQVZsRWlLYjFLemYxYlBpLXFWYTh1cV9JanNmRXZ1bVJ5bTktMHZvUXZKaUVLYTlBX19Kc0ZQYzEwRjlJeElHX3RJUWh2ODB6SzBIZnU0MVIwMUI5YW13dVRFT29YTFY3X1ZrbE9ISzRaRVlVTGZrTHJCUGFxOVlWeG1YX3lxQThZdw?oc=5",
+   "id": "76b3e47867",
+   "title": "Giannis, Bam join LeBron, Wade in exclusive Miami Heat club",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXhmWjJtc0tXU3F0dlR1WlhkUmRHOHYtTW9XbUZDRFJoYUV2ZGVJRTdQWm5oOWFwaGp0a192enF0QkZqRGJjX1hINUNMRkFlMXVPdEx4bkZNMFpRT214dGEteERhaURMUkwzZVlaNHFNaVBzeEZUVmtTS3FEMzR1VTlVcGFrVzJDOVFKT0toWF82Mjd1N2E4QjVuUjhGYW5BbkZrTVlYUEZzT1VKdGNETzE0SU1wUGJNcEhpUmF1R2tndXhjbWY3aG55eXFFbXEtRWtwUHpweGRhX08z?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "USA Today",
    "region": "PH",
-   "date": "2026-11-14T05:04:00+00:00",
+   "date": "2026-11-14T05:36:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -126,74 +160,6 @@
    "topic": "Society"
   },
   {
-   "id": "9b9401bfcd",
-   "title": "'Sigabo' cast member Pinky Tobiano honored to receive Shopee award",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ213Z281VUZma2UzckVpUmh4M2YxYnlGNC1kb20wcWtrc19ZQWRLN3l1QWc2NFdFSm1qSXBJLWJLZHp5djFYd1hFUlJPODVlT3FBQ0VoUTg4NkROdVNfWVdLckppcXA3RnNwSDNQMFg0Sl9teTJNZkVta2JaTF9wTUZuNC1qTFdYaWs4RHpIaVVrN0N1ZGdoYnNMUndiaWxHMHlhTm41cGdXY3pZNGxKM2M0bnhfLTJCa0NoM25rNnhLLWlMOGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-14T04:09:19+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "895f2179d4",
-   "title": "NYT Strands hints, answers for November 13, 2026",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "PH",
-   "date": "2026-11-14T04:07:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dfe31e6b5a",
-   "title": "Bam Adebayo, Giannis Antetokounmpo make Heat history as Miami tops Cleveland 133-121 in NBA Cup game",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck81czZ0dlJEUVlVNDhVQ0tqX3pISHVjMjZLYmRyNFhuamdZMWtjYjVWRUt2S2RjUWpmcF9pYnFxbV90OUxoTkpXelI0SDh1a2NpTzNYUDY2UU5ZQWkzZTBXWEFvZjlEWXM2SkFGcHc1Nlo5a3lTVEt4NHBndFZzTWlvZkxOUjFBSmF4Z05QRUZNOEpXRTlyc1daRTdMODZOWUFVbUh5MlhPS0VyUGJ2RTdKUXM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBS News",
-   "region": "PH",
-   "date": "2026-11-14T03:58:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "43c23f7e30",
-   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "PH",
-   "date": "2026-11-14T03:46:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0c2b7ac1b9",
    "title": "Cops run after cohorts of 2 robbers slain in Taguig clash",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmU5cW5yYUE5aHloako2Q1lrbzNNRUlCRTFLVWY2Tjl0aXVSNnh0bVNUcGFfdFpmUERPODBGUm43cEpwRXE0dWRUMWZLVUZkRU1fcFNRdzJ4SFNIck1KU3FBempQZVZGY012cVB6Y1NMZXJGN2pKaHV6azFvZTZlZTJlVUozVExTTS10cEJvYw?oc=5",
@@ -211,14 +177,14 @@
    "topic": "Society"
   },
   {
-   "id": "1a4fd930af",
-   "title": "Wagner Dominates, Magic Improve to 2-0 in NBA Cup With Win Over Bucks",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTRfM0tCcnI0YjdjVWpsb1kwaWNYNDJfY2o0aGF3NXNzTVVtelkzMXg3MXpXaTQtalp5cG82U01QWmc4MFlIMWVhVUF1bDNIbTVhODhQVzM3Mmp2X2k3MkxBazJYM1U0YVV5WXVKUlZzdW9FZ1ZBOVJvX3d3bml1eXZwU0tkYThM?oc=5",
+   "id": "0dfcfac742",
+   "title": "Siakam, Nesmith power Pacers to a 106-104 win over Knicks",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xSFRYX2FOcGhGN29tYVRTNlJyZWt6aEFDRFpoSVJVOXJIWkFkdW9xTHlFd0lncHpyWWVmVXBmSXdMQ09OODhWWnAxVWZFMkFHRU82N19hc0Q0SjlwZHEtcjZoN2dLQ0pmR3dyanlTVXVfZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "CBS News",
    "region": "PH",
-   "date": "2026-11-14T03:15:00+00:00",
+   "date": "2026-11-14T03:13:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -228,31 +194,14 @@
    "topic": "Society"
   },
   {
-   "id": "cbf8acd0db",
-   "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnJ2SUdNbERMS0habW1xekRqamtYMzdka1p1UEpjV2J2Y2lFZFFKNGRLNVVVdmpUQ1NPSFBEdjhKVmxUeFE5LXFXV2d0RXlkY0Q0S1NwZnpVNnFNZTNHeUxPSXJFU01SRGh4aExpMTA3NkRMUlFjYmdZWUlUN3RNMzQwX1JBR1gxQXN4RGxPcFB3Nmlrem1nWElERFlRTTJWNGc2TFBwOFpWRmRkTEZxaDRxUTIyd19tc05QVlVKTm8tTy04?oc=5",
+   "id": "57d6a6042c",
+   "title": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSE5hSjdZNTc2WVZzRUhKQXQwbW15T1JIUU1OUlF4VVgzVWYybm1QdXZEUW4wSGVOQkEtWV9JZVhlOUxwZHFxMFpTaThRTEtiQTl1bHJnVVAwMEhOaDRlRjFXdlBSenAxcHFua2IwQzU4cmVBTzhSelkwSElsT2VJVnhyLWFGaXZCS1N3dDRRaU5xVHNMczdXanRwTzN2ZUYxWWRMeWpOU0Y3b0ExbE5TUzZDZkYyNXBFYzZv?oc=5",
    "summary": "",
    "image": "",
-   "source": "News-Medical",
+   "source": "USA Today",
    "region": "PH",
-   "date": "2026-11-14T02:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1443a6b81b",
-   "title": "The Loyalty Game: Ben, agad na binalaan si Mara tungkol kay Ana | Episode 30",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFhDWDRyTUMxTkkxVFVGM2lYalBvUG96V25Udy1zaUUyMV8wZl9DZ2JQYVJHMlp4UDdDd2xCUnpKUU8wOE0yVjBwSkt1a3NPMFdvZzJHZDVid2pZaXRDY1hCQUZiU2VWVTBzbDNMQVZ5alE0cmkxa2RLVUJIM2hkQVFHZEJHTURWM0JCUVIzQ0NuRjhWRDZJWmE0TGl3YkJhUDI0RkFaV3lsVmtoWUF0UXFVQUlZYVd0LXd2bmxpQXctZkhHNV91QmJpWW9EUjRqVEJr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABS-CBN",
-   "region": "PH",
-   "date": "2026-11-14T01:58:19+00:00",
+   "date": "2026-11-14T03:08:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -303,7 +252,7 @@
    "image": "",
    "source": "Philippine News Agency",
    "region": "PH",
-   "date": "2026-11-13T23:43:23+00:00",
+   "date": "2026-11-13T23:43:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -311,6 +260,23 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "2e38b67fc1",
+   "title": "Karen Davila shares experience meeting Angelina Jolie: ‘It was such a gift to meet her personally’",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZS0xTmlHX3FqN1BfVGI0OXUxbzRjMi1INDAwMFpkUGJPOFZOQmZad25KNVk2bVgya01Idzl1SG1aWGdINUZKczFMU1BxdFBPTWtJMjUxRnFNcUx5djUxVk1tMFF6anU1SUREYlZNMUFNM3dQUXdLWFlRb295QWJQY2xHZ216endmNmUxaW96T0VtS1VNV1AtZDlKM3lPeVhuVUd4M2U4bTcwZXVrTzZiOXROSVF5bUhmSkNEaUxxS2FaVXptZzRzQ2kyS1YxRjJLZlhrQ2d1Y0VvWXZMczJfTFVFaE84NGdNNUNfbHo0MmNBci1BU2hoT2k5cHVYUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABS-CBN",
+   "region": "PH",
+   "date": "2026-11-13T23:27:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Business"
   },
   {
    "id": "e71c8bc87d",
@@ -326,6 +292,23 @@
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3675be9cc9",
+   "title": "US to resume flights after air traffic network failure sparks chaos",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "PH",
+   "date": "2026-11-13T21:38:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -381,14 +364,14 @@
    "topic": "Tech"
   },
   {
-   "id": "27f2c006a6",
-   "title": "KPop Demon Hunters tour coming to Baltimore",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2h3aWNtREVxM2pSVlF5LVBneUs1bW1STjgzTjN5R2xXS0lJTWgydWFJRTItblJFcHNfTGxLMHRXQnJDamZEX1dOVF9fZFUxNktCN1RHbGQxTG44cXh2eVdSNEVPUUVaMlJDVHV1VlJqTUJTbDNjSnoxMUxNZ1VZSFV5UFBCYk5KOFhlc3lRVQ?oc=5",
+   "id": "05ac9a1e3b",
+   "title": "15 best-dressed stars this week, from Ariana Grande to Amanda Seyfried",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVXpGVGhBQ21yNUJYWEFzXy1Va25rSWxOb2N0MjUzclZ5S3hFTlFWY2RVWG5uSldLOE0xS3dzMG94d2V4X181eDEzYTFPVjdNdlBMUTduU0hGN0Q5djFxVVh3UXhQMTVsbnYxWVZOZlkyNjh4ZnJKY0VmejRZZWhMT1BkZ2t6WmVMenljQ1J4TUhLdXpacEFWdENKa25aYjVWaDBPbDd4akpudDJQdWZYZjFSeVNOYTE0SmQ4aEhQNnloZXM3V2xNNjZRZVVTYkdhSVdZX01SM29BQl95QUc5a3otVERidl9uVERpUw?oc=5",
    "summary": "",
    "image": "",
-   "source": "WBAL-TV",
+   "source": "USA Today",
    "region": "PH",
-   "date": "2026-11-13T17:55:00+00:00",
+   "date": "2026-11-13T19:19:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -396,6 +379,40 @@
     "flag": "🇵🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e4eeb79548",
+   "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJeXFaYkZjMlFsRGd3aFNBaFY4eWZEUUluMjNsOVR2QlIxSmJyRWRheWhKQUU3czJEWGt4RWF0ZlB2a2REdk1pa0FzX1NYOV9KUU9XcGk0V3JYNEx4VHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "PH",
+   "date": "2026-11-13T18:34:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Peru",
+    "place": "",
+    "flag": "🇵🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b0a0a276e1",
+   "title": "\"KPop Demon Hunters\" world tour to kick off in Baltimore at CFG Bank Arena in June",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeDRwR0lUTmlrU3JaS0l0OU85aGlOVldfdVJLWjhtZHE3VjU3dE0xRzJmTTJ5SXFLc2NWeU41SldmNTJ5SER4Qm51Q29mX2pqdW1SUWpwVTFDRC1BTHpMbUZoTzlOLThVTEVOb0Jvc1N2c3kwQ3p0Z2hJalZBc2JWeDRzdTVLeHUtQXZEZUg5cWdoOWp1OEF3a3lHZjlra2JsV2o2VVdQMF94cE0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBS News",
+   "region": "PH",
+   "date": "2026-11-13T18:06:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Business"
   },
   {
    "id": "172be58d62",
@@ -406,6 +423,23 @@
    "source": "Universe Today",
    "region": "PH",
    "date": "2026-11-13T17:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ba1aac10fe",
+   "title": "PH, Slovakia seek to boost trade ties",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzNzMi1ONllHeVNwV0dDRXV6TkZ0b2s3OFBsU3E1NV9MckJGWXV2bWsybWpSaDR1dmFtMGxBV2VsZ3hDS253R2JXMXZPMHVIbHVEajJVLWdlQnNyaVdDODFKc1llcmZCcWhCVGhjWFBJRXh2SThLXzR5aW9tX3I3WmNYOXd1Q0p5QkJ4WXBHSW13NjlVR2x4UFF3b1Q5UdIBowFBVV95cUxQTlhScjQza09WUnZvRDJLWGRKWXlfN1laR1RyNXdzSEhFTE8xeExJVGstSlIyRFgwVWhhcS1jczVpWDhzeE9oX3NwQ0pkV2plZnc0VlZuWTNKaVBBcXBaTk5fd21BaU5PQWhsLTVtSmMwN0c0OVpTNmFla1RaU1BJZmJha21mM3lOUHhsaWZmOS1Jc0Rmd2FqVERoUjQ0ekIyR21r?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Manila Times",
+   "region": "PH",
+   "date": "2026-11-13T16:13:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",
@@ -440,23 +474,6 @@
    "source": "The Manila Times",
    "region": "PH",
    "date": "2026-11-13T14:35:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "915d3ae754",
-   "title": "Tandag City passes NSED evaluation, strengthens disaster preparedness",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPREFLZlJMQ2JoMTNiX2tiSVBQc3ZSSG13Q3pPLVN0bHhYWHFjRjZMcm5XWndTdkNfcHREMjZ0cVpwTFpTS0w2c01zN1Z5a3pqUEIxSzVXb01IenJNWUdKY2E2ZVZwSTZ6X0EtR0JPR2JMT2gwUFFadno5S0gxNTlqUEFjcjQxNFV3eFBMSW5LZ0Jnb0taWUJueA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Philippine Information Agency",
-   "region": "PH",
-   "date": "2026-11-13T13:20:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Philippines",

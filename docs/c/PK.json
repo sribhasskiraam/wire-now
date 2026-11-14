@@ -1,22 +1,76 @@
 {
- "updated": "2026-11-14T06:32:24.617452+00:00",
+ "updated": "2026-11-14T07:29:44.308773+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
-   "id": "5aa591b4c4",
-   "title": "Pakistan eyes enhancing regional connectivity, trade partnerships at upcoming ECO summit",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3dKTTItbUFrQ1Rra2NuLXlucWZWS2Zrb3VhMkdfSVpQWG1ESzhZZmxCWTlzMTVGTjUtT2dvSVkzaDFpUkp6TkpseVRkaUpJcFYwS0NRbUl0RzdLaHBweUU1N1dJWnNCSDBYUjhqaWF2ZnNJT3dZWlc0eWlmMC1mckhVVkYwQWtmTFNZQ0JFODRlMVg4RURHUkxXVGxoUFVpVU9raUJpSGxhbHQ3TFBnUmhubDlSTjF4bGpOallrUDJaT1VwaFRN?oc=5",
+   "id": "6653fa296b",
+   "title": "Turkey's approval of Makkah pact takes effect as it signs defence agreement with Qatar",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMHJ0RWVkdURzYlRXd0syRHVzamNQVTc2ZGNxa1hjRzBlY3JsWGdUb0Fnb05mSGctQ3VERVBqZW84WE0yNGkwNDkzRUpmLWpRNnZOVVRneTVxNGcxZE9oMnkxNEEzUWMwYXRONm1oOHZZVFh1MGJSYWl4TnZaTHRJaXVSdE85RWxKM0ZZWXZTdG9Ra3B2Z0xxWkR0enU4U1prR2t4dktVdjAtdVVZRGlfb3dHZFl0c3J5bDlTZFU2RGROZWRrampHMW4tWVByUzg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Arab News PK",
+   "source": "The National",
    "region": "PK",
-   "date": "2026-11-14T05:48:42+00:00",
+   "date": "2026-11-14T06:31:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Turkey",
+    "place": "",
+    "flag": "🇹🇷 🇶🇦",
+    "also": [
+     "Qatar"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4f0b79c8cf",
+   "title": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ULWFWaUpwbVBCbmhnUzRYVTNDb0gydUNQaUxCc2FnZWcyc21wMk5fd0Vyb3J3WFdVbU9ZSW1rREZPTDlsaHhqdQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-14T05:53:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "88eff6a1ab",
+   "title": "World Diabetes Day being observed today",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWV0VjFFYUZ0eHgyWGIwd3pvVzRSc3EtLVRSZ21aSkpiUjcxY1hXZzhqeW9NaHVMTnFkQ3FLbjhkS1h6dzA4TlJrQVVvUk1FR1JYdnljUmZkQk5OWjc0OTNTV29qT29BU3BLdEo0ekZlWjhxdFRVWFhic2ZObHNxZQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RADIO PAKISTAN",
+   "region": "PK",
+   "date": "2026-11-14T03:11:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "aca14360d7",
+   "title": "Airport chaos continues after US ground stop lifted – as it happened",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2YxQXU0MXgwbEExN210S0ZoVGJMY3NxYzE1MERWVGU5ODhKRUhYdXRVM2NWdVdWNWtqTWhyNUhkZnVSY0ZIeTFGM3lDSVc0am4wSkwtTEFBRWhwS2NpQkJwZmZRQXcxOWFzNUJwRmRWXzFHc2gzZWhsTXpqYk9hLVJLcWphYktyN3hWcXk5NGtpU3dWR2FZbEpMNjM5VW81ay1IVW9rbk1SenlobHlEaDlWS1A3bzBYaFVXT05MWHNRMlUzM2VRazA1VXduVXVpdm5vd0EwSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "PK",
+   "date": "2026-11-14T03:08:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -29,40 +83,6 @@
    "source": "The Guardian",
    "region": "PK",
    "date": "2026-11-14T02:31:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "73413b1890",
-   "title": "US flight shutdown exposes deepening air traffic network crisis",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "PK",
-   "date": "2026-11-14T02:18:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "75b14d1889",
-   "title": "Bloodborne Just Got A Complete Overhaul On PC",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSVgxX1JnbFJTbEhZN2xXSVkyZ19KUlJkTHNqaFAtRzlMZ1JFaU5oc21UWXRnZ0R4NVNNQkxiZEdCY3ZyREljX2o4U2NxNzVtMExlLTNWM0w0UWctc0hYeFVTZ3lNWVV3Z3ZTQlRyUGk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScreenRant",
-   "region": "PK",
-   "date": "2026-11-14T02:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -106,46 +126,12 @@
    "topic": "Society"
   },
   {
-   "id": "d767434677",
-   "title": "Islamabad to go cashless by year-end",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jODRsbFQ3TUF6aHR2aXhGTzM2c0NjZm4yU1BkaWd1NVV2Z0VFcXMyMUdKZTZuUTU3RjdOR0g3cHU2VDRtR2FwSHVMem82SEQ5M1pUdTF3MHViV3h0SXRCWEd1aU1xN3JLam1LZmE3LVAtNk1INUZiSGFR?oc=5",
+   "id": "7d692b9291",
+   "title": "Some International Physical Copies Of GTA VI Can Allegedly Be Redeemed Without Opening The Box",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjBkWGNTaWNwYVRaRnhSd1lKMElYOVJiOUZZcmdRYnJMODc0WEYyUUUzQk9jRjk3bU9BNkR6MjZZdzNueTZfcVhpMGtza1BOMXFIWnphal82VG8wX3RKcWlQYkoxU2tZY3BEYVJtV1RpVkNMU1JDWDl4MktqTXhvYkFCWng3alh5a195VG1mem5yQUxL?oc=5",
    "summary": "",
    "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-14T00:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ae87096465",
-   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "PK",
-   "date": "2026-11-14T00:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "bf2e098e99",
-   "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQy0wTmVod1ZaQUZpSFNoZjhGc1BkRWVuVUNCYWNVUUVOU0NLSWxEZXAwMmFTR1hxQ015S0lKSEkxQmFnWDdicEZGVVJ3YmlnWFRBUmFzQmd3TVl6QmxZTTlDMllJT0VtU1ZyalozZHN5N1FoMkdXTklkS0VnMHQtRlRqVWMxd2k3LTRFNDNVVXNyOV9TNWN4REkycDc3YzBzeXMyYmdNU0ZuM3g3ZW1tMHdpZm0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Engadget",
+   "source": "Yahoo Tech",
    "region": "PK",
    "date": "2026-11-13T22:50:13+00:00",
    "coverage": 1,
@@ -199,6 +185,23 @@
    "source": "Voicepk.net",
    "region": "PK",
    "date": "2026-11-13T19:15:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a6a4d0160d",
+   "title": "Russell Brand accused of sexual misconduct by six more women following conviction: report",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUxJTGxZU2txY09vNlR5SzBYbjJvS3ZpN3lobng3RVZDb1IwLVBESENFTzBnQWszNElZcHQ5ZTl4VkdocGlHMEliOE5IQWZfV0UzSUZNN2E0NmJHS3UycTAxMlU4anVKdDVEc2txSlRnTHVWWXplUkJIbGpON0o0SlhPQTZNRnZ5Z3NyS0tBeExCZGt2ZXFDLVQwVVpkbkRDSWhrYWdRMlpEVkFOMUVsc1p0ak5Lbnc1dHlKcGNIZnFXVDZmMnU5Ng?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Los Angeles Times",
+   "region": "PK",
+   "date": "2026-11-13T19:04:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -266,14 +269,14 @@
    "topic": "Society"
   },
   {
-   "id": "0d45b5fb3a",
-   "title": "President's Spokesperson rejects reports of discussion on provincial matters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTdUTVRqT0c4UVh0VEc1VkJQcUJVZTh0UWhQcGRyMHNDNmN0RHFPeWpsUEZOSUdrT1JXYVdCbEZPdmNQVXdZbFhTQW5pTkxBMkMzQ0c1MWQxYldjVVlIWHpoeDlEaU1yd2NoeDQ1T19HWUx3MC1pYWkyVlBhQjVma1VUOWl2Vmd5ZGlGMEpVcHd0WmdwajQ3NzdzLWtoOHZrSGhYZ1dsd0hDNGp0WHJMMA?oc=5",
+   "id": "14fe4ea9b3",
+   "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zQW96X29FMFZfUTIxV25TYUNRZlBGLW9xbnhQTnJZYjctZm9iRnFZMWREdndqeFBzLTZTTXFZamlNSTdBTDNRVw?oc=5",
    "summary": "",
    "image": "",
-   "source": "RADIO PAKISTAN",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-13T16:05:12+00:00",
+   "date": "2026-11-13T16:00:07+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -283,31 +286,31 @@
    "topic": "Politics"
   },
   {
-   "id": "0f2a35f750",
-   "title": "ECP suspends programme for local government elections in Islamabad",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXZscTdPYTgtOGpLVmdYTkNUdnhueTgyMWpMT2JxbkUxcDBKV2lDRTVId3FXTkh2cktzUWRXZ3dod2Vpek8xR3I1dzZ1SkJ5WEtDSkp2VFRheFN4MjRqTDQwTF9lN2xmWEgzNnppMXpQb3BWSXl3a2xYblI3dGtMUEdHMmRFNkxZRXdHdVk4VUh2eDVENkhoaEc4QmtXbUFOc24yTg?oc=5",
+   "id": "efca009da8",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJCYlR5dlhvNXJ2UlNrcHpZZ0tCNVZLVnBmUVB2X0R5NlNpMmRESDhlUzZiVXRUWlFYQ050RmRLX0xvRkRUdnJnX3hOSUc4RGItVXRCZDlmS05CWDZWMzRYbGhheTJxN0cwNEtNSi1KYV9wUEh0a2pJLUc2V00zTGJiUnZfZDEwQnNxNWhIc2Jqa1N6TzdvV1lEZlFPblU2UGhPZg?oc=5",
    "summary": "",
    "image": "",
-   "source": "RADIO PAKISTAN",
+   "source": "TechCrunch",
    "region": "PK",
-   "date": "2026-11-13T16:05:12+00:00",
+   "date": "2026-11-13T15:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
-   "id": "5416e86f94",
-   "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXpva3R3Y3pWcXJ1SmlXZ3dVYjkzWkY2MVdzWmo1TWdOM2I5UlUyb2NBVXpnYlZBT0ZMV29zUi1takJoVGUyWTcxZDc2dTZEdVR3RzgxQkI4b01zU0YzQ0dlRU9ibzlxSXNPdlJYY2I4ZUNWQjI5NTNVY1JCcEhiSW9sMGZzTC03Skptc3pmWm5CQUdqSE9lajUyNzdLLUl2Qng0NldCVdIBrAFBVV95cUxPMnplZlVqNFZOd21xQ1k4TWNXTHMxcU9vMVdTVlF1WXhFTEQwRWlrMTlPb01YQjdwTk1Ma1FKTnJnMGR2Z181M09xQ2I0a25ETnhRVllWUks2dzd0aXVhTDEwZkpkQjBRekt2YTgyLXlRX1NVd0pwbEx6NVpmQVNyTUo0SDJ6d0swRno2RFVWbnRndTBDWU5JRGxFTG9BZlYxZEw2M05BLUFEYVY5?oc=5",
+   "id": "b570f6c973",
+   "title": "Rice Protein Senses Stinkbug Saliva Signal to Trigger Plant Defense",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejZQUHp6TWFVNVNFdFFSSE5kblpkeHlOalgzSjRPLVIzcURYdFljSm1TQnBaTVNiVzhPU0Zlem1nUnJrd1laejZiRzVDa0g3Tmh6TWNvaDcza1JDbXNTQVhucXh6Z3E5bkRHY094VjBGSkhCaWVreHBFVHN4OVktZnh3QzZGSWNYNDBFaDhrMjUyQzBuenFWMElmc3VXTGI3YzdkcmZzYktSMWV4OEtmd3A3WDVmWlM5SWVhSjZyVjY5N2M?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Nature World News",
    "region": "PK",
-   "date": "2026-11-13T12:03:29+00:00",
+   "date": "2026-11-13T12:09:07+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -459,22 +462,19 @@
    "topic": "Society"
   },
   {
-   "id": "947ea31b0d",
-   "title": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZWM21SNjNsMVEyeEU5MWxSMkh6Y2JiSVRkY1BqNVUtNkRBV1lyN3pwUmwwZDRiVU1Pb0hibnQzWmstYV9OR2VWV2ozSmFsRU92SHptbnhKejhkWWsyaHhGd09fdTZMVnZnWGYwVTBFWkp6NTNNYm0xTVp3STB3c25JU1piTFVHT0V3aFp6dkplUEZETnAzS3RFUFlaZ20yR1JEUGhGM2E1YjBYYTk2V0VKclRFWkZJcXc?oc=5",
+   "id": "74cbdc67ea",
+   "title": "Oil prices set for second straight weekly drop on signs of growing supply surplus",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Zawya",
+   "source": "Reuters",
    "region": "PK",
-   "date": "2026-11-13T04:11:35+00:00",
+   "date": "2026-11-13T03:01:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
-    ]
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -496,31 +496,14 @@
    "topic": "Society"
   },
   {
-   "id": "496443d329",
-   "title": "Health minister urges stronger diabetes prevention policies",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeS1pT1l2M3ozRVdGLTVxRGN6X25NUjhvRWVoanFsWktXZFRUQ1BXWUQyX2pBNklnQ2JuSzd4eGl0RW9XQmYyckYxV1hleC1VNzJmVTJodnRzUXdueXVFWlRjaFlkX21JMjRUa1NQRzlUR2pSN2NJcWRPbXEwNmVOSnNHSVJSbUM1VDlldmtKd1Ftazk5ZHlCSg?oc=5",
+   "id": "8d6a7674d8",
+   "title": "Ambition without scale?",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1SkFLYVVHSmZfYlYxV3BkZnl4QjVOYXpYR2lRSnhzSi00MUFNelFrVENZSFRaSG9JT19nTU1MbEdtdXd5VW9hYg?oc=5",
    "summary": "",
    "image": "",
    "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-13T02:02:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "1f2a3144bb",
-   "title": "Cause of death for Anthony Clark, comedian and ‘Yes, Dear’ star, revealed",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2VZU3lRU3E1cGswY19YUTlGSHlEdm9ZRjUwSW1OLXdnWkM1S2loY2ZSUkdrYldyRGxTUDlKczlUUzZlaTJ0Mlo4TkVOTEhFZVlKRmFKUlp3Q1RHSFdfWGJmb044NzFfYmo1QzRBdHlGeVFWMlFiY0IzMHFJT19IeHlyamhac1VOQy1tMy1hNmNvSnFpVWVDT2l4QjVna2J1amZlUHRyMWNBcjg1RkYxMw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Los Angeles Times",
-   "region": "PK",
-   "date": "2026-11-12T23:45:38+00:00",
+   "date": "2026-11-13T02:18:42+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -530,14 +513,31 @@
    "topic": "Society"
   },
   {
-   "id": "98b95899fe",
-   "title": "Plant sensing mechanism guards against pests",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tRDFja2JxdXBKV21fWkRHblNIaHpZQmNfLV84LXRJYlNvdjJaQl9JQ1NUMjhadTdpa2g3d19XVGE1TG1iWU9SSlBBTmVQXy1DaDhlTExic0s2MWZ6YzNv?oc=5",
+   "id": "593e859527",
+   "title": "Advance planning stressed to deal with climate challenges",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nSHFyUElNaFNrOUYzS25DVWQ0V0JvZEVINm9yaFlvWVNjQU9kWGllcW14YWFIeU5LVk9HZlNNOFphMDFVWGxxMQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Phys.org",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-12T23:20:08+00:00",
+   "date": "2026-11-13T02:01:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e8d7784de9",
+   "title": "Cause of death for Anthony Clark, comedian and ‘Yes, Dear’ star, revealed",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb3lMYzdOajVPRlR6cFV6Qkx0Q2JpZnVxemR0a2ZBc284VjhLQWx0Qms2VVF3X3JVQUZpelNma2hRWUNrSGpTWTAwSk5MTUYxWEJhc0VndUU2cGNMdElVdWpVWTJhSW9VTlBGUzJPTl9TUmNVTFJ5cThuYlBWeDFZdzB0Qm9hVjNUQUNOSTBUaEVrOFN6Z3REbE5ISVZJU3lvcU4waU5rc2ZxcHhSOVp4dXpPOEtmQkFncTJyLVUzcHVYZXdjV1VTMGlkcEdLLWFLaTBxU3hwMGxTdzRIY3g2S3JzT0l5YnRLUDFOUF84VzRTbGJTYVRva3AzWnAzOXJvdENJeWcxTjg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Porterville Recorder",
+   "region": "PK",
+   "date": "2026-11-13T00:23:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -564,6 +564,23 @@
    "topic": "Society"
   },
   {
+   "id": "6f3390f129",
+   "title": "Wrist device for Tourette’s changes teenager’s life",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmlRbDNjR1dGTUxjbW85c3VPSVFKUVFqeFd5T1hmVTJqZVNkVC1nOW9NM1I5RFFJbFZKRFNFWG1ORUZSMVJpSVNaMEhqWVNONHRsbHdNbUY2cjFjUktOaktVZnk2QkVUbFN6RUR0UUVkRGlNWlFXT2loYWpvemlaQXhTWGRBUVhkLUZR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times",
+   "region": "PK",
+   "date": "2026-11-12T22:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "2a8b33ca55",
    "title": "Brave Browser 1.99.57",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUjBPbVIwS28yWDJvWmVuNDlwQm1weXdyVEVoRlZDUFY1R1drZkZoanNLdEc3aUx2dkVLY3Flc3pGMEdoOGV4Tkg0QTFxd25scVdMLXFpLXlFQndBdEM4MTl3?oc=5",
@@ -581,59 +598,21 @@
    "topic": "Society"
   },
   {
-   "id": "b073abdc69",
-   "title": "Why you should wait before buying a car this month",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abzJicGhQNW5mNnFjZXpvZzJiM01XbTBUWUNHRHVnNW5fZUF3ZDJUaHNlUGYzMkVBLW5qYjU2bGZZY0U3TG0wcFV0ZU5FcTNQN25YTFR4YmlobHYzMVFIUngzanRSTjlYdW5nUDZ1Uk1RaDFqSjVGdQ?oc=5",
+   "id": "0c69915484",
+   "title": "WhatsApp's 'View Once' text messages feature is now available to beta users on Android - GSMArena.com news",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUNra2VjT3FUd2NNWnNPa1VLX2ZrZEs5NzhxWnVrcFIwUm5yYnlaSnhycUNOaWZyY3hRaHhkbTJXNTZoM1BmNDlnaEpsb1llSVUtZURUM0p4VjlERVNnUUE1Z3hGT0pUdU1JdzdxTWMycEJMQUF4OERwUUpXeUc0bnpoYzBHWHlVeVkybXh3N3BKVXhP0gGQAUFVX3lxTE5udmlTY2ZvVkYwOUxfbTRpb3JEekdfcndNcjRNaFhVV1doeEVTN044U2R2V2w3NTlxQ0lRamgwRnNHZ3RkTEsyZnJTR092OFpzRlB4Tnp2dGRrZl9DNlJvdWw1Q3FGbkVpb05YU1FJVndVamtyVENYQlotODJKaXc4ajhrT0NFeFpsRkd4a1VjZA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Mettis Global",
+   "source": "GSMArena.com",
    "region": "PK",
-   "date": "2026-11-12T09:47:00+00:00",
+   "date": "2026-11-12T10:00:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "2e33cee564",
-   "title": "Lahore VXR festival brings together 70 artists from Pakistan, France, Spain, US and Canada",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaF91Ri1RVnMyUTJocHRfOEdhRklScGtBM2QxWWlWTXJNNUUzV0NpRXgxZ1hZNEc2clRsOXpXOHEtQVVLeFE5MG9MN1lsejR3RHdxSGpCSjBLV1V2dG5rWlhvVmNzR0M0LW1BNG9YNVRzTzc5R3VheW8zcktEOFlfNnBqeXZkM2M1RnFJamdBYXBYckMwZ1pqTVB3MlVETjZzYjFCWllScllQLV83N0x0UmFvYXdZd1FVc3pUSTgyWTdhQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-12T08:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰 🇫🇷 🇪🇸",
-    "also": [
-     "France",
-     "Spain"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7edc541b98",
-   "title": "Major study backs two drugs to aid bone loss linked to Type 2 Diabetes",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHEtbkl4MFZZSkNBRkhvcnByUFd3eTVxdWpwZEpPcllueXlPUkI1Z3lIVndIY3pKUFI2anNraE5LTVZTQlRxdkZIaFlGbFhJNEIwVXdvUmpodlZFRy1HQlk5MmQ5RkdJVEVTa19ubS1yanVIdkhKZ0lnVFl0RUtQN0x3X29ScUtZUklPSUlSQ0U3Tl94cXhxVWxHRkkyUjZLSzZQeVd2TEd1SldydlY4cXBR0gGuAUFVX3lxTFBMYUR3ZGpsbWI4NHlJYUMxclRTNF9kMXM5ZWdLWk1GR3BoS3NBYzZoVFVqU2stMWJ3UHhCejE4RFpHcF9NZ2hBT3Fra3dRVHc3VldySDRhdjlSdlpMcDJvbTdHS05xQi1EbklOVmJKZm00S2dkOE9ScllNNkg0MWZ6YmRhbjROY3FJcFZhaEx3VzJndzgyUmR1MlJqRWJhZmdEanFmMjBFLXdhRVV6UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The News International",
-   "region": "PK",
-   "date": "2026-11-12T07:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
+   "topic": "Tech"
   }
  ]
 }

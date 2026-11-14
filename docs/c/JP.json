@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
+  {
+   "id": "72029509b4",
+   "title": "森保Jブラジル戦スタメン発表!! 4バック濃厚でSB中野就斗を抜擢、2列目は中村・久保・堂安",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHZnNiUU9ROGRnTXJFT01ZcW9UaHI5VngtbGdCa21uc3hYNVZ4OVR0UWdBRHJyQ0J1UGYwWUJWM0g3ZlNHelZFTFFOcmdCOFlQT1RFMnNpTGtaWUp2OW9OYVd2NWlWa3VoTDlv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ゲキサカ",
+   "region": "JP",
+   "date": "2026-11-14T09:13:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
   {
    "id": "d0ee1f4aa4",
    "title": "“この性能”、8万円台で買えちゃっていいの？ 3画面出力もできるミニPCがお気に入り──GMKtec NucBox M5S (1/5)",
@@ -21,14 +38,14 @@
    "topic": "Society"
   },
   {
-   "id": "5fc46f43e9",
-   "title": "「急いでいるなら階段を使え」GACKTがエスカレーターを歩く人々に怒り (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQl9DWllEUGx1OFk3YjBHM3RIQ2tSS0w2X1RlZmtzVEt0Zmo2cGNZdUZPbFBlZHhURC1yREMzNzlrNGhRMG9MUGp3YmRyMXROWER2Z3A3cVA4cC1SU2c?oc=5",
+   "id": "4aaa3a3ad8",
+   "title": "2026年“時代の顔”がanan誌上に再集結！ 12月23日（水）発売の anan（2525号） が予約スタート！",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zeTZxRTRYTVYwaDVEYVFxLUh5N092R2FLZUdLVktiVkZTdVBpcWF1cHVramZYR0ZCcms1V192MEtydEhxVE1VUmNlNTlDTW55TXNTQW9wUWUyclNxTndj?oc=5",
    "summary": "",
    "image": "",
-   "source": "ライブドアニュース",
+   "source": "anan",
    "region": "JP",
-   "date": "2026-11-14T06:14:10+00:00",
+   "date": "2026-11-14T05:45:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -38,31 +55,14 @@
    "topic": "Society"
   },
   {
-   "id": "9eeda552e2",
-   "title": "SixTONESが2度目の大賞「anan AWARD 2026」開催 KEY TO LIT・高石あかりら豪華集結【受賞一覧】",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZaUNvUmhjdzhFSk9SVHh1QU1DR0s1bW82T1RWYnI4VGRaN3EwNDZFc1hnSDhsVmVxRjZoczA5cFowcWdzN2NNSExHVdIBR0FVX3lxTFBHZjZMcVBDSUl3OEsyVEFBX0U3SkZVOXJ5ejctV0FwNFZHWnpTSGN3LXU1eFZjQlBLM1pYeVZ4czhHbFdpTmtv?oc=5",
+   "id": "4a186d3211",
+   "title": "海老名2人死亡 ひき逃げ疑い、トラック運転の49歳会社員逮捕",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TTBPaFdlVzBFSW5ZS3B3NmMxaGRlM2txZGZQZUItdUw4YXMyTk5Ta2cxQnNLaGRmdzFFTE82TDl3OEhKQW5KN2R1Y0k3RjRNdDh6d0VDbGhfclFCQ3JKZk9xSkxCNE9Z?oc=5",
    "summary": "",
    "image": "",
-   "source": "モデルプレス",
+   "source": "毎日新聞",
    "region": "JP",
-   "date": "2026-11-14T06:12:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9a2a1cd210",
-   "title": "京阪HD 不正アクセスで最大22万人余のLINE情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xcGdWaU96RHFsTExkUWlLUFdoR2k0RmVVSnY5V183YjIxVHNrZVk0RGNQT3BSdktOcXhzVEhua1F5MHc4Z2dSelhOMDl6WHFlcFlwcjh2Tlg3eUJsN0pn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NHKニュース",
-   "region": "JP",
-   "date": "2026-11-14T04:07:03+00:00",
+   "date": "2026-11-13T23:28:20+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -80,6 +80,23 @@
    "source": "産経ニュース",
    "region": "JP",
    "date": "2026-11-13T22:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fe65073dbe",
+   "title": "櫻井翔 占拠シリーズ第4弾 『XXXX占拠』放送決定にあたりコメント「毎回大きな喜びを感じながら撮影に臨んでいます」",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82NHZaMVdUSlExcXdXdkoyZ3RZYUlvSWVva0tWTkswN01LWXlZTVVHUWwzU1BhSjFaV185eEhqd1ozZGFfbG1qdzZFY29welhWQXJHQ042OGZfNWpEMEdVWENlZ1E5b2VDWlE1Q0dn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "日本テレビ",
+   "region": "JP",
+   "date": "2026-11-13T21:19:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

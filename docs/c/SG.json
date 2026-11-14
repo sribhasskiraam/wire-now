@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
@@ -29,23 +29,6 @@
    "source": "AsiaOne.com",
    "region": "SG",
    "date": "2026-11-14T05:27:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dafc50bdd8",
-   "title": "Singapore has suspended a telco licence in the past; will Simba be next?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVlanpka1NwMmQySHBBczg1UlNEZ0taREVEWGhLWmtVdTB5Vy1ZTk8tN29JUFd6S2xVOURtOHZ5T1lEc0tKQnpJM2hpZlcyU0JSc3RGanpDSER2dURSZU9sd05CTTk5V3hMSV94ZUtwREx4QkpvMHNUb2szbmw5YmlYeU9jYnFaeXJ2bUlvb1ZxbGl0N0xDblJENFhxa3gxb0ZfU2xmazQ4LUVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-14T04:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -397,6 +380,23 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "540869bed6",
+   "title": "US Treasury chief blames Commerce Dept for failure in Nvidia scandal",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2NQa0NQeXJjZjA2MnItQnN0M2RlVUczX2lubVYzWVVyR184QUNybm82YS1iTmRiSEk3T19sYXpITmtmcEpUMlpMUDVxY2FLRVFDUDZmV2ZYVzdjQkVBb2w5WHVyNFhYUjA5QmlYTTNrZTNGdUFKdVBycDc1ZzJETkdPbUR1UDVxRnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Finance Singapore",
+   "region": "SG",
+   "date": "2026-11-13T14:56:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "e0e2be6f19",

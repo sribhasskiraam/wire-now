@@ -1,8 +1,76 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
+  {
+   "id": "2686fdb9a0",
+   "title": "'Miracle on the Mississippi': 180 rescued after river cruise boat collides with tanker",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE40eFVRaHlnVnRkYml0dUVfYkJlVnlJQUwwcUQ1eDBiLWZYZ05QZU5hY3BMSXRhdmFSR2JRTmJOYk1XVEY3MnprVkloRVVjR2J1TXdUZFpydndkenJ6aUt3Qm45c3ZSWVpiV3UySlRCQjc3aXpxSm9PdWg1NnpJY1E5V29Bcy1LbkdmQ0tGN1I4RWVXYWFpZG9kQXh5OTlqcGRDZWRyZ3pFa2dEenJqWFg2QUpZN0hfRVM4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sky News",
+   "region": "GB",
+   "date": "2026-11-14T08:10:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f59d084284",
+   "title": "Tim Dowling: I’ve made being ill an art form – and my wife has notes",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0txazVrczU0Z1pJb2FnaGJISmFtQ1ZWY294aGJNN2JUcVBsOXNJRGVValJZWmxpWnBvQXh0V0VSR2EwZkdTWnBTWnhLQncyX2pmZUpWaDR1QnJ1c2ZsTzNuM0FMaXNBalVrdC1mU3lKbXlxTW5CR29Hc0ZfaFR6aHVmektCc2cyc0JYdW56OUZiU2d3MTF1bjJzNzBBYlRkZEVCU3FyMGczRkZkX3VGSlhWbmV5R1Nk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-14T08:01:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "abd05c1b37",
+   "title": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWFEZUREQ0Y2OUVYYjNndHcwZnBvRWY0Q0FyX25hU0xfNnFCWXVVOE5OanBDUW1xak9mcGU3X2N2aVpwQ05TeU52eGdreFhiVlFoTDJBY2xSYnR1cThOR0NwSlZ3WDNxdWhIMk5aVkdHRDBHbEYyd0QzcldPN3RmWGd3NTAzZ0dlbWVhdERFUVBDTy1pRzVxVVFteWhJdFlHN3k4emlWbXV5N213aVJfczc1dUROUnBIN05nakxJR0VpazhVZm55ZWpUXzBDZ1BlX3VJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-14T08:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9c9301a598",
+   "title": "Will John McGinn take Kenny Dalglish and Denis Law's joint record for most Scotland goals?",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3d1dZQUZ1b0xMbXNJdXhYcjd1UF9Hd0x2aXVHelhSU2NhNGl1TVRCTHNSdU8wTTVmaGJrdWN0MGgtLS1DYVp4d3FlOXFGYjBjUFlvN2VvLWppVXFwSy1uN2tGV3pBOTlvdVBB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T09:21:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
   {
    "id": "2686fdb9a0",
    "title": "'Miracle on the Mississippi': 180 rescued after river cruise boat collides with tanker",
@@ -208,23 +276,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "869070af4d",
-   "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-14T02:45:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "cce7b1d99a",
    "title": "Families clear homes of David Walliams books after sexual offence allegations",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzF1NGlDbFhkV0pZVWdLcFBDbzJiZmF5TXBVcVRuSFEtUjFQLWtTb1NHWVZXM21sVWRMc1RhZ0xpSGdLcWV0ZUtuM0I5aVctaUFuV0JGeU44cmVzc2w2alRqa2FENzVwTlRieEhhLTh3WkNDOVZQa1p0bFpNTk5VcG9WWTBBSjlUT2x5Z2lZdTRUZ19vZVZmZjhMX3ZJYkVVMk1XUWlhSEhMa09VLWpYWGFJRU9HSDc2dkdFS1RFZ1JDa3c?oc=5",
@@ -297,6 +348,40 @@
    "topic": "Society"
   },
   {
+   "id": "640652ebff",
+   "title": "Keaton Slater's parents' fight to bring Latvian killer to UK",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zM3pJT1lwVTJFSEFYMjYxZ3lWY3BOeEpXS3B3QkFKSU95Mmh0aEJRN1pLREFDWFAyZzU3c05Mc0JrZER4ZXBwVzZ0X0c2YXV6Q3NwLWlFSXF0RzhlV3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T00:35:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "71378556a7",
+   "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02RmFNNFVwNldBNmxocU1yeVhUc0VLNHNIR0d2Vko0REFGamF6WXRkTEtMUDJZRGZhS1FXaXJQX2ZHdENLZHpnMHFfSS1lOHZpcXNlVFFVY1hIS2pqYU5vRGp3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T00:12:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "71378556a7",
    "title": "Widespread frost and freezing fog forecast as cold health alerts continue",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02RmFNNFVwNldBNmxocU1yeVhUc0VLNHNIR0d2Vko0REFGamF6WXRkTEtMUDJZRGZhS1FXaXJQX2ZHdENLZHpnMHFfSS1lOHZpcXNlVFFVY1hIS2pqYU5vRGp3?oc=5",
@@ -327,23 +412,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ae09188fa4",
-   "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFNnX1RBdktPVXhIN3N2NDkzbWFEdVFZbGFWQnBsMTRXbEw2cnRFQmJrcnltUFExaWtjZlBodG1hR1RSS2x4cjhEY2ItQ2FnbWQydm91ek1wYTZzRXJHN09wR0NyUE1nV2IzNkF6S2dnVnVRamszSzVOQzFsMzZvS2ZLUHo3OGZjSkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "GB",
-   "date": "2026-11-13T22:45:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -504,26 +572,9 @@
    "topic": "Society"
   },
   {
-   "id": "22acb7c595",
-   "title": "Snapchat sexual predator jailed for 30 years",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3pLSm5aNjBjVldOLWtaNkZqNTVhT3lsWllXQjVNSWhnNzh3a19Dem1rUkxBQnZmb0hIdzQ3eTJTa2Z4cnlXbDU3RDU2SnNfZndvQllOM2tPWnYxNWF5cmV5Nm4tMUYwMlZQbG9NR2ZGbDlVbG1BVHNTSU9iR3pLUlBNTVM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-13T18:22:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3146915866",
-   "title": "Moment King Charles is mobbed and serenaded with 'Happy Birthday' as he surprises market shoppers",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUlXblJVZ19xMHFmVlNXbUIyamhuTU1nUlBNcUpZcEtYV29IOEFaVDlXZ1otMl9LZ2VfVlgwYXpRLXZ6LW9zdFU5Ry1Kd19Qc2YyaFJPZW52ek50a0hlT0NPNy1wWVdVYkNjdm42TjBCYlhsY3NOdEN4MnlzT1JZR3hlNGIyMEdXblHSAY8BQVVfeXFMUEdvRjZfNlJyUUNLa3FDOFhMay0tMHBoZ0Z0QU04c3FscGNYV044Q2lYQmpWMXZRemFKMVVqN1BpNFE2ZTdGV243YmhycmtZN2dqcmttbURpakdHOWdSakF5OXFLcGdPNDhsZmRWMEhXWkk0VzZxamwzalVBVm9TMFhqVThyQnIyVW55cl9Hcnc?oc=5",
+   "id": "9d8533d8bf",
+   "title": "Piddington migrant camp a risk to women and girls, Government admits",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnZQVVE0Tm9OSG9qOGRXeElseW1vMlZ4Y2lfMjFOYVp1b0dSQkREMlEzaDc2ekE1QWxuWUtyN01DVlVQSmk2dVZzZ1RiNzBEUUNzRGRPQXFkcW91NndNNEFaRl9VSG5SMDFUUk5YU0ZaY3U1OEdVRWlyTEY2ZE12RDVVWjVEZVN1NTN5UDNocl82U3ZWVENsQ2UtN09uZWlRVUE?oc=5",
    "summary": "",
    "image": "",
    "source": "The Mirror",
@@ -538,14 +589,14 @@
    "topic": "Society"
   },
   {
-   "id": "951b1d3389",
-   "title": "Hit-and-run driver jailed for killing schoolboy walking home from school | ITV News",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUDQwT1Rocmg0a19DMUgyM1RabmJpOVpVUkkyQ2N5T3oydnpUaHZvYldjbXROX1NXTVRPaTJWaVRtVG01UUN0Q0lmMVlhYUlqcTNhY1pVcUNNSWRKWkYyNXp3bTFTZkxLYzBQUThyQ0lFQVdweVRjWUhIa2t5UXZ2SW1OTlN2X2NjTjhyckVWX1FKRUdxT2U5VUpxWS1weGJvYzZHUEpleGt2ZGpBZ1U5b09HTmxYLW8?oc=5",
+   "id": "4e065e9c62",
+   "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ITVX",
+   "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-13T16:27:47+00:00",
+   "date": "2026-11-13T15:25:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -555,21 +606,21 @@
    "topic": "Society"
   },
   {
-   "id": "3822510f7e",
-   "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzBDM2g2ZXNoVkJEUTI0Y1RvbDF3b09QZFlmdDFrTDFiUzZhRDVveFZIOF84MHhuV05ROUxROVdpNE01RzVYeUNDV2M5WDBKQVBfSXN4S183Q3M1cFZGTmVVZlRmZHFjT1lSS2RRN1VPbHlBOTB6VjlzNlkwMnNIb2ZpN1N5ZEtDZzMyWHJHdXdveHotRVh4WnVmcWtUanUtNUZCWGlnSmdiUFVDakJV0gG0AUFVX3lxTE1MSEZjRkc2M2NWanFaRFdhSHNSYnh5cV9yUkhlTTZ0T1h6S3RobTA0N3BucW1UdjR2Z1pPdTR6TUJaRHVETmZOVFlkZWozY19HNS11YkI0QlkxekRzR3kyQk5sSHlRN05zcXJzbWdxZklMb1NqVHBzcmw1YU1aVFJyTHQyZVExZEllVnNmUllSRzJOOEhMV0xJcExfbFJlTm5hcEFnVDl4UHI5OExWYV84Mmg4TA?oc=5",
+   "id": "d35d6a933f",
+   "title": "Authorities investigate whether 'criminal conduct' contributed to deadly Brooklyn building collapse",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWtZNjRpUkxxZUZHbGhCdWJldWk5dmw1WFZSd2NNMllFODI0M3ZxeFV0VlFuZWwzYlcxcFUtTFFHNmxTSzN0OTlqZXA2dW1sTEZzUnk3NTdHenVidDQyNWIyal9Xb2RsWlZXWGVtTFpUMXB5R21nMl9KY3BhNjR1R01fendzOU5STGY4ckxnOFQ5VUhEcmppYnJpTmgyTGJiblowV2FZNmFwN1Z0RnQ5NmpVTC0tdUdjOWtwVGdZVGhIM1U0bDIxaVJmNjBSQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Sky News",
    "region": "GB",
-   "date": "2026-11-13T09:49:11+00:00",
+   "date": "2026-11-13T10:54:18+00:00",
    "coverage": 1,
    "location": {
-    "country": "Palestine",
+    "country": "United States",
     "place": "",
-    "flag": "🇵🇸"
+    "flag": "🇺🇸"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
    "id": "2080997de1",

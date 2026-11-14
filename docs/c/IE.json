@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
@@ -11,29 +11,12 @@
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-14T09:11:15+00:00",
+   "date": "2026-11-14T09:18:55+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d819c744f5",
-   "title": "Dublin vegetable grower had ‘no idea’ her cabbage was on the menu for European leaders",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN2E5Y0ltMVdhVk1CUDRMSF9WV3FxS1B2dVBkUTdoSzBmQXhOelNzXzlZUndsRFRMR0ZMbWNybnBGTWUyXzc0T3ZoRUFsa0ROMUE0Nk5NbXRFMlNVT3BaNWxQOVJwSjZQRjhRbW9vcFNYeHcxd3hUTWdoelFnZEV2UVNfaGNPd3lzbzZzQk43d280NWFsRWhYOThVTE56NnM3czZheTBjS0dUdloyamVFREx6cUpodE9kWlhTaDR1UmZ6V1R3ajFvb2hzNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-14T08:01:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
    },
    "topic": "Society"
   },
@@ -58,23 +41,6 @@
    "topic": "Society"
   },
   {
-   "id": "c1dae472cf",
-   "title": "Person to Person: 'I grew up with a lot of music..we all played piano and I’d always get the worst in exams'",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YMGZ6bkRaX3ZIT2pEY2MyeXNYOGdMVHctdFF3ZGl4dDRpdXBLLXUxckNMbzZORlc1RlpsdHZYMmlZZ2RyTmQwVWFfdmpwU0VVcjNHazJ1azlDWlhqQVB0Q0V3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "echo live",
-   "region": "IE",
-   "date": "2026-11-14T07:41:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "f7fa63aa19",
    "title": "EU seeks 'united voice' ahead of Ukraine peace talks",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM25jcVN4Mk91S3ltX0UxaVdOOWVpZWlEZTlhSUp5VTNHTjZ4aXk3VFFVZU9FM1hfb252S2YyaDVmLS1FWjlLVzdmd1FteWU1Z3M2Rm1xb0FZX0dmc0VkcDlXSVI4MUg0d0xaQmZXc1JGUk4zb1pVTjU4WTZMX0lVeE82Xy1MdTFF?oc=5",
@@ -88,6 +54,23 @@
     "country": "Ukraine",
     "place": "",
     "flag": "🇺🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7aba801e65",
+   "title": "Here’s what happened when... I tried really resting",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0F6Q041bDBQOEJsSFU0ZEhOelNTYjQ2OEpvY3BFOVJFcGo5WlgzZW93UmloUUloT1laY19zUTR2aVBraS16SDR6a2dvU1U5d0VJanBxMnhFUW9YS3dIOE1QOWVNWWxTaW15QXpGVktna29iOE9SeEhpT2Y5dGc1Q0pMQzBVY3F5WGtNX1paSEFjZ29TUEg3NU5iRExYZDdJZkN1aUxmQ0JKOGcteEtRUUpoQkZnRDUzajBRMWZn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Independent",
+   "region": "IE",
+   "date": "2026-11-14T07:02:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
    },
    "topic": "Society"
   },
@@ -431,6 +414,23 @@
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "32d15d0584",
+   "title": "Here’s the Hozier and Jessie Buckley cover of Shane MacGowan’s Fairytale of New York",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeERoc0J2V1FqczFYS1FIMWpZaHRWejJqNTFrRVhjQ1Y3cVdpNWFqYXJ2T05BNFh3RklmdFdsSkZrVmxDbFZiR2RLVEw0a0d4UzRkU1hnUGY1eEFFaG1NRkxMb3FiN0ZkUU5vZndOUVdzSGlIWGRZQ2t4YTNWaEp1RGpBTVR2MDBRLUVOUGJRTTNPUWpCMHRLYzRxTnoxZTlXbFVSODRvUy1mSnpnWDBUQ3UzLVFUQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-13T17:23:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },

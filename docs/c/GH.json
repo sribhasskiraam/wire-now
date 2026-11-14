@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
+  {
+   "id": "16889d4369",
+   "title": "Sam Jonah makes case for revisiting Acheampong's Union Government idea",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakxCN2ZmMTZIZlhYZnVQQ1AyT2hsazJHZm5BZGhJVWdjbFpUM2tPZm1lRlFjUk9ZNGZLRGN2WmV1WnpWb05GUFVzT3FNYjc1QjNIU0U5MVQtYUt4YmF6RFpSY3ZNamdFOVhBSnZTS241LWZwRUJpT1ZuMThDX0ZVMWpHVFotaExROFVoWjh2eTZORXBDV3BXeHBkbTJ0WFVTY1Z3dmJHa0JtOW1jQUJibXc4emtiQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-14T09:15:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Politics"
+  },
   {
    "id": "a33a322211",
    "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
@@ -72,40 +89,6 @@
    "topic": "Economy"
   },
   {
-   "id": "982b8a4388",
-   "title": "Rice farmers call for ready market and reduced imports as rice rots in storage",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1VVUExHZzdLZXduMnJucVZUTF9tSjdlVmFKdS1sQUdtN2pGeUVKTmgwSHA3Y3dobHFITXFJMUh0aXlhV0NLcEI5UEN6SXBiUWNOaFRDczFWNnZxRXM1Qk5jMTNtRHZzb1J1Zk54Zzg1UGhmRjRFRmNNLWZRS2pfZ2FiQ0dZclVoc1FPNkY2NXRycWF5VjhoSkRhdjJ2c3NOQWFNaXVFZUlIT01MNGtKaVdrSU5Oa2ZTRXg3bg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GBC Ghana Online",
-   "region": "GH",
-   "date": "2026-11-14T08:20:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "84d60ea026",
-   "title": "Best gaming monitor deal: save $210 on ASUS ROG Strix",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRkt2Qk1UXzljSG5ZaFJ6M050NGtfNF9yWVFBYWJWbHdoVFYwS3JKLUpIcGgtNGRLZjJKVERPWGxNb2d6dF9IVENmVW92MVpVdGxybElOS2VMbThtelhnU2drREJCeVB2d2NmUlJ5VHFvb2pQQWVZSFZiQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "GH",
-   "date": "2026-11-14T08:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "1c18f0257a",
    "title": "Hairstyle swap and security features: BoG's full explanation for Theodosia Okoh GH¢50 portrait controversy",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZW5lc195ZDNGWmg3Y1c5cERkazVXbUhPUHVNaWdlUTM2XzB4cUN1NjYxNHFWLXYxQ3RZemtnYV9kakZ5Qkw3ZTByQzg5YnZPZGRiX0VLdjFsOWRLVXZiblMtUjVTY3UtcVRMZGt5VDdDQzE1cmZJam1iTG1sTlV0NTF6RUhxRWQwLVBEdnRUbTM1NGIxUXYyQTZ1TWY2VXgyY0FJbnM1eDlHUHpGMG9MdGNrekhPMXJCdFhMXy1Fb0xmeF9IQ0lCWkJaUFRJX2pPWHRqSWliMnlXbEJPbWJ5NDI4SVVIUjEwczUzWmpub1c?oc=5",
@@ -153,6 +136,23 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fe88247392",
+   "title": "This week Sony revived its classic Walkman headphones",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SEtGenMxM0pEcm1vUHhIOWkyeVY1cDVxWmUyX2dURmZlQjc3a0RXNTZWS3IzTVgta1RfeHV0RVJtVVZyWkwxOTVOYXRGdlVTNWlxMkFZRlFKVGVIRURTZTZPRWNIaUxyenRyTmhJU0loYlNBUDlj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GH",
+   "date": "2026-11-14T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇭"
    },
    "topic": "Society"
   },
@@ -233,23 +233,6 @@
    "source": "Modern Ghana",
    "region": "GH",
    "date": "2026-11-13T19:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "038d1171a5",
-   "title": "Why Pochettino’s Move to Manchester United Was Inevitable",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkdnaGJLMmNHakxNZFVsNmpITnNGVktyY1dwdGRPRkVlZ2t0RUU3S1YyMXZHQWd2UHlBaG5JN1ZBVGJOZ1VBTW5ZN2ZJNkJQTkxDWHMtS3JLQWhWLWdYUFZkcjNldXQtOUlrSFlvSU1CNTgxZnZRMmdTYzlobzBJRkdvMXR1OWFCeFEzS3kzRWFueWVjQzlvZVhMSGYwWHQxRU9KcTBfSUl5dDAyQjR6TUZMenNJelU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg.com",
-   "region": "GH",
-   "date": "2026-11-13T18:20:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -406,6 +389,23 @@
    "source": "Yahoo Sports",
    "region": "GH",
    "date": "2026-11-13T01:49:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3b4ab5c204",
+   "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjdCQnN3LU51ZVV6N01ZRDk4UXdkTjJfR3NTTkphaXlCRXBoeGZSZnhyVTlkeGRPWU9NMHhRck1WblNROGFFbU1oaVoxWmhFRXEyR0FKUDMtdk0tdklxSUhINDNFWkhycUI1VmlOOHN2d0M3VFRGdjFzdDlQX2VMem1JUzlVdGFrWThpNmJzYWJMYy05UU5LY2c1RDMwdmd2cFk1UW5aUmZfTE5XZXBGTWJ2R1hGTHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-12T15:06:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",

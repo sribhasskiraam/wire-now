@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
+  {
+   "id": "30f4b05cda",
+   "title": "Estudantes criam 'Exército da Pós' para cobrar Lula por reajuste em bolsas",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXFGd2VWRXFqNmVNRVpzeU9HTlVtcDI5eUU1Y3BTdTRZa0ZfZnpNdC1zNzRiS2FFZDdJOGYteXpiZkZvaVVsbmJ5bmt6Q3Nxa3RHYWIxTlpCZ0VLT3lnaHZHMVdLck12eENRUWRQaU9nZmZHYjRlRW1ZdG5fM2kyR2ZXRms1SjVGWFBPNzRpcm5aNWszTGNnZVZlLUpHRHVodnVoeEM4dHNRQnotdk96Ynd4WDRyTWhMV2RzblltT04tQjg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "UOL Educação",
+   "region": "BR",
+   "date": "2026-11-14T08:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
   {
    "id": "a1890552ed",
    "title": "Traições que abalaram o mundo: além do escândalo da Nvidia, relembre histórias de Bill Clinton a Dom Pedro I",
@@ -55,6 +72,23 @@
    "topic": "Tech"
   },
   {
+   "id": "41b1b63b7e",
+   "title": "Agência de aviação dos EUA implementou ferramenta de tráfego aéreo com IA três dias antes de suspensão de voos",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbEUwUjVmS0hFclVzdm1SUGxiUF9iR1FPS1hHaGdyaFc0aVBFT3F1TWNwZVYzNlZiRmFPb1dsRGtJdnRvcDlwOEFQMTdHOG1oSGZlSHRPdXZSSnlwMWpHcFN6WEVBVGdJQU9Nd21nWEROeURtaG8wSUV5UnBIQ3E1VEg1dGtmTG1ZUl9hRUpELWcybUlncDVDZWxCNF9sZHJwa3Bod0U0NFZtMk03NTNuTmZUbzBpcGlxX2pLZFpLNVNoN3oxRTBzaHZacFJxSGlFLUxJSkotd1o0U1MzWDVCX3E5WGYxenFQYjdIM2d1WWlocjd1Qlk4VE5R0gGIAkFVX3lxTE9kVEVXVVlsUFdDazZnQVJLRjVQTDkwd24zaFR5bjc5Q19sRUdJUHJEQTZMR19aWHYwWHdkTWdwNjlMSThlZUlxRXFkRjlGUElXc21pUW02NW1NUnJrd3c2Yy00TkRSSkV1WlNEYTNuRXhCQS1HZ2ZXOVZQTzNkdzNZMXkzT0paT0hhLWVQMEo0aU42RkkwTG1jZzN5bmEwVGtVSTg4VWljc0hNa1VWNFFHQndIeUR2ZC1sc1Rlb1IweE85OG1ZNWsxdjBjQ0loTDFMSVRZejZRR2tveHFsMmFSeWZHSjR0T3ZEVERwSmZzQzR6WEVlNzlKcXoteVNmNGRBZV9JZmVReQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-14T04:42:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d7777405a1",
    "title": "Novorizontino ou Juventude: o que é preciso para título da Série B? Entenda",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEMxblRkR0xfV1JLRDNCQXN0SExfRnJLOXFSSC1pMkVOMG9ZMVlraTlSVzdfak9MZ1ctdzBzWmtmaXNraGg1NUd3eGpaX05YbURyR0U1T1NKWEpRVmVYemNFYzlsMXhSdFBwWFJFUnlkNXJyZ0FRd2MyR1A5eHByQWlWQkdhakZuMVlLZUYxVmNpZ3p6U21PbkhEcVZYNUV5QUFTUEZZaHZPNlhLcEJWN1E3SnNaOURMQlM1TGFDSFNUbTNIQ2N3S3RWV1lCTWlSNTl6eDdrVHRKU0s4?oc=5",
@@ -72,38 +106,21 @@
    "topic": "Society"
   },
   {
-   "id": "bfac3cf8ae",
-   "title": "O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONGd5RmttMVFMUHBuMlpvTllQY3pQZmNYeTViS01vRlR1TFVzSmR3WlA4ODdJR0RmZ1dGeWtKVzI5di1WaTZEWk16LTRDQlM4Mm01QWVMOUxGXzdNdTNvcmJxRU4ybHFpQWtoTzd1dVd5WDhxeDg2TUJYR1NtOS1OVUM3Q3F4YlZkMDh4cmNZZ3hBZHZyek5oU2pRVUx5UXU0Nm05b2NRVDBNbm1ZdnhhS0hfNFNRand1dXBQS3ZvMXBYYm1fV05YRk00SVhzS1hBWThfNjlHX3lCdFhTZlViTURDVmpDRWdoc0lGVHd3eC1vdWItSEM4YUxB0gGIAkFVX3lxTE9RUUo3dkhySzZlNmJobWxxRElFWmRfSDQtUjZ0UUxaVUpJT1Znd3hQeE5Rd3MxOHdaOGZIMFpKZnVsVFhBbGFYMzM5U0xJRE16dVhaRmpyOWI5a2ZNQkUwRnZmclZMb1JVV2dVZ0lIcVJKZTd2TERtaXZOZ1FqQWJFUjlfVVA1RzJVX2NfQ0gxaUFPWnktYUFTTDFlSUxlT3Jwc3FjSW1QSlVrMVhYU0txMHE5N0NNOElVVTBFZFRweGR4ZWlhSlo0Y3gtbVUzdkdlcjUya1F6V1RBRUEzQ3R0VEhXOThmNWZRNlI0TWhsT0VqUUQ5bXZmOElxb3NFSndJakhFODJMbQ?oc=5",
+   "id": "27b3cce990",
+   "title": "O preço da ‘ressaca digital’: quanto custou ao mundo a pane global do Outlook da Microsoft?",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOME1iWnNZSGZrenMyZVB0cTZVSWozY3JGd2txZFQ0QXVFU2g1MERGS0l0VG8xX0NmeGFTZkJWdzFEdnZkeEtGVDNYWTlpVlYyRFVlbnRjMzZrRTItbG92T2lHdzV0b1hfM3djT0tiakZaYXhiU0pSbndtY2ppcWxIRU96RmRrR1g2NmJtNHpLYUpoLUczTDBJRC1TRlFDMTd3SC1fWHhrVXB2aF9laWdpbXBuZkdzWk50djNKd0N0YWRfNHFlVjdfb2pyaVROVWZtUVk5NU5ybzhhUi1KSlRz0gHuAUFVX3lxTFBDTkxmMjF3MlBCX19EanQwaDVjZVBIQmZlNXNFTml5WkZRSHJ2OTA2cDVzcXZqZ1F4ZHRfTHpLNDJZZEh3R185QkxTankwVFV0emZQOWdEWFJ2V05CbXVxV0MycXJwaXFwNEtodU0zQmNJWE1XZjlmWHVwTVdiZGdWOTg2TGY3VFpYVnNLdmw5dnZtRHVHa2tqSzMwMUJIUnhldk90aUc0UXBsVUhPTWdoOGxxejBCd1RIRGVZM0VDdm5MdThYT1VnU2tlUXdDOWZyN3o4LUlGTTl6ZU50QmdJSy1HdHdTWW9mVUFNRFE?oc=5",
    "summary": "",
    "image": "",
    "source": "G1",
    "region": "BR",
-   "date": "2026-11-14T03:00:01+00:00",
+   "date": "2026-11-14T03:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "e2732d3211",
-   "title": "Eleição do Vasco: veja propostas dos candidatos, formato e cenário para decidir novo presidente",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnJlb2FWVmwyUlVGb004dk0tdmpvWUtpUzdybzlMYU0ycmRJSWN2OHQ5VGpQakVrVUVhSDJvd2hnbmFFeEM0Y0VlVWhJeXVYZXhidjNibTdRdkV1eDJsX2thZFBBQXhOX0g0MXNWc2dIY3JlQXFieUpyR3V5eTlnQk1NMTI5MUNqS0ZHMk5DLTgyeE95WUl3MDV0M2lHazhNVTdOakZXVlk1OUUtR3c5QlRxdWNWSEQ0YTFSTHZpSC1uaTQxQVBDeHBVRkRBVk9famxyVkJPSWUyZUhDYzdFeXhocWZxZ2lRYWhiVmJzeWvSAf8BQVVfeXFMTW1lZFBPUXIwVUdqdjhqdGNmSzZjVFdwWEhEZ1BYOW1yNmtMdEVJYnJsa3FibUJ0WWFlTGRSY0ppdUhmNGk0OVo3WDluWUlScFIxREFxZ2t2UG5pNjFmMEZhV3F0MDIzSnJZZzNaNEZvVklSeFZOY1hqZTlPNjF6NTV2WVhoWUdYd1JPa1plN1Nrd3BjQUpaMVdudWxQUHg2OXZkTUk3bTVnYXA5bEtzVEo2TDg2VjhkUHV6emo3SnhpRGY2MUVTRmlfTm4wcGVZMXNFUTVSU2FEdlN3X2V4MWV2S1RQN0RnRVNUdHpRa2h6NzNFNk4ybDdTQ01tQXY4?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ge",
-   "region": "BR",
-   "date": "2026-11-14T03:00:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Politics"
+   "topic": "Tech"
   },
   {
    "id": "27b3cce990",
@@ -293,6 +310,23 @@
    "topic": "Society"
   },
   {
+   "id": "9c9f64f26c",
+   "title": "Escalação do Vasco: time terá desfalques e meio-campo modificado contra a Chapecoense",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTEZrNGR0MlZadkYzWFNTWFZyUmV3bmV3TzVFQklNMmhwM3hsUmtFVWJFNWp2dXA4NExjWlptMFJqSnE5OTRlSGpyRlVSUTFOeFpqUTN5c05yTzl0ZjRlcTdmOHI0aVNhWmhYSldRQ3o2ZElneWVXRjhQU1lLLWJDVHhpRzhDNzV2OE1HNUpOU05aYUdPYlpPTkJ2dGNFOGQ3ek5ZcDFDdWZLSGpjaUNzcTJiRmtKNGJEaGxoR2xTOWhfbkRwMllVaHg2RFVfdEtiOWdxQkFfbmJlSVlOSTB4NmtJRFPSAfMBQVVfeXFMTnAxZW9oWVFKeUFhQzZmNnFOWU1mcDZWU3Ryd3FDR3JlZ1ZHRHItbWdPSXBQU0hIVjlta0VMUlhDdGU1STVKSHdjQ1dwWkQ5U2JDN3BwZEZVLWhQWVNEQkdDLTlfUUhrZWRqTzhETVo2OHBPcHQ5b3F3QkxrbDJZRzNPU3JQdnhGdW8wTXJuV1ktRUEwWlprbDJrTHhuNXpmaG5SaWVTUWczbkJUZk5nbmJsTEp3N0oyakQySlFaMmlfNVhHclZRT0RtUkdBNlhIUmJSbUNJZ3ZxdkQ1MFRqQUZaNlR2ZDVIRE1LVjJybHFmOTJJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ge",
+   "region": "BR",
+   "date": "2026-11-13T21:58:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "02018de59a",
    "title": "Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF94d1lCTTNSVFQ3NTFXUkFWUjFLV2I4Qi1rREVaaDBLZHFXT01uR2dhNjdLcV9sSWV5M3ptTXoyWHplOGsyTmRxTngwbHhXTUpmXzZ5VVF2b3QzRVdaR1hLeHFhVlN6V1dVQl8xZ3Zya1ByU0FTMnptUWlOazN4NFBMUkNNdklHcHF4QTJ3SQ?oc=5",
@@ -361,14 +395,14 @@
    "topic": "Society"
   },
   {
-   "id": "26fc1f1641",
-   "title": "Ajuste fiscal do governo pode tirar R$ 10 bi do SUS",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWY3dVBYcnJfY3BOQjlnTjBVMnJiUnFaR3U5dUxLZmtSUGZBaS1zbjhNdFJTQ1FNNE5oMUhsNzZPSnl3eTVNanRjT2VFZVhORGlmNVhZRTZpS1RtWTVCSGFuTnVPamdGME5hbm9xVktKRFhtV0k5YzIzWXBndDM4eFM0dnR3dFl1ZmtvRkdKNzZtOTA?oc=5",
+   "id": "79d333e235",
+   "title": "Opinião - Marcos Mendes: Lula atravessará o Rubicão?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFUtb090T3hXLVE0dHFDOUlKWmU5bHl0X2UyRDYxdDJFR0F2ZzhkamdLRTR5MENpQ0FHX2pkaEFVMDNwb0pKcGpFZnhaZklybzFhMXl1elZpOWdjVFhnX2R5R1F6ejRfcWNGXzJxOGtXXzZIQ2djTTl2cEhvSExEdjgyaEhOZ213NzBnRm0zbGkzekVTMUl3?oc=5",
    "summary": "",
    "image": "",
-   "source": "Outras Palavras",
+   "source": "Folha de S.Paulo",
    "region": "BR",
-   "date": "2026-11-13T18:27:22+00:00",
+   "date": "2026-11-13T19:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -412,19 +446,36 @@
    "topic": "Society"
   },
   {
-   "id": "946805788f",
-   "title": "Portugal: Mãe de menino mutilado em escola cobra Justiça - 13/11/2026 - Mundo",
-   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOaUJTcFkzYWRmTnZWbkgtQVkwdVhkTEYtRjFrTFU3bER3MFZKV19KcWM3cTB6Z3pXM05YTm1QRDQwaXlqdVNLeElUMTJjVDJObV9FSUNlVGdpR0F5WmRJN0YwMS13dEFFcWYxVWNHNDFDMXVOcWx3ajhzY3pRUFp1OHRPTWpWZmM0NzNUeGRjZ0dYZGJPZHZwRzNobjJibDlWR3ZfcUNsczVTUDhwV3FrdkVGbS12MFNBT0Z4OUFiS1B5a0F6ai0zc0pERng4SmJrYTZxbGpWc1dCdWViSlp2dHJkUWNzdDk0X2xrS2RsUkdWMXBDd245cGJaU3RzV21nbFU1aGI2YkNmYS1YcUdSbXRDQzhWZ2huZ3B4NTBQOGprYnZfT2pGbjhEazR2UnZ6eEhmeHFR?oc=5",
+   "id": "a135d36ef0",
+   "title": "Lula posta chegada às Filipinas e fala em ampliar investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVlCUVJrSmxzcHYxX3dyOUJQdkZuV3NqUGpNSUZsWHZFMnBWV05hSUhCVVIwTmVpYkgxR2VxTnpwbHZRa2s5Mnk2RHFwbkJKazlRekVlZFJtelVmalZDbGVEUG5YRDZIcUpvMm9kM1I4MDVTVkthOWRneFVHUDNleFJEYTNZa3lIQTVOSTR3Q2UtM2xjWnh0M3Z1N3FYTmRrcTBvbFF2cTBYdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Folha de S.Paulo",
+   "source": "Poder360",
    "region": "BR",
-   "date": "2026-11-13T12:59:00+00:00",
+   "date": "2026-11-13T15:04:05+00:00",
    "coverage": 1,
    "location": {
-    "country": "Portugal",
+    "country": "Brazil",
     "place": "",
-    "flag": "🇵🇹"
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bd1b10c6d5",
+   "title": "Morre a cantora Claudette Soares, a 'Dona da Bossa', aos 91 anos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0tPUFllU3FrcWFFMlU0anA4MmJNenNfUFA0RFpvWFpnUzlmVFhzQTlNMWFFeWwtMWU0LVZrdFpzUGFxU0tnQjJHSDJMRDR3X2VGRFNyd1RySVRfc1RBNE9NVWhhVWtWRTNfeFI4blVFdWZ6Y1VxaFFTdkt5azdKM25oYU9oYzFadDNYTTNDbDdBSHRTc290NWQ4eDJjXzdBQVhZetIBswFBVV95cUxPOUZVTTM5OFlTV1JIbmFiMkljMHZqQnZXSWZITVNJNHRhdkV2bC02RnlGbGNkd0R4TkpzMWtLQ1pZNmV0NWpwOUY0d1NESHJpcXB5aEgzZlFaa2Y5YmdLVDBzZzdZR1cwVDkyTE9teVcxYTJDX3FpbjY5LVhSb3RFMnViWm1FaWY5QTdXcFBXdkphVlZtT2oxYk1rcFVocDlhbzdZbjNPNHBrekVmVk8wanZ4TQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-13T15:03:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
    },
    "topic": "Society"
   },
@@ -454,23 +505,6 @@
    "source": "O GLOBO",
    "region": "BR",
    "date": "2026-11-13T12:11:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "65856258ee",
-   "title": "Relatório da PF aponta que Moraes teria antecipado voto a Vorcaro",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlVfSm5XVS1XODd2WjB4RXNFcURtRlNCbnNqWWRpeHR5UktEdkRHVV84ZFl5bHJHOE5ob01NRDZWSXV4X2JxMFZYWU9tdkxLVWloek1uTExCTFRBcHZ4bmx4aDFUeTBsY0U4ajhNYmlqM0gyUHU3OUZ5eTAtdjlMdHlOMWYxSnNadnJFaUZoaVpnRXlfM3A5ZjVxZ0M5d0U?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Brasil 247",
-   "region": "BR",
-   "date": "2026-11-13T10:54:39+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",

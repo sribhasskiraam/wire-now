@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
   {
-   "id": "0b24437860",
-   "title": "One person missing off West Coast beach, four rescued after water 'incident'",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ1hQX2dvMXNrSkI4bHhCNENfekJrOGFTQmVyUkRtTVlvYzVXRS1HRVQ4aWk2QU1VVjg5S0JWSVViYkV0N2U0MXZOZnkxYnhYQkhUT1NpN1MzUVFPelRiVGtpclRCNERMRUFYb1VlWjZyWkpPT2pUMzJTbXA1RkFpZzBuMmNtN1dVQTBDUndKQWtFTThxMjkxekx2eTIzVWRLUGhzYmVPa2k5RGVpRzllTkl2VDE5SmpBZnNFOTNWa25ZMFZMbk9XNEhhQzNIWTd5a1pDUjBrQUtMV0lKUjRkUWY0UlI0VjE4bzlrN09sMS0weVFkUjhoYzFfeVROUUU?oc=5",
+   "id": "5df8178d98",
+   "title": "US billionaire's $300m superyacht spotted in Auckland",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1NCM2Q3MnVUbTltU2lJTTUzX0ZSMFhTeXlWdFFoR1JPR1dlcVQzMzhqNWg5Zmx1bXBSU3J4d0FuVWxXeVRyR2I3RTZvOUhuNEZOdjBuV2dmeGN3bnk0eXc1UkNidVhFd2RNSEliMS1FckxZWENwcHB4NVpzSmFLM2NCNFd2NXpIRTk0SDlYNUJTbHR3bURqeGRjN0k4bnl5RjJKWFVIN2FtbGN5NVhSbGw3dTdJQ2trN0RfeG1EdDVWX3VlQmloQ092bHJXVGRS?oc=5",
    "summary": "",
    "image": "",
    "source": "NZ Herald",
@@ -37,6 +37,40 @@
     "also": [
      "New Zealand"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b91336fa8d",
+   "title": "NZ 'deeply disappointed' at US advancing investigation into lamb imports",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2NnNDFBZFFBSlZhdVVYT1UwQTljbndBQ0FlcDNRZDlsZXNTZHhPWGMzVDJSbGdxc3RqYlM1dXpoVzVEYnlHY2tYZEVsRWpJZE9LNTAyLUNsUERSZ0Q5a2RHR0RpamFjel80RS1Wb2F1ZzV5Y29SOXRBYjlmaklKVUJiLVczTnowNzR4Z2xTQzRiazRVU2VxaU0yRmRwSXZhV0l3c3RoRVR6Wnd4QnQ1UGtJdFBKRnBweVY2cHBQelpuN2s?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-14T08:03:23+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0b24437860",
+   "title": "One person missing off West Coast beach, four rescued after water 'incident'",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ1hQX2dvMXNrSkI4bHhCNENfekJrOGFTQmVyUkRtTVlvYzVXRS1HRVQ4aWk2QU1VVjg5S0JWSVViYkV0N2U0MXZOZnkxYnhYQkhUT1NpN1MzUVFPelRiVGtpclRCNERMRUFYb1VlWjZyWkpPT2pUMzJTbXA1RkFpZzBuMmNtN1dVQTBDUndKQWtFTThxMjkxekx2eTIzVWRLUGhzYmVPa2k5RGVpRzllTkl2VDE5SmpBZnNFOTNWa25ZMFZMbk9XNEhhQzNIWTd5a1pDUjBrQUtMV0lKUjRkUWY0UlI0VjE4bzlrN09sMS0weVFkUjhoYzFfeVROUUU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-14T07:13:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -228,14 +262,14 @@
    "topic": "Society"
   },
   {
-   "id": "16bd5e9e65",
-   "title": "Delays expected for days after US lifts nationwide flight halt",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtkaXJXU1B1MFRFX1k4WmNzWTR3ckxGMVBHZlpyZExFQTd3OXo5UUlUcWkydkdyOXNmOGZsWFhaTE1tUV9scGdva1g2a2NpaE5DQXZiN2h3VXpkcVd3RU9ONXdNSE5KdTI3bVdYSGhEbUZXNDV4cmFkZUNDZzFhVWNGMjhERy15Q29CenJwVzNLd2FxVWRvUGNKRmxQQ3A0SUQ2aVNCeEhteWlOaVJyRl9ZYkhBRlJUVUdTQzgzdnkxTmUxQ1BrNC1Ga0x4Yk9OakE?oc=5",
+   "id": "f09ec99547",
+   "title": "US loses measles elimination status as cases surge, vaccination levels fall",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR05ydVlKN2xaUXlpTEJSZldka3ZZVHNjOUNFVEVYcUx1QTRJcnNNWGk4T1JDbjgyUDdVaXZXV3N6NHZKYk9YemFBcnJ5bkJBVFpHcU1vcllOLThSVUY2Nkp1MXozSDBBN291cHhhZ3ZMaEc2aGdNMEtnTlpSSG9zbkFsUG9qaW95cENkVl9IRDlVcFdRSE1EVE9FRkZjSERCLU03cXBrMjg4WDFHdjFZRVc4ZkUxdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "NZ Herald",
+   "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-14T02:25:02+00:00",
+   "date": "2026-11-14T02:00:42+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -245,14 +279,14 @@
    "topic": "Society"
   },
   {
-   "id": "f09ec99547",
-   "title": "US loses measles elimination status as cases surge, vaccination levels fall",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR05ydVlKN2xaUXlpTEJSZldka3ZZVHNjOUNFVEVYcUx1QTRJcnNNWGk4T1JDbjgyUDdVaXZXV3N6NHZKYk9YemFBcnJ5bkJBVFpHcU1vcllOLThSVUY2Nkp1MXozSDBBN291cHhhZ3ZMaEc2aGdNMEtnTlpSSG9zbkFsUG9qaW95cENkVl9IRDlVcFdRSE1EVE9FRkZjSERCLU03cXBrMjg4WDFHdjFZRVc4ZkUxdw?oc=5",
+   "id": "4eddc6c815",
+   "title": "Flights across US resume after communications failure grounds planes",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFZpRjBnb19sX2QtZmRzSUFlY3djUjE4X2l4VUZEaS0tRm8tMWU1eHFxSzdEZTBTZUVYbkV4NFFQM3djYlVZUUxvdHROeS1hYW80MUFBMTNiV0Y4VmlUZW5ZWmRUZ0VfN0lURmF6ZW1UUVhqeXRJWXZ0bjVKVXJFQ0RZa3lRbmYzTERKdUJCTUt0TklNZG1lOThJeHllbVpiNkRkcWs2OGRSaFkxQnc?oc=5",
    "summary": "",
    "image": "",
    "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-14T02:00:42+00:00",
+   "date": "2026-11-14T01:43:58+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -296,6 +330,23 @@
    "topic": "Sports"
   },
   {
+   "id": "2bb0e509ec",
+   "title": "Whangārei man arrested after 15-hour standoff with police while up a tree",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFZJUnl2eFlaeXgySVBzSnUwNEpqU1lzcGdFMEltUTk3N1prMkFRcFRsRy0ta2pQTTlTMldfZ1M5YXowR2lVNzNFUER5bWhwNE1MUDdhY1FWV3BnUWZqSG9DdjFQaXRPeEJpeWtXelJGclRITTl1NXhkd1lEUUNCOWhEc2VDRklIU3EtMzFCRlUxOWI4VFYyZ2E1ZFFySFhiVUFIalFRd1hSVmY1UU95VjhCcHFLQVpIZjloV1VUeHVvYjN1?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-13T22:37:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "0f75046558",
    "title": "The Kiwi tech firm trying to make waiting for flights 'time well spent'",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEtiWGxLOVlKbXlfYmJwNWZGQmtYb1plUEJfZHQwY1BzbnV4YnZKcDdzV3hTUlpKcHV0MzNGZ3hfTThLY0FrWnZhd245R0xuQVA2dzJwZEVBcktudjBsQmVLVUhHN0tabWJwYTNVZndUQThhMDItanNMOGhTNTgzUTZQUXoxVGRENUpVUm84OGwzeGhnR2ctaVVzeFpVbW1RcmtWajBVenlYVjIxMW9ldGdqQQ?oc=5",
@@ -316,6 +367,40 @@
    "id": "8282507f28",
    "title": "RNZ chief executive to leave role early after shock $12 million loss",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVY1YVdaSjlkcVlEOG43cWVHMko2Y050SjlVLXZGQlo2RDhZcW16TmtScjlUTmNvNFRVOW9KSk05dTctYXJPNXRUWEx2WW1IZm9MdEtxN29HOWk3by15SXp1OVZBeTlXYWxjYzMwUDRyNm1nWmFtVzh3QlBBQW1EWWFwX3N2NVoxOEoxVVZOZTFyN0d4LVBtdnBCWmZ5X0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-13T20:27:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b61f96453c",
+   "title": "Best Apple deal: Save $9.01 on Apple HomeView",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45djQ1MXZkaTE0ME8ybGxkVGV6akp4N2s0UVdrMVdEU0RzQjhPcHB0NFdSSy1vVTRKLXNHcnkxWm1GeUlMOTJId20zMkpESW5GbUs0T2Y5akR0SGU4UV9QMWczWXdtbjVtS21CSEtvazBOTHAxbFV1bnl2dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "NZ",
+   "date": "2026-11-13T19:07:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "53679dbfa9",
+   "title": "UK police launch sex offense investigation into children’s author and comedian David Walliams",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3kxQWRGZndIY2I0dkRtdzJrYkdCZm1TdElwaUxobWQ1M0NVRzM4eWlvMDZuSC1BTklsd3pmemg3bGs5ckV5dFNmQU4wNmpBNGZiQ1hLMlJWYUNjc2hTaUZ2N00zbHpES3dic2xia2MzUlZmamZRTmw0WWg4cHJLa01aNEpjNEh2SnVqczJTZFFOa19iZG5sSWx6RXBaaWZPVkE?oc=5",
    "summary": "",
    "image": "",
    "source": "1News",
@@ -381,21 +466,21 @@
    "topic": "Politics"
   },
   {
-   "id": "ffe6772271",
-   "title": "Ten songs named after famous people from Nicole Kidman to Elon Musk",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUVxQUdpcndteHJjcFR0TERNSHBIU3JIZ1hGM1BOUGl3aEI1M3pmR0ozMjJRQ2JTN1NsWmpXLWxhbVlhbzJRaURxZE84eEJ6ZGNFd1M5ZUt5U25TOEllaTNCOVQwbTRGd1hwd0JzdEVIMW5LQ1ZsUmM5bmRDNFNwMjg1VWZ3aklVUTVFWkgyaG9lM21nZ3laZmRhQzhoQ05QWnc?oc=5",
+   "id": "c219015b81",
+   "title": "How to wipe AI from your life",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2pjYk5VMDd2Q19NZWNTV1YzZnE4czh4ekN1TXFtQjNuQVRVcWxlR0JWUXVTR1ZDTUNGcFVYVV9QYVpnMzJWXzVUbDNzWW5SclhLUkRVaDdzZmVlUGIyeVdQVFBkWWg5TGw5ZjJIdEFmS0hZOUstZDh4Wi1yS0hZblFfOE9OV09fdmlZNkJ1SklfdVBrZVFCQ0pnTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "RNZ",
+   "source": "The Spinoff",
    "region": "NZ",
-   "date": "2026-11-13T16:02:10+00:00",
+   "date": "2026-11-13T16:04:20+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Entertainment"
+   "topic": "Tech"
   },
   {
    "id": "62da31b1b2",
@@ -449,21 +534,21 @@
    "topic": "Tech"
   },
   {
-   "id": "2c1f9388e7",
-   "title": "Microsoft launches Topic Portfolio in Bing Webmaster Tools",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0hQQ2Rna2ZIcm9nVTR3OHVsSnZDdzNuRUFKTFZFOHRDSzc5bEc2b0FjOTlqWGhfSFhjNy15ZEIybERWQ1lxcHNmS04zcW1sc2N4bzJweWpIT181SFFqX0lxZk1jR3h5d09HeTZwbHpQLVpON1R1dVZjSVRFREltcDNxUWtQbHNYY0pKV3Ntaw?oc=5",
+   "id": "39fbc6f9ea",
+   "title": "Thieves steal ornate lion from cemetery monument in overnight raid",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmg1QVZhWjZxQm5kYWI0WHdBajVFRmZwdzh6eU9aRGY4dXdIeE9QZjBEdEZDWWowekUtdk85YUtYWFRKOUdEd19VUDRJRmczOVVFaWxUU3dJdmtrTV9xeVRMYktZOXdEUGRwX3R3SXJqTmkwcndPaTVVakFMOEZmTy11X1hyb1gxLUR4Z19va2tFRUU0MVE5Y1NvNi15TkdEUFE?oc=5",
    "summary": "",
    "image": "",
-   "source": "IT Brief New Zealand",
+   "source": "Stuff",
    "region": "NZ",
-   "date": "2026-11-13T01:50:00+00:00",
+   "date": "2026-11-12T21:33:54+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "ed2dff83d5",
@@ -474,23 +559,6 @@
    "source": "New Zealand News",
    "region": "NZ",
    "date": "2026-11-12T21:23:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "211f999ede",
-   "title": "'Disrespectful': Thieves steal ornate lion from Feilding cemetery",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTjZLanRMVllLWHVYcFpKMEZmOXNKckZxS0VxYlhWWW1Tc2hhZXJZWkx4a09jSmY5T3lsTWNlaGtvOFE2a1BxbFdrUmRROTE4YVVLQXhyZ1o0UXlSdkoyY0YyQmNmb0VpLVQtMlR0bGpwUXh5aUlnNHQ5dmV2OXFJaWozTUcxYWxtWWhIYkpaSlhxaTlacDEtTmtJdWtmU1k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-12T20:51:22+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",

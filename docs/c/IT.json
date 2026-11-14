@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
@@ -12,23 +12,6 @@
    "source": "Sky TG24",
    "region": "IT",
    "date": "2026-11-14T09:07:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ef714b6778",
-   "title": "Starship, fallita la sfida del doppio recupero: la torre non riesce a recuperare al volo il booster, la navicella ancora in orbita",
-   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQN1lndVJXeDFEbzNibG5xZHk2R05MQ0V5T2JYcW1nV1VvT1VuOUxjVmp4TW9hRFlUeTJWVmQtb2F6UngzN2w4YU9NTW9lMG5OdGRZbFVZVHBpQl84ZUNwd1hENV9sYVdvWFZvZ3JOTlMwbUxLMHAtNklIdnhrMmdUSGdRRTYyekJsZ3hsaDRFTy1MT0NGczkzZE9FQ2dFeXkxMV9kdjk0azJVRF9td1BQb0dUWkVsR2hIWC1pbmxqdm9pWEVIWnhVQTZpN3doSU5ZN0I0RnNsckg2LTNJUTVKc0N0cjJhamV1eG1BZGlyU1JEOVVhQWtweVBpLTZpSXBiNGYzMFU2U01UeV9PUzluM0tuZ1JoTTQtNzYyRGN5aDhYTUZnTE92Z2R4cVhwb1FMalBZ0gG4AkFVX3lxTE5rUTEyMEZVZFNQVllyMUpoSlJrajFXa3A4X2tBU0JldGZGRUZtZzR1WEF5cXJhdEJjOFotRVRRemd4eDN5OWlXYmJReExrNDk2V2RFbFFSRGtzTmNjNFR5cVg1d1JDWDZoOUt6T212N0lMazJqbXV3ZmxGdWVNODJKbVlzUVdtRDdzbWJ6aVc2NDlKcnA5Z1dCaVJvdXRQYWpUeFNuRE9wb0FHTGxXcmIybHQ4eVM3RGhJcUd0d2dLWG4weG1Kanp5aTBESG8wWHdvZGtmelNjbXotX1FXamVmNTJYUC1mV0I5Rm5EQ0tzWWhmNllYdDF4WUxidlVBZ2dPYU9kN0R3WWRieU5IVXhaVER3WEh4aGR2RWtURVYwVVVrdTZRb3VxSmE1NG14S2NCaDlIMDFBZg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Corriere della Sera",
-   "region": "IT",
-   "date": "2026-11-14T08:54:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -68,6 +51,23 @@
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "09915cb0cf",
+   "title": "Colloqui a Dublino, Kallas: la Russia sta mettendo trappole, non può scegliere lei i mediatori",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1VzS2lSN0hiQlpwWWo1MGpDb2NhWm1zZ0RoNXE3UVltRkNaazlwVFJmUkRPcWNVT1ZZOUNMQnJJR2lWLWJiQVctY3FTVUpZRzdTcEVDNW1NcUJZc0l5YkktZnUwNi0wVTFGcldjRU1HVGdXMlJBdEx6MUZtTDBSVEtkRnZxYVptVWZCZ2t6S2toSlhjOFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "La Stampa",
+   "region": "IT",
+   "date": "2026-11-14T07:44:12+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺"
    },
    "topic": "Society"
   },
@@ -114,6 +114,23 @@
    "source": "RomaToday",
    "region": "IT",
    "date": "2026-11-14T07:19:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5edfb17f1c",
+   "title": "Aggressione tra le mura domestiche, un 16enne colpisce il padre alla testa con un martello",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWczVHc5RldGZWNYVVpGc2lOOHBxRGhyN2NfLXVhRHRtRWJnMXVEZnJFbWlfS1lJQVE0VjBXSHhLdFdzNW5WOGVCckdtb09wYmJhdGl4cWk3VGVUd2pKVmdrUDlVc2dpVm9vR1U3elM2N2xPMVJ5UlFyU18yRmI4OFVISWRjNWNuWDFCMkRiX2ZNNDlzNGxrUnExLTVmSkdj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "LeccePrima",
+   "region": "IT",
+   "date": "2026-11-14T07:19:27+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -172,40 +189,6 @@
     "flag": "🇮🇹"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "2d380ccfe6",
-   "title": "Incidente nel Milanese, schianto frontale tra due auto: un morto",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclowc1ZUY2dMZVFrTTJrbU5ob1RmRzhuT0dXZ3gyZ01qLTdUNDdRcnFpSGx1T2NNWFVFSTdwSlVPdkZ5TElDemVCSERDdHE0Y2xHUW9adXIxNzJkM3NIN3pGYzkzOGZnWUNJSkQ3bk93dTB2U3RXVlIwbXhRMUhQLWZ4YkpQNHg3c1lCSTdsMnlGY1o3clloUlZJbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MilanoToday",
-   "region": "IT",
-   "date": "2026-11-14T06:34:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "226095d7cd",
-   "title": "Il ministro Lutnick sotto accusa per i rapporti con Huang: Trump pronto a scaricarlo?",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEVDQ2ZtWGxvNGExTi0tWlVCWXpBVXJ6YlZYc1IwQTQtVkhTR01JUHZleWtrNmJGN1FZMHpMRHhKa3c3ZVgySEw2RkFiVlRicVJVaUdMeWJ4NlNpalZBQ2RpY19DLXBFU3hBSGhmX2gxY2lSLXhQeVU2N1Z4aXlqcldGU2ZpZFpiWFF4aThyM0pUUlB4UWtlc1J2YWZHRnRrSzdobFpBUllEMndxb21pMHBXT25QdzDSAbwBQVVfeXFMT1p1N2o2eEdvdTNackJMSTBfMkd0dXZmMHFmN3JiOGlHRkpKdzVSc3d1UE9rV1NTdnFoZ0ZKSVZsN3B4V2ppaFIzT1k0VGNBallEZmxxbnJLeVJ4NW1CaEdGbU9uS0ZvbmRmd09PcExsWDhsTGNYd1czQVhwRTJyZ3l6djZJYk5CTUM0aGxmRm9FZHItX3pKaDN0TlF3ejBoeGlGRHFheHppaGZhY2VmRHVDbWhRLXlSYVFVYXI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Corriere della Sera",
-   "region": "IT",
-   "date": "2026-11-14T06:33:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
   },
   {
    "id": "e5d49e0dd4",
@@ -276,6 +259,23 @@
    "topic": "Tech"
   },
   {
+   "id": "ead60e4268",
+   "title": "Starship, al via la missione ma il booster finisce nel Golfo del Messico",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3gzc3F3UzNTYXRnZ1pId3Z1MHFQU1pXNWVtTkgySEtCT2duSzJvX1RXRmZiYnhMbmk3YkVLa21ONTdoVGxNczZENXloSkhyVzV4MGtkSUVmZFZZaURETGdXb0JXUlpKMzVYbGtwVU5EN1ZGSGZlLUhBS3ZVdThmYmF1TFo1Z0gxZWFvWXRCWlpBVThIcURWM1ItVWJlMUNSNWJ1d2tlNWdqeFc2dmNJNlpWZ1lTMGtYZkIyeUcxTTdZeFo5c1Iw0gHMAUFVX3lxTE9vMXlIS3JlcF9NSmRmaGhXb0Frb0lpTGZ5NXVCM0VrTy1aNnNVZEhMQjIyRktKbWVibkJ1WTM0a3hTdDVraXA4WmVfanlaTU9aX1FERkdIdnZxLUlWb2o5WFpKYzNRckxrQ09XNlJ0VTRhSWs4Y29OWVJVeXlKQ0ZNamQ4Snp1ejhXNm1mblduOWQtaGhiS3dOaEVrRXlSeF9ueVJEcUlOLUJXd3RJdGhEVmVVUWlucWVpX3IxN1Jhd25DZkJBdXNlSE9ITw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "la Repubblica",
+   "region": "IT",
+   "date": "2026-11-14T04:22:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "9432c4a7aa",
    "title": "Banche, prove di disgelo tra Meloni e Messina ma l’Abi minaccia ricorsi",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHV5ZElxT2g0R2o5NnJ0NTZtT19VckRfaWlfT3lMYzFGRWNGclo4enh4bE9GRjZfVmJsNlEydzdremVsc0Z0M3ZKejIwanQ4d0ZIZXE0TnNITkJKUU5nZDBOUjhVeGRYQnhTT1Ftc0dMM01sME9qUHU5aWhXRUpGYzBzSDk1MXQ2S1BiU1piN0U4dGZTRVd2RnBsaEUyZzYxV21GUXN5azhzOFc4a2dCcVlCNWFlSmNjR3fSAb8BQVVfeXFMUEJ1VEpWejVQOWRsTlRYRkVXT2VYRG8yZmhDLWJtSERBd2J0YTZFT0VoYml0Qzh4ZER6RmtKZWRScGZoVnd4M05keEk2ZFZOdHdmUk93X2JMa1F0RzB3ektOTDBzLUJzUllBWnRLXzRTSG5ud3lKdXBSMGVqNUZlenFScjd3WnNVSHAySXcwNTlmRl9pbTZtN0E4WG02LTdGLXZZcFQ2dThTbFV2YThNLXBLSDZtYzlSOWpZYnByck0?oc=5",
@@ -308,6 +308,23 @@
     "flag": "🇮🇹"
    },
    "topic": "Society"
+  },
+  {
+   "id": "f5cfa19fde",
+   "title": "Chip di Nvidia trovati dentro server di Shangai, così è evaporato mezzo trilione",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHdERmdJUUNHQS0zaEtrMnVlSXRKZUJBb29yZ1E1OUJYdFEtUXAyM3hCSVR2ZWhkSE1hOTcwWTVtaFNOdTlQc25mc1FVTWFRUWVfZVFIZFpOaElsNVJSVFpsZlJIUkJVYTNEbG1oSUttcmY0OENxbVBXRVVleWU5M3c2UG9rWWpILWtsQ2lveWQyQWZzbnhOMzhEVjBrYXZSNEE0Uw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "il manifesto",
+   "region": "IT",
+   "date": "2026-11-13T23:08:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Tech"
   },
   {
    "id": "52a3b0505c",
@@ -517,14 +534,14 @@
    "topic": "Tech"
   },
   {
-   "id": "92a21927fe",
-   "title": "Giornata mondiale contro la Polmonite: l'importanza della diagnosi precoce",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzZvZjE1UC1LUUVQR1VERDM1Q05PM2EwSDFtLW03Y3JIM2xKenFPWVRhQW83RXdrRUlUYXRoUGNoN2d5SVNILXYzWmUxS0FXbVI1YlQyRGc0TmhzX3RwMDRhR0psdEUwRjVuckJjYUMwSFBzQ3hRMG50eWw3Yzh3QVFnRlNndkdZOUpYSWd4R0swVm12eUR3SWwzU3ZHOWRCY0E?oc=5",
+   "id": "3600bc12fa",
+   "title": "Ipertensione, 1 persona su 2 non si cura correttamente",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTQ3ZnRqXzcyUFhVTWlrMlBBQ3VGQlRDeXZlMWYxZmY0NjdNaTU3S3p3N0lTdWdhdEExWk5zMzFpSHlMSV9oMW82Q3Z1SXBuQkJ2RVY2MG5RY2Vhdi1HN1lYdlRINDN1cUEzT3dsbURGamZrakQyM3RZTjRDenY2djR0Q25UTGY5cm5DNmpuS2NvNFlzcUpLdTVONVQ0NFlNb2tSdFVEeFlUcFl2MjRsSkdMdjF3aW0tcGZCYmxHR2NRMklDdW1lamM4Rm0tckthM3l5TUZLZ1JueVdaejViSzFjVTh3Vko3R0JZT0M0Y01qV2RwVGozWmlkb9IBgAJBVV95cUxOZVV1UUNSdUd5MkZjc01wVkZpVUxMbnVpeFBCUUc1QkpwbkdGSHg1T2IwOXlIajV6SDV5VGt1YjE4ZVgzTWgzeXQxcHluY3k0M0hxUXI3ZnJLbFVaS0tLbWpDN2ZVTjdoWkFodHRtU0g0SWlMQk90bXd0OFlVVV9qNnQtTFA2b0M1MnZybl9VVEdmN3RCWmp3QkpnT1ZTVEdhMUdldFpqSDR0TVI0N1FRSDdNZXhnYmpjekxXRk82MWR3SUFsS2pzbE9vV09ZdEVRb2FzenM2clJFVWtkTnM4blJUS1RNeFBzSlh0a29nLUdnYm1OdjBXSVRKR2JDOXpk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sky TG24",
+   "source": "ANSA",
    "region": "IT",
-   "date": "2026-11-12T13:38:54+00:00",
+   "date": "2026-11-12T13:29:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",

@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
+  {
+   "id": "b6e186a99e",
+   "title": "‘Stinks of a cover-up’: Warner releases fresh statement",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUTIwVzRoODYwMlBSMmoxSm9xc1QxWDNmQU9WZUFPcTFDUm0tblp5dDVjSVpESmVnSmk1WldGZHN1Y1ZhazJfeWcyRUpsMHpPWHZ5eG5fMDQyT251YUpwTVhzVUdnb3BkakVCTm5GZ2xMOUNpT3NXV2RIZnVYQzA0M255N2YtdXVHR2JVOUpFLTI2UW90WGk4Q21MN1l6Vkt6WThUeGRYLWVWZThWOHZWV3k4QmRiUV9yZ0hRZlRWUmtSa1hhUGx4ZE1xTlpIeGVSUC1lYlA3TGZ1eEZ6RktFWl9MQVBtbkI0T0pGbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nine.com.au",
+   "region": "AU",
+   "date": "2026-11-14T09:01:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b69d6b7eef",
+   "title": "Meet the Sri Lankan immigration lawyer handing out for Pauline Hanson at the election",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOTNqR2FDMlp4SjlTbHNZOUl1OGFoYlloczk3U0xELTd0RWVPc3BkLV9nRG9wd2gyYU1TbEtDZlNtenNLYks4VVRwMUhjX2R3R1kzZ3QzekVtUjFZUVU4N25aaXRnNFZucWFUTGtKeFNGRUdVbExsZDM0VFZZYmduc1JBMm9GOWFFRVJwRUx1aU9LTjFKMy00V1ZrelJORHVWTnROcDR3cmdDRmg0T3JLa1ZCR2phSTM0NHVucFROTGtlS05GNEVzUHdSZEtMcEVQV2l6MS1pcEhPYnhnSTh6TF9fRkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Age",
+   "region": "AU",
+   "date": "2026-11-14T08:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Sri Lanka",
+    "place": "",
+    "flag": "🇱🇰"
+   },
+   "topic": "Politics"
+  },
   {
    "id": "49628e8321",
    "title": "Scientists Discover a Curious 'Dragonball' Structure Deep in The South China Sea",
@@ -17,6 +51,23 @@
     "country": "China",
     "place": "",
     "flag": "🇨🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ab849a06d7",
+   "title": "Latrell ruled out of World Cup final in Kangaroos blow",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcVczQ0hDYlR6WGoyU2ZBb1R5SmtDQld0UDlYUF9HNG9xNHBWS2VGRzNVNFY2YmJZS0cyODAzZjVQQ2hkV01LbEJybDVIMklOMExqOFMwNUdIMklhZ3h5VjdhaDN0N3B3NFJKdk0zdWVxZjNsYjJ5X0JZNVFHRS1YanhIMHJMcDh0TXdjT0JiWDVGRnFvcmNZZEgzY3pEX3ZtNXJnSHd1NGxxbFRVTjBBWG1oazFpYmhRZ2VHZU9qY05LbHdDTVpLZ1ZwMlhyTmVNY1Njb255MTRwbl9yZ0xxb3FKU1VCeW9EdUhqRA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nine.com.au",
+   "region": "AU",
+   "date": "2026-11-14T07:56:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
    },
    "topic": "Society"
   },
@@ -56,30 +107,13 @@
   },
   {
    "id": "d346c5bb2d",
-   "title": "Geelong ruck stretchered off in concerning scenes in AFLW semifinal",
+   "title": "Distressing scenes for Cats ruck as Swans progress to maiden preliminary final",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFdUR2Fhb2U4RUNWOUhxYVFJU3k2TUlZLWtLMGpQUXFlajVsS2QxOHFWc3pyaGJtd3l5alBkZVJzQXZFenlLNzFfMnNMUzRGYzkwX3lzZE5XLXBHSG1VY0t6cnVVRmpyZzV2T2xkaXotMzJIbjg2ejNWQ0dvcEQxTHg3RWRYQV9MSjBramNwSlRNM2ZYWTgzWEJTdmdsNXNIVnRMOVFfN1lJZw?oc=5",
    "summary": "",
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
    "date": "2026-11-14T07:10:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5be6f6870b",
-   "title": "Katelyn McDonald's Sandown Tips - CF Orr Stakes day 2026",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1hWaUhMSXp5aDlJXzBDRVFmd1FjWW40R09CU0dzUkt3akxVOGg1c2tzMW1sNDZ1TDFmS3cyQnoxN2c3VXZWS1RVS0o1TF9hLWZKOHJTSGJXQWVGZThTVVFldHdidnZzRjJSWWRGMFZsdFNTWVh6TjF1TWZQbGxKcGcxYjVscVZQazdxUmdKclcyeHdDcDBrRmJ0VkJOM3hDWng3VUhaSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Punters",
-   "region": "AU",
-   "date": "2026-11-14T06:55:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -107,7 +141,7 @@
   },
   {
    "id": "2c16cb65f0",
-   "title": "300k+ cram CBD for Christmas Pageant amid heavy security",
+   "title": "Tightly wrapped: CBD’s Christmas Pageant security out in full force",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZU9hYWpZME5Ic1V2Z3lTSnZNM3FyOGhBZjNRV0tJSXVCNjZiaXA0UlJUYmhIV3MyUWxiWERROVZvMmw4ZXBGdGx1ZUtaSTI0REZCR29rbVl2bE5ZRFk4OWpfWFdtcUhNVVJnTWRsS2Vlek5TQ1BsbXhVS2dSX0N3MGdmcU1tNEpyRTJxMVI3VjZ2OHNQbFM5NHhueU1LOFBGZjB3Z2dzWVF1ZHVIci03cllwM3c3WDA1cGFicU5wN19QNjZPU1Z0cW5SQlpsemdvbTZ2dldtRXZzNG9sNW9sQmoxTkdfa29Wc1Zwc2Nva3BESW9tNW1yanJOZEJnUi1mSGFOSFd1NFBlVkFUUkhlcTVVbTBUZEdMVDYzRXpGRm8?oc=5",
    "summary": "",
    "image": "",
@@ -131,23 +165,6 @@
    "source": "SitePoint",
    "region": "AU",
    "date": "2026-11-14T06:07:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "31d8f60efb",
-   "title": "‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFduRnk0VlUtUkVaQ3ZXU1NBUnhPSTFwZEtSRWhVWm1mNWJ3WDdMNThyU1EwSGoxYVdvemJobENjNDFUNkN1NzQ5eklmVng2R3l5dDNmREY2a1JfSWdhSFA2cHQ4N3lqV1puYlB5akNzMmIyaG1JWHFQU1BRc2hJZ0I2SWNheWFrUVJrRHJfa3ZoQXFSQnJvY0ZFQzNVdi0zWHM1OXUzRG9BbzBjZDhvaUJkSGtjNGdsZzRMNHI0Yw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-14T06:06:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -232,12 +249,12 @@
    "image": "",
    "source": "Fox Sports",
    "region": "AU",
-   "date": "2026-11-14T04:18:46+00:00",
+   "date": "2026-11-14T04:57:19+00:00",
    "coverage": 1,
    "location": {
-    "country": "Australia",
+    "country": "United States",
     "place": "",
-    "flag": "🇦🇺"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -257,26 +274,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
-  },
-  {
-   "id": "d3f0bd1a19",
-   "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNUtPdjkxRmlwM015NVhDd1Y0VGloUTNWRkNkejFYdWU1a2lnSXlOQkVuZldXNVRLRm5TTUNTYzBsMUhPM1BFeXFwaGZfb25JX0xDaEhrYU1KM2JKV1MwUGZ1ZXRVNm9BLUlheThrb0hxTTBGUWRwVFdieHVRNEd1b09TQnRHV08xNVdhWFJkT25TRlN5ZVdaTk9rYlVVYWo2WUo0ci1BLUttSFQwa0NtbnRsQ05XNE9MYkRrZ096SmhxbDlPX1luQS1td3ByaWFOd1NlVEJwWmZCR1BPYmN4TXVhU1U?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-14T01:54:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇦🇺",
-    "also": [
-     "Australia"
-    ]
-   },
-   "topic": "Tech"
   },
   {
    "id": "1543bfcb2b",
@@ -398,14 +395,14 @@
    "topic": "Society"
   },
   {
-   "id": "24d81dcde0",
-   "title": "High-Speed Brain Imaging Maps Movement Control",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUtEZ0VrclE3N1VCYmVHcXJBVzY5S2tWS3NzR19zZmZ0NGpIYmprREFXbUNKVWl4TFhFb01SdnFZVTVHTVdsYlFDR0gzb2pxM0I4Z0wxOU52cVNMRFBxODM0eU1TdEtSMFFWLVVMU216QXVMbnFQTTQxRkdvRzRHMFpLWWJNWS1fSGc?oc=5",
+   "id": "4a93ef1d5c",
+   "title": "Longer inhibitory connections can push simulated neural networks beyond critical tipping point",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUpQUmZ2QXhoYmNfX1drM2lKQ0xXVUNqRjlZcWxDVDRnWUgtZ1k5S2t1VHU4YkZCWGxLLXFMbkxOaWpvT0J3aGZKUkZnLWl0WVFZSlU2ZWRfQm8zQ2pieHdaUi14elFaMmJlZ2I5bWRhc283U1h5eTN4WEJlNjVEMENzZGtmZjF4eWNnZUItSXQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Mirage News",
+   "source": "Medical Xpress",
    "region": "AU",
-   "date": "2026-11-13T20:06:00+00:00",
+   "date": "2026-11-13T20:00:06+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -415,14 +412,14 @@
    "topic": "Society"
   },
   {
-   "id": "4a93ef1d5c",
-   "title": "Longer inhibitory connections can push simulated neural networks beyond critical tipping point",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUpQUmZ2QXhoYmNfX1drM2lKQ0xXVUNqRjlZcWxDVDRnWUgtZ1k5S2t1VHU4YkZCWGxLLXFMbkxOaWpvT0J3aGZKUkZnLWl0WVFZSlU2ZWRfQm8zQ2pieHdaUi14elFaMmJlZ2I5bWRhc283U1h5eTN4WEJlNjVEMENzZGtmZjF4eWNnZUItSXQ?oc=5",
+   "id": "37dadae4a7",
+   "title": "Why the Microsoft 365 outage is different and why it takes so long to restore email services",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0tmQVI4bVFmZ0MwQWROMXJZanYzMndxZnFnUGNlUVZOa2dCTzZKWmN3YlRnOWt2S1NCTHFQVUJRenJMOC0tWV9CckZqcjdtd01xM0pGUjlxMmh2MHNWRlFqem1FVW9VbHo3UjB2ZEJBOWw0UC1sZ2dMTmNkWnBTMmdDYUR5ZHVaV2d0NGxSd3VWOWdxekdlU2N2OTVESmhzdXRKbDZZY1RUaUt0cWh3RGRZdWxRbFVnUkFqR1Zzb3lLLVhfOXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Medical Xpress",
+   "source": "The Conversation",
    "region": "AU",
-   "date": "2026-11-13T20:00:06+00:00",
+   "date": "2026-11-13T19:45:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -534,38 +531,21 @@
    "topic": "Society"
   },
   {
-   "id": "a428049048",
-   "title": "How Jensen Huang’s fall could ensnare Donald Trump",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTUt0WE9kNU5ZV3RCa2pNRS1tam56ZmV0Vmppb0ViNklxYkpCUkhEOEoyOE0yQXhBTmVmdG9rWVp0ZUQzbUlpbFRyMFNnU090dk91ZWJacVh1UnhRTVhOd1Z3ZGRsTG1xMFNaTll6cXBRaGtDMlZGTnA3M3ZsS1hOTl8xWnFlRVN1VGxucWlkcXYwZzBzbk00UnFBOEJUdFBMdmtKWUZmc0h1U3VJR3JRMmF1LVROQlNUa3RER0tNSWVZVElEdldueXBnVnY5aGt6dlVTZkYxTUJOOFlrWTZrT0h3RFpIUjdiWWRXeFh2azhQYk1yMVNtS1dYMWU4a1NLYzRRVTN2ekEwQQ?oc=5",
+   "id": "97a8c75c1e",
+   "title": "Clinical vs Preclinical Obesity: Separating Disease From Risk for Disease in Obesity",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDhKanhlQ1RmbTNMLXJsREZYVUFvN3c4RWJNSTNwbmgtNnVJeHNfQ28xMV9yME9ETkxTQm5hYWhLSnpqMHREWnNSZGFLTF80UXk4dlU0QmxaN0lRbUNXQVU2ZEU3Zmd0Z2F1dWotckdlZ1I1M203TEdLSDJvVzltRzI4ZjF6V3M2dmJKMnlDS1BESkIyWDFBeFNCMzlPWUFUWFVRZF9ackw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Australian",
+   "source": "Medscape",
    "region": "AU",
-   "date": "2026-11-13T09:17:54+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "797b3168ed",
-   "title": "David Jones will close seven stores across NSW. What will replace them?",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekgtNGprcktSeU1hX0xoZWJ4cm82WThobTh5REZia01rV0FuMjVGdmQ0MjJIYnN5M0JBQUhPODFSRF9FeU5zbm9nWV9nUUl0NG5yb1d3c01DamZXT1hMamYtWVNibHAtdDN4S2hmSGprTzBKTDhsU2tUYXBvTlVOOFJEQmE0NHlYRVZyR0d1aFJNZGctVTZyeTU1Tnd5YklWR2hRSWk0SkgxeGUwWWJzbjAxVHJkbUlmcEhxa3doa0ZpUnk0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SMH.com.au",
-   "region": "AU",
-   "date": "2026-11-13T07:45:00+00:00",
+   "date": "2026-11-13T07:39:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
    },
-   "topic": "Society"
+   "topic": "Health"
   },
   {
    "id": "3d1ef8c287",
@@ -585,31 +565,14 @@
    "topic": "Tech"
   },
   {
-   "id": "01dc13b143",
-   "title": "Microsoft Outage: Outlook and Teams still down as fixes stall",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSF96MnVFTzVDUmYxMkYtdkRNWHFmdXdSS1dpSzVwcUozSHdUSC1wbmJkSmZMbF91YnlCb3pWaThRcmxodUVPakgxZVU1aTJWdXhKNENjeHVUTktxX2tDcUtNb3lDTHlpN3ctNG91ZURjWFlyNks2eFc2VjNody1zZ194S1RKdTRlWmg4?oc=5",
+   "id": "ee647ba03a",
+   "title": "A 12-year study links longer TV viewing to faster kidney function decline",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOXzhhZElwNHdsN01jcWozM1UtLS14dVlVTzRYU0wzZTdwWnVDcG9oSm5ydGd6NzZlSGE1WFdxcEFGMThodlFaZ29oSkUzMFJqeXRoNEFHUDV5anZkTXVCaDlpa29qSkRzd013ZTdRRjV0bnBHakFRT2Z3NmlFMDNETXBDdEl6V05TaGEwWlJLWUhpeVdnZ3ZHU25BZWtwcjZYeXdNQk9XWkhYR0I0RE1EcTBUUERWa0FHQk5Kc3VB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Forbes Australia",
+   "source": "News-Medical",
    "region": "AU",
-   "date": "2026-11-13T03:03:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "82d08a6c21",
-   "title": "‘Hurry, hurry, get your tickets now!’ The last of the great Australian showmen – photo essay",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdUtzOUVCY2s1czVLclIyM3p3WUYzX1p0SnhCZWw5bjE5MEFEemRkVjBNRGhIc2d4Y1FQMWJuaEtCU202eHJQX3dSUWlnVldPVGN6TWRDWnBkVklvOFhuc09GZDlKWUhueVNwVm1PWHNzeGFNNklTWlMyajJaUUxiSVQ1b2dHYmtvWTFZRzVEMmlPWmtaN2FITFdkR0RRNmRPUmJGYnFZMm52NlF1bHNjcE5sa183YWpDWmJz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-12T23:42:00+00:00",
+   "date": "2026-11-13T00:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -636,14 +599,31 @@
    "topic": "Society"
   },
   {
-   "id": "f02ea9b0b6",
-   "title": "Cell Changes Around Early Breast Cancers May Reveal Invasion Risk",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHpaUThPUDFvVDc1SEJUbmI5MExKVGRpeWJTRWx0NzFfRlQ2NzFHNjhqaWEtUzQtQlBGbUp6SUlZS2tkQTJRRHZMWDlKZDRmVG5Bb1dsZWgzdXFobDFGdUl5RFVKaUNnU0hPLXY4b1pmVFBYLVRtbjI4UWZYNkZVV0NDamhsRjQ?oc=5",
+   "id": "82d08a6c21",
+   "title": "‘Hurry, hurry, get your tickets now!’ The last of the great Australian showmen – photo essay",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdUtzOUVCY2s1czVLclIyM3p3WUYzX1p0SnhCZWw5bjE5MEFEemRkVjBNRGhIc2d4Y1FQMWJuaEtCU202eHJQX3dSUWlnVldPVGN6TWRDWnBkVklvOFhuc09GZDlKWUhueVNwVm1PWHNzeGFNNklTWlMyajJaUUxiSVQ1b2dHYmtvWTFZRzVEMmlPWmtaN2FITFdkR0RRNmRPUmJGYnFZMm52NlF1bHNjcE5sa183YWpDWmJz?oc=5",
    "summary": "",
    "image": "",
-   "source": "Mirage News",
+   "source": "The Guardian",
    "region": "AU",
-   "date": "2026-11-12T19:04:00+00:00",
+   "date": "2026-11-12T23:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9930a74c34",
+   "title": "David Jones closures present 'unique opportunity' for big shopping centres",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMW0tX2F5U1l6U1pkaHRoT1lDaHo0UnB4MmpsOXlib0JMNWxPTG00RWY2WnBUd2lfVnJsQ0tiZXhKX2lObUJod3ljdU5oTnltaTZBZ3dKa2pfZE9HajdFQThaQW4xMWNrWlV4SVQyaEJpa3BBYjBiYmpZU3phc3MtUlBHZ3VBQnBlaXh3UzBTd2F5aUk5MWRDN2JKTE4tbmdORGh2VUw3LUQzVnhuSkxV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "region": "AU",
+   "date": "2026-11-12T19:33:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",

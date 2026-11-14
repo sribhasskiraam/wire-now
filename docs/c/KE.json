@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
+  {
+   "id": "10e465abf4",
+   "title": "George Ruto’s matatu involved in another accident: Here’s what we know",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPek9YQzczRER3QzJhZGJIZVN3WUxaLTRyNl9PNWUwaUVxcktEa1B1WHBZSVdaT216MTZoaklrRDhMbW1zNnhJN09DZDBwdXhKY0hCS3BFeElBVTFtOXEzMXctZENIY3M2VjVDd3otWEM3SjZuOXp3YmZVb2ExMEYtSlFuNDFaVTUzaGpDOE5Ed3hERzdPckstZmNRdzdVdFk1QWFVMFVHN1FRb1p3U3FJTXFWVmNYd01p?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Pulse Kenya",
+   "region": "KE",
+   "date": "2026-11-14T09:24:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Business"
+  },
   {
    "id": "a33a322211",
    "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
@@ -72,21 +89,21 @@
    "topic": "Society"
   },
   {
-   "id": "f02867954f",
-   "title": "'Mtu noma sana': Ruto weighs in on KMPDU SG Atellah's Lang'ata MP bid",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbmhPeXpOQlBIdlNNZlFHUDNjNmctSnhFTGJjcGxtNVN2S0l6VEJaUlNTNnhCelhkdTRNSE1sNzZHN2ppOUh0YlVadHJBa0JtNHJ1QVFZbFRUWWdSZ1V2WWpFOFZweUhDN2NWQTNmNUFjQlhyN0I2cHlQcl9OZVprcDdzdWdZN0J4US1MREhiS3I5QQ?oc=5",
+   "id": "645e9d5404",
+   "title": "Pope Leo appoints Father Joseph Oduor Coadjutor Bishop of Kisii",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTlXNVRxZEEzWUZyZExEWkg5UU9FbkN3S1lHb05KaWRaOU51cVVBajJ1dGV6Nk1CZnBsUkR3MFNzeGJ2b1R2M2twSmRvdlZXVE1CV2x0SGZNT2MzaUp0TE5uZUFLSW9jTEI2Q2VxN2lwVGdNcVlXVWxOSTBkazdscmozNktvZkVhU1JxQXM0dFQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-14T07:34:52+00:00",
+   "date": "2026-11-14T08:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "df81be490d",
@@ -96,7 +113,7 @@
    "image": "",
    "source": "The Standard",
    "region": "KE",
-   "date": "2026-11-14T06:30:47+00:00",
+   "date": "2026-11-14T06:00:47+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -208,6 +225,57 @@
    "topic": "Society"
   },
   {
+   "id": "76fe5325f5",
+   "title": "Andorra goalkeeper suspended 12 games for collision that resulted in death of opponent",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkpDQ3dZZzZoTHhuaGlsLXNMRWdRRkZaNk9HSEVKcUkzZnEzRENncjltTkJTSm9xWHBuWTFCTVdtNHJkcERQc1JXY0poQVVIQnljem0tSVFnNnpSUjRmbzJxWi1hRGxXbmQ5M3NBb3hfUmZDZzhYZTZFQUVJUW1tNkRMR0cyRENwR20zb1VFSnNtbXRvN2g1WXJEd1V4blZ4RFFOQjZESXB1VUNpSS02M2swNDc5LUFaMDFWQXdIQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "KE",
+   "date": "2026-11-13T23:42:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "941b4b5d15",
+   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pUU9OdkhNb3ltREVOZ3FsczdZeG5leExQRFEtNmNGZ3Z5OU5RelQxY3lmVnZZcXB3TDFnYXlDaWN4NFVzVHd6WkRoWC1leGIzZFB0VW5WeGRiSnJGdWpPYWo4YktRYXhjMTNGeTBxMzFBd3V2ckMtNm5vQXRVQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "KE",
+   "date": "2026-11-13T22:25:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4e2f73fb20",
+   "title": "Abductions: Missing Kenyans found far from home as courts press police",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkNuaVdMRjRqbDdSeTlKUGxiQU9Cb2ZULTF0bnhkNmpFR0ptcmE4YkFTSGotX3BLYmZLUVB6RENvYURPN1BMY3ppR1JRZENWOUZ4MUlkdzctTG9DVTA5OFJnYWtqUW1ST29VVEJTQ1FXRk9Ja0ZjUlhOSGxMNE1qdEFlRkxRWlRHeFhIUFlfMWdlb1ZlbUtKVEJPQUZjNW5VcEZTeHJKSXpXQS1GbldLOGdzc0RaamlXdWkwdTd1UWpIeHVqWlBvdFpJYmpFcjVMc0FMcA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Standard",
+   "region": "KE",
+   "date": "2026-11-13T21:00:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "92371dadcc",
    "title": "UN hails progress in Ebola response, cites insecurity as biggest challenge",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2ozaDZHbkhsRk5ETmtLRHlicTEta2hsOW5EMGI2Qlc4THBOLUdsZDVmQlhwSEFWNUphSWRjSy1YWDVVUVI2bU9IdmstVkhwTFBtRWVrcTllYjNYamJuOUNQSVdWSXpha1V3Ylh5TVh5MGlzRF9sMlNyRF9FMGcwSjJUSTBkYllOY25ld0JOMXRsd1FTM0xQeHZYbmlrcnhOd0pMWkk1Rk0?oc=5",
@@ -274,40 +342,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Health"
-  },
-  {
-   "id": "9e905d3165",
-   "title": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUklVczcydEdUUDNtYTNfa1VOMFV1VHByUVY4Q2NNYWl4YUlKbjUwcVEzNFlhMGx2OWl1MWprQmJKNU40RTRDSzdEUFJQcTE2ekY5REFVc0NBc0RFVGxid2JyQWgwcWlpU09oU1RnNk11T3c3VHF4SVR5VEVBemFOLTJva1A1RWRRWFVaZy1wc2xYVXFSYTdtbV92eUVnZUs3dlNYNTluUFprMjVEZnd2Zmw0LVNNQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg.com",
-   "region": "KE",
-   "date": "2026-11-13T17:34:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "3ab849a51d",
-   "title": "Pope Leo XIV Appoints Kenyan Augustinian Priest as Coadjutor Bishop of Kenya’s Kisii Diocese",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFBIZlY3RUJ3VVhHVXZFeG94LUlZM2VFOEp6b2tRUG5ROWtVczhrZ194T0pzTmRCeE1SUUxTdG5Ha05HQ1B2dVNtVEVBSGFkNlBkQllpZThQeTVhV0xQb011d0xlaGRxdW5MT0M0a3laSXJabXBtV2U1TmZSR2lGV3NJall0clZVVDM0Y05nVVFFX0dNOS1WcV9VTU5MUzFIaXdHbzJqbE13ZkVnTTg4WUQ3eXozUzlscUd2aGxkV3dfbm55T0Jz0gHMAUFVX3lxTFBaOWlsX2FjRzNycThsYjkxbE43dG4yazhRQkxLS2E4Q2c5cUExa3o1ZllfNkRrRm9uOEt4SGNialVSZFpjUUE2dmZNOHB5UHh6SlR2cmdLa0szaDNMNFVGYVNfWG82M29hYTJFT2JFaFRJb2NXLVUxSllhTXpWaUpULXBVS25yU2cwVkhidkJxV3ljaDBGdUhXWnhoX0JjTGY5WDNsOGpYbnZpMWVINkdFTWJnanNmZm1wV2pvU0hZcEFWRnFsOElqWHN3Vw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ACI Africa",
-   "region": "KE",
-   "date": "2026-11-13T15:33:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "68e4c4fef6",
@@ -378,23 +412,6 @@
    "topic": "Society"
   },
   {
-   "id": "8e440b467f",
-   "title": "AFCON 2027: Where to watch the Burkina Faso vs. Mauritania",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVF3dGpoNGxIekhEdUN4cU0yTzMxT2dFa291c25DTmVpZDJCNV9BdWR3amJwME5Ra2RTMzdTMFkxT3l6aUNoc3lKaFlUN2R5Vm11V21NTFNlYWtIWmJYMG9mV3Fyc3lkY0VmQTF1Z2t6LUlRVTRpM2tNS0lmazRwRVdNQjI0bFcyUEN3YkhXUjNDdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Africa Top Sports",
-   "region": "KE",
-   "date": "2026-11-13T10:40:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c5ee8fd104",
    "title": "I was told I wouldn't live past 20, but now I’m 23 and studying journalism",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkRnUTZTejZUUDlXUno2cDVFWEFwVzR4aVlEQjNDcHdZbXVWU3pqT21ubjV0WXphcmxvdkk4TFh0bzRTVUpsNzdtNzk3VFkxQjJIc090eVc0Y2tiUDExM1RqZ2sxVS1VaE82VlR3OFlCTUdzY3p2VE1La2JYZm5QUEd2WldNUXRiY2ZjWkRKZnVwMjc1MlUzN25xS2tCZWNvSFNCSlRpR18xZk5kTWs2YkIzdVJpaU0?oc=5",
@@ -410,40 +427,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "043b653264",
-   "title": "Lawyer Abshir Abdi in court as LSK pushes for probe into 'abduction' ordeal",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFFjUDVteXpXR1FxY2d0MGtBR2stWktmajg0OXcwcHNpYVoxMHZMV0VNYmt2NUZ2Q2JfMmhSZ2tUTjAzNlhkcTZ1cmRma1ZnNjNPZWtXd0VSNVQ2WHdBRk9Dd0lMd2lKaHBwTVRtWE1ST2hwUXlWd2lfRVJTZ0dwdVVScXVuSFJ5NDJNRFltT0hfNXdRRU9vVjQxWjRyYzl1OEdNWg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star, Kenya",
-   "region": "KE",
-   "date": "2026-11-13T09:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "c70b9dc9b5",
-   "title": "Microsoft outage spills into Asia-Pacific business hours despite 'partial recovery'",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTBoWWd4RERubjVsYzEySXNZbklMS1NBeDB1aFA5N1pDTmdiSzNTOFhxcEcxU0k3OTFReFNBUGt1SGN4ZXZrTWRjQXo2eWNRZE1Ud2lGeE14VnhMcy1qcWxKNVZKaTVrdjBxbzR5a3ZJNUwwb0RvQkZzbm9sNHFJRlZRRDFhS2M3QjJyRFl2WS1jWVB0VW9zb3IwMGduWlgyTW55WFpER3NKV21SNnJ5OFQtSFVoSHp1ZHctUjZiNVVDU2w5dmpqS1FVMGhramF4UHlZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Nation",
-   "region": "KE",
-   "date": "2026-11-13T07:32:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Tech"
   },
   {
    "id": "4cbe43cffc",
@@ -561,6 +544,23 @@
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "427fe22193",
+   "title": "Across China: Int'l experts explore ancient Silk Road spirit via modern development",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oSXBld3pnVkptbGp6VlZDMFhpUUp1ckZKMWRFT0k5c2ZPQXl2UEFlOHRsbUxKNkpkYjNxUU9TV2FsajAzZHlCNUtNTGtTcHR2WG42aGNQUDhpNGFUMVVKS1ZFTTA1dmJ4RDQyVDdXOGdXeUdoeTR1bHk3Q0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Xinhua",
+   "region": "KE",
+   "date": "2026-11-12T10:32:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
    },
    "topic": "Society"
   }

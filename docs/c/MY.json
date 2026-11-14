@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
   {
-   "id": "72385be6a9",
-   "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU5VY3FGdnpHeXpHa29PX0xYbW1PMjdKeEM5V0gtV29HcFdsOXUtSVpSRlA0d1JsWlV4QU45ZVpUYXkyb2hZVExrbUIwN2Nrc0pXRTllSURpLW5IdE5DTlV2U2N0MzE2bjFOWmlubTFnY3ZWMFN4S2U1RTB6ZDhaa0VB?oc=5",
+   "id": "a33a322211",
+   "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxN3YzWnlSc3BjMFFZZjRJQ3hKUHFWVHRKb1lDN2xJTjhxNjVkQnRQT2xfLTdLcWgtSG1Bck15Q3MzTWw4STNlQ3hXR0VPT09pT21jUHJQR2h0VEZDUmJLNVl3ckhJSFFxcHU1d0FWOVJtS19iUE9QTGNNWkg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Astronomy.com",
+   "source": "Xinhua",
    "region": "MY",
-   "date": "2026-11-14T09:05:13+00:00",
+   "date": "2026-11-14T09:10:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Malaysia",
+    "country": "United States",
     "place": "",
-    "flag": "🇲🇾"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -539,6 +539,23 @@
     "flag": "🇯🇵"
    },
    "topic": "Weather"
+  },
+  {
+   "id": "b76990f595",
+   "title": "Scammer Pretends To Be Eric Moo, Tries Selling Chinese High Schoolmate S$7K Ticket With Backstage Access",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFo4MDUyOGZTdHpydGY3RUVpWWJiSVh4YzdQZi1wc1lvaUJGUzVHRWtWQVoyNkk3STJrWDdTajVoQkcyc2xIN0N6VTEzcklJT3pJU2RrcmJ0cjVjVnBGSUthWE5qdzV4SHZCNlRYSEVQeklWSEZjc0ZxczVlZ21TQW91UDlybkZVWHhDSTdTMWN5LVBRLVNqZ3Rfb1gzcEg4VzV2Zg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "8 Days",
+   "region": "MY",
+   "date": "2026-11-13T03:50:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Society"
   },
   {
    "id": "01dc13b143",

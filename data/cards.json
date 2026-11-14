@@ -268,5 +268,40 @@
   ],
   "mode": "full",
   "made": "2026-11-14T00:30:51.945583+00:00"
+ },
+ "d368103041": {
+  "topic": "Health",
+  "country": "United States",
+  "place": "Pennsylvania, Wisconsin, New York",
+  "what_happened": "The United States has lost its measles-free status, 26 years after the disease was declared eliminated there, as the country battles its highest measles case count in more than 30 years. Pennsylvania and Wisconsin each announced one additional measles-associated death on Friday, bringing the total to 10 deaths this year. Federal and state officials are now disputing how measles deaths should be counted.",
+  "details": [
+   "The United States has lost its measles-free status, 26 years after measles was declared eliminated there in 2000, US media reported. The Pan American Health Organization (PAHO) revoked the status, first reported by The Wall Street Journal, after determining uninterrupted measles transmission for more than 12 months. More than 5,400 confirmed cases have been recorded to date, per CDC and Johns Hopkins University International Vaccine Access Center tracker data, with cases as of November 2026 more than double the 2,289 confirmed in 2025.",
+   "Pennsylvania and Wisconsin each announced one additional measles-associated death on Friday, marking 10 total US deaths linked to the disease this year. Wisconsin's Department of Health Services reported an infant's death, while Pennsylvania's Department of Health said its latest death was an unvaccinated patient who tested positive for measles. Pennsylvania has logged seven measles-associated deaths and Wisconsin two, and on November 2 New York said a child died in the state's first recorded measles death in more than 30 years.",
+   "Al Jazeera reports about 7,500 people infected and 13 deaths since last year, a period coinciding with the tenure of Health Secretary Robert F Kennedy Jr, who has for years spread doubts without scientific evidence about measles vaccine safety. The CDC recorded six measles-related deaths, twice its 2025 figure, but its national toll is lower than state-reported numbers after Kennedy asked CDC director Erica Schwartz not to count the deaths, claiming no evidence they were measles-associated. The count is at the centre of a dispute between Pennsylvania Governor Josh Shapiro and Kennedy; Pennsylvania counts a death as measles-associated when a confirmed case dies within 30 days of symptoms, unless it resulted from an unrelated event.",
+   "The CDC says it is working with the Council of State and Territorial Epidemiologists on a standardised definition for measles deaths, but infectious disease experts warn the dispute puts the agency at odds with longstanding tracking practice used by the WHO and CDC. Vaccination coverage among US kindergarteners fell from 95.2 percent in the 2019-2020 school year to 92.4 percent in 2025-2026, and local and state health departments have ramped up vaccination efforts. Measles is preventable through the MMR vaccine, which offers about 97 percent protection after two doses; Canada, Spain and the United Kingdom recently lost elimination status after a WHO expert review, and the US left the WHO but remains a PAHO member."
+  ],
+  "why_it_matters": "Measles is highly contagious and preventable, and losing elimination status after 26 years follows the highest case numbers in more than 30 years amid falling kindergarten vaccination coverage.",
+  "key_facts": [
+   "US lost measles-free status, 26 years after elimination in 2000, PAHO ruled after 12 months' transmission.",
+   "Pennsylvania and Wisconsin each announced one more measles death Friday, reaching 10 deaths this year.",
+   "Pennsylvania: seven deaths; Wisconsin: two; New York child died November 2, first state death in 30 years.",
+   "Over 5,400 confirmed cases, more than double 2025's 2,289; Al Jazeera reports 7,500 infected, 13 dead.",
+   "CDC counts six deaths; Kennedy asked director Erica Schwartz not to count others, citing no evidence.",
+   "Pennsylvania counts deaths within 30 days of symptoms; CDC drafting standardised definition with epidemiologists' council.",
+   "Kindergarten vaccination coverage fell from 95.2 percent in 2019-2020 to 92.4 percent in 2025-2026.",
+   "MMR vaccine gives about 97 percent protection after two doses; Canada, Spain, UK also lost status."
+  ],
+  "whats_next": "The CDC is working with the Council of State and Territorial Epidemiologists to establish a standardised definition for measles deaths, and local and state health departments have ramped up vaccination efforts.",
+  "blurb": "The US has lost its measles-free status after 26 years, as cases hit 30-year highs and 10 deaths are reported this year.",
+  "spoken": "Good evening, here is your health news. The United States has lost its measles-free status, 26 years after the disease was declared eliminated there in 2000. The Pan American Health Organization took the step after measles spread without interruption for more than 12 months, as the country faces its highest case numbers in over 30 years. Pennsylvania and Wisconsin each announced another death on Friday, bringing this year's toll to 10, including an infant in Wisconsin. More than 5,400 cases are confirmed, over double the 2,289 reported in 2025. Health Secretary Robert F Kennedy Jr disputes how deaths are counted, while the CDC works on a standard definition. Vaccination coverage among kindergarteners has fallen, and health departments are boosting vaccination efforts.",
+  "person": "Robert F Kennedy Jr",
+  "role": "US Health Secretary",
+  "subject": "Measles outbreak",
+  "sources": [
+   "Al Jazeera",
+   "The Island"
+  ],
+  "mode": "full",
+  "made": "2026-11-14T09:28:33.578808+00:00"
  }
 }

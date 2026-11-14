@@ -1,34 +1,17 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
   {
-   "id": "10b7c29bfd",
-   "title": "Voyager 1 space probe is one light-day from Earth",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmd1ejhMdVdraXJ3eDU3YkFVd2JhNzQ2RjNWSDk4TlZBT3ZfaExBdHFxb0JYMlV0VzlsUkNDWnpMUmtLRG40RHBTelVfS1FQMzJjQmljNUVhNnd0bHI0eGZVRU8yaEk1UTVleC1sQ05sd1IwTzVMQ3RFUERiU3I5dDJGMjNYaEdLcnVjTjJvaU91cC04RzlvNENvSnA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Naked Scientists",
-   "region": "CA",
-   "date": "2026-11-14T09:14:46+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c70bc1b366",
-   "title": "Journeyman Gawdin stars in hometown to lead Rangers over Canucks",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTB0SzVDUGZacG9icEhBaDZYdzhaNktpWnlQVFM0SzNma0Z4V1g0dXNSZnVJaWlQNm9zVVRLdHZxQUc2SmRNa1BucWZGYm96dU1jWUVwajdpMkNKeVZtOVlFLTI5TzJFZTIxczBabG81dWxpdkZGSjJlMHdGWlhZSzE0dTdPRzJ6R1BxYTNwU2dHc05TY2VZSnF0RTk0Zw?oc=5",
+   "id": "38f92d107f",
+   "title": "Canucks still looking for complete effort despite week of rest",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm9Ia1M1blVpUkltR0d6eG9PRUlPYzRIMDdWUHhQVUtEakVvRFQ0M1ZabHNCaUZCdjNUekowaG5hQmh0M0ROQ3FPM3N4NEJaY080RWFwcHUzd0N4MF9Mak5ELTJodjhReEF5cVpBNXdYZENubUpibnRaRHJibHNGU2Rvc3lEWnQteE9oeXBjTGw0NVZmb1RBaGNDbUVDTjNKeXc?oc=5",
    "summary": "",
    "image": "",
    "source": "Sportsnet.ca",
    "region": "CA",
-   "date": "2026-11-14T06:00:00+00:00",
+   "date": "2026-11-14T06:15:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -78,6 +61,23 @@
    "id": "2a89d4624c",
    "title": "Canada wins opening Nations League leg against Guatemala but loses captain Davies to injury",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yNTZmMWJnWGZDZnJyOWFpa3ZzY0g3WVh5MEN1Y09TN2xQN2Z1eDFQNGw0dE5wMWhnQVdrUl9WSnpIajVVaGo2Y0t2TDI0MC1NMmVIQmppanVCakJ3Rzl0bl9DWVhMUjhRbXJIMDI2SlBPNDVZeEh5N1Z1ZVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CBC",
+   "region": "CA",
+   "date": "2026-11-14T03:15:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bc7758b48a",
+   "title": "‘Grand Theft Auto VI’ turns Canadian duo Bob Moses’s song into a viral hit",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPajFnZ0NaZU9vdC1aVkFnNGotalEzSlMzRU9qTDk4QlJZWDFleEVKWXh3Y2twQUxFR2xlemNCTUtLSEZFLTVFYU5vNVJ3d3pDQlBhR3J2ZWhNZkd1RnZjRl9SUzJVZm1pVlFZQWdYYU9TMUoxd05tWUh5bVZCNWJ0STI4X1JVQ2Rkak4tOGJ6SWVreDRaSWJ6MWpYMFYzdmxLSERtNWI0WU5tMm85LUo3RWFaWVhrVDJPYXBzaGRoRkJ1aFNYdzZ4NC1UY2N5cWM3WWxzc2ljYm5mOU5jeUNZUWV0LUtCRm5OcmhiQkJUMldDdWw1UkR6c0dB?oc=5",
    "summary": "",
    "image": "",
    "source": "CBC",
@@ -338,6 +338,23 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQW85U0JzRmRBcC0wSk1OdnAxaFU0c0FZRlRxbnRONHFRNVAyTFpGdDhUY0tXSWRlcndaRThSM3V4eHFuWWtqWXlvd3Qzb2lPazRENUNZZ2I3bndzMS1FRS1kU1Q4NFQyM3h1bHMyeVZ6NlgzSkNOanZpSVlSVnJxTUJrUkxLdnZvdm5Ta2R3bFBXZV9ZMnpBR0EteWY3UkFxN256M1BfRHJkeVNPZFZz?oc=5",
    "summary": "",
    "image": "",
+   "source": "Vancouver Sun",
+   "region": "CA",
+   "date": "2026-11-13T21:31:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "495d988ccd",
+   "title": "Tanker collides with New Orleans river cruise with 180 people aboard",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQW85U0JzRmRBcC0wSk1OdnAxaFU0c0FZRlRxbnRONHFRNVAyTFpGdDhUY0tXSWRlcndaRThSM3V4eHFuWWtqWXlvd3Qzb2lPazRENUNZZ2I3bndzMS1FRS1kU1Q4NFQyM3h1bHMyeVZ6NlgzSkNOanZpSVlSVnJxTUJrUkxLdnZvdm5Ta2R3bFBXZV9ZMnpBR0EteWY3UkFxN256M1BfRHJkeVNPZFZz?oc=5",
+   "summary": "",
+   "image": "",
    "source": "The Globe and Mail",
    "region": "CA",
    "date": "2026-11-13T21:06:43+00:00",
@@ -434,23 +451,6 @@
     "also": [
      "Sweden"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a9aed114b9",
-   "title": "‘Painting is not that difficult’: CFL Commissioner urges City of Regina to reconsider decision to stitch Mosaic Stadium turf",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaUdURUMtY01aMlhKdHNMZ1g5cUYyY3RVTFNsd1Jfelo4S0FWN0xCeG9fQjM4SDZVSGpCS3Vyc1lUaHhaZ2VPSFQ3SHdkaVNsMFdkRHU5RzEwYi1HRENmX3lHcmprTm00cmx3bmNOUDh3aGlaeUZQUzZwRmdiWXV0bHMyb0RoeWZWVkljTzAwM0Z3Yl9zUmlOY3IxNWxrYXJuNWtJMWZoZzFSTGg5V3pDUHNfcUFSbXlZWmtKN2RueTQxODVBUC1NY2dKTVp2R3o0YzJGOFNiZlg2VFlETERXbUQyNHpFdEZfODVaVWNSMC1NUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-13T17:03:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -557,21 +557,38 @@
    "topic": "Tech"
   },
   {
-   "id": "ad38e8186c",
-   "title": "U of T music community celebrates beloved professor Mary Morrison's 100th birthday",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEsydmFIRG1lMExhVTZkT3VXZ2VDNHJkcC16VzE5dTFvMkFYcWs2bmFGSVRlZ0lpaGJvWDN2b1F3cUs1RXNOMkFBRW1JLWZiUmtXVzktZFI4bF9DNDNEREJodDhWMFRIWElSTkEyZ2FKN092bXdnQW5nR0NIcUpBbVJNQTdsWXEtWjlDY0VYdXNGZTg?oc=5",
+   "id": "53d64aa2b1",
+   "title": "Jenna Dewan Thinks She Was “Set Up to Fail” by ‘DWTS’ Producers Airing a Specific Clip That Caused Her Elimination",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkVqMHgxOEwyeUhQYnRpalRXLTBFY2NxVVgtSGRVQm9CTk5hZG5jT1RZS0lhZHJHdGZCY3N5a3pwSW5nNkhwcF9Ram53RnRMMmpfZHpWRlhYVENvSlBsNllwNzkyaTR3a2dyNFJ0YTBYT0JBcjBMQjBva1plWHlkSlplNWNWVUFVcjVXUjNudUE3SDdrVXJUcG1ZejVtYnE1dUw2dw?oc=5",
    "summary": "",
    "image": "",
-   "source": "CBC",
+   "source": "Cosmopolitan",
    "region": "CA",
-   "date": "2026-11-13T09:00:00+00:00",
+   "date": "2026-11-13T12:27:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
+  },
+  {
+   "id": "7d8e2d0154",
+   "title": "What we know after Jensen Huang resigns as Nvidia CEO",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDJxejRYdUdIc3FZcmtKVzhrVVhZRXZRSU02NTUtUU5LNU9XcTlNRWRtVDVFbHhSMmFoNGNZQTJINDZZRXl3WnlWa0RjcEVSY0tiRXRqNmp5Z3k0UEFfV1ptMVlfcV80M2h0RDJ4bXFnM2h5M20xMXRqVEUwMjVVZjVQTW1IZVRY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo! Finance Canada",
+   "region": "CA",
+   "date": "2026-11-13T04:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Tech"
   },
   {
    "id": "7d8e2d0154",
@@ -658,6 +675,23 @@
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "84f6d37d8c",
+   "title": "ATLANTIC SKIES: Twinkle, twinkle, little star - did you ever wonder what colour they are?",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmRCMjZjOG9ETmdKZTk5SWhraDRnNWRCNEphTUZxd2lOdldRWHFNVUg2V2RVdS1aa3M3QmZ6N0NxRjJ5Q3QwUl9WUlRJRV82VWlIYUhDVEVKUmhlN1lmWXlOelFLVkZ4dmdDSlBoY3VvN2pxZmlDY2t2cENyRDZlMnZDY2R4NHpyOXptOEpn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "PNI Atlantic News",
+   "region": "CA",
+   "date": "2026-11-12T15:20:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   }

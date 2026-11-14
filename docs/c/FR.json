@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
+  {
+   "id": "f926cf5e63",
+   "title": "Numerus clausus en prison : la proposition choc de Jean-Luc Mélenchon",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTEowMW5XSEp4Q0cxb0M3TDZLVy1EbFBza0I3dXk1VFRiTl8tTXNnNTAxTzk1VUd0ckJ3Wld3VjhuMDBUNC1ud2cySDBDaUVjRnlkQ1hhVWxYZjJhWHlROUNVRzRTRm5vazZHTWpfcnV5TmdHM242ZHlJTlpTdGp5YWNoblBCR3ZlTXJOZW5ISFUweHFxdHhpVEJzdWVja3MwTDU2MTEyZ1k3YUVpSElrRk5MQTZFTHBhb1VMaWlkVE9kNkJOX19mZU53?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Orange Actualités",
+   "region": "FR",
+   "date": "2026-11-14T08:53:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "26e3191330",
+   "title": "DIRECT. Présidentielle 2027 : Teddy Riner perd déjà son principal soutien politique pour sa candidature à l'Elysée",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSjU0SW8tbm54TmtaNzlRUDM0cFRJNDhjN1NkSFRTWjd6SjIzQzZfZ3YyMlg0NEV1SWFXdmtpbUgtMms2d1Vxc0ZsS0pYdzRjOVNNMTNkbV93ZmNMZ2JadjcxZHhhQnpwMHJUV3ZqY2NqVEtmNkQ4eGNQU2hMQUhHTm9LMTVuLTVhdFZtVFgzVUZscjJNeDk1VTUxVmJ4STNrQ1VKVnAyRXdmMW9TdV95TFlFQXlpTGVDTUpZV3dzaFN4WkxZQmx0OFFSTEQxOXo1a2owYm9rcnBxV1ZVV2ZEQkFFS3pUeWtvdUZ2NlZwSVdMYnFnRDdpOWlCWTZSRUVvclRaZ1FKV3FkV1JtS0t0OW5VVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ladepeche.fr",
+   "region": "FR",
+   "date": "2026-11-14T08:44:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
   {
    "id": "df0a840ec0",
    "title": "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »",
@@ -29,6 +63,91 @@
    "source": "Le Monde.fr",
    "region": "FR",
    "date": "2026-11-14T08:17:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "abbc97d2f8",
+   "title": "Super Loto du vendredi 13 : pas de jackpot, mais 50 gagnants à 20 000 euros, découvrez les numéros gagnants",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUTI3SVJiV2hqdmJrM1hiZnlHNVU2OHRtanR2WTV6ajBRNW5vV0FYTWpZTWs2OVFWd0tKUHhVVDJKR0Vwd3pMdEhmQ0hKcmR1VVR1aUFIR2JfNjlWUkhnV2NPODRReDJadnJtWTZ0X3hWSVc4U1pvelJyYlNaek5wUGhvbkJndkY2cDA3X2ZFV3ZvOTYxS3dvRURJRWwta1ZvZldyR1QyT2F6cFB3R3oxdURiWnlWZFdLcldFa3RyekdhQzdzTEtfbW1hMUdHZm5WeHdNd1Q1QnJUSnlFcjEwaHlDZGxHbUI2NDN3OTNZcjZybm5uQk9jQm9ERUg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Charente Libre",
+   "region": "FR",
+   "date": "2026-11-14T07:51:28+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7024b873c6",
+   "title": "« C’est le Goat »… Et si Dupont était redevenu le meilleur joueur du monde",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmFlZlMzc0RiLUt0eUM5OVY0ekUweU1mbzc5V0xCU2Q0bVRTNzFnWDFyZFVEWmdOXzBCVGtZOXI4WjRlTm1DQzRNRXppcnVwSlFsMk1ZUl9RcmtBZ21RekwzYm5zY3NzTzFBSXlNNVdnZk9uNDJfVWQwa3pwTDlicC04RlBWNzktZGxWd1hCcXJBSEJac2lsVEdMYkhKVmUzUk9KSThnNHJrbjN2dm5zWHNxOUNkcElkXzdjczJlVHJLYkZrY2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "20 Minutes",
+   "region": "FR",
+   "date": "2026-11-14T07:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c2e6b91523",
+   "title": "Après avoir échoué à rattraper le premier étage de Starship, SpaceX se concentre sur le second",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdTUyLWlRN1Z0eHZfdDE5TkdqSHB3Ym9oVU5xclR0OVdWNjV1bVhQdGpCamZLMngxU054S2Rac3Z1bnFnSldhMkRnRWZXTFM2WGN1NEt2LWtna3JuYmVlRHNsamlLVkhGeW5JUWFTbGJ0bXdYYlRCZ2cwbl8xWDh6LWJ2QXRmdjRvSE8xWmFmb25nSzloVnJpcmlOVzNuRkdLeklwSWlTYTl5RUpRbmFJcUlmZ0hoRDQ5Z3VuTjZRTUNDUkxEcWVpQ2hOSDRCbERMYlNNRzlIeDR3eTZfOU1kNzJvV0c0SVhQOFRkSFVkUEJVSDFMRGVraXQ3bDRtazZX0gGGAkFVX3lxTFA3LW9rbjhndE1MM0pIbFJJZ2J0UDhyZ08zZ0FSRUYzWVBqbUtZY1lvLU9ZSnA3X1c2bHRGYmtBUGNnX1pfcVAteWhVT2ZlLXVRMjJIUFBhcXZBRlhXSWJkWTV5a3FwSFBVcWpOUUx6bWFjRi1sXzY3UmpvQmk3aURYY0NQOThWNy1fY0ozX0xUV0lqN1NFZ1pMSG9WUFFSOWNwSkJaNUlmdHlrNUZKU2ZSaUxnQ1MwWk91X0xSZTQ4NnZWSE5rOU5GOV9VYV83SXhyZTI4TnU3MHFDVVF0STA3dzdYaG42MTdlTTJwTUZnYXJrLTdMTmU2OE41VU1hclpQZ1VQTWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Boursorama",
+   "region": "FR",
+   "date": "2026-11-14T07:28:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2eaece5dc8",
+   "title": "Rugby. Le classement du Championnat des Nations après la victoire des Bleus : la France première, les Blacks à l’affût…",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQS011eHJ2YVpWemNqWldZLWN6elJBbUcxXzBOZHJmSGdqdDJvSC1fZzhUUjVMeDQ3VDRFcG5FUE5fbFpqcE1ibUJQdVppemQ1TjVnWVRwd0wzbDZrMEVpcElaU0VFNkRJNDd4VFlVanZSM25XYWdUdjhLRmNDenl4MlRRQmtoRE5FTG1RVFFrZmhYc1pjQVdEUVhERlFlaGg3a0VoT3VNOVlGRWVzQ2w3OEZfSUJfa19GTVBVZW41Wkd6Ynk1M0NXRGRkTU53emstUEZUTlRKUkxHZ2JIMEFsT3FEX2dVWHA2WWlNdnR4ckd4YkRIdDNISnVXX21fUkl5ZjVlUUtMSi1vaXJKeUpPTXpKT2gzanBuaUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Ouest-France",
+   "region": "FR",
+   "date": "2026-11-14T07:16:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Sports"
+  },
+  {
+   "id": "c1c4196d72",
+   "title": "EN DIRECT, guerre en Ukraine : pas de discussions prévues concernant l’Ukraine lors de la rencontre trilatérale entre Trump, Poutine et Xi annoncée par la Maison Blanche",
+   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTTNENjdRdWtNSzFaVlBPTnRjTXJaOXYxb2lDYzBUanlZdzA1ZXZNdXNIUWlBNWY4V0xsTlNRZnJQaGJMSlFnN0U2S2pmT1BmSjhvelo2U2RJZUNCVlRuRllYT01Bd1N6YkRMbW9ORldmZkxIUUVrRVdCT1RCTW0zTkZ4S1hneERCM0szUHBOb2F1ZDJOTEpmdTNfQ253N1hWbEdjUkpRRS0zTzIxOTFlM2JLSzY1M1hTOW9teFdZV3RnSm5lUFBYZXZlRm1rVUx2Z1NGbXJ1d1ZlM1VzMktGdFl3YVkySmFHNGp6SlNRdnJXRi1ySnpnTlVfcEpTN29qRmQxdnBPbUgzUkNJMmZWRS1rTUdWN0pHTkR6NURQM1BSM3J1UWxjZy1fZmNiMzdVTldfWTdlYTdyendqM0dvYjg0QTVoRzB3c3A5bEh2WFlMT211N2xHR1Jn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T06:41:47+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -68,94 +187,6 @@
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dde43bb5e9",
-   "title": "Aux Etats-Unis, l’affaire Nvidia tourne à la crise politique pour Donald Trump",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY3J0Tm8xNFc1cU1SRXJqMG01NU5Gakg2dzg5bW05bHBJNTl0UGRYTlN6M3FWcU1jM3NJQWlWWFJMTFZpSUZwMDg3TkZ3aml4cF9FQUR2a2tQMHYtNWlRNUhtNkw1Y2U0dWZaUGt6V292UFdZZkU1cXhUSDdVNFRsTEpreDRKUm1oUnp4Rm50bzE5ZFhIWUg4WVlXYlZwSWhDc1lDdkZPa1BmWXZ4dmc3dDVaN0Z1ODhRZ2IwRFdhcFk5bC1CWXFvZnlFb01ZVEp6RVRmeTBZVWhfOFBUY1hETWxTX3NOUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-14T07:50:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "c2e6b91523",
-   "title": "Après avoir échoué à rattraper le premier étage de Starship, SpaceX se concentre sur le second",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdTUyLWlRN1Z0eHZfdDE5TkdqSHB3Ym9oVU5xclR0OVdWNjV1bVhQdGpCamZLMngxU054S2Rac3Z1bnFnSldhMkRnRWZXTFM2WGN1NEt2LWtna3JuYmVlRHNsamlLVkhGeW5JUWFTbGJ0bXdYYlRCZ2cwbl8xWDh6LWJ2QXRmdjRvSE8xWmFmb25nSzloVnJpcmlOVzNuRkdLeklwSWlTYTl5RUpRbmFJcUlmZ0hoRDQ5Z3VuTjZRTUNDUkxEcWVpQ2hOSDRCbERMYlNNRzlIeDR3eTZfOU1kNzJvV0c0SVhQOFRkSFVkUEJVSDFMRGVraXQ3bDRtazZX0gGGAkFVX3lxTFA3LW9rbjhndE1MM0pIbFJJZ2J0UDhyZ08zZ0FSRUYzWVBqbUtZY1lvLU9ZSnA3X1c2bHRGYmtBUGNnX1pfcVAteWhVT2ZlLXVRMjJIUFBhcXZBRlhXSWJkWTV5a3FwSFBVcWpOUUx6bWFjRi1sXzY3UmpvQmk3aURYY0NQOThWNy1fY0ozX0xUV0lqN1NFZ1pMSG9WUFFSOWNwSkJaNUlmdHlrNUZKU2ZSaUxnQ1MwWk91X0xSZTQ4NnZWSE5rOU5GOV9VYV83SXhyZTI4TnU3MHFDVVF0STA3dzdYaG42MTdlTTJwTUZnYXJrLTdMTmU2OE41VU1hclpQZ1VQTWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Boursorama",
-   "region": "FR",
-   "date": "2026-11-14T07:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "26e3191330",
-   "title": "DIRECT. Présidentielle 2027 : Teddy Riner perd déjà son principal soutien politique pour sa candidature à l'Elysée",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSjU0SW8tbm54TmtaNzlRUDM0cFRJNDhjN1NkSFRTWjd6SjIzQzZfZ3YyMlg0NEV1SWFXdmtpbUgtMms2d1Vxc0ZsS0pYdzRjOVNNMTNkbV93ZmNMZ2JadjcxZHhhQnpwMHJUV3ZqY2NqVEtmNkQ4eGNQU2hMQUhHTm9LMTVuLTVhdFZtVFgzVUZscjJNeDk1VTUxVmJ4STNrQ1VKVnAyRXdmMW9TdV95TFlFQXlpTGVDTUpZV3dzaFN4WkxZQmx0OFFSTEQxOXo1a2owYm9rcnBxV1ZVV2ZEQkFFS3pUeWtvdUZ2NlZwSVdMYnFnRDdpOWlCWTZSRUVvclRaZ1FKV3FkV1JtS0t0OW5VVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ladepeche.fr",
-   "region": "FR",
-   "date": "2026-11-14T07:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3b7349fcf2",
-   "title": "La nuit des Bleus en NBA : derrière Victor Wembanyama, des Français très discrets",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbnRGbU1JT1VvcFJfYWVIWXZNRVkwQmZodHdDdXNrdHN0NU5UalVESVNmbXVVcjdwVnlYdk1iR1R2aGUyZjdMVFQ4UGg2TzRFT0pEd0RJRkV2VWpVNVlvcWZEOHJ1WGpzR3lvandPY1NzRW5EX3Q3TmF3d0NUZDk2M2NGdjVTcUxvMGdjZTlENmRHbHRyLXRHUG1zbUxURlBtOGt1Y2p4Vy1iejRZTDV6QnNZTWU0bktsdk5oQ2N5LW9yUWFwZnlWTHJB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "L'Équipe",
-   "region": "FR",
-   "date": "2026-11-14T07:22:39+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c1c4196d72",
-   "title": "EN DIRECT, guerre en Ukraine : pas de discussions prévues concernant l’Ukraine lors de la rencontre trilatérale entre Trump, Poutine et Xi annoncée par la Maison Blanche",
-   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTTNENjdRdWtNSzFaVlBPTnRjTXJaOXYxb2lDYzBUanlZdzA1ZXZNdXNIUWlBNWY4V0xsTlNRZnJQaGJMSlFnN0U2S2pmT1BmSjhvelo2U2RJZUNCVlRuRllYT01Bd1N6YkRMbW9ORldmZkxIUUVrRVdCT1RCTW0zTkZ4S1hneERCM0szUHBOb2F1ZDJOTEpmdTNfQ253N1hWbEdjUkpRRS0zTzIxOTFlM2JLSzY1M1hTOW9teFdZV3RnSm5lUFBYZXZlRm1rVUx2Z1NGbXJ1d1ZlM1VzMktGdFl3YVkySmFHNGp6SlNRdnJXRi1ySnpnTlVfcEpTN29qRmQxdnBPbUgzUkNJMmZWRS1rTUdWN0pHTkR6NURQM1BSM3J1UWxjZy1fZmNiMzdVTldfWTdlYTdyendqM0dvYjg0QTVoRzB3c3A5bEh2WFlMT211N2xHR1Jn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-14T06:41:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇺🇸",
-    "also": [
-     "United States"
-    ]
    },
    "topic": "Society"
   },
@@ -228,23 +259,6 @@
    "topic": "Society"
   },
   {
-   "id": "bdca4eb26b",
-   "title": "Un vice-président d’université « violemment agressé à l’arme blanche dans son propre bureau » en Île-de-France",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOGVkcUljNFlQak4zQ3Y1VWhabThOanN4aHFfaGpKeHNYUnlwaHdvSk9naTJIekljbVo0dVFIbTJVcEdfZnEyRTlyMVdvQ01QdjB3aW1oZXJURjNhSklrVVdfWC1hWDdpQS1XczRDeC0zZHdkbUk5VThSRGNhOTVUamczX1ZPYVFMdjMwM3NTSy03clJ2OWVnUjhQRUluZENfWElJc3h5NjdKVjludnFzNVl5cTBmVGJhbC1jTml3NGUxZENZTjBqeE84VDROU041Y001YkNFSFhkeldGR3FjS2J2WHZ4aExJY2JZWmlXTzYxVzBSc1RSYkFVUVl2WmVuWmhmelZVX2xtNkVmTmhjVDQ5Yw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Parisien",
-   "region": "FR",
-   "date": "2026-11-14T06:12:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "064ecc57f1",
    "title": "Le pape Léon XIV critique une science réservée aux \"millionnaires en quête d'immortalité\"",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTDczWEh3T2hXbm9NWUNSSGVtbkNpWDZhemViM1hUYmlfTklfWlE4MENfOGlLM2luaEU1SVZWQ0pjLVlIc0pmMF9MYy02TWdKUzd2elZNUlJ2b0JvOWRzb0ExOTN6d3ZkVlFTOTJkQnd5QnVMTThVYUg4UEgxeUE0NEVENVRlOWpxeXR0Wi1ObzFnWlN1Z0JUREthWDRlRTdYcEUwTWxmWlZOSEpRakF6NUViVnlaUzZUT0lyR090cUlPenVIcEctQldKZ3BGSmJocThGSkZSdWRuN0Z6cUcxME1R?oc=5",
@@ -279,23 +293,6 @@
    "topic": "Society"
   },
   {
-   "id": "ccfcbae277",
-   "title": "Accident sur l'A8 dans les Bouches-du-Rhône : les vaches échappées récupérées, réouverture de la circulation... on fait le point",
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUHpoRzB3T3J0T0M0WWNOcWJCRHdrSWlId3M1RlRzVXF2M0V1WU5QY3FZcmt3cldzTnBQSEFmdi1aZ1BnR3ZSb0lnam5XeTdQenVwTV9HaDY5alUxSERzNEdtNnl3b295RWNMd200bzMtbzlCb2NsWEp3N0VNZjJqR3MxWmFlS1plMEtMTFh6bnk3RjFLdEp3ajVYbzZRcW11d0dPY1NaRUpNNmF1WVEtVUNId1o2UTNobE5wMXZ4bU9wZWdIQXR0ZGlQdWpUcTNVc01nMVBxWEhFTlBaaWdpR2d6QzZuTklydkFhYTBQdjlFdHdnRlNWOHB5WE8wLWtLM0VKSkI0UTI0QWdvUWVrU3ZXcVAwWXlGWTZaMUVoOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "La Provence",
-   "region": "FR",
-   "date": "2026-11-14T05:10:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "9dcb975eeb",
    "title": "Paquebots, métros, chars… Pourquoi les Américains coulent leurs épaves en mer",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT0FBUm1BMk1fMWgxUEExcVp6aTV1Q1JYLXpoc194RDZpUjNGQzB1QlZhdDZJeTJPaG9iUVBsbVVHcjc5QnF3YmE4aUxwOWo3SnFjSk1RSUFReWlMVkxMSGdVaVFGNVZ0Y0dvU0hrNENRaDlKd0pocmtGUHlBRjFlNFQ0S0Q1bzNreWFVdEc1WUxXZlQxdmQ3ZlUxQ0xyenhVdUdKb041R28yeWpJMW5nVDJ4RUtNbFRGYUNTQWNvdHl4QjYwVzJqaWJ3VkhzS0RvRlFHdU02bHhiUQ?oc=5",
@@ -311,6 +308,23 @@
     "flag": "🇫🇷"
    },
    "topic": "Society"
+  },
+  {
+   "id": "dde43bb5e9",
+   "title": "Aux Etats-Unis, l’affaire Nvidia tourne à la crise politique pour Donald Trump",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY3J0Tm8xNFc1cU1SRXJqMG01NU5Gakg2dzg5bW05bHBJNTl0UGRYTlN6M3FWcU1jM3NJQWlWWFJMTFZpSUZwMDg3TkZ3aml4cF9FQUR2a2tQMHYtNWlRNUhtNkw1Y2U0dWZaUGt6V292UFdZZkU1cXhUSDdVNFRsTEpreDRKUm1oUnp4Rm50bzE5ZFhIWUg4WVlXYlZwSWhDc1lDdkZPa1BmWXZ4dmc3dDVaN0Z1ODhRZ2IwRFdhcFk5bC1CWXFvZnlFb01ZVEp6RVRmeTBZVWhfOFBUY1hETWxTX3NOUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T05:00:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
   },
   {
    "id": "2f29621936",
@@ -338,6 +352,23 @@
    "source": "20 Minutes",
    "region": "FR",
    "date": "2026-11-14T04:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4d1e83ec5d",
+   "title": "Résultats EuroMillions: le tirage du vendredi 13 novembre 2026",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGNPUERNdTRGN1AwVTJEemJDYmlINDVpbUZob2xGUkR5d3NnQ3U1WlZpMXQxQzR5TUpMNXpjZUt0dGRiR1pBTGlYQktwa3VVUmppZ21BZmt3bmRVV1lFbnFEQVJJMnRLOUdHSkFkZDlHUlZYdUdoZGFKNS1CQ0hMVG9NcTI4WnpVMHU2Mngzak9RcVFLaENYSXBGRUtvSDk1LTV4YUs3WjAxSkZjMXdZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BFM",
+   "region": "FR",
+   "date": "2026-11-13T22:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -398,14 +429,14 @@
    "topic": "Society"
   },
   {
-   "id": "23244852c7",
-   "title": "La Madrague, maison mythique de Brigitte Bardot à Saint-Tropez, ouvrira ses portes au public dès l’été 2027",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZVFudnFHbjFFa0NjNDlqTVN3THRmaTV2ZTZDSVRhS00yRS1uUzJOQWNOb05DQ0R6NGRKQmZoT01pYk1tQVQ0c3JEM1M5dV9vbnVLc3hzTU4yWDJialliaXZUOU42T1B2eXdrdjg5Ymh1c3JRbWpVcXkxZWNRTDZuNXcyc2FJQXZxS2c3T3B4cFg5UldFUE1vdVJRMjdaTy1BS2VNSWw5WVVkQ3ZLZ3FEWTJBLUlFenIwSklJMi05SDAyWFN0SGM3dWM2RmRWUUZkR3R2U3hSSWIzQ3Q5M3JGUU9jYXZtRHdxeEluWG1ZLUJkeG5WX3RmZENJSHE2QlFVVVQxSVA1bWU?oc=5",
+   "id": "b4aa64b049",
+   "title": "La Madrague de Brigitte Bardot à Saint-Tropez ouvrira au public à partir de l’été prochain",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQczFNS25fN0VraDcxNlpjUEZLRTdCd1hvUmo3LTVrREpuVF9YbFIxSnNQdmtmNVpNZ002ZmdhVnNDcWNBYTY2TU54ME5nZ285ZXhQc3oza3JvS05ZdDcxV2c3WUlNeUlpVlU0VGlsVENsbWN4VmdNUDBHOUREeFJ5a2hTams0QjZmNWYwTUl5UFdhU2QycmZYVWJzYTJuZG1hWW5LSlBXMkhqRWxGY3IwQk1GT3doTW1fNW1pcHhvbllFVFl4MU5KOTh4blVNOEVuamFmRjhhbDdUUWRoYWVCbHBDNllCZjJWdGdfQUxFVVBkdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Le Monde.fr",
+   "source": "Libération",
    "region": "FR",
-   "date": "2026-11-13T19:48:59+00:00",
+   "date": "2026-11-13T20:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -432,21 +463,21 @@
    "topic": "Society"
   },
   {
-   "id": "4c2394ee1b",
-   "title": "Viols, soumission chimique et vidéos dans le Gard : lourde peine pour Yann de Carné, le photographe pervers",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM3hQajRKYXd2blBKVTF5d2piWHZpV2FiWVFzM2w1NXd0X2dfczEzNkotNnhlU0NueW5sRVFObUI4QmM5OXpDb0ZvWXltUmtXY214MTA1UFZuYW5UOW95UGJVb0x6YVBUSXF1eTlwZnRnck1KN21KVkM0UlNqSEdvVjhfazdXZkxOaTA5X19SM1NfU0c2cGJKNERTSUs4UUhQSzZ1cFJPcHVXdFY0LXFPRUFka1FkYTRxOFlmMHpEeEs1SVBXVHdUNlJ6QVl1cWJuWXpiSXBSNTd3UlJCNVNVR2tsamZiVUk?oc=5",
+   "id": "b8afe31775",
+   "title": "Cybersécurité : pourquoi des vidéos virales sur les réseaux sociaux annoncent-elles «un black-out mondial» le 17 novembre ?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFl0UWdIVXlOd3lZbDlTOHVfTU55TkpMc1drTEJYREYteVdpbi1GTUR0RWl6ZjNtLTV0ZW11S19EN1c4MDVsRUMxV1VHTnZudjBuR3ZfWEpOb19tWms2cXpwdkJuTEdBLXFmWXF4a2VhV25NZjQ5aFJRcW0xMVdlZ2F4ZWVNN250QnB2bjBJcWtLZHFYN0ZPd3BoLVdKQUdqLWh2elBJQ0ZkMEFxd251bA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Midi Libre",
+   "source": "CNews",
    "region": "FR",
-   "date": "2026-11-13T15:16:00+00:00",
+   "date": "2026-11-13T16:30:21+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "769c7d4499",
@@ -534,14 +565,14 @@
    "topic": "Society"
   },
   {
-   "id": "6ed9893eff",
-   "title": "Comment passer du punk irlandais underground au sommet de la scène rock",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3ExN2hHTDFPV3pLSEk2eUFYUUc5QWxlY2toRkMtMmxxZXdPY1NWR0tQYnRFWnNXQWpJa2Fjby1XOWxUN0h3enBMaXBCMW4zLTJxdkZoQlQ5aDY4cGdWWmNCVDJOQlBrZG9ySjBXM3dxVVI0Umg1WlVGeDh1eVp2ZUQwdGVOQ3lSczlFRFRJZVREY3RER0VnUWtnRGJ1VTZGTDZCZmtpSlhMdUhvMUVnM3lzeTNKNEh2YURRdVlRcVVua1p3MmpqcUdUU0tFY3AxZGc?oc=5",
+   "id": "8e8480a775",
+   "title": "\"J'ai des enseignants qui gagnent bien plus que moi \" : le coup de colère du proviseur du lycée Rouvière à Toulon",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcUtnV25ob29mWmpuWk10Q1NoQkFvX0ZqZlpLemQxSllTM0tKVkwtZngwd0VoUUNlbVZIT3JCQkJkR3ozcGI3c19PcmZNMVVqNGVLcWxFS25hSW1xMld6SkQ1MFFELWpROXR0Z2dnVWEwb0hYbEYtaGtObWlHQzliSENHc0lGMlZRWFo3MXV2YWVvTnh0TDhGMmpiZXM2RllITkp2bGhfazA2WnNUTW9sNHY2eldaeTJOYVVJU1QxQWMwMWN5bk45YnU5ajFZRjNQb2N1cXZkSGJETm5HRVpfMTdOeFJmdVlhaUFQd2p0em9FSEdtQkRfYmZRR0F6VW44cnptLTFoakI2ZG1xbnNn?oc=5",
    "summary": "",
    "image": "",
-   "source": "20 Minutes",
+   "source": "ici.fr",
    "region": "FR",
-   "date": "2026-11-13T07:02:00+00:00",
+   "date": "2026-11-13T06:45:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -551,14 +582,14 @@
    "topic": "Society"
   },
   {
-   "id": "ac20bc0227",
-   "title": "🎙️ Podcast. Présidentielle : On risque de passer de l’affrontement des idées à la violence",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUo3S2FMb0xwOXU4WGhFSDlLaGVVbVhERkxHQTdPNXBGSXptdVBwWnFXNUZra3p4MVpycGlGUXdJbkV0UDkzenBDbGk1R25TNl9mUUdJa2o1eF9vZXU2MnkweDRRVXNIWWpLLTVsRDNoTjlwWmpHVE56aW9jV3JhMWk1dzV1TUN0SjNqeFhWWGRzdEo2RzVVN3NSWXo2MHN1MGRFS3Uwcll6YVRUZG1qeEQwNVJhYmt3RXFOYkFLRDJrUHlieHc4ZnZKaHBhalF4?oc=5",
+   "id": "4eb7397d75",
+   "title": "Bicentenaire de la photographie : le salon Paris Photo en neuf étapes pour découvrir la formidable diversité du 8e art",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTGsyeG9LMVRBLXVlR2JiN25VYXpZdVlyYWF4QTk1S3lSNDFTcnJvNDVDZzdLbm9BS2V5ZFBJT3FXOHd4REtTR0VacU5mUW5iNndreVUzUDFaNFN0cmx4cm1RNEI3WDBibVBKSGY2ZUdKalRERVpNZ0VwWk50SWNfWkExbW5URDZEVWwxRnBsRXBYbXFLUEJjNzdiUkZPSDUyV1UyMU9pRmNoTzF3N3VHZUNsN2xDeXRwZm5FY3RZOTVRTW5hM1VLQlQ3bFl1M2NXZzR0dWFlbUttTlo5X0lGbnRvUnNDdHpEMTk1dVh1RGpuRXhocmptcU95cWpFMUJWbmNxdmxVTk54NHE5ZlFsdUJhUXY5QQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Causeur",
+   "source": "20 Minutes",
    "region": "FR",
-   "date": "2026-11-12T17:58:00+00:00",
+   "date": "2026-11-13T07:02:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",

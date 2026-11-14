@@ -1,13 +1,13 @@
 Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 46/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 66 stories
+OK   Ada Derana: 64 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 18 stories
 OK   Daily Mirror: 73 stories
-OK   Hiru News: 87 stories
-OK   Newsfirst: 18 stories
+OK   Hiru News: 90 stories
+OK   Newsfirst: 17 stories
 OK   Daily News: 57 stories
 OK   Sunday Times: 3 stories
 OK   Lanka Business Online: 10 stories
@@ -23,7 +23,7 @@ OK   CNN: 29 stories
 OK   Reuters: 100 stories
 OK   AP News: 94 stories
 
-Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (9 outlets) | 'Miracle on Mississippi' - All passengers res (7 outlets) | High Court to rule on Nov. 18 on bid to suspe (5 outlets) | Thousands of flights canceled as airlines wor (5 outlets) | African Miss Universe beauty queens in limbo  (5 outlets)
+Biggest stories right now: Trump, Xi, Putin to hold historic meeting in  (10 outlets) | All passengers and crew on New Orleans cruise (7 outlets) | Thousands of flights canceled as airlines wor (6 outlets) | High Court to rule on Nov. 18 on bid to suspe (5 outlets) | African Miss Universe beauty queens in limbo  (5 outlets)
 
 6 new stories to post
 
@@ -34,11 +34,11 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [1 outlets]: Wildlife vets treat elderly elephant fallen in Mahaweli Irrigation Can
-    no AI summary: saving the rest of today for important news
-* Newswire [1 outlets]: Sri Lanka Coast Guard Lifeguards rescue two foreign tourists at Miriss
-    no AI summary: saving the rest of today for important news
 * EconomyNext [1 outlets]: Foreign investors dump Sri Lanka rupee bonds for fourth straight week
+    no AI summary: saving the rest of today for important news
+* Ada Derana [1 outlets]: 23 major and 15 medium-scale reservoirs continue to spill
+    no AI summary: saving the rest of today for important news
+* Hiru News [1 outlets]: State sector unions warn of trade union action over budget proposals
     no AI summary: saving the rest of today for important news
 * Al Jazeera [5 outlets]: US loses measles-free status as two more deaths reported
     important (also on Hiru News, Reuters, The Island, The Washington Post) - researching
@@ -56,110 +56,22 @@ What people are saying: looked up 1, 0 stories with Reddit discussions
   "error": {
     "code": 400,
     "message": "Request contains a)
-    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    attempt 1 failed: no AI available for checkers (last error: AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
-    -> no cards; posting with the site's own summary
-* Al Jazeera [2 outlets]: Hungary seizes $18m cash tied to ex-Orban-era minister in probe
-    important (also on Reuters) - researching
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (The read operation timed out)
-    attempt 1 failed: no AI available for writers (last error: The read operation timed out)
-    -> no cards; posting with the site's own summary
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    news search: 0 results, 0 about this story
-    reader service failed (HTTP Error 403: Forbidden)
-    Google reader failed (The read operation timed out)
-    reader service failed (HTTP Error 403: Forbidden)
-    reader service failed (HTTP Error 403: Forbidden)
-    gemini failed (AI error 400: {
-  "error": {
-    "code": 400,
-    "message": "Request contains a)
-    gemini failed (AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
-    attempt 1 failed: no AI available for writers (last error: AI error 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is curr)
+    cards OK (attempt 1, written by openrouter)
+* Reuters [2 outlets]: Hours-long halt to US flights leaves travelers frustrated, anxious
+    no AI summary: saving the rest of today for important news
 
-Top 10: 0 fully explained
+Top 10: 1 fully explained
   reader summaries from the website: 0
   photos: looked up 24, found 0
   photos: 13 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-    gemini failed (The read operation timed out)
-    gemini:gemini-2.5-flash not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-  headline translation failed (no AI available for writers (last error: AI error 404: {
-  "error": {
-    "code")
     gemini failed (AI error 400: {
   "error": {
     "code": 400,
     "message": "Request contains a)
-  meaning check failed (no AI available for checkers (last error: AI error 400: {
-  "error": {
-    "code)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+  meaning check failed (no AI available for checkers (last error: AI error 429: {"error":{"message":"Rat)
 
 Website updated: 150 Sri Lanka + 75 world stories (0 with cards, 10 story pages for Google)
 
-Countries: IN 37, PK 35, BD 36, US 36, GB 36, IE 35, CA 38, AU 38, NZ 31, SG 32, MY 34, PH 36, AE 36, IL 36, NG 33, KE 33, ZA 34, GH 26, FR 33, DE 34, JP 6, IT 33, ES 34, BR 33
+Countries: IN 37, PK 35, BD 36, US 36, GB 36, IE 34, CA 38, AU 38, NZ 30, SG 32, MY 35, PH 36, AE 36, IL 35, NG 30, KE 32, ZA 34, GH 26, FR 33, DE 33, JP 7, IT 33, ES 34, BR 34

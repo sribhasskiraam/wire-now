@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:20:20.594405+00:00",
+ "updated": "2026-11-14T09:28:33.578808+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
@@ -28,7 +28,7 @@
    "image": "",
    "source": "Sportstar",
    "region": "IN",
-   "date": "2026-11-14T07:54:47+00:00",
+   "date": "2026-11-14T09:30:24+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -37,6 +37,40 @@
     "also": [
      "Pakistan"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b172198d97",
+   "title": "HTLS 2026 LIVE: Congress wants to contest in 181 seats in UP, says Akhilesh Yadav | Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWkNaQVZxWWEwdERsTVRrX0tlQVVXY0ZaMnlqMVQ2ZzlCY2drc0FWVmZRTU8xM0hiS3k0NXdmMjRoRE5ISGpfX0U2aHFTUEhGcmRYWk9zZVdtU0RXcU1FcXpvZ3pZUEpudkNLZDhfcy1oVkJWWEpTZzdKNkVUVGhhQm00N3lRTnNudW1Ob2lkZFp4Nm9XVl9jVjBSZURGVWladUdOcXFQLUhuWFVoTkRkdWFGcUZhVVY5SmtEcXFLemJpRUFkVTZlWEFGRnAtaHRFdl9aNGNxWnk2X2hKcUJ5SVpsV0xNYmVZSmNPTEw2MkdZTUZqZHFsZWR6Tm5CdDRseFRDWEtiV1pNbmfSAZACQVVfeXFMTWxybkZtNGROLThNTE1qV0R0S3NjTzRla1dxTHd6c1hjTXAzdkFQdVhVVF9VXzcwTlNWalpGd2UySVBXazFPQ2hwWmdYaWN5Y2NtVHRuUTlHc0cxM1dpWnhjTktYZlNFMU40MVlHSkIyc1RFc0Vjb0g1cE85WGh6Qk9sanlZMURfX1QwSnlsOGxXZ1dKcWoyYnVSWHRDNFNWNFoyZmtNaFQ2OGpzd2VkMjJxNnh3aWJfNG5ldk9IWlBETW5FckxnMHRHYWRHM2pSY2dKSmxzX0ppcWRpY0pWbU5MYnF6R0hYaUVvTlIxaGdDZVhwTVVVQm1JZEFRQi1vZG1NSjBzUWVfWk5hZm9hWDI?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Hindustan Times",
+   "region": "IN",
+   "date": "2026-11-14T09:27:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "10b7c29bfd",
+   "title": "Voyager 1 space probe is one light-day from Earth",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmd1ejhMdVdraXJ3eDU3YkFVd2JhNzQ2RjNWSDk4TlZBT3ZfaExBdHFxb0JYMlV0VzlsUkNDWnpMUmtLRG40RHBTelVfS1FQMzJjQmljNUVhNnd0bHI0eGZVRU8yaEk1UTVleC1sQ05sd1IwTzVMQ3RFUERiU3I5dDJGMjNYaEdLcnVjTjJvaU91cC04RzlvNENvSnA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Naked Scientists",
+   "region": "IN",
+   "date": "2026-11-14T09:14:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
@@ -75,21 +109,21 @@
    "topic": "Business"
   },
   {
-   "id": "2f872711d6",
-   "title": "Rahul Gandhi, Revanth Reddy ride pillion with gig workers during bike rally in Hyderabad - video",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0sxZHo5XzFJelJfNXJVdkRqd0FlSVFlRV9LZTdTZlVwbFlpVUhLeTQ2MlozVkZxX1cwQlJBUzBMYVVOdDl3T1czSkFOQm5iN0RsMHVMSVl2OHE3NUdyZUpveFFCVW5hRDN2RllwR1dWeFBJbmMxTDhqT1dlN3kzRWJMenFlNXdHU2k0a0w2OG1tWVFySGFpNkl5SU91a0tFd3VmLU1obEQ5bmxVaXdoSzBwc2V1MzYyTV9vc1d5cWZCODVFNHVaTUpyeW15dVhGRFpOOHExQUpjWjh3SjZJMC1R?oc=5",
+   "id": "cebb603b58",
+   "title": "India's Sooryavanshi becomes youngest captain in men's T20 history",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV9YOGZqQ183c2N0U2phWWFPNGtQQVpweVo2OWRJQVVYWVl0WFltRVJ6YVpXZXlKX3BfVkZuUjQ5YnJFWDQtZldRNE9GWmxfWk93QVN1SXJHamNrOEkxa001cTh2V2lwcE5qTHlIWVJRaVlCd1pDV2tCSlR5bmxtUjlhSlNrSEpBdlV3SHJmWGN3Rll5ZENqSWJ4blprLXN0UFh1Qzd3WkljLWY2ckR5cW5B?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times of India",
+   "source": "Reuters",
    "region": "IN",
-   "date": "2026-11-14T07:24:00+00:00",
+   "date": "2026-11-14T07:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "895f2179d4",
@@ -177,6 +211,23 @@
    "topic": "Society"
   },
   {
+   "id": "bf7815f88c",
+   "title": "NZ vs IND 5th ODI: India's misfiring batting seeks strong finish in Mount Maunganui",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeF95OUZJWnpLTGw0LWc3TEhsN1NvNWJNSEJ3Z0dkd0ZPX2J5OVFIUkI0ZVlxcWpNZVdFQWhjV1ZlUTVtbWphT0I4eUxtTTh5bGpLUlZEQ1I1WjY0Y01YN0t5U1cwZjRqUzE5LUhIb0R5Ry1ROFJSQ0ctSU9iNlhYQXByQWlpSlZYOEFnZWZfOVY2M0JhanJ2eld2YmM0RkpBVGxhT1RoQVRVUS0y?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Cricbuzz",
+   "region": "IN",
+   "date": "2026-11-14T06:18:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "dd05821781",
    "title": "Assam Teen Stabs Mother, Then Falls To Death From Building",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTBHdU5qTUltLXJGQlcxUW5GSjZScjZMY0xycV9qSkwwckpfa2V3UlRKVUpSRE14enZqZWxxekF4SW9LRU1BUEdlUjhMSW9NRFJBbFo2YmIzY09Hd051NVgtT3lUdVFLNXRaWnp3RzEtQW1zYlhfc2xUd1hYRjhfdkdmNUM3aWRfc3lZQjRHVjdDNGtsWURKaGxmRjIwb3PSAacBQVVfeXFMTlU5d2Ytc1o0TG01OGg5S0tiVDVDQ0xSSFpnekNNc01tQ0JubzVTc0RmT1JlSDB6WC15WXFQV2xPdFh0VWRQdVkwUjZtaEZpblBFUG1vc2FxTHpQZEozOVhaMkJFYVJudXVYX3RDWjdQa1prVWVBZDd4blp3bG13WElrMkF3NzhyWEN5aWk5V2xCc1lqWWJ2d3FoTHhwaWctdThCNm1LOWM?oc=5",
@@ -245,14 +296,14 @@
    "topic": "Society"
   },
   {
-   "id": "e7f7123fb1",
-   "title": "NZ vs IND, 2026: Kuldeep Yadav released from Test squad; Gurnoor Brar included",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnE3SFFhV1l2eEtRVTJva0ZBU2VKd3RPSnhuU0xTLTh4aWpka1BvOW9lUEg0ZC1PMHFKZ1cxQVJVYmtuY3hkM2pIbE9nVlBLSENOWWlOMGV1ZjY2U3QtcHFfNmZWdVpTRjVuWDhqNlRVMkljMEowaVZrS3Fqb0RBTFBTaUJUc3c0cktOdXNjS1Y5UGg2R1Q5TnRPRDZkM2c?oc=5",
+   "id": "8ad163549a",
+   "title": "Diabetes In Children: Understanding The Types, Risk Factors And Treatment Advances",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVNuYkwyaUVOT0xWUEEwZlRtVlNxQnVXcHdZWWZlSmxOSlltWmVOc3JvaFZUTE5BQk1WT1A1UHNFYzF5NTZBM3JiRWpzQXphUy1CTkhPNzZCeXRrekhOc0lDMVhiYkt1b0t0aU1yMDVMUGtBa3lKZlphU0JBQ0lJdF9zdTEwZUhoaDcza1dQaUlOdEJHNEgtdGtORks3MnFOMmZCdGZaSHdTbnNhWkRDYkdxejRxRE52dlhIVVBUcXdSNjUweTkzTg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Cricbuzz",
+   "source": "BW Healthcare World",
    "region": "IN",
-   "date": "2026-11-14T05:09:55+00:00",
+   "date": "2026-11-14T04:49:21+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -262,14 +313,14 @@
    "topic": "Society"
   },
   {
-   "id": "8ad163549a",
-   "title": "Diabetes In Children: Understanding The Types, Risk Factors And Treatment Advances",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVNuYkwyaUVOT0xWUEEwZlRtVlNxQnVXcHdZWWZlSmxOSlltWmVOc3JvaFZUTE5BQk1WT1A1UHNFYzF5NTZBM3JiRWpzQXphUy1CTkhPNzZCeXRrekhOc0lDMVhiYkt1b0t0aU1yMDVMUGtBa3lKZlphU0JBQ0lJdF9zdTEwZUhoaDcza1dQaUlOdEJHNEgtdGtORks3MnFOMmZCdGZaSHdTbnNhWkRDYkdxejRxRE52dlhIVVBUcXdSNjUweTkzTg?oc=5",
+   "id": "57a3e96ffd",
+   "title": "Gurnoor Brar replaces Kuldeep Yadav in India's Test squad",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVg2eHF2SDRVTVd6UWxaeFV3Y01XZHFlb1o1cVBobEVCeVdmSXVnZXpYNFlJMmVzQkRaakhSQ2hPaEhVUnJhNE5NMHlXSTdWTl95Rk82dE43a2JVQmNQN2hYY251UkM3d1R5MGVOaWxoYVo4UFJ0WkYtOEQxWjViUjNLMmNOc3dQcTVWSFk2ZXp5QlM0LWRNUEZ0RUJxV0lUSzRSbmdFekVLbG5wTmJaQWo5a01UeFQ50gHKAUFVX3lxTFBHbnJubGJfUjBmczBac2hjZV8wR1lIUFo1QkcwUlVwWndSVFdZNDI1Qmk0cE9NU0JFUEJoRjNtREQwNE43Q2VhNkxsblc2dXdWRnJyd3Y2WVVqQjc5WVpYclVUR0o5TUxuaXFJdW1oMm0yY1Ryc0Vka2VWczd1OXRxODloMjNVdmdZSlRPZkZwZnVmWE04OXpkY1JhOWVCSzh1Q1p1MUo1WWlEMWhzYW1qZjNnZ01uTFFrYnZPdWJQZVctc2FZYzBiSVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "BW Healthcare World",
+   "source": "Cricinfo",
    "region": "IN",
-   "date": "2026-11-14T04:49:21+00:00",
+   "date": "2026-11-14T04:34:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -296,51 +347,14 @@
    "topic": "Society"
   },
   {
-   "id": "07cc61400f",
-   "title": "SoftBank further trims India exposure, offloads Meesho shares worth Rs 1,885 crore",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYUUzaVpWLXViZks5cVhDekFSNmk2OHRhMVlLUUgydmNOcF9FZXdTN0k2YWUwV1RRUngyN2hpeFFOYW51bmJNeklfY2hyUV9xMG1qZkdtWk9kazM5M20xUU91UEpMdUZNdmFxOFl5dldDbHdxMllUMjFsNTFvNV9QU1RobURZRGpZT3JtVml2bmMwdU5EMjIwXzNpMmthcl82c01xNll0YkZaLUtMeWNDUEdfenV2SUdfOWFkcWxjNU83N3VMcTM4SFN4ZlBmZVI5TE96bNIB2gFBVV95cUxQZU9Kd3IxaHNnLUZkc3JDX3k0dnc3a0Rnek83bjNRcTQ5VGlodEs5cVNiY05zVG9meWtQakhMN0VBOWwwaGhzVmVmTnh6STB1bk4wYWpfemhRMnBWMmZrOGJONGRYSUQyYVJRb3ZEei1pOHF3MnpXV2JJbjZxUHNtRy0xazZMbGxHeXh2bVJwclRVQXI4aVZqa3RYbHlIdENfSzVRRnZVeWptVmZUOWlmZVZOeklxUTBHQmNGeXVjLVZQV0E2SjJSX253X2s0aUpEVXNmVXg1azIyZw?oc=5",
+   "id": "753574285d",
+   "title": "Delhi horror: Woman objects to being touched, beaten to death; man arrested",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUxXSWNockxRUlo2MEQ4c0Z3aDZ0YlFjcEpXZFdGcUo1RUc1RzlYMWp4NHg0bGFMQTdlRUs1dWdFWFlES3FCaWpCM1FCa1h3bmxraU16SWdXRmdZdDBsS25SUlpISHZfTU1nd1VBckthMlFZSmlYbUs3dTBXbTBFMkM1anM2bVE5cjRld1NZUlRPU3ZacUtOR2hqNV9UX2RCVjh3V1JZbmFnWlNJRHlsQXZOU0IxMFA4RlZnN1lYaDZGd2x1NDNkZXJaVUdiREo3RHJUWW5RRXlieVhReEHSAeMBQVVfeXFMT21EODVpMHBjSkdaU2NSZVlTUXJkZG5taTd0NldzaHFLNGNhMWN3RXl1TEhSNFZJVFJLei1LLXRkcE95WUxraHlJNFpPVFIwT1hkRVFqbThtazAzMm9ONlR6elRyLVppcEVGWTJmLUY0Ym9CbTE4VmRDR05PeE1EUE5rYUd3Qnk3RGN1M3lNQUxhenlaTkwtUzl2ODQyTHY2enY3bDQyTWM2b2VzQUtsV0QwVnJUYi1CM3BEcXVKLWFHVGFJNGdSWVYtWG1raVJDZERsS29WVGJZd21kWTZfd29DRzg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Moneycontrol.com",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-14T04:22:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "af31ed418e",
-   "title": "Streak broken, New Zealand hope to prevent rare overseas ODI series win for India",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmt0a1pQOFBvcGpCOVpOSHp5ZGoyMUdDaGQtLUpXR1k3V0RxUnF4N2JlcGVTQmRTTDkwWWEyN29td1FsYmdiN3JHdTBxMXZBMTR6UkRJc29XZm9mUDZCQjE4c080M1lqVmZsQ3ctWi05cldrdmF1cDJ1X0JkUzRlc2kxUGJubFA4dXNTSHZ6SU03b1BoSGlBMDE4RnFkX0tGb0VWb3E4b05peHJIRnhsZlNVZHNoOG1ZT3lN?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cricinfo",
-   "region": "IN",
-   "date": "2026-11-14T04:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿 🇮🇳",
-    "also": [
-     "India"
-    ]
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "536a19df32",
-   "title": "World Diabetes Day observed today to promote early diagnosis and timely treatment",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3hvUU1tYTJyeV9jdU8wLWhBT2xOdmFPOEFscHNOX2drZ19yNldOR1dPeWhJdXVSVzY0dm9Pckc3X0plemw2dndBY0pOX1FCRmMxbmxpUS1wdEIzLVFCcmN5eThHdmhTVGY0d29LekJzUzI3VWp3UXRBUk9UODlhTUNlUEhfdENKdzllYUp0R1BXYUFUeHpVdGdZcHJGdlRSN1dKSVdLeTRDVzg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News On AIR",
-   "region": "IN",
-   "date": "2026-11-14T03:53:00+00:00",
+   "date": "2026-11-14T04:25:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -350,22 +364,19 @@
    "topic": "Society"
   },
   {
-   "id": "7e6c46e2be",
-   "title": "India wants Sheikh Hasina to return to Bangladesh only after Dhaka's guarantees: Report",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHc0Y3lBSFJHeUZjcGdzR0kzM1hjRTQ5ZFUyQU82SFk0VUphdUdLemhRNm80Sml0V0MzMVFPNXlNZ3QtYXlwQ29GRFlNZXF3d0NTUTRwVlc5dWt1ZEdadTB1UUV6ZWxHSHllaGo4alp4Zm9VOGpUQ1BDS3BsZmh4T0UzSVJnUGhmZ0JOekFLZ0w0THJOODIyeHp3UTZTVmFsaExDOFZOdl8tSDVia3NuaHBrTUFiR25fcXRodE9sbDZjZUEzU2JvSl9MQ2RrM2VPNU5IZHFXbzE?oc=5",
+   "id": "536a19df32",
+   "title": "World Diabetes Day observed today to promote early diagnosis and timely treatment",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3hvUU1tYTJyeV9jdU8wLWhBT2xOdmFPOEFscHNOX2drZ19yNldOR1dPeWhJdXVSVzY0dm9Pckc3X0plemw2dndBY0pOX1FCRmMxbmxpUS1wdEIzLVFCcmN5eThHdmhTVGY0d29LekJzUzI3VWp3UXRBUk9UODlhTUNlUEhfdENKdzllYUp0R1BXYUFUeHpVdGdZcHJGdlRSN1dKSVdLeTRDVzg?oc=5",
    "summary": "",
    "image": "",
-   "source": "India Today",
+   "source": "News On AIR",
    "region": "IN",
-   "date": "2026-11-14T03:45:15+00:00",
+   "date": "2026-11-14T03:58:56+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
-    "flag": "🇮🇳 🇧🇩",
-    "also": [
-     "Bangladesh"
-    ]
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
@@ -440,6 +451,26 @@
     "flag": "🇨🇳"
    },
    "topic": "Business"
+  },
+  {
+   "id": "3363ace761",
+   "title": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was ov",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVWdNMXpwS195M3pXV0tCbi0tZWFqRVpjSV96eEVxb3pvRVpURk56NUVkVVc2YndVN085WGFNTllhdHZ4UHpDN0FPcHVHUlBFdG1hSXhPamFBalROdEJhUzBQQnpxekFEd0RmaUFmNUFKazJ5MDJqcUhHdWZpbkk5QTlsVHRBUDlOY1lyLTF1YldKd0l2TVBqMW4wajBHN1JFYUVYRzNZYTJ2b3hOTVpKVlBhc2RTUUhsaVNaNlN3V2VQQjdSZ05VMDhyN3RpQ0pka2E0bjY0ZkhhdWF1S09KVWMxcVp5bVNaQTMxdjhmazg0c0xDd1dnZ0RFaGs0U3FtOG9rdE5yeXRjR0hhNnV1QU80eGFJU2VOX3BzRmlqUWE5WGt6ai1WYtIBrgJBVV95cUxON1VhZTdHdGxiX0lKRHJxSlBZa1pMSHNIVnpsMWRQNklaYnhBMUJrOVk0NzU3Wi1nNDhsWml5TEZhUmRneXFOS0pJUnhMVzUtZDljNDh3cWJmaHBNQy1uWU5zNzR5RU1VRGNOTWJhMVlNbjBjZThpS2FyZDJRLVVxR2h2SmRfWVp2WEZMLURwU3lGOEsyOUhpdDRqOFhPT3ppLWZoZHJjTGVRY1lQanduVWRBUE5oa1dGYVoyVENsbXdGZEgwaVVHOFVfWm9HM3k1Nkc2X3Vaa3R1ZTVsNDZpQ3M1LU1qSnNncEoxRFFpQjMtWjZvdTRBUF9wUDNZZkNvc2lmS1NFbUVvS205VVBsUDdrRHhOQzVpSmhBeWU5QVFLTnZmTEtQeXlKR0Vudw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T19:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳 🇬🇧",
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "topic": "Society"
   },
   {
    "id": "24e1fb3be7",
@@ -530,26 +561,6 @@
    "topic": "Society"
   },
   {
-   "id": "36eeaf8bd1",
-   "title": "Air India, Air India Express suspend flights to Riyadh, Dammam till Nov 30; Jeddah till Nov 21 amid threa",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMkxkcHAwQXNxYmtZS1pmUDRrNkFKLTNRUjRvRFZ6SU5EYzBMREY2ZEtzWDUyQmhzdy1LS3IwdTdXdG1jRTJySGZjN2R6X0hhY0NtVHQ5VXpzRkRmRC1RNDkwVzktSWJGQlNkdE1NUUw1a3pwbUNOZUtubHljQlpYZzFiOGJaRi1tNzh3Y2V3dGZwWWJxUzdFTko3c1NPcVplT0dNVHNYSzZLNE1xUlZmSUJXeHFXQkI4NXQ1UWZ6ZVkzSml5UlhyOUtfUHBZaWdwdGtvQk9DMnNQMDBWNWdZcVYzb3Nhd1FCRXhVOGU0cmhHbnJDVmZHbjZDZC1IZ3Z0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-13T13:57:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇸🇦",
-    "also": [
-     "Saudi Arabia"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0535207dad",
    "title": "Astrotalk disappears from Apple App Store, company says working to restore availability",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0pmU2hjQnl1Z0hza09aajhrTGxOME05d0pVc0RVYTlJeFdPSC1lMU9nbGVBTWlFbHRZM1dUaG1GMC15blBfcVNvM182aEtLQjhvb2wzMjNzNlVZeU9UalE3cHlYdXRWLWFwUmlFWHlhd1dkTFhGYU5zbTdLSWphZHRrZ3hubm43dnBrWFZ0bEVHTVgwZFRYUkNobUd5dkZJUW5wcTczWmpLQ05xRmdDUzJFdjhDTGFJSUpEQkZoZTNla2J5TWd4Z3UzMFgta0laRVA5S0kweTdvQQ?oc=5",
@@ -575,6 +586,23 @@
    "source": "Daily Sabah",
    "region": "IN",
    "date": "2026-11-13T12:39:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2991f3be06",
+   "title": "Stock Market Close: Sensex snaps 3-day winning run, ends 319 pts lower; Nifty at 25,144; VIX down 7%",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSFRvLVlZT1lZRGkyWUZkT2t1b2MyRnhNYkIxeDRQWm9qOWtta2hqZUpPb3FNc0l0V3MzU25tbDZpMU1waVdtUkhFM3lkY0d4SDhnNEFZQ1k3Mzl3dll1VmZzQmZZNzhtR0ZwTGJPVjJtWm1BMWwtRUc4emVNSHpkdFFvV2JaTEtwRlMweXo4Vkc5UWRHbGxCWmc5ajZQaDBKdHA4RUV4UUtlN01SdmYxTHdvdDhaVmwtWmg3REtNQ1VNWE1pUmU2cWhEQ1lwVjlVVzRaVjBlbDFVTVJISmNuVklTYW5IRTA5MXhsT3BaYjdmTWo1OGVBeHV4UFRCZlpDQlhJ0gGIAkFVX3lxTE5qWk5IblVCT3Vuam41VWx0Qnc1MkM3NEppQTQwZE5UYmg3djJNVXlzNENia29rZlZWWkdtMzJZbVNxbEhSU2h1VzhZVTRDd2I1ZTF1dk5QLXRSMC1CWFN3ZHVYeEdFdDc2Vm5JbHR2ay1yTUJCVWdjMHpleFVnQWtKM0dlbzhvd1lETGZ1VWJhV1lJVXQ2dkx6Yjh4cXBQNnRuQkR3S0JJUEs2Y2JNZU5aNjRhbG4tcWRwaDl1T2pZYjlSS1ptZjhYVHJCSmpha1hZWEtvOG50ZTAxYi1LQUJBdlZTMGVBeVA4QXYtX0d3Rno4YU9vZlp2QUpxNWpXRG1mWTIzTE5zdg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Business Standard",
+   "region": "IN",
+   "date": "2026-11-13T10:39:26+00:00",
    "coverage": 1,
    "location": {
     "country": "India",

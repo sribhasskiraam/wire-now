@@ -1,8 +1,93 @@
 {
- "updated": "2026-11-14T10:17:02.300426+00:00",
+ "updated": "2026-11-14T11:52:46.868447+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
+  {
+   "id": "5b4d316e6d",
+   "title": "Nadia Jaftha marries Reece Meyer in stunning Cape Winelands wedding",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpaa1FXc2NsX19uNG5xVmVDRlg3bFN5dU92WndzNWJjMm5vaDZXTmg1Z1B3ZWUwcC1sMTVQX3Q1RjZxUXFNeXRiMk4wUVNwam13bmtUNFVQYk01S1NROG9kLWVmcTl6UVMxRXNoeElWWm1CTDZYYy1NY05FaThvNnZscHZCZV9wQnZwZmxSTlVRM1p1NVREWHRvdVhtVlRycVFQVkdTeVJyNjBwWmFUWHlJTTU4cmpT?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-14T10:36:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e48fa1ad53",
+   "title": "Ashley Oosthuizen’s transfer to Bangkok prison brings family closer, renews hopes of release",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEF5QTdrSVB5WUxwVzlKeDQ4VDVLdk5veFBxb2FBWlF0V2w3REMtd08tbVhVdFk4eE9jSHVLdHk2UzZ0UFRnb2ZhV1FoejVMd2E1eDcyaXJqZnRMUjNrbkp6aXl4Y1RxTmlyQUVmeXpuTnFkRjM3dkQwUUU2XzFHVklReGpJakxLYzZFWG9JdEJzWGpYQkdmVTl2clhqdFUxR25CWWhobHk0Q0tlM1EyMHFnODF6U1Y1Wjl1UDAzR0pfQUZVcjZVa0ZZcHc4QlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-14T10:26:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Thailand",
+    "place": "",
+    "flag": "🇹🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "1d7ce577dd",
+   "title": "Six people killed in head-on collision on Eastern Cape N2",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUxFTEpoUkExTTY5VjNSczdKZ3lmTmdTUlIyVjZIS0pPZldSdFhiRi0tNzZLaWp1Y1JTdWp6TnhfNGNzMXFKS0Z4UnBpNVp1XzZWSHptY0wxUFJLX3VYRjFYckU0Sm5yNU5WX2djNXRCVDhyanV6ZV9Sd3o1VW13Zl9LRF8tb2h0QlhUTDJVZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "eNCA",
+   "region": "ZA",
+   "date": "2026-11-14T10:02:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ade5f7bdd6",
+   "title": "Apple HomeView isn’t the iPad for your kitchen you might be expecting — and that’s actually a good thing",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQLXhVQjNJMS1ZXzYyRGx3Y0hUb2VLejVJSV9XYXAzQXVmZm5NUnhqaS16ODBWSkpOblVwU21pb2NMS0VqYklmOE9CMHVLOXI5aFdXUTdyYnQzbjJzemtFTFFOdUZsakpSQ3pvdHptNTV0U2ExSHE2NHpaY2psT0EydDF5NElxSmtSQmUwUnNmTkw1bkpXU1JrUVFBMVRDcFJ5b3hlSlpXSHkxdUdaODNwVW01WlNkVWRmRGdxeUNpYW5lSHZtTW1kR0JsUDI3TWhvNHdVUmNyRUZ3SU9rRjFWRVF5dTRyQzVLSnYzdzQxaTRCOS0zSDFnYlZkQWF2TWlDOUNB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TechRadar",
+   "region": "ZA",
+   "date": "2026-11-14T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "09e5263a28",
+   "title": "Good news for taxpayers in South Africa",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTXdsandEbWlWQURhZ1U1RHk2dkhKWnhEc21OYlhzU3JKb0xlT3FMTVJId3Rsd0JHaVVUeS00eFl2N1Bqcmx6MGFVVlBJVDBJTFZRQ3NJejVxekNfLVRGbDdqeFJZZGVUVmtwdWdCcDNMR0wtejdrRTBuNFF6U2pyMFd1Z25Yc0dGS1JrRzhrMEw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BusinessTech",
+   "region": "ZA",
+   "date": "2026-11-14T08:05:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Economy"
+  },
   {
    "id": "cf053fac34",
    "title": "Heartbreak for Durban family after missing father found dead in Phuket",
@@ -89,38 +174,55 @@
    "topic": "Society"
   },
   {
-   "id": "40d0ff7db2",
-   "title": "France hold on to break drought against Boks in Paris",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZElIZDg0akNXWDUxWmhCYVpNZlJoTnJkYzlSa3BWYzN2cGh5YXdqX0VqX05QMVVkUE5FNmd6aHBFQ3ZKRDlYaF92Tll5b1JqMGkzeThDbVBIMVY5SFp6SWh3REtnQ0J5M3ZXR1R1ZHExMi05bEZrUTNPam9OdlhuZk4wZUZqVVkyQy03YmMtY3dwLWdpVkkydFFFVjdiY1U0N3RmMmVOUC1hVm1ZdjZORkhxVENmVzRPUkxnWFFPY3N1dw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SuperSport",
-   "region": "ZA",
-   "date": "2026-11-14T03:18:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Weather"
-  },
-  {
-   "id": "d4286aecc7",
-   "title": "From Parly to the Palm Tree State: Ex-ANC MP and Zuma man now a US ‘refugee’",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFNlTENqZi1vNVVWdTVrMDJFcEROc1lPdWFneEQzWFRfdy1PZXdyV3VySWVER2tib3k3R0ZaS1pYcGN6Mm85aUd2Vm5UVW9JWW5qRGZnSlc2UzIxUVFtTzl1UjFEUzJCV3F4a3BfSWRocXVPSm9HbmNMT1lXV3FDWmlHZGJXcXlSRGlfSUE0YmUyOFgtR2Iwakw3VWxoNENNRmRmbDBuMnZaSFl0aEp1a0k2djBMdE1TdXhJ?oc=5",
+   "id": "246da25b7c",
+   "title": "US grounds all flights for hours, sparking travel chaos as ageing infrastructure blamed",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3gwWkg3VmVkM0dIVFVFMVYxUGR6T0Z4NHlYdnphT0h5dlBmZWt2QkVIWWdrTUR6Q2ltSWZQNnk5a0JWU1NOaUZKdDRlUC1IaFliS0h6OS1Qek84U2o3OE1xNGNVd0xFS2FDOTNfRk13SWtqY3J1Y0lOeEJiS1BxSG9tV2pKLW1vUDNSc0lyYXdRUG9aSXJFeXNxNnBTMU00Q091MW1UT0pGRUp2dGxPQ1FrWHZVU2J0LVJSRWJWNEJEQlVjQVd0Rw?oc=5",
    "summary": "",
    "image": "",
    "source": "News24",
    "region": "ZA",
-   "date": "2026-11-14T02:29:28+00:00",
+   "date": "2026-11-14T04:51:49+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Politics"
+   "topic": "Society"
+  },
+  {
+   "id": "8ad163549a",
+   "title": "Diabetes In Children: Understanding The Types, Risk Factors And Treatment Advances",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVNuYkwyaUVOT0xWUEEwZlRtVlNxQnVXcHdZWWZlSmxOSlltWmVOc3JvaFZUTE5BQk1WT1A1UHNFYzF5NTZBM3JiRWpzQXphUy1CTkhPNzZCeXRrekhOc0lDMVhiYkt1b0t0aU1yMDVMUGtBa3lKZlphU0JBQ0lJdF9zdTEwZUhoaDcza1dQaUlOdEJHNEgtdGtORks3MnFOMmZCdGZaSHdTbnNhWkRDYkdxejRxRE52dlhIVVBUcXdSNjUweTkzTg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BW Healthcare World",
+   "region": "ZA",
+   "date": "2026-11-14T04:49:21+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "66b5e93f88",
+   "title": "Swimming SA admits it was wrong to withhold Tatjana Smith’s prize money",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXBlb3UyUGpzN3lRSy1HXzJOVmdadnlZZEE0MXMzUnRBaU9ILVpUdzJZZjJ3UG1Oa05BSXFiNnRlcC1LajYtYTZyZ1RoZmY4WUppQldGZWJVbURWTThrX3lBTmxpaHVGTzJQOWY3S1QyQU82cnRkTWRXN0EzUTZzUEJhNjR2N2RvbTJyWkk5NERMeVFHTjduZF9JSHZaeGNUM29Oa3pONmdyNUl3M2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-14T04:05:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "66fca2c8de",
@@ -136,6 +238,23 @@
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c0c8c19352",
+   "title": "France resist Springboks’ second-half rearguard to win Paris thriller",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2gxMUFLU1Q3YVFaQkJfQzdVNmQyblRqWGpjQkZXVTZVRmVqUk5YN3RtQXA5RE1GWXhoUkVnWXBnclBPTWFEMWpwRG9OWERjbmF2Um8tNVNzaXpzOE5SSm1NUHNEWTZmYW9zLV9Wd1JhZ1ZwZGdqS2VqSllMSnAzelN6alY3Z1NIQWV4d09HNE1sOTN1WHNrVVNHNl9WRm9wM1lmZUJVWXFEd2JlMVJGZXdTYmxwcjFQcTM5VA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Maverick",
+   "region": "ZA",
+   "date": "2026-11-14T00:57:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -173,6 +292,23 @@
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "443bc60084",
+   "title": "Kenya strike late to peg back Bafana Bafana",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEpBMy1iMS1LZmFnVDRXMllwdGZBdWlvbGlOTGhGS2hIN3VzUDZvclJkX0F0TnlQV2VraVZfLWJwQkM4bGs2WVZLRTNfYndIN1ZPd0U4a1FvVXFQU1R6ZEhhZ01BcHd5Z1hpVllaaFRtQk1pNzB3a2ZMQzRKMzJtWThINV9IUmhsa2VzbXFYTTBBcWE2MDRhTjVSRnBfYzZPbVR2SkxYcVBkSnNXQkRwQmNCV3djcDZH?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SuperSport",
+   "region": "ZA",
+   "date": "2026-11-13T19:34:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
    },
    "topic": "Society"
   },
@@ -228,26 +364,6 @@
    "topic": "Society"
   },
   {
-   "id": "0d5fa77171",
-   "title": "South Africa vs. Kenya - AFCON qualifier LIVE updates, as it happens",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWZGbm1RN3czNGc0eDFhY1pRUnVsMGNpdUk4cXVaaHd5bWUxRVRPb1ZwUnJMampmYW5mb3NVanNDRFRwdlZRVmRPRWh6dW5kbUJHTVN2Y0JpdHRmTXhDcmFuX0xDMUFkN3RxdWJBRUpLakloUTdkRjRmMksyeHhtOTM2bUgtMl9JeVNRWkQ5X01OMW9yaXpqR2pCd1dJeC1B?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "ZA",
-   "date": "2026-11-13T18:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦 🇰🇪",
-    "also": [
-     "Kenya"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "aa16845879",
    "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVUxfc21OVTlJcGpFUHdzWGVtX1hVZ2s4QzdIX2NRYmNvODN6RTM1RnYwOWdQTmxyWTcwVmhfYW5sOFJSWTU0VlZBeVV6ZUVaUDFXTExlM2NZLWhEZS1RSzRMZlBoakV0REotWkJBTkF1UWtOWnN1UGhXTEtFekZkby1FUHg5eUwxSzk0TFQxdHdZX2lLd3RZempoUEp3T1RsaHMxdW1sX0h2NV9vQ2MtWTRTNExOaFpENno1YnlNc0hvaTAwWjhrOHlPemJpNHhBU2c?oc=5",
@@ -290,23 +406,6 @@
    "source": "The Conversation",
    "region": "ZA",
    "date": "2026-11-13T14:39:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "58beaa3e26",
-   "title": "Metair may invoke ‘force majeure’ over Durban Gateway Terminal crisis",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHNvc2xGUmVxX0RRQ2lGcmFSOGZlcHJOR3NobVVvd3E0ZEkzUFNZZ193TUF5aEZhRGZDLWUtallIbVNfV2pzSEh1c29wVExCajdJLVRiQVFQNkNDUGNUamRRQmpjYS1LU2xPWlV0VU53eWp2T29SbWdXQndBU0hxcHdTd0NGUnZlQ1NaY0tjX3FIc01rbzdxaXdXQnFHMkxaclplRlNnVEVZTTBtZ2h2Y0dTcUhyUDhJN2VjWg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Moneyweb",
-   "region": "ZA",
-   "date": "2026-11-13T14:15:53+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -370,65 +469,31 @@
    "topic": "Society"
   },
   {
-   "id": "acafc31cf0",
-   "title": "Tatjana Smith swims for the Netherlands: what readers think",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3J6cWRfYVEydXBVbGpzYkt3dVVESS1IM3ZVS20xSWt3ZE56aXE5N1ByTTZaSmQ5aVpfdjdaRkxXTWJLbU16blpTVlM3WlFfcWZ5WmpWWGFOUDhXX29TczQ0NG1icGRCMlZrR3pVd2JTS2ZialpBcUVnbHVRRzhfVkxJTG9CQjJPS3NOaXRCVmRjelBfOEtHZTNJcUxkSjFMQUpCTkZpMDh6aEEzbjBEa3hjX2ZRVUhuM0xR?oc=5",
+   "id": "52ada047a5",
+   "title": "Hamza’s homecoming: Chance at Wanderers Test return beckons for Proteas’ top-order batter",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEJEQXZtUFM4TTctbVVtNlZqemRmYmZEYTJ6V3RRNWhNSlFSY2tsUUstdjlZay16aGxuQmY4WkVlczA5dGFzbk05N0VkVUxXbERCVjFWem8zN2RTYXgtVUxRSmQxRGFGemEydzhUM3ZTRWlSQ0UycHVNTW1tbVlPMUVyLWU2dExXUXhaZmVjeGRRZGUwd21vb3J0YnVuVjBjXzFJTVR3eEhDVVcxU3lhQnk4WnlJbmRxQ2o3WFhab0c4NUFyRDQ4amhKeU9zME9Wbzl0Z0JrSmc1alNxSmc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Maverick",
+   "source": "News24",
    "region": "ZA",
-   "date": "2026-11-13T10:21:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Netherlands",
-    "place": "",
-    "flag": "🇳🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3c89b9ee42",
-   "title": "Man dies after being handed bomb disguised as traditional Indian sweet",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFF2czFDNlpwU0hsdU1NVEw2SnNnRWxaTDVCYUdiME1KZmw2OGVkM0ZxRUU2TFoxSWFMaFVOaE1aRmhjNTRBOXNlcEZHVE8tejg5WlBGcWsycVZIRjA3eW9uY0pnVUIwaDBtc3I5NXpNeGRLWlRxNDhKZDNkQm5iNDVtYU5xYjJscHRNR3hkb3JrMWZzdnQ2anlzaHd6NXhodEVsZXE0aXpaNEtKT2lYSg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-13T06:55:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a8f9bf7155",
-   "title": "Ramaphosa heads to Silicon Valley to position SA in global AI race",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR09xVVVrbFFldFlfVHZLSnhJWlQwZHJucng0aUViT05TN0VLbjY0X3pOUERjcEpPM2g4bGkxZE1EaURCUEVrNWFRa1llMXdEbUttclV5MHRJdnhIc3oyVER5MDNzekxvOG9xWkhtWTNidFVpSURJRVliR1NTNmNTbGh3V0t5ZkxpR2xIdlNBZ3Y0VGM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Citizen",
-   "region": "ZA",
-   "date": "2026-11-13T04:57:30+00:00",
+   "date": "2026-11-13T08:52:42+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "60c0cc58a3",
-   "title": "Ditch The Dishes with a brand-new Bosch dishwasher, thanks to Bosch and Finish",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJSFB3OG9yb3FnWnQzbXM3cnFtcGhRaGQ2NWQwNHZXMU5zYTd0aktlbXgyN0hlMlhVUGFaN0RUU0syclRxdmYxRWtmcnFNZ3VEaXVFLXNEN1JHMFg3WmFjWFlSNTBTdEhmU2RBTTRrb1p6eTlYTTM5RW5GVFdsM2s?oc=5",
+   "id": "63a3cc0307",
+   "title": "What to do this weekend: Boys time – Turn the smell of your fave beer den into a fragrance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZnNZRkNrdU5NZHhyeHNpdDBRd2pMUWhRSDNOYlRUQWJkSTRVNXM0ZlViOEQzUDktU0RPakljRk52eERYNzdFNk9od002V0FWZ21BZ2htbnYzOXRJQ0FtNU8ycjFRcVdoUGgzdVNBR2E3TG9GQVlkNzhHYk5hV2dBemt3ZW5taGpDMFFNZDVCOXAtM2ZteF9TbjdaV3YwdjNWMVE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Jacaranda FM",
+   "source": "The Citizen",
    "region": "ZA",
-   "date": "2026-11-13T04:04:00+00:00",
+   "date": "2026-11-13T07:41:47+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -472,23 +537,6 @@
    "topic": "Tech"
   },
   {
-   "id": "5e9453a815",
-   "title": "Intelligence testimony reveals mafia-like networks, corruption and political interference inside government",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3lTSkNOcGQzUGxPR0dtMl84czhhZ1FQVUk5bHlTeHR2eWo2ZVg2cFVUdV9MY1doOE5GNTBEYnRnOG5jOHpjSnJ6NW9MeTRDbVBkRVp3YWxtZ2M4NmJjc2ZFVFZLaTQ2aU1Rd2N5WWp3NEhpQUUxd2FnU0todkwzZ1J6R2V5eTZrdWZyR3RCaDN4Z0FWMWFZOWpzbWpZemkyeWJJOFdmVjJvY1AxeUNBMXZKekRjSWM0eU9tR3BtU0FHWXk2VWtVWQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Maverick",
-   "region": "ZA",
-   "date": "2026-11-12T20:32:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "27286ac775",
    "title": "South African Fossil Reveals New Species of Early Sauropodomorph Dinosaur",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94dFd0MFRodjZuNW1kZFVTRmtPT0FfT24wTm0tQ2l1VndNQW1sT1ZGRmlOdjJWdWJCUlhOdTRLTEdPeEMyWTAwZ0dKMndKUkprWERZQ0VkRjV4VkdWV0w5SjdIbnFzTVoxeElrYnpiTmI?oc=5",
@@ -514,91 +562,6 @@
    "source": "MyBroadband",
    "region": "ZA",
    "date": "2026-11-12T14:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "02e5d6f347",
-   "title": "Beyond the diagnosis: Parent shares realities of raising child with type 1 diabetes",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjRRR2ZZVnFTS2pXR1U5ZEt2MkpKd1A1SWo0Q2kzZFNQazVpRXNCVlpBS1VEa24xN3l5R1ZHcFlINDJqaWgxNU5tMGg1Z3AxbTBMV3lCZzhDYTJ4ck9Sa1hDNUVXQmkyeFpkMTVBVlRUTlZ6NTZBSi1odHFINVNKRmdmTjJnaTBndDc5M0IwTXdvNzhiUlI2Z3NPWHozMTkxbkEzX2pJRnNUNkgtbXFXeE1aOGstcXRHOXVIam9hOVlRelVZ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "OFM News",
-   "region": "ZA",
-   "date": "2026-11-12T13:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "7310d62d79",
-   "title": "HUAWEI XMAGE Awards 2026 Ceremony and the Annual Exhibition",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3JIYXY5MklZTzlSY0lDS2xxRzVZRS1RZVc4TUlOX0xoOThYVnBNT2ZyQlYtVWV4VE1Fck41NU5NYm1XMXY0R2JFVWNfN0NKTlVocFItdE5nREQtTjV4VG40Z24wUVp2NGJEa2t1bmE3ekpYRldFdnJTZ0NPYnlQV1k0TXV6UFBvMzhndHJYSnVMdHN3bnNEelNRal9LUTh6VGtjY3BBZHo4YktFYWdTaU1uRXVsVnYyVXpDRA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Lifestyle & Tech",
-   "region": "ZA",
-   "date": "2026-11-12T13:14:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9fcf5d8688",
-   "title": "Your Favourite Bar Feeling, Now Bottled: Castle Lite Unveils Draught in a Bottle",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa25WRmMtckRja2RCN1pwTDhTV0lOdExOU1F6dGJVc2FYbmxfc3d3SUdRNmpDMi1hUFJ4VGdnOWd1M2F2YVFFbnRfMENjUG9GUjQ3aHM0ekpQUnZZOHliYm44S3l3c3hXYmVWSmdCb0RSOWxheEd1N09HRDJkcmNMN2VuVDgwdXRRSEluQjItNnJyTUt1eDI1aEJpOXFabVBvNWprbFpiSGJXRzh2RFc3WmhKd3huWS1jckE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-12T11:48:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3470045c92",
-   "title": "Taung Child dated to 3 million years old, revealing a tangled human family tree",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeTh2cmFSQkdYRkk4RDNqMTRGdGx2T1RqOG9tZXVGZ3hJSXBtVTk4OElfS0RGLXRvb2pfdmpWV1BEaHozS2l0TGRmdnV5cUFJU3RfUUswdncxNFl3T0dPVEZScGQ5Q2RtVkM4NkhrQzJ4UTM4ZTZUUGJSMVpQYndwNWFn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Archaeology News Online Magazine",
-   "region": "ZA",
-   "date": "2026-11-12T11:18:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5b4d316e6d",
-   "title": "Nadia Jaftha marries Reece Meyer in stunning Cape Winelands wedding",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpaa1FXc2NsX19uNG5xVmVDRlg3bFN5dU92WndzNWJjMm5vaDZXTmg1Z1B3ZWUwcC1sMTVQX3Q1RjZxUXFNeXRiMk4wUVNwam13bmtUNFVQYk01S1NROG9kLWVmcTl6UVMxRXNoeElWWm1CTDZYYy1NY05FaThvNnZscHZCZV9wQnZwZmxSTlVRM1p1NVREWHRvdVhtVlRycVFQVkdTeVJyNjBwWmFUWHlJTTU4cmpT?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IOL",
-   "region": "ZA",
-   "date": "2026-11-12T10:36:53+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",

@@ -1,35 +1,86 @@
 {
- "updated": "2026-11-14T10:17:02.300426+00:00",
+ "updated": "2026-11-14T11:52:46.868447+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
   {
-   "id": "a33a322211",
-   "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxN3YzWnlSc3BjMFFZZjRJQ3hKUHFWVHRKb1lDN2xJTjhxNjVkQnRQT2xfLTdLcWgtSG1Bck15Q3MzTWw4STNlQ3hXR0VPT09pT21jUHJQR2h0VEZDUmJLNVl3ckhJSFFxcHU1d0FWOVJtS19iUE9QTGNNWkg?oc=5",
+   "id": "d47a9e8380",
+   "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YMnVWX21MTVpXMkFoM0RFVHpuenBrazVyUjMtVklxRTFJNU9Wd3BmbFFwSDhFWE1hSjhqbUhsbVZtTlZtcWEwWmRCT1FCQmZwZ2xKUktMSklNNldDOHp3WjhPRXMycHZGdEJMallB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Xinhua",
+   "source": "Science Daily",
    "region": "MY",
-   "date": "2026-11-14T09:10:00+00:00",
+   "date": "2026-11-14T11:44:21+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Malaysia",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇲🇾"
    },
    "topic": "Society"
   },
   {
-   "id": "72385be6a9",
-   "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU5VY3FGdnpHeXpHa29PX0xYbW1PMjdKeEM5V0gtV29HcFdsOXUtSVpSRlA0d1JsWlV4QU45ZVpUYXkyb2hZVExrbUIwN2Nrc0pXRTllSURpLW5IdE5DTlV2U2N0MzE2bjFOWmlubTFnY3ZWMFN4S2U1RTB6ZDhaa0VB?oc=5",
+   "id": "58408758d8",
+   "title": "‘We didn’t see any change’: Melaka votes as Anwar’s PH faces Umno tide",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFHSAcYBQVVfeXFMT1VPekFvQzZ1bWprVG9DTE9xLXRUUDVpRjVJZjk4NGljYlpzTmExejNnSnhzNE95WC1ESTBaenpNOGIyOThvYzdFallnOHNlcXVRUmgtM1Uzb3JxWnBtRllfU0htQ0pvZTlKclZRZmJ3X09Hd3FaM3Zndk0tcFR5V2lPdHRrM0ZnOXBuNWxpck43LVRqbTFxek84Z1RGSk80Z29feFVLZkQ1X2g0cUFVZWl0VVNQMzU2RlRnYUJjcXpjQnc1bFdn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Astronomy.com",
+   "source": "South China Morning Post",
    "region": "MY",
-   "date": "2026-11-14T09:05:13+00:00",
+   "date": "2026-11-14T11:23:31+00:00",
    "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c5bd75e789",
+   "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Space",
+   "region": "MY",
+   "date": "2026-11-14T11:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d217af3904",
+   "title": "‘Constant fear’: lung patient’s long wait for transplant highlights urgent need",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckhqR3VHdFBuZW1rY2xhamN2YlV2QnVicHZna2RjN2pZMVNXNndoWFYyQjduV2dvdWgtdWtBclNUZkdRX1NiODdjN3hOeGRZM21zdEZuTG13b0owejJGajNBQVd0S2luQjhoTlZjRmFual82STFyQ0tNbktEYjJJUjJMMXRQVzl4UEIzbnVJdy1CRE9yR2hiTUhPVzhiUlpzc3l6eDlXaG1obEoteGdSUWk3cVVtOHlUUTBXNDdVNzFadHR3ZVRNT05fbVpaLUhKVjVzTw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "MY",
+   "date": "2026-11-14T10:23:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4fddd5a89e",
+   "title": "Beyond insulin: seeing the whole person in diabetes care (Cherry Lumley, 13 November 2026) - Patient Safety Learning",
+   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPdEhQU1J4SUhtVHlYNlk5YjdtWkZkUm9EQ2tjRENaRFltOWNFOEhoRTZLVWN1REJnbk84SG9LSnB4THVaX3VCdkpBUjVpa2VVU3FlMENEYlpVeXk1OXpaTlJ4NlpJX0o0ajFrLTRTZmZSN0M2M3gzOXhDeFlOX1V5NlJkcFdfbXFISC03blEtUEw1aGRsdExMN3FINS1aTW5pSzNtUzZJTFo5MmNmR0RpU25YeUxwa1p2UjdGLUd5RnRxNlpBb3lxZUpjRXY0RGd1NExETGlfVU5DZjlRXzVUSGhWb0xDQW9JQWI4VWZidmU5bjk3djJlYmI0OWtBRk9vbXZ2ZzNEeXRhdkx6SGJxY1BiREN4OWFjS20waTdZVFR2SmZuUEtQZzVUcmlGTHJJS2VSYnY0c3JsblNrc2xEaDJuTWkwdWJ2b3Fmd2dycXJ4MDhxenA5SWttMzdIMzIw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "the hub",
+   "region": "MY",
+   "date": "2026-11-14T09:16:57+00:00",
+   "coverage": 2,
    "location": {
     "country": "Malaysia",
     "place": "",
@@ -126,36 +177,19 @@
    "topic": "Society"
   },
   {
-   "id": "0b71f938e1",
-   "title": "PM firm in not yielding to pressure for policies based on racial dominance",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkpLcHZZaUhjaDFQSnNqWF84R0w2eVpWOFQzTkhRTk0tRXQwSnpVVy12MjZHa19mNzYzZDdzeVIza21jVTJyeHVWSER2UjA4N0tBVFBNRlAtRDlyVzE3bzR2czJtRldMdGNpY0tzS1VRUEllNDZ4TVZUeGNyT1R6MHpNR0hrVWRPWWZEWlU3SkJKUjJxLUU5UFFVQnZkMlNqUVkyT3hCdzhxb0dGck1UbkJoOEV6Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Malaysiakini",
-   "region": "MY",
-   "date": "2026-11-14T06:46:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8d96965145",
-   "title": "Brothers turn Melaka polling day into a family affair",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQk5Ic3JISTNZUnI1VEJGdWJLbWJjbVp1UkdSTDNaa3VRYkZlNDhwSndGdUQzWW9NdlM4RFIyVTZXTEhiRUtkZjZ6VDNCUXQzc1JJRUxRMnZZRndmNVdOMWR2TUl4X01uV2dUU0k2UWltNXVjMWtxX0pCazV2OW03Y1N5U28zcWlTTFFXcDJ4ejYtcnVObDJxWUhLRDdXRVFMZzlIeVBR?oc=5",
+   "id": "d44755999b",
+   "title": "Turkish-made missiles to be installed on Littoral Combat Ships, says Mohamed Khaled",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0xSWTVOamEtajlUb1U5N0ZrYVdaUUYyTjJfaUhXN3J1eW5BbzNmRG9lbklxZnp6STViOTZUbW1oZmRSZ1pOT1dKQ2xEWVVLeXRxelpjQVRsMHh3QllJc0EtRkdHV21sQ0gxdTlNcUQ0VUtZYkhuc3F2Tlg5Y2VfU2VyTnAyTWU1NFlPcnVfZFFsVkNwZVdZX3k5NFQ1WUIzXzhtQ296TGF5VnFSbk5McEhaQlRxRFNRNzVMMDdXZWtHSnNOODVpYkhkRDI?oc=5",
    "summary": "",
    "image": "",
    "source": "The Star",
    "region": "MY",
-   "date": "2026-11-14T05:43:00+00:00",
+   "date": "2026-11-14T05:14:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Malaysia",
+    "country": "Turkey",
     "place": "",
-    "flag": "🇲🇾"
+    "flag": "🇹🇷"
    },
    "topic": "Society"
   },
@@ -228,21 +262,21 @@
    "topic": "Society"
   },
   {
-   "id": "a0fed2db16",
-   "title": "Making diabetes care fit more naturally into everyday life",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3E2amdzRXJySTFTU1NDQ0hKNFBFaHRwdXhEQ2JhTTVkTllWb3MtRGgzeWhYcDFBWFhaaHJ4RjM3RHUyQkFrUlhtaWtBa18yb1E1cGo0amVXQVBNZE5iNDFQSWNnWElXOHhMWEpCVGxPRVJ6RGZwUmRtNU80THhaZnFZX2NEMEdGbXlGZWdfSk8zRzY2dWU4S3ROUU1PM2VvTDZXQmdxMEtpRjdISV9iT3ZRZjFaQVFsSjU0RA?oc=5",
+   "id": "eec1d69421",
+   "title": "Najib's 8-hour movement involved hospital visit, Friday prayers, Prison Dept says",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPellPRVVQeExkcmM3NmxNMzlqX091QXFmSjJrOFlkSEpDUlRVeU5DcjBBYkdqSlhlUGFPSHRYSFdsU0VsVGRrdXBfeWtxY3JVQkQ1M01RMS1wX0ZUaTJpUElIN1h3VVVwWC02OUhiOGt5bTg2QVd6Um9yVGRkLVM2eHpmTlhRSGo3UnZUdGFjbHA3X1hfZ2tTWHZLVGVfNjZmM2JGRGxDRm5fTzc5Y2ZqMUdoSjNldjY4c01n?oc=5",
    "summary": "",
    "image": "",
-   "source": "Free Malaysia Today",
+   "source": "Malaysiakini",
    "region": "MY",
-   "date": "2026-11-14T00:30:00+00:00",
+   "date": "2026-11-14T00:38:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
    },
-   "topic": "Society"
+   "topic": "Health"
   },
   {
    "id": "e74389530f",
@@ -262,36 +296,23 @@
    "topic": "Entertainment"
   },
   {
-   "id": "cce95bb4e9",
-   "title": "Melaka polls become test of Najib house arrest row, with GE16 battle lines emerging",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFJIaUJPeTRvS1JSbmtJVXc4YVNCcE9qMnB3N0tlT3hvSjc5X1RaWDVqdFZOeVh4TnRtdkY2UXhIandsLW5kYlBSdG1DT3FzRFFSRWNuX19lYmNfMDA4MVdnTnl3cjVtQ0VOY2RaWUJqdEVKeEFQcHh4UG9Ld2t0blFET3liZmhOd0ktZVJmblVOdE8zd2NCZVBQa0NFWWd4dlVKZ1Qzcm0wQjlqVzZ2bGtmVFd0ODhveV9iZEZSZXdZSncxTmpqVnBuenB3MXpkSnY5WUFvNNIB3AFBVV95cUxOOVdma3otYzRfOGlDVFJvNXBteFBtbWZqQ1FEOTNJbmYwNTJxZjRWTzNQSnd3MnllUjBRY0pWVm52Q2xqVDFYYVhweHUzd2p6OFVzN3JHMEd5SkpVQmNhZkFhOV9KS1hhX2pVM0hpN0FPVnU3R0RSdzlNN2stMzR2MTlnVUczWi16SmRVYk8yTzJBbmRRa3UyazItelhsUkkzYkpGUWUxeFN2cG1JQ0p1YXFvMGktZ0g4b05JSkFHZE9CcXdrZ05ZQU9iU3JmYm9CWmRJV3h3VDROQ1NU?oc=5",
+   "id": "d64af320cb",
+   "title": "ASEAN leaders gather in Manila with South China Sea, Myanmar in focus",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGtIbDM5WFFycHhxZndnX0lWcG9mUlNIVDNfSHcwOWNXYXlaU2hWeUo5Rmg4ZG1qRFpzeHRIdE5Vdkd4dWQ2Y1FsY1FTYzVhN3BxOEpjV0g5eVU5VTNURV9pUEVzMEZESXFyRkJBb2lLR3R5cVJNOVpHdG5WSU5XZzNvZGxHZVF3cFNhM3ZnRjNyUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Malay Mail",
+   "source": "CNA",
    "region": "MY",
-   "date": "2026-11-13T23:04:38+00:00",
+   "date": "2026-11-13T22:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Malaysia",
+    "country": "Philippines",
     "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2cac0b00dc",
-   "title": "When one person has diabetes, the whole family feels it",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblRGOEFmM2puUzM0eFg3UXlzR3JCd2xubWF0aUNhdzh3RU9MSFRSdzIxTGR1TVNFTTBNZ2lVLUNTRmxzWFM5Z0h4RnZIMjNGRWdfMEFXRm5NQndKNWhqWGVzTDZ3Rm9MU096cjF3bk1PS1hxMVJMelNWWHpGa1M5VXRxemNCRlRZS2o1Q0pCUTRLbUMzc2ladmc3OGNTRFU1Mk9PeWZmUG54ZGgxWkFOeXpUb2FEYWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Free Malaysia Today",
-   "region": "MY",
-   "date": "2026-11-13T23:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
+    "flag": "🇵🇭 🇨🇳 🇲🇲",
+    "also": [
+     "China",
+     "Myanmar"
+    ]
    },
    "topic": "Society"
   },
@@ -313,36 +334,19 @@
    "topic": "Tech"
   },
   {
-   "id": "f92ece3b06",
-   "title": "Measles elimination at risk—and what a Florida study shows about Pfizer's COVID vaccine",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVndNYTJlamI5RXluVklYQmRWYmRVejJrQXJSRXllM00tV2llbzVJRWNseHVtR0k5Y25vSG9DelFPdlBPSnpFTDRlQ182MlMtOXVoc3cxRWloNFBfWHVNajRVOEdfNTQyN2lQNHZuaHl0Tm9rMU5IbGsxT2ZKaUlaTTZCXzRabFk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Medical Xpress",
-   "region": "MY",
-   "date": "2026-11-13T17:00:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "7c3a83d344",
-   "title": "Thousands of hectares burnt on land owned by listed Indonesian firms, study shows",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONXNVNW16d1ljQ2x4Y0lJRnhjLUZkOGZUZTJNbC02bXhNNEZjWHdIaEdnYVU5QnFNWFhQWFBoVnFhRl94UGZSX1VzdnVuX3pyVll4bjZqZFhpSmlwNlpMa2RMSFpYSFNiX3c0elFPamdGVmpUdGdmeGFWT1huYzNvZWMwS0h1bEhEZHBKVXBQaEdlM08xUEZiUzlsM0N2NHdZd3VaN0hEamsybjRMTWR3M1Z1S3ZKZmJScldUN2ExS3d1Qnh0Tk44RExuNjN1VGJ6TWJTTENDU0ZJQlU?oc=5",
+   "id": "d6924aee09",
+   "title": "Filipina nurse reportedly quits job after being mistaken for Meghan Markle’s father’s girlfriend",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1Z3RlZqWVdnVXY4WDBjNElZV0pEc2QwcHFkR0JXUW5PYW91WjZXR2hDXzFROWEyZlRZVHRVcE1GZ04xWXEzWk5CZnpuMURmV0NNX3c0RUZFNUdYcHV5NUY4ME9NNFNUOTBwYkNOMEFMdkhFN2huLUxPeVVtcndyeDdwNmNMdjNPdDV6UmdpcWlvZVNNVnpDYkNzSFhzYkwtaTRxN0w3LXpnNWg2dzZmQUZLYlA2bXloSHp0aWR4eGg0REhyNzM1djR1LV9Cc0dYMzAxaU1ZZFd5UDZYbWNjTUVPeGktMW5rMkVQVTFR?oc=5",
    "summary": "",
    "image": "",
    "source": "The Star",
    "region": "MY",
-   "date": "2026-11-13T14:23:00+00:00",
+   "date": "2026-11-13T13:31:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Indonesia",
+    "country": "Malaysia",
     "place": "",
-    "flag": "🇮🇩"
+    "flag": "🇲🇾"
    },
    "topic": "Society"
   },
@@ -362,6 +366,23 @@
     "flag": "🇨🇳"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "86a05667dd",
+   "title": "Man Utd highlight three reasons why they hired Pochettino in official statement confirming new manager",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQThVSHVGbzgtanJ1ZlJNYndQQUh0WlU0NURjNEVtamcwSkFCVE1tYTk1Q3ZEWkpiU19XVzQ4LTEyYlY3R3JlTmRMQWw2UW82U2tFSm9hbHVsaVdVM3g4V2ZWNklsc2Q0QXptN0NfNEFFYlpLdUs2YS0teGUyUWQ0Ri00YzFnRGVrbFE3ZnR0NGRhMlZSX2phMk90M0pmdXVGeEM1R0FnUS1fQXJ0MGN4ZnJCdUhzajFrOUI0a0xYRmIxczdSOFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TEAMtalk",
+   "region": "MY",
+   "date": "2026-11-13T12:29:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
   },
   {
    "id": "c2d633789a",
@@ -398,38 +419,21 @@
    "topic": "Health"
   },
   {
-   "id": "574f4515f9",
-   "title": "Mauricio Pochettino finalises terms on huge Man Utd contract as Old Trafford arrival date confirmed",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjhRU0xZdG5JN3ctU2VWXzZQeE53bVkzWUFGS0tCend4NmtrWmFqRTRSZ2xsZ1pvLXJfOFhKalZ0bnVEQ2otczJ3R19HaW5uajJnSVlhUnFBQnJ2ODVWcGxDSjJNWU5RNE1hZVU3TUd4cjF2RUlVZmtfMC1PTzlaNm5ERUZoeDB1V3M5amVKc3k2Ny1UcnZoaWtJdWJkWXFyR0hoWTFack9FTWpwbTRBdGpjbEQ2cVQycWVrOHRZSQ?oc=5",
+   "id": "3c8ef5c695",
+   "title": "Jensen Huang's tech superstar status made Taiwanese feel special",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY192cTlCOWxDZ0hrSElvMG1qUnNxbGdxQUw3UnFLVURSaU5tRUpCelowdW53V2l6NFUyR1g0QlJMbktsMllabVhPM21nX3hDUHJUcWdHSDNyemZkQjJEMjYyLVJpRDAzSzVnMmtvM0dvMmwyek1pa09RMXlqdHFDanlha2ozTW1ob0ZBQXpYZEExTUJoX1ppcWlNenhGUjM0TjN4dHlDN0Ftbm9ZTU1GOWRSZ3dwUW1yS2c?oc=5",
    "summary": "",
    "image": "",
-   "source": "TEAMtalk",
+   "source": "Reuters",
    "region": "MY",
-   "date": "2026-11-13T09:41:01+00:00",
+   "date": "2026-11-13T11:00:53+00:00",
    "coverage": 1,
    "location": {
-    "country": "Malaysia",
+    "country": "Taiwan",
     "place": "",
-    "flag": "🇲🇾"
+    "flag": "🇹🇼"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "ecac0527d7",
-   "title": "No need to rush decision on Transport Minister's resignation, says Anwar",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVHZSRjVPeUFONkdTN042b29mOUlpcU1PUWxSTkI4NllpUFRGM0FvQjhLbUdtTGEyV2MwZm9Nc05BLXpKVzU1NDVscmJHa0gwWG94OFh5OXVrNkJXT21sbngzcExQRFpQYnpLOTF6Ujd0cjN0VUtLR3Vaa3BoREEteEh1bDlWTm9UM0FtdThyOTJROGZMWThuYTRGa2xmM1MwdGo4amlMaGdNMFJOdmRmSkkzM0pYcWRROEhqNkpiNXQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-13T07:49:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Politics"
+   "topic": "Tech"
   },
   {
    "id": "e67dfec334",
@@ -447,43 +451,6 @@
     "flag": "🇲🇾"
    },
    "topic": "Sports"
-  },
-  {
-   "id": "28cc0eb0c1",
-   "title": "Chinese cleaner with movie-star looks goes viral, drawing comparisons to top actor Hu Ge",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbldmcEhJby1lcjFTRkFyZnRhNU82c1FqdjBZS3gySmtxbnUzZmdXajQ0TU5kWVhQWllXRFY2S1Q2ZjhnOUplMGpxRW0xQ3Q4TWlVdmpwZjZIMUE1U0oxdWV1OXMzaDB0MWlLV0ZRUTBmdDhtYmJlbFVtakRfaHl5amhBcTY5bHdPaVpwcmktR05XLUZkVmNsWTBMMy1lTUdjekRLbXN2Y1ZuS1NPM283OEVUZUJpWjdLa2NwX2dHMjhXZW9hVmdkR2FDaE5lU3hFSjZSd09rNjN2OUk1amZTSU52Z2o?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-13T07:18:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Entertainment"
-  },
-  {
-   "id": "5f448beda0",
-   "title": "APHR urges Philippines to keep Myanmar junta chief out of Asean summit",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTB1NmtVa3lZNVVuWGFIbGFNSkdJWkQ5RlI1b1FCQnJCdDNoZndyXzJFVmNhc3RXak1ZOTNmOFRqdlZZS0dmV0VUZmpGMDdtdFFvT0pDZDVpcHI2OHYwcGg4QTliVS1lbGgzUmtfanlnbDN0SVowS1JhMkFDdE9IR04wZnJ1RnNnTWE5S1lDS0U4WW1YU25Sa3ZCRWt4TVFNdFVnLUNWa05qV01UYnIwWg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Malaysiakini",
-   "region": "MY",
-   "date": "2026-11-13T06:57:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Philippines",
-    "place": "",
-    "flag": "🇵🇭 🇲🇲",
-    "also": [
-     "Myanmar"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "8c0138f8e5",
@@ -540,6 +507,23 @@
    "topic": "Society"
   },
   {
+   "id": "5f474157e7",
+   "title": "Malaysia PM Anwar yet to accept Loke’s resignation as transport minister",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk02QU9IUWEtVzNZVTBjMnJZSzFWRmxZZGVzQTc0RjZONXVjNVh3WXpRMDNrNFF5ZUZPeEZySnViSDNDb0gxS2JaT2liN3ZmSkNvOTlNZkhtSnlyVDdveWN4SENoWXhtMTZHVjhFcGhxY0RJMHlsdFo4ODVFb2M3M2lDZWZFQWdJN3l5YlkyaEd4UXJ3ZU4yWlhsbmYza0pqejJKTTRfUmwxMy1mZXFF?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "MY",
+   "date": "2026-11-13T04:39:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "b76990f595",
    "title": "Scammer Pretends To Be Eric Moo, Tries Selling Chinese High Schoolmate S$7K Ticket With Backstage Access",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFo4MDUyOGZTdHpydGY3RUVpWWJiSVh4YzdQZi1wc1lvaUJGUzVHRWtWQVoyNkk3STJrWDdTajVoQkcyc2xIN0N6VTEzcklJT3pJU2RrcmJ0cjVjVnBGSUthWE5qdzV4SHZCNlRYSEVQeklWSEZjc0ZxczVlZ21TQW91UDlybkZVWHhDSTdTMWN5LVBRLVNqZ3Rfb1gzcEg4VzV2Zg?oc=5",
@@ -572,23 +556,6 @@
     "flag": "🇲🇾"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "554e5ef6d1",
-   "title": "Stronger Dollar And Rising Oil Prices Shape Ringgit’s Friday Opening",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmdJTEZ4TmpZZ0RHcU41OVcwWEpNdmVTRFg4MTMwd21kVkxac3c4SkZ1eERlNFZQMjIzMEZ6WXN3enV4dlVwQkt4UGpYT1JHNXBadWVBbEYtczhIcnB1c0hPMzMzQmsxMjBQcmIyN1JyUnMxeXZ4SDcxZzhINVUtWnVDOFBzMDVqZzJNZk1IcDlHRktnZWdKMWstbjFKQ1hGbnY0eXh6a3VjZWw4R0NPNTFB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BusinessToday Malaysia",
-   "region": "MY",
-   "date": "2026-11-13T01:31:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
   },
   {
    "id": "32871a0fbf",

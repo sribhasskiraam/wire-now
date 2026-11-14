@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T10:17:02.300426+00:00",
+ "updated": "2026-11-14T11:52:46.868447+00:00",
  "code": "GB",
  "name": "United Kingdom",
  "stories": [
   {
    "id": "3c17fea293",
-   "title": "Passengers face airport delays as US flights resume after nationwide ground stop",
+   "title": "Passengers face airport delays as US flights resume after nationwide ground stop - follow live",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tR2VwaG1CVFU3Y3BwZ09SNzYwT3JOUmc2X0dSLW9HbzRJTDduNnRKN3BzalhmSDlkc1owcExCaGZTNTNJU0tHdldrelFHc0dqa0x2QmR3?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T10:09:36+00:00",
+   "date": "2026-11-14T11:51:59+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -21,6 +21,74 @@
    "topic": "Society"
   },
   {
+   "id": "abd05c1b37",
+   "title": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWFEZUREQ0Y2OUVYYjNndHcwZnBvRWY0Q0FyX25hU0xfNnFCWXVVOE5OanBDUW1xak9mcGU3X2N2aVpwQ05TeU52eGdreFhiVlFoTDJBY2xSYnR1cThOR0NwSlZ3WDNxdWhIMk5aVkdHRDBHbEYyd0QzcldPN3RmWGd3NTAzZ0dlbWVhdERFUVBDTy1pRzVxVVFteWhJdFlHN3k4emlWbXV5N213aVJfczc1dUROUnBIN05nakxJR0VpazhVZm55ZWpUXzBDZ1BlX3VJ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-14T11:30:59+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "310b82a170",
+   "title": "Microsoft says services fully restored after global outage",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVpSTUpTQVVaR0dJSEFmSzNEQWduRC1WRVNmOGt1cms0VFRjR3VvaC1GVTNaUjdmcW9LRWd4ZzJaaEpIU29kVjB0NzZGNko1UjIzdVlIQWlzdzF6Zk0xeVk4bVhUdDI0Z3d0UFlsMXVkTUhaNjZ4NXI2SldiU1JYS0R1NjJVRlBDYmt5cjdGbVV0UVkzQ3dZdEp2TWVjNm15WTcxQ3A2LW0zc0ZWX3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-14T10:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "1cc420f414",
+   "title": "‘The social contract is broken’: young people on feeling shut out of careers",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmJDako0WUFGU3o4NklLZ2hrZ1B4R3QxdGlIZGJNWHZHb0QyQ0RubTlGVXI5Znh4UDFrVnN4WkNad19jOGVDVldFaTZId2ExaDdDVjBKOTJmbGZZc3hXRHAyLUtabG5QdDdqZnhYM2tCNGJkNmpGdUtLdURmSkpDaG9MZllXaS1v?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-14T10:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "272e12b5b3",
+   "title": "Fifteen taken to hospital after deliberate fire at Glasgow flats",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XbGU3WnBSNF8wQXhyQkxFVkF0dHF3OC01QnRPZFhOWnlSY2dld2NYd1NTU3dxdEphb3hKZElfamlLY3IyZlRURkZXbEFEUXRnLVpCRW5ac0NrSzJnSGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "GB",
+   "date": "2026-11-14T09:55:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "5e1b0f1341",
    "title": "Rare Chinese Qing dynasty vases could fetch £50,000",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SOENsU3cxRFMwVHhiQTdRY09YeEgxYXBKeXZaMGRvLWlrOWFtdmdfNjN3Nm1NQ3JWRTRLSTA1c25BajJXcUduTWJVdXlVTjhCNFhzSHVxSG9OSlpnWGc?oc=5",
@@ -28,7 +96,7 @@
    "image": "",
    "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T09:22:12+00:00",
+   "date": "2026-11-14T09:52:12+00:00",
    "coverage": 1,
    "location": {
     "country": "China",
@@ -106,14 +174,14 @@
    "topic": "Society"
   },
   {
-   "id": "abd05c1b37",
-   "title": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWFEZUREQ0Y2OUVYYjNndHcwZnBvRWY0Q0FyX25hU0xfNnFCWXVVOE5OanBDUW1xak9mcGU3X2N2aVpwQ05TeU52eGdreFhiVlFoTDJBY2xSYnR1cThOR0NwSlZ3WDNxdWhIMk5aVkdHRDBHbEYyd0QzcldPN3RmWGd3NTAzZ0dlbWVhdERFUVBDTy1pRzVxVVFteWhJdFlHN3k4emlWbXV5N213aVJfczc1dUROUnBIN05nakxJR0VpazhVZm55ZWpUXzBDZ1BlX3VJ?oc=5",
+   "id": "9c9301a598",
+   "title": "Will John McGinn take Kenny Dalglish and Denis Law's joint record for most Scotland goals?",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3d1dZQUZ1b0xMbXNJdXhYcjd1UF9Hd0x2aXVHelhSU2NhNGl1TVRCTHNSdU8wTTVmaGJrdWN0MGgtLS1DYVp4d3FlOXFGYjBjUFlvN2VvLWppVXFwSy1uN2tGV3pBOTlvdVBB?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "BBC",
    "region": "GB",
-   "date": "2026-11-14T08:00:00+00:00",
+   "date": "2026-11-14T07:49:46+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -121,23 +189,6 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
-  },
-  {
-   "id": "0feca66d8d",
-   "title": "Andy Burnham urges Welsh Labour to listen after historic Senedd election defeat",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xdjMyVUZsQ2NGVXlkT3Fua3U1bHE3ZnhGVFdfR1p1QXFNcjhrYXFhbHA4cjBHZ2ZuVzhYdkFiWFJtNmlMemgzVUI2c2QwWWh4SWxpdTJLN041dm9MNFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-14T07:29:42+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Politics"
   },
   {
    "id": "77e04dabf4",
@@ -174,6 +225,23 @@
    "topic": "Society"
   },
   {
+   "id": "e099620259",
+   "title": "The hidden risks in Labour’s ‘pension for life’ promise",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1VjZVFCczNoNXY0ZUlNcW9CZEsxQVZrRmpnTV9oOEhGQVNMM01JdExGUDExRDNVamtDUEdFQ3NYZ3JQcEUwcEhzR0lHdmlxVFlKdjBNQlRDYVJ2QVREZmpBZzJKNVlxWV9sRy0wQnloXzRha21EQ2ZOVXJkWVMxamJ2a0ZXam8tTGhKV1NDRVFMeVpOdXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Telegraph",
+   "region": "GB",
+   "date": "2026-11-14T07:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "31a7be19db",
    "title": "Liverpool’s dream January transfer window as Ronald Araujo trick repeated and £58m signing made",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHlXclFROVBOS18wV3JNckU4U3pNQl9BYUZLaGpFU3J1UV9RMWlPaUFGX0dHQWx2TmRiLXRLVUk0b0NSSEVfWTU3YlN2Y21DTDQzcGJzcXRiWVpGQVU2aVk3RVp2eUJLS0N2Z0FOUFNtaU4tdUdLWncybjBQaF96bjBHSzZwbnRZbjkxdmx6WnhEelBtSDNYWVBIam5ZNXNlQng4cUpPdXk2cjhB0gGyAUFVX3lxTE1LSkRyUV9aSmtWNF9UeXlHQmI4Z1dfZHUwUDg2S2xHOG03WGpCcmhrVVdhbFU1ZFFGLWw1dG1nM3NGQ2NkMFVPTjkxeEtQRjgyTlJjZ1pmWEFpeG9HcFl6U1BZT1BaMmc2ZkVCNWU2dE5GSFpLQWIzck1hOW5fNlFYaWZaYkpwT2VWTE9SeTZiQkxYSnVFUld3bkZLZ1Nmc2UtM1JsU3lhYUtsamJQc3R5VUE?oc=5",
@@ -192,7 +260,7 @@
   },
   {
    "id": "fbfc3c660b",
-   "title": "Young people should have legal guarantee to job or training, Milburn tells BBC",
+   "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adnUxNC16eDdUeXhOSzVWWVNjUEMtU0pTUEcxZ2xTS3d1cUlCa2hlQWdyQ1p0Tm5EWHo3X09FU3QydDZLUjhCNWhsR1dBVXhfUjBiY1AxUGU4VnVwOGc?oc=5",
    "summary": "",
    "image": "",
@@ -206,6 +274,23 @@
     "flag": "🇬🇧"
    },
    "topic": "Society"
+  },
+  {
+   "id": "1628430ce9",
+   "title": "From Cunk on Cinema to Prima Facie: the week in rave reviews",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1Wc1E1UGpEMVFEYldIQkx6cDE3dTE4UW1lWjFiUHV6c21FdktDXzlhd2lSMzJadjZaSFk4cmNwa0doQ0hSYlVFTVZ3cVFsZk55M3FpRUpwOS03X1d1VWF2U2E1TUZPWEFHRGNOWFV3YWtPQnYtUUlzaHE0c0JKOXNPTUNsd2ZMYlg3dHRoTDJoVEk1VkY2OVZMSDBUUTgxd21LZ21yZi1LQzg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "GB",
+   "date": "2026-11-14T06:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Entertainment"
   },
   {
    "id": "4dd7bae3f5",
@@ -233,23 +318,6 @@
    "source": "Rolling Stone",
    "region": "GB",
    "date": "2026-11-14T04:32:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "10a2d1032f",
-   "title": "King laughs and jokes with traders during south London market visit",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkJBcUxDVFdyRkJPZzdXVVJPV1lGa2ptTFJLeXBwby03VHF0RENsdmgwdGJvaFk3c0ZFMk9UUHd1Q1lDVFdkSm5pM2xlLU9KcWt6cERSQU9RWUpJV2VOVnl3SU0tN29ScTh3dTg0X0lhSkRaa3d0T0p1dFppVEZyWThISnoybGFmbktWR09n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "London Evening Standard",
-   "region": "GB",
-   "date": "2026-11-14T03:22:59+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -317,23 +385,6 @@
    "topic": "Society"
   },
   {
-   "id": "8506c6d6bd",
-   "title": "Scotland 2-1 North Macedonia: John McGinn scores double as hosts toil in Nations League encounter",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd25QUVVkQnByckNIRlBYQm5BZVFFOC03QVlXcEhIV0k0b016eTVEQmNneFcyZmhjSHJLRjNlbGZ1RER0cC1IeGZjeURqRXk1Ql9GTnl1TmdyTXN3VDFBMVdRQldkcC1yZHZBZ3hYMnE0YUxBckN2WmFEVEszbm00N3pSbE0tSmNkTU5TaUhvWjVPYUhpcU0yM1JxdC1KLVdZblNZX0w5NVFzblN1WWFpRlhzMUN1QzZvbmE1STh2VE1rRl8ydWNLclJid1dmSDJpYzluNi1qOU1EQk5vV0E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky Sports",
-   "region": "GB",
-   "date": "2026-11-14T00:42:44+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f7b0aad2ff",
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peXRGaTVTWHN0TTMwMGdISUQ3ODZlV3gxZS1GMWZnakRMdGRtcFpPUFExaDVfNDVHX1VOYUJ3NXRRSnZmcVZYdWtRNXVLRm9iR0pfMnB0VGJXYVJtR0E?oc=5",
@@ -342,23 +393,6 @@
    "source": "BBC",
    "region": "GB",
    "date": "2026-11-14T00:37:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "db389c8154",
-   "title": "Colorado Democrat beats Maga firebrand Lauren Boebert in House race",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0lRdHRLY3RicWpuV3JHT3RDQUJXRmV2ODk0MERsRDlxWFJNM1NUYm1EdlVYcGdOS19uMzY5UmhLWGRSS25mSUd0bm5iaWVwWkpBUXhUYTViaHdoaVZHM1lXTTcwOEpWU2M5TE5Ed0RsenM4eVNCdnlzblhuS2VsLWNhOGk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Financial Times",
-   "region": "GB",
-   "date": "2026-11-13T23:56:06+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -381,23 +415,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7d38c45cfd",
-   "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUNST2NOSFpoRGJ0OXl0aHAxQnRuMFVPM1pjb3hpaFNBcDc3Z2dDdGZ2Tnd1VVBtVmRzUDRNcFlINjNrMXgyeTU2STFObGt2aExKSEFIZUdnNHBnbHdyTjM1c0JQWkdvRDZRaVl2UWxzRjRVUEJjUFhraTRGdFd5ekRYT1ZLb2xHUnk2RXQtMUNJYnJWRXFDTWhlZFNSUi1MSUZpTEpPMWEzOVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sky News",
-   "region": "GB",
-   "date": "2026-11-13T20:59:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -436,40 +453,6 @@
    "topic": "Tech"
   },
   {
-   "id": "f2c30b67bc",
-   "title": "Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0ZWZFJCWmp3MUlFMFFrRExhTldkeEs1aEt2bVJDend6Y24yck5wUHlsNF9yNERkQWNsY25va25DMnpMWFE2QmtZVy1CQnlVMjZTNlBFM1g1ak5kWjJEclk2V0IycmFKRHg1RjU2M1RVaHhwTEJUM2hZa0FXaUZRWVRZd0tpTThCZkoxeTJxZERQSFZBb1M3SWptclpVVUVxUEtzSUFTMWxLcmM4VURJbXNCQ1NZQm9fTzBnOS00eGRiV2NRVUo3Rl94QnR2TnlfMGM5dUYxRmZuVDQzZzBWRE0zb2w?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Forbes",
-   "region": "GB",
-   "date": "2026-11-13T20:28:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "45e91f834a",
-   "title": "Setback for SpaceX Starship rocket's double-catch test",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wY1lvZHdnMS12VUlPWjYzWjFqcTQtMFhtOEIyQjhLY0dBSUxrdDlLaFh1b0pZbGc4djlnekl0MVVLVEtCc0k3b3pNcUNiOEFsRU01T0JPdjlqRmpGRHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GB",
-   "date": "2026-11-13T20:12:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United Kingdom",
-    "place": "",
-    "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "fa164102b9",
    "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZi1OWDlLcWNhQlFuaVJPaDd0cEg1VmViYy1jWElYcEZJU1NBOVF0RmE5bVB1bU9XMWd0QzVxN3pzcFRiaTdwakdGXzFFTnozQmpVLVU4ZDlncl9qbnNMSjF6QWJwb2ZQUkJrTjZHTGhreURqNWx0SXFORTRpYkVFUG4tUmE?oc=5",
@@ -477,7 +460,7 @@
    "image": "",
    "source": "The Guardian",
    "region": "GB",
-   "date": "2026-11-13T20:04:00+00:00",
+   "date": "2026-11-13T19:23:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -521,6 +504,23 @@
    "topic": "Society"
   },
   {
+   "id": "d7535c8cdd",
+   "title": "How long cold snap will last as Arctic blast plunges temperatures to -6.6°C",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRVkxbDBuZnVfWWh5cG9Xb2lCTkhiZUxTQkZUNURuQUFhS3R0TVEwbmdkSW9NQ3VrTmNzdWZPTVpXMXR6elltNEp3UjlDdXM5R00yUDFGZDhUeTgtRnpkWFplOGlDN1VZWW1JZnQ5S0ZfQ2pSamFWa05MX0lvcUU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The i Paper",
+   "region": "GB",
+   "date": "2026-11-13T12:14:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United Kingdom",
+    "place": "",
+    "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d35d6a933f",
    "title": "Authorities investigate whether 'criminal conduct' contributed to deadly Brooklyn building collapse",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWtZNjRpUkxxZUZHbGhCdWJldWk5dmw1WFZSd2NNMllFODI0M3ZxeFV0VlFuZWwzYlcxcFUtTFFHNmxTSzN0OTlqZXA2dW1sTEZzUnk3NTdHenVidDQyNWIyal9Xb2RsWlZXWGVtTFpUMXB5R21nMl9KY3BhNjR1R01fendzOU5STGY4ckxnOFQ5VUhEcmppYnJpTmgyTGJiblowV2FZNmFwN1Z0RnQ5NmpVTC0tdUdjOWtwVGdZVGhIM1U0bDIxaVJmNjBSQQ?oc=5",
@@ -538,21 +538,21 @@
    "topic": "Society"
   },
   {
-   "id": "3822510f7e",
-   "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzBDM2g2ZXNoVkJEUTI0Y1RvbDF3b09QZFlmdDFrTDFiUzZhRDVveFZIOF84MHhuV05ROUxROVdpNE01RzVYeUNDV2M5WDBKQVBfSXN4S183Q3M1cFZGTmVVZlRmZHFjT1lSS2RRN1VPbHlBOTB6VjlzNlkwMnNIb2ZpN1N5ZEtDZzMyWHJHdXdveHotRVh4WnVmcWtUanUtNUZCWGlnSmdiUFVDakJV0gG0AUFVX3lxTE1MSEZjRkc2M2NWanFaRFdhSHNSYnh5cV9yUkhlTTZ0T1h6S3RobTA0N3BucW1UdjR2Z1pPdTR6TUJaRHVETmZOVFlkZWozY19HNS11YkI0QlkxekRzR3kyQk5sSHlRN05zcXJzbWdxZklMb1NqVHBzcmw1YU1aVFJyTHQyZVExZEllVnNmUllSRzJOOEhMV0xJcExfbFJlTm5hcEFnVDl4UHI5OExWYV84Mmg4TA?oc=5",
+   "id": "1cf42fd94c",
+   "title": "SpaceX Starship test to attempt first-ever spaceship 'catch'",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNUFzSEZWOVpqRVk0VGZsbnFlblJqc3NlM3Bwc0VsOElIZ3dkQnBuSnFpV1VpcHVGcUVJLWg5eUdfenp6SVZSdGlYTDF3S1dzd2FzR2w1YVdCUFRpbzVtZmpEUjdycXVDSUUzSQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "Phys.org",
    "region": "GB",
-   "date": "2026-11-13T09:49:11+00:00",
+   "date": "2026-11-13T10:11:51+00:00",
    "coverage": 1,
    "location": {
-    "country": "Palestine",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇵🇸"
+    "flag": "🇬🇧"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
    "id": "2080997de1",

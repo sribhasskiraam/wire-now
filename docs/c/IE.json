@@ -1,44 +1,95 @@
 {
- "updated": "2026-11-14T10:17:02.300426+00:00",
+ "updated": "2026-11-14T11:52:46.868447+00:00",
  "code": "IE",
  "name": "Ireland",
  "stories": [
   {
-   "id": "28acccb24e",
-   "title": "Some Irish flights affected by US cancellations and delays",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51b21HV3VqZFRad0wtTUdkejg3ckVQNlc2T1VITVNBMXpzYlIzekxhcnduZmlqbXZPaTdFaUtzUzhwUTdoY3RKZG05d3F1S19MbmpHRWRwQjRtUkZEX1RDbDBmOHB4c2I1SjE5eHh5aEJnMVBONHZvcw?oc=5",
+   "id": "2a2ec93a28",
+   "title": "Behind the music - SWELTR",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejQxSTZTa2t3dWZBNjVlb1JFclZkdDF1bUxzSXFWMl9wOGUySXdwX0xhcVdBNHVHeVNSU3ZDNUkxb0V0SXFSdnBYUmdqTTFUMUZVODlsT2NMMUVVSVItSDRRZWFiVlZ0WVE4MnFDeTRhek9jRDk2MXZqeTNEdkRpcQ?oc=5",
    "summary": "",
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-14T09:12:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪 🇺🇸",
-    "also": [
-     "United States"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7a64356277",
-   "title": "A brace of €1m sales in an Irish art market enjoying a period of rude good health",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DOGotSzlOV0FPU0tjQVJUSEkxWDVJOUtQLS1kVmJwY1Z3ZHYwSUJFS3hLdlJWZW9fYnNiUGlId0VKVGVVYlRpR3Z3NDliYUx1Q0lIRkx4a1JxeEgzUnFERXpGUklJbjdlQXZyOEY3Y1RWZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Examiner",
-   "region": "IE",
-   "date": "2026-11-14T08:56:00+00:00",
+   "date": "2026-11-14T11:26:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Health"
+   "topic": "Entertainment"
+  },
+  {
+   "id": "e219516b44",
+   "title": "US proposed Donbas swap for NATO membership - Zelensky",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1URWFPT01PZkpDTG1OUTdnSU5PNFAyRER2bnRNRmxwaTNXb1VMZnVaWkpkVkhIVXRtR2ZKUVBFN254NlRVZE5aOEloVF9uQWJzMzdzcmYyZy1ad084NDc5U2Rka0FiaWhaS0FvSy1LT3dLVVFod3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T10:52:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇺🇦",
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7e04ef63c6",
+   "title": "Talented Donegal man scoops prestigious architecture award",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnQ3ZjE5Z3FlVU5SMmxzczFFS3o1ZktRZTFHbGZ0a2xMdllPcUYxRUNuQUJLUkxDbXdTWjNqSlI3ZGdyODdUazNHVEtWdk1WSjcyUEcxNEZLQ3JNaENJbHByU0JBbGU0WWtLRjhGbTZSN1pHNHBTdTRqV3k2WmUwbFl0OGx3S0N6REFCWnc2cVZwZVB1X3BSWlJ5dUFCR1BKd2tjYzRsNXllNms?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Donegal Daily",
+   "region": "IE",
+   "date": "2026-11-14T10:23:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4d6e54a240",
+   "title": "Lorcan Mulvey's duties extended as Fulham Irish chase history against Castlebar",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2JYOTBzck5kLXlpQnJTaDhfMEs5VEZFdE5JTUE2OWJvcEhYa3ZZRjJkaXZsR19ZUHVZaUlSeU5rNTdnNmpXUmtFZnQzZ1Z0NndZZDUtU1Y0eWpURFFCWUt1d09OUHlRdndDSHFITlJESnBmZFRQUHVkZk9BVTJlM3NLclVLSDNtc3VCSEl2Y2JVQ2hPblhkSF9NWWhjZmFybjl0QnVrNGtVUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T10:23:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2de6aec705",
+   "title": "'I don't know what to do' – student pilot lands first solo flight during nationwide flight disruption",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzI4anZiUWhmY1E1VWJlUWFKTmVtUnUzM184WDhfdGY3Tlp0c3ZLLUh3b09sN3lPZC1WLVd0UzBmTzljT25YZWFUVi01b2Z2Sk45a2hBWWVwcVY1X2JadXgydmtkX1k4SFJVdXlQU2FzTm05MXJrX3JwOHlWejRFRHNhQVFLX2s?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Journal",
+   "region": "IE",
+   "date": "2026-11-14T10:18:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
   },
   {
    "id": "7aba801e65",
@@ -48,7 +99,7 @@
    "image": "",
    "source": "Irish Independent",
    "region": "IE",
-   "date": "2026-11-14T08:32:53+00:00",
+   "date": "2026-11-14T10:13:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -58,14 +109,14 @@
    "topic": "Society"
   },
   {
-   "id": "373fc64279",
-   "title": "'It just sucked the life out of me' - Ryan Baird mastering his craft after 'soul-sapping' injuries",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGhNMGlZOFlIcEN6ZGotSGQ5eGtCdHdDZDg4X0tQRHh3MXRSRmx4XzQ3WTdrdW13MmxTNEstZS1ZT3lsRTd0N19zLTlrRDB6Rmd4enJoU2E2RlFfejVpeHVlZFRZeUtqUWt4bHFWeFlwX2ZBSVlaQTlqbHdULVh1Z2dYeDYyaEJQcGQ2Uzg5SFlLYV9EZFhmaTRocTRoSEJpOXFpZUFn?oc=5",
+   "id": "ae333f553b",
+   "title": "Fielding says he has had no contact with Brand in years",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHVyZkFVZDNTNzkyTkh5c1FLZDlwQ2xCY19YS2pMZ0Q2OWRPN1Zvd3Q3QWVOS3BIdW9qSTdiOGd1RWtFMnB3VndSYUFLYVZBeUk1Y1RMV3p4V0djVEEtLXFYdUxOTXNkM2tXTlhjYzJpaVR0QnNETElXN2JlWFhlbEhYbV9ZVTdWTERIRk0xM3VjWHVHWEZxblB5UGNCVS04TWpwNW1XNmQ?oc=5",
    "summary": "",
    "image": "",
    "source": "RTE.ie",
    "region": "IE",
-   "date": "2026-11-14T08:07:15+00:00",
+   "date": "2026-11-14T09:49:26+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -73,6 +124,60 @@
     "flag": "🇮🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "4d7cea449a",
+   "title": "Important collections propelling international art sales to new heights",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RazNwd1lZajB1M1pMZFZET01PYTFqUEtBbzZGVjl0QnpKNlhHZElUajBPdlp5a3dDYUZYX2RPeFVxejR0c19SeDZsYzNQTW5zakhFa2NNTVBpbEU1dVpCbmx0WU5JUHBnTXUySzgxQjYtZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Irish Examiner",
+   "region": "IE",
+   "date": "2026-11-14T09:05:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6f6a02129a",
+   "title": "Maverick Moylan enjoying his surge to stardom in green",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlIxR1RBUzIzSWNHMmtzSVdyMzVuS0dWMnV4b2JJcTFSVXowT2liY2l3SzU3SEYyekhyV0FTQVZfSk9ONjJLb2FXTWppWVhYejI5WF93RS11b3VEWDVZeUZzR2FVTkhQQkxCNFVORHVnTTFjN25jMndMYjBCNGpsSVNFcjU4Q2RCVDNrcHZ5UktEX21aVUJtTVZSX0M5T0hnUzkxdmxYWnE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RTE.ie",
+   "region": "IE",
+   "date": "2026-11-14T08:03:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fb444f8a5f",
+   "title": "Dublin Airport warns of delays and cancellations after major US aviation outage",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVBTcU44akZld3JleDhrWUVXb2lRU1g5V0l0bG02WktUckJkWEhlOFNHWlVQeHVQSDNUS2c4eGtYOFJ4ekxsRVlMNjFvdThobHk1dkhkQjF6UnE3bl9ESUZVLWNTbmJpQ2I5dk10dGZBUUNmakRJbWMtUEdqdjh4X2tCSThYVExKRFJ5YXZUbk9GbERVdmhtNFVpR0xQWnQ3NmZkTFRwbHpfdlk3WTFRX3RJUm0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BreakingNews.ie",
+   "region": "IE",
+   "date": "2026-11-14T08:03:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Tech"
   },
   {
    "id": "35784d4670",
@@ -146,23 +251,6 @@
    "topic": "Society"
   },
   {
-   "id": "2a2ec93a28",
-   "title": "Behind the music - SWELTR",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejQxSTZTa2t3dWZBNjVlb1JFclZkdDF1bUxzSXFWMl9wOGUySXdwX0xhcVdBNHVHeVNSU3ZDNUkxb0V0SXFSdnBYUmdqTTFUMUZVODlsT2NMMUVVSVItSDRRZWFiVlZ0WVE4MnFDeTRhek9jRDk2MXZqeTNEdkRpcQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-14T07:00:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "be5a57ee79",
    "title": "Parents urged to get their babies vaccinated for RSV ahead of winter",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR29aUnozQUVDN1lkTTNyd2dKeDhheGJBRDJfOUtLRE9QSEtiWHJZRHVhTm9yb08tNEZFMU04LVcxS1JmRS1iT01Cb1RWaE1SYUZIY09MckZTeHlKNTJZcHJHZHlqYzNHcFd6WUd3dnlGQno5U2ZNaHNCSFVrd0F0QkJsY0NEM1dKMHZqRF9od0dqNS1WZWRGVw?oc=5",
@@ -214,9 +302,26 @@
    "topic": "Society"
   },
   {
-   "id": "a8884fead3",
-   "title": "60 unique Irish gifts for Christmas: Sauna swimsuits, cashmere Arans and handmade dolls",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3IzblVfcFpKcGxoOGhTX3dxZ2Y5TTlfSldBVVhidlNhNVdyRU1FR2l5b0JWOFRNcmJhMUs1M05yVjJBRnBtOUtPNnYyUTlNZVM4VWNmY29DVmtVYVRTN2xEWTZrN1dtd3pMVzZRWWV3TElUZTRSQ253VTM2S3NGaDVXQ2JlTU9idmNoOGRaZ1Zhb1R2SVNiaTZlQzhQaW1IX2RETE1FWE1IU0xRSkdIZmtYN3pJcVRpVl9BeC1lVU1la0NLMmNvdENJQXJFb1F5RER6REpWZHkzdw?oc=5",
+   "id": "959a47036a",
+   "title": "Ireland v Fiji: Slick visitors capable of causing problems for home side",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmRuMlpHUEhicXFKRTBKQm1tdW1KcFJ4NFNROFVMbXVyV09PYmZoV0VYTXdJT2ltX0YxUjVwTHBpaUNhc2ItLXg2U180R290QU10aW9Fa3RnZGloZEI4RUJfWmNJVlExSFpyYWhiQS1sazhFRWo3NkZmRTJTclRTZDBxeDF1SWZEeHBoWWFjaFJhQnFJclBQTnBiQlY3NEJBa3dFckNsMHhNQVR5RU5ydVluc0VMZXlrSkpVUFBhYw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IE",
+   "date": "2026-11-14T06:02:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0184e70b97",
+   "title": "Maura Higgins from Longford to the US: ‘She’s on billboards up and down Sunset Boulevard. She’s everywhere’",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdTJQQkVWVnJMWHdHZE1JOHJ5VUs3Y3hsQ1ZsV0pidG4wWnRsS2FSVk4yVEpuYzM3S0tlTzEzNlhLVHprNWZJbVhMSlNEZTdNc2x3d1lYel9NV1VkWTZyQ0JwNkhPdmRfUnRycm1ndmxNc0pUSm1mMVdKLTM4UVFIQ2RqMFgwdWVEd2l4TkdrVWpSbWRuZDZTLXBUOEFWcWY0ZWktUlJHOW93ZjlqbVpFbHN3b0RkTTktb1ZwUjk5V3V4OVR6ODhrQ2lMR0dNNnNlR1loRFVncmxSZHl5WEtwTHlrMjdHdHFwOWhTYy1vQQ?oc=5",
    "summary": "",
    "image": "",
    "source": "The Irish Times",
@@ -224,9 +329,9 @@
    "date": "2026-11-14T06:01:57+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ireland",
+    "country": "United States",
     "place": "",
-    "flag": "🇮🇪"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -265,60 +370,9 @@
    "topic": "Society"
   },
   {
-   "id": "5907fb40f9",
-   "title": "Nine ways to prepare your home to sell faster – home stagers reveal insider secrets to successful property listings",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxON3R5dEZoUDFSMlRNZ2lOV201RzBKWE5Zdi1pWjhFUElqdEh4WFVUWFRVdUhELU5jRDM2ZV80VmpxQkhkU19xQVhIT2xFNjVGbncxVHd5Q0p4bHpqdUFOVnhlY3VxSWdxLUxhVURkYWdTQ2JtZUloZWhtZ0dYVTZYR3JmUHd0RWgxOVZ1ZnBtNEtiS0VvcFdZRzRjMTBIcGFGYllENjRWbWF0aVB3UHIwYnpVbFBGa251RXl3Y2VrT1hGSG9wZEJKQmZNNlBxMmlzZkg3UzVMWVg5OWM2UW5ET2c5ektRSGZYcUtvZk1ROTA4WF9uTnNLOFJfZ015Vm9qdEE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-14T05:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0cc735db09",
    "title": "‘Everyone was crying in the control room’: Bell X1 on the first day back in the studio after losing bandmate",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUjcxZDI0WWRCUDdSY2VJSk01VFJyQkFhZnZLYVV1U1I3ekdDYXVKWlpfRmtpRGgxeTA3VGJBRHk1OGlBRDhUdmo5aVBlMF9DQ01MZkxnZnFaeUhCaTh5VzA5ZTlnQ1NfVm1vOW84QVBXS0dxdUQwM3dKTUdQbzVDVVBkUGZ0bnlIYVVnSGF6bnpldjRmMTlnd2dvb1JpY09YM2l0dW9RTWJ4TTZFUUFEb05uc2k2NXZlakxkS1UzejEtRDdYZnQ5SFlFajZldnlSbVhISkxHdldFZ3RBZ0VqQ1dyQUd5TzFacVlIYlJFd1pqRkNwMkE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-14T05:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "45bf068553",
-   "title": "‘He’s still the same Johnny’ — coach Sexton’s influence within the Irish set-up is growing all the time",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd2lHZ0dQV1M3YUJIeVVqVkdZNXlPbEJ5bTkxMjRTVEtPM0tpdnFza01EYWVHeGJOS21UaFlXWFRKOW9obkpMRTJEUWExbmptaTlERldLZzk1WWRaWExRSk9ldmVJTjZxRlMycDEzRDgyOFRvSngtXzdxQ0ZLSkhQamlQWFRpei1lY2tWS2VSdWNYQTAzTE5QV01zWV9zeUhRcWdVTmZ3ZjVabmNNV3RUNmFRQ1hIRnNhUlNaclJ4WWkxcnc3Z05yQkJpYVpfbXp5eFI5Y05jQU5oMEFuU2pIaHU0UDFIRUJo?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Irish Independent",
-   "region": "IE",
-   "date": "2026-11-14T05:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9db911364f",
-   "title": "The dramatic rise of Jack Moylan — how a player made by Damien Duff and the League of Ireland has become the breakout story of 2026",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOOExnaFJ0Vl9EWEw5VW9lWTJIcldJZTVYS0NUaG9NaFRaZFBWYURwY0RlcUtQcTJmREdXZ3JRU1lxZjQ3bEZackpTUF9XWGNhRkFEOEpvQ2RWVE5RaTcxMlBwMGQ0X3hINmJjYkk3Q0tzZUJZZUVBeWxoSzJ2V1JrQlg0OVJWSzlBRjFheU1EUHctU1dlYnU1bTdpLUVwVmhaMGFMbXh6VUMyYmUtUDhFelZUU2lqclVyZnNaRHhWWXlEQ01tYjNMQWFSLVVIQ21aejRKWlozS3E0Wjd6cm92LUlOb1lzMXBMZW5jUy0yNWNmRUIwTWNQdzAtcHFfSHRIVVZyNVhuSDNUeWRIQ2E4WTdzdzRkMkgxS1RFZXhVTDlvVWo0MlVna08tNmU1MDlU?oc=5",
    "summary": "",
    "image": "",
    "source": "Irish Independent",
@@ -350,23 +404,6 @@
    "topic": "Society"
   },
   {
-   "id": "bcc22e41d4",
-   "title": "I Am Helen star Nicola Coughlan delivers powerful message on Late Late Show",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRl95dldPTnFsSTFlVG40eGxzU2ZFRG5oRk5rajVkT2kwX29VQlR0WGRpODhobWtpckgzR1RPWFpWcDRaNHZOU09OZWE4QVRsa0s1Ny11cXpfS0ZDRDBCSnBDRFl4UVB1Z1prQjdSSWJLSkJ2NnlzWTIzcmFtamJweGRNSS11X3E1Yk1feVlGNUwtTGhmSUhCV1h5WlNaNXA1dUZMdmZfaFFtdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTE.ie",
-   "region": "IE",
-   "date": "2026-11-14T00:18:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "226e8aed63",
    "title": "Tinder owner fined €11m by Data Protection Commission",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2drNU5OaXFkSHMzRUdiVnJ1dF9RRHFYZU9oa3NfSXQtVFJza3cwOEtRdnJjT3hOcFkwTHlRTVdObUN5a0VHZjl0NlVWeW1uWFZmVG85QXM1d2tJZUVPSGhVMFUydG1TQS11OUdiSVpVaXJuLXotWnE5b3VnQmVmN19GWWRCMHNFdlJXMGdiYl92eGhnZzNTdFpNaVAxUkM3RVF6WkNOQQ?oc=5",
@@ -375,23 +412,6 @@
    "source": "RTE.ie",
    "region": "IE",
    "date": "2026-11-13T21:54:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "22b284d4f2",
-   "title": "Explosive device found at Dublin’s Merrion Square made safe after major security operation",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjc0V2IzclBCVjgwWDBLUWVLcW9xU3VhWGk1a1VtUkxRVlF2bVZ5WGZhNnh1S3pIR0pWUVVMZ3piRVNFcXhkTFNCSnNLUGVDa29PUzBZdTMwOEM3ZGUyVnMwalRxeEVMbmRQVEJSWnlGWnZHOWQ4dlgwSG9lcUpvYmRYY200U3I4U2JhQWM5SzlZNVhNRC03bHNTT1B5V2d6TGs0MHZMQ3BHNG1NTnlJZmVEeGg3UUpqWllwZkRKZ3JGQ0NiN1dB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IE",
-   "date": "2026-11-13T21:40:47+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
@@ -431,23 +451,6 @@
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "32d15d0584",
-   "title": "Here’s the Hozier and Jessie Buckley cover of Shane MacGowan’s Fairytale of New York",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeERoc0J2V1FqczFYS1FIMWpZaHRWejJqNTFrRVhjQ1Y3cVdpNWFqYXJ2T05BNFh3RklmdFdsSkZrVmxDbFZiR2RLVEw0a0d4UzRkU1hnUGY1eEFFaG1NRkxMb3FiN0ZkUU5vZndOUVdzSGlIWGRZQ2t4YTNWaEp1RGpBTVR2MDBRLUVOUGJRTTNPUWpCMHRLYzRxTnoxZTlXbFVSODRvUy1mSnpnWDBUQ3UzLVFUQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Journal",
-   "region": "IE",
-   "date": "2026-11-13T17:23:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -537,31 +540,31 @@
    "topic": "Society"
   },
   {
-   "id": "ee697d567f",
-   "title": "Éanna Hardwicke honoured in Cork as film festival opens",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWpwd3VkdWpQalFDeTMtUWRZelhHVnBxV3VnQWFhQnlKUGF6ZXhQY2RKUjFSd2hKY0NQa0hWbkIyWk1xcU5yM3FZMzk3TzlDZXlvbkY0M1JPbEZHTmZlWHZHNy1NNEZHcTRlSF83ZXEtdnFQOXhwWTd1cmVOOXNpZFFyRnVoeFoxUUJUelRhUnNpX0dYanZ6cU1aQldWeVR0UEE1clpfN25laDA?oc=5",
+   "id": "a69b0ad468",
+   "title": "Taoiseach rejects criticisms of major European summit as a talking shop - so what is happening on Friday?",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSE1tdjduZ1RYTGhsQlNaVlN0VzY4V05KS01CTUkwaWV0LTkwQ2V3ZG1EQUNvSTZOczA2ejdHVGxTcDRpVnBYRTZKTWtsalI2dWtGa3pCY1ZwUUltb0dBd0NXZ0R2X3RrblFVRzVtb1JuMVU0cV9PdFppdS1ndVFmR0ltWDBEVHd5MFZNLUNnaFVIY2NUVlhkNkN1VXhYbVBlNkhWSFBMcEFfXzVQbk94STdJOXNMdmpuY0Q2UUF4N3JXeXl5dVE0blB1UXVGX3M4SU1jckJQaG1PUGM1WXhETENKV0tsRElnTHZaZkJYZ1FYRDhKTGdLTTlB?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTE.ie",
+   "source": "Irish Independent",
    "region": "IE",
-   "date": "2026-11-12T19:37:56+00:00",
+   "date": "2026-11-13T06:20:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",
     "place": "",
     "flag": "🇮🇪"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
-   "id": "9fd219eda9",
-   "title": "New spiking law 'one step closer' following Govt support",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LRkRqMFIyVEJxZUN4aVdSV1NacFBjdXd4TFl6bk1WTDQzYVZBcV94Rkt2R0lON3ZWU0hEazlaNUY0RF9tVjJLbC0wUWRJd0c0eV9KSjJrZGxqcnZWSEJ4YWxBRTFYTFM5d0dDd3ZlYw?oc=5",
+   "id": "a2590490c9",
+   "title": "Late Late Show lineup revealed as Patrick Kielty gets set to give surprise Toy Show news",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Z2dWZVR1NndlVWJsNm5tMVZYVENrcVA5eVZFZDdaUnhxMl95ajBGUXQzdDdpUVBBQ1JnWlBGdjJra3JQRE4tVzc3OTFZY2F4MWFqcGpfNkpNdkFOc3hpMkUyeWg0dHJiNDZqQ2dtbm5VZmVRdE5n?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTE.ie",
+   "source": "EVOKE",
    "region": "IE",
-   "date": "2026-11-12T18:16:17+00:00",
+   "date": "2026-11-12T17:10:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Ireland",

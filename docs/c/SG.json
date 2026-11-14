@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T10:17:02.300426+00:00",
+ "updated": "2026-11-14T11:52:46.868447+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
+  {
+   "id": "58408758d8",
+   "title": "‘We didn’t see any change’: Melaka votes as Anwar’s PH faces Umno tide",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFHSAcYBQVVfeXFMT1VPekFvQzZ1bWprVG9DTE9xLXRUUDVpRjVJZjk4NGljYlpzTmExejNnSnhzNE95WC1ESTBaenpNOGIyOThvYzdFallnOHNlcXVRUmgtM1Uzb3JxWnBtRllfU0htQ0pvZTlKclZRZmJ3X09Hd3FaM3Zndk0tcFR5V2lPdHRrM0ZnOXBuNWxpck43LVRqbTFxek84Z1RGSk80Z29feFVLZkQ1X2g0cUFVZWl0VVNQMzU2RlRnYUJjcXpjQnc1bFdn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "South China Morning Post",
+   "region": "SG",
+   "date": "2026-11-14T11:23:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e8dde9ef39",
+   "title": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmhEZ3NHOHZpX2NwSENWWDRzMWlGQml4N2h3RV9aNzZQUTFVOVItQTBPdzNPbFlnSU1pRkZ5emdpRXBabnBXN1VxRlN2cEtnLThaYWJrY3FodGF0RVNmaG5DcVpDTURCM2kyYjU1QjROSE5OQXNGUTVRZTJwVXp4eEtJVEpXYVhENjBHY2VoczdDRGhmakE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-14T10:14:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
+  },
   {
    "id": "c41a3292a2",
    "title": "Japan vs. Brazil Lineups and Confirmed Team News: Is Vinicius Junior Playing Today?",
@@ -78,25 +112,8 @@
    "topic": "Society"
   },
   {
-   "id": "b255e185b6",
-   "title": "Melaka turnout hits 40.32pc by noon, Serkam leads the way",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjQ3QWJPVEh3M0E4OHFFXzJudWhoLU95dUl4QlVsYWJZYjlPa2NsRVp4QzJPbEQteW1EeXRiYmI5RlJLM3lQQjA3MXkwdGRuX1YzTkx1OUg1RGppb2I5T2M0d0xobnIzd1d1RHJjbUZ1M0ZQSkhRRmlwQWl2TDVuc2hlLVdmVE51TVg2eEZDN0VMYkJBOGVNN01LNmV2TVQ2dDJsTlpIWGdNZGdVNWo1aXI0SdIBuAFBVV95cUxPLUJvUG5TMVhkcktkYjRmMmRsamVEOGVNWGdPUVFvOXQzeWNndG9nV0FiZmtnamZYVjFrSGFYMmlNQVNWSmdkbTZJTVBXdnBWREFFV1RIZjVqb2xHaERRaHhHQTQ2a2dVbnBacVkxNVc3Nk1WMVc5b1lNLW5ISlJnQVoyYWwwRXFCVDRNVWtlOWhhdUMxZTc5eS1YNG5ibV9MZlU5aE44U01pT0ltYkJ1V1hodkdWV3A2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Malay Mail",
-   "region": "SG",
-   "date": "2026-11-14T04:55:27+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "dafc50bdd8",
-   "title": "Singapore has suspended a telco licence in the past; will Simba be next?",
+   "title": "Singapore has suspended a telco licence in the past – will Simba be next?",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVlanpka1NwMmQySHBBczg1UlNEZ0taREVEWGhLWmtVdTB5Vy1ZTk8tN29JUFd6S2xVOURtOHZ5T1lEc0tKQnpJM2hpZlcyU0JSc3RGanpDSER2dURSZU9sd05CTTk5V3hMSV94ZUtwREx4QkpvMHNUb2szbmw5YmlYeU9jYnFaeXJ2bUlvb1ZxbGl0N0xDblJENFhxa3gxb0ZfU2xmazQ4LUVQ?oc=5",
    "summary": "",
    "image": "",
@@ -127,23 +144,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
-  },
-  {
-   "id": "661542a75c",
-   "title": "Uruguay beat Argentina in first match since Messi's retirement",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbldQX25DWktnVlNwRkh5X2lINmtBUS1MbWY3Q3VaTkpxTy1hMlI2U01vMFhaQVFLTjVTai1nSjdOTnA0a0haeVRaODdCUUx1Zm1YcHd4LTdmS3dja1ZBWGw0Z0ItVE5ad3huQzBHWlNWaWZ6Y3JndEdXV0RqSU5WVV8wbXN3Y0F0b1Q1aDVrU0lrRFUyclZYUUhQNWo?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN",
-   "region": "SG",
-   "date": "2026-11-14T02:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Argentina",
-    "place": "",
-    "flag": "🇦🇷"
-   },
-   "topic": "Sports"
   },
   {
    "id": "dc5f49cc2f",
@@ -197,23 +197,6 @@
    "topic": "Society"
   },
   {
-   "id": "21e2b20b2f",
-   "title": "17-year-old goes on walkabouts and meets with residents to address community issues like 'an MP'",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmw3RmsxTjBYTVEta0tRN2VNT3l6cDZnTjdUblZPVGZUU2FhQndZc3JxQjdINGkzQzFDczlhZ01vUVBWZGhUQVlPOVlLZkFuZHpzOHBCc25iblRscmlOMUZXMUVwSDZMam9McldpUDdYVVp0RzBBSFJXUW1kSzQ4SEw0TzczWU5yOTdTMjlEOGI2YVZESjh5MEl5N0Rud0x6?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AsiaOne.com",
-   "region": "SG",
-   "date": "2026-11-14T01:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bd5f1e329d",
    "title": "Singapore start-up taps peptide power to tackle pet infections, seeks to replace chemical preservatives",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3lTV0U2UUN4a0ZhN3VyZExYTGtQcWJRaE51cVRFVjJnaVVhUmJxV09VcE1zRWE0eWI5WWNiYURzMFhYZFBWSXE4bmNmb1lKdGozN2pFOUxEY1NpcVpzUHJvd0NBSDNuS0EtWGdSeVVtZzRHVnFfbG9iaTdyanU5RW5WUWx3QVFScTJUaGtrV0duT0dwSlRGNlhTcm16YW9fREN3Vm55b0MtaFVyazdPM3cwQlVpLUdzblpsajB1YkZHSUZDa0lTSjFsRy1OWHM?oc=5",
@@ -246,27 +229,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Health"
-  },
-  {
-   "id": "af85762042",
-   "title": "White House confirms US-China-Russia trilateral talks on Apec sidelines",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUQ0eHVXbzA0bDFwak45Zm4zdFd6REJ2SnVLYUNVS3F5M3RNM1MtSmlSNmp2c01NbmNHSkNUcjd1REEtS1hKSTROQTZjUzhQNnpyLW83ay1la1RwTFRnQTlvOEdMUmh5dkp2aEV4T1VoYW1CNUtBYUJncWpuNFZqOVg2cVhHb3h4X1hzWmFCYjFmYk5mZDNyUXA1ZkNOU2hjQi16QXE0UkJleGQ3dG0tMlBGa09jc3lJYzN3Q9IBvAFBVV95cUxOYlBkRl8tMXo3dlZDM296Zjh0UGtEalk3TVFEdW95N0ZHYU5pZFZMWEdaZ0NLN3hzT0F1TjZWajZEQjJ4UFZuSUdsMWY3WjFCZ2hBbDFNazItZ2tBSW16dUkyUDM2UTRoR2pFX0FqTkdBZHgwUkM5SG9uWjdWREN4UmhKbDBub3dwRG5UaUFLVE9iRjIxWWRxck5VZl9aa1c3QnRvMHowOE5fMzJpZC1UOG42dW5NQmx5ZUMxag?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "South China Morning Post",
-   "region": "SG",
-   "date": "2026-11-14T00:30:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇨🇳 🇷🇺",
-    "also": [
-     "China",
-     "Russia"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "92867c2878",
@@ -337,14 +299,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "430fcb0f4e",
-   "title": "Man United confirm Pochettino as Carrick replacement",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVG1WbWJpYUc2RmJza2xCWnppellkbW56SjVaUVY2ZE45UDV1emZEamlMOTNlTmxicU1Ra0p3eVAzWHRSSVFqSnU2ajRJbXc2X2drdEE3a1pYYWlZR2VkX3ZNaWUzQmp2WHdKTE92Ny1UaklrLVlQYnQtWUFLT0ZxSUJXeUxTVkl1ODRhRGpVQl9kUGF5ZkplS01EQl93eWg1UHBzUFUyZDU?oc=5",
+   "id": "d177828254",
+   "title": "Introducing: The Raul Pages RP2 The Hour Glass Edition",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVV3UjVJTFN5azhRWFVYNHgxRzJ4dXd3TlY2Yi1JZ3VkbVAwZEdidU5kNkRVbDJOMUxQY1FPY25PU0FBM0pWX0piZ2VDTHNvNjdVckJGVkkta2EtdW5GMlQ2QVo5NFNSZEo0czc3dnluVVhaRVNHbnFmNW5mbGJpVFhOSExXendmejBlTEtnaG5SVm5WbXVueTBnUElMd3RPQjNsSFNrVmVNNWwxQXNOVw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN Singapore",
+   "source": "Monochrome Watches",
    "region": "SG",
-   "date": "2026-11-13T16:04:22+00:00",
+   "date": "2026-11-13T17:10:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -354,14 +316,14 @@
    "topic": "Society"
   },
   {
-   "id": "0a275fb7fb",
-   "title": "BAE Systems Wins Spacecraft Work on NASA’s PRIMA Observatory",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejA2ck02WTg4UHQ0VEhQT2J3TG82TjBlX0JjdDFncXpFeXdPU3pIYmxXUFVOZkhtcmFYVmx1Y1VqWDI2aDdPbUd0MmZjNXdaNjNXU3FIbTdUcnAzaDdXamh2VHJ3aE5waFFFalhQV2hWWXNaREhyNHRlQlEwNUJnRHQ1b005UHBzNWJNZi13QQ?oc=5",
+   "id": "430fcb0f4e",
+   "title": "Man United confirm Pochettino as Carrick replacement",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVG1WbWJpYUc2RmJza2xCWnppellkbW56SjVaUVY2ZE45UDV1emZEamlMOTNlTmxicU1Ra0p3eVAzWHRSSVFqSnU2ajRJbXc2X2drdEE3a1pYYWlZR2VkX3ZNaWUzQmp2WHdKTE92Ny1UaklrLVlQYnQtWUFLT0ZxSUJXeUxTVkl1ODRhRGpVQl9kUGF5ZkplS01EQl93eWg1UHBzUFUyZDU?oc=5",
    "summary": "",
    "image": "",
-   "source": "Securities.io",
+   "source": "ESPN Singapore",
    "region": "SG",
-   "date": "2026-11-13T15:16:40+00:00",
+   "date": "2026-11-13T16:04:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -422,6 +384,23 @@
    "topic": "Society"
   },
   {
+   "id": "7009e592cd",
+   "title": "ESA’s Euclid Telescope Maps More Than 900 Million Galaxies in First Major Data Release",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT01rMXdsUHRIZmdzaTFOekltcmtLLWI5elhSdG9VOTJ5RkUxRFJaUmZXbGJTcUZrbWlhZUFGclBKdlNNMlYtb3ZNZmZlb01NV2ZIRWhVZnZKMjJtcEtTRVVyMjh1QlVxRGlNS1czdnphRkdZQmpCbkRBU2lKUlNpUjVnMFBjWVJuMlNZTTBYWW5oZERKcE9OLVNvTG1LX3FpZWRHbG5NdXExWTNQSFk2OFZOZjlrV2xFdFJxWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SpaceWatch.GLOBAL",
+   "region": "SG",
+   "date": "2026-11-13T09:42:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3777d03f9f",
    "title": "No clear link between recent data breaches; incidents appear to be result of 'opportunistic attacks': PDPC",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1pVNmYtZlA5Mmx3Q0RLTkRsM0M4UFZhRjltZ3BjalkydU1CQ1hhQ0l6VGNBR2JPOFdoWDhOcHZ0X0dlcjVrbXBON3VnbDFuX3U2TkJLSjlnWmstYVV5RC1IcUJXdUlyUmF0blBubkM2dEZyWXJDTlQzWWZTSm5XeDNLcHFjU0lxb0QxaFdKV2l2RE5QTUJBY0U0c2lkMzZXa1E?oc=5",
@@ -437,6 +416,23 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "23a12615dd",
+   "title": "‘I’ll be buying more’: Singapore investors pour into Nvidia shares on Jensen Huang’s exit",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdF93Q0l0RGFHN08wdXVkWUhwRTNQdEtqSUFpckJJWlE3SmJoajYyWi00dTN2dUF5M2N1OWtjMFhQenJPVG1WTGFueUxlVmNyQzM0YzViQ0pnY0xkVF9jemZKbWpNaWlNeVFzZU1feEVEZndLQndPaHpXZmpaVFN1NXpoa1UzWmJ5RkxDWFpTdkpkTGxOMjlGLVBtUjJJd1VtWTM4bTlPSUVMdmQ2VnhjcWx1eGIzeEhZTGpSOGxHZzNGSFVLQ3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Business Times",
+   "region": "SG",
+   "date": "2026-11-13T08:06:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
   },
   {
    "id": "e677319663",

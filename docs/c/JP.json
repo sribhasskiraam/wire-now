@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
+  {
+   "id": "d0ee1f4aa4",
+   "title": "“この性能”、8万円台で買えちゃっていいの？ 3画面出力もできるミニPCがお気に入り──GMKtec NucBox M5S (1/5)",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zXzh2VmduMDFhYWNqM0pjVkRkVTZMY3JZdGJNYmtxWl9RcjhDUjhDSWFpeG9pNDJRVmlpazZraXotUGg3anl5d0FsT0FjZ2tCY3k2MQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ASCII.jp",
+   "region": "JP",
+   "date": "2026-11-14T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5fc46f43e9",
+   "title": "「急いでいるなら階段を使え」GACKTがエスカレーターを歩く人々に怒り (2026年11月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQl9DWllEUGx1OFk3YjBHM3RIQ2tSS0w2X1RlZmtzVEt0Zmo2cGNZdUZPbFBlZHhURC1yREMzNzlrNGhRMG9MUGp3YmRyMXROWER2Z3A3cVA4cC1SU2c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ライブドアニュース",
+   "region": "JP",
+   "date": "2026-11-14T06:14:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "9eeda552e2",
+   "title": "SixTONESが2度目の大賞「anan AWARD 2026」開催 KEY TO LIT・高石あかりら豪華集結【受賞一覧】",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZaUNvUmhjdzhFSk9SVHh1QU1DR0s1bW82T1RWYnI4VGRaN3EwNDZFc1hnSDhsVmVxRjZoczA5cFowcWdzN2NNSExHVdIBR0FVX3lxTFBHZjZMcVBDSUl3OEsyVEFBX0U3SkZVOXJ5ejctV0FwNFZHWnpTSGN3LXU1eFZjQlBLM1pYeVZ4czhHbFdpTmtv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "モデルプレス",
+   "region": "JP",
+   "date": "2026-11-14T06:12:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
   {
    "id": "9a2a1cd210",
    "title": "京阪HD 不正アクセスで最大22万人余のLINE情報流出か",
@@ -21,48 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "fa90f98934",
-   "title": "14日は九州から次第に雨 15日は全国的に雨 太平洋側を中心に激しい雨も(気象予報士 藤川 徹)",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSkFsbkF1N2VnUkY1RXRicHNDUzl4UlVRb0ZObzhnTXRFOS1VakZEUWx5aTJqMXFXcld1dHZCZFZmRUNITEhRRkhRNUpDYW9jbVljb19BOVh5Z21pUlFJcDdMdzVzWTNObDlIbw?oc=5",
+   "id": "26a5812d38",
+   "title": "5回の虐待通告もなぜ防げなかったのか、枚方3歳女児殺害 市や児相と警察の間にあいた穴",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rQlV2VmZpMTF5V1ptUGJNZ2NEeGd5SmZKZ014bXhXTkZnbXdtUjJPdU1CSm9fQzBqdlNGZXYydnVyUlZrRHlfbUktMDQ1NktMN3A4VG5xQjE1VW8zaWtvYTh2ejA1VkhmZ3oySVVvQ29zZERUV0E?oc=5",
    "summary": "",
    "image": "",
-   "source": "tenki.jp",
+   "source": "産経ニュース",
    "region": "JP",
-   "date": "2026-11-14T03:36:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4a186d3211",
-   "title": "海老名2人死亡 ひき逃げ疑い、トラック運転の49歳会社員逮捕",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TTBPaFdlVzBFSW5ZS3B3NmMxaGRlM2txZGZQZUItdUw4YXMyTk5Ta2cxQnNLaGRmdzFFTE82TDl3OEhKQW5KN2R1Y0k3RjRNdDh6d0VDbGhfclFCQ3JKZk9xSkxCNE9Z?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "毎日新聞",
-   "region": "JP",
-   "date": "2026-11-13T23:28:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "41435f34ed",
-   "title": "櫻井翔主演 占拠シリーズ第4弾 『XXXX占拠』放送決定！新春2時間スペシャルドラマとしてOA",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBleWxPTDRSem5KZFB0ckM5NUlETnpwTnhaT1NGTVQxeTBLQWJEblZRdFVYR3Bxd3pvajg0U3VDVVJxUXhxQlowTklhM1h1cnhnSzhRUUVKLUZfS090bGRjeHdSY3hDRGRiNl9qZHhn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "日本テレビ",
-   "region": "JP",
-   "date": "2026-11-13T21:19:00+00:00",
+   "date": "2026-11-13T22:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -80,23 +97,6 @@
    "source": "ITmedia",
    "region": "JP",
    "date": "2026-11-13T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Japan",
-    "place": "",
-    "flag": "🇯🇵"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "48f12d0f3c",
-   "title": "【2026年NHK紅白歌合戦】出場歌手が決定！ モナキが初出場、演歌・歌謡界から石川さゆり、坂本冬美、純烈、高田みづえ、天童よしみ、新浜レオン、水森かおり、森山良子らが出演",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JaXJzcExZTV9uZm9meHdCUndJdndQVlZCSndJR0NkdzZSNlREY0t3bHlOR3pPQkQ4MFBqOWhURUtQcFBTTEJ5MDZ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "うたびと",
-   "region": "JP",
-   "date": "2026-11-13T09:21:16+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

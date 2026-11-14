@@ -1,8 +1,46 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
+  {
+   "id": "54482f960c",
+   "title": "People call for concerted efforts to make Pakistan major global mineral power",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1MySTFqTjAwakwxLWkxa2tzQmlvMHdITWNqbjBXMFpKSGlWRl9CV1kyMWhjeHRGTmlhVTAwX3pGVWRCcHB4WlRFa19TTkpmeGM1R0E4bkEwWVpHLUlpeVRvN1liYk5kMFBYN3dzTi1TNXdTcWxERTg4RVZkSUVuTlduVFpCZlNTdVdFLTdqMEQyeVFZSWVGeHltSkxEaGhFVlF3ZFB6XzRGbVRJcjBkMVIzOA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RADIO PAKISTAN",
+   "region": "PK",
+   "date": "2026-11-14T07:56:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "6c7e2eb390",
+   "title": "Türkiye’s Joint Defence Agreement with Pakistan and Saudi Arabia Enters Into Force",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWtnbzlpcTRlbThQclo5SHJBbXhXTHF6WUdWTVI5WlU1ZTcydWxDLXBmR2NEdVdma1NDWkJhQldZZkViRFpiMzZfT2RTdXRBVktWc3luRDFyV3UwV0hQZkp4TEN2N3JvTzNKUmlRTVQwcXhuaU81UXBKVmhjMkFqR0VfWGFFamI2aXV6TzlCQ3N5TnlwWGg5LTRZano0bXFFaV9hdEROV243a1dJVmV2NHZiVWY?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Caspian Post",
+   "region": "PK",
+   "date": "2026-11-14T07:04:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Turkey",
+    "place": "",
+    "flag": "🇹🇷 🇵🇰 🇸🇦",
+    "also": [
+     "Pakistan",
+     "Saudi Arabia"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "43c23f7e30",
    "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
@@ -36,40 +74,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Politics"
-  },
-  {
-   "id": "e23e72ca8c",
-   "title": "Eight KP districts declared vulnerable amid heavy rain, snowfall forecast",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTlMaFlPaGdUN0hDYWpxUG9Sc2paYm5HWDRlb2lBcXZzQnNpXzc4Rm9kajkwM2hIdXE4VEtNOUlnNEw0UXNQMmQxLVFfcHRoZGJ3WHdVeDk1QVIydnp1Z1c1ZzdjSGNFbmtiSXZqOHVOcHM2bkRIcy1JY3R4ZndBT3Z3TE5rSVBfTGw5YnNxQjZZdVFGVlM5MTVLY2VWTVFkNmt5NnJaaDJSdXRNU1BB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Nation (Pakistan )",
-   "region": "PK",
-   "date": "2026-11-14T05:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Weather"
-  },
-  {
-   "id": "9e8fad3ff1",
-   "title": "Some physical GTA 6 boxes are missing codes, with Rockstar refusing to help",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeV9MU3ZNaXNVbFVWQjctLUdGX252U3dkUVpTSV9XZ2RGY2JvTjV0RjhRMWUwUWdUM2N3a04tMFJremZsd05xVHV5SmIxZk9oNjJ5SkU1UmRwOUtHbEdVQlF0SWRFX1JuUW5WRUpuYk1uNmh1eU1GZ0NjcV82SDdZVENzLVFpRkQ0ampMTFEzMlo4clFuUzVWU01jUHdqdzFCUVRqU1Z0VjBUZkRYN2pFZ1R1Q1BaQjFGVjhR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Notebookcheck",
-   "region": "PK",
-   "date": "2026-11-14T04:11:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
   },
   {
    "id": "ab8fb0adeb",
@@ -106,14 +110,14 @@
    "topic": "Society"
   },
   {
-   "id": "0ebaa317c6",
-   "title": "Ebenezer Doesn’t Have A Post-Credits Scene, But There’s A Reason To Stay",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Kby1FZ0ZPUVhfRnlYSGdIYlpVMTJtTWhRZmpVMG50VkdSTXplUHA0R1p2WGxqYVBVbU8tcDJsTmNBVzlLYTF0SjlScDE5MUpzY2EyenhORnNudjczVW9rcE9fczEzNzhCVGtfWEozSG0za1JScmwtSw?oc=5",
+   "id": "75b14d1889",
+   "title": "Bloodborne Just Got A Complete Overhaul On PC",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSVgxX1JnbFJTbEhZN2xXSVkyZ19KUlJkTHNqaFAtRzlMZ1JFaU5oc21UWXRnZ0R4NVNNQkxiZEdCY3ZyREljX2o4U2NxNzVtMExlLTNWM0w0UWctc0hYeFVTZ3lNWVV3Z3ZTQlRyUGk?oc=5",
    "summary": "",
    "image": "",
    "source": "ScreenRant",
    "region": "PK",
-   "date": "2026-11-14T00:30:00+00:00",
+   "date": "2026-11-14T02:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -123,31 +127,14 @@
    "topic": "Society"
   },
   {
-   "id": "f4c92d4eb8",
+   "id": "5b1cebf8af",
    "title": "Awareness walk held in connection with Diabetes Day",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVdNYjNEY3JpbzBoeWpweGlLSk0xREx6MG1GSW1LLWZMMTQzUS1Hd1AwSmp5STVwM0JMSG40R2VVUGhzckJNZUU3QUY2ejBvXzJQcllkdVZOQkRkNHlnOFJYbmUxWmJzRFhEaWRKbFBvMmtDYVFqVEEwMmE2QU1RUWt0SVhXYWZfRjk0Qk1R?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tbkt4Qk9qQmNocHZxMTRLeTZ3TXNOai1YOHFoNTV4dVBzSTcyUkpaSldIRjY3QzNsN21mYV9nNWotTFU2RlFrSA?oc=5",
    "summary": "",
    "image": "",
    "source": "Dawn",
    "region": "PK",
    "date": "2026-11-14T00:27:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4b44f966d5",
-   "title": "Showcase event yields over dozen mineral deals",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWk0VEVIejdFYzVmOWtUeER0VTNEbnBTQ0RQYXBWYVhNQ2VpdXBpazRxQ1M0Sm1NTmRXSVpOVFhFeFlldWZjMUY5bjh0eFRnSWwyUnFtZWcxSXl2SWVpZkZRbGtWWFlmeDV1WDNRQVZJb05HMElkZVBhRV9oaFQ5aWs2ajhJVTA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Dawn",
-   "region": "PK",
-   "date": "2026-11-14T00:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -172,6 +159,57 @@
     "flag": "🇨🇳"
    },
    "topic": "Business"
+  },
+  {
+   "id": "6763720bd7",
+   "title": "Referendum talk",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HVENWVGJDVTlGeXpPcmxUZjFsVkFIbVdySVhIcUJYTlVvRk1GVFBQazg2VGVrckdVR0tJRUZySE02TVFlZlZ4Yg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawn",
+   "region": "PK",
+   "date": "2026-11-14T00:24:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "76fe5325f5",
+   "title": "Andorra goalkeeper suspended 12 games for collision that resulted in death of opponent",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkpDQ3dZZzZoTHhuaGlsLXNMRWdRRkZaNk9HSEVKcUkzZnEzRENncjltTkJTSm9xWHBuWTFCTVdtNHJkcERQc1JXY0poQVVIQnljem0tSVFnNnpSUjRmbzJxWi1hRGxXbmQ5M3NBb3hfUmZDZzhYZTZFQUVJUW1tNkRMR0cyRENwR20zb1VFSnNtbXRvN2g1WXJEd1V4blZ4RFFOQjZESXB1VUNpSS02M2swNDc5LUFaMDFWQXdIQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "PK",
+   "date": "2026-11-13T23:42:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c0de4af9d2",
+   "title": "Viva La Lisa! 5 Best Moments From LISA’s Opening Night in Las Vegas",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDRjRVJTUVBYUHc4bzE1Ym55emZteXlLaWY4TFp2QXRfdVM1c21ITjU1enlqNXlvZngxT0E0NEczNmk4NVBHaWF6UFdFZ0NmUG1Fa2lQeGxHOUtzazB2X3N4RE9HVDBvbC0yNXFZMTFfRi1oRzBBUHFrVDhyS1RhMDlkbmxGR0ln?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Billboard",
+   "region": "PK",
+   "date": "2026-11-13T22:32:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
   },
   {
    "id": "8a5a227468",
@@ -283,14 +321,14 @@
    "topic": "Society"
   },
   {
-   "id": "0d45b5fb3a",
-   "title": "President's Spokesperson rejects reports of discussion on provincial matters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTdUTVRqT0c4UVh0VEc1VkJQcUJVZTh0UWhQcGRyMHNDNmN0RHFPeWpsUEZOSUdrT1JXYVdCbEZPdmNQVXdZbFhTQW5pTkxBMkMzQ0c1MWQxYldjVVlIWHpoeDlEaU1yd2NoeDQ1T19HWUx3MC1pYWkyVlBhQjVma1VUOWl2Vmd5ZGlGMEpVcHd0WmdwajQ3NzdzLWtoOHZrSGhYZ1dsd0hDNGp0WHJMMA?oc=5",
+   "id": "14fe4ea9b3",
+   "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zQW96X29FMFZfUTIxV25TYUNRZlBGLW9xbnhQTnJZYjctZm9iRnFZMWREdndqeFBzLTZTTXFZamlNSTdBTDNRVw?oc=5",
    "summary": "",
    "image": "",
-   "source": "RADIO PAKISTAN",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-13T16:05:12+00:00",
+   "date": "2026-11-13T16:00:07+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -300,24 +338,24 @@
    "topic": "Politics"
   },
   {
-   "id": "7697e10de9",
-   "title": "'I'm not gonna be cowered': US Treasury chief on moving to military base over Iran threats",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVnZ2dGM4RWxBVF80X2M1dHh2d3o4cUdqbktsanpCcG1aVnpHYUNneFBOTWpYTURXSWEyd1piSFRCaGZtRnlGeWpLZUtPRDhOeUw0bXhmaHZBXzBwakFlQ1VUZnJxYm9KdUdGMGd5ZXFVRkQ5RDVHY2V2Q0p5dlRaY1JHN2RKTWI0eW9qSnBWU2ZiSmh5a0haek1GWkQxV3Z4ZkdUbnpHZlBGNmw1Yk5kWWU1dDFudWNNOUVJY0RDNmJsWFY2VUMwWnl2RGFsNXhwNWdlaDNrZTJRWHRFZGdfaW53dklXRHRMcGliSjdn?oc=5",
+   "id": "cea2880bd8",
+   "title": "India vs Pakistan U19 Asia Cup Final 2026: Check Match Time, Squads and Live Streaming",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFoyUEZKOC1DX1Zvd3VXLWs5UjlPLWRVZlpBVUVHNy1oODYzUjVWUVJlNWo3bkQ3OUk2NlB2bjNYcUFiTDk0Q3M2SDRvUFh4a2lwSkhnbkZ4OVRqT0hLZ2YwX0ZlajkxZzV3cFJUcDhuN0U3ckdCMXRFX1ljVHNyNHFkdmlVMV9HaTR0TDR4QWY0VmlVUml6dTBhYU16RUN1SnlPUXNHMHJuV2JBcTltUnU3RV94OHlnNVp6aDV6LTBTamlIM2pMaDl30gHQAUFVX3lxTE8zMXZHSVBLdFNqdm53SkJRRENDWFVleUE5YUZmamVobUo4bkNiX3ZEVFdnQXFFTS1lVDZuMzFnOGpHa0xoakdMdDFaVlhYQU4wbjlUcFBLVEhvcGNrRmg1dkVCMV9kZ3czTjdENGdiajhPQnZLSndzZVpNaFdIQjEyOGNOdnd0dUpDek9jUzktS0dUSnRlc2RFN0VRak4zX05DV2VSWmN4WHp0bVNJVm5jWUphdXBIaFJXTzRsNS1LYlJCWUJyalc4dGVYQnp4ZVA?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times of India",
+   "source": "Jagran Josh",
    "region": "PK",
-   "date": "2026-11-13T14:54:00+00:00",
+   "date": "2026-11-13T13:11:09+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "India",
     "place": "",
-    "flag": "🇺🇸 🇮🇷",
+    "flag": "🇮🇳 🇵🇰",
     "also": [
-     "Iran"
+     "Pakistan"
     ]
    },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "b570f6c973",
@@ -335,6 +373,43 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
+  },
+  {
+   "id": "a1d4cce83f",
+   "title": "'Yes, Dear' Star Anthony Clark's Cause of Death Revealed After Comedy Actor's Shock Passing Aged 62",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YQ1ZPRXdtb1Q0M1V0Rlk3dHNaSHlMYzZ0cXo4eGxBN0F6NmlGOHlDZ2Nqa2Q1bnhiRDJoT3RONHA4Y0ZLSzdXQUZFMC1OV3p0RFlNdkhfUXpEeDBnd3ZGcC1uWkJKU3hIeEdJNWN5ZzNLZWJZTlNHUFRn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Lifestyle Canada",
+   "region": "PK",
+   "date": "2026-11-13T12:08:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "e8249607dd",
+   "title": "Italy rise in FIFA World Rankings after 3-1 victory over France",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVyYUxFbG1KcU85N1FrdHk0d3hZWXRWenB2RGU5RWtJV1FSSS1fRnBaZHliekg5VG5fSENjRDhfeVZ4YUE0UTBobUZNWmFmM2RzYmZjRi1pOUd0THdZdERtMV95TThjN1E5OE5lQ3JJdkNSTjR0YUhIeDU2VkhnSjItemtYdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "PK",
+   "date": "2026-11-13T11:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹 🇫🇷",
+    "also": [
+     "France"
+    ]
+   },
+   "topic": "Sports"
   },
   {
    "id": "90cc83f466",
@@ -369,23 +444,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "c906793816",
-   "title": "Pat Cummins: Australian cricket's sandpapergate is back, reopening wounds in a 'nation of good sports'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dnFQZ2Y5cm1YQmlHZlVIV0k2TTFDZmxheUhuRklXMlk1UVlIa2VSaFlkakJ6ZXNMLXBVdlBnNk9aZVJCcGRBMUwtOGhJcVBObUZzajNwYmRIY1k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "PK",
-   "date": "2026-11-13T08:20:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Sports"
   },
   {
    "id": "e0ff623b3f",
@@ -442,26 +500,6 @@
    "topic": "Society"
   },
   {
-   "id": "6d49989bbb",
-   "title": "Zinedine Zidane explains first France defeat after Italy collapse at San Siro as absent Kylian Mbappe leaves glaring void",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0Z3VEx5Qm9ScUVyWFB4aDVPTW5vRGNIdUkyQjdOaGxzY0RhMEhNTmZpSElwcUVGYVJIMzF1RnE2VjlrZG16SE9TVk9lUURFYjdhQ2N1ZWlMUXZDWkJtOVhuNWR5cFdwQWF4MDFyNkZKR0pJVFlPZEdlSlFJQkhIa3EtRVI0ZklIbEExTWJObE5zcmFXcXpaQ1lhRWRtaVBURFdpYTJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Goal.com",
-   "region": "PK",
-   "date": "2026-11-13T07:49:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷 🇮🇹",
-    "also": [
-     "Italy"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "947ea31b0d",
    "title": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZWM21SNjNsMVEyeEU5MWxSMkh6Y2JiSVRkY1BqNVUtNkRBV1lyN3pwUmwwZDRiVU1Pb0hibnQzWmstYV9OR2VWV2ozSmFsRU92SHptbnhKejhkWWsyaHhGd09fdTZMVnZnWGYwVTBFWkp6NTNNYm0xTVp3STB3c25JU1piTFVHT0V3aFp6dkplUEZETnAzS3RFUFlaZ20yR1JEUGhGM2E1YjBYYTk2V0VKclRFWkZJcXc?oc=5",
@@ -507,23 +545,6 @@
    "source": "Dawn",
    "region": "PK",
    "date": "2026-11-13T02:22:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e8d7784de9",
-   "title": "Cause of death for Anthony Clark, comedian and ‘Yes, Dear’ star, revealed",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb3lMYzdOajVPRlR6cFV6Qkx0Q2JpZnVxemR0a2ZBc284VjhLQWx0Qms2VVF3X3JVQUZpelNma2hRWUNrSGpTWTAwSk5MTUYxWEJhc0VndUU2cGNMdElVdWpVWTJhSW9VTlBGUzJPTl9TUmNVTFJ5cThuYlBWeDFZdzB0Qm9hVjNUQUNOSTBUaEVrOFN6Z3REbE5ISVZJU3lvcU4waU5rc2ZxcHhSOVp4dXpPOEtmQkFncTJyLVUzcHVYZXdjV1VTMGlkcEdLLWFLaTBxU3hwMGxTdzRIY3g2S3JzT0l5YnRLUDFOUF84VzRTbGJTYVRva3AzWnAzOXJvdENJeWcxTjg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Porterville Recorder",
-   "region": "PK",
-   "date": "2026-11-13T00:23:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",

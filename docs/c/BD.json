@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "BD",
  "name": "Bangladesh",
  "stories": [
+  {
+   "id": "a9a340f92e",
+   "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczhLUHVMV0tuNV8tZjNfSy03RVhnb3VPdUtzeDBuZ3d1Vm96X0FQR25oRG5SSjV0NHh6OXM3MmVqazBNcEZoOExnSVBnRnVvZFBWTUJVVjdjNDlHMXNOOEYtdGJqYkpaUVQwckxBMUJSMmp0RVZKX3FBdjFrOEl2S19nWVZ6WlhYMnVwOTIzZk5keDFvc0pMem03OV9nZXIyNzNGZEVrTVplU1p4NHNpODk0NNIBuAFBVV95cUxNMDNpbFNPTXlBd3JoTmZPdFVEVnRuYUNDUURqMHJoQ3daY04teDhaazZmdE9qampJV2dPZWVmLUUwVDBuUERWVXBzV2M3ODBxaS1oeU82YXFRVS1HLWlvbGZuNWdzdmhwRnJXbEo5SDJ3bThETTVwQ081YzUxTm1DakkzbEx3ZmwyX2w5MzZlaWlFZ080cTBBTm9aU3FoMWdUbEdWSXpWbEtlZk9nZmVoODBGTTRzdEti?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "BD",
+   "date": "2026-11-14T09:11:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "d3357258af",
    "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
@@ -11,7 +28,7 @@
    "image": "",
    "source": "CNN",
    "region": "BD",
-   "date": "2026-11-14T08:19:00+00:00",
+   "date": "2026-11-14T08:32:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -38,14 +55,14 @@
    "topic": "Health"
   },
   {
-   "id": "28304c1152",
-   "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdUdwaXNuY3V5dFF5cGRHWTZmTXFRQlFNSVFsV0JGVVVNbFRrcTFWUDMzdVVwaXNjdl8yZnBjUjJXMUZ6dk42cElzMFVBY0ZpTWlrVDd3bF8wck53NzFFdzFVYU5QTGhOdkxQWWpiZzk1SXlJOVY3UkVvajVLMk1HbENTWm5Lb05JcWNnUHZrY2N3Z0x3MGdxM3M5dEhneU1RdEpXZkpFSVlaM0ZzR1JSM0dDYmpLaXdDZFI4czRETdIBxAFBVV95cUxNdnlRLWhsX0NfajZ4cXRvaUt1Mk8xT0JuSlFkSy1hREZyb1lodDVLbXlaTGh1cTlRaGI1WW5ScnJKemFkNXl3Rm9BY2JlWE85Z1Z0TWR2R0JfVDZxdGdYb3Q1VkdYdHN2NFA3MnFUT254UTNWOE1aYko1eW1FTi12ZGVfVmMwZE4tMEU0TURDeTdDdGt3ZFlMM3VGVDdIMGw2eks0T25mbGhORnU3dGxUSzBiWGwzWWV6aTZmLUdjV1Z3UGk1?oc=5",
+   "id": "fb88cfc13a",
+   "title": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWRJczJZNTNKUmlxbW1zTXpLMWoxampuRUd6aERIeXFqNUUtemwtbXVhd0FFSXF2VFBSWnhfa0tzLXMwZ3B6NF8tNnBHZ1pXbVhaZGdrTExremdJRzR0OUNBM1pYSlN2MU85a3FxUHYzY0Rnb2hoR3UwTlM3cXc0NDFWaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "The New York Times",
    "region": "BD",
-   "date": "2026-11-14T06:09:32+00:00",
+   "date": "2026-11-14T07:03:10+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -55,23 +72,19 @@
    "topic": "Society"
   },
   {
-   "id": "bdb606dcc6",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+   "id": "e67018fd2b",
+   "title": "Michael Mann & New Regency Clash In 'Heat' Ownership Battle",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuTFk2Q2dfZTlCeW1FUGc3SlVSaUZkc0xTVEhDOFd1eHlvaXNTTzV5a2ZZM0ptYXVGNTNfSnY1eXhnQkNXMHhuVjU4dE5wSV96SEtQUkNueTA0ZnVOZVEzVDI2T1FOR1NyRllIZTFvSXVpZjBTRnFSdGZGMlFWQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "Deadline",
    "region": "BD",
-   "date": "2026-11-14T05:52:31+00:00",
+   "date": "2026-11-14T05:56:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Bangladesh",
     "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
+    "flag": "🇧🇩"
    },
    "topic": "Society"
   },
@@ -120,7 +133,7 @@
    "image": "",
    "source": "Axios",
    "region": "BD",
-   "date": "2026-11-14T04:05:30+00:00",
+   "date": "2026-11-14T04:50:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -128,6 +141,77 @@
     "flag": "🇧🇩"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "03fde25aa1",
+   "title": "Presley Gerber's Hollywood Hills Home Hits Market for $3.6 Million After His Death",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUFfQldSNk1DVDM1WnJZTTI4Q0hROHlLWW16dU9lMEVtU0drN0c4RjRGU29VY0xMLV91NE5xaExJUXhBQjFYb2M5M0t4Q1lMRnlPR2hZVk81U2NUMkN2TFR3al9sbWp1dU9nMzVEMEdyM1FvWnFvcTdtMXEzVVFBcDFBOUF1NGlJM2dDQg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TMZ",
+   "region": "BD",
+   "date": "2026-11-14T04:15:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "0d5ed7e603",
+   "title": "UCLA quarterback makes heroic return after getting knocked out with injury",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTJzQnZkZVpTdVNkR0ZGMjdOSjJKT0dFWW5uMUpYV2lGMUJNejZDRWRqUkJ3X1RkaUFPbEpEckRFUWZmWDkyTWNXQ1NjN2d2QmRSMXFTVGU4eWRVY2lIOEw4S3BrLW13SGdlY24xcDI4Y3hUV2Y3bng2NkJ2OEkzcWlWNVlXRjU1M3lXYg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "New York Post",
+   "region": "BD",
+   "date": "2026-11-14T03:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "043adc8991",
+   "title": "Trump to have first trilateral meeting with Putin, Xi",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "BD",
+   "date": "2026-11-14T03:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "43c23f7e30",
+   "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2haeC1VNGJNSHlpaVA2UllKREpaR1RUMkhBdW80YzNBd3BrdUdLVS1pTHhjOEpVSFRjUDIzcHc2ZFdpWW9rUEE2VVNsRUR1bXN6U00yZmR1OURaSHo5ZUtLd2VUbFZoTVRocmVDUHBkYXpRaUpVcGlFTWpMLUhLbDFBRVgyUVFyRnFUaHk2bF9GeXVremZOZGZ3Zy02N3BLZEtvUlVZbUd3clNU0gGyAUFVX3lxTE1aR0thX3VWS0JkRVRyQ2NMWF9kNHFnVjFTTnU0ZllkSGtLVHhTRHl0UFI5UDBhdVJKUmltdU1EdG1XUW1wTXlxcUtWRkNqdTRDaTRoODVFc1hWdWJ4VjdsSWd1NlZLMnFicUtSYjdKRXJYbUxfRmNld1ZEclJuQ3NCeW5KaDg4UG9zU00tUUNOMm5weTM1STZnV2N4d2l0d3FjYzdOS1c4N1NFX3JDQ1ZCa3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "BD",
+   "date": "2026-11-14T03:46:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "5d67864ef7",
@@ -138,108 +222,6 @@
    "source": "TMZ",
    "region": "BD",
    "date": "2026-11-14T03:34:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aca14360d7",
-   "title": "Airport chaos continues after US ground stop lifted – as it happened",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2YxQXU0MXgwbEExN210S0ZoVGJMY3NxYzE1MERWVGU5ODhKRUhYdXRVM2NWdVdWNWtqTWhyNUhkZnVSY0ZIeTFGM3lDSVc0am4wSkwtTEFBRWhwS2NpQkJwZmZRQXcxOWFzNUJwRmRWXzFHc2gzZWhsTXpqYk9hLVJLcWphYktyN3hWcXk5NGtpU3dWR2FZbEpMNjM5VW81ay1IVW9rbk1SenlobHlEaDlWS1A3bzBYaFVXT05MWHNRMlUzM2VRazA1VXduVXVpdm5vd0EwSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "BD",
-   "date": "2026-11-14T03:08:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a9a340f92e",
-   "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczhLUHVMV0tuNV8tZjNfSy03RVhnb3VPdUtzeDBuZ3d1Vm96X0FQR25oRG5SSjV0NHh6OXM3MmVqazBNcEZoOExnSVBnRnVvZFBWTUJVVjdjNDlHMXNOOEYtdGJqYkpaUVQwckxBMUJSMmp0RVZKX3FBdjFrOEl2S19nWVZ6WlhYMnVwOTIzZk5keDFvc0pMem03OV9nZXIyNzNGZEVrTVplU1p4NHNpODk0NNIBuAFBVV95cUxNMDNpbFNPTXlBd3JoTmZPdFVEVnRuYUNDUURqMHJoQ3daY04teDhaazZmdE9qampJV2dPZWVmLUUwVDBuUERWVXBzV2M3ODBxaS1oeU82YXFRVS1HLWlvbGZuNWdzdmhwRnJXbEo5SDJ3bThETTVwQ081YzUxTm1DakkzbEx3ZmwyX2w5MzZlaWlFZ080cTBBTm9aU3FoMWdUbEdWSXpWbEtlZk9nZmVoODBGTTRzdEti?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "BD",
-   "date": "2026-11-14T03:02:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "774dcc17fa",
-   "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WDSU",
-   "region": "BD",
-   "date": "2026-11-14T02:54:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "26184b8269",
-   "title": "New Regency Sues Michael Mann to Retain Rights to ‘Heat’",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU10LTBEQkxJSlpRZzU3LXJ1dmVPTUMxV3o2WThEZGx5SkZLLWpJVklMZk1oU3NhVUpqZXpxeGZjUk14VjMtQWs4NURUV3NhZ0FrRjNZbDF6dmoxdkZieVNIRjFTS0xPU1dTYTR5NTJoUUFoSGQ2SGhYcEJiaUtKYkNIZllCY2Uxdjl2T0YzSWhFdlR4RGZFVjk2TkNrYXNwSDVycnM3LVRlWnY2Tnh3OE5B?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hollywood Reporter",
-   "region": "BD",
-   "date": "2026-11-14T02:30:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "0d797dc271",
-   "title": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\"",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM1NJUktyY2M4RVRjVlktSzNBdUxXVG1mQkhIVDFwbm5ja2ctOFltOUNMWjhOT0V0MDBTWnZnYkpDdE03RGIwM1B5bnBiRkpMV2pMYVFwRTZWRUJVTTJYQjB0N2wyN003M1dQSm9jTmtuREk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBS News",
-   "region": "BD",
-   "date": "2026-11-14T02:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Weather"
-  },
-  {
-   "id": "5ae8777cd7",
-   "title": "MAGA firebrand Lauren Boebert falls to Democrat Eileen Laubacher in Colorado",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmxuTlNJU0plaldsZi1kNXYyLTRKQ1ZGZ19zc0pEMkJfYV9RMl9ERjdPZXJmZkpzcGxfdGpKZGtGRDIyLTZqbXVxRWVwY2ZGemo0aTZ2VGxsQ2VBUFRWOXl6c2NhV2pJbDlWeU12MkJUcVpXdF9BX2JfVlV1UHFhVlhmVDF5RC1KcV9XT1Z4VVBfcElQWjJaSjBnQUtiYVVJbG04cmxzdUZMV0k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Politico",
-   "region": "BD",
-   "date": "2026-11-14T02:05:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
@@ -300,38 +282,21 @@
    "topic": "Tech"
   },
   {
-   "id": "1a5d358583",
-   "title": "Family Dollar to pay $63M settlement after Utah, FTC allege company overcharged customers",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0pyaEFCVVZMVzQwTFVaWVNWTUVkOC1IbG5PRE9OOWFPZmNHTU9zbFpUTUMtMWRVYUVCQWlwbHM3TWxhbXBpa0p5U0xtUnU0SUI1d0lheHF2T2FpRlctNkQ2MXBvZ0FWMkxfbDBBQjdWNkNxMlFrYWljcjFaRFMwNjZFaTMtS180VUdsTGdTMXk0Wl9xaFA3c0dMdnU0MmFZdTQ3aVdaV3VmZVF0R3pSTkhIN3A0aXZNYmUyVXpWT0NYdw?oc=5",
+   "id": "2ad50da5b3",
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bmJSeXZjVmZQcm1sZkRQQmlCa2hPYUlhbEN2UzFnN184RzZTWEk2ZEM1OXR6ZTFOTWpaU21QOGVMX3UtZUZ6RGFLTGdlOF9TNVJrWFBuZXF2WEk?oc=5",
    "summary": "",
    "image": "",
-   "source": "KSL News",
+   "source": "BBC",
    "region": "BD",
-   "date": "2026-11-13T23:07:45+00:00",
+   "date": "2026-11-13T23:40:45+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",
     "place": "",
     "flag": "🇧🇩"
    },
-   "topic": "Business"
-  },
-  {
-   "id": "6eb211428f",
-   "title": "Johnny Depp Pic ‘Ebenezer’ Opening To Spirited $20M+ U.S. – Box Office Update",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yTUtLOFNjM0VnYzlNTGZGWTdRYXVhNWE5ZWZ2blNsQVlnQXBGbjBiZzhHc1pzcmNCVnB2NVpUTnpoYi1rejVSdGY1cWc4cFRyN2xodzZpeFBJQ3lkLTRXYXoxRU5vakZjMkt4bw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Deadline",
-   "region": "BD",
-   "date": "2026-11-13T23:02:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
    "id": "f52921cca7",
@@ -381,6 +346,40 @@
     "country": "Bangladesh",
     "place": "",
     "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2241bbe69b",
+   "title": "US Futures Gain With Microsoft Outage, Producer Prices in Focus",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGFnaDF1dHVTeVV2SlEyQ0w4SHlwMTVSb1RxMlc3SFByR1l1WnM1YXRVRy11RjAyZ0xnMVdldU1PY1lhMVRHeldxQ0pUTGp1eC13eEZSLUpiejF0ZlpqRlQ4QTBhN0xEMmxaNktiRldvbG5tbk9OZy1Pbkw0ck5MRXZnblRsRnVsbHY3TlBkRGxUVEVmX1B0dDJuNDlnR1h4cld4UWdsUUI5OWhEQnRBNTJZdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "BD",
+   "date": "2026-11-13T21:40:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "5bf4e1cac1",
+   "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnQ3REtQVWdMM0ViRGFHRVBiektOamtSSmJIUjBOdWM2ZE5fTnJ6NmllbXhQT2NvUk81SnNXOGhYdDlVU2pzaFdQWjRqMF9iOEh3VkZDc3lLdDBvVHlhdDJqVElkTi1Wb2pNV3Qtd1JKNW04WVlObFppYmhmZklfMEtPQzRaSXlNRWVKSmZTUzI3VDFFLTVGcEpxMmIzb0RuV0NQU2Jocm9xTXdBR3JrdWhLeW9Id9IBuwFBVV95cUxOUGVJX2lkTkxZa2RfcXBFM3BCUEVRSmRpSDZGUENzaERNQTRlcUtVUV9Cd0NQc1Fwa3JzSTE4ZEJjU3k3cW5hdXc5UUdRN1l5ellmQXpDbzdFendNZ013bHNSenN3dXZpcDRIcTFURVplRDE0UGc1NFlPUUNSdXQ0ZGhTZGZjTGNFc0pTTXdvRG96UUtzaXhBTHBBOVpXV3FHQTZTUUZCNFhBNkRYN05IeWlidkliSFhuTVFn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABC7 Los Angeles",
+   "region": "BD",
+   "date": "2026-11-13T21:36:57+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -436,6 +435,23 @@
    "topic": "Society"
   },
   {
+   "id": "6e432cb8f8",
+   "title": "Democrat Eileen Laubacher unseats Rep. Lauren Boebert in Colorado’s 4th District",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkJ5QVRBSzNMS3lROWw0VnFXdm5kQkIzbHJ4MUdHaHFmMFRrWURTNk9XM2Z5eDdfeG44RkNNRlU1aFVjTHlUY0NVeDdXOHB1SzR1d3hFVzJvSWJzRlJGQThqUlNzT1lDVkY3MzM4MmR4N3ZxRENCWFZFaFItdDJZQWlmbWpRdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Colorado Newsline",
+   "region": "BD",
+   "date": "2026-11-13T20:04:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0edb1c6a6d",
    "title": "Second child dies from measles in Grant County",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGNqOHc2ODV5Rm93d3R1Y1RwUTFKckNlYkoyT0dhenloMmZ1a1dWRG5HWEhlYUZZUkNXeTM4Rm9hdzVsN0d6Y2RseGhIZWdYOHlkMjhoT21rNUl1UFhhdldOQU5pZ3c2YU5BRm9vdVVGdEZzRE5LLWhtVWZlaVBkb2J3ZExDZFlxdHRjZHpER19lemN6V1ByekZySmdKY0d4NmR4Z19qZkVVS1NxTWt3VHhYdGwxa0FuYjJ2MlpnT2JuRHJQUWQ1bw?oc=5",
@@ -449,6 +465,23 @@
     "country": "Bangladesh",
     "place": "",
     "flag": "🇧🇩"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "280bff5522",
+   "title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "BD",
+   "date": "2026-11-13T19:56:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -485,26 +518,6 @@
     "flag": "🇺🇸 🇮🇷",
     "also": [
      "Iran"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "20d5a691b8",
-   "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "BD",
-   "date": "2026-11-13T18:24:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦 🇷🇺",
-    "also": [
-     "Russia"
     ]
    },
    "topic": "Society"
@@ -561,40 +574,6 @@
    "topic": "Politics"
   },
   {
-   "id": "f3592280a5",
-   "title": "Limit of light: US scientists reveal why no material can ever be 100% transparent",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHJxdmJFb2hlMzJyMzE4WXQ2Qk5HSlF3aHA4Y25TT2t1WnVyaUlzY1U4T0UxcmZUMGZjQ2p5TzM4b1c2cXV0X1ZqaHpLOG1JTHNpalBlWEh1NFRzUl9qYW52a3pBYUdoV1F3b0d6Z3RoZ25GYzBzZnlERXhsdnVvWnM0NU5qaV9sRUl6MnRqUEIwbENMc3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo",
-   "region": "BD",
-   "date": "2026-11-13T16:13:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "1bfcc76c0a",
-   "title": "Motorola Signature 27 has a serious battery problem in some regions",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ08tdFVianFPWEo1NnBaMGdaRjhIc1pWY3FadmNTWVV5UnVVc1d5WU11Y2ttTE5XRGdYTXN6dld0clFaR2FQMTBrRDJaUUFrUlJ3cjRrX2wwLUpuQ3VZbjdRTGdRMTF4cG9DTWJBS1c5M0JGTm5ZN0djM0l4T1dqMFN2eHlmYTFWV1pqbHJKbF9mb2xCa29N?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PhoneArena",
-   "region": "BD",
-   "date": "2026-11-13T16:12:08+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Bangladesh",
-    "place": "",
-    "flag": "🇧🇩"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b9be882ce6",
    "title": "BBC undercover reporter is offered fake art and awards for talent visa",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQy1yV204b21oU05GS1ItTWJWU1dpV01uenZ1bGszc3RCbTE1Z29CVW92Z2wxbVBZWHIwY3QxMnAtYlE2UkVLc2xXMElDY2h0S1hBemhMdG8?oc=5",
@@ -620,6 +599,23 @@
    "source": "Engadget",
    "region": "BD",
    "date": "2026-11-13T14:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Bangladesh",
+    "place": "",
+    "flag": "🇧🇩"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "0eb6bd0ee7",
+   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "9to5Google",
+   "region": "BD",
+   "date": "2026-11-13T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Bangladesh",

@@ -1,34 +1,34 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
   {
-   "id": "1cdbf46f3c",
-   "title": "US flights resume after nationwide ground stop delays NZ services",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWZYT05IYjZmWUhkSVdZZlVfNjRiVXJKSEY4QkhmdGJoeDdIZGxHZmpzM25aTmtXSndBQjc5cldCXzBScHhweDRtbm5fUF8tSUt0SUpiRUVkUm80MS1XQ240ZTRCZ0hDMU9TcVg2R3JFel9lb3JSeFFBRHlPdlJNdTR0YkJlZklmWEpNQ25qRVNneERXem1MUlpxd2kxUmdkZDF3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-14T08:18:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5df8178d98",
-   "title": "US billionaire's $300m superyacht spotted in Auckland",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1NCM2Q3MnVUbTltU2lJTTUzX0ZSMFhTeXlWdFFoR1JPR1dlcVQzMzhqNWg5Zmx1bXBSU3J4d0FuVWxXeVRyR2I3RTZvOUhuNEZOdjBuV2dmeGN3bnk0eXc1UkNidVhFd2RNSEliMS1FckxZWENwcHB4NVpzSmFLM2NCNFd2NXpIRTk0SDlYNUJTbHR3bURqeGRjN0k4bnl5RjJKWFVIN2FtbGN5NVhSbGw3dTdJQ2trN0RfeG1EdDVWX3VlQmloQ092bHJXVGRS?oc=5",
+   "id": "0b24437860",
+   "title": "One person missing off West Coast beach, four rescued after water 'incident'",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ1hQX2dvMXNrSkI4bHhCNENfekJrOGFTQmVyUkRtTVlvYzVXRS1HRVQ4aWk2QU1VVjg5S0JWSVViYkV0N2U0MXZOZnkxYnhYQkhUT1NpN1MzUVFPelRiVGtpclRCNERMRUFYb1VlWjZyWkpPT2pUMzJTbXA1RkFpZzBuMmNtN1dVQTBDUndKQWtFTThxMjkxekx2eTIzVWRLUGhzYmVPa2k5RGVpRzllTkl2VDE5SmpBZnNFOTNWa25ZMFZMbk9XNEhhQzNIWTd5a1pDUjBrQUtMV0lKUjRkUWY0UlI0VjE4bzlrN09sMS0weVFkUjhoYzFfeVROUUU?oc=5",
    "summary": "",
    "image": "",
    "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-14T08:04:58+00:00",
+   "date": "2026-11-14T07:13:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "557b745f7e",
+   "title": "US billionaire’s $540m superyacht arrives in Auckland",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJGWFB1NVhzOUJqcmNyODIxaHhsVm5HVUtLTzJBeEZpTTNDZU42eENyeU0ydmRIQ2NtMnNlOG9zN0hDT2NlMGJlWGJmSmwwU09mTFVrWlhHT3NXQ3N0dGJsdXV4YkE1YTFVWVltLWtSS0N6WHltTUdVdGh5bDdXR2oyZ2NaSER5SzVZck5OZFVSdDA0?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Stuff",
+   "region": "NZ",
+   "date": "2026-11-14T07:07:21+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -41,40 +41,6 @@
    "topic": "Society"
   },
   {
-   "id": "b024980512",
-   "title": "Man spends nearly 12 hours up tree during stand off with Whangārei police",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0o1WXRYOVEwb0g1bXNGbU56WS1ZTzgxX0QxeGpkZVdVVXZsd0k0TnQ1SEI4M3lmTnNBVHR1cjJGVWRPdU96RWRkMUtlbGVfUXJ6cWR4M2dzMXVwMnBGZGpWbVkwLVR6OXU2R1pxZks2MFAwaG9fQUdiWHhfT01oNDQ1WFB1czlHMENhLWlaS3IxaGZnemdGYm0yYVVoUlM1MF9MbHFPT3dnR1cxanc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-14T07:58:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "0b24437860",
-   "title": "One person missing off West Coast beach, four rescued after water 'incident'",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ1hQX2dvMXNrSkI4bHhCNENfekJrOGFTQmVyUkRtTVlvYzVXRS1HRVQ4aWk2QU1VVjg5S0JWSVViYkV0N2U0MXZOZnkxYnhYQkhUT1NpN1MzUVFPelRiVGtpclRCNERMRUFYb1VlWjZyWkpPT2pUMzJTbXA1RkFpZzBuMmNtN1dVQTBDUndKQWtFTThxMjkxekx2eTIzVWRLUGhzYmVPa2k5RGVpRzllTkl2VDE5SmpBZnNFOTNWa25ZMFZMbk9XNEhhQzNIWTd5a1pDUjBrQUtMV0lKUjRkUWY0UlI0VjE4bzlrN09sMS0weVFkUjhoYzFfeVROUUU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-14T07:07:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5e70071194",
    "title": "Ten years on from Kaikōura quake, massive rebuild stands test of time",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRPcjEzQlE1N2szNnBYTXExWWVCNTVHQWZoU1VDOHNpalpCc1RMSlEzdmM4dGZlNHYtVmhSbzJ1dTlZcDRlT2QtVjhBbXc5M21ranVIMjJVR21qUVIyUllWd19rZjA3eXlmSE56ZGZxN3R0V2ZRdFI3Y3plamhFV2tuaC14b0Vzc3d4X0hMbUZmZFBobWluUWJmcmctX215dGVTd2N6cw?oc=5",
@@ -83,23 +49,6 @@
    "source": "1News",
    "region": "NZ",
    "date": "2026-11-14T06:37:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3a180d125b",
-   "title": "Busy Auckland mall evacuated after battery catches alight in store",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONEpDd01ERFZjVXhXU1lENHBIZXRTSzBvbzZBcEM5ZURpQl9ndU9jbW5PRWJON3hnY3c5YktwV0hWcjllMGIzZERRZ1ZPOFU5SWswY3Ywekh5cy1LTW55dmxPeGlCakVsYzFTaWRnMGRkS2hHcDF3VmpqMnlFWVBuc2VRT2FTNW9aUE9ZMGhXNGQ3YTgzMDFpcEI3RzN5X3BiTGoxYjBEN0JHVHdQUUNVZm5LWVB6aGxOLVIyNG9xelh6aTlqMTh4RV9DRWtoMWVGUVliR1VUSHVacGdQd0FvVDl2UE83OWc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-14T05:57:57+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -124,6 +73,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Society"
+  },
+  {
+   "id": "31e63c9749",
+   "title": "Live updates: Kiwi Ferns v Australia - Rugby League World Cup final",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNk54VjRqaEI3cENJS012YXlXMGZ1THUwOFRFUkFkWFNRZmlFTXBZbzRZNmpUZDg3RkJaNi01Qm1yRXpITU1XdHI0VGZIam9KaUY4cDVsYWJJdUlnVzV3UnUzb2hrMjFkWjdvYUsxT19QV2ZYX3hfWURoQlZsZjBtbmZBWlJ0bEQ0NDRPTzJpclVTX2VSMWdtR0VnUmUzTEVzN3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "1News",
+   "region": "NZ",
+   "date": "2026-11-14T05:31:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Sports"
   },
   {
    "id": "c6e9e5af52",
@@ -158,6 +124,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Society"
+  },
+  {
+   "id": "14905b890b",
+   "title": "Bill will die with current Parliament if rejected - Rabuka",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmtsS2NpQ05lN2lERTl0V3hCVUFiX1YzWDhUYXg2OHRic015V3dEZkdXdF80VVJ3cmZ1LWRCN05OU2lqLU9iczF1Y0xrOFROQnAyQ1JiRTBCbVg2T1BmMzdpS1pKOUdJbWt2Y3RETnhicUlpam4yQnBhV3pqajJfUkJuUDdpY3RFUE9wZ01OdTgyUmdELXo3M3ln?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fijivillage",
+   "region": "NZ",
+   "date": "2026-11-14T04:39:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
   },
   {
    "id": "d4e419fc46",
@@ -245,21 +228,21 @@
    "topic": "Society"
   },
   {
-   "id": "710e99678b",
-   "title": "Kiwi Ferns ready to give ‘everything’ to topple Jillaroos in Rugby League World Cup final",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjNGdGl2Q005MkgxcXUtdTBTVl8xRHZDQlU1QnV6MENxWVRTM0FtMFNIZ1hFNVpXNDJzamhkSk5KZHNXeG9MMlY4QjdUaXlPWEhSWWFFVmc1WFY3cGNjQVl1SHJJS3JPWDhyeU45aERxZVhzMlMzMlRsMDUyMVQtNFczMTItNnhuSGwtS3FNVnpEUjVONGFmVWtHU2tUSndMVGczNHNBX2tqZlpsc2tHbDVqa0t5b1dORFE?oc=5",
+   "id": "16bd5e9e65",
+   "title": "Delays expected for days after US lifts nationwide flight halt",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtkaXJXU1B1MFRFX1k4WmNzWTR3ckxGMVBHZlpyZExFQTd3OXo5UUlUcWkydkdyOXNmOGZsWFhaTE1tUV9scGdva1g2a2NpaE5DQXZiN2h3VXpkcVd3RU9ONXdNSE5KdTI3bVdYSGhEbUZXNDV4cmFkZUNDZzFhVWNGMjhERy15Q29CenJwVzNLd2FxVWRvUGNKRmxQQ3A0SUQ2aVNCeEhteWlOaVJyRl9ZYkhBRlJUVUdTQzgzdnkxTmUxQ1BrNC1Ga0x4Yk9OakE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-14T02:47:43+00:00",
+   "date": "2026-11-14T02:25:02+00:00",
    "coverage": 1,
    "location": {
-    "country": "New Zealand",
+    "country": "United States",
     "place": "",
-    "flag": "🇳🇿"
+    "flag": "🇺🇸"
    },
-   "topic": "Sports"
+   "topic": "Society"
   },
   {
    "id": "f09ec99547",
@@ -296,23 +279,6 @@
    "topic": "Society"
   },
   {
-   "id": "992b3b9803",
-   "title": "RNZ chief executive Paul Thompson announces early departure from organisation",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVZ5M3VUOXFwbDE2YWFvaFQ1aTcxRFBqTUo5YndIaVAzU0Y0em1aSy1oankzVzNGdVpMcHNIdEZPb21XbjZIdVgwa1Z3YlcxTFd1U0w3THR4clBHZjJsRE56VEstVm1OVHpwVjN1T2gwQmNSbzVpRGk5QmhRNmNRYmExLUJoclR6ZC1VenNYUW52SHNEQzJoV2pkWTJBRmdKUHd6d3RCRUZDcUVBdVBoQVlJMXlRT1ZWUDI5RFpn?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-13T23:58:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "0408e5c208",
    "title": "Rugby: France stun Springboks in Nations Championship",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTFmaTB5V0c0eDhmczhnTDlPeWNGcENsVzZRZUpWT2hMNVZScEJaVzA0dFlORjdKRUFkMkswcG9YN0pKOTdNQXZtWFp2Q0JDMlJRWW5lU1lVWWZqaERmeVVpT2lDMkMtOGI5U3I1SHEtdEF5N2w0Z2p5d3RlaDhzaDlTN0NNNXVXSk1wa1hkTk5VS1pOWkhHQw?oc=5",
@@ -328,40 +294,6 @@
     "flag": "🇫🇷"
    },
    "topic": "Sports"
-  },
-  {
-   "id": "3611f8f5f6",
-   "title": "Apple releases tvOS 27.2.1, delivering Siri AI to multiple Apple TV 4K models",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNFYlNmTXhDcG85c21rV3ZnSnlhUmp2ZEo0RHIxalJBYTdvWjk0TnFtS0dld05oUWZQRFlKTF80bnJxdVRvQU5KLTE0cDFyZGxaYkVua0FIUXV5Wm5QV1N3WUpyWEI2YVdRUGMzOEFUYVh4M0hqQXh3NzJOVzdGUnpoZUNzT24wQWtoSmpQOTFIdV9yTkJpcUZvYWxrSDJIbFZVY2lBcFc3a2ppTXJnR19PUdIBuAFBVV95cUxNNFo0eFl5SWtzck5UeXNGMkJyQmRDajgyNTBMVUVYUVBCNTZNYUFNWVI2d3hkb2ItdURieGNOaGw2a2Vrc25iNWNnNEdsODcxa2hHaWNwOUljWFY4dlg0dzZxTDJiWFBQZnNMa01OX0gwOTNPR1pjT1I0R0dnU0dZNGQwZHEybktYMG5lZE91c3VKZ2ZNMHNJd1pFUXFaUkxMWi1pZVFON0dWRHhWNUQtNUVrZkwyZDlk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "MacDailyNews",
-   "region": "NZ",
-   "date": "2026-11-13T22:32:52+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "e8370051d6",
-   "title": "New Zealand election: A government by Christmas is the present New Zealand needs – Cecilia Robinson",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVWpzRWFGNTNjakdNaGxJVmt4bV9XMVRJTk42RTAxeEZ5clRtNU9SU0hwVmR3SzdoRUxFbTVXZkVOd3RKRHItYi1GdjlvRzNJWkdQUHNZb0FRb0o0ZGdOYXFWYVJmV0RhMmtEaGt1N0MyR3pQSGM2alMzTnl2cXoxWkZpTEVtQ3dYd3kzZDRlZzBxNnN6NUF6X1hlU0ZiYnNxdGNPOVZBRGlUeHllalRVYzNGMkwzWTRDODRPRjdWUXprZnRpellpcUQ2OHoyYWhlSU1KUXpqSjhYODNBbzAzMGotNlNGWjExSWxYRXNYSjc5WVFDV3doR1VHS3o?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-13T22:03:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Politics"
   },
   {
    "id": "0f75046558",
@@ -381,14 +313,65 @@
    "topic": "Tech"
   },
   {
-   "id": "53679dbfa9",
-   "title": "UK police launch sex offense investigation into children’s author and comedian David Walliams",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3kxQWRGZndIY2I0dkRtdzJrYkdCZm1TdElwaUxobWQ1M0NVRzM4eWlvMDZuSC1BTklsd3pmemg3bGs5ckV5dFNmQU4wNmpBNGZiQ1hLMlJWYUNjc2hTaUZ2N00zbHpES3dic2xia2MzUlZmamZRTmw0WWg4cHJLa01aNEpjNEh2SnVqczJTZFFOa19iZG5sSWx6RXBaaWZPVkE?oc=5",
+   "id": "8282507f28",
+   "title": "RNZ chief executive to leave role early after shock $12 million loss",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVY1YVdaSjlkcVlEOG43cWVHMko2Y050SjlVLXZGQlo2RDhZcW16TmtScjlUTmNvNFRVOW9KSk05dTctYXJPNXRUWEx2WW1IZm9MdEtxN29HOWk3by15SXp1OVZBeTlXYWxjYzMwUDRyNm1nWmFtVzh3QlBBQW1EWWFwX3N2NVoxOEoxVVZOZTFyN0d4LVBtdnBCWmZ5X0k?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff",
+   "source": "1News",
    "region": "NZ",
-   "date": "2026-11-13T17:16:47+00:00",
+   "date": "2026-11-13T20:27:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e2a249ba02",
+   "title": "Wanted man arrested after 14 hours up tree in night-long standoff",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkY3ZnpIODIzMUdTSXdwbG43SlM2MHFFTUpLeDBQX2NXdU40SWtuSzNlVGkzaTdxeVBPTTNTTi0yMzBsOUdqOHJIY0VldE5jVi1FcUFVN19wNzhPX2FvMnZqNzQ3Tm11blFZcDViM0RQelRBUFVtdGxOTU1uSVI3eExTSDEycUlxR1g2N0JqMWMtVnBXOTZEVzYwU0NIRWNLZ1Z2QkxNTk5YbXJZc3FOUlhncnQzSmRicTdLbFBmb2dqSFFiOHBqYkktMkJ0dFdQcE40U0VCZzNKUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NZ Herald",
+   "region": "NZ",
+   "date": "2026-11-13T19:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b61f96453c",
+   "title": "Best Apple deal: Save $9.01 on Apple HomeView",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45djQ1MXZkaTE0ME8ybGxkVGV6akp4N2s0UVdrMVdEU0RzQjhPcHB0NFdSSy1vVTRKLXNHcnkxWm1GeUlMOTJId20zMkpESW5GbUs0T2Y5akR0SGU4UV9QMWczWXdtbjVtS21CSEtvazBOTHAxbFV1bnl2dw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "NZ",
+   "date": "2026-11-13T19:07:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "aada1684b7",
+   "title": "UK police open probe into David Walliams allegations",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeml2dFJCZnFnWkFudnpjdm5LMHRwd2IxajV2WTAxdlctM2xLckFqb0JoTjRzUWJPSUVqSUpqVlh4UWpKbHlrLVNTZjRhN19mRGctcWVYSE11a1BEbFVxeXhBZURYX3g1SHpVS0J2TXd2SUNNcmlDMEhJS1pMRms2QTBnRDh2djllVDZ1VTZVUDVJWDU3NVVGZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-13T17:52:48+00:00",
    "coverage": 1,
    "location": {
     "country": "United Kingdom",
@@ -432,6 +415,23 @@
    "topic": "Society"
   },
   {
+   "id": "a6cca7f2cd",
+   "title": "Red Bull bosses had completely off-the-track reason for wanting Nikola Tsolov to replace Liam Lawson",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGhXNnpPY3hicGd0RVEtTHo1ZkhpdW9tS0w0T3ZlSU9QMmxqUDIxbFFaRk1GcmJ3YktNS3lCN2RTczBGcHd6MVY5NFA3Uml2ejFiSVIyeFVyVmJMQ1JudGpOdjJOeEZwU0dHQ25hZnJOQVl1eE4waW51bnBpZndOMzBoNHRHVUhKZTdla0lIVm50ZFAxU0ZPb0lZUC1DbzljVjJ3V2N4NEw5d3QzYUxCN1FnY3pULTY4eUJkaWV2QjFGSk1VZnFJRDF3NUFJbTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "F1 Oversteer",
+   "region": "NZ",
+   "date": "2026-11-13T07:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0ab20b369f",
    "title": "Outlook down: Network change coincided with Microsoft outage",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYjQ0aHRYYlZDQndkY1hLby1JaEJfVG5peW1yN29WQnNwU2F0YlBKUVRHMEtYV1FqYUJrQlRuNXBfQWdpNFJFcDlVVnl6cjl6OFZWQlVEZzJaNllXMlRVUlFTYkprWTJhV3Nhblp6OUFsMVE5SWxiMnI4TnoteFFmZGFYZi10dGR1dVlwMzBRUkNZbEt0emR5ektzQQ?oc=5",
@@ -466,40 +466,6 @@
    "topic": "Tech"
   },
   {
-   "id": "659d75dcb9",
-   "title": "Cricket: 'Utter nonsense' - Australia skipper denies involvement in sandpaper plot",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWZfeUNYOUpTUzJMOXBxbEp5MzMxQXRqWFM0YllEWnU0aUVqY1RPdk1Xcm50N3dWSTZlM0k3WXJhdGZFWlBTVllBamR3ekNpenJJR3BvbUxySTg2SmZQVVdrSXZ3NWhMY3JPdUVjSnNETnpueFhRdVRMLUtnQVY3dkFFbWlPcXFsbUhGeF9Ydi1xZlFocmN6SnVlU3M5bUJpYmlKNUFURER5QldTRm1ndkdCanJteVhLY1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RNZ",
-   "region": "NZ",
-   "date": "2026-11-13T00:26:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "d7d43a9920",
-   "title": "'Immensely proud': Liam Lawson's dad says son 'always had to fight'",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXhVNW1lN2EtX3ZmcVVsc3hFdnVHaVRTeldvdGVxNFRDWGpaMExrdkpHS3pfWnhHYTA1UlBhYWY5Z2ZzTEJEUEpNa04yM2t0N2JZbkV3TndJd2lQeGtfWUc4UkdnNllvcTJsZS1oNXVtM2NPWXdmbkdnWmlmWkhMU1Q1dk94Q2NlaXFORU94QnZLNW1rMDAyc053bElQQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "1News",
-   "region": "NZ",
-   "date": "2026-11-12T23:43:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "ed2dff83d5",
    "title": "The Diamond Paradox: Scientists Describe The Path To The Most Stable Structure - Scoop",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWdoRy1OWTNzSHlXSVRDYkVJV2taampTV2xGZWJjZ0cwR2dpOFBnZks2dWtfeWt1dDMyWk9qUnVGRGVzdGl0S3RFMW9aTzl0QmxvWU1LYjU5ckRGbHk2cjdHZWpTN0dnQVlNNVhXX2R3MGFaMmZWRHh5MUNHb2RhLVhxcGxXS0x0b0JqYzR1SUVQWXlqWnFxT3ZQZUVXSWU4VDNQb1BvQ2pseWdpdTdDbXA2M2dubmxadjNseDJqN0tZcldfMkE?oc=5",
@@ -517,14 +483,48 @@
    "topic": "Society"
   },
   {
-   "id": "66bad19533",
-   "title": "This game reportedly tops $1 billion before it even launches",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnNJUE0wSkVUN0J5Z0NFcDZiSTBuZXpCdVRTSDh1cUZkMGsxdlpLTzVDZjNweFVBZ1lId1FBRk1FcEx3QUNpcVM4M3NPMVJxTUxEXy1sUlRYeHNtM012elFCNVk0MW9hUzFEMVZwRnJwZ0l1OG9qbDRJNFBMeUZycFJETU55OWtMcEpfWmVXOFJGMkJ2Sm5JZlB5UEZXR3NUNE9DSDFLQQ?oc=5",
+   "id": "211f999ede",
+   "title": "'Disrespectful': Thieves steal ornate lion from Feilding cemetery",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTjZLanRMVllLWHVYcFpKMEZmOXNKckZxS0VxYlhWWW1Tc2hhZXJZWkx4a09jSmY5T3lsTWNlaGtvOFE2a1BxbFdrUmRROTE4YVVLQXhyZ1o0UXlSdkoyY0YyQmNmb0VpLVQtMlR0bGpwUXh5aUlnNHQ5dmV2OXFJaWozTUcxYWxtWWhIYkpaSlhxaTlacDEtTmtJdWtmU1k?oc=5",
    "summary": "",
    "image": "",
-   "source": "Notebookcheck",
+   "source": "1News",
    "region": "NZ",
-   "date": "2026-11-12T10:50:00+00:00",
+   "date": "2026-11-12T20:51:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cc818750f5",
+   "title": "Three-week vote count no barrier to negotiations - expert",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWZ4azFrRW5UOUxDZmZCazluLXpkRnBRbW5mQmZQQzhvSGxrX3ZVNlo2aEhpX3pORll1eVZZSFMwdHQ4TllpWFBFTjZYVUNxVHpLT2tHTjNfVjEzWENZUnIzWWs4cFBqV3lTaXBETDhwNWFKYmtFdlp5eFVCSHg5cUt3NnJEVTBVdmN1Sjh4OXZYU0lJRUdQb1VwcnpFTkZVYm9Ydl9Xd3RkTmtSREZEOW04OA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-12T18:49:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "97fe917559",
+   "title": "GTA 6 hasn't launched yet. It's already made $1 billion",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1VoQmRoRTZFdTcteGUwXzFTckllZHJpQ3p1M0Q1LTBHQ0kxdE1mN3UwaVBsTnVHLXU4T1VPRHhoaWtFZW1fMU9DODQ0dFkwVDJoZm15N3BMOEUwWnhxWWp4bHVOVGlYY0taLW9iTUFJSV9WN181MzY4LVRkVDJ3T3I3Vkw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Tech",
+   "region": "NZ",
+   "date": "2026-11-12T17:12:39+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",

@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
+  {
+   "id": "a33a322211",
+   "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxN3YzWnlSc3BjMFFZZjRJQ3hKUHFWVHRKb1lDN2xJTjhxNjVkQnRQT2xfLTdLcWgtSG1Bck15Q3MzTWw4STNlQ3hXR0VPT09pT21jUHJQR2h0VEZDUmJLNVl3ckhJSFFxcHU1d0FWOVJtS19iUE9QTGNNWkg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Xinhua",
+   "region": "GH",
+   "date": "2026-11-14T09:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "72385be6a9",
+   "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU5VY3FGdnpHeXpHa29PX0xYbW1PMjdKeEM5V0gtV29HcFdsOXUtSVpSRlA0d1JsWlV4QU45ZVpUYXkyb2hZVExrbUIwN2Nrc0pXRTllSURpLW5IdE5DTlV2U2N0MzE2bjFOWmlubTFnY3ZWMFN4S2U1RTB6ZDhaa0VB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Astronomy.com",
+   "region": "GH",
+   "date": "2026-11-14T09:05:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c6e93f5852",
+   "title": "Send one prompt to 6 AI models and compare their answers with AskAnyModel for $31.99",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhxeWVNMjY0WWhlamR4WEN4TzBEWU51OF9VWUIxYUs1cUxxczJPZllCeFZpTXFhZmRIQ3hvMUNQbUl4WFA3NVByODlSWjR1VzVrXzFkZjM3UF9kcktKU2VOQW1yc0RhbFBGd0hrNlg4dzhVT2N6bTJLNVZQS2VMQkFnNXM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "GH",
+   "date": "2026-11-14T09:02:14+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Tech"
+  },
   {
    "id": "083b8296c1",
    "title": "2027 Budget increases household burden - Minority",
@@ -21,31 +72,14 @@
    "topic": "Economy"
   },
   {
-   "id": "0fa9c1c4d6",
-   "title": "Government’s reset agenda must go beyond economic stabilisation – Dr Yamson",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUS1fY3ZJYnZZME41QTBkOUV3aTRnQlNJNGxSOFp2MXJreXdsbkFPN2ZpbDloYkJUdEh5VGdpTzJLRWtNU18zN2ZBeHU1Y1Nreldsc3dGRkNPYXQ3NzU2TWM2RVlpTkFqeHUzYXF3Z245dlpEbnVkaWd4cHU0WU8xQWJyblh4VDFFNTBOcExnOHpLdUlnZEYxZkNZTERWdnZxZUE?oc=5",
+   "id": "982b8a4388",
+   "title": "Rice farmers call for ready market and reduced imports as rice rots in storage",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1VVUExHZzdLZXduMnJucVZUTF9tSjdlVmFKdS1sQUdtN2pGeUVKTmgwSHA3Y3dobHFITXFJMUh0aXlhV0NLcEI5UEN6SXBiUWNOaFRDczFWNnZxRXM1Qk5jMTNtRHZzb1J1Zk54Zzg1UGhmRjRFRmNNLWZRS2pfZ2FiQ0dZclVoc1FPNkY2NXRycWF5VjhoSkRhdjJ2c3NOQWFNaXVFZUlIT01MNGtKaVdrSU5Oa2ZTRXg3bg?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ghana News Agency",
+   "source": "GBC Ghana Online",
    "region": "GH",
-   "date": "2026-11-14T08:07:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "467a1abcc2",
-   "title": "Best early Black Friday Garmin deals 2026: Save $100 or more on Venu 4, Vivoactive 5, Forerunner 265",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RQjdLbDRpUVlmSi1xVWQyQ0FoZXZWREhuU3hDU0hCSTEyVjVNYmhjYmpBaFpuR3k0cXo4V0pELXFEdUVScmlhWk1MNll4OV83RVFZSnVQMFY4N1k5QlZHWVEtS1A5b0NxMERvTmkyVC05Z1Q2VGc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "GH",
-   "date": "2026-11-14T08:07:05+00:00",
+   "date": "2026-11-14T08:20:05+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -55,14 +89,14 @@
    "topic": "Society"
   },
   {
-   "id": "9eee5bb6eb",
-   "title": "New method reveals how glioblastoma cells invade the brain",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5",
+   "id": "84d60ea026",
+   "title": "Best gaming monitor deal: save $210 on ASUS ROG Strix",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRkt2Qk1UXzljSG5ZaFJ6M050NGtfNF9yWVFBYWJWbHdoVFYwS3JKLUpIcGgtNGRLZjJKVERPWGxNb2d6dF9IVENmVW92MVpVdGxybElOS2VMbThtelhnU2drREJCeVB2d2NmUlJ5VHFvb2pQQWVZSFZiQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "healthcare-in-europe.com",
+   "source": "Mashable",
    "region": "GH",
-   "date": "2026-11-14T07:03:24+00:00",
+   "date": "2026-11-14T08:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -106,53 +140,19 @@
    "topic": "Society"
   },
   {
-   "id": "fe88247392",
-   "title": "This week Sony revived its classic Walkman headphones",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SEtGenMxM0pEcm1vUHhIOWkyeVY1cDVxWmUyX2dURmZlQjc3a0RXNTZWS3IzTVgta1RfeHV0RVJtVVZyWkwxOTVOYXRGdlVTNWlxMkFZRlFKVGVIRURTZTZPRWNIaUxyenRyTmhJU0loYlNBUDlj?oc=5",
+   "id": "ac39e43eb7",
+   "title": "‘An environmental and welfare disaster’: British salmon loses its organic status",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEFSZk5iMk5rVkUyVXAzNVhFSldBX0hBN3VoeTBjTXo1cWxqamVJbEkxYVQwV09JU3dkX1hpUHJEMXFMVldPUFlUOHNUZGs3cmRISkNnQTMzbms5aXl0T1VnbTIwQVl4V1djRkJJakxRU04wc1V0S3dubWJ4TG9xRndBRnRqMm5PNE1oZHRFOUhhVUdRd2ZIOEZEYzNyVGhtc2o3V2Jn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Dezeen",
+   "source": "The Guardian",
    "region": "GH",
    "date": "2026-11-14T06:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Ghana",
+    "country": "United Kingdom",
     "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "133b70c603",
-   "title": "Moon phase today: What the Moon will look like on November 14, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CYXF3R2lrVFdPMjA1Tkw5ZnpVTTNjc1dELXdfcFJTaHJ4bE1LUkRMUHpwdW9sWXBIalYxNjhSV25tUExmZDJtYV8wVUVhVjJYTndkM1VXdWxERGZKdXQ4di1IeFdfZHA2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "GH",
-   "date": "2026-11-14T05:02:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "01d58c0798",
-   "title": "What we know about the longest US nationwide flight ground stoppage since 9/11",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "GH",
-   "date": "2026-11-14T03:45:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇬🇧"
    },
    "topic": "Society"
   },
@@ -208,14 +208,48 @@
    "topic": "Politics"
   },
   {
-   "id": "71b596a501",
-   "title": "Tearful Mauricio Pochettino admits Manchester United job too big to turn down",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjBsZjN2R05kUGF3emFGTmxncEdlWWU3OG92WGtad0VGRmVZVmZ3RVo1bzhPaVRUWl8xX3BRUU5YU2RFQ0FIWXVMdGRZOUVTVE5DdTVEakxxeHVGcHFqdkQ3VzhyYXQ0M0NRNVprczY0VmRqc0FzQ1Q5LTd0MkhWTFpNejBDNmFIem9BcE9oRDV3Nl9JbTQ3OG5IQUxEcVNYUllnOHZJZ3oyWjV2N0NJQXhZWXRGWmcxQ3ZzV0FkU3BRU2tORkxvdw?oc=5",
+   "id": "f765282c43",
+   "title": "Which supplements do midlife men really need? I take 12 a day",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGtVSmxhM3M2eTNkZjFHWVg3V2Z3WTNBZzBrTExkbGN6Z2g2Zm5nU3JaM0wxRFRzN1llbUVYRnF6bW1WSi1XYlhQTWdfdWduOVFsMnhZR3JDQ3RvSmt6Y0FnSC1LYTdaR2JMUzZmdkpyaVJHOGt3S21XV3owSzlqLVhPNFE0LWhUdVFfblhTbTBXTV8tY2pF?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Irish Times",
+   "source": "The Times",
    "region": "GH",
-   "date": "2026-11-13T18:10:15+00:00",
+   "date": "2026-11-13T20:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "253e33b12b",
+   "title": "World Diabetes Day 2026: Ghana Must Act Early Before Diabetes Steals More Lives",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFQ2ZmItSXgyVFp1U2RNaEMzWkExcDNKTmQtT0JwQkZFZUtJU3ctalpsc3ZyeUtpWmd1c1N2WGxYYmMxWHRlZXJLMGdJeWpVdUE1Vy1xeG5kczZmQVd1Nmpjbm5VZEd5LU45ZW9IaHhnOV9FTTgzekJESEstcURfYjRhWDY0MWhZTzVMODA0elpWanZjbU5ySldlVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Modern Ghana",
+   "region": "GH",
+   "date": "2026-11-13T19:35:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "038d1171a5",
+   "title": "Why Pochettino’s Move to Manchester United Was Inevitable",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkdnaGJLMmNHakxNZFVsNmpITnNGVktyY1dwdGRPRkVlZ2t0RUU3S1YyMXZHQWd2UHlBaG5JN1ZBVGJOZ1VBTW5ZN2ZJNkJQTkxDWHMtS3JLQWhWLWdYUFZkcjNldXQtOUlrSFlvSU1CNTgxZnZRMmdTYzlobzBJRkdvMXR1OWFCeFEzS3kzRWFueWVjQzlvZVhMSGYwWHQxRU9KcTBfSUl5dDAyQjR6TUZMenNJelU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bloomberg.com",
+   "region": "GH",
+   "date": "2026-11-13T18:20:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -296,23 +330,6 @@
    "topic": "Society"
   },
   {
-   "id": "8e440b467f",
-   "title": "AFCON 2027: Where to watch the Burkina Faso vs. Mauritania",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVF3dGpoNGxIekhEdUN4cU0yTzMxT2dFa291c25DTmVpZDJCNV9BdWR3amJwME5Ra2RTMzdTMFkxT3l6aUNoc3lKaFlUN2R5Vm11V21NTFNlYWtIWmJYMG9mV3Fyc3lkY0VmQTF1Z2t6LUlRVTRpM2tNS0lmazRwRVdNQjI0bFcyUEN3YkhXUjNDdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Africa Top Sports",
-   "region": "GH",
-   "date": "2026-11-13T10:40:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "58d414edc9",
    "title": "Cocaine seizures: Rev. Dr Ntim Fordjour urges Mahama to act",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtMSEEzZVBseE54bUYzTGd3OXZqS04zNDR3cFpldDY0eGhfcE9va3RuUUd1V09oZVVlaHI5TS1hZnhWSlNLWGFOV2NyRFdjaVpvZlFQOVRnMjlVOG1IZjRXbEdwUDhWSnNxcG1MWVIyaGk3S183MWdicTUzaXBJUGN6bHNkUjVXS0xzVV9TLXY1OWJ2WENKNXIwR0VPRFFqd0s3enJoYjc0bTVkc2pWQUg1N2M?oc=5",
@@ -347,6 +364,23 @@
    "topic": "Society"
   },
   {
+   "id": "c20fe229bd",
+   "title": "Hosts sought for three future Africa Cup of Nations finals",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmNHQlpZeEdEOWo5ODgzaFoxOXVjdUJIRG5vSlhLVjdSRVU2T3hwaFdiNEFIQXhralU4Rk10c0NkcTZZQXZHLS1uU05SQkNEQ0hfNHA0WWZ4LXp3ZGs2S1lydk5oOGQ4aE1GbWdBS1J4dTktS0lsY0xMMDlVa3I4MEVSVkF4U1EwSkhOLTZrU0NJNFd3UjJyLTZzSm02VktidDB3Uw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "GH",
+   "date": "2026-11-13T09:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "c06de7f089",
    "title": "African Arguments Interview With Dr Antwi-Boasiako Amoah Ahead of COP31",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wU1RBRzdvNDBoX2hYZGlrTWM3Sk9tSDRTVlRmZUx3QXVfMG52YjBsbHRQcVNZRUQ0bE5DdHdEZU1hd1B6UjM1bXc3LXZJWGxObHRlTmJYUFRjYTQ?oc=5",
@@ -371,7 +405,24 @@
    "image": "",
    "source": "Yahoo Sports",
    "region": "GH",
-   "date": "2026-11-13T01:49:00+00:00",
+   "date": "2026-11-13T01:49:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3b4ab5c204",
+   "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjdCQnN3LU51ZVV6N01ZRDk4UXdkTjJfR3NTTkphaXlCRXBoeGZSZnhyVTlkeGRPWU9NMHhRck1WblNROGFFbU1oaVoxWmhFRXEyR0FKUDMtdk0tdklxSUhINDNFWkhycUI1VmlOOHN2d0M3VFRGdjFzdDlQX2VMem1JUzlVdGFrWThpNmJzYWJMYy05UU5LY2c1RDMwdmd2cFk1UW5aUmZfTE5XZXBGTWJ2R1hGTHc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-12T15:06:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",

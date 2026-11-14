@@ -1,8 +1,45 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
+  {
+   "id": "72385be6a9",
+   "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU5VY3FGdnpHeXpHa29PX0xYbW1PMjdKeEM5V0gtV29HcFdsOXUtSVpSRlA0d1JsWlV4QU45ZVpUYXkyb2hZVExrbUIwN2Nrc0pXRTllSURpLW5IdE5DTlV2U2N0MzE2bjFOWmlubTFnY3ZWMFN4S2U1RTB6ZDhaa0VB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Astronomy.com",
+   "region": "MY",
+   "date": "2026-11-14T09:05:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "69e5297952",
+   "title": "Aaron-Roy King beat Denmark's world No. 14 pair in straight games to reach Japan Masters final",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEhacGExN0sybTJlZDBFZDkyOU9lUWxxV3pwWjJmeUV3MGVEc1RCOGNkVjhKSGVDc3NIdE13T1ZXaFJTOHRnaHE3eTYtQ3VjSjVCQ0NVTUt2MHdlbEdtbmxFY2ZOSGNsY0s1WEt1WTA3Wms4TWFQX25xaEdZcUdST2JmaURFenhmaXlJcTlWa1NvNTU1QU13bGdYSzF6bTJWSzF4dExQc1ZOYUttOVl3Q0dMMTEyZVhBci1UeVE4dWNkUjZBdFhLNzZJU25fVEJSNUl1OElxanhnTHFSVm1HSmVVUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "MY",
+   "date": "2026-11-14T07:43:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Denmark",
+    "place": "",
+    "flag": "🇩🇰 🇯🇵",
+    "also": [
+     "Japan"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "048106c6c4",
    "title": "Cops probing alleged Nvidia chip diversion since April 2025, says Saifuddin",
@@ -29,23 +66,6 @@
    "source": "NST Online",
    "region": "MY",
    "date": "2026-11-14T07:03:30+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9eee5bb6eb",
-   "title": "New method reveals how glioblastoma cells invade the brain",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "healthcare-in-europe.com",
-   "region": "MY",
-   "date": "2026-11-14T07:03:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -106,40 +126,6 @@
    "topic": "Society"
   },
   {
-   "id": "0aaaf2a69b",
-   "title": "Malaysia to receive four more FA-50M fighter jets in April 2027",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkE2YXZqb3g5SjJyZDJ3cEpvYTdiV2l5UjUzdE8zZEJ0UFFrSGJxZnFReW9mTGFTMWRzNC00MnYydHNDelotSjdDdDFzeHp6SVViYnBJOEM5anNZVmFiXzV4bVhERzVWTFB0RWl4dkdhRmptdy1xMzQ5Y3BwM3Z0ZXRqTkFoOG5UZ1Z6by1yU2Z2cmk5cHZLMzcxZW0yNHJLc2FxX2RUZ1p1WFgwYUNfeGhHbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-14T04:44:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "75fdff6dba",
-   "title": "Muslims need not shun Islam’s enemies before gaining power, says Hadi",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1dkMDBXNUtReHBKTkhTSURlVDRCWjN6VGNjSVZ5aUJQdDhVVFA5V2Y4YU1acjFrSXJBaVNUbUhlNjJFV1VLUWpzdjFWelhvNEZCMFp4bkgxR3h3SWV4cE14VFIyWFRRN3BGRG56dkpwaERuRElNdldwTEwwRWttdGpsd19nWjl0bVJnaGlQcTdNTUh3TURaQmRJYUVOd3FnOHpvYVZxdnJkNkVxSTN4R1NRanRPZ1o4eGc3RGdONUV3NVRWX19LMA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Free Malaysia Today",
-   "region": "MY",
-   "date": "2026-11-14T04:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "fa8832efb7",
    "title": "DAP defends itself, blames Umno for testing boundaries of unity govt pact",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVDQyclY0TEZGWXRJcHBhamw0ZmlaUTlwVFZOZHRTeGF1OTFoYW5Takk4Qm9rRWNJZGdSRXhvQXNXa21yczJKQUE0V21kYXJFRHhJOHBzbE91djFYYmNSM0xTaHpPSlN2M0w2Tm9sTjZ3d0pUTENVem5XQS01SEM4S0xnVTE3MUZaYm5KZTRxMkVicEpBYkZuTDN1N0o2Y1JtcHNCaWw5YnFCWkxvb2g3TTV3ZnhtV29IaDhfUE82TEdHQUlGTXFuZDB6ck5oZw?oc=5",
@@ -165,23 +151,6 @@
    "source": "The Star",
    "region": "MY",
    "date": "2026-11-14T03:36:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f955131b13",
-   "title": "Badminton: Aaron-Roy King strike Spider-Man pose after swinging to semis",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVNKT1ZrRHhWbzBRSkpYNlJnN1A4NUlwcUFlSzh0VjhYckZtaGk5MVU3NldkcEdNSm5IVW5URHFFckNycU1mUlhRUjNCX1VzWmtlbTJ6M1RiN0NhNmd6ZnN3VFZPcl9INWhBN1UzVGJKbEhrRnQwSWFFU3JVcjhmX25HVlFkUzNLWEdfSDlLck5jUmtSR1ladFc2aWdpRm90UWI2MG43UVZZdGFWYkYwbW43bHdvdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-14T01:49:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -225,14 +194,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "cce95bb4e9",
-   "title": "Melaka polls become test of Najib house arrest row, with GE16 battle lines emerging",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFJIaUJPeTRvS1JSbmtJVXc4YVNCcE9qMnB3N0tlT3hvSjc5X1RaWDVqdFZOeVh4TnRtdkY2UXhIandsLW5kYlBSdG1DT3FzRFFSRWNuX19lYmNfMDA4MVdnTnl3cjVtQ0VOY2RaWUJqdEVKeEFQcHh4UG9Ld2t0blFET3liZmhOd0ktZVJmblVOdE8zd2NCZVBQa0NFWWd4dlVKZ1Qzcm0wQjlqVzZ2bGtmVFd0ODhveV9iZEZSZXdZSncxTmpqVnBuenB3MXpkSnY5WUFvNNIB3AFBVV95cUxOOVdma3otYzRfOGlDVFJvNXBteFBtbWZqQ1FEOTNJbmYwNTJxZjRWTzNQSnd3MnllUjBRY0pWVm52Q2xqVDFYYVhweHUzd2p6OFVzN3JHMEd5SkpVQmNhZkFhOV9KS1hhX2pVM0hpN0FPVnU3R0RSdzlNN2stMzR2MTlnVUczWi16SmRVYk8yTzJBbmRRa3UyazItelhsUkkzYkpGUWUxeFN2cG1JQ0p1YXFvMGktZ0g4b05JSkFHZE9CcXdrZ05ZQU9iU3JmYm9CWmRJV3h3VDROQ1NU?oc=5",
+   "id": "2bf37eee2c",
+   "title": "Experts divided on whether Najib's house arrest sets royal pardon precedent",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVW4wVnBtcnlrQ0tGajZnMFM2V29qcnJOeWtnNGlJVTB6akJoNjlqSUFGcktRSndTekc4WUpwVlBCWHVocXZ1eGdOVW5PN09YX251M2tGcjZLZGdYcHJPenEzb3d1YUFyY3p2TlI4VTVHd25tQVNoaXphWFlYZWhYMWZyeHdxVXI5bm9oQjJ5NmZra3hiVXd5bmM0QzZteGNYeUN3VFhCd1FsTGM4NGpTMmUzZHBSUUt6cFlOWEFHUdIBxAFBVV95cUxOOW11QUVZSzNJMDR2US1XVGNVdTFKS3NnWUJPbHJmY2VRU0c4Tm1EcmdlYzcwTjNBLTJmQkN6QWxlRDNUYkZhaW4zSzFSaDZMWUJKeUdCdmRUMDFQZVU3SDhzQW1sRVV0ZmhfUXp6a1J1aGFaN05KWmxFY1d4enl6dlpnTE94MFR0RlZtQlp5c05jaDhTWWI5cUY0a0RoMDBEXy1NeHllVlR4VDliNE9LZ0xpOEQwV1lfN2ZRUm1uazYxd3VJ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Malay Mail",
+   "source": "NST Online",
    "region": "MY",
-   "date": "2026-11-13T23:04:38+00:00",
+   "date": "2026-11-13T23:02:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",
@@ -272,6 +241,27 @@
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d64af320cb",
+   "title": "ASEAN leaders gather in Manila with South China Sea, Myanmar in focus",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGtIbDM5WFFycHhxZndnX0lWcG9mUlNIVDNfSHcwOWNXYXlaU2hWeUo5Rmg4ZG1qRFpzeHRIdE5Vdkd4dWQ2Y1FsY1FTYzVhN3BxOEpjV0g5eVU5VTNURV9pUEVzMEZESXFyRkJBb2lLR3R5cVJNOVpHdG5WSU5XZzNvZGxHZVF3cFNhM3ZnRjNyUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "MY",
+   "date": "2026-11-13T22:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Philippines",
+    "place": "",
+    "flag": "🇵🇭 🇨🇳 🇲🇲",
+    "also": [
+     "China",
+     "Myanmar"
+    ]
    },
    "topic": "Society"
   },
@@ -378,6 +368,23 @@
    "topic": "Tech"
   },
   {
+   "id": "515a5d3f0e",
+   "title": "Port Klang low-cost flats named dengue hotspot",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkdJRE1tZTZIb19uOHp1dW9iemNoUklnUDVyb0JObEdPUEtVcmUtb0o2aE9DT3hRaHJBX05JV3JDLWdiUG9TVGI5R2JnTVY2U1lsM3RkbFJ2N0FzTzkxeEpqNHlIblF5T09TRW4yWVJjVzZJVzlPekZLcnRXNThzZmJ6NkRhQmtrRElKX210b21VMEp4al9WV0lKeC1IUjNTai1N?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star",
+   "region": "MY",
+   "date": "2026-11-13T12:14:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "3c8ef5c695",
    "title": "Jensen Huang's tech superstar status made Taiwanese feel special",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY192cTlCOWxDZ0hrSElvMG1qUnNxbGdxQUw3UnFLVURSaU5tRUpCelowdW53V2l6NFUyR1g0QlJMbktsMllabVhPM21nX3hDUHJUcWdHSDNyemZkQjJEMjYyLVJpRDAzSzVnMmtvM0dvMmwyek1pa09RMXlqdHFDanlha2ozTW1ob0ZBQXpYZEExTUJoX1ppcWlNenhGUjM0TjN4dHlDN0Ftbm9ZTU1GOWRSZ3dwUW1yS2c?oc=5",
@@ -429,6 +436,23 @@
    "topic": "Politics"
   },
   {
+   "id": "e67dfec334",
+   "title": "Hock Seng, former national hockey and football double international, dies [WATCH]",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUhwNW11U0VKVlhlY0hFak5UVWpUQ0NMc3R4TFpqMXp6MlZHdzlxVkN5dVZoT2E3TmVrSUYtZk15N3FMTXFrNFUzQVZSYU5qY3ZhbW9pWmR1NklFUDkyUnBqRGtpOXF6UFBVcmhZczVfMWVHYWZyN2c5R0RMRHJfY2FVSHAzV1dBM3dhaDEzT1V3Njhwb1M4TUlvNjR5LVlXY25NdFp1eWlwVkF6UWZvQjAtTW1OOWlSdU040gHAAUFVX3lxTE1CbzRGVUhsR25JNkJuMmY4T2F5OFNxWFdwcks1NWR4SDV0Q1lib3lCcVJYczl2ZFpuVlJOMVVDZExHai10b2ZhNzQ1cXRLYzVzUHhGU3dnUmFuVTV0S3dWdGRUMXBEc3BiQmdXYjZoZzlLUlpPSTV5eXE2WDJFSTlkWXMxTzQ2elNKYjZyQkgxVE4yUTNBQnV3NC1Sblo4b01JdE5Wc013Vzk0WVFvWDVHX25lRUc2RFpJRy1LaEJQYg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NST Online",
+   "region": "MY",
+   "date": "2026-11-13T07:33:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Sports"
+  },
+  {
    "id": "28cc0eb0c1",
    "title": "Chinese cleaner with movie-star looks goes viral, drawing comparisons to top actor Hu Ge",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbldmcEhJby1lcjFTRkFyZnRhNU82c1FqdjBZS3gySmtxbnUzZmdXajQ0TU5kWVhQWllXRFY2S1Q2ZjhnOUplMGpxRW0xQ3Q4TWlVdmpwZjZIMUE1U0oxdWV1OXMzaDB0MWlLV0ZRUTBmdDhtYmJlbFVtakRfaHl5amhBcTY5bHdPaVpwcmktR05XLUZkVmNsWTBMMy1lTUdjekRLbXN2Y1ZuS1NPM283OEVUZUJpWjdLa2NwX2dHMjhXZW9hVmdkR2FDaE5lU3hFSjZSd09rNjN2OUk1amZTSU52Z2o?oc=5",
@@ -461,26 +485,6 @@
     "flag": "🇵🇭 🇲🇲",
     "also": [
      "Myanmar"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8c0138f8e5",
-   "title": "Indonesia seeks answers from Malaysia over dropped SEA Games sports",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkVNU2VVV0JkNzBmczFGNUJ4T0g5OVZOcjBSaHZKeUZYdzNaMnVKRWVxNWo0NnVQdzFBeVhLWVd5eFFiUVZYZWQ3R1d1b3JzRHR5LTFObkZGOC1QcmJ2ajhwbV9yTnVOVVR4N0RYQU9CbFhzWEhiN2JfMzhlcmxRWnppdFZQOGRoQ3BPUWxzTmwyeWZEd1pYS3NmMFZzVFF0amtXdmxKSHBnT0dXaXFMOEJPQVljUdIBuwFBVV95cUxQUk12Y3V6Y0xtZnEyQVhtWGZBSFZ2UnBxWUpLYUN2VnRzRGY0V19WckZlSzZ1aU1zQXRaNmFsS1JiY2J1c3R4THk5MUszMU5xUGZ6d0NjQVlCOVVVSHNmbkVfbjdSLUtXb0o1a0RnT1I1aV9KXzVvMDBmblVCd1RPRTZQc2ZzM0VySHkzT3hLaHhGRWpGX3JLOWF0QkVhUmN3bjZRMmZNc3ZVOGdyTUxXTnR6eDVYYnJudklz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NST Online",
-   "region": "MY",
-   "date": "2026-11-13T06:31:09+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Indonesia",
-    "place": "",
-    "flag": "🇮🇩 🇲🇾",
-    "also": [
-     "Malaysia"
     ]
    },
    "topic": "Society"
@@ -554,23 +558,6 @@
    "topic": "Tech"
   },
   {
-   "id": "cb5254026c",
-   "title": "Structured Exercise Prescriptions Should Replace Casual Advice for Lifelong Brain Health",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdy13VDhiN0JQdmF4Y1lBOFY1c2VELW1pTlUzelRtSzhLa2RKZnNjallUZndrVjFDd2Q1VlhpakU1YXJCclpxcmgwbnUwUDc3LUpCbE96S1QyYjRRVWpxamg5QlFvbDhQZTItaG41VExGVy1vNUViRWUwUzMwUWJEMGdDTlExMTJzMFNxd2JlMG5XVHpDWVpsOUNCQ0JBMWZUbUk3WmJGYklmZUJCT19pQ3BGVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bioengineer.org",
-   "region": "MY",
-   "date": "2026-11-13T02:37:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "32871a0fbf",
    "title": "Two worlds, different origins",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeE9xQkNreS12Wkx0akl5c1BFRGVkeFRzUWpxWHN4WUJ5aXI1TThySm5URWRKUzRXQ29pNHZYUTh6RnZ6OGI3T1NXSWQzOFRYb05ZTE9JSVNvalZ5aW5KTnZreUF0V293MDZVZEpjRHowRF9oOEs3bGR2bWNJLW1ENjdxRQ?oc=5",
@@ -584,6 +571,26 @@
     "country": "Malaysia",
     "place": "",
     "flag": "🇲🇾"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cc32148195",
+   "title": "Malaysia Replaces Norway With Turkiye For Naval Strike Missile System",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamZEZmlKcTkzUGh1RXVkRUFhWTdxc24tQWxQU1I3Rk1ZUzhyc3ZjU1M4clZ4NXZlejRNRnNzaENBU2xCWmdzZl9tOUswd21sNWhxa0pNeVltVW1WMkVVVnpUNmg3dzVEeWVpU2dMcUY2cUNJTGo2Tm5mMDJ0aGFSbkZqcEZXczJVODZGY1hPNTFoR2tjWERFVXE5TmphYkNHQUZab3hnSm9Jc3o4QjhGTzlZWTE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BusinessToday Malaysia",
+   "region": "MY",
+   "date": "2026-11-12T11:10:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾 🇳🇴",
+    "also": [
+     "Norway"
+    ]
    },
    "topic": "Society"
   }

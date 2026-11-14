@@ -1,17 +1,34 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "NG",
  "name": "Nigeria",
  "stories": [
   {
-   "id": "9eee5bb6eb",
-   "title": "New method reveals how glioblastoma cells invade the brain",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5",
+   "id": "a33a322211",
+   "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxN3YzWnlSc3BjMFFZZjRJQ3hKUHFWVHRKb1lDN2xJTjhxNjVkQnRQT2xfLTdLcWgtSG1Bck15Q3MzTWw4STNlQ3hXR0VPT09pT21jUHJQR2h0VEZDUmJLNVl3ckhJSFFxcHU1d0FWOVJtS19iUE9QTGNNWkg?oc=5",
    "summary": "",
    "image": "",
-   "source": "healthcare-in-europe.com",
+   "source": "Xinhua",
    "region": "NG",
-   "date": "2026-11-14T07:03:24+00:00",
+   "date": "2026-11-14T09:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bde5d95cd1",
+   "title": "Over 9 Million Years Ago A Whale Carcass Dropped To The Seabed. It’s Just Revealed A New Species",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzBqMnBqc0pyRW1IU09pV0VjLVZhekxhYjlob2RpVkVsNjZheWxtT3plTUlSQ182ZS1mTy1XLTVITWpaV0ZSTm9VOTd5TnN0VVZaRG8xLTJiYVBpeEZHV2RQMlRPZ2FRTFBaeWk4VU9GUnFEWDJFenQ0cHhseHdDbF8zQ3VKYzcycU9Yd0dKX1N3N3VCRlZGSEVZTlloTWNRdWZlTlM0Ni1oa0JvdjViZldnRGVMam45S3Fkd056UG8xb2Qwcnc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IFLScience",
+   "region": "NG",
+   "date": "2026-11-14T09:08:47+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -21,21 +38,89 @@
    "topic": "Society"
   },
   {
-   "id": "6f3d9c7c4e",
-   "title": "How lack of health insurance is turning diabetes into financial death sentence",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0NraDVUTVA5TlI1ZVRSZk10NnFyeExTZWpXQWFRcmZuZUFhako5UTh5YUdodTNET1dyMFFsUFFNWU9OdVZwTlk0WW0tX05jU3ozMVAwSml5MWZJaklKTnF2SlBHc1dwV2l6dnN1TkU5dWExbmFVUl9EOFJTN3h2X0Z0blllR29tTkVnY0JwUWU2Q0Rmd18wdktFRWJGbllPQmlGYllqWnVjWjBzWWZTNndpbXpLdw?oc=5",
+   "id": "72385be6a9",
+   "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU5VY3FGdnpHeXpHa29PX0xYbW1PMjdKeEM5V0gtV29HcFdsOXUtSVpSRlA0d1JsWlV4QU45ZVpUYXkyb2hZVExrbUIwN2Nrc0pXRTllSURpLW5IdE5DTlV2U2N0MzE2bjFOWmlubTFnY3ZWMFN4S2U1RTB6ZDhaa0VB?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian Nigeria News",
+   "source": "Astronomy.com",
    "region": "NG",
-   "date": "2026-11-14T06:13:39+00:00",
+   "date": "2026-11-14T09:05:13+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
    },
-   "topic": "Health"
+   "topic": "Society"
+  },
+  {
+   "id": "e3981baab4",
+   "title": "Mauricio Pochettino can fix Man Utd - his USMNT stint proves it",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTGFzZTY3ZmVWSTFiRlhpZU9oNGpMMEd3dEJLVE1IQjMxRXM5d2t2ajBxRW02QWtRYmpjQk83TDhsRDdfZS1xX0xpdEFBblFMQmlIc3VCZXR2aHUzUlJoalhsNXJwWlF1R2VINkVzbVBqbmZPWVlLYTVaejl1WUV0ZFNxNHFoSGhSdnFnSUFtYWxXYzE1a0tIaTl6bWs5TVJtR01CaDBLc25Bd0trYVhvN3d1b2pqbGlIcXBySmVGZlpDT2pRWk56d2FIS2JXdm15Qy02VA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "LiveScore",
+   "region": "NG",
+   "date": "2026-11-14T08:59:47+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "254ab9e8d9",
+   "title": "Delta 2027: Omo-Agege challenging political establishment he helped to build",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZzB2aEtySGtSSG80eUZvWTlTSzdVWDRmZUo0a1k4RWMwdjk1MDduMnZRaVNnOTBrZjMyQ1RVNjJVa3ZaTXJkbHhHZFdaX0ZRaTVHZVFnS191dmFob3FlLVBiUjNQaXpsbnhHSjlpU3d0UjY0eUFJNmNmN1gtbGw4akQ4MkdFbUVUUVRWaFoxUEdVNmhYTnBHalZlVmVUZkxMNHZ6Qm55TFpvNXNoeTJkd0Fn0gG3AUFVX3lxTE9YaFlzZk5idUVsTGRyMzRPdnI2dWpFcmo1aFlNUnVPVDJ6SS1YcmRpXzl5emRFd283c1ZPbXUxQ1ZkNWxTT3pFZVJoZEdTeDFBUEI2RkVnQ0dsNEpWUWpBMWxWNW52VzhuOUc3QlFZVzljMV81a084RHl4SHRzenNwbFdGOTktT1hRZW5ZQ2FXUnkyUHZFamlMUUZ2SkdRbDQzNmNFMGJHYXVwSy02NE15NGNSbmdKaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Vanguard News",
+   "region": "NG",
+   "date": "2026-11-14T06:58:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "be6271a0c0",
+   "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWklFRmpJamZ4MHlORGd6WWhIbFlGdzhlVE1Ld3JIeHZ6M0lVMWxGTmpSdXRXWTdJdnJpMnZFVTM1Um5fR2VxeWtwSlB3eHYzRl9LQjR1YTdrNVJoMWFnWXcyR2s2RTB4YkxTVmVUM1k4Zml3Y2F1aUQ1cDcydUZ0emFHLTNiZUtBb3drTXhBdzl4d3pJ0gGaAUFVX3lxTE9ZNnBOc0lmWjlfcURIR2VtdVVsMV9fcUd2Ykd3emJFZnpud0piMmF2MGc4TFh4ZE9LaUhrd2hCUHFxaTFIbjVqZGdsdWdYanhDTVFVTWpzZGZpUmZBcFNjaFM0VHRmeE9Pb1NnMk45bFM2Q2ZKMTB0S0w0Q25nNEtpa1h6OWJsWmxOOEtIMVhRS2FuemdrNEpMbVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "NG",
+   "date": "2026-11-14T06:41:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "bbfb1e2d69",
+   "title": "Worshippers Boo Tinubu At Abuja Mosque After Friday Prayers, Chant ‘Tinubu Must Go’",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDhKNGxveGE3OVk0VFl4a0Z3dEJtZUV6RGhCdklXbk1hazFxb1BqVG9KcFE2OFl2YXhVaTRGMkZBN1FYTVRzb1U2bEFNZzFtR2FucDh3VXg0WnZwYXlBMWgxOWZGS2pEdTh2YjAycVh1dl9SX3Y5ZEJGUnlSNE9Mc2M4U0ZuQW1IdWlaVWk2Vzc3bjVpVVg1WGFXX241MnpTNnZQMi1lMTEyXy1rOEYybkZRbXI3SEk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Sahara Reporters",
+   "region": "NG",
+   "date": "2026-11-14T06:40:53+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
   },
   {
    "id": "229c25dd0e",
@@ -55,14 +140,34 @@
    "topic": "Society"
   },
   {
-   "id": "f9d29816cc",
-   "title": "EPL: 'I'll be surprised' - Gary Lineker predicts months Pochettino will stay at Man United",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk5PdktCeWhOM2NQT19mN2tPbm15VTNIVm1wY1Jua3JJY21LYzJMWFpOQVBIczJndWJpWUlUUnFnMEFURGdFdVVsRTZTcFN6VjhNUVpzcTdWM0dLY1AtWTA4Q3NsWUNqWk56SldoeFRwQTNGUHdIcDVCSzN3ZXI3bk1Wa2gxNGxja1JZclE4bjA4Nkx2WFZWcTVldkNDdi1fOHZkUXdiY1BtbEtiWm8tWEdrTXYxdllyWXZuOEh6ZU9ZU1c5WFE?oc=5",
+   "id": "4648e27e9b",
+   "title": "'We're going to keep working!' - Atletico Madrid striker Julian Alvarez backs Lionel Scaloni after Argentina lose 2-1 to Diego Forlan's Uruguay in first game without retired Lionel Messi",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmJ4LVJ6TzA5NGc4MHBPcU5saVl2YXliR2N4VHlGUWt6ZzVHWERlUk9sLTlwX01GdFRvdHp0QlZseE9TTzNMSlBvNnlmY1RPaDVpZnpDeDl2Q1NYempVUHZKbWJoZW1tYzE4N0dwVW9GMUFRLWVBbF9PWHNlZkZIU0I2cmMyeE5TbFQ0VUxMUTVUQ2dOenc5VWhYLUg2WG53aUtoaFdkMl93WmZXeWVCa0YzWnlKQ2cya2pTXzBVMlZmWmRaOWhTMnhoWFlYUkRuYzh5bTI0cG00aGRFLUg4Ng?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Post Nigeria",
+   "source": "Goal.com",
    "region": "NG",
-   "date": "2026-11-14T05:31:32+00:00",
+   "date": "2026-11-14T05:50:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸 🇦🇷",
+    "also": [
+     "Argentina"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "191fc37c4b",
+   "title": "Sacking of Atiku: What Justice Lifu based his judgement on",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmJvTV9NQTBLSDA3VldTTTAxaGJQLU1UX3BXQ0hSNy1JNHliUWJvRnh6aHRQcm5GR3dlS3F0QmwwZjJvQlFCdk13UVZzR1hBbm0wVXUxQVkxUTZ1V093N0JuQXhGNHVPOFlnTk1VLURYZFJGSFVsNS0xd0ZVQjlXMWJwV2c2T0hoSGNqTEdSc3VCZGU1dGJMNXJB0gGfAUFVX3lxTE9rWEdIX0RhQWcyQkVXUUt3NGVXWWlRTW1MX0RyeDNYTUFIMy1aLWxqZTM4SzJnbXp2R1kteXFaX2xQOGNDTWJOellSUmVaaUhKSzFhM3pMUkxWZjdCdFRRYnhZT2syUkNkWWV4N0l1ZGhFNmVENlV6c01LSmFvNFRUQ08tRnJ6YmtKbkQ5d25mRGNKa2FxbW9EbWFCdG9Yaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Vanguard News",
+   "region": "NG",
+   "date": "2026-11-14T05:46:34+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -72,14 +177,48 @@
    "topic": "Society"
   },
   {
-   "id": "100c56f3df",
-   "title": "‘NDC Lagos senatorial candidate hospitalised after attack’",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGR2c014RDVtMVVIT1E5VEZxOHU3RFA0VWxRSHFDckR3ankyd0IwV08xQUNrb0g1RGRvR2xYZFh2RkZNRDFDRG5SeGRueVlNYjhVcFdYU2xPOFozelFpTlluNl9PdEw2RXFpUE5ndnpEMWZEbGVRaTdyQnYzODNaaTVjZw?oc=5",
+   "id": "f77b1fbcd1",
+   "title": "2027 Elections: ‘We Shall Not Tolerate Irresponsible Conduct’, Tinubu Warns",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHVyajVEbEtBb0dGZTJSRjZSOTRpVllXTWswZEdrQng3NWhsc2puWkg4c3VLTGc3MFljaUlUczVlZGhwcmI5MDJGM2UxWGVOWEVJdmFnc0ZjQVFoZGVKWENNcGF4X1VZNmFoN0dzUUpTMzV6MUxHVzdsZDBSUnhRZzhrNnRDR1plVjJCQXM0R0QyLWpmUWQzZDBtM09XR2hKSVdSMXlRZ2tkdk1nTGJj?oc=5",
    "summary": "",
    "image": "",
-   "source": "Punch Newspapers",
+   "source": "Channels Television",
    "region": "NG",
-   "date": "2026-11-14T05:14:50+00:00",
+   "date": "2026-11-14T05:08:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "58517c1952",
+   "title": "2027: Presidential choice exposes widening elite – grassroots divide in S’East",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmpYd1FwaUFQOEg2T1RhRWVyVWpmRU11Y0FpT3JVT3hZWG91NWhsTFlWZDlrNnVBQ3NnOE5Ld2xVS1R5MG82dzVnOWNRZWhSU296VlRaMng1U2Z1LXFlLW40VlpuSnVOVG9GOWpTMEx6Zk0wazZ6WjdaUkRKbl9BSFFNblVubFZGNkhYa2NWZC1yeElsYmEyMkRRbVlDSWUwLUd5SGQwVUlISHI3Q3JUVtIBtgFBVV95cUxPM1V6SUxfRi10aWZjZUVDNm5SQ3R1MWVPQjZCOTFzc1cteVlGa2RJcTlMZG5aUDUwREYwVUxhdTdQNlBjdXExVXMwWmR0ZGRSaWs5dEotUzM1QVE3N3YzOTZyOVNJWWpSZ1MxdHFjY3hRMjVqMEN1Uk1ScVZRbFhvdWpUdlBQRXVwS2RUNXRydzJqQ0tMampnbkpRc3UyTTBiNDRHdFM0VzUwbzRpNDBBNExaZ25PUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Vanguard News",
+   "region": "NG",
+   "date": "2026-11-14T05:05:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "a1653ed7d4",
+   "title": "Nigeria poised to lead new era of health system transformation — WHO",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0pLM2M5bHN1S09KSkJQUDlNeS1zc0t5aVBpUWppc2hHSXU3MXlWSUtISjdPcktESGFycG80enhkUUdjRkMtMlJVNDREZnhMRDNuVF9aM3kzUVhWb0JzZUpJMVNXa05MUUc5bzlNbnZ5dWVvX252dUpZQVp5WWJMQTdNV1RlRlhudGVsNVRfUVEwd2N1cFBBbERqekQzTjJveTlRLXJn0gGrAUFVX3lxTFB3TU9fVjRITEpZTDJMZGpoOXF4Vmg3LTBfSVdpdVhDSl9ia0k0cldfYzNMVW9peUxWX2dMMVo0a0lPRGtiMVh0ckU1ZTFMN25RS1N0U2c3Z0VYNEx4Z3dSdHJwdXpUZi13YWZEY2FXRjYtTEVTWTd4aHYtVE5uekQ3Y0ItQjhRc0Jrc2ZXOVZ1YktpRjFkZ2ZrNWFDZUZfRkdNcDJ5YmZQQmRpRQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Vanguard News",
+   "region": "NG",
+   "date": "2026-11-14T04:59:11+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -89,14 +228,31 @@
    "topic": "Health"
   },
   {
-   "id": "133b70c603",
-   "title": "Moon phase today: What the Moon will look like on November 14, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CYXF3R2lrVFdPMjA1Tkw5ZnpVTTNjc1dELXdfcFJTaHJ4bE1LUkRMUHpwdW9sWXBIalYxNjhSV25tUExmZDJtYV8wVUVhVjJYTndkM1VXdWxERGZKdXQ4di1IeFdfZHA2?oc=5",
+   "id": "3abb9e7e47",
+   "title": "Faith Stream unveils first original feature film,‘Love & Porridge’",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnNNMlJaSTBBSEpGOUR6ZmJtLXRMak1kQWhuUUhQSTFnOWZGbmZ3ZVh0T2dlb2ZVWm05R0ZzSUZQT1kyTjJ6TTNLREV1TGU3ZmZoTHFKaEx4dWRKSG8tWkx3ZUxEQWt0bHJiV0daeHN5WDRJeEhaM2hKTW95bmZhc0Rkd24yVEhqTTRHQ1VsVXh4OUtXbTRn0gGcAUFVX3lxTFBiSlNZMG4zVVM3bkpLelZmRmdlZENRdUxiYVZjT0Mzbm5BMWhwa1JLbHRiTHJVNW5LbFhPU1hMNTNPclNPOVZnYzlkNkNBRjhBaWhNNFFHbldnTDc5S0N1LXlFaXktOURjb1N3WFpxY2N6WVFKdFAzT3ZyWWVYem03Y3hDMnRpOFFvbEdJbkpVbGMzZmdzSkdqUm1DdQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Mashable",
+   "source": "The Nation Newspaper",
    "region": "NG",
-   "date": "2026-11-14T05:02:06+00:00",
+   "date": "2026-11-14T04:17:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Entertainment"
+  },
+  {
+   "id": "e05fc7bf69",
+   "title": "Seun Kuti: Fela wanted his children to acquire skills",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTW5MTjdiOWV6elphMDBaZGtHN0tlOHByMUpvN3VXZnB5Zl80V1A2M3VSdndJYktRbUs0VE1BemJ6RWljcHRPLWhTdGgwd3p3OEZpa2J6dDBGWHo0LTJ5QWFPLVdLVVNhQUxvbDZnaDJ3SFUwOGNKQjQ5RS1Wa3dWZ05KUUxna2ZYR2tR0gGQAUFVX3lxTE9VUGYwc3Q1aVVZZWpNWTlyamZabGxrUkF5QlQ0blVaR1BCLTIyNE9EakVON3NsUi1Tc1B0ck1ON0lMdmNWVVJqekhaRWRGbzBfMmdCZW1PQ3d3ZUlzX2VCeTQwc1JfUXRXZy1qenVQekRVR09uaU5zRmNsUTEzOGwydHlQTnpxVmtRRnBDdVBDNw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Nation Newspaper",
+   "region": "NG",
+   "date": "2026-11-14T04:11:59+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -106,31 +262,14 @@
    "topic": "Society"
   },
   {
-   "id": "01d58c0798",
-   "title": "What we know about the longest US nationwide flight ground stoppage since 9/11",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "id": "3862e79ee0",
+   "title": "World Diabetes Day: Insurance gaps fuel late Diabetes care, deepen financial hardship",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXVqUlhNMHZucm5sQjI2N1RkRVpnMmxmdVg0RTFZNlZMNjFBd3VOV21CNUVuVm9zdHc0V1NKcWR0QjJldEk3SmFnSmZnMGxWZV9WcDJaeU9wa3VKODRqNEpadUNEbFZmWktKRDQtQ05yQUhEQ1FsT3B2M1ZQaFEzek5vQldQOFI4ZmsxTDNoZTlPbTRnUDRWZklhOG9HVUw2X2huN3VKTGI5TWVBMkJsVEhnd0FVZ0JOQXprVg?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian Nigeria News",
    "region": "NG",
-   "date": "2026-11-14T03:45:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "09cfec0ac6",
-   "title": "Political Violence: Tinubu, Obi Condemn Attacks, ADC-PCC Threatens International Litigation",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVTMycTV2RWh3WkJqNTBQYmFsZ2kwNko4VzQ5WUpJOVJnOVBrbm1neHF6TW5iSDF6cExUZUR1a25md3hoeUVjQzVZMU9oczROSERSYjFkb0FjQXBucnFfOEt2SGpJLVJLb1RyRzQtbkVPaGktVV9MWjhVVFJ4RkU1N3R2WVZLNTlMTlNuWUtHbTJNQ2lGUGxTYnY2a2dRX3B4U2ZVaDQ1VXJacmdRQkZiMmRJSHpmb28tN2ttalFZaUdnNHNoVDBr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "THISDAYLIVE",
-   "region": "NG",
-   "date": "2026-11-14T02:35:31+00:00",
+   "date": "2026-11-14T04:05:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -148,23 +287,6 @@
    "source": "Channels Television",
    "region": "NG",
    "date": "2026-11-14T01:55:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d72dba43e7",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUEtuaTR5Vzh3VzM2RXFzek1rVFQ5cmZKOV9TX01mS3ZSM3ZqVU9oZjYxRzJ1cEJsSjUzSnFlQXhIdkRoZnlYS25jNHRxcHdHdVpuTEhaYkVsTG1jZ2EyNEhiSy01bjQweF9xaXFIYw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Science Daily",
-   "region": "NG",
-   "date": "2026-11-14T01:14:51+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -207,23 +329,6 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "df1a1423da",
-   "title": "Nigerians chant ‘we reject you’, throw stones at Tinubu’s convoy in Abuja",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2QyakU2YkVTTmxKVzUzeGhlUElxYUo0TXBOVTRqalJtV2ZmaGVxejZHd2RHenNNUndGay16SXJuX2QwN1g5ZUZKcXFncjNRaVF6TUtoZm5CaEFzeVV4QzIxR1RDQjRLWi1LR0VLYTNGcERIREFMcFJsQkhMSmhTb0lBbmtONllVVEhXbjI2MEh5UlluZXkxMU54RjN3NUk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The ICIR",
-   "region": "NG",
-   "date": "2026-11-13T21:44:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
    },
    "topic": "Society"
   },
@@ -296,23 +401,6 @@
    "topic": "Society"
   },
   {
-   "id": "c011261507",
-   "title": "Kano confirms 12 diphtheria cases at boarding school",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaW1DOVFRRU5weGxtbW90b1Y2ZGY1Xzdxd2xSYTV5US1xSlpBb2QxbDNDUmF6dzZqVmE3X0Nzc2huY2p4ajQtMEZWRm84R3hiVHg1dUU3eXNHaGhleGE5TU9GNmZfeVpqZ2U0T2IwVUZqSklIOXhBSXJaNEs0RnB0WnR3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Peoples Gazette Nigeria",
-   "region": "NG",
-   "date": "2026-11-13T19:50:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f7f30ff831",
    "title": "Latin Mafia’s Fan Engagement Masterclass Leads This Week’s Best Music Marketing Moves",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXBSWHFXUUlWVEFoc283T3N6cVhwXzFWb2FtUE5ZYnhBVkp1TjJ6TndjeHpIR3d5ZS1hZndiazBoSmhNM1RsakRqNzdoTXFseW0xMENvaUx6T1dFVFB2YTJNd2xWbzdENlI1MUd2UW85TEhMdWhTeERMOVN2Uk0zRTkxd2liTXNCSXg3dGhrS0JDd2E5elpsYldyZld3UDk2MXNyZURKbw?oc=5",
@@ -330,21 +418,21 @@
    "topic": "Entertainment"
   },
   {
-   "id": "7cf56efe25",
-   "title": "2027 Elections: If Court Rules Against Atiku, INEC Must Comply, Says Prof Amupitan",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1lvcldaMFFZaHlmd3U3MFlLRG1MekZYMWFLMkdZSmNTZ05SdVIxTjNOd2NjZ3hQOFRQeUdORUh0SUxjQW84RVZwdkdvU2tacTFVdC1wSzRPekJ6cFdib29MaGE2Z0Z5QjJqaW9PY0QzQU5IWGpYcmpMRHptMDJMSTMtZmdkazJQTVp3ZVJvMnZ4endiRXNnRjZyb2F6VkVzTEQtWWV6b0hBRHFuY0NKaFU1ZFhveS01TUE?oc=5",
+   "id": "eb8b3b0f76",
+   "title": "Fresh Diphtheria outbreak in Kano, boarding school affected",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWEtQ0c1dlhObjZQbFZSUk44TVVDNG9oelhHYzJFaWhKcjhnNzAxY3BtQ20yaWNzeUFhSzZUM2VDRUYtUFZEWFlYNHRaNERoN2tscjBCQVhhNzM2UENtOW5RcmFjUVhrbUUzcUg2ZE1LWFRhLWcxVTI5OXJiYXhoV09KZUNkSl84Y2c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sahara Reporters",
+   "source": "Daily Trust",
    "region": "NG",
-   "date": "2026-11-13T19:26:07+00:00",
+   "date": "2026-11-13T17:15:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
    },
-   "topic": "Politics"
+   "topic": "Society"
   },
   {
    "id": "fcbc87140f",
@@ -384,14 +472,14 @@
    "topic": "Sports"
   },
   {
-   "id": "435d97add5",
-   "title": "COP31 Deal Wish List Includes Fossil Fuel Transition",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUdEUWU1Zm55a2VLNUdGX3hBbmdDT1dGcXJCbzZOSHlLcEQ1RnZjZVpadnY5X01nZHYzZmxKTWlzZ2lLWlZDT2ZRVFFYdW96cGZaaTBUb3ZKcF9yclQzNEc5NFJOOUpLd0s5cThyYl9uRGhaUFhPRFhWOW1JM2ZHUWoxODdVWWJBTE9SNmphcmozcl9BMXc?oc=5",
+   "id": "4b93fcc5c1",
+   "title": "Davido Joins Forces with PUBG MOBILE as PUBG MOBILE FLASH Launches Worldwide",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSW1tWXlPOWV1ekRrSHI3RlQwczdxVHItTXBiVF84d0JpOVdLNFRSZHhvVFNQTkgtUmRrZWdEak5ySFhaaU1XblRjZi1vRF9vdnJ5S1RpdzBQX1RZOEF1RWg3M3oxODY3UEpMUzNoaU5VUWJ3SHJ2dko0M2x2eWJCdEoxODFia092WjA3TmZiaTljZ2ltLXB3cS1xVkVEZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Channels Television",
+   "source": "Punch Newspapers",
    "region": "NG",
-   "date": "2026-11-13T14:25:44+00:00",
+   "date": "2026-11-13T15:22:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -401,14 +489,14 @@
    "topic": "Society"
   },
   {
-   "id": "529e95ce13",
-   "title": "PUBG MOBILE teams up with Davido as PUBG MOBILE FLASH takes world-class gaming to more players",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaE1DVU9QbE9LNmNiZXBGUF84bUV1Rkp6NUx6RVVKcHhVaDl0WVNSVzU0aENWV2pHTVJ6TVlEVjQtMF9iZGJHcC1nSExMUUZDSzlmWWthN2hBcDYxclgzdVFrdDVHRU5JSFB2NE80NHY5UldSVTQ0emRvUU1aTlZsWWltODVwLUVPd1ZxcWloS2NFSnR1SU1KZ25iZGk4VXRGWGxFMGF2TENZSU9KMWFzTGloSVZRVkE2R1ZmMElqQlR5OTVs?oc=5",
+   "id": "435d97add5",
+   "title": "COP31 Deal Wish List Includes Fossil Fuel Transition",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUdEUWU1Zm55a2VLNUdGX3hBbmdDT1dGcXJCbzZOSHlLcEQ1RnZjZVpadnY5X01nZHYzZmxKTWlzZ2lLWlZDT2ZRVFFYdW96cGZaaTBUb3ZKcF9yclQzNEc5NFJOOUpLd0s5cThyYl9uRGhaUFhPRFhWOW1JM2ZHUWoxODdVWWJBTE9SNmphcmozcl9BMXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian Nigeria News",
+   "source": "Channels Television",
    "region": "NG",
-   "date": "2026-11-13T13:15:24+00:00",
+   "date": "2026-11-13T14:25:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -435,38 +523,21 @@
    "topic": "Business"
   },
   {
-   "id": "3c178368a3",
-   "title": "‘They used us run ads’ — Phyna blasts streamer awards over Carter Efe, Peller’s loss",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlZDUzJIeDk1dFV5blIxTm4zNExYd09wRDM0S2ZWbHZWMW5Ydnl0LTZqLW1EdlpIWUY3TVJscVdSNlJPNjIzVlJBUGlqNHdVUk43S25tSEpyRUdoUDkwYWtSdWZwcFFXaUdnQ0o4STF3YnVQaWhBNmhvNXdkQjlWVFp4RFZxYkFSbkpDZjFnQVZMX1hPSTZPN0EzQS16dnFQclBHOThHTzhBLUExWkNlYg?oc=5",
+   "id": "a48cec7c3f",
+   "title": "5 smartphones with the best zoom cameras in 2026",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGRMSDRWcU1FLXZrYUJRejMtTTJSUVhkb2JRQzZfV2NaRm1EaHVjbDdmZVQ4TjB3TkdPdUJnazg1YmJCMWdRd0JsaGFtUmxHdVdqdXZnRUlwaERac0RwdFRJSTlkUjMtS2Jhc3JHeFZOY3VrUGdzTkdxLXFOU3dnY19IS1hrb3BXZGI5c1RR0gGTAUFVX3lxTE1MYnBDRjJYTm15U2t4MjU0THBwV3A1T090ZE1mSkZWMmQ3c21tbEhiZGlOZlZweEJEWEI4WHFJbF84dWNrWm5FNDNmZUtkZmV2U2RkWXlaYmJNcmlfVFRoZFRQMUQ3dzExY2hMV254YmF1SjFXeVFkWjM4eFBWUHVpMDhjQm9Bemc5dTZoTWtjMkZrQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Daily Post Nigeria",
+   "source": "Vanguard News",
    "region": "NG",
-   "date": "2026-11-13T06:07:04+00:00",
+   "date": "2026-11-13T09:31:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "5aac2174c2",
-   "title": "Apply Now: Gwen Ifill Award for Journalists- United States - fundsforNGOs",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY2toLWtSc0QzQlNsbEJLZWpWWm52N1hMV1hmR29IWC0tNFpUcWlWWkZrZ3hBNTBubm9Pd21ZNnZfYXFnbjlSVVFaTVpmcFd2MXQ4RWlGQ1BSU25pbTBvdjI4bGxxdjlVZmdZSVF3Sm1Zb1R1RGJtZ1YzSVkxeXVaVjBkWTFxUi1kaEp3QkFjcWt6T2NieTJMRWxhVdIBoAFBVV95cUxNd253R2ZXNVlBbnNLeGZKTDVGWTZmYWNCZnJyT2hBVmdMRWFTY3JETFFka0NPZE9wUklmdkhxQmthV3daU1JhZDd4a1ZJdmVWWlJHcFdpUWhPOTd1aTBUdDJpUlQ0Nm5KVl90dmdtRDQ1aU1vQkhMVFhYZkRWcWliNF82UExHa1IteHBwUXluV0ljUUdva1RQSnI5SmdiZzB3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Grants and Resources for Sustainability",
-   "region": "NG",
-   "date": "2026-11-13T06:00:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "12e3cfda7f",
@@ -501,23 +572,6 @@
     "flag": "🇳🇬"
    },
    "topic": "Society"
-  },
-  {
-   "id": "9442065cb2",
-   "title": "Global Health Reset: Nigeria Must Turn Funding Into Better Health Outcomes – Dr Ursu",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHhLdFlSWi1IUzlFcWpraHJJMU02SlJTU1M2blZwWHZfLVY3QVNCMFJwRmN2SFpXeExBajZENllsRXVQLWZPQlgwUlpoaGdIQW1QZFVyQ2kzQXlaRTZQUUcyMmRMY01JZm90RTZCV0RWVDVmR2pVb3drNUQ0dVlyRFFRbnoxMjVITk1sblk5ektxZGJ4dTgxTGR0aEhCUGlIaUJSM1I1eG1XQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Independent Newspaper Nigeria",
-   "region": "NG",
-   "date": "2026-11-12T18:31:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Health"
   }
  ]
 }

@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
+  {
+   "id": "040975ec14",
+   "title": "Singapore authorises carbon credit project to improve safe drinking water access in Rwanda",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2hGbHVFZDNzYW50ZnZva2hlanBlel9vRFRDTkJiNnV0RW9xUDJyWGlPUnhQNEVudEtnNERYTkJYSXZfak5pUDI0WnBUaDBmZ3BCc2d6NG1KVzQ0ZkZsNFNCdEtNYWZ2alJ6clBEWHRMMTM2V2pqUVBOY3hjbG1qUU5jMFVvN21lcFZaS1BUZWVvbl8xclI2bXU1dmJGNzg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-14T08:00:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
   {
    "id": "a8b0ee5a02",
    "title": "Woman caught on CCTV allegedly stealing more than $360 worth of Pokemon cards from Orchard store",
@@ -56,7 +73,7 @@
   },
   {
    "id": "dc5f49cc2f",
-   "title": "Cool, friendly, evasive: CAD investigator on suspect arrested in $3b money laundering probe",
+   "title": "‘Cool, friendly, evasive’: CAD investigator on suspect arrested in $3b money laundering probe",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1hoOE9oM3hkWlU4SFh2WEhiMnVaa1VmY3EyYXFpWkMwYWpnakF6RUF4WHhSSXB6TE1nM3dFNGFSR2VIbjlud0FjeVkzUmU5cGRxVFVISFg5WGYxSUExRVRQb042aFFwUG5fZXRmLXpKekR5Rm9NWmdJZ1l0TGlVNS1RY0l3anJEeklCVE5EZURvQmY2eVg1cVRjOXlwTFFtOUNidGx2SEcxeDJ1cFBha3NMYmlkR0xad1kxSUZHaGJjcXpEa1BxenNubl9pQmE4MkJUYXBn?oc=5",
    "summary": "",
    "image": "",
@@ -102,23 +119,6 @@
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "52cf39a95e",
-   "title": "‘I may lose my mind’: Frustrated travellers stuck in ground stop of US flights",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWE9ORTBtWGwtczAtV3NNb1h1VlVCaHhOcWFaRWtCbmxWdEtoQVV1OHloRnRfZ0dDZVRKeXVhNkZlTm5XQjFlVlduT3plM2lxOUxkY0Y2bzFkTnBKQUlHYUJfTG8yclN1bHk0Q0VoMHF6MVctWlF6Tlc4RDI2aFktVjBMYWtybHBsSWFTYnBYS214NmtGR3Z0OWcyZURKdVU5LWRvNDVTSXY3aWptWUFJN3I2Q20?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-14T01:22:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -314,6 +314,23 @@
    "topic": "Society"
   },
   {
+   "id": "ec40da45a6",
+   "title": "US lifts nationwide ground stop on flights caused by communications failure",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlBfRi1DNWpWaDFYdjRNS2ZZSFp3YUY5ZDFVTTJoeWt1bkwyRjl6OV85Ti1NQVBMdlJNRVlTVC1OVEU0TmtIUjZjeGZkTjJzdUJKbEJGVmIyVEFzNnpkZXBJUmFRUDZlWExPd3ZRejR5Qjh5WkdKSDdodkZlMzZXbWZjYlc3WnBJSjA2UEJtRlVJdnNGbDE3VDg5UWxuT1hQdWRWUGQ5ZHRjSGZFZURiNkhrZFRyaTFYbS1jSWdUeXdRODNpVUtfR1h0VmFBcTA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-13T21:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "df1c8d0cc2",
    "title": "Song Ui-Young gives Lions one moment to roar as Paraguay hand Singapore lesson in levels",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUtqMlhSS3VjeVIyVXdHQURMYmFMaEQ5WHh3ckp1Y3VJMEJMRmo2WlF2UTYtTU9FRVprZW1vSDhIY01zX25iZEluTy1GMk9pUlYwTGJoNHRSUEZQQXBWTzlGdGFCTWNIb0JiUHhXSk9oMC1HQU9Bajk4TkFRUG8tYTFIbkZRN3NFT3Uxdi1GLWY2aG9Hd3JqYjBXdTRtdGZqZXA4YVpBTXEwY3VPZEVKLXpIVm54Z3lQbkk1cjNNaENGYWhWdmRlNzB3?oc=5",
@@ -373,23 +390,6 @@
    "source": "Securities.io",
    "region": "SG",
    "date": "2026-11-13T15:16:40+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8a99bfaf86",
-   "title": "Islander Watches: Everything You Need to Know About Long Island Watch’s House Brand",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91MWJ1cFFkemlRU2lUOVBSRy1nM1ZoN204SFRwU2EtNUc3cFFUXzBCVC1pa3NuZXpCdDNYMndRM25VT1M4RGNTcXhQbkxmUDg3cmgzeHpfU2locUdRZTBxOFI1WWI0QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Wrist Enthusiast",
-   "region": "SG",
-   "date": "2026-11-13T14:00:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -550,23 +550,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "d5c6817c33",
-   "title": "Prawn mee eatery owner thanks wife who quit banking job to help out at his business, Lifestyle News",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcEd6cE01bXN5anBvZFAwM3daZTl3YTZpSUY2Tl9DTWwzYm12aGJzMW5UV181b3NIU0N0UFpqZHFOdkpBalZGT1V1LThCRG5TSTBPMkxQaS15VlpERHFoWFdsTkstR1UzdTdBYmt1V0lsM2Q1czZLTGl0Z3o0OUx1VzJOM25NZS1R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AsiaOne.com",
-   "region": "SG",
-   "date": "2026-11-12T10:15:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Business"
   }
  ]
 }

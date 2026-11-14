@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T08:33:02.149105+00:00",
+ "updated": "2026-11-14T09:20:20.594405+00:00",
  "code": "BR",
  "name": "Brazil",
  "stories": [
+  {
+   "id": "a1890552ed",
+   "title": "Traições que abalaram o mundo: além do escândalo da Nvidia, relembre histórias de Bill Clinton a Dom Pedro I",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZkI2M2pKZ3pheWFSNkpYLWloQlhaeWpGTkV1ZW5tSXNDLTdCdkFEOG5ZSnFWdmk5ejB6WWdrXzN1bUlIckZkdm9pN3Jvd1NsSERjNkRqU3FkdE1uWTBBOGF2d2pybk9oVUxwa21TVEZTTzVOVTRmWmRHMVc3cDdfQktBOHFGSjgybFhtalZtZlRxUFRwbUVuREdaZTZ3Qjg5RFVKYWZSalpJRnZuWWhTbjRJMGFJdU5Dd0hBSEhpN19RU1pyb2ZnZmF5a0IwTS1GWkNvSllsbFRwSTVKRjN0NUJDU3BuNnBybVpGUUkySdIB_gFBVV95cUxNb0otRE1EbmV3YVBscUFKS3FVLU9ENFFfM1k1M0xmVnM0WWxSQTdUc0NTeVNGQ2pxSmtYckQ5YTByX2syWW55Q1JGRzB2YTQ4TThSZTA0ejl4MHBpOER3cVBOeHhhU09Ec0xmTGhPeHNUcDhBbFJYUVJHUGpJZ1prWlhuWHBXaGEweFF0YWh5ZHU1cjBhVnlvaHRqckFpZFU3cnc0LU1lOGZtS1ZFU3I2SnpCeFdaNURxZjE2b2pfSllURTh5MXJOci1rbDg2bkRBM0c2cGJhSG1tTDlJS0pucl9RVzVTRHFZeGo0STRhMHZuWXV5dWlDaDhERzFFUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "G1",
+   "region": "BR",
+   "date": "2026-11-14T07:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "a45a656371",
+   "title": "Que horas começa o Enem? Veja quando os portões serão abertos e a hora do fechamento no segundo dia",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZklEMEhoMllLWXFOVkNXWjJrU21FS1RVVTlqVHFGcmRZb2w0VFVKQ2dNNE9pNmM4dWsyZ1B6ek5iN2hiWDlRb0lncktlYjR1WTZGTGt2QXFpRXdUMVhzWVR0MEtuSmpzRUc4TF9LSjl0VzFzZnplSTE3R1BvaWVkdkEtald3MXVNQU4xNGxOakJ2ZlNtOGFELWs2YjE5N19Pd1BaVmFkdWxRalVibDRGZjMtRHRjYVBUWFp2TEN1RDVBdWY4RU4xZTNGN2lCRUVpVDBxSUtIampaT3dEYmFvTDlHVGdTU0xkeWZmWFJ5eDFzeUw0S3lqbGFVUdIBigJBVV95cUxQUF9NdDI3MnZXZGJYdVRHcmQ1NGpIa21tRkQyOG9maUpKcDhFX183SmVBYWJnaHhuNmttU3JnSFZsTEFKdmdEY2VnRXcwYTRKLXhnUlQtMjNydVMyQXYta3lBWk5qdklZYklNRVhpbHpEaThwWV9FYnZsWURrM3NaWjltN2g1cmtBYXZpakFhV0N5Y25uemJJcW5Hck55clY1eHlSaEgyNUJCSkNTel9BelBTOWI4S1BLbnJwRTd5VTVJRnFPYXpoa044ZWNETWdDWDFRaE5CelpZaDI3U3hESndVZ3BXTUZXWEhlUWlZLWlReVFNemhvRGlIQjVzTXp0Ui10N0Jsa2xIZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-14T06:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
   {
    "id": "2ace9b8ef3",
    "title": "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
@@ -19,40 +53,6 @@
     "flag": "🇧🇷"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "9526cb8da5",
-   "title": "FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS19kYVk1cWZ6X1dhbGJ3dzktTG5YQmo1QjYtQVdJV1JkQ1pjU05mVVEtRHpJQWkzbnY4bkYxcWxHWVU2OVUtdWM5bEVjYnFUMTQxTmdkdFMtb09LYkVHVF9aTm03VlVyeEp5SW9RRVdPNDlWaEdvakZaOFpfSG0zRDE4cVFOU0VHYjBLR056ekxtcmtFYU1zallSVmZhS28wVmNaX0J3bnFwOEp0R2hpRTBzSlBEQW9zd01sZTd5STNLcjhwNVkwZlpta3hvbTI0QUFHWTUwX0VQakpRU2NLcUF4TG9jaUpFZGFZaNIB-wFBVV95cUxQbHM2WTNwMVZxUEdpcmZRNnJvQ1ppWDI1LWhLMU1zeFk2WlhnY29lR3ZVZWhfbFFmWVRORTR5QkxKelBfd3JPdE5VUzUydXBUR2dzb2dKeURxV0hMVWNhVHVtWmhxdkx5bTN0eFpEUnFrcG5ycE1BSjUzOFV6dFBUai0yVFBzZ3VIUm1BTnVPX1E0NzJVSm1hbHNVVzhkRTdBZkdPd1lsZWZ2Q0xYTHZ1eEszcEZ3SE04TjQ0eHplek44V2lsVnE5OTZlWDkxQ09Bc0hqYkFudXZ4LVBrTWhVWjRTYlhTR2pTSmI3cUNoaHNLS3B2UmpEZ2V3QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "G1",
-   "region": "BR",
-   "date": "2026-11-14T05:01:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "41b1b63b7e",
-   "title": "Agência de aviação dos EUA implementou ferramenta de tráfego aéreo com IA três dias antes de suspensão de voos",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbEUwUjVmS0hFclVzdm1SUGxiUF9iR1FPS1hHaGdyaFc0aVBFT3F1TWNwZVYzNlZiRmFPb1dsRGtJdnRvcDlwOEFQMTdHOG1oSGZlSHRPdXZSSnlwMWpHcFN6WEVBVGdJQU9Nd21nWEROeURtaG8wSUV5UnBIQ3E1VEg1dGtmTG1ZUl9hRUpELWcybUlncDVDZWxCNF9sZHJwa3Bod0U0NFZtMk03NTNuTmZUbzBpcGlxX2pLZFpLNVNoN3oxRTBzaHZacFJxSGlFLUxJSkotd1o0U1MzWDVCX3E5WGYxenFQYjdIM2d1WWlocjd1Qlk4VE5R0gGIAkFVX3lxTE9kVEVXVVlsUFdDazZnQVJLRjVQTDkwd24zaFR5bjc5Q19sRUdJUHJEQTZMR19aWHYwWHdkTWdwNjlMSThlZUlxRXFkRjlGUElXc21pUW02NW1NUnJrd3c2Yy00TkRSSkV1WlNEYTNuRXhCQS1HZ2ZXOVZQTzNkdzNZMXkzT0paT0hhLWVQMEo0aU42RkkwTG1jZzN5bmEwVGtVSTg4VWljc0hNa1VWNFFHQndIeUR2ZC1sc1Rlb1IweE85OG1ZNWsxdjBjQ0loTDFMSVRZejZRR2tveHFsMmFSeWZHSjR0T3ZEVERwSmZzQzR6WEVlNzlKcXoteVNmNGRBZV9JZmVReQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "O GLOBO",
-   "region": "BR",
-   "date": "2026-11-14T04:42:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "d7777405a1",
@@ -72,14 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "a7467dbac2",
-   "title": "Redes reagem às falas de Suzane Von Richthofen em novo documentário: 'Não acredito em uma palavra'",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPemlMbUFzZDZONTBNcVBEdWdqS0w3MG9WQTQzU3ZjVk5zVy1hZ2p5UTdJLVk0eGMzTHJ1UXN3RjZOWHpPM1pSRldvMjZ5d1BRZVNITFZtaHE5UGtDd3VqakxqN0dlZktFRzE2b3pBNUxqNGRILXlVRUFiV1I2dEp3T2R1V0JQLVB2a1VCTzliQndpckYzcHhOU1NhWFRROVhsMHdsUm80Tk1CN1QxN2tMVlZRX2J1UmxHSkgzOXJnRVlBd0xlQ1NIR2duSlhENjg1VGpSNDZZRGxLM0ExU3Y1NGVlNzUtcWlC0gH3AUFVX3lxTFBRVHg2Mk5kN2hiRk1uR2p0Z0ZPUUlJTU9xQ0U0NlJpY3JCSlJmSnF1TkJPb01iakI3NzQ5aVZpbkowNXpfUTM5MjBBU2ZTSzUwamdYTHJ6dG1qZFRtSFozT0hjbm9oX25haFpWSTYzVTdYN29GZl9rUHh5WU1UMWlwUWRST244dE5Za1kydnpnVkpLbENfYzVJMVhmNVlxZm1GaTdyRUNvUTF0ODBKRXRjcmY5UkxNZk1ZT25wcjFLSGRJRTNYQ0J6U1J3YVFPX0VGNGNIbXVEeW9EZk41aGtveFN6WmZ0RmMxTm1haDhNdUNsLWppcFk?oc=5",
+   "id": "bfac3cf8ae",
+   "title": "O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONGd5RmttMVFMUHBuMlpvTllQY3pQZmNYeTViS01vRlR1TFVzSmR3WlA4ODdJR0RmZ1dGeWtKVzI5di1WaTZEWk16LTRDQlM4Mm01QWVMOUxGXzdNdTNvcmJxRU4ybHFpQWtoTzd1dVd5WDhxeDg2TUJYR1NtOS1OVUM3Q3F4YlZkMDh4cmNZZ3hBZHZyek5oU2pRVUx5UXU0Nm05b2NRVDBNbm1ZdnhhS0hfNFNRand1dXBQS3ZvMXBYYm1fV05YRk00SVhzS1hBWThfNjlHX3lCdFhTZlViTURDVmpDRWdoc0lGVHd3eC1vdWItSEM4YUxB0gGIAkFVX3lxTE9RUUo3dkhySzZlNmJobWxxRElFWmRfSDQtUjZ0UUxaVUpJT1Znd3hQeE5Rd3MxOHdaOGZIMFpKZnVsVFhBbGFYMzM5U0xJRE16dVhaRmpyOWI5a2ZNQkUwRnZmclZMb1JVV2dVZ0lIcVJKZTd2TERtaXZOZ1FqQWJFUjlfVVA1RzJVX2NfQ0gxaUFPWnktYUFTTDFlSUxlT3Jwc3FjSW1QSlVrMVhYU0txMHE5N0NNOElVVTBFZFRweGR4ZWlhSlo0Y3gtbVUzdkdlcjUya1F6V1RBRUEzQ3R0VEhXOThmNWZRNlI0TWhsT0VqUUQ5bXZmOElxb3NFSndJakhFODJMbQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "O GLOBO",
+   "source": "G1",
    "region": "BR",
-   "date": "2026-11-14T03:01:01+00:00",
+   "date": "2026-11-14T03:00:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -106,6 +106,23 @@
    "topic": "Politics"
   },
   {
+   "id": "27b3cce990",
+   "title": "O preço da ‘ressaca digital’: quanto custou ao mundo a pane global do Outlook da Microsoft?",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOME1iWnNZSGZrenMyZVB0cTZVSWozY3JGd2txZFQ0QXVFU2g1MERGS0l0VG8xX0NmeGFTZkJWdzFEdnZkeEtGVDNYWTlpVlYyRFVlbnRjMzZrRTItbG92T2lHdzV0b1hfM3djT0tiakZaYXhiU0pSbndtY2ppcWxIRU96RmRrR1g2NmJtNHpLYUpoLUczTDBJRC1TRlFDMTd3SC1fWHhrVXB2aF9laWdpbXBuZkdzWk50djNKd0N0YWRfNHFlVjdfb2pyaVROVWZtUVk5NU5ybzhhUi1KSlRz0gHuAUFVX3lxTFBDTkxmMjF3MlBCX19EanQwaDVjZVBIQmZlNXNFTml5WkZRSHJ2OTA2cDVzcXZqZ1F4ZHRfTHpLNDJZZEh3R185QkxTankwVFV0emZQOWdEWFJ2V05CbXVxV0MycXJwaXFwNEtodU0zQmNJWE1XZjlmWHVwTVdiZGdWOTg2TGY3VFpYVnNLdmw5dnZtRHVHa2tqSzMwMUJIUnhldk90aUc0UXBsVUhPTWdoOGxxejBCd1RIRGVZM0VDdm5MdThYT1VnU2tlUXdDOWZyN3o4LUlGTTl6ZU50QmdJSy1HdHdTWW9mVUFNRFE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "O GLOBO",
+   "region": "BR",
+   "date": "2026-11-14T03:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "51ee45f443",
    "title": "Morre Rogério Fróes, ator de 'Selva de Pedra' e 'O Bem-Amado', aos 92 anos",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGgxY292bWV3eFlEOFFvQnlmRlc4QllLekhRdVBvMUJmMno4NkMyQ2JBZklZdVpsekV4ZTRjZnkwYklybkVzRVdKNDMzTTVmX3NmOVp4Y3NhWG84NmVuRDUzRWtNeEM5TWYzSGhaSDF1QUdPRjBCQjd4VEVmNTJsR0g0ZUw2MjZGWFZKWGg2ZlFoR3M4cXd2Qk9ZMFpDTURyQm9RT1c3Y0VmN25J?oc=5",
@@ -119,23 +136,6 @@
     "country": "Brazil",
     "place": "",
     "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "03771e2dc1",
-   "title": "Com Arrascaeta decisivo e gol contra 'bizarro', Uruguai vence a Argentina na Bombonera",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0gyWWRiM0pzdGZLYUU3M05YdllpSzJyeEN5Y0xCM081TDZNZldGZnA0WmNqaTZtSjNuVlhyVEFwYWxYZkJaT0p5MUpmaEJFM0VhSkVpbi0zX0J1SmVoUU1lRWlFLUVRckJiYlBIR2s1cEJ1QkRtRXpiMFVIcXJJQTFNbFhqWnhBYVZtdDF2WldxV0VrVnVucE9uSUNDREhGc09jS3FMQkRHb2VxUUs1Nlhyc25UMWFmNHJGcUw3NVVBOTRVUFFWUw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN Brasil",
-   "region": "BR",
-   "date": "2026-11-14T02:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Argentina",
-    "place": "",
-    "flag": "🇦🇷"
    },
    "topic": "Society"
   },
@@ -191,23 +191,19 @@
    "topic": "Society"
   },
   {
-   "id": "b48ca245f3",
-   "title": "Trump se reunirá com Putin e Xi Jinping na China, confirma Casa Branca",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWxlTXl5bFpOV3M3eW93R3BxV1NPeUppWThzckYyaGlKS0lndXhlQlBVV2RhcnVydEk3eDFkWTUxSF9BQmNjTmZDZWVTN3J2OUpVdGx1V21PSTg5WU85ZVNOT3hfcTdWRnc4RWdwc1VMNG5jZnp3aDBRa1ktOXpzb0NmNmFKRldXOFhILVFvQS1iVFo1cUsxREpzdXRDNDRLSWs5UXJMdElwQkF4blljeUNsRQ?oc=5",
+   "id": "43827aecbc",
+   "title": "Gilmar Mendes rebate narrativa de Moro sobre triplex: ‘O que houve foi uma fraude’",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOE5hcl9kUmJfRWdzekZ2ZU9WTzV6cFE4OVUxbTg3SDI1UlRoWkc3dlRHLWNMQUhwVVRMek93N0VTQy1KeGpkSWgwamttSG41VXVSYlIyU05SbERPX194NjlIeFMwOFRsaWdJWWN1VUJ0emw1Y2xjM3lCb3RmcGYwMzF3bWp0NXA0Ym1kNzR4WXdwY05vVU5TTWtuSk1iMmZ4MzVoOVZjVXlzbUhjUkNKZnNpVHZ1Z1F0Zlllbg?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN Brasil",
+   "source": "CartaCapital",
    "region": "BR",
-   "date": "2026-11-13T23:51:51+00:00",
+   "date": "2026-11-13T23:46:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Brazil",
     "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
+    "flag": "🇧🇷"
    },
    "topic": "Society"
   },
@@ -229,14 +225,14 @@
    "topic": "Society"
   },
   {
-   "id": "1b6a4f3859",
-   "title": "Em meio a caos aéreo nos EUA, Starship é lançada nos EUA; propulsor falha e cai no Golfo do México",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM05GYzhVRFlOamJvSFdhYjRhbExScWVvZkVTd3dZR3JNUjg1U2MxazZJU3RrYVNoZ195aF9xMU11MFpTX1ptTTlIZkhGNUpDZUhtXzRJaVkyNVhDWUhrTGhvYWlXVGc3TktiejctY1VVYWVfaEZBQ2ZVRXlpYlZ2NlhOdkZTLTdJN05EcG84SWlLeENUemE4OEZZUEVVS0R5ZlRSdXY2TjB6RDNYcTNKS9IBvwFBVV95cUxQR3Y2MTdZRG9iMV94RzRHUGVFd1RZN1dKbDRyWFVFeTFMaVZXcnBDUzBWU1lVQ0NaT3FSeVJraFBYQkpmVENPS2NlZlFKVEJtallfckdWaVprLWkwMGFpajlheG1IWUJXUWR3QVk0MnpqQVBpckpZQVVPX2pGY2VqYjZ1cnNxZlZOR0lZWFVzaGZfblBqSzZ6bDJkQVpIV082cWxXRE5wM29neF9Ld0NwdEZtaUE0VDY4RnpVYjNHWQ?oc=5",
+   "id": "3900b88a76",
+   "title": "SpaceX realiza 15º voo de teste do foguete Starship com manobra jamais vista durante os voos anteriores",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTOFQtUHV5NDdwRE1aNW5qVXhNbVl4UVpTWG41cmNjZFRMQUtRYkxFWG5pdi1pSWNtY0tRZU14cURpcFd4dDNDY0NEd1E2VXRQMUx0eUk0WjBzUHhDbGE3anppcFdFTVpONEx6cENwTDFtQzI1anJFbw?oc=5",
    "summary": "",
    "image": "",
-   "source": "G1",
+   "source": "CNN Brasil",
    "region": "BR",
-   "date": "2026-11-13T22:48:47+00:00",
+   "date": "2026-11-13T22:50:33+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -263,23 +259,6 @@
    "topic": "Society"
   },
   {
-   "id": "807e7e0627",
-   "title": "Gilmar diz que Moro manipulou Justiça para tirar Lula da eleição de 2018",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmVmTmVjbFRlNFBaZk5fSFE3SXA3OUFWSmU2cks3X1dPRlFteXE1N2xiRHpGNk1ZVHpQT1pqQlBPUkpXaHpHelQtX2c0OTFYMWN4V1VIVGx4UzlSWmMtQ0dBVDYwbF84SnZWZzc2dHQ5Z3lDTXZkbERmQTBZMVZQWUlVWkZkelVpd3BjY0ltUHFOREJYVWxFMWdRLTJrU3c2NlBKN0ZnSzM1Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Metrópoles",
-   "region": "BR",
-   "date": "2026-11-13T22:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "dc857f449a",
    "title": "'É indefensável', diz Daniel de Oliveira sobre personagem que abandonou família",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlhuYTVFWGt1dFJRdThlLUF1UzJybWRHeXZkTDk1aUs5QTduakYtdzJkSzFndUhEVE84V0otVnlSTnNpVjVjOWtPblAtM1hPQVdPZ1Fzc3RwcFpPRDk3Z240aldBMFpwX3Nhd0tMLXZDd1JUS0xEWkJSQnVKVGdNWGw0dW5fc0RLSTBwRHFJdU1waTlsd0RTWnlhb2t1dU1XbDZBVmExU2xrT0ZaM1c2SG9wSnZrMlBxTWZ5eVB1NFlwa29EaXdkWlc3WQ?oc=5",
@@ -295,23 +274,6 @@
     "flag": "🇧🇷"
    },
    "topic": "Society"
-  },
-  {
-   "id": "71ba90c0a3",
-   "title": "Dá para pedir indenização à Microsoft depois do apagão do Outlook?",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtYVBHalR1VWIyZ1YtdU5oTmdZaTE3QnpoWi0xTWpMSVNrcWJvZXc5bGlOS3lMR24tc09nR25WOHR2WFVhTE1YXzFrcWlPQ0VZVDdlVUt0UHZXSW1ZTGhEbDBwb9IBaEFVX3lxTE5INDBvbHFNR0NZWG85dXN4RVpCVk15MTUwYUZENU1Jb25SVjNlMG9yYVNMZHlacUtRTzdBdHB4VEhUaXJzSlhvVnhPWEVSMTNKVjdaQ2w2SlQzN0JPQkM5QURzcWNPckd5?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "BR",
-   "date": "2026-11-13T22:24:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Tech"
   },
   {
    "id": "f8a33b7d5f",
@@ -348,23 +310,6 @@
    "topic": "Society"
   },
   {
-   "id": "987ed01190",
-   "title": "Defesa Civil emite alerta severo de chuva com raios, vento e granizo na região de Campinas",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM2l6aHI0dGhrNkExUXJnNlUwUmpuaUJjRmp0UlpHTEJLSW1YQXpXTS1CNzFIdFZlZ2lSN01IZnJHVEFocW93TFBqS0lWc0pNbTdueF9mZHFUbFB6SlhjRW4zaUJyY05yYTgxZFFScnpqVjFhYTMzY3ZaejZ6SWp2TG5nclVqYnBRR1FDaWlUV0JRQnlvT29LY2F2d0RVUGhtcFlwcG1LWTVEb2JROTNUTnhkejFqb0U2ZHZPb3hsUGZjUjd1cl9GREY5QXNERzlNUUZVWC1NMW1lWU5IVWRKZWJkeW9NYk9vVEHSAfgBQVVfeXFMT1NTZDc4N1g3Qi1NZzBmbHV5T0dpLVdSOFZSTnQ0THV3YXN0ZmhhdzVNdmRmUEZUMGRFVnNpMTN6aHJudlFtd2FGRDJzYWlDRFJRa054UmlaOFJQSmxpbFgtTjRpeGxXZFZkRVJxcThnTzBFZGczb0ItRENoaS1xUzVlSk9ON1dpUFBJcmswbk9IanQ3LV9aT1dYZXVrMGEwdEdRbXVOWHB5S0FxMUw3bWJVclZlbi03TG1OQVZ0UElZWjBpTVM3ZUM3SUxPV2tMZmRvaVV0Nm4tdmpNMWRrTHVXcTRMTGE5TUlKQzV1aEVrSmk2UWQ5RnQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "G1",
-   "region": "BR",
-   "date": "2026-11-13T20:29:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "189bec4123",
    "title": "Japão x Brasil: onde assistir ao vivo, horário e escalações",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0pfdWlwMWdaZjMwbGU3cEE1d3p1c2RvdHNvUjN6OTJ1akFIU2pnQUZESjBuRmk5dnE4YjMwSlA0Nkk1M1R0dTZHLTZ5QnYzV1psaHotMEtMUno4N0xyZTMxZEREX2RRc0FpS25UbXNfaEhPUkhjUDZWWGl3WXM3WmJ6ZGJKc0E5UU4tbGpnMzFFSGNhVThEQnFjbERhMHZ0N2hfUlFCaWxtcDdoeERkWndFSGVMZ1J3Q1VZSG1DVExPU0p4c1pqd3hR0gHYAUFVX3lxTE5LcTlNZF9FV0J6TkFNUUJLWHpYNnhQZFhGZUdIM1g5b2FZR2Q5LTBFbkFKRmRzX0VmZjA3OHJjSHRtTHEtdVcxSkMxNHJRbFhTX3NBRXNFYlI3VnZTWlVyVlZmcVN2SWJKUmFSV3B3RFhTX1lOTy1QUWVyaklWZWhUZlFzRGVtNHFnaHdDX1pKZVRTNVZpNGJlRVBHZTR0SUswRjNnNlRIU0k4ZjlERWNxRWx3UmRHVUJ3V0lIY1RwT1dIV1RxRG9UbTkzdFFCZWh5R2kxN3pCOA?oc=5",
@@ -373,7 +318,7 @@
    "source": "ge",
    "region": "BR",
    "date": "2026-11-13T20:27:15+00:00",
-   "coverage": 1,
+   "coverage": 2,
    "location": {
     "country": "Brazil",
     "place": "",
@@ -433,23 +378,6 @@
    "topic": "Society"
   },
   {
-   "id": "4457f61796",
-   "title": "Bloqueios obrigam fiéis a fazer peregrinação para ver missa onde papa foi bispo",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRW83VUxvRWc4Qk50bVRFbS1hOTR5NWt1YTR5UjVnb0d5bDF0T1kxMHZFMGlWLUVvX1FPV1FNV0xWWXA5YWd0QVlMYjk5VlpVWXM2TDQ3WUpvY0UxZXhJOWpJUDRBUWZiUlItYUZOWEFlVHQzRWVib1JZaGd1eTNzbkpncWdTaGcydzRqM0hPTXNnX25LeV9hOG96RXIzZldKTm1rOEZFZXpIZjBaVFFxNURkYmtxWDQ4SDFzN3BwOUZ3RU9aeWU5Uw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Folha de S.Paulo",
-   "region": "BR",
-   "date": "2026-11-13T18:07:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Brazil",
-    "place": "",
-    "flag": "🇧🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a395852b5b",
    "title": "GTA 6: fãs descobrem forma de aplicar um golpe na mídia física do jogo",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEVpeHNPN2M5Y18tUVNfV2ZFZnNQMm1HY1hDeTlPMExxd1RTVjZ5ak9NWElmWlBkdUwwb1M1NExiUmRfWXdqYmI2azRodGlmWWRXY2N2MjNyWF9zN1B0RDQwWmdNZ21yRUNSajdLRnF2TlZLUk5JMlluUFBkZ0RPUl9USElxV29aRHhTT0UyLXVoa0tqUDZyTQ?oc=5",
@@ -467,14 +395,48 @@
    "topic": "Society"
   },
   {
-   "id": "703875c1af",
-   "title": "Inmet emite alerta amarelo para tempestades em 15 estados e no DF",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTJNTk5KdEY0MVFUcG9oNFdVWTlGdGxldkVXUFFXdUFWdlZsV3piWTNuaV95c3BkSjlyZGtrd3ZqbG45R1IzdGIwYXhNOFp1UkYwMExNaURSY1VrQ2ZiUjdoRXNHTjZkdzVLSXowRFpPbGhSSlJfd3VjZ3RqSEpNWi1LS3RxX0YxLTlsam5hQUV4UDRPX0t5YVZwXzk0clc2ZktmczUzYk5YNVlVdGp4QUVTRW1vSHJQTm1HT2l4VzJnWlZ4RVlr?oc=5",
+   "id": "518221953c",
+   "title": "Defesa Civil emite alerta severo para ventos e raios na capital e Grande SP",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1NLblRKRXFBdnNjdHcydWFfTkF0OXpfWDgxanNVMjFFd2xWU3QzMDd6WkwxdHBaUVNzVWI5ZzFXNlFWU29xNkhoalZoWWpYckZDSDVZTXFtSW1PQVA4ZHZvZXkyVlRQQXctYnlFVW9FdG53czhkVjBjUVBQcEV4alVaSm1xVUFGTkpHVWJZX0dDTG9aeXhmQm00VkhKeGZvdkZ5UlFtNVFpUm9RMDBkb3A5ZzdXNGxYSzdaQnRtV1JEWGM?oc=5",
    "summary": "",
    "image": "",
-   "source": "Agência Brasil",
+   "source": "CNN Brasil",
    "region": "BR",
-   "date": "2026-11-13T14:03:00+00:00",
+   "date": "2026-11-13T15:06:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "946805788f",
+   "title": "Portugal: Mãe de menino mutilado em escola cobra Justiça - 13/11/2026 - Mundo",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOaUJTcFkzYWRmTnZWbkgtQVkwdVhkTEYtRjFrTFU3bER3MFZKV19KcWM3cTB6Z3pXM05YTm1QRDQwaXlqdVNLeElUMTJjVDJObV9FSUNlVGdpR0F5WmRJN0YwMS13dEFFcWYxVWNHNDFDMXVOcWx3ajhzY3pRUFp1OHRPTWpWZmM0NzNUeGRjZ0dYZGJPZHZwRzNobjJibDlWR3ZfcUNsczVTUDhwV3FrdkVGbS12MFNBT0Z4OUFiS1B5a0F6ai0zc0pERng4SmJrYTZxbGpWc1dCdWViSlp2dHJkUWNzdDk0X2xrS2RsUkdWMXBDd245cGJaU3RzV21nbFU1aGI2YkNmYS1YcUdSbXRDQzhWZ2huZ3B4NTBQOGprYnZfT2pGbjhEazR2UnZ6eEhmeHFR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Folha de S.Paulo",
+   "region": "BR",
+   "date": "2026-11-13T12:59:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Portugal",
+    "place": "",
+    "flag": "🇵🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d7db68e018",
+   "title": "Dólar fecha a R$ 5,65, no maior patamar do ano; Bolsa avança com balanços e alta do petróleo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkVBUkMzMmptMU5zUnRZbkozcDhzQmlqY1JyOTR6LUVuSG1zaGRGMmRjcUxhaTY5a3pzUGJtNV9Ba3M1NnF3eDBkNm1pRE5jQ05YMzBuck04b2E4OF9ZdjZvWlpDcGJxNzFLczA5YUxadjNDV0JWeXdmSElyXzRTc2c4UjFMOGY1VHBHV3llTUlFWnprelNEa1MwaVZCSTIwelJKbUxjaXoybm5OaG1sSnJVUElrc010NFpsdkNtOXU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Folha de S.Paulo",
+   "region": "BR",
+   "date": "2026-11-13T12:48:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -501,14 +463,14 @@
    "topic": "Society"
   },
   {
-   "id": "43c7a4196e",
-   "title": "Enem 2026: saiba como controlar a ansiedade antes e durante a prova",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR05kOW1nQ0hkZ0lEb194ejVhdHBPZWRzVmVZNGd1UjZWakhPelZXa1N3Ul94b05mWTZ0WGRuWHFPTUowWmFPbjljVUpxS2dMNG1iRDBkZjAzY3RXWTdRdTFFekxsUUtVUGNBakNZcE5ocmRIdkM2TTVZZWViMzlqYjJORzBlbUtVeFBqQ3lFbFRXSHdUM241OTBzUFRlTDI2MlpkR1YzV1ZYamdoX0E5Uk1FbFVMbE5ROGtTSw?oc=5",
+   "id": "65856258ee",
+   "title": "Relatório da PF aponta que Moraes teria antecipado voto a Vorcaro",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlVfSm5XVS1XODd2WjB4RXNFcURtRlNCbnNqWWRpeHR5UktEdkRHVV84ZFl5bHJHOE5ob01NRDZWSXV4X2JxMFZYWU9tdkxLVWloek1uTExCTFRBcHZ4bmx4aDFUeTBsY0U4ajhNYmlqM0gyUHU3OUZ5eTAtdjlMdHlOMWYxSnNadnJFaUZoaVpnRXlfM3A5ZjVxZ0M5d0U?oc=5",
    "summary": "",
    "image": "",
-   "source": "Agência Brasil",
+   "source": "Brasil 247",
    "region": "BR",
-   "date": "2026-11-13T10:45:00+00:00",
+   "date": "2026-11-13T10:54:39+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",
@@ -526,6 +488,23 @@
    "source": "O GLOBO",
    "region": "BR",
    "date": "2026-11-13T07:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Brazil",
+    "place": "",
+    "flag": "🇧🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "ee83f2ba0a",
+   "title": "Incerteza de Margareth Menezes no governo cria cabo de guerra pelo MinC",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdXV0dyZzA0Nl81WUxpWjZmaG80RmpMcUJLODAzYjg3eDQ2XzNKTEZseW8xcnF6MlZWMVEtR2hOTWp1V1dSamg1b1B1eGg2cDlGeDMxRDVEM3VqNGNKbEN4dE1RNV9sSU1oSk5MQ000akZyUVllRC1jN0lOek05SXdSRDZDblVNNXFiNGQ1eURoTDZGa2RoeThjWUFzWTVYdmxtZDBWYnJuMUVQSGxIU3loRDdNM2VuSUgtTWhqNlBWODA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Folha de S.Paulo",
+   "region": "BR",
+   "date": "2026-11-13T07:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Brazil",

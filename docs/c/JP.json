@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "JP",
  "name": "Japan",
  "stories": [
@@ -21,6 +21,23 @@
    "topic": "Society"
   },
   {
+   "id": "07842bb0f6",
+   "title": "千葉・印旛沼の決壊からまもなく2か月 戻らぬ“日常”…住宅にも長期的被害、再建見通し立たない農家も（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sMGxsU3JzYktOZzdVRl9OMDlVMnF4blRjVFNaazNzUWZnaTA5TVBRMWZUTWdpVkxtOHlQWFQ2UDA3V1l5Z2NLNVozVzlDOHVaUGxwNEppdTN2Y2xoaWhGek1iN2VoYVNpZDVOT1NoZXZJZVlTNlNsWGRvSjNNZ00?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo!ニュース",
+   "region": "JP",
+   "date": "2026-11-14T09:05:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "d0ee1f4aa4",
    "title": "“この性能”、8万円台で買えちゃっていいの？ 3画面出力もできるミニPCがお気に入り──GMKtec NucBox M5S (1/5)",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zXzh2VmduMDFhYWNqM0pjVkRkVTZMY3JZdGJNYmtxWl9RcjhDUjhDSWFpeG9pNDJRVmlpazZraXotUGg3anl5d0FsT0FjZ2tCY3k2MQ?oc=5",
@@ -29,6 +46,23 @@
    "source": "ASCII.jp",
    "region": "JP",
    "date": "2026-11-14T09:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a34c6af142",
+   "title": "明日11月15日(日)の天気予報 低気圧や前線が通過 全国的に雨で激しく降る所も",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1taDdYZkV0MkZoVWhXQ0pnWDl2b2hTN0k5SWtUZjZGN3BsLWtEV3B1SjRDMEItLUhwcUZHLTBndzYxdWVVUE5XdU5heC13Nkl3ell6Ug?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ウェザーニュース",
+   "region": "JP",
+   "date": "2026-11-14T08:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",
@@ -114,6 +148,23 @@
    "source": "ITmedia",
    "region": "JP",
    "date": "2026-11-13T21:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d0bdb60c2f",
+   "title": "バンス氏出馬見送り検討か 2028年大統領選、共和惨敗でMAGA派に亀裂",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRGFYM195R0tuaVlibkI5YS02ZDF5SjNjSmJaRnNEbWNhZmlCVjNYNVZyS1Jkc2xCMEZhX21MXzBzZGFHWDg1Z2U4TzJxaU05TzJtSnFJMkR0V3NQQnc3cVl5aFFOLTJPb0ZPTjQ1UGlIT3JpUTJ6dGZPWDJ2cGtRcTVOQmUwZExxMnhHYzdoRlNvb0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "産経ニュース",
+   "region": "JP",
+   "date": "2026-11-13T20:46:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Japan",

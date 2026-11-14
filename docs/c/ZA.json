@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
@@ -12,6 +12,23 @@
    "source": "IOL",
    "region": "ZA",
    "date": "2026-11-14T07:01:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5337c74533",
+   "title": "Cape Town dental surgeon Dr Meghan Cyster crowned Mrs South Africa 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZU1vbGh5UG1XOHpGUEx2d3NnbVZiM1EyUXBGcWpVY1RKdGFSMm9qMkNWVHRrUDJNLXpycVB2NjdmRkNvTVQyUFlrTjdkcF9mRXBmN3NsTUwxb0xhcmFucUNaWTlNWkc0NDBTMVcyTm5PcUphdWpQVkI1WlJzRVNjZ1ZScGZ4UUhEYjVrMWtZWm56R2xNQnJraHhtTndiRFExbWZGTG9qZzJ5THFEWUhycEQ1VmViS2gtdXg0RFpXWXZJQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "IOL",
+   "region": "ZA",
+   "date": "2026-11-14T06:36:05+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -248,14 +265,14 @@
    "topic": "Society"
   },
   {
-   "id": "9c2faec2c3",
-   "title": "She said yes! Former Miss South Africa Ndavi Nokeri announces her engagement",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1phNEZjVUFvcXQ0b0MyNlQ1VWZiaDdmU3FfTkt2b0ZsUGxlYW1DWGk0aVdaVWF3Z2dhdnRQZjYxUHU2THVMOGJhdXdJN0hvMjFCdDkyeXliNXJqV0dkNkk3RWdjaktXdXFIc1JjUWEzMVRVRjJ0dlVmeGR5UnhCWnc3N0dBRVZFV3pxSnFvQkRGTHR4WGgtQTdlSmllRF9MX3I0dDcweUxEa3FaRG5VSGpyVUtVS052TTVkbm5ZWmlTSTY1T0JDNGVxTWRweTcyaUZZbDluOA?oc=5",
+   "id": "785543c2d8",
+   "title": "Nations Championship, Round Five: Teams, predictions, global TV channels and more",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXhMNEhaZU9WUldRdUgtV2phTm9FVkJMOEo0RnUtTGJ6MFJHWGtYdVZYMTNqeExVNnpsUlM4XzdvYUs5OVZuVUY2VkhpcnpnSXpRcUlRMHdGMXQ4UVdubXhwS1ZZcVFNWFZhU1ZkZ1BMNjk5aEtjX3JCZXFyME1fRUc5aVcxUVRTR1lHaG5LQWkyS0tWUlRoN3o2Q1JuUXhoTU9MdmhtSW9hQXJPbHk0?oc=5",
    "summary": "",
    "image": "",
-   "source": "News24",
+   "source": "Planet Rugby",
    "region": "ZA",
-   "date": "2026-11-13T15:40:11+00:00",
+   "date": "2026-11-13T15:02:08+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",
@@ -506,23 +523,6 @@
    "topic": "Society"
   },
   {
-   "id": "a026127bfa",
-   "title": "Three fairytale dresses and an explosive ‘I do’: Nadia Jaftha and Reece Meyer’s wedding in pictures",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX3pNUTZaaU9kbmxJQmFuUEh6TS1qSFdocUhvTWZNY2V4VGYya0hOZl9abFA1M0Y0c3pkSF9UZHFYajQ3V0VQSFNaVkVqa0RmbzU3bGQ3UUR4SW1FU1ZBTVNkeWIzODloY2YxdXRiVE56aDJicXpLUVBObTBjOFBtMHNnS0EzaVphaTBqblR4MFFXa1VhWDVRWTlycC1LY2VDdlRqTmhJeWFWTWx3TlpqbWE0Vm5vdWNXTF9BaWVHLXZaVi1jVTZ2cU1OWVJDVWstcGlYaXlRZ0xDM0Q0Y0tpeS0wbWJielFpeEk4RzlrN3J6Zw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-12T14:37:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "02e5d6f347",
    "title": "Beyond the diagnosis: Parent shares realities of raising child with type 1 diabetes",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjRRR2ZZVnFTS2pXR1U5ZEt2MkpKd1A1SWo0Q2kzZFNQazVpRXNCVlpBS1VEa24xN3l5R1ZHcFlINDJqaWgxNU5tMGg1Z3AxbTBMV3lCZzhDYTJ4ck9Sa1hDNUVXQmkyeFpkMTVBVlRUTlZ6NTZBSi1odHFINVNKRmdmTjJnaTBndDc5M0IwTXdvNzhiUlI2Z3NPWHozMTkxbkEzX2pJRnNUNkgtbXFXeE1aOGstcXRHOXVIam9hOVlRelVZ?oc=5",
@@ -538,6 +538,23 @@
     "flag": "🇿🇦"
    },
    "topic": "Business"
+  },
+  {
+   "id": "7310d62d79",
+   "title": "HUAWEI XMAGE Awards 2026 Ceremony and the Annual Exhibition",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3JIYXY5MklZTzlSY0lDS2xxRzVZRS1RZVc4TUlOX0xoOThYVnBNT2ZyQlYtVWV4VE1Fck41NU5NYm1XMXY0R2JFVWNfN0NKTlVocFItdE5nREQtTjV4VG40Z24wUVp2NGJEa2t1bmE3ekpYRldFdnJTZ0NPYnlQV1k0TXV6UFBvMzhndHJYSnVMdHN3bnNEelNRal9LUTh6VGtjY3BBZHo4YktFYWdTaU1uRXVsVnYyVXpDRA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Lifestyle & Tech",
+   "region": "ZA",
+   "date": "2026-11-12T13:14:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Society"
   },
   {
    "id": "9fcf5d8688",
@@ -574,19 +591,19 @@
    "topic": "Society"
   },
   {
-   "id": "e48fa1ad53",
-   "title": "Ashley Oosthuizen’s transfer to Bangkok prison brings family closer, renews hopes of release",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEF5QTdrSVB5WUxwVzlKeDQ4VDVLdk5veFBxb2FBWlF0V2w3REMtd08tbVhVdFk4eE9jSHVLdHk2UzZ0UFRnb2ZhV1FoejVMd2E1eDcyaXJqZnRMUjNrbkp6aXl4Y1RxTmlyQUVmeXpuTnFkRjM3dkQwUUU2XzFHVklReGpJakxLYzZFWG9JdEJzWGpYQkdmVTl2clhqdFUxR25CWWhobHk0Q0tlM1EyMHFnODF6U1Y1Wjl1UDAzR0pfQUZVcjZVa0ZZcHc4QlE?oc=5",
+   "id": "5b4d316e6d",
+   "title": "Nadia Jaftha marries Reece Meyer in stunning Cape Winelands wedding",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpaa1FXc2NsX19uNG5xVmVDRlg3bFN5dU92WndzNWJjMm5vaDZXTmg1Z1B3ZWUwcC1sMTVQX3Q1RjZxUXFNeXRiMk4wUVNwam13bmtUNFVQYk01S1NROG9kLWVmcTl6UVMxRXNoeElWWm1CTDZYYy1NY05FaThvNnZscHZCZV9wQnZwZmxSTlVRM1p1NVREWHRvdVhtVlRycVFQVkdTeVJyNjBwWmFUWHlJTTU4cmpT?oc=5",
    "summary": "",
    "image": "",
    "source": "IOL",
    "region": "ZA",
-   "date": "2026-11-12T09:36:32+00:00",
+   "date": "2026-11-12T10:36:53+00:00",
    "coverage": 1,
    "location": {
-    "country": "Thailand",
+    "country": "South Africa",
     "place": "",
-    "flag": "🇹🇭"
+    "flag": "🇿🇦"
    },
    "topic": "Society"
   }

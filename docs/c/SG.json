@@ -1,8 +1,28 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "SG",
  "name": "Singapore",
  "stories": [
+  {
+   "id": "c41a3292a2",
+   "title": "Japan vs. Brazil Lineups and Confirmed Team News: Is Vinicius Junior Playing Today?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlVmYm9iZDc3UnEwblA1ZEJKRDY1dnlibVNTTzByd1djbDhVcjVzQ2gyUlZxb3E0bl9EVzQxcFREekNydGZYWTc4d3kwTFducXRTRmtrcm12RzNtYlNZT0c1d2xnQ2hFaUdLZTRBa0NTTjVTUF9LUW9WbHZCMy1RVm9WMmZEcmZkNHE5NUF5Yy1PTWJtMjJqQ2ctaFdSUzAzRXh6cmc5THNBUU1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Athlon Sports",
+   "region": "SG",
+   "date": "2026-11-14T08:06:03+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Japan",
+    "place": "",
+    "flag": "🇯🇵 🇧🇷",
+    "also": [
+     "Brazil"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "040975ec14",
    "title": "Singapore authorises carbon credit project to improve safe drinking water access in Rwanda",
@@ -21,6 +41,26 @@
    "topic": "Society"
   },
   {
+   "id": "d57ef61ef2",
+   "title": "New Singapore network aims to strengthen last-mile delivery of aid into Gaza with 'reliable partners'",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0pabFFTVmM4bXVodmVXbjVWclloOFJJeGJrWERhZEJRTTRTMmFWa3gxTWFaeG1YOFVCMUg3QlJDZEdlcnVReTNJalRjTk5UWjhkSURpLUNEX0NERDVvOTIxajRfdTNnWFE3eUUtQnNBcFpkLXRxeXVyRGMzdGRXbk1GU3NmS0o4UGRNMGxxMXVQdVZWRm5nOTMySWhYTVNSLXV6Wg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNA",
+   "region": "SG",
+   "date": "2026-11-14T07:00:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬 🇵🇸",
+    "also": [
+     "Palestine"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a8b0ee5a02",
    "title": "Woman caught on CCTV allegedly stealing more than $360 worth of Pokemon cards from Orchard store",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOMFkzZ0p3cDVOOTVYRnd4SFUyNDZ0NEI0RFpsTkdhTnd6NWJBR1g2N29CYmNWYXVfbjNnT194N3g5MWx2ZTg3enZ4SlZZZHRpRF8zUE1KUTI5M2s4X1Aybk5oYnIzRWtJOGg0?oc=5",
@@ -29,6 +69,40 @@
    "source": "AsiaOne.com",
    "region": "SG",
    "date": "2026-11-14T05:27:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b255e185b6",
+   "title": "Melaka turnout hits 40.32pc by noon, Serkam leads the way",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjQ3QWJPVEh3M0E4OHFFXzJudWhoLU95dUl4QlVsYWJZYjlPa2NsRVp4QzJPbEQteW1EeXRiYmI5RlJLM3lQQjA3MXkwdGRuX1YzTkx1OUg1RGppb2I5T2M0d0xobnIzd1d1RHJjbUZ1M0ZQSkhRRmlwQWl2TDVuc2hlLVdmVE51TVg2eEZDN0VMYkJBOGVNN01LNmV2TVQ2dDJsTlpIWGdNZGdVNWo1aXI0SdIBuAFBVV95cUxPLUJvUG5TMVhkcktkYjRmMmRsamVEOGVNWGdPUVFvOXQzeWNndG9nV0FiZmtnamZYVjFrSGFYMmlNQVNWSmdkbTZJTVBXdnBWREFFV1RIZjVqb2xHaERRaHhHQTQ2a2dVbnBacVkxNVc3Nk1WMVc5b1lNLW5ISlJnQVoyYWwwRXFCVDRNVWtlOWhhdUMxZTc5eS1YNG5ibV9MZlU5aE44U01pT0ltYkJ1V1hodkdWV3A2?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Malay Mail",
+   "region": "SG",
+   "date": "2026-11-14T04:55:27+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dafc50bdd8",
+   "title": "Singapore has suspended a telco licence in the past; will Simba be next?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVlanpka1NwMmQySHBBczg1UlNEZ0taREVEWGhLWmtVdTB5Vy1ZTk8tN29JUFd6S2xVOURtOHZ5T1lEc0tKQnpJM2hpZlcyU0JSc3RGanpDSER2dURSZU9sd05CTTk5V3hMSV94ZUtwREx4QkpvMHNUb2szbmw5YmlYeU9jYnFaeXJ2bUlvb1ZxbGl0N0xDblJENFhxa3gxb0ZfU2xmazQ4LUVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T04:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -55,6 +129,23 @@
    "topic": "Society"
   },
   {
+   "id": "661542a75c",
+   "title": "Uruguay beat Argentina in first match since Messi's retirement",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbldQX25DWktnVlNwRkh5X2lINmtBUS1MbWY3Q3VaTkpxTy1hMlI2U01vMFhaQVFLTjVTai1nSjdOTnA0a0haeVRaODdCUUx1Zm1YcHd4LTdmS3dja1ZBWGw0Z0ItVE5ad3huQzBHWlNWaWZ6Y3JndEdXV0RqSU5WVV8wbXN3Y0F0b1Q1aDVrU0lrRFUyclZYUUhQNWo?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ESPN",
+   "region": "SG",
+   "date": "2026-11-14T02:16:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Sports"
+  },
+  {
    "id": "dc5f49cc2f",
    "title": "‘Cool, friendly, evasive’: CAD investigator on suspect arrested in $3b money laundering probe",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb1hoOE9oM3hkWlU4SFh2WEhiMnVaa1VmY3EyYXFpWkMwYWpnakF6RUF4WHhSSXB6TE1nM3dFNGFSR2VIbjlud0FjeVkzUmU5cGRxVFVISFg5WGYxSUExRVRQb042aFFwUG5fZXRmLXpKekR5Rm9NWmdJZ1l0TGlVNS1RY0l3anJEeklCVE5EZURvQmY2eVg1cVRjOXlwTFFtOUNidGx2SEcxeDJ1cFBha3NMYmlkR0xad1kxSUZHaGJjcXpEa1BxenNubl9pQmE4MkJUYXBn?oc=5",
@@ -63,23 +154,6 @@
    "source": "The Straits Times",
    "region": "SG",
    "date": "2026-11-14T02:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "cce5a580a1",
-   "title": "Former teacher, 60, becomes canteen stall owner at same school after leaving 10-year career",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3k2MTN4b1pEWjdjYVJkOVR0YUdMaDdfclpvQmZhY0Q3UzdZaFluNXFxYmxDMDRWUE94SzVzUzhJc0JLSjlLME1DZXExa3ZJZE1sUWJ3TlFDTUVEdUdqYmptZU05bFpvei1JZklIRl9GZk0zN29lcnVENzRoeWcxUV94UVVCUWEtSVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AsiaOne.com",
-   "region": "SG",
-   "date": "2026-11-14T01:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Singapore",
@@ -102,6 +176,23 @@
     "country": "Singapore",
     "place": "",
     "flag": "🇸🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "52cf39a95e",
+   "title": "‘I may lose my mind’: Frustrated travellers stuck in ground stop of US flights",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWE9ORTBtWGwtczAtV3NNb1h1VlVCaHhOcWFaRWtCbmxWdEtoQVV1OHloRnRfZ0dDZVRKeXVhNkZlTm5XQjFlVlduT3plM2lxOUxkY0Y2bzFkTnBKQUlHYUJfTG8yclN1bHk0Q0VoMHF6MVctWlF6Tlc4RDI2aFktVjBMYWtybHBsSWFTYnBYS214NmtGR3Z0OWcyZURKdVU5LWRvNDVTSXY3aWptWUFJN3I2Q20?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Straits Times",
+   "region": "SG",
+   "date": "2026-11-14T01:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -155,23 +246,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Health"
-  },
-  {
-   "id": "afb05d7f90",
-   "title": "New Computational Tool Identifies Molecular Circuits That Make Cell Changes Permanent",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEtZSUl6alZmcksxbmwyYV9YUjItSWF5VndiT3Jtb0NBeUlqUzg3Ty1EaDB2Ql9YN0x0elhCaUdFMm9iTEZHckVMVWQ3MmlLVlNtRkpud3RyYVUzaTNveUdNMTJuYXY0NENnWFhYN3pGOXR2NW5JOVU2aDBRMjVwSHVpajdjTWxyLUdWMXFWeWpTdHJpdVN4ZVdwSkZzSVFiQnFxazZxT1gyQ0w1Mzc3S2dRdGZ3aENJMTFEVVRfQXFTdXBSaWRHNmZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Asian Scientist Magazine",
-   "region": "SG",
-   "date": "2026-11-14T00:44:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
   },
   {
    "id": "af85762042",
@@ -246,74 +320,6 @@
    "topic": "Sports"
   },
   {
-   "id": "7f3a24f2be",
-   "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "SG",
-   "date": "2026-11-13T23:00:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "2d063fccda",
-   "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeE9wUlNhZDFoeHgzUVdadWQxYnFKTmZZSmZCSkVKUjd1VkM3dXpxTV9acVExbzNZdElxTC1DbHpRWGlKV09aSmsySEprSHBGUHRvUzBISUFfUVdkdmlLU0xFUzlnbWJ5cmJleHR6eFIwcTlJTFVMUzVFNm9tMHRUU0gwd2Y2Z05TLUdXNHowQUdDT0w2b2NxTGRGYmk4TURxSlBJbTAyTk82VTNmQ1N6UTln?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ESPN Singapore",
-   "region": "SG",
-   "date": "2026-11-13T22:19:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fc8c9694ec",
-   "title": "Melaka heads to polls as Anwar's PH faces BN-PN pact in crucial test of Malay support",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOE5fR1piWHA2YjNodHktSTAtT0tDcTloekVCSTNTaG1VYllQZXhOWE5OdnRPYWNoazBXeDZaajk4cmFNc1R4b2V0RzRJajE0WUNmVDkwb2tzcDd1dWFILTRoYUdQT1NqUnN6ci03YTBCZkJZY3BRUFp1bDZ4SlcwNQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNA",
-   "region": "SG",
-   "date": "2026-11-13T22:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ec40da45a6",
-   "title": "US lifts nationwide ground stop on flights caused by communications failure",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlBfRi1DNWpWaDFYdjRNS2ZZSFp3YUY5ZDFVTTJoeWt1bkwyRjl6OV85Ti1NQVBMdlJNRVlTVC1OVEU0TmtIUjZjeGZkTjJzdUJKbEJGVmIyVEFzNnpkZXBJUmFRUDZlWExPd3ZRejR5Qjh5WkdKSDdodkZlMzZXbWZjYlc3WnBJSjA2UEJtRlVJdnNGbDE3VDg5UWxuT1hQdWRWUGQ5ZHRjSGZFZURiNkhrZFRyaTFYbS1jSWdUeXdRODNpVUtfR1h0VmFBcTA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Straits Times",
-   "region": "SG",
-   "date": "2026-11-13T21:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "df1c8d0cc2",
    "title": "Song Ui-Young gives Lions one moment to roar as Paraguay hand Singapore lesson in levels",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUtqMlhSS3VjeVIyVXdHQURMYmFMaEQ5WHh3ckp1Y3VJMEJMRmo2WlF2UTYtTU9FRVprZW1vSDhIY01zX25iZEluTy1GMk9pUlYwTGJoNHRSUEZQQXBWTzlGdGFCTWNIb0JiUHhXSk9oMC1HQU9Bajk4TkFRUG8tYTFIbkZRN3NFT3Uxdi1GLWY2aG9Hd3JqYjBXdTRtdGZqZXA4YVpBTXEwY3VPZEVKLXpIVm54Z3lQbkk1cjNNaENGYWhWdmRlNzB3?oc=5",
@@ -329,23 +335,6 @@
     "flag": "🇸🇬"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "d177828254",
-   "title": "Introducing: The Raul Pages RP2 The Hour Glass Edition",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVV3UjVJTFN5azhRWFVYNHgxRzJ4dXd3TlY2Yi1JZ3VkbVAwZEdidU5kNkRVbDJOMUxQY1FPY25PU0FBM0pWX0piZ2VDTHNvNjdVckJGVkkta2EtdW5GMlQ2QVo5NFNSZEo0czc3dnluVVhaRVNHbnFmNW5mbGJpVFhOSExXendmejBlTEtnaG5SVm5WbXVueTBnUElMd3RPQjNsSFNrVmVNNWwxQXNOVw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Monochrome Watches",
-   "region": "SG",
-   "date": "2026-11-13T17:10:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
   },
   {
    "id": "430fcb0f4e",
@@ -399,31 +388,14 @@
    "topic": "Tech"
   },
   {
-   "id": "e0e2be6f19",
-   "title": "Family of 37-year-old cyclist killed in Katong accident seeks witnesses, Singapore News",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVhPWUdYUGdlclE3d1hRUVpKakZRU1hsUXlsZlVCbEpXdDR2by1vOEMwV200cFhXWnBNWnJ0VEtRVnFNVmpTM1dLZDlUcEtDM0ZKZk5NVG9fS3UzY0VlTUlwRElDOGpfWDRKMXd0azJGQXZ0Q05oUmVLeUI5UFJXWTdVdXZIa2s3XzNOVzB6WUl6SzB2OUNwSXZXaWZONVR6Zmg0YVJ2cUZmT3ZVZFpQaVZYNEc3bmU3?oc=5",
+   "id": "32f553310a",
+   "title": "After 5 pregnancy losses, Hanoi mother welcomes 750-gram baby girl",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVl0RGtJQXM1TVBUbVdmQlZqbHBEWG40ME5fRGdLX1hGNzlLai0xamk2RXVhdHR1V2lucXZodzlSSXNnYm5peVJQaFlJMHgwVWxIblZvY0ZjdWwxYnA1WDh3eFNKNFhER3EtcTRjSWJFVkloTHFjRVJkNEprekdjZklFVk55X2M0R1lXM2h1bmszOUxkd3QyUGNmOVU2OW96bWRTZWswd284dEZYWlVGYQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "AsiaOne.com",
+   "source": "Tuoi Tre News | The News Gateway to Vietnam",
    "region": "SG",
-   "date": "2026-11-13T12:31:48+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "e7d664d805",
-   "title": "After five pregnancy losses, Hanoi mother brings home 750g premature baby",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaENiQmRUd0hNeExyZ3BUWDF5ZU54dHRzaTVicTBLajVtRWR5TjIwa0wwUTFsZ3hFQTdTOHZIb1NDNktFc0wxQXlqbEV5dHVUbk56YkFid3pCeWhDbjJWU1dsdmtMdVhMYXFGMkRpQ2FvSVUyVTQ5NHZkUW5lZl9hQVU4Zng4RXgtNllORHBtN2JzQmk0MmxqbDZmLXVlcDdZNm4yTDRpZnBVZVQ4Wl93?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Báo VietNamNet",
-   "region": "SG",
-   "date": "2026-11-13T11:05:00+00:00",
+   "date": "2026-11-13T14:50:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Vietnam",
@@ -465,6 +437,40 @@
     "flag": "🇸🇬"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e677319663",
+   "title": "Circulatory diseases cause more deaths than cancer in Vietnam",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2xQb3VmeUJhQlpNejdtbHRzWXVmUWpISmxVdEduMndzSExEdHB3N1BUZ3liWTlZTUF0QVBlQi1kSkRmQS0zcUc2WDVmVElWa2FpM3RzMFdSX1EtWWdXOEFHSFNiWlNvSFVjY3R4QUtqVVVUMjQ4U3VXOHY2LXhRYXVsOTBxT0c0Q2tLTzF1Y1VxYlRBTkdQZWpSSHBjbTVD?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Báo VietNamNet",
+   "region": "SG",
+   "date": "2026-11-13T08:02:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Vietnam",
+    "place": "",
+    "flag": "🇻🇳"
+   },
+   "topic": "Health"
+  },
+  {
+   "id": "9fc3515dcd",
+   "title": "Samsung Galaxy A18 5G gets Bluetooth certified - GSMArena.com news",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWE2V1h3VTNDRThKSnVvdEZLRHNaVGs0X1BPOTJUYzdZNTNyZFJPUmVfX1Y0M3ZJdGxjazFnQjNIcWVWc21OSEU5eDRFY09RYVFscHdyemg1TFUwekxISnFPVjcyYmZQQ19oellCRy1OWVl1U2t5VGVmazIyazFCb1NLYVktSVNt0gGEAUFVX3lxTFB3Sy1xNnlnWV9QemNGeVhsZWZoQTU4ZmF4RjVpbVJpbDduOGROYjRVaHB6UlhXWk9NSmtTTmpnMGc4LXpsTEg3R3I4TFFKNHoxZi0yMTJDd1NJcWg3M0lGWWxTZkczUlNjY0FLeDUyWG9jOU5nUmFEODhxb2hfbEZpcFpoVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "GSMArena.com",
+   "region": "SG",
+   "date": "2026-11-13T07:29:02+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Singapore",
+    "place": "",
+    "flag": "🇸🇬"
+   },
+   "topic": "Tech"
   },
   {
    "id": "2db2c7c9cd",

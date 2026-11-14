@@ -1,25 +1,8 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
-  {
-   "id": "a9a340f92e",
-   "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczhLUHVMV0tuNV8tZjNfSy03RVhnb3VPdUtzeDBuZ3d1Vm96X0FQR25oRG5SSjV0NHh6OXM3MmVqazBNcEZoOExnSVBnRnVvZFBWTUJVVjdjNDlHMXNOOEYtdGJqYkpaUVQwckxBMUJSMmp0RVZKX3FBdjFrOEl2S19nWVZ6WlhYMnVwOTIzZk5keDFvc0pMem03OV9nZXIyNzNGZEVrTVplU1p4NHNpODk0NNIBuAFBVV95cUxNMDNpbFNPTXlBd3JoTmZPdFVEVnRuYUNDUURqMHJoQ3daY04teDhaazZmdE9qampJV2dPZWVmLUUwVDBuUERWVXBzV2M3ODBxaS1oeU82YXFRVS1HLWlvbGZuNWdzdmhwRnJXbEo5SDJ3bThETTVwQ081YzUxTm1DakkzbEx3ZmwyX2w5MzZlaWlFZ080cTBBTm9aU3FoMWdUbEdWSXpWbEtlZk9nZmVoODBGTTRzdEti?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Al Jazeera",
-   "region": "US",
-   "date": "2026-11-14T09:11:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
   {
    "id": "d3357258af",
    "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
@@ -28,7 +11,7 @@
    "image": "",
    "source": "CNN",
    "region": "US",
-   "date": "2026-11-14T08:32:00+00:00",
+   "date": "2026-11-14T09:44:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -55,14 +38,14 @@
    "topic": "Health"
   },
   {
-   "id": "fb88cfc13a",
-   "title": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWRJczJZNTNKUmlxbW1zTXpLMWoxampuRUd6aERIeXFqNUUtemwtbXVhd0FFSXF2VFBSWnhfa0tzLXMwZ3B6NF8tNnBHZ1pXbVhaZGdrTExremdJRzR0OUNBM1pYSlN2MU85a3FxUHYzY0Rnb2hoR3UwTlM3cXc0NDFWaw?oc=5",
+   "id": "895f2179d4",
+   "title": "NYT Strands hints, answers for November 13, 2026",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "Mashable",
    "region": "US",
-   "date": "2026-11-14T07:03:10+00:00",
+   "date": "2026-11-14T07:15:33+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -72,14 +55,48 @@
    "topic": "Society"
   },
   {
-   "id": "5e1b22e00d",
-   "title": "Live updates: Thousands of travelers stranded as some flights resume after hours-long ground stop",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
+   "id": "fb88cfc13a",
+   "title": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWRJczJZNTNKUmlxbW1zTXpLMWoxampuRUd6aERIeXFqNUUtemwtbXVhd0FFSXF2VFBSWnhfa0tzLXMwZ3B6NF8tNnBHZ1pXbVhaZGdrTExremdJRzR0OUNBM1pYSlN2MU85a3FxUHYzY0Rnb2hoR3UwTlM3cXc0NDFWaw?oc=5",
    "summary": "",
    "image": "",
-   "source": "CNN",
+   "source": "The New York Times",
    "region": "US",
-   "date": "2026-11-14T06:48:00+00:00",
+   "date": "2026-11-14T06:36:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c5c5004957",
+   "title": "Horoscope for Saturday, 11/14/26 by Christopher Renstrom",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkhjZGt4RHVBb3JyUUdhNDlLb0tKa1BhQlNtQlRkM2ctTTZiZURwNmVCbDk2cUh1TTVGS1d4X1FpaHUzOFhsUm1fNlZzSVpGazJmSWNCLWViYWVXNmFmR0RVSTQ5eGxEcGs5amZrQ1I3cG5VWWExUV9ZZDRwMjMtR2JDbGdIeG9XbTZFMDBEWl9TeVR4WTNKQkFjVkFvc1ZwUFZqTQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SFGATE",
+   "region": "US",
+   "date": "2026-11-14T06:11:38+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Astrology"
+  },
+  {
+   "id": "28304c1152",
+   "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdUdwaXNuY3V5dFF5cGRHWTZmTXFRQlFNSVFsV0JGVVVNbFRrcTFWUDMzdVVwaXNjdl8yZnBjUjJXMUZ6dk42cElzMFVBY0ZpTWlrVDd3bF8wck53NzFFdzFVYU5QTGhOdkxQWWpiZzk1SXlJOVY3UkVvajVLMk1HbENTWm5Lb05JcWNnUHZrY2N3Z0x3MGdxM3M5dEhneU1RdEpXZkpFSVlaM0ZzR1JSM0dDYmpLaXdDZFI4czRETdIBxAFBVV95cUxNdnlRLWhsX0NfajZ4cXRvaUt1Mk8xT0JuSlFkSy1hREZyb1lodDVLbXlaTGh1cTlRaGI1WW5ScnJKemFkNXl3Rm9BY2JlWE85Z1Z0TWR2R0JfVDZxdGdYb3Q1VkdYdHN2NFA3MnFUT254UTNWOE1aYko1eW1FTi12ZGVfVmMwZE4tMEU0TURDeTdDdGt3ZFlMM3VGVDdIMGw2eks0T25mbGhORnU3dGxUSzBiWGwzWWV6aTZmLUdjV1Z3UGk1?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "US",
+   "date": "2026-11-14T06:09:32+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -126,14 +143,14 @@
    "topic": "Society"
   },
   {
-   "id": "707d58c5e7",
-   "title": "Mary Peltola’s Lead Widens as Alaska Senate Vote Count Continues",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGRpUnZKOEtydjhyR1RaNXRaVS1xdUk0MkFZTldVUktXM2xNa2JGS3Y4TG5LbmhkWHZ1VVpaaE43RnBaMElMczBHcGQ3LWpQRjFrTy03Y0FzNGx4RXlEOEtERy16RWJ2TkhDVVFYbVlWZmtvMWJ2dGxxbHQxVXhLdW1ZVERVV3VJbmVkLWpENA?oc=5",
+   "id": "ee09115154",
+   "title": "Trump administration blames 'overloaded' systems for ground stop after FAA lets flights resume",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzYjF1cFN3cFJnc25MVnZlUWFrc2JMaFhLTllGLVVFSGNkQi1MT1F1ZDFrOXlEVjBCUHFVMW9WOUtyZm81bmczOTVsSFdKN2hTbGhEUjhHMWdmUHdJVkhHRUdUeWFFaTJUd3NrRm5wNXdha3JsM0ZzODlaYTE4UQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The New York Times",
+   "source": "WLKY",
    "region": "US",
-   "date": "2026-11-14T05:31:11+00:00",
+   "date": "2026-11-14T05:42:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -160,6 +177,23 @@
    "topic": "Society"
   },
   {
+   "id": "2f0642442d",
+   "title": "The senators who could join Van Hollen's insurgency against Schumer",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Axios",
+   "region": "US",
+   "date": "2026-11-14T04:50:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "1da8740bec",
    "title": "How the Microsoft outage impacted courts and governments",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUnhQZ1hSOVFGajVoZXJDcE1TbWhCa2RJU0ExblA5WElCZVczWnh0VlpBdXljcnlDM2cxZWh1dW50ZXQ1M3pTWE4tamZGMWk2X2VXZmVETC1pd1M0WDBYQXo2Ri16QlVrVnFMdjBpamUxdVdaNWVLMjhn?oc=5",
@@ -175,6 +209,23 @@
     "flag": "🇺🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "6961be52ff",
+   "title": "The US flu season is off to a very early start. It's targeting the South and West now",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmVwZkcwdEZLaGhvVksxTlFrNnR4MlRkRjJtMTN6ckRjOHl2ZWM2R0dPdDhGMERLb2RtajNpZGx3SUlSbHloYWVmVV80SGtMWG1meC11WnF4azJsWlFrX3hXVHpGd2ZaYWc2b1lYbU1lV1pFQTlUeENmNlFTb3lFVWVJNEZFYlpPbnRISDRBU3dXcmd4VlJRdG0wRkc3dl9GbXVaMmlKOGN2Qy1kLXRKeC1MejBFVXNILUNaVDIzbHhNeGZXdGZr?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "KSL News",
+   "region": "US",
+   "date": "2026-11-14T04:21:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "03fde25aa1",
@@ -194,19 +245,22 @@
    "topic": "Entertainment"
   },
   {
-   "id": "9898c5187e",
-   "title": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3M5V3VnbnhJOVFkV1pYS2d0TFJfZVFBOXlKX0pyVW5EdWtsdjIzT19wLXl5bnIzamdzempPVDV5aVFGdjRycDViR2JkLUE5LUFRdG9lSHhxNHRIelB1RFJrQ2JJRkhqdms5SV9vTUZ4bHl3Y3R2VkpVcE5kWFl2NXVFTkZDMmFqWU80X2ZIZ3FBdm9kazVMajNuSVJUUQ?oc=5",
+   "id": "043adc8991",
+   "title": "Trump to have first trilateral meeting with Putin, Xi",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
    "summary": "",
    "image": "",
-   "source": "AP News",
+   "source": "The Washington Post",
    "region": "US",
-   "date": "2026-11-14T04:00:00+00:00",
+   "date": "2026-11-14T03:47:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇺🇸 🇷🇺",
+    "also": [
+     "Russia"
+    ]
    },
    "topic": "Society"
   },
@@ -228,59 +282,21 @@
    "topic": "Society"
   },
   {
-   "id": "5d67864ef7",
-   "title": "'Mormon Wives' Star Taylor Frankie Paul's Ex Dakota Mortensen Sues Hulu for Defamation",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFFCN2hEVjBmbUtTODFNZ0ZtMTlEbXR1S21hMGhrSnFhc3lNeHVZN2V0SS1jZ2ZieFE4d2V3S0xKajF4ZU5hNmFac2w4SlJ0UTN2NEJaZlA4UGV3OHkxbGtlcTJaUHVwRkE3RTUzanVWTDRpVEZUUDV4bnZxUnJNLWNOVVpmT1hHVFNoYklrUnJOU0N6NE1QTDY1UmFHZE5ic0NoTzg4NW90dGE3c2xB?oc=5",
+   "id": "0d797dc271",
+   "title": "How \"Banana Man\" took a small Indiana town by storm: \"I didn't expect to be a banana\"",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JM1NJUktyY2M4RVRjVlktSzNBdUxXVG1mQkhIVDFwbm5ja2ctOFltOUNMWjhOT0V0MDBTWnZnYkpDdE03RGIwM1B5bnBiRkpMV2pMYVFwRTZWRUJVTTJYQjB0N2wyN003M1dQSm9jTmtuREk?oc=5",
    "summary": "",
    "image": "",
-   "source": "TMZ",
+   "source": "CBS News",
    "region": "US",
-   "date": "2026-11-14T03:34:48+00:00",
+   "date": "2026-11-14T02:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
-  },
-  {
-   "id": "774dcc17fa",
-   "title": "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3JBOWs5SXAwb0s0bnVrdG11NDZPZHhOWU5od2l4bEtoZER6STlNbFdOcURQYWh0VXJ0a1NSTlAyZnJxbW4tSUJfSklfS1VwUkZzdUh1eWFJX29KVTU5NzhiYm9OVU8yTWh2V0tvdENPV0U5Z0tidVpVNURfT2w0YlBHT2NJZ3ZZLXJXNUkzZjhFamZZWXJEZU9ScFlZRktfSVA0Nw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "WDSU",
-   "region": "US",
-   "date": "2026-11-14T02:54:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bdb606dcc6",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BBC",
-   "region": "US",
-   "date": "2026-11-14T02:47:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
-   },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
    "id": "7eb6760dfd",
@@ -300,21 +316,21 @@
    "topic": "Society"
   },
   {
-   "id": "2f0642442d",
-   "title": "The senators who could join Van Hollen's insurgency against Schumer",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
+   "id": "ee059e214d",
+   "title": "NC State football head coach Philip Rivers five-year contract details released",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUk0tS3RNWGh4U0ZGN1YxZmJBVlVTemZDT1BOdXZNbHBSS1VfMGVvVVRtOWtFeW45N0Fkb3F6X0doU0xseHZiaEUzVnFTbTF0OE5pN0JNdHRKV0l1SGZ2TFUwTmZ5bmNVV3hoSGp0R0dlVG9MdWVFWWFQRDBBZFRQS0U0aFEwazFDRDlXN3hjNHNsYmhDSHdMdi1PcE9VbXlEa0VtdlY2S3YyVDJFSVpWc3lrNkRGYjVrS2hSZm1takM3NGI5RjVaOWtfZ2pOa1NmSWxva0JfcUJUWTlMMl9VT09n?oc=5",
    "summary": "",
    "image": "",
-   "source": "Axios",
+   "source": "247Sports",
    "region": "US",
-   "date": "2026-11-14T01:50:34+00:00",
+   "date": "2026-11-14T00:41:49+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "d38de1625a",
@@ -332,6 +348,23 @@
     "flag": "🇨🇳"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "2ad50da5b3",
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bmJSeXZjVmZQcm1sZkRQQmlCa2hPYUlhbEN2UzFnN184RzZTWEk2ZEM1OXR6ZTFOTWpaU21QOGVMX3UtZUZ6RGFLTGdlOF9TNVJrWFBuZXF2WEk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "US",
+   "date": "2026-11-13T23:40:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "f52921cca7",
@@ -368,14 +401,14 @@
    "topic": "Society"
   },
   {
-   "id": "589eebe986",
-   "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
+   "id": "addead7af5",
+   "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVNtSnk1YnAzSDBrR3ZfUTRxQi1HelNrbDZ1eUwwckFneGJpampkOVZNZ1J5MEhYNXpEeXU4YV9zN0RiazdNYmVwSmgyUE9yZjV0b1l2YXlLWFQ2bkgyLVRLc2poZUVOVlhISy1UN2Q4eXpZcFlUek0zSzdNZC1IRHZPbXFCUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "NBC News",
+   "source": "The New York Times",
    "region": "US",
-   "date": "2026-11-13T22:52:34+00:00",
+   "date": "2026-11-13T22:21:04+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -402,23 +435,6 @@
    "topic": "Society"
   },
   {
-   "id": "418b2d076a",
-   "title": "2026 NFL midseason awards: Joe Burrow, Greg Rousseau and David Bailey among my selections",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEJrdzNmUmIxZmQxLXI5OW8tTERTRGtOSm1vNll2bEE5Qi1PaEtLLXdzYmNmb0NTRHNNdHQybUY3a3dsa29Ed0M2cTFTb2RtOGJic01YbTBPM2o5c3VmVXlGSmpVSjhGbEk3U2ZzY1JYdWFMdzRLcVlPYlJmWDRGZkl6NDZmbnFWQnU0Q05XekM1ZXItZlJLTjdYdkVQb1BoMUotX2hhQ3VQd3E0aVUwbU5R?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NFL.com",
-   "region": "US",
-   "date": "2026-11-13T21:21:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e6b6766802",
    "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNENSQWo2eG9BYl85Q0NnYUFfY291R0wxMmhqYTZRYkJMSkhpNVBhOF9lQjlKcFY3a1d1RGRhMHNVVUt0OVFjQWVnaVo3UDczdkdPSW1zSGhyNVNNWjZiTUtaajlEMW91d2RidkdNYWZmcEtaanNOSXdqMjRJZ0t1cmNYRmdQZUVVS3BMMXFIZEdZNkZCcV9EVXkzWVltTXhtMGVoQ2JYWHRfZERCZkFKTXFaT1BlUGVwYmJSSlBYaUtEeUhNMWtNR0RWSksyaWZGVjZDTDJoWXg?oc=5",
@@ -427,40 +443,6 @@
    "source": "Space",
    "region": "US",
    "date": "2026-11-13T21:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "ee059e214d",
-   "title": "NC State football head coach Philip Rivers five-year contract details released",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUk0tS3RNWGh4U0ZGN1YxZmJBVlVTemZDT1BOdXZNbHBSS1VfMGVvVVRtOWtFeW45N0Fkb3F6X0doU0xseHZiaEUzVnFTbTF0OE5pN0JNdHRKV0l1SGZ2TFUwTmZ5bmNVV3hoSGp0R0dlVG9MdWVFWWFQRDBBZFRQS0U0aFEwazFDRDlXN3hjNHNsYmhDSHdMdi1PcE9VbXlEa0VtdlY2S3YyVDJFSVpWc3lrNkRGYjVrS2hSZm1takM3NGI5RjVaOWtfZ2pOa1NmSWxva0JfcUJUWTlMMl9VT09n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "247Sports",
-   "region": "US",
-   "date": "2026-11-13T20:56:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "a172c606cf",
-   "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHRoQnZYNFlOWHFjNVdsZWlIektzY3JHbm9fUS1YbmQ1bW9JNnRrdWpURjFwaUtuNWlKUkYybEVUVFpnaGNjZG9wNVBPQUNrN3VsQ1lsQnlSS3lIb1VSQ1QtVzRZT3RVeXQ4ZGpSa2tBZS14bEVPUEEwY3QzTjRSdHF0YnBoMUhOZFFHLVEwN0Q?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Verge",
-   "region": "US",
-   "date": "2026-11-13T20:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -500,23 +482,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "280bff5522",
-   "title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "US",
-   "date": "2026-11-13T19:56:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
    },
    "topic": "Society"
   },
@@ -606,14 +571,14 @@
    "topic": "Society"
   },
   {
-   "id": "3f335a4253",
-   "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
+   "id": "0eb6bd0ee7",
+   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Engadget",
+   "source": "9to5Google",
    "region": "US",
-   "date": "2026-11-13T14:00:00+00:00",
+   "date": "2026-11-13T13:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -623,14 +588,14 @@
    "topic": "Tech"
   },
   {
-   "id": "0eb6bd0ee7",
-   "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
+   "id": "5e12ad93df",
+   "title": "Why Nvidia can’t simply make more GeForce cards — even if it wants to",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU9NaXZLMkhWWWZEcGVheGNuNEV4SWNjc3MydUpmVkxJMGpXQjRZcFNNei1RZW1VTlJrdmpzZ3htQUs5dmhmaTRRXzVfU1RhaWFjUzdUemE3TlpxcHljbVFoTFN5UEJBRmU4TXNRY3dsN0F3MjU0eXlBM2JFVF9QcDBFbWN3cEZsUEpPZ1FGU1RSbHU1UnJuT1B1c3VkUlNuZU9xd29GRUN2bUZhdDN2NQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "9to5Google",
+   "source": "PCWorld",
    "region": "US",
-   "date": "2026-11-13T13:30:00+00:00",
+   "date": "2026-11-13T13:27:17+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",

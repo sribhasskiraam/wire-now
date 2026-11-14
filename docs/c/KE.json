@@ -1,24 +1,75 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
   {
-   "id": "10e465abf4",
-   "title": "George Ruto’s matatu involved in another accident: Here’s what we know",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPek9YQzczRER3QzJhZGJIZVN3WUxaLTRyNl9PNWUwaUVxcktEa1B1WHBZSVdaT216MTZoaklrRDhMbW1zNnhJN09DZDBwdXhKY0hCS3BFeElBVTFtOXEzMXctZENIY3M2VjVDd3otWEM3SjZuOXp3YmZVb2ExMEYtSlFuNDFaVTUzaGpDOE5Ed3hERzdPckstZmNRdzdVdFk1QWFVMFVHN1FRb1p3U3FJTXFWVmNYd01p?oc=5",
+   "id": "1bb04420e0",
+   "title": "Ruto turns heads in Maasai Shuka at Maa Cultural Festival",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUlfYzljWmdxbXExNlEwZWM3VG50aHNEb2lpS2k4bFVJeG1aU0FkVGhZaFlaRnJwdFkzd2RodGJkOVh3TExSNmt4aXcwc1pyanAzazd1eVdXZm9fTHFkRlp4MWVQQmdtVU9pdS1NV0puSFJtVXJDZGdvNlpKalFfcElTdGNnb21WaFpCeWVn?oc=5",
    "summary": "",
    "image": "",
-   "source": "Pulse Kenya",
+   "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-14T09:24:20+00:00",
+   "date": "2026-11-14T10:07:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Business"
+   "topic": "Society"
+  },
+  {
+   "id": "336ff9ba64",
+   "title": "A decade after Thange oil spill, grief, illness and a fight for compensation",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDl6QzJBbVhIMkRWWVdUc2xHYm9OTUtEOS0tZHpPZjBxMnhlZnhHVHVQQlpPeDFVRUlzeDZjdnNGbnVIdzhJMUhFVFZLT3FQRXRFX1M5MGRwVUNtMUJvZElBVFZOVmljV1VxekM4ZFFROEJ3VEs1TlI0Q2p1Z1ZVQkUzS19POGRDd2NLT1JjR2VNakt6X1E3dXduYkk1OE00YVdLbTJMNi1BbThwOEtLVXNXS1RfdUly?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Nation",
+   "region": "KE",
+   "date": "2026-11-14T10:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0d765f4051",
+   "title": "Discrimination of ranges of closely related RNA targets using CRISPR-based detection assay developed using machine learning-based optimization",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oX3dLdXNwYnNiR1VBcURoM3BZZ0dhaXczNU1GVi0xQ1owczRuYW1BUHZTdGNMaXZldUpMTkVIU1V0V3JiMUUtYzA5Q09RUlJqOExDVnJKYVVsWHFqNmVR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "KE",
+   "date": "2026-11-14T09:37:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c4149770f1",
+   "title": "EAC States Urged To Strengthen Regional Cooperation In Tackling Public Health Emergencies",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3p5X0xfU05OWlBrdl82dHc2S1IzYU9FQ0hnQ2tMQUdMOWFmazdaZDVEOGp6MW9NeWphdEJSd1ZUZ19rMzZjdE5UMXozREFxZmRXTF8wSlBCRHFrNmJNS3JDZUYwX2dpaHFIMzdJbmN0Z08zRjlzNlJRLW9qbEpZYW16a1BhaU0yOXRsdnF6ZEMzaS1WMFd4ZHM1TEZkUVlyZEpneThJVlduemhaaTB5Z0x3YklqM3pFWm9fWkZ5RlRQQ3NITEM5LTlZeWRKZVA2OTZyNNIB2gFBVV95cUxQWEN2WFlkX2tZSW5UMTBqbGVUY0tJRWMyUXFqWFNqUllrMVd6RTk4UVVFUTdTR3NoSVExM1hET2Q0OURmTUtIX211V0xmNkY1cG44cGZnUEQzT25aNnlKdE1WOGlIaFdkMUYtMlBvUjRJTVNJUEhhMGNwamZzalNlZFVHOGp5UHZRTlo4bzZKcVZaMWdVd0FSekk2VUZjenZzY0dfLUJiMDdrSTJoQlNYc1ZJdlNjbjFidEhSYzZLNE02LU8wNDg4SFp4OTAyYmpmdDBKREE1dkg0UQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "UPDF",
+   "region": "KE",
+   "date": "2026-11-14T09:25:54+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Health"
   },
   {
    "id": "a33a322211",
@@ -34,23 +85,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bde5d95cd1",
-   "title": "Over 9 Million Years Ago A Whale Carcass Dropped To The Seabed. It’s Just Revealed A New Species",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzBqMnBqc0pyRW1IU09pV0VjLVZhekxhYjlob2RpVkVsNjZheWxtT3plTUlSQ182ZS1mTy1XLTVITWpaV0ZSTm9VOTd5TnN0VVZaRG8xLTJiYVBpeEZHV2RQMlRPZ2FRTFBaeWk4VU9GUnFEWDJFenQ0cHhseHdDbF8zQ3VKYzcycU9Yd0dKX1N3N3VCRlZGSEVZTlloTWNRdWZlTlM0Ni1oa0JvdjViZldnRGVMam45S3Fkd056UG8xb2Qwcnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IFLScience",
-   "region": "KE",
-   "date": "2026-11-14T09:08:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
    },
    "topic": "Society"
   },
@@ -72,38 +106,55 @@
    "topic": "Society"
   },
   {
-   "id": "57f28fdc5d",
-   "title": "Kalonzo, Sifuna among leaders expected at Gachagua's sister's burial",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHg0SkRRMHZVVGhmMjF3em1DRFFuLUktVGNRUDNFdk1LUnBDUWhrQVVTZlVnV2xuWm5wbnktdnBPRTNBMkMyWjBqUWdDNERwbWQ3R0gyVWUxOUt0WGtyQUJTSV90dm5CVEQtdHdBRFBjY3pkOVozb2VNemJ0QnNpNmtNVW9seFR4V01TcjNUeXE5ZUEwOHJZ?oc=5",
+   "id": "ecdc527f41",
+   "title": "South Sudan delays election to February 11 2027",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3U0Um9xVEQzN2ZkMWdFaHFWOEV0T1FTVVRaZXU0WnFFVjRiQ1Z4SUZ2VVNrNXUxZ2d6RWY0VXBJcUZNMU04ZmUyRVlXOURtWk5Kb2h6Y28wMVVHYnZkN0l6Vks3Z1hTa3cta25wbDhhb0JBUldpWmtzVlpvYUt0LVVfQzJpYlF6c29vQUI3SUMxQl96SUZYVw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Citizen Digital",
+   "source": "Reuters",
    "region": "KE",
-   "date": "2026-11-14T08:52:01+00:00",
+   "date": "2026-11-14T08:32:37+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Sudan",
+    "place": "",
+    "flag": "🇸🇩"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "dd7159224d",
+   "title": "Kenyan firms hit by global Microsoft outage disrupting emails, meetings",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0RnRWFFOWZCSk9raWZCdEVpaXlicERwRHVMRnV6R3Y5Rk8tYlVfbHRsU0lYRmRQZXdUU3JOMEs3S0VYSkhQQkdTZHR4dUV3dzFrSHpUR1NjYkpjQ1FWMkJGZk1zMlZMdmdIQ2hBcTYxOVJLQ01wVHQwQ0Y1anZfQjd3bmRDaVB4UTZqbkJqaERyRHl4TDRCX1ZLaFR1WWNwWFJ1ZzJiTzU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Nation",
+   "region": "KE",
+   "date": "2026-11-14T08:11:12+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
-   "id": "645e9d5404",
-   "title": "Pope Leo appoints Father Joseph Oduor Coadjutor Bishop of Kisii",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTlXNVRxZEEzWUZyZExEWkg5UU9FbkN3S1lHb05KaWRaOU51cVVBajJ1dGV6Nk1CZnBsUkR3MFNzeGJ2b1R2M2twSmRvdlZXVE1CV2x0SGZNT2MzaUp0TE5uZUFLSW9jTEI2Q2VxN2lwVGdNcVlXVWxOSTBkazdscmozNktvZkVhU1JxQXM0dFQ?oc=5",
+   "id": "38f8ae3d4d",
+   "title": "'Mtu noma sana': Ruto weighs in on KMPDU SG Atellah's Lang'ata MP bid",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzlFeS0xbUsxZlloaUNtcmRUZHhzc203VTBLVWsyaDBvSnEwdlV3QkxBc1R4cDVQYzJfQmxVcFpmWWZ2Sk5SN0d6VUF2UmJ5cmdfVG51Y0JWVk5qREZUQVRZT3ktelU1YzNMd2RsN0dZVUYyWWlGWHlIeG0zUUg4ZjhPcndEOWZXbmNUTFdJWjZlV1E3ZDNaR2p0cGw2U3lTZWc0aGxqUnh2ZzJqUnc?oc=5",
    "summary": "",
    "image": "",
    "source": "The Star, Kenya",
    "region": "KE",
-   "date": "2026-11-14T08:01:00+00:00",
+   "date": "2026-11-14T07:32:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
    "id": "df81be490d",
@@ -157,19 +208,22 @@
    "topic": "Society"
   },
   {
-   "id": "9ad9648471",
-   "title": "Justice sector warns of school-age gangs, sets out plan to tackle goonism",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3EtdmhhSnRsd2F0ZVVHYklWQXYyVkV4LVhOZzFobExhcDJjTFNLWmpYLTI5SDh2bERLWGYtaHY0M2YwSmxhVXNiZGpWbUpLVk9VUnBJcC05N2JJdHRiNHYtQ1BwRkFBYU13aU5ZWk1ZNnNCZmtvZHFUZ3M2VnBuWnBONWxNS2s4Ykdz?oc=5",
+   "id": "c10c758d76",
+   "title": "'It's amazing!' - Tijjani Reijnders revels in incredible display as Netherlands crush Greece to equal Nations League record",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaVJtYWVwNC1vQjg2aEk3MkRiOFJpUFJGUXFZSzZmYW00LXkwX3k1RGk5ZFk2b0tMWnRWdDhuREVERmRDQW5keGR4bm5SUmlqb2pyZzlITnJLdXRGZUFNUFZGNWtRMlotSmRNclJoSU4yQThZTHJUNEVlNDFWRkI5Nnc2TU54OFhTSkFpZ1BwZkpsRGpCb2N0SGtkUTdId3dsaWw4dzZZLXFrZllKT0pZUGJoSWhVZzBUMTBuY00tOGs2eUdkVjBfSmlmbl84V2lsVWhSRDd0aXE4T1Z4WkJ6YnZKQl9La0c0ZEVDdlVGY2xnak00ZFpIbmJXUXpaSUFN?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star, Kenya",
+   "source": "LiveScore",
    "region": "KE",
-   "date": "2026-11-14T04:30:00+00:00",
+   "date": "2026-11-14T04:07:47+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "Netherlands",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇳🇱 🇬🇷",
+    "also": [
+     "Greece"
+    ]
    },
    "topic": "Society"
   },
@@ -223,57 +277,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "76fe5325f5",
-   "title": "Andorra goalkeeper suspended 12 games for collision that resulted in death of opponent",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkpDQ3dZZzZoTHhuaGlsLXNMRWdRRkZaNk9HSEVKcUkzZnEzRENncjltTkJTSm9xWHBuWTFCTVdtNHJkcERQc1JXY0poQVVIQnljem0tSVFnNnpSUjRmbzJxWi1hRGxXbmQ5M3NBb3hfUmZDZzhYZTZFQUVJUW1tNkRMR0cyRENwR20zb1VFSnNtbXRvN2g1WXJEd1V4blZ4RFFOQjZESXB1VUNpSS02M2swNDc5LUFaMDFWQXdIQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "USA Today",
-   "region": "KE",
-   "date": "2026-11-13T23:42:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "941b4b5d15",
-   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pUU9OdkhNb3ltREVOZ3FsczdZeG5leExQRFEtNmNGZ3Z5OU5RelQxY3lmVnZZcXB3TDFnYXlDaWN4NFVzVHd6WkRoWC1leGIzZFB0VW5WeGRiSnJGdWpPYWo4YktRYXhjMTNGeTBxMzFBd3V2ckMtNm5vQXRVQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "KE",
-   "date": "2026-11-13T22:25:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4e2f73fb20",
-   "title": "Abductions: Missing Kenyans found far from home as courts press police",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkNuaVdMRjRqbDdSeTlKUGxiQU9Cb2ZULTF0bnhkNmpFR0ptcmE4YkFTSGotX3BLYmZLUVB6RENvYURPN1BMY3ppR1JRZENWOUZ4MUlkdzctTG9DVTA5OFJnYWtqUW1ST29VVEJTQ1FXRk9Ja0ZjUlhOSGxMNE1qdEFlRkxRWlRHeFhIUFlfMWdlb1ZlbUtKVEJPQUZjNW5VcEZTeHJKSXpXQS1GbldLOGdzc0RaamlXdWkwdTd1UWpIeHVqWlBvdFpJYmpFcjVMc0FMcA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-13T21:00:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Politics"
   },
   {
    "id": "92371dadcc",
@@ -344,6 +347,40 @@
    "topic": "Health"
   },
   {
+   "id": "443761609c",
+   "title": "Kenya: Pope Names New Coadjutor Bishop for Kisii Catholic Diocese",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sal9lMlIzZlc3RFdCZ2ozVHNZVV8xdklHbGVsbzRVN1ZVU2hoR2JCNmxCRVdfdmlxcjFqLXZVUnRob0Mtb3FPZlZTbUpSQXBjMjROeXJ1eWRNY0k?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "allAfrica.com",
+   "region": "KE",
+   "date": "2026-11-13T17:03:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "efca009da8",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJCYlR5dlhvNXJ2UlNrcHpZZ0tCNVZLVnBmUVB2X0R5NlNpMmRESDhlUzZiVXRUWlFYQ050RmRLX0xvRkRUdnJnX3hOSUc4RGItVXRCZDlmS05CWDZWMzRYbGhheTJxN0cwNEtNSi1KYV9wUEh0a2pJLUc2V00zTGJiUnZfZDEwQnNxNWhIc2Jqa1N6TzdvV1lEZlFPblU2UGhPZg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "TechCrunch",
+   "region": "KE",
+   "date": "2026-11-13T15:58:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "68e4c4fef6",
    "title": "Premier League reveal October Player, Manager and Goal of the Month 🥇",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0tiQUgyY05HOXpXMDd4bFJpM3Y2eWRoTzZFbTVmUW82MDFkVnR0WEYyX09CdW1LcHNQN0JwbGhueXp3NUk4Z1dTVEc2N0t4QWEzcGhKUjNhLUw2eHVOdEVTaGpwSkdDdFlmRE90UWtFa1NDVjNsS0hneTVRX3RYR0ltRkhPVVVpMF9aYVFn?oc=5",
@@ -351,7 +388,7 @@
    "image": "",
    "source": "Yahoo Sports",
    "region": "KE",
-   "date": "2026-11-13T14:12:22+00:00",
+   "date": "2026-11-13T13:55:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Kenya",
@@ -376,23 +413,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Entertainment"
-  },
-  {
-   "id": "b7e88ec2ac",
-   "title": "Africa and Europe strengthen partnership to accelerate green industrialization at COP31",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXdvTzhtRXV6VW9yMDVZOVYxN0t2Q2M5RGtrY2FFLTJiczlOclJNRE9ZbU04WC1LY2tPZUlrdjBGVF81aEVZbjNndjZEOWFTWUdVTTVjdEVOcmdWVEMwNGdoWVB2aXlzdm04anhtdmJZZEpLR294Z0NUZy1yMXlpcGtPa1ZBMWJncjc3bDNEQ0VYXzVqSnZZS0Nob0xkNmNULWE4ZWpXUS1LX05OS1JyQXk3RFBOc3M0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Sustainable Energy for All | SEforALL",
-   "region": "KE",
-   "date": "2026-11-13T12:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
   },
   {
    "id": "e82b19360b",
@@ -429,6 +449,23 @@
    "topic": "Society"
   },
   {
+   "id": "043b653264",
+   "title": "Lawyer Abshir Abdi in court as LSK pushes for probe into 'abduction' ordeal",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFFjUDVteXpXR1FxY2d0MGtBR2stWktmajg0OXcwcHNpYVoxMHZMV0VNYmt2NUZ2Q2JfMmhSZ2tUTjAzNlhkcTZ1cmRma1ZnNjNPZWtXd0VSNVQ2WHdBRk9Dd0lMd2lKaHBwTVRtWE1ST2hwUXlWd2lfRVJTZ0dwdVVScXVuSFJ5NDJNRFltT0hfNXdRRU9vVjQxWjRyYzl1OEdNWg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-13T09:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "4cbe43cffc",
    "title": "FirstRand International Postgraduate Scholarships for South African Citizens - fundsforNGOs",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTThaN0tianBvYVkzU2NxY1l1VDlrZEUyYWQ5SGpaRDlnUGxHVWNiSXRTRHJuU201Nl8zSmo3NGVBQ0huTFpQNWJjNENvb0tNVV9CUlFmTTR6cTZQaXJkLVNkV0xDdG1XMW5kVlo3REVQOXlfWk1CNVp5NDZDU1B2dEpSa1RtVE9rWFpoNzlZdFJuc1J5MURmU3pSZzhERFJQd0p3aU1vTG5CY0Mya2xoZnFTUnU2NFotRFZn0gHAAUFVX3lxTE5ra0plc2xjeDZ0ejhnZEtXY1E5c2dWYmRtMC14RWNacDRzNmFYZXZGeFB1dWJoalhfZ2tnWW1zWV9ZN2ZJdXZhZzFCbGlHNkozQ0RjLTNwZDJvd0NSdjNGakw2UjNNMlZiOGVsbkhlb2JsclA3TUJIQWpFR2R0QlpqclBtS2lLRUhBYnRvX2ZIWjlmRUVHZEpmaUJzLWprUFhZbC10UGFBMnVfR01idm12b1hlSjVybldKd0todkR1YQ?oc=5",
@@ -442,6 +479,23 @@
     "country": "South Africa",
     "place": "",
     "flag": "🇿🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d96be9455f",
+   "title": "Princess Diana's gorgeous twin nieces Amelia and Eliza Spencer wow everyone as they support cousin Prince William at event | Fashion Trends",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRlpyS0RrS0MxSVdKVWNYN2J6VFE4UmZpdEtQR1JxWDJIdmdEU3RpZzFIVlEwZ1hpVGNFM2p1MDNGQ1JkVVp5ZU12RnpVNG9fdGRBSHJRb21OWEltWC1YNm5tcm5ONmFYd1QyeWpIUTdLWWtUdDE5RkRhRkZLRGduaEd0NzIyM0dDdVhOdFk2VEVuVWloMEtxLUlycGFYTjBiMF9sUHJFcVktYnFmM1NlNERwVzVuRkY2S0ZXSTJuQkhoS3Y4a3g0YzBXWWFSNjRlZ3VKYXVjS1o4U1YzZ0p6enBYWWJ4di1YT1piVnBxcll0N2dtQ2Y3ZFg1d1RKVktBQS1MOXdZaXFfUjRPdXpZMUgwNWZYSDRzbjVN0gGgAkFVX3lxTFBUZEZiWTBHMmRueXdqenFNRUh6aERtZU94UE9sZG1EOE01R3hHMmxaYVliazZVN1ZKU2IxNWJUUVpYLWVaTmRzWjlFeFNweTg1d2FkN01pelIxTlVHeXRQWTF1TjZheFMxZ0RvQ2dTVHE0el9CbUZ0MTgyQkhONWtHdXdNMUFyTXlfUVBUZkZIc0ttc1VyMHJGa011UnU5M09RUTM0d2dueUdzZ3paWWRoTDl0WnJsNlFtektBRnJnS2pwRXQtcHJpak1McWltbURuWGhCUkR0S3lYSXZpcWlYOFkwS3JJVmtNYW01dDhxQjZxcl93c19tT01sSlJOTmwxTWtwVUI2dkJxVzhSTkxndDk4QUhkZ211b2d1ODAyZg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Hindustan Times",
+   "region": "KE",
+   "date": "2026-11-13T07:13:18+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
    },
    "topic": "Society"
   },
@@ -463,23 +517,6 @@
    "topic": "Tech"
   },
   {
-   "id": "68d1ea5d25",
-   "title": "Why the Redmi K100 Pro and Pro Max have smaller batteries than the 10,000mAh Redmi K100",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDBkOUt3MGR2bGtzVFB5eGl2d1FqZ0duZ2poMDdTbVBiUkYtZ09rT0tnbmFtRmJsWjVDSWFWU0xCV0VFc2diTkx2RU55eXFYbGN5c1ZJNnlPTnBRWTV3S1NtcEI4djN3enY2ck91b0V0NzhicDRQR3RCbDVKVDBtX2swa3MzOVk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Techish Kenya",
-   "region": "KE",
-   "date": "2026-11-12T22:26:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "550f141576",
    "title": "'Smartphone Pinkie...' Signs You Are Overusing Phone Use | Vantage on Firstpost",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEI4X2hpc1BQektOSF9XYWQ2UUJic0ZjTzNGa2tOdmZPeXVKUHBJZ3VyRUluUFVpR3BKWWpXR1JpWFNBVk5oMGdxc01XQVJ1OWo1MWF0XzBrYS1TNFNEQml4UEd1WDVGV3FDNThsbUg0Y0l2ZS12VVd1OFk1SDFDVEdBa2NvRVN1MUlTLTZhOVBYNFJpWUlSRzMwS0ctNWtLcTlYaVlYMUc4eDNnSzFpMHMzZGM0Vkxj0gG-AUFVX3lxTE5KMTVVa3NwWkVrVmU2TGNrTFhTRlphYURBbmoyNjhWV3FqUTBBbGNNb2pBVTl1ekp6cThyRmZwRV9SbkhsZnlaUkw2SnBZVjB1OXlFMkVWODFxRmFnbS1rM1FBRDU0dWkwbGJ1QXhMWGY2WEg5ckMtNGhaZWgxbW9nMXg2Rl93MHV3Qm5mSnlhRFlQUmc0UFllTEpwZVNNZ2FWd0tBUTFwRlVmNVRkWjg0RVlmYXBXOVVmdmpNdEE?oc=5",
@@ -493,74 +530,6 @@
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d35a19c589",
-   "title": "Ladies Amelia and Eliza Spencer Are Electric in Silver and Gold Gowns at a Gala With Prince William",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnZKSDJLTWlpQUE0WHk2LTUtR2g1Z25YTzNzMTJSUDlfNjlVR2QtZURKYThINllobGZFNGxHY1pkSTF0cFB2WVQzQ2JMb1J1dkh2a2pLSDVEcXpBVTZ6LXhkTkFEc2kzOUZNZGRMUl8xVUNpUzhyd0pmXzhrblRIUEIxd3A0UHZ2SVRnV3FoTk0tWmVyR25HRldBT0w2MGdERjBRZlBHSGFkdkFnUW1XNENLZjE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo",
-   "region": "KE",
-   "date": "2026-11-12T16:33:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c3d7cfc7f2",
-   "title": "Mudavadi heads to Ghana for AU talks on sustainable financing",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHM5S0xWaDdXbVBzS0x0OWFZMERmcHpSNGZVMFUwa0t5VktOVVo1RXRRQkZWM3JGeE90UmQtVXgtd25uSDBmTDJ5NzRzc25TcE4yRWdLLUE1MVRTM0o2TXA5eHVXaVBiQmFTd0YyLWM4U01FT3djMlQ0Nm1tN0kwWHlyRUZ4Tl90N1hJd1l5eHhXNGRHbVJVbjAyRTlhTDFQb3VxZlRBVW5VZ2JzVmFqMFF5eERRTGVKM05ZRlZB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Standard",
-   "region": "KE",
-   "date": "2026-11-12T15:31:34+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "58f924cb77",
-   "title": "Mozambique: Number of Arrestees Allegedly Involved in Bishop's Murder Rises to Four",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcGNRRGFkVlQ3a2liZWQtVUphbHU5ZmJKbW5mTWMyMGlTWDd5bVpaTnI0Tzk4OVppSlhnRE92ZXFfSV9TMklnelJuSm5XWlpDejNmZXhnVUlrdVU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "allAfrica.com",
-   "region": "KE",
-   "date": "2026-11-12T10:48:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "427fe22193",
-   "title": "Across China: Int'l experts explore ancient Silk Road spirit via modern development",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oSXBld3pnVkptbGp6VlZDMFhpUUp1ckZKMWRFT0k5c2ZPQXl2UEFlOHRsbUxKNkpkYjNxUU9TV2FsajAzZHlCNUtNTGtTcHR2WG42aGNQUDhpNGFUMVVKS1ZFTTA1dmJ4RDQyVDdXOGdXeUdoeTR1bHk3Q0k?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Xinhua",
-   "region": "KE",
-   "date": "2026-11-12T10:32:31+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
    },
    "topic": "Society"
   }

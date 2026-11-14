@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "NG",
  "name": "Nigeria",
  "stories": [
+  {
+   "id": "0dc80aa585",
+   "title": "Anambra, NDLEA Partner to Provide Youths Alternative Livelihoods",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbG9UYTZWWFNIQVFKcmJ3NFNGaTY4TE1wemlrUVE4aTBWU2xwdzg0MnJucTBPcHJtM2JMdlJPZlZqTUg5VzZ4ZmU4X3BaU3E4RXBKZ2YwVEdmeDYzZ1VxLXgtc0FQMk1TOHJQLWc0UEwyOXZtWmI0bHozZWNobjB1Umw1Yy1yY2RSRWVz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Voice of Nigeria",
+   "region": "NG",
+   "date": "2026-11-14T10:06:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "0d765f4051",
+   "title": "Discrimination of ranges of closely related RNA targets using CRISPR-based detection assay developed using machine learning-based optimization",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oX3dLdXNwYnNiR1VBcURoM3BZZ0dhaXczNU1GVi0xQ1owczRuYW1BUHZTdGNMaXZldUpMTkVIU1V0V3JiMUUtYzA5Q09RUlJqOExDVnJKYVVsWHFqNmVR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Nature",
+   "region": "NG",
+   "date": "2026-11-14T09:37:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
   {
    "id": "a33a322211",
    "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
@@ -17,23 +51,6 @@
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bde5d95cd1",
-   "title": "Over 9 Million Years Ago A Whale Carcass Dropped To The Seabed. It’s Just Revealed A New Species",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzBqMnBqc0pyRW1IU09pV0VjLVZhekxhYjlob2RpVkVsNjZheWxtT3plTUlSQ182ZS1mTy1XLTVITWpaV0ZSTm9VOTd5TnN0VVZaRG8xLTJiYVBpeEZHV2RQMlRPZ2FRTFBaeWk4VU9GUnFEWDJFenQ0cHhseHdDbF8zQ3VKYzcycU9Yd0dKX1N3N3VCRlZGSEVZTlloTWNRdWZlTlM0Ni1oa0JvdjViZldnRGVMam45S3Fkd056UG8xb2Qwcnc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "IFLScience",
-   "region": "NG",
-   "date": "2026-11-14T09:08:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
    },
    "topic": "Society"
   },
@@ -72,19 +89,36 @@
    "topic": "Society"
   },
   {
-   "id": "be6271a0c0",
-   "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWklFRmpJamZ4MHlORGd6WWhIbFlGdzhlVE1Ld3JIeHZ6M0lVMWxGTmpSdXRXWTdJdnJpMnZFVTM1Um5fR2VxeWtwSlB3eHYzRl9LQjR1YTdrNVJoMWFnWXcyR2s2RTB4YkxTVmVUM1k4Zml3Y2F1aUQ1cDcydUZ0emFHLTNiZUtBb3drTXhBdzl4d3pJ0gGaAUFVX3lxTE9ZNnBOc0lmWjlfcURIR2VtdVVsMV9fcUd2Ykd3emJFZnpud0piMmF2MGc4TFh4ZE9LaUhrd2hCUHFxaTFIbjVqZGdsdWdYanhDTVFVTWpzZGZpUmZBcFNjaFM0VHRmeE9Pb1NnMk45bFM2Q2ZKMTB0S0w0Q25nNEtpa1h6OWJsWmxOOEtIMVhRS2FuemdrNEpMbVE?oc=5",
+   "id": "b777a0fc85",
+   "title": "FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2MtclI5aHBBd1J1cTI3UGUzYnRvS1hDTlM1MENUZHk1M3JoMTF3RzhNWEJmYlk3NUt1R3pCQndUa1E0bGxSV0JFSjJPcnNCTTJVR01NT3ctdHZ5QTRWV2FzeG1kU2lvOXhKT3RXcDBKYWh5bDg5eC0yS0tvTzI2NnhTVmZuR2p2blJZWW41VElnYUpacnlPYXgzUXpHUjRacHp0dVoxMA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "The Guardian",
    "region": "NG",
-   "date": "2026-11-14T06:41:29+00:00",
+   "date": "2026-11-14T07:21:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Nigeria",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "203729145d",
+   "title": "Suspended Anglican Archbishop of Akwa diocese Ibezim withdraws suit against Primate Henry Ndukuba",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGtMSkdXMEZiTm5qWHd1RW9USExKNm9QaF9BMG85Xy1pNEZ5cmgwNHhnbHdVdHJ3LXo3MkRKeVIzTFlkeG01VnNyRXJUbTJGRFJQWnU5aV9MT19OZDdiZ3Z3TTV2MkxkcVlyN25Gd3VxUl9XUHJORzFWem1DVmo4bjB5YVlubWtZOGt3SjhXV0podDNaajg0NWx6TjRpd1g1SUhUdGxHWG56enVGazMtMmkyX25mWUk3U0tsWmRR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Peoples Gazette Nigeria",
+   "region": "NG",
+   "date": "2026-11-14T07:07:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
    },
    "topic": "Society"
   },
@@ -126,48 +160,14 @@
    "topic": "Society"
   },
   {
-   "id": "f77b1fbcd1",
-   "title": "2027 Elections: ‘We Shall Not Tolerate Irresponsible Conduct’, Tinubu Warns",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHVyajVEbEtBb0dGZTJSRjZSOTRpVllXTWswZEdrQng3NWhsc2puWkg4c3VLTGc3MFljaUlUczVlZGhwcmI5MDJGM2UxWGVOWEVJdmFnc0ZjQVFoZGVKWENNcGF4X1VZNmFoN0dzUUpTMzV6MUxHVzdsZDBSUnhRZzhrNnRDR1plVjJCQXM0R0QyLWpmUWQzZDBtM09XR2hKSVdSMXlRZ2tkdk1nTGJj?oc=5",
+   "id": "100c56f3df",
+   "title": "‘NDC Lagos senatorial candidate hospitalised after attack’",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGR2c014RDVtMVVIT1E5VEZxOHU3RFA0VWxRSHFDckR3ankyd0IwV08xQUNrb0g1RGRvR2xYZFh2RkZNRDFDRG5SeGRueVlNYjhVcFdYU2xPOFozelFpTlluNl9PdEw2RXFpUE5ndnpEMWZEbGVRaTdyQnYzODNaaTVjZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Channels Television",
+   "source": "Punch Newspapers",
    "region": "NG",
-   "date": "2026-11-14T05:08:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "58517c1952",
-   "title": "2027: Presidential choice exposes widening elite – grassroots divide in S’East",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmpYd1FwaUFQOEg2T1RhRWVyVWpmRU11Y0FpT3JVT3hZWG91NWhsTFlWZDlrNnVBQ3NnOE5Ld2xVS1R5MG82dzVnOWNRZWhSU296VlRaMng1U2Z1LXFlLW40VlpuSnVOVG9GOWpTMEx6Zk0wazZ6WjdaUkRKbl9BSFFNblVubFZGNkhYa2NWZC1yeElsYmEyMkRRbVlDSWUwLUd5SGQwVUlISHI3Q3JUVtIBtgFBVV95cUxPM1V6SUxfRi10aWZjZUVDNm5SQ3R1MWVPQjZCOTFzc1cteVlGa2RJcTlMZG5aUDUwREYwVUxhdTdQNlBjdXExVXMwWmR0ZGRSaWs5dEotUzM1QVE3N3YzOTZyOVNJWWpSZ1MxdHFjY3hRMjVqMEN1Uk1ScVZRbFhvdWpUdlBQRXVwS2RUNXRydzJqQ0tMampnbkpRc3UyTTBiNDRHdFM0VzUwbzRpNDBBNExaZ25PUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vanguard News",
-   "region": "NG",
-   "date": "2026-11-14T05:05:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Politics"
-  },
-  {
-   "id": "a1653ed7d4",
-   "title": "Nigeria poised to lead new era of health system transformation — WHO",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0pLM2M5bHN1S09KSkJQUDlNeS1zc0t5aVBpUWppc2hHSXU3MXlWSUtISjdPcktESGFycG80enhkUUdjRkMtMlJVNDREZnhMRDNuVF9aM3kzUVhWb0JzZUpJMVNXa05MUUc5bzlNbnZ5dWVvX252dUpZQVp5WWJMQTdNV1RlRlhudGVsNVRfUVEwd2N1cFBBbERqekQzTjJveTlRLXJn0gGrAUFVX3lxTFB3TU9fVjRITEpZTDJMZGpoOXF4Vmg3LTBfSVdpdVhDSl9ia0k0cldfYzNMVW9peUxWX2dMMVo0a0lPRGtiMVh0ckU1ZTFMN25RS1N0U2c3Z0VYNEx4Z3dSdHJwdXpUZi13YWZEY2FXRjYtTEVTWTd4aHYtVE5uekQ3Y0ItQjhRc0Jrc2ZXOVZ1YktpRjFkZ2ZrNWFDZUZfRkdNcDJ5YmZQQmRpRQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Vanguard News",
-   "region": "NG",
-   "date": "2026-11-14T04:59:11+00:00",
+   "date": "2026-11-14T05:14:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -245,6 +245,23 @@
    "topic": "Society"
   },
   {
+   "id": "08a962b378",
+   "title": "Save 50% on the WD_BLACK SN850P 2TB SSD and get all your games on one drive",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tQ1dQbm5CVktuYS1QUmtiVGczZ3pKRGV3LVZpeC1Rd3VpYmhldXRhaGdCbkUxUGluZG5mWGgtQk9NR09TX0FRZmhNN1pfUndMaGFQWlkxbTFzSUxQQ0NHY2h2VkdHUnRyUWE2eWNtU2hUa3M?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "How-To Geek",
+   "region": "NG",
+   "date": "2026-11-14T01:32:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "a540df008b",
    "title": "US officials say violence against Christians persists in Nigeria one year after CPC designation",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGthdEVNbms1dzdVS0dXdnVqRTcyNHdPU0N0ZDA4cm05N3RqOW9kMU5FU1VZa0k0amRtVGJaTHJJSkhRMU1CZzJ3WDBNaGl5LV9rM1FQZTJVaUtkcHBaT3VqZk81MkpjYWRidkNzSkFWZ00yN3FkbWQtSDdSNl9PUEVfSTlnMmZKZWo0a2IweFl0bFJ0QUtUYmpiMmNTVUtKUWJhMU5uZE9yR1ZGM3RHb2FIY2diTXY4dGxabQ?oc=5",
@@ -261,6 +278,23 @@
     "also": [
      "Nigeria"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "36d2bd59a5",
+   "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVQxTWhyeEtGN2wyV0Z5a09NVVpzMlg0VHJEQ3VNTHEtSjQ5dDc3WFdTR2FFTFNTV0xFdm9pV0ZsTEhjdFV1NVRPclpMUFJWdlEwZnJWSkhTanlhTV83d3lkcXhOVFRDTHBLelgtdk9UbFdyZHNodXQ3bUEzTHd6UldYa0tOdjZoOUgtLUZ3UjhRYzg4NVBfc20tSVdJRlBoSTYyRWExVdIBrAFBVV95cUxNZmNXUkpQdVBiZTcyNnNDREpwUmt6TFJVd2pLOUxSZzVBVk4xTDFYM3diRWNLLUUtLTNOTDFJWk1zOWZoMmx5QXZPaWVFTmZTMEtRdnBQLVQtQWFqcVFWaWRfNXU2Y2s4a2xDVkdEYkE2d01TOGZnZjRaMzVZMzhDVGhYYXlTRzRGWlBTaUNyYkFYVGxFWDcxSXdrRVlfY2J0RVRZcDBxU2JnVlJB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNBC",
+   "region": "NG",
+   "date": "2026-11-13T22:06:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
    },
    "topic": "Society"
   },
@@ -299,23 +333,6 @@
    "topic": "Society"
   },
   {
-   "id": "337da41e02",
-   "title": "US and Private Sector Freeze $2.7 Billion in Crypto Stolen in Binance Heist",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMHVadDdaVlRERXBkMnNHclVhMmxLaDhBalpNano1QWYyMEJiLUhhSnhQTGRIdENZVExOZW91ek5rMzBJYVNiSW1wS09odzZJY3Q4TzFIXzV5WVVJdmh4QkVhQnN5NjdZLThVZGRsV0FOX0dtNXhxRzUxejZWZkNRTTFXRC1jekI4MDcyZ3FtcHREMTdXX1ZCMjFya242VGNsSkppc09QUlJCc0gwMEJvS21Sd1JYdmY1dHNZbHkyS293bEU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "PYMNTS.com",
-   "region": "NG",
-   "date": "2026-11-13T21:05:07+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f662864869",
    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjdnbzJ4YzJuMEJKTkNzNlBvbGhWa0RxS0dzQk5DdFB0cmFqcnk1Zlk5eElSWl96ZWFvYXVfbVp6NFlHLU00OVRMYnQ3N1h0b3U4OXdabU1ETGczSzF4ZUdCeUE2dTQ2YmpabVYzOTZJX213d0xSbHF3ZkZ0Ym1pZ0xQYkwxMUF1VzZ5VFJ2dVhobmZ0QndKMlNLZ016LXhzWWo0UjhyckFYeWVRellhTUpxR1hDanVZ0gG-AUFVX3lxTE1QcVRlaFpGcjdJZldKWnhXdzRhVUlfeGV1d3VSeW10d2NVdkdTbV9kWmhabWI1djlSUWJPa0NpanhUOERJM25haENuV09MbDdDemdfOWEyZEx0eUkxVFZQd3JCQXRMWDY5Q0pWS2gxRVJENnFxMWp2aExnQmxRZGpZd3hlYVI1SXlIRkNJajlEaE51R0pIMlpURWxOTlcwNjNKcDBXZ2QyYTkxcFM5SFd3dWtkUjN6RXpHYjFSdUE?oc=5",
@@ -350,6 +367,23 @@
    "topic": "Society"
   },
   {
+   "id": "c011261507",
+   "title": "Kano confirms 12 diphtheria cases at boarding school",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaW1DOVFRRU5weGxtbW90b1Y2ZGY1Xzdxd2xSYTV5US1xSlpBb2QxbDNDUmF6dzZqVmE3X0Nzc2huY2p4ajQtMEZWRm84R3hiVHg1dUU3eXNHaGhleGE5TU9GNmZfeVpqZ2U0T2IwVUZqSklIOXhBSXJaNEs0RnB0WnR3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Peoples Gazette Nigeria",
+   "region": "NG",
+   "date": "2026-11-13T19:50:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f7f30ff831",
    "title": "Latin Mafia’s Fan Engagement Masterclass Leads This Week’s Best Music Marketing Moves",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXBSWHFXUUlWVEFoc283T3N6cVhwXzFWb2FtUE5ZYnhBVkp1TjJ6TndjeHpIR3d5ZS1hZndiazBoSmhNM1RsakRqNzdoTXFseW0xMENvaUx6T1dFVFB2YTJNd2xWbzdENlI1MUd2UW85TEhMdWhTeERMOVN2Uk0zRTkxd2liTXNCSXg3dGhrS0JDd2E5elpsYldyZld3UDk2MXNyZURKbw?oc=5",
@@ -367,40 +401,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "eb8b3b0f76",
-   "title": "Fresh Diphtheria outbreak in Kano, boarding school affected",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWEtQ0c1dlhObjZQbFZSUk44TVVDNG9oelhHYzJFaWhKcjhnNzAxY3BtQ20yaWNzeUFhSzZUM2VDRUYtUFZEWFlYNHRaNERoN2tscjBCQVhhNzM2UENtOW5RcmFjUVhrbUUzcUg2ZE1LWFRhLWcxVTI5OXJiYXhoV09KZUNkSl84Y2c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Trust",
-   "region": "NG",
-   "date": "2026-11-13T17:15:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4eb3e45051",
-   "title": "Archbishop Ibezim withdraws suit against Anglican Church Primate, Ndukuba",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzFhZGdBUG9DeWdVcnhRRGc1aVRvZEFwcm1uVWxDblE3akNrS0NIcl91QUlaNnVrY0JRUzZNTmRITDhscVlRTzFMQ3hORllKWUNFYWFvSGtOSWtJSnVVSVdjR2IyTjRFZmdyaUZCYTUzSG9JcVVOYWVkcVBxaGE0OW1mcXFYUG9DVVJlcHhmS2k5RjdsR2Z1a1g1a281TktQNmV6d1JGNDA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Daily Post Nigeria",
-   "region": "NG",
-   "date": "2026-11-13T18:56:55+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "fcbc87140f",
    "title": "Bitcoin Slides Under $70,000 as ETF Outflows and Binance Hack Shake Confidence",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vYXdoZTZkclZvZ2xRYUlnZ1VfOXFjRkgwcVlpRDhRUmFEY3EyTldiSTdhblB6MFhaYTVnMUtSZTJldVRNV2tGYjBmMVB2bG1aV0hPRFZ5TGtQZnV2Q1h6bmlnWHNOOEJ1ckNfQ2ZGOW5lQS1oSGc?oc=5",
@@ -409,43 +409,6 @@
    "source": "BigGo Finance",
    "region": "NG",
    "date": "2026-11-13T17:08:35+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d3179dae8c",
-   "title": "Nigeria’s U23 Dream Team Chasing LA 2028 Olympics Ticket against DR Congo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckhNQzIteVZSYmNJVmR5dzMyWjNNQzZseEZDSWRsSTJZSTRaWC0xOWxTRTYtVUh6MEdDQVNjQjRHY1ViSEk3LWJuV2pCcGdaR3lCUFRfX0Vncl81bmRnQXpjdkxlYVcyQzlNcWVodERqVmhCY0JyN0R1aU9xWVd4M2IxT25tRGd3T05ibFhuQUNBLXltWC1BS01pMjVNSzJFNzE2WFpYT1BVNWh6eGxXMlRB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "THISDAYLIVE",
-   "region": "NG",
-   "date": "2026-11-13T16:02:22+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Nigeria",
-    "place": "",
-    "flag": "🇳🇬 🇨🇩",
-    "also": [
-     "Congo"
-    ]
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "4b93fcc5c1",
-   "title": "Davido Joins Forces with PUBG MOBILE as PUBG MOBILE FLASH Launches Worldwide",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSW1tWXlPOWV1ekRrSHI3RlQwczdxVHItTXBiVF84d0JpOVdLNFRSZHhvVFNQTkgtUmRrZWdEak5ySFhaaU1XblRjZi1vRF9vdnJ5S1RpdzBQX1RZOEF1RWg3M3oxODY3UEpMUzNoaU5VUWJ3SHJ2dko0M2x2eWJCdEoxODFia092WjA3TmZiaTljZ2ltLXB3cS1xVkVEZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Punch Newspapers",
-   "region": "NG",
-   "date": "2026-11-13T15:22:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
@@ -472,36 +435,107 @@
    "topic": "Society"
   },
   {
-   "id": "5ee9cff532",
-   "title": "Dangote Raises Africa Investment Plan to $70 Billion by 2030",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzBoaGFiMzZUbUNWM0ppdHBwM0pJaVZockF0VTROaENZMmI4VVlUZmNyYmV3NVJXVXBTWWRSb29uM2w2QnVzRW1hNXBrb2lEcV9BVFhyMmNtWkdFSUZFSHd4OWo0UjVpZEpzWGhJaWNBZDZXR0U3aXhoR0ZXa1JFbmtkdGNBRmZNWGJtdG53YWM3N3hGSFF3eDItaXhDZ24tYlFJek5GeEdhZzhaQUJz?oc=5",
+   "id": "39cffcb663",
+   "title": "LinkedIn Tests Frequent Profile Viewer Alerts for Premium Subscribers",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGaWNWeHBuQnpFTFNFbTdjYWs2cDdmNVVoZkNrMTBXMlc2RTZVdTJNeVhwdTdWU1BuY19SRk11WTVWU2RwS01FTGUxY1FpT1VzWlZzVVlKNFNOdmptai1QWmFmYW9xd3JySFNxZERfOFpTbm9FY1MyWnJB?oc=5",
    "summary": "",
    "image": "",
-   "source": "Bloomberg.com",
+   "source": "Tech Build Africa",
    "region": "NG",
-   "date": "2026-11-13T12:32:20+00:00",
+   "date": "2026-11-13T13:24:03+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
    },
-   "topic": "Business"
+   "topic": "Society"
   },
   {
-   "id": "a48cec7c3f",
-   "title": "5 smartphones with the best zoom cameras in 2026",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGRMSDRWcU1FLXZrYUJRejMtTTJSUVhkb2JRQzZfV2NaRm1EaHVjbDdmZVQ4TjB3TkdPdUJnazg1YmJCMWdRd0JsaGFtUmxHdVdqdXZnRUlwaERac0RwdFRJSTlkUjMtS2Jhc3JHeFZOY3VrUGdzTkdxLXFOU3dnY19IS1hrb3BXZGI5c1RR0gGTAUFVX3lxTE1MYnBDRjJYTm15U2t4MjU0THBwV3A1T090ZE1mSkZWMmQ3c21tbEhiZGlOZlZweEJEWEI4WHFJbF84dWNrWm5FNDNmZUtkZmV2U2RkWXlaYmJNcmlfVFRoZFRQMUQ3dzExY2hMV254YmF1SjFXeVFkWjM4eFBWUHVpMDhjQm9Bemc5dTZoTWtjMkZrQQ?oc=5",
+   "id": "529e95ce13",
+   "title": "PUBG MOBILE teams up with Davido as PUBG MOBILE FLASH takes world-class gaming to more players",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaE1DVU9QbE9LNmNiZXBGUF84bUV1Rkp6NUx6RVVKcHhVaDl0WVNSVzU0aENWV2pHTVJ6TVlEVjQtMF9iZGJHcC1nSExMUUZDSzlmWWthN2hBcDYxclgzdVFrdDVHRU5JSFB2NE80NHY5UldSVTQ0emRvUU1aTlZsWWltODVwLUVPd1ZxcWloS2NFSnR1SU1KZ25iZGk4VXRGWGxFMGF2TENZSU9KMWFzTGloSVZRVkE2R1ZmMElqQlR5OTVs?oc=5",
    "summary": "",
    "image": "",
-   "source": "Vanguard News",
+   "source": "The Guardian Nigeria News",
    "region": "NG",
-   "date": "2026-11-13T09:31:01+00:00",
+   "date": "2026-11-13T13:15:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Nigeria",
     "place": "",
     "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "da5398e305",
+   "title": "Portugal squad to wear No.7 shirts in ultimate Cristiano Ronaldo tribute following international retirement",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjR244WlhibU82UXBHVmxYQnh6eWZ6Y1JvTDM4Q0hYQVNSQU52TElsZGxBSVllb054cmsxSnZJd21MM1VNWjFBZTlyRnMzeVI2TzJMSFc4NWw2UlE0ajZPaTA3MlVCRXpiNV9oYUxsUUhDc3IxdEhGWnkzdFZJQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "NG",
+   "date": "2026-11-13T12:23:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Portugal",
+    "place": "",
+    "flag": "🇵🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "3c178368a3",
+   "title": "‘They used us run ads’ — Phyna blasts streamer awards over Carter Efe, Peller’s loss",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlZDUzJIeDk1dFV5blIxTm4zNExYd09wRDM0S2ZWbHZWMW5Ydnl0LTZqLW1EdlpIWUY3TVJscVdSNlJPNjIzVlJBUGlqNHdVUk43S25tSEpyRUdoUDkwYWtSdWZwcFFXaUdnQ0o4STF3YnVQaWhBNmhvNXdkQjlWVFp4RFZxYkFSbkpDZjFnQVZMX1hPSTZPN0EzQS16dnFQclBHOThHTzhBLUExWkNlYg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Post Nigeria",
+   "region": "NG",
+   "date": "2026-11-13T06:07:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Nigeria",
+    "place": "",
+    "flag": "🇳🇬"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5aac2174c2",
+   "title": "Apply Now: Gwen Ifill Award for Journalists- United States - fundsforNGOs",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY2toLWtSc0QzQlNsbEJLZWpWWm52N1hMV1hmR29IWC0tNFpUcWlWWkZrZ3hBNTBubm9Pd21ZNnZfYXFnbjlSVVFaTVpmcFd2MXQ4RWlGQ1BSU25pbTBvdjI4bGxxdjlVZmdZSVF3Sm1Zb1R1RGJtZ1YzSVkxeXVaVjBkWTFxUi1kaEp3QkFjcWt6T2NieTJMRWxhVdIBoAFBVV95cUxNd253R2ZXNVlBbnNLeGZKTDVGWTZmYWNCZnJyT2hBVmdMRWFTY3JETFFka0NPZE9wUklmdkhxQmthV3daU1JhZDd4a1ZJdmVWWlJHcFdpUWhPOTd1aTBUdDJpUlQ0Nm5KVl90dmdtRDQ1aU1vQkhMVFhYZkRWcWliNF82UExHa1IteHBwUXluV0ljUUdva1RQSnI5SmdiZzB3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Grants and Resources for Sustainability",
+   "region": "NG",
+   "date": "2026-11-13T06:00:56+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "947ea31b0d",
+   "title": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZWM21SNjNsMVEyeEU5MWxSMkh6Y2JiSVRkY1BqNVUtNkRBV1lyN3pwUmwwZDRiVU1Pb0hibnQzWmstYV9OR2VWV2ozSmFsRU92SHptbnhKejhkWWsyaHhGd09fdTZMVnZnWGYwVTBFWkp6NTNNYm0xTVp3STB3c25JU1piTFVHT0V3aFp6dkplUEZETnAzS3RFUFlaZ20yR1JEUGhGM2E1YjBYYTk2V0VKclRFWkZJcXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Zawya",
+   "region": "NG",
+   "date": "2026-11-13T04:11:35+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇮🇷",
+    "also": [
+     "Iran"
+    ]
    },
    "topic": "Society"
   },

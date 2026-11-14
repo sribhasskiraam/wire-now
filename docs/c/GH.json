@@ -1,8 +1,42 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
+  {
+   "id": "7ace39a941",
+   "title": "Ghana considers more contributions to AU - Ablakwa",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWtmMEZSa2htTFVlV0Yyal90eGhhVEVfVVdIRWprS3JJRS1SeUtHTUJwQTJ0ZXZPUXBXSkFGa0ZQUE1hN2N5SlAzV1llN0tiUUJtTDhPVXhINmNxZGNTdWFsWHMtMHBXMWs2WU1udjNNZmhwWUJxX3pxZE9KWWVBaTlDd2Y2UElnc0pWVFNJZ254N2ZMY0VpQl80WW9CMVhKUUhIREpfb0x0QXJFQlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-14T10:13:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "01a85f4bc9",
+   "title": "Abuakwa State College faces infrastructure, staffing challenges - GETFund projects stalled",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLURPZmNTaDNnY3c5ZzBlZjNlUWJxbG1PZkVBcFZSclNyd3NlR1RpblhyUTZUbFFFZ0R4YVVHYmlNZWpRX2VkS0hwZXNOREV1TXJiZG5oQTZ3cGtobWJzOXg3Qk9rb3FJSVhSdFJqQmllbGg5SE40cWxQOTlHZ1lpSG8zMl84NDBBQkM4NVZvX3JzVUJHMEozSzZmYV9ycVNsXzlTSXJmTWkxVGRKZktObWRiSzlqYk9MSElNR3piaEJwMl9reDJwWTJIVUM3QmhILUY5V3BJTXhWN1h5dm1WUzhn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Graphic Online",
+   "region": "GH",
+   "date": "2026-11-14T10:13:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
   {
    "id": "16889d4369",
    "title": "Sam Jonah makes case for revisiting Acheampong's Union Government idea",
@@ -55,23 +89,6 @@
    "topic": "Society"
   },
   {
-   "id": "c6e93f5852",
-   "title": "Send one prompt to 6 AI models and compare their answers with AskAnyModel for $31.99",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhxeWVNMjY0WWhlamR4WEN4TzBEWU51OF9VWUIxYUs1cUxxczJPZllCeFZpTXFhZmRIQ3hvMUNQbUl4WFA3NVByODlSWjR1VzVrXzFkZjM3UF9kcktKU2VOQW1yc0RhbFBGd0hrNlg4dzhVT2N6bTJLNVZQS2VMQkFnNXM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "GH",
-   "date": "2026-11-14T09:02:14+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "083b8296c1",
    "title": "2027 Budget increases household burden - Minority",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcTZnRXA1TGtSLU9XNEtVY1hxNGdWM09WSENrSldRV0VoZ1l6bDRJc2VRNmhFZlZxUDJRRlFBZWtVckpsN2JzdVU2RFdET29TcGdnUE94aXNHZWhPa2tjcXNSc0NLSGQ1V3dVQ2lha3kzY0tjdnpaMW5hQ3lSUlJYdG1yVWROa1M5bkpMbjFFQlRVVUE5anV2bjlXVEJXcU13LU1jT2JUOA?oc=5",
@@ -87,6 +104,23 @@
     "flag": "🇬🇭"
    },
    "topic": "Economy"
+  },
+  {
+   "id": "84d60ea026",
+   "title": "The ASUS ROG Strix gaming monitor has dropped in price ahead of Black Friday — save $210 this weekend",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRkt2Qk1UXzljSG5ZaFJ6M050NGtfNF9yWVFBYWJWbHdoVFYwS3JKLUpIcGgtNGRLZjJKVERPWGxNb2d6dF9IVENmVW92MVpVdGxybElOS2VMbThtelhnU2drREJCeVB2d2NmUlJ5VHFvb2pQQWVZSFZiQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Mashable",
+   "region": "GH",
+   "date": "2026-11-14T08:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
   },
   {
    "id": "1c18f0257a",
@@ -145,12 +179,12 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SEtGenMxM0pEcm1vUHhIOWkyeVY1cDVxWmUyX2dURmZlQjc3a0RXNTZWS3IzTVgta1RfeHV0RVJtVVZyWkwxOTVOYXRGdlVTNWlxMkFZRlFKVGVIRURTZTZPRWNIaUxyenRyTmhJU0loYlNBUDlj?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Dezeen",
    "region": "GH",
    "date": "2026-11-14T06:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United Kingdom",
+    "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
@@ -191,23 +225,6 @@
    "topic": "Society"
   },
   {
-   "id": "a4b696ee3c",
-   "title": "Who Leads Ghana’s Courts After December? The Constitution Leaves It to the President",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY1dtTXFCcEpCX0NTb29VRnBTNHh1VHdoLXEtamRmM3k1SGp4V1NHVnFIMVBUdDZMX0pWS3VQZ3ktV1REck5OZG5pUDllLVd2aTdDR24ydHVUZmZvNWZNbENJR3NSd3B6Q2FjQU1TRk9KazVsY0V1clMtZTdUVVB3RWtzamdsRE9ySi1UczNGbzNPZ1JSNi03a1ZPdWNuYUQwdXpWZkI3aEU5YnFXUGF3Z014djdOZWQxVm0yRWtJMF9GQjFW?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Jurist.org",
-   "region": "GH",
-   "date": "2026-11-13T22:49:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "f765282c43",
    "title": "Which supplements do midlife men really need? I take 12 a day",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGtVSmxhM3M2eTNkZjFHWVg3V2Z3WTNBZzBrTExkbGN6Z2g2Zm5nU3JaM0wxRFRzN1llbUVYRnF6bW1WSi1XYlhQTWdfdWduOVFsMnhZR3JDQ3RvSmt6Y0FnSC1LYTdaR2JMUzZmdkpyaVJHOGt3S21XV3owSzlqLVhPNFE0LWhUdVFfblhTbTBXTV8tY2pF?oc=5",
@@ -233,6 +250,23 @@
    "source": "Modern Ghana",
    "region": "GH",
    "date": "2026-11-13T19:35:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "93b38e5a6c",
+   "title": "AFCON 2027Q: Arokodare Bags Brace, Yusuf Scores As Super Eagles Beat Tanzania 3-1",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWU4xekt2RE90TjZpYXB1LUR2QWViVFBWWi11UzhLNDFBUzlPUUxrZHpqcjVBQ1V5eFg2S3NSS1Nhb3ZtQ3JTUUR2R1RNZVZtQVc0VXhKQXdObkRuVUpRaHdPSVFzVzZ1NFZZV1dCaExwcGFqVEUtQUF6b3pfLXkxdEFqZjB4QWVjRF84cUtZYXNKcURQUmdPeDRCUmxScFI4NWR5anJsbWNNVXduamdVNE0xRndwMlJGWDJhRTRwNFk4YXhVSXhCXzlrUC16cjd4cFAzNQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Complete Sports",
+   "region": "GH",
+   "date": "2026-11-13T18:08:17+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -388,41 +422,7 @@
    "image": "",
    "source": "Yahoo Sports",
    "region": "GH",
-   "date": "2026-11-13T01:49:25+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3b4ab5c204",
-   "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjdCQnN3LU51ZVV6N01ZRDk4UXdkTjJfR3NTTkphaXlCRXBoeGZSZnhyVTlkeGRPWU9NMHhRck1WblNROGFFbU1oaVoxWmhFRXEyR0FKUDMtdk0tdklxSUhINDNFWkhycUI1VmlOOHN2d0M3VFRGdjFzdDlQX2VMem1JUzlVdGFrWThpNmJzYWJMYy05UU5LY2c1RDMwdmd2cFk1UW5aUmZfTE5XZXBGTWJ2R1hGTHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Graphic Online",
-   "region": "GH",
-   "date": "2026-11-12T15:06:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3b4ab5c204",
-   "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjdCQnN3LU51ZVV6N01ZRDk4UXdkTjJfR3NTTkphaXlCRXBoeGZSZnhyVTlkeGRPWU9NMHhRck1WblNROGFFbU1oaVoxWmhFRXEyR0FKUDMtdk0tdklxSUhINDNFWkhycUI1VmlOOHN2d0M3VFRGdjFzdDlQX2VMem1JUzlVdGFrWThpNmJzYWJMYy05UU5LY2c1RDMwdmd2cFk1UW5aUmZfTE5XZXBGTWJ2R1hGTHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Graphic Online",
-   "region": "GH",
-   "date": "2026-11-12T15:06:28+00:00",
+   "date": "2026-11-13T01:49:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",

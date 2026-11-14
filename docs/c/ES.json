@@ -1,11 +1,28 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
   {
+   "id": "1354737db6",
+   "title": "La UPV trabaja en la incorporación de los efectos de los cambios hormonales del ciclo menstrual en páncreas artificial",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd1A4aVFPanVTWXhxdUx2T1oxVGZUX212b2lDcXZPc3RVczhVdkZ5M25hVERTa1B3SE8tRFFlUmRZN01scmdnYkhBbkdWOEkyTjROSDJlaDB2UkM1WVNDR0tGdDUzTkJuNFQtWm4yZ3JwbHFvRTFBbDhMblB3Umg5SGdDQTQ2dmVnamlOX29FYzdsa2NPUjJMUks1V0c2alJPckZmRXV4VHBDdVBIaXdQbG1WWDJYVWRVLWI4eDk4U1hfM2xVN2VGMHlDbmF6cjFjN0ZSZjFvbXhibDVna2IxWXpTd3JTdVJNQ2VFdXRNMWhQS2treWJfbEFjX0FCcVNxVHZUdVB3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Valencia Plaza",
+   "region": "ES",
+   "date": "2026-11-14T09:59:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "5caf026d26",
-   "title": "Cómo ha votado España en las generales desde 1977, calle a calle",
+   "title": "Cómo ha votado España en las generales desde 1982, calle a calle",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXlab0sxcUVuOTdIUEhCNHNVUlFUSHhLd2w4ZDg5VFJrRzlhMmwtRlFDMmJ0ckFOMVB1QlI1QXVzWFU3N0NmdTVaSkJWazBtMzE0OTJPMUhGUWVLLXJHTWdZRFZORU1kNkg5NW4yeXphZUtaanBzeDhRRXV4X2pIaHVHMExMc0htSlB3MlJtTEVXazk5c0R2Q29UbmJwdkk1V0JBVERPNkxkUQ?oc=5",
    "summary": "",
    "image": "",
@@ -21,14 +38,14 @@
    "topic": "Society"
   },
   {
-   "id": "ecf17ffd42",
-   "title": "El Festival de Cine de Almería inaugura su 25 edición con homenajes a Enrique Cerezo, Santiago Segura y María Luisa Gutiérrez",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ09sVjRHTzN5djBqN083R1pDZlh6bldLNFZjQlIwUkxyTlRURlFqcG15MGxrZzRTQkRJV1d3SDgtOVFwUFgxVWxjNGh4RzcwWWlXWEFKbkE0MUwyT0pqUk1QYmNpc21VWk5jbXNLR0FtUGdVMVhnZmFCajlIYlAxenQ5WjNmN24yTGlBODNHNkF3aFVxOV8xMTQ1NE1ScU9mOHh5XzNFSVpndUVUa245OHUxdkYwZXZ5dXNGdjlQWVlJZ9IBxwFBVV95cUxOMkNkWDZXZjR2bmhMWW9TaDJKWmVLRHh5UmpaNmZtdUgtbTlBNFNQaVlEMFJzUlZONUR0MWJOYmU0elpfc3dvQ0daaGtZR1ZRdC1OcW9aRUQ1SWhoaVVyQXlmNUtTTVhZUXBpcVZONDg4LV84bnh0SXM4a2hZR0N0bWx6NFdiSzhlaEg1TVNsbDV0aDd1ZHdtQnhBXzd5OXIzX1FiNldFYm11WllfeVVkbG9VSUpPY0RjVjdmLWRnNWxLYkxPbVY0?oc=5",
+   "id": "f40c5f9370",
+   "title": "Uno de cada tres españoles con diabetes desconoce que tiene la enfermedad",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblRxdEl0NkdRMTNoekFtRDE0Y3phd3cta2RWclBWZlp4Y1ZuVi1VNFBPcjM0ekhfemRPd1NFV1B1RXhnZE11QmdkZXZKbjVCQkdoYnd5OWNOa0Z1cjU4WURSOFZ1WEVnS0x6aXJzTXN2cEg0a0JfMUlIeFNlR0RLWUFhanFRcUFYQklKMHNhWjU1U3p3alNGeDVBbFMtZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ABC",
+   "source": "Novaciencia",
    "region": "ES",
-   "date": "2026-11-14T06:54:16+00:00",
+   "date": "2026-11-14T07:47:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -46,6 +63,23 @@
    "source": "ABC",
    "region": "ES",
    "date": "2026-11-14T06:54:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "f321baac62",
+   "title": "Conversaciones de paz entre Ucrania y Rusia: líderes de la UE debaten a quién enviar",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdEFBQWxFUUxwOEtWZHVHLU5XejFBTThfMGRmRkVoc3lwRVF6RzM2bWh4U25lYzJPamJrSF9SWmhTTVhuV2NHeUdabnZWLTNnM1V5MTA2VVp2SkJKS3NiR1VwSDFlX1hhZnlja3R0NXZ3anN4djZjcWVNOFNFWDZHbmhRcU5GSElyMkJrdnFEUlEwY0Y5N0IwRk40UkxLaGNpMzEtZDBYcWVLRXNyNzRTSE9NcGZ0a2RrR3RPb0J6WEtoRVRwS01YYVptbm9sRUNMR1RpZEtSMGVJcUtMRTNfQUdoanDSAeQBQVVfeXFMTzZmZXo5QXlwUGxOWW9HUXBVLVZsc1pLQnctcGtQZWROc2l0VWF6MTdwdnBTb1RaaHBWV2ppVTBYU2RvTWFlYUxoN0xWWndSX3JMS2ZxTUFyQ3RmN1QtUDhDUzJEY2cwN1prLUU3Y1dKa0RJZkN2UkZxN3R6TzV6Y2RXc0loaE13M1dZMGlqMjVqanNpU0RsaldGTlBnQkluanBsN2NHRW9CaWY3X2diTFZGYUo3c3pCZjJQZXVZQy1DNENYTWxxM0JweUZBWWQ3Z18xOG9qTHZuNUxUTWNINThhNGNC?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DW.com",
+   "region": "ES",
+   "date": "2026-11-14T06:48:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -72,23 +106,6 @@
    "topic": "Society"
   },
   {
-   "id": "ec554642dd",
-   "title": "El desafío del cáncer: menos tratamiento, más calidad de vida",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFlJNGZfSnRsQkUyRDFjR0lHN2ZYZEkwcmZ4SEhZSjY2STFOSGVEMlBOZUIxQjJCcVFiV3RtM0ZWZ1Z4Tm9sanNvektPQkQwbWFtUkhETWNwNUZfc3ZLd1NpNy02eUdMMVQtVzVLanVTb1l1ZkEwZHZKblFyMU10b0hOZGtTUGNKQlNNZkk1bWRKY0N1MEQ0T1AwMnBPbm15UE1TZdIBqgFBVV95cUxNWmU2WUZNa3N1aUplVW4wcFluNi1DUEtSbVlBOHZkMXRzRm5hdGpFbTdTekZaLV9LWnN0QzBacDRJZUhJcUZxTEZLWUpkV2Q0MmhBcnpPRm5XQ3lDN1hpR1prdXZSamRweU1id2dySUxKeXFBUU1QRHlFQTNvSGF6a2VYRURkRWpvQzVCT0FtVnlYNjlsUXFRM2huRE1DQmxCVDFlQlc0WkpQdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Diario de Noticias de Álava",
-   "region": "ES",
-   "date": "2026-11-14T06:00:41+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e6918b7177",
    "title": "Cómo los ‘amores’ furtivos acabaron con altos cargos directivos antes del caso de Jensen Huang en Nvidia",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaVJFV2dqakkxdWxHWXA3Y3JDYUpWT1VNX1dSZlhOejB6LU1oQ0JpbFYzNjRBM1djNm9mS1dWV1ZPa1pwVXdqVi1tc1BTc1JiRjlxZVJJVHhtNmowbHdZajRFMnBEU0lrNzhXcThfaUlKVG00Q3dHZTlFYmpKdzhwRkExamxaQjBBSm4zTEJNOHBZaHVWS0lmU2RxaE8zYjVtOVJIQmlIRll2R05UUkFzMmNGVDNtaUhuaWlEUmFFaHVOU3BVd0JjWTBsc0ZvczRkTGZiLTBqRUFaMnoz?oc=5",
@@ -104,6 +121,40 @@
     "flag": "🇪🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "941c8996f5",
+   "title": "Los ictus se disparan entre los adultos jóvenes: ¿qué está pasando?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTY2YmlPMnMwMWEyOVBMZUtMd2RsQlExTlBrSkVKWXF6ZmRSZ1JVZ1dCbVlDejBSc2VNQXJKbUoybnFSdEpVVzY5ai1rZkEybHdjZW1HM0NkU0dDOERaZ1FQSk1YRzdTcmdfWm1nZE1IUVpCa3NDSFVNaWduazFNMU1vUGpGZ1pjS1dEeC1MOE4tVWNycUpUNkFtUWlGNjFlM3lETTFSN0VQUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EL PAÍS",
+   "region": "ES",
+   "date": "2026-11-14T05:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "695ca339e1",
+   "title": "Vox omite la financiación autonómica en un programa centrado en rebajas fiscales y prioridad nacional",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeXAtWkxFLVhVLWN2MGp6dzkyRXNjOFhKM1hQUlhpbUM0SlZfTDFuU1NDWldxX2hRa09QV3UzTVZFaEp3aml3OU1qQWo5M1JVZmJFbFBBTmxlMkVUYlpzeldQX20yZUpOR21uUWJCMFA3NVZFNDI4Zl9MNGN2VDlaMWtnRXNsVEZSWWtTQk93N3R3cGtRa2swNVh5ckVwb0NKVUNhMFpnd0NzVkZPTE9Wc3lWU0ZOa3pwQ1VkdTVtNVg3M2pEQ29Lc3pzY3libFN2ellvbmdObzlJSmpHajNQZ04wcHZ2eGlnajY1WEFPaGY1MlU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Alicante Plaza",
+   "region": "ES",
+   "date": "2026-11-14T05:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "84e3bdebe1",
@@ -123,60 +174,9 @@
    "topic": "Society"
   },
   {
-   "id": "105e7d5b44",
-   "title": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEhiWkNUak9BWXEzUnpxNXdhZGtmRlhIMUhRSFdnS08yRG9pOE5nZ1Nycm5tMUFPUjdmcncyZnJiVGJYdlJ2Z001NVdLT3daZWZXQ3RGRE5GVjlPd1BiZGtlVWpSSGowT0hjY3RqWWRlUTNLdTZhdy00bWxDeG9NdC1HTENpVGtKeVNoWllkc1JvSWVVc3k1dVhIQncwZnFydXdJQlRGV29WNVlXM2dOWnFqOU5zeF9UWl9xLUtrZzZWei1sVGZ4UTdqZ0d6UGhuQ1Fz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EL PAÍS",
-   "region": "ES",
-   "date": "2026-11-14T04:30:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "105e7d5b44",
-   "title": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEhiWkNUak9BWXEzUnpxNXdhZGtmRlhIMUhRSFdnS08yRG9pOE5nZ1Nycm5tMUFPUjdmcncyZnJiVGJYdlJ2Z001NVdLT3daZWZXQ3RGRE5GVjlPd1BiZGtlVWpSSGowT0hjY3RqWWRlUTNLdTZhdy00bWxDeG9NdC1HTENpVGtKeVNoWllkc1JvSWVVc3k1dVhIQncwZnFydXdJQlRGV29WNVlXM2dOWnFqOU5zeF9UWl9xLUtrZzZWei1sVGZ4UTdqZ0d6UGhuQ1Fz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EL PAÍS",
-   "region": "ES",
-   "date": "2026-11-14T04:30:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a03fab62e0",
    "title": "Diez obras maestras escritas por Rafael Azcona: de ‘El pisito’, ‘Plácido’ y ‘El verdugo’ a ‘El bosque animado’ y ‘Belle époque’",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRExwNEVvd2xmRGZ1Wmo4Z2dDSHdQc0tib3NCREhBRTZGb3ZYTnlOMmlSeDBGZkpHYVRCNG5jU1BKTEpQd1dVcGtWWmJScW5lU0Z4a3V6ajBHRmJJOVhPbXZGUnhodU9SMjBDV3A0d0thVWZicW9FX2E1NDFiTmVWX2Q1cUdoLWNVSDJrWTNEa2JUWW94eWoxdWJOX2RjLWNZTDMwa1JrWG1za0hsSEpYYllJTWxYd1lhWW1XNnRHUHVqaklRWDVwWnNzRzdCb1puTXh1OGZOa3FHZWtIcExLVlJORmczS0lvVGFxNW16bw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EL PAÍS",
-   "region": "ES",
-   "date": "2026-11-14T04:30:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "25502faaea",
-   "title": "El ictus aumenta en adultos jóvenes: “No desborda el sistema, pero preocupa”",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2ZmUVVYSnB2WFUtaFpaR1hKYUtfUTY4U3hXdWZHcmdIV2c1RHFGX1dNNUFEMVNvMHZyNEwxY2U1OVo5NkVHRERMQ2RyeXN1NEhTdUpGSmk0cDNPQ3lHY0IwSk5vekpfZFk4MnhQRHktSTNYTllDRE56UlhNTjVvanF1OEc1ZXZqWUQ2M2xFZGtzRVhLdVBMVmpHUUVWb2wzMDhPMTU4aV9LdG0tVXJnVW5PeUJDQkRXV3RjZGdUb0NCdFnSAdcBQVVfeXFMTTVRSkdlVkJZN0lILTVRZF9MUS1oNHNINlp2cTVlS3NrQVJjekxXTXQ0SlY5RmZEU0tNWmFUVHZyZHRiX2NLNWM1SnpTeDhFU0IzZVRSUmlZT3VoeEZXWlZEV2Q1dnlfbXhJeFNyWENTRTV0NGpDRVMxdVNNVFBJQmFXby1sNFQ5N1hQdS1sUmhHY1JhT3JrLUVVV1hQdmRPeEZaQ1FJVjBTemVHRGkzZk9NZkFYR1RrQzhYZ2FmVENXdFJJbWhfUld2cjNxSWZXY0lPYUxIVTQ?oc=5",
    "summary": "",
    "image": "",
    "source": "EL PAÍS",
@@ -225,14 +225,14 @@
    "topic": "Society"
   },
   {
-   "id": "2a53c506cc",
-   "title": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas los vuelos en todo el país",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tdmJQSkswVFRaRE1oNUhOc09qQWFRM3JWUVp6cE01N2p6M1JweDlRNERaR1pNcHlqcUxXa0w4WnlTczhBUG9KdTNaTUVWczhvbEtZV2FCSVY0ODBT0gFiQVVfeXFMT1BVWUEyR0hxazIxNy1QTnZIdFpFdWhVM21GeGkySzc0ZmhQTklJWUhEbnJEb1RHcS1VTjlReXYtd1JtTkZMWEEyaHhuNWxfZC1BaTJSaldfdzlCaXJ5Wi15RUE?oc=5",
+   "id": "7f91e257fe",
+   "title": "La 'vendetta' de Moncloa y el PSC a los 'Puente boys' en Renfe y Adif",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVU4UVB5VHl1RmFzSGZxMDdRaXJ3bUhHRzEwNGZQWGhLenNCQjdYdTFzNVRLdVZ3OHRfQmZVTmU0MlRBWTZ4Q2VSN214V3NHRHNWcmVoYXE0azhpZ0NRdS1peGNIb2Z0R0tzeEc2QkJzZVI0Q1RfWGo5a2RGUnJuWV91NXNONTJxNW1Ecm1UeEE2aEdHSGlrS1lGVjc3ZFJ0THZYWVFhcmpsSGRjUlE?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "El Confidencial",
    "region": "ES",
-   "date": "2026-11-14T04:01:56+00:00",
+   "date": "2026-11-14T04:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -259,14 +259,14 @@
    "topic": "Society"
   },
   {
-   "id": "b4c5b6e5de",
-   "title": "Vox propone eliminar la cuota a los autónomos que no lleguen al salario mínimo y una cuota progresiva desde 50 euros: «Para proteger a los españoles del infierno fiscal»",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHktUGdUUjlJbDlqZHZwdzJxOFVJMDd1S1BWSjgxVEk4NXFSd3JwRWFOeWx5QUVoOHNOQzctbllsdzFVT0FEQ09pSDIwY1ltM2JBM3pkRDIySmlRT0VOYTA2QXZxZ09TRXdrSlV0TGpVbXpkZy1EN2xHQUR1MDdxU1VBSnZRQXIwaG1OTlJtQVFyQi12YlBiRENQZDY4aDV6OEVYTWppNnVYd0l1SVNmbXdrMWtLY0JGeUROczFnWdIBxAFBVV95cUxOdGRHZ3A5MUtmeXhqLVR6MlpjRGdvOUgzRWxHU1hLQ1BvMjlQRTJXNHFxc29hM21vWUFUaFNVbWwzUmRmbE5pSV9wd202OHUzT3d0eDBzOERtcDNjNGozZGJ6XzRmSW5vcjI4TUg0bmVLMDQzV2NKWkVvMjc3bzl0SmFmN0J1ZFp0Y2M4NFpSNGVQNnlleXdTTG9ZMW5Pby1uakYzYUVTcEhhazUzZVhGaVpnVFpDSGYtN3FEWTdWVXowLWxq?oc=5",
+   "id": "b98bec5786",
+   "title": "Así le hemos contado la suspensión de vuelos en Estados Unidos",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDFOazNaUy1OaEh4NHhYdlpTVllKWjBlMi1ZR0NIdERJZ2wtQ0dSSXVEcjZYblJHTl9xUGU3M3JrSXk0VldkU2hpUzFJaXBwR2NURWRLM1c5NWNNcmpJV0g0NXVaOGhHcER4b2paamFHd3BISUFMMW1ETWlEVTN5d0lFNEFMTkF6SWVWV0tXSXM?oc=5",
    "summary": "",
    "image": "",
-   "source": "ABC",
+   "source": "EL PAÍS",
    "region": "ES",
-   "date": "2026-11-14T01:42:27+00:00",
+   "date": "2026-11-14T03:47:07+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -293,21 +293,21 @@
    "topic": "Society"
   },
   {
-   "id": "f321baac62",
-   "title": "Conversaciones de paz entre Ucrania y Rusia: líderes de la UE debaten a quién enviar",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdEFBQWxFUUxwOEtWZHVHLU5XejFBTThfMGRmRkVoc3lwRVF6RzM2bWh4U25lYzJPamJrSF9SWmhTTVhuV2NHeUdabnZWLTNnM1V5MTA2VVp2SkJKS3NiR1VwSDFlX1hhZnlja3R0NXZ3anN4djZjcWVNOFNFWDZHbmhRcU5GSElyMkJrdnFEUlEwY0Y5N0IwRk40UkxLaGNpMzEtZDBYcWVLRXNyNzRTSE9NcGZ0a2RrR3RPb0J6WEtoRVRwS01YYVptbm9sRUNMR1RpZEtSMGVJcUtMRTNfQUdoanDSAeQBQVVfeXFMTzZmZXo5QXlwUGxOWW9HUXBVLVZsc1pLQnctcGtQZWROc2l0VWF6MTdwdnBTb1RaaHBWV2ppVTBYU2RvTWFlYUxoN0xWWndSX3JMS2ZxTUFyQ3RmN1QtUDhDUzJEY2cwN1prLUU3Y1dKa0RJZkN2UkZxN3R6TzV6Y2RXc0loaE13M1dZMGlqMjVqanNpU0RsaldGTlBnQkluanBsN2NHRW9CaWY3X2diTFZGYUo3c3pCZjJQZXVZQy1DNENYTWxxM0JweUZBWWQ3Z18xOG9qTHZuNUxUTWNINThhNGNC?oc=5",
+   "id": "01bd190655",
+   "title": "Microsoft lamenta \"profundamente\" problemas causados por caída global",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHhpUFRhZTlEZnd2TjhqbkpWWEljUVlMN0JYT3RhaUR2OXJRXzRjemQ4aS1sc0VIanpBeXFpTmRQaWFSR0NtMi04YWt4Tk1qVUIxVDB5Zl9WcmhQOE9lT1hsUUJheEs3TW1KbjdOVFFTRi1CQUlhSkRzcWg4anZiVDM4QW5lakl1MldaVG9TTWs5LWtEWVMySHBOb2w4NnRjZlVvM1RTUmfSAagBQVVfeXFMUEN0LUdjLXdrLWpiS1dqbE94LW9JWlJDbDVUNXJ3ZW5aZFh6OVljWlJsei1tUDBoZ1c0ZGxEMnQzUjZYV3JPb3hRYlR6MHRVQWh6ODcwalRicUsyWmxMWl9QNGttSklobFA3MVU2NXY0dkVLdXEtdFdqZ2RnWHhqdHNVMTlxazhMMjU4VHItTDYwNDBtTDNBMElSZmtMTTVFSTNadldmWXA2?oc=5",
    "summary": "",
    "image": "",
    "source": "DW.com",
    "region": "ES",
-   "date": "2026-11-14T00:17:08+00:00",
+   "date": "2026-11-14T00:34:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
     "place": "",
     "flag": "🇪🇸"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "28ee6ec548",
@@ -335,6 +335,40 @@
    "source": "LaSexta",
    "region": "ES",
    "date": "2026-11-14T00:04:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5de299b663",
+   "title": "\"Milagro en el Misisipi\": rescatan a todos los pasajeros de un crucero que volcó en Nueva Orleans tras ser embestido por un buque cisterna",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ycFVjNDNkd0VOSjFQRVJ6X053Uk5zUnRTaXFwZUtZYVNZaVR0TmdaNXZTdkhYS3FnRVgtOWdkeWxXU1drOUJaajlzNjhQbFRaOEhuSUFxQXdkbzVn0gFiQVVfeXFMTmFpNnB3Y1NRRWZrRTh0MF8zM3Y2N0J6RHF0VjhZMzk4QnpIdHZKNVlXUm53RGxMOU1zbktCOGpzMDQtVjlwbWx2el9SWHBZRk1JNkRWeTk5Tjc4QTlCRE1LLUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "ES",
+   "date": "2026-11-13T23:02:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "12b3c24c45",
+   "title": "El Ejército de EEUU detecta actividad \"sospechosa\" de drones sobre la base militar británica de Lakenheath",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeGc3d0trdFBGWVdVb1JHbnRiWk5nLVd5RUdfYzl5MDdUWEdrc2M4TzhOUGJXakJ3UnVaMVRBRnlSaDRjekVrNkdhZHN2TURDYmtaZ241RVRKNkdXX0RPWjZFM2htMk8yb1pmUkJPMjV1dnlGX3RFOEVrbzdSVjBTLW5HY1RxZGEwdHdDZ2cxa0g3RTFFdm5lbHNhTjM4N2c3cDhTV1RFWHRlV29ndUpJa080S1g1bGJGTjNLRlRtby1GcE8xZW4xZG04T09SSFFpOW1lZzFUcHBuZjNXaEk0YXRKUUlEb29vM1V0OWln0gGIAkFVX3lxTE9UNGh0WHRZOHRlMjVmZlh2eEdyVFpiVW9SRjdIZEJ0NVJWS2ItLXBuWDU1N1pLaFduTmVJZktkYWJIUG44ak1CR3dRQnh5YWRGMVk1ZTY4dXNKQk9YU1hvU3FFazVlRllMOUYxM2s3aVhvX1F6YndSOEs0YWRoSm1QWGV4QW5tcTRPZnB1aXcwTFhJUWtDdUttMnJ6SUNMNHpyZC1QeXMxanA0WDBJVlRPNFVfR25KQXk2SGZRaG9xZlRlWlYzQXJHZ3dwelNaYnBzWUFYN3VFWW52YWV3dDlHVEZRRUFwbmluU3JadzJjZDVlbmlpUUFhZ1NnMkhQYVdPeGlhMHRvaA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Infobae",
+   "region": "ES",
+   "date": "2026-11-13T23:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -395,14 +429,14 @@
    "topic": "Entertainment"
   },
   {
-   "id": "03b693923f",
-   "title": "Inicio de campaña: Sánchez reivindica a los sindicatos, Feijóo tira de insulto, Vox de internacional ultra y Colau dice que \"no todos son iguales\"",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNblBXLThVVUE2MVdkZGVIRjJod3ZPSE0xOE9DZUpJY3ZVZm9zejgzMWsxcjB5M1J6T19LdkU5TEg5NEh3YmdaTklVWXVzSjNmbENvRlZsSHFQbGUtN3NvN0c1bnFuaGxuOXVtcDRHak1mbW9KSEVqbU15bU5RNjZhZGFTM3FlR1lPSmd6LWw2UVFwM1ZYWGpxQ0NQLXBSU2I1MVpKWUZqWU8tSW56a2ZmZHdyQmRtUlIzeG5ydVZzeTFHbUJ5bDgwbHZfdUdLT1ZsMlY3TF9qcDYzQzgyMDNwT1FoaUZRZ2JzeWRUaGI1OWw2M09JMTY2cG1hTlVVbEI0QjNfTVVvZjBOWjdaWmtmWGlUUXFpV1gyU3FFWHhpQmtzX3U4S3FqbGxEYU5vNW1Z0gGwAkFVX3lxTE9Bay1DNEhLRDFBM1lkZWJyNnpSdWlzX0Jyb1NqVHJjVzF5OVlCV2RaLTE4clRLa3NjMVNISkEzaFNNOHM3RHpTeG9xcmpfU0p0ZDNvejRobmpJYWFaSkhhMU1qbUw0WkpFdXlqaUNtTUc2MzhhRjM2T0lFRl9ZRjUyRHh6cm4wdzVrdlBITWc3S21pUF9qNXpBM2pkZ1IwbkZKd0hVdE93YjBra1VydTkwUWo0U1p3ZXVheUlGTU5FRERCSFdYOWc2eDZ0SkFjZFBsVUtRdEhSRmMyNllzUmVhSjVWMWN4REhIUnhlVHRMTjZ6bW0zZTdiRDMwUUxHWDViVjdVaUlTc3o3T1VnMnR1T0k5MWhjRGpQbVBGOHBMZnhWUlF6YWRHMHRoXzFkSGs?oc=5",
+   "id": "1f8215315e",
+   "title": "\"Esta es la ciudad del Papa, del Papa peruano\": la emotiva vuelta a casa de León XIV a Chiclayo",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkOHNvSVJiLXdHS2lYT0RHMTlnLTYzRTFJZ3hjRy02V2tVV3lLbHFNY2xvanY0MGRnZGRmTG9WNENpV0ROblBmOVQ5WFNWYnVnMUNIOUN0VElXVjFV0gFiQVVfeXFMT2ZfVTJRbl9wUGdSNGRjczdOV1ZtMGpXNnRTRmJ5QUdrYjEwSTFfMUp2UFVPWEFQMzBfTEE3N0lNUWkwbXoyVXh5NE52RV9razRrQ1FFNV9reGduWWpTNm1LSWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "LaSexta",
+   "source": "BBC",
    "region": "ES",
-   "date": "2026-11-13T20:15:55+00:00",
+   "date": "2026-11-13T19:17:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -412,82 +446,14 @@
    "topic": "Society"
   },
   {
-   "id": "00fadbc54f",
-   "title": "Rescatan a 180 personas tras el choque de un buque y un crucero en el río Misisipi a la altura de Nueva Orleans",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2VUSmR6ZFctcGtXV3FWaGhJMnJKMmwySk9FT1NBRExhVjkzSVAtcVRCLTZPVW92X29iNFRtUW5Eb3dNTDl6bVBoUFF4TFdmQldtUkNObnE4cF8xYzNJdWllZVVhY21VX3kza2p6Z2t6NWxXWGNLdmlTUXE5WFFkWTJnVzJZM2FJbjlEZExoWE1iSDhGRG5KbWhGNFVKZjJOeW83WjZBSzlidW9hMnVWSHZDREQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "EL PAÍS",
-   "region": "ES",
-   "date": "2026-11-13T20:04:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f480c56cf3",
-   "title": "Economía, vivienda, crisis en Ceuta y migración: los diferentes discursos de los candidatos frente a Jordi Wild",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX21iTVVGN0xRY1Q4NU5rQ3E3bFpGajJnMzNnU29ycE1OUnBYTXdaUWxCQ0JpMVUtbmlPN29yaEVvTk1HOElfOGE3VjlsS0huLTBHUWotcEpmemx1Q01BYXhnQjA1TUVscjNwYTlsbnRxV2JzQnVQeW9iVTNLUFRiSFU3RUhiVXVOdW5ZWEZkMXI2VzkwNTBuUTBuSnFRd2drdnBMaWZULXYzLVFOMkxFa3haRVRBX0JVcVNtTUNHOGNZbU1qZHNfcG52ajNYNi1KUkJKTEYtMHJwR1QxYWZTelZQOGdjeDJOTnBydXZ3NEloU0lLQ0lPbmgwMXVIMTE2TEhJ0gGDAkFVX3lxTE1LaFZfNFpZaWw4TlF2MXp6VDVnUm1IakQ4Z0lVb3UySl8tb3RENFBGa3ctZ0xJSXBlZVdhQ1BYbVRBRUdObmZXam1nbkFpOU15N3RXb2Nxd0dyQUUwakJnMlJ1eXlkMWc3WnZOWTJ0dHJTeDdXbXVuZk44QzdESUttdXE3S3dNM01sUHlaWUdzWGhJQzNubzI2dFlyakFJREFEQ2JUeUdyaEdfbEtsblh0WWpMWGdvV0N6d3FURjktX1piT2QtbjVobENScGNLZ2JiOU8yMVlqZjgwdUVUT0xmc0N1ZjF6T29rNnc0dnZwSGZfNEg5bHkxcnBIRWJpZkVmMEE?oc=5",
+   "id": "d28547e207",
+   "title": "El Ibex 35 retoma la senda de los máximos históricos",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejhHTHRyOWVhQnp5V3BoQ2xaOTlEdjNwdlROQS1Qbm9LSkpGcjQ5X1d6S2Z1ZzM4VDJ1Zjc3dkRYTXdGcXpPZDFjVjg2elhSOTBLdm50eWJzR0QzNXdHY2RSSDhqUkFLQWp3SWtKNVFvQ2FSNy1hYktKUFZXcWdwb3hIeXh0amJ6OXNwbDg3bmNFdG5KNTdYVFpsR0pLZXpjdnVzLVBVOVNSMzJBUGFFXzRYbFNrYm42b3lGb2QyenA3LTA?oc=5",
    "summary": "",
    "image": "",
    "source": "RTVE.es",
    "region": "ES",
-   "date": "2026-11-13T19:18:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a17a9d4479",
-   "title": "La caída de Microsoft genera un colapso en las comunicaciones empresariales a nivel mundial",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOczFfczc0TEo2TDdfR0Vza1Z4MDNyeFhmcDgtVVdLVElDRDVGcVY4WDctUEk3dXpZQ1o5cVZ3OUcwZUo2VV9Ma05pZ3JSd3hHWkZKSlgxMHhBdk0wNkxMX3VaT3RCUlVXS0tZTkpxVTI1TDhBRy03SjkxNF8tUDZRWkYwU1BxUVFBWXd5cl9KM3BpcVJ5ZWVQVldyTHBOU3JHWEpKNkJCUGlmR2dfa3R4NWlJcmpBaXlzN2tNOA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RTVE.es",
-   "region": "ES",
-   "date": "2026-11-13T17:15:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "0d489d8443",
-   "title": "Gerard Piqué arremete contra la Federación en TikTok",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQel9YdE5kYnFQSTNCOC1yaWJPV3htTkNfYUplaDZlWlpRRERYZFI1RlpiRTl6eGVpOGVmSWI4Sl84bExYRVF3RFZmaHVLQnluSHV4b1BEdzFWelBlT2h3bFE4WjdjZmNnV3hOUGJaWkdGUHdfbkpKTzBwWFJmVDB5UXk2ekZyM1Itd0tjd083SUlzVzRGdWZkRmwwd1ZqWldxYXfSAacBQVVfeXFMUFZuOFBsOThfVGJ0N3VfM3A0WjNsYjY5NC10OVBuaHhSd2lWdlNmTzZQcGwwbDBnaThmNVh3YUZ5d0oyejlkSFJZUkJ4c1NHS2kyUTBhVWowWFV1b2JGQ0RBQUJHVVlreGgxVUdKZHdKQUlQUWI2eWZuRWdTZHE1aFJpLWlJMkJveUlHbW1zcmpDc2E1RUhNUUVoY19naXgxUXFuVHZfWDg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "La Vanguardia",
-   "region": "ES",
-   "date": "2026-11-13T16:41:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f1fb37c64d",
-   "title": "El Ibex 35 resiste con el apoyo de Repsol y las eléctricas",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGJEYmN0TTlmTDJWTDhhajE1LUNFLUZ2Y25jOXBOOWt1MEY5QUstRjl6NkJSRGFmSzBmaTZadldGQldLeC1fMDNPYmhpRHFkRmJxUm9sU1VOalFfNWIyX1NOLUlORHBYYlFyUHBybUdwYkNuMF9LdDNWd2h1ZjNLd2pIbkFkckNpT293WjZxM04wM01NWnBnSGFJMHF5dkVIOWpj?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "XTB.com",
-   "region": "ES",
-   "date": "2026-11-13T16:30:54+00:00",
+   "date": "2026-11-13T17:19:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -531,6 +497,40 @@
    "topic": "Society"
   },
   {
+   "id": "8d3a3855a8",
+   "title": "Lamine Yamal y Oyarzabal ya están en Las Rozas, listos para el partido ante Inglaterra",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2FSQmxDVWlxcVJOYmFZU1FmZ0p5eWNRT09HU1B4Y3RmUWVRNWNMRUJzelFQV1NMN1lRaEhlUmFtT2FXUnhJaDAyRlBzYWtDTTZ0YjlLbHlvbGdmQVFQck01VktqelJUUEFiWnFGV3JiX193M3podXZTNzRSR2VJQ21zd0h4aVhDbHB3Tk9DUWhSZnQ5T1BhWFh1dUJZY2fSAZ8BQVVfeXFMUEdoUG92bFZ2eEMxOG8yMU1wSzVoZnZlNHlWbWxLSXd4WFN2WmZoRnVrTTlPSU9GbTR6c2ZJN3lJY1NFaUl0MG90c0dvOE51WHdWbTgxLXRmeXBmd1AwYWxYY3M4SVdCOWlwTTJ4WkFxbS1xYm96TlhRUDBoRlM4WkdHM2IxUjJmRURqcjUzRklCcmVnV2NZMmVEa0t5aGFZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "MARCA",
+   "region": "ES",
+   "date": "2026-11-13T14:10:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "7160f3b7d1",
+   "title": "Abascal propone desde Toledo un cambio profundo para España: «Sin ningún rencor, sin ninguna revancha»",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3JxRExsbFk4alFOc2VfemdNRF8xTjJQNTVHdHBfMUUzWmpnZmJpX2FvNGJmOTRBcVJXUGFuZ2RyUGE4SUJnNDFldEQ1UTFPRGstaXowakM1YTMxSmhQcmFLSEZTYThkNy1uQUNFYTN2Y2RseEx1YXVHSHdidW55UFdqUE0xZ2N0U0xDdWZ5VzJUN2d1cDhqaENJZjFDUWRPenhaZkY2ZzBBV1FEeE9feXpjUFBVWHNoODZKNEhtYVdUby1QMkVHRGpiSjBtemlydDZzMVhEONIB3AFBVV95cUxPTkJLMGhUbDZHMEtCb213WFlhZmxiRTFxOFhVSzhNajlzdGFJNGJKVjBFWDJvb1FJX3ZfVThLUFYyVXppa2Fqb3RtNkVMS25UYjZoVFp5WjJGXzZ4SHhwY0RhczJXQTUzRlZpYlpicXI3d0Zwa2xsX0k5MFA4bnkzczdUeVBCWk5Vdk1WY01PY3ExWXZvclNibVZEYjdqeHludzVhZHhURkhCRTJ1TUc5MDA5eG5SZW13WUc1QzBTR0F2T0VkTVNmaE0xLVFGOU9Pc2JWZW5TclNiSm1u?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "VOX España",
+   "region": "ES",
+   "date": "2026-11-13T12:58:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "75efd061c2",
    "title": "Nintendo Switch 2 vuelve a tirar su precio: la consola, con Mario Kart World y 3 meses de Switch Online por 384 euros",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uV3JtSFc2VlJWUlk3aTdvNUdQWEctcGtSMWFGekNZRWNrb05CNkdkM2wzM1Flc2diTjhWank1MWt1MTNkUGZaNldPUDNhdlJhZ3lzMEpybThUckpUY3ZCcnpxamxLUW9kaGxYdXI1dnotWjNGd3R6eHhkS3ZTdw?oc=5",
@@ -562,7 +562,7 @@
     "place": "",
     "flag": "🇪🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "b678370531",

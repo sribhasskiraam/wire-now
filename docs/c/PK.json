@@ -1,44 +1,58 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
-   "id": "1068860c29",
-   "title": "US grounds all flights for hours over tech issues, prompting travel chaos",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadHk4LURmeWRBc04wcVRoZXl4eWpxUWJFYl95MUdoaXVyZkxCaEhjQXFzcEdQQmZYZUx2N1NuaERuT2R2Q295M2hGSkxYYmQ0WnpnZXRxNFFRLVU?oc=5",
+   "id": "72385be6a9",
+   "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRU5VY3FGdnpHeXpHa29PX0xYbW1PMjdKeEM5V0gtV29HcFdsOXUtSVpSRlA0d1JsWlV4QU45ZVpUYXkyb2hZVExrbUIwN2Nrc0pXRTllSURpLW5IdE5DTlV2U2N0MzE2bjFOWmlubTFnY3ZWMFN4S2U1RTB6ZDhaa0VB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Astronomy.com",
+   "region": "PK",
+   "date": "2026-11-14T09:05:13+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "01d58c0798",
+   "title": "What we know about the US ground stop and what to do if your flight is affected",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
    "summary": "",
    "image": "",
    "source": "BBC",
    "region": "PK",
-   "date": "2026-11-14T08:42:50+00:00",
+   "date": "2026-11-14T07:42:11+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
-   "id": "3ef3f515a1",
-   "title": "India vs Pakistan Live score, U19 Asia Cup Final: PAK (172/1 in 23 ovs) Qadir takes charge as India struggle to contain Pakistan",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOU0wMS1yNUxlcjFmdUNzTTBRYVhYUlAxVkl3ZW1iakNtYVJwV19pZnhCN0tfM3lJLWNhTkJvdzlYNXo2b0NJMjVWbUhLY2ZtLXN0dVp1RWVKcXhwaU5rNzFQQ1hXd005TW1JbDVoTmxmZGlPdm4ycmFuTmdUdWtVdllnendUanpCZ29pTUJNeHhYeTMtZWJIS2JSNHFuVFJXeWpnYzFTX1lZb3RfM0lOMkFFT0Z0ZmZxd0xyX2t1aXMtMWtaRjNLdFMxX1EtMmZsNzlDbl9LMWtQcmvSAeABQVVfeXFMTktaZWtYck92dXh5NVZYb3c0bnFhNGs4WWdaa3NldUxtOFNnNnZTdlpUY0tuMnFwQTc1NkY0dG1POGJnSnlBT1daR25kTVZzWTJHeXVPYktVNkpCNWNhSG1jcE1xRno1R3Mwc29KZ1gwaEhtOU5WUkZRdnRpWmxLXzBmTHFKZnFZUmRzcUYwdjRPRWR2RUxkMnRDeXByVWdRaFU0N3lEXzNhVXQxckhZbUZlekp6d002NEw0V0dhRjc0cHVuaU1BRDNaeDNFem9UUkczNlhYdElzRDB4cWgzQTg?oc=5",
+   "id": "23d745e349",
+   "title": "Sandpaper scandal: David Warner accuses Cricket Australia of 'cover-up'",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3ZG1nMlhuOGxmV1FuZExBMzcyaU1xNEc1aGYtRmNSbmtHaVFCbGhzNDZhR0l1S0VhLV9NT05LZGxLZ203alJRMWFSb0FqNVdPVEpIZFRsT2RXdUNXWGtaVG50TGJYMUk?oc=5",
    "summary": "",
    "image": "",
-   "source": "India Today",
+   "source": "BBC",
    "region": "PK",
-   "date": "2026-11-14T07:49:32+00:00",
+   "date": "2026-11-14T07:20:24+00:00",
    "coverage": 1,
    "location": {
-    "country": "India",
+    "country": "Australia",
     "place": "",
-    "flag": "🇮🇳 🇵🇰",
-    "also": [
-     "Pakistan"
-    ]
+    "flag": "🇦🇺"
    },
-   "topic": "Society"
+   "topic": "Sports"
   },
   {
    "id": "6c7e2eb390",
@@ -62,14 +76,14 @@
    "topic": "Society"
   },
   {
-   "id": "af840c5f9f",
-   "title": "77% of Pakistanis Support Creation of New Provinces, Survey Finds – Pashto News and Current Affairs Channel",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHBHWTlfZzdTcENIUUp5VjgtUnlOckh4UTdqN3RNdWliQjBYcmhEZXdUY18xYTU0RGx2RUdoOTU0WjRISFViUUM3VW8tYmVqanNJaFFGa3FUUTUyb2wtRmxPazJsamZ2Y3Z3cVpqckRYS1lxMnNyVWl3eC14ZlExcDR6cEhidGYzVUFiTThwUQ?oc=5",
+   "id": "f455fc98cb",
+   "title": "Heavy Snowfall Alert for Eight Districts",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcGVLMm91RFVXZHNMZXBhX29aa2NFaWdQa2hDbXZLYy1YNm1wZEpoM3UxcGpuY2pteVZ3Z04tN25pNDVISkhMU21TdnZ1NXdiRHYtdVd1dXJ3YU5kY0NrcnN3eHNqdzFnM0phaUVjSVVxalNObmRj?oc=5",
    "summary": "",
    "image": "",
-   "source": "Khyber News",
+   "source": "Chitral Today",
    "region": "PK",
-   "date": "2026-11-14T06:01:31+00:00",
+   "date": "2026-11-14T06:51:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -79,14 +93,14 @@
    "topic": "Society"
   },
   {
-   "id": "4f0b79c8cf",
-   "title": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ULWFWaUpwbVBCbmhnUzRYVTNDb0gydUNQaUxCc2FnZWcyc21wMk5fd0Vyb3J3WFdVbU9ZSW1rREZPTDlsaHhqdQ?oc=5",
+   "id": "7d4f4c150f",
+   "title": "DPM to chair ECO Council of Ministers Meeting in Islamabad",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSG5sZDl5QmZCd2FSWVA5TXAwRExzZlJpMkZ0RGxub29jOUZtMkFWcUZobXNVUWtWQW1XR0xyenZmcy1zbEM3SUFKQVpiVVZrQk5sLWI2X05HbjNUY1lzMnFPOVN1SmlSbjdKeDhSUVh0ZGJuV2hvQzRPbjJuaWV0NjJYc0tkVnFoRFdzamRPMTltOWZCb3g0?oc=5",
    "summary": "",
    "image": "",
-   "source": "Dawn",
+   "source": "RADIO PAKISTAN",
    "region": "PK",
-   "date": "2026-11-14T05:53:55+00:00",
+   "date": "2026-11-14T06:06:24+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -96,14 +110,14 @@
    "topic": "Politics"
   },
   {
-   "id": "9e8fad3ff1",
-   "title": "Some physical GTA 6 boxes are missing codes, with Rockstar refusing to help",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeV9MU3ZNaXNVbFVWQjctLUdGX252U3dkUVpTSV9XZ2RGY2JvTjV0RjhRMWUwUWdUM2N3a04tMFJremZsd05xVHV5SmIxZk9oNjJ5SkU1UmRwOUtHbEdVQlF0SWRFX1JuUW5WRUpuYk1uNmh1eU1GZ0NjcV82SDdZVENzLVFpRkQ0ampMTFEzMlo4clFuUzVWU01jUHdqdzFCUVRqU1Z0VjBUZkRYN2pFZ1R1Q1BaQjFGVjhR?oc=5",
+   "id": "e0c37cb15f",
+   "title": "Huawei's next nova Flip could switch to a wide form factor - GSMArena.com news",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VKWFdHdmVEUlhUU3RFeEE0N2lyd2htTFJqRXRSOEktU1FFckxDOHVTNl95cDNWUEE2cXQ3MGVkMXVsRktiUVkyLTlNTzluYkQ2b3M0V2NzdFB3Ul9ONVUzejBkbjQ0bDNZNU9kdmgtZGdWRWRRZWR6a3JnTFI3OUUyWUp6MTR1dVVDQXNsVklwU2pka3I1UDdBSTZxUdIBmgFBVV95cUxPLTc2dVhZT3lYell6UE5EdF90OU9nT2lBQ1pudkFEY004N0NuU1NJbUx1MlIyRFJhZXJYRkg5bUJmN3hnQUlMa1NVdHpPZnhQX2RfYWw0bElmU0JLRnN5WHd2a296WEppRF9tbFhQRmxpamJaUnJZMERYb2VfeTVfOC1JYnlTLWdZcnhkNUVzM3BKN2xWRTNJYWRR?oc=5",
    "summary": "",
    "image": "",
-   "source": "Notebookcheck",
+   "source": "GSMArena.com",
    "region": "PK",
-   "date": "2026-11-14T04:11:00+00:00",
+   "date": "2026-11-14T05:01:02+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -113,31 +127,31 @@
    "topic": "Society"
   },
   {
-   "id": "ab8fb0adeb",
-   "title": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlNhWk5pSFNqTUFqUWN1YTYwMHV1aEpNQUQ4cjcyNVJhZ1lBSmM1RW52b09ZVjEzMkpZdHY4WlhoZlc1czE3U1JjSXVhV2pSTFUtLTM0cjM2UjJGMktVeWc3a0xfZ1RVbUtCcy1uYWx3c3hUT0FkcjhyOUZ0cnNyRDNEUjBOdVk2bGVUNkd0R2N5YWpJVHl0VHBCLVRndTRBZ1hydzd4bUk2MUFORE1XNUtlbWl4Qm1hTXg1OHln?oc=5",
+   "id": "a1e44a3e64",
+   "title": "NZ vs IND: India release Kuldeep Yadav from Test squad, Gurnoor Brar added",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYURyY1NyZ1ljSENRQ0x6LXl1ZmI1SW8yamhTTGZhY0k1WW1tSXBjNHQwbFdJS2hlbHRNdUEzdURnZU02blZwNzNJQm5YRWY2T0QzcEFrN1N0NUlRZm9QeUxMUFRBMWx4WUxfQzVjME5aSmdxdS1IWFdibEF3VWZEa2tsSURoQmg2dFlYMFF6UTJjVEkxcVg1YUE4TlUxeW1kN0NlTXV5R0JkN2daeGM4aWE3Wk9XNHZZd0JkN1U5c2NPNUo2Ty1j0gHMAUFVX3lxTFBJdFZydEN5S1ZqdFV1WHktRlpJRWtZUWZtZnR2SXpvTURaaVQ1dXhlQWVoUkFLTlkwUXlVYkt4THcxWXQ4VlV5aWp3TWpfZXIxM1QydlI2S3Q1Wk1CRzM5V2hDZXhPbEZ1eEw1aExJZmI5NUNZNTJxaDB6NjY3S0dnRnJrRW02TkY3VEtZYkI4M3VQZmtfTExDZGRjVVlsMDFTN2NvcFZSUEItVjN3Ri1STm5qdFRIX2ZSOUpmWVVqS2w3OTRZc01KN0EtQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "India Today",
    "region": "PK",
-   "date": "2026-11-14T04:00:00+00:00",
+   "date": "2026-11-14T04:10:11+00:00",
    "coverage": 1,
    "location": {
-    "country": "Pakistan",
+    "country": "India",
     "place": "",
-    "flag": "🇵🇰"
+    "flag": "🇮🇳"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
-   "id": "88eff6a1ab",
-   "title": "World Diabetes Day being observed today",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWV0VjFFYUZ0eHgyWGIwd3pvVzRSc3EtLVRSZ21aSkpiUjcxY1hXZzhqeW9NaHVMTnFkQ3FLbjhkS1h6dzA4TlJrQVVvUk1FR1JYdnljUmZkQk5OWjc0OTNTV29qT29BU3BLdEo0ekZlWjhxdFRVWFhic2ZObHNxZQ?oc=5",
+   "id": "75b14d1889",
+   "title": "Bloodborne Just Got A Complete Overhaul On PC",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSVgxX1JnbFJTbEhZN2xXSVkyZ19KUlJkTHNqaFAtRzlMZ1JFaU5oc21UWXRnZ0R4NVNNQkxiZEdCY3ZyREljX2o4U2NxNzVtMExlLTNWM0w0UWctc0hYeFVTZ3lNWVV3Z3ZTQlRyUGk?oc=5",
    "summary": "",
    "image": "",
-   "source": "RADIO PAKISTAN",
+   "source": "ScreenRant",
    "region": "PK",
-   "date": "2026-11-14T03:11:15+00:00",
+   "date": "2026-11-14T02:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -147,14 +161,14 @@
    "topic": "Society"
   },
   {
-   "id": "6e85a8bac0",
-   "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnJGN1I3MjdNaEtyZnM1Vm9vU282WGJDM3BBaTZ3Z1RhUkJmMXVLRzlaZ3NXS0VxTU1oUWFfNHdJcWhWTGpldGpQVE9SaDNBWEY5dEFZOWNIMHI4bEFvZlNlSllpVXBFV0VyNmhES3pYeE9yRTN6S3l4QmNDSERFSEcwVVR6UnU0X3YzZXFGUkR3NWtmUmh3bmdtTHhoanRkTm5ONTA4VQ?oc=5",
+   "id": "5b1cebf8af",
+   "title": "Awareness walk held in connection with Diabetes Day",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tbkt4Qk9qQmNocHZxMTRLeTZ3TXNOai1YOHFoNTV4dVBzSTcyUkpaSldIRjY3QzNsN21mYV9nNWotTFU2RlFrSA?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-14T02:31:00+00:00",
+   "date": "2026-11-14T00:27:15+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -164,14 +178,14 @@
    "topic": "Society"
   },
   {
-   "id": "d00e5c4532",
-   "title": "Intel Core Ultra 7 260K Arrives Without an Announcement, Limited to Two Prebuilt Desktops",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzZLZTV5X3BfLUpZT1hnTEJ3cmVSRkY3RnlXYWVkVVJ5Tl9XZWFYbm81WFk4dG1JN3BqalpXNjB0bS1Jd0swZTVqWDFHWTY0cThvQ1lpTHE5Vi01QlhYZXprOG91MEtVQ094a1pMeFRvYmFBdzF0WldtX0diR1NIRkM2TUl2QUJyR3NwWHMwV1hXbVZwNUVBOFFKcGRmN2xUQ0VRdkZfYUFPdDVCbVVRR1VvZFdOSGthNnNsXzVwWVHSAcYBQVVfeXFMTXE0VmFNLWxka2pIM003VEpueU93aFNIaGJSREs0WndOTmN0WThaU21TUnZsbFdGOWdGTEEzdnRvZTUwN0hjZzFKLTNBVmg2cEFtdmR0NUNXblBQXzltNXVydmxmR1NVYVFqREtaaVk0ZTdCREdHblE0akNnd3hqdHpsTlRQNjg1R3dfLVgzd1Nya2F4amdqVHBZM1ZkU3RDLU10Y0RBWFhEWmRZcUhfcnRxbTRMLXg1OWg0Um1DaFNOT1JDMy1n?oc=5",
+   "id": "e53262df50",
+   "title": "Showcase event yields over dozen mineral deals",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hNFhkQS1oNGhrTkptUl81VjY0a0NITXpEMVNGdUhoeTBfZjFjSWwwY3dSa2dVNXptU0x5OXJMR2tQaGVPZ2NFdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "TechPowerUp",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-14T00:40:21+00:00",
+   "date": "2026-11-14T00:26:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -240,6 +254,23 @@
    "source": "UN News",
    "region": "PK",
    "date": "2026-11-13T19:33:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a6a4d0160d",
+   "title": "Russell Brand accused of sexual misconduct by six more women following conviction: report",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUxJTGxZU2txY09vNlR5SzBYbjJvS3ZpN3lobng3RVZDb1IwLVBESENFTzBnQWszNElZcHQ5ZTl4VkdocGlHMEliOE5IQWZfV0UzSUZNN2E0NmJHS3UycTAxMlU4anVKdDVEc2txSlRnTHVWWXplUkJIbGpON0o0SlhPQTZNRnZ5Z3NyS0tBeExCZGt2ZXFDLVQwVVpkbkRDSWhrYWdRMlpEVkFOMUVsc1p0ak5Lbnc1dHlKcGNIZnFXVDZmMnU5Ng?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Los Angeles Times",
+   "region": "PK",
+   "date": "2026-11-13T19:04:01+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -324,6 +355,23 @@
    "topic": "Politics"
   },
   {
+   "id": "49eaf6f25c",
+   "title": "Yemeni forces report 943 strikes and operations against Houthi positions",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUdkWFNCWVZVcEJTdDJ0UVc1MkxONnF5Zk5QNEo0NXJRd0Mwbl9wMDl2WlFwcnhOWkFySWIzbEkwM0xzNkd6VlVUUmZzRWJTTGVOMnJXb0FqTU9QTFUtQ21EbmlQVk5FQTUxRWZ4Z3pfMGtlSDEyWDNCalpsMVJ3SGRGYTROQ2s5UGZScEtEZHRNY21FaGxIRTB0N0ZNcEdwN0sybG5XUDJpaldPWm1iWVVOX2JOVWdX?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Arab News",
+   "region": "PK",
+   "date": "2026-11-13T15:48:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Yemen",
+    "place": "",
+    "flag": "🇾🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "2ef822c1cf",
    "title": "Johnny Depp's yuletide jeer",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjVWLUJ5S1RBaktWYzJTZkpiOEhGUkIxVU54ZWJyZjhRSnEzNlpsS0pwQ01UTTR3eW9qcjhHMTk3aWktZzI5T3c3WWJNdjVfSWlxbjMwdHZ0WVN4QlliMG9KbVV0cV9zZm9WSUNpdTZfZ3VIeWtWa1pQeS1rT3VTUlZJM09OX1JmQWIwUEJmX0VvS3VKdmNIWi1JbEtBZHJ4ZXdyaTFGLXBmbXdUYWg5Y0p4ZU5faUM2a2F6NXl6dmVzMUVUSWFBQzVR?oc=5",
@@ -337,6 +385,26 @@
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "cea2880bd8",
+   "title": "India vs Pakistan U19 Asia Cup Final 2026: Check Match Time, Squads and Live Streaming",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFoyUEZKOC1DX1Zvd3VXLWs5UjlPLWRVZlpBVUVHNy1oODYzUjVWUVJlNWo3bkQ3OUk2NlB2bjNYcUFiTDk0Q3M2SDRvUFh4a2lwSkhnbkZ4OVRqT0hLZ2YwX0ZlajkxZzV3cFJUcDhuN0U3ckdCMXRFX1ljVHNyNHFkdmlVMV9HaTR0TDR4QWY0VmlVUml6dTBhYU16RUN1SnlPUXNHMHJuV2JBcTltUnU3RV94OHlnNVp6aDV6LTBTamlIM2pMaDl30gHQAUFVX3lxTE8zMXZHSVBLdFNqdm53SkJRRENDWFVleUE5YUZmamVobUo4bkNiX3ZEVFdnQXFFTS1lVDZuMzFnOGpHa0xoakdMdDFaVlhYQU4wbjlUcFBLVEhvcGNrRmg1dkVCMV9kZ3czTjdENGdiajhPQnZLSndzZVpNaFdIQjEyOGNOdnd0dUpDek9jUzktS0dUSnRlc2RFN0VRak4zX05DV2VSWmN4WHp0bVNJVm5jWUphdXBIaFJXTzRsNS1LYlJCWUJyalc4dGVYQnp4ZVA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Jagran Josh",
+   "region": "PK",
+   "date": "2026-11-13T13:11:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳 🇵🇰",
+    "also": [
+     "Pakistan"
+    ]
    },
    "topic": "Sports"
   },
@@ -358,34 +426,14 @@
    "topic": "Society"
   },
   {
-   "id": "e8249607dd",
-   "title": "Italy rise in FIFA World Rankings after 3-1 victory over France",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVyYUxFbG1KcU85N1FrdHk0d3hZWXRWenB2RGU5RWtJV1FSSS1fRnBaZHliekg5VG5fSENjRDhfeVZ4YUE0UTBobUZNWmFmM2RzYmZjRi1pOUd0THdZdERtMV95TThjN1E5OE5lQ3JJdkNSTjR0YUhIeDU2VkhnSjItemtYdw?oc=5",
+   "id": "5416e86f94",
+   "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXpva3R3Y3pWcXJ1SmlXZ3dVYjkzWkY2MVdzWmo1TWdOM2I5UlUyb2NBVXpnYlZBT0ZMV29zUi1takJoVGUyWTcxZDc2dTZEdVR3RzgxQkI4b01zU0YzQ0dlRU9ibzlxSXNPdlJYY2I4ZUNWQjI5NTNVY1JCcEhiSW9sMGZzTC03Skptc3pmWm5CQUdqSE9lajUyNzdLLUl2Qng0NldCVdIBrAFBVV95cUxPMnplZlVqNFZOd21xQ1k4TWNXTHMxcU9vMVdTVlF1WXhFTEQwRWlrMTlPb01YQjdwTk1Ma1FKTnJnMGR2Z181M09xQ2I0a25ETnhRVllWUks2dzd0aXVhTDEwZkpkQjBRekt2YTgyLXlRX1NVd0pwbEx6NVpmQVNyTUo0SDJ6d0swRno2RFVWbnRndTBDWU5JRGxFTG9BZlYxZEw2M05BLUFEYVY5?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "Al Jazeera",
    "region": "PK",
-   "date": "2026-11-13T11:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹 🇫🇷",
-    "also": [
-     "France"
-    ]
-   },
-   "topic": "Sports"
-  },
-  {
-   "id": "90cc83f466",
-   "title": "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjIzMXU5XzlDRzZwb0F0OExKYnFKcEhwQ3J1QjFCQzBRLUwxb0ZfRy1GYWI2cDUzc3hSelZYbG5yRE5MbGE1QmF6eFFuQ1BZcnJsMXhUdnMwdHJuOHh2SnpKZWhESGRUQVFfblprUjhWNktCemtrRS1ZdFowTEswdlFaWXVpNkJzWG1Td0VGVHlVRlItQXpnUHJoekZlcG4yVG85Zm5UQklPVXgtczA3eXhGRXlreFNJTDFB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Economist",
-   "region": "PK",
-   "date": "2026-11-13T09:23:37+00:00",
+   "date": "2026-11-13T12:03:29+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -466,24 +514,21 @@
    "topic": "Society"
   },
   {
-   "id": "947ea31b0d",
-   "title": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZWM21SNjNsMVEyeEU5MWxSMkh6Y2JiSVRkY1BqNVUtNkRBV1lyN3pwUmwwZDRiVU1Pb0hibnQzWmstYV9OR2VWV2ozSmFsRU92SHptbnhKejhkWWsyaHhGd09fdTZMVnZnWGYwVTBFWkp6NTNNYm0xTVp3STB3c25JU1piTFVHT0V3aFp6dkplUEZETnAzS3RFUFlaZ20yR1JEUGhGM2E1YjBYYTk2V0VKclRFWkZJcXc?oc=5",
+   "id": "7aa6707a01",
+   "title": "Lisa’s ‘Viva La Lisa’ Las Vegas Residency Setlist: Every Song From Night 1",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDN3dmxKUVNraW5RME9iemhsTGkzcVl2YWZUYXJqM3Nld3B1UjFFWldOclFpRXpyanBHalVEUGl1aGtaU0FJREJpMUt2d3Z1d2U3Y0tJdDlLYWJYWkFIZmJDbW9Vekpucmd1bkZRLWp1Ny10NnlLd3lFa2UtSlItSENBSnBSWGVHM1YycExmSzM3Z1E?oc=5",
    "summary": "",
    "image": "",
-   "source": "Zawya",
+   "source": "Billboard",
    "region": "PK",
-   "date": "2026-11-13T04:11:35+00:00",
+   "date": "2026-11-13T07:43:46+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Pakistan",
     "place": "",
-    "flag": "🇺🇸 🇮🇷",
-    "also": [
-     "Iran"
-    ]
+    "flag": "🇵🇰"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "15e5a759eb",
@@ -520,14 +565,35 @@
    "topic": "Society"
   },
   {
-   "id": "593e859527",
-   "title": "Advance planning stressed to deal with climate challenges",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nSHFyUElNaFNrOUYzS25DVWQ0V0JvZEVINm9yaFlvWVNjQU9kWGllcW14YWFIeU5LVk9HZlNNOFphMDFVWGxxMQ?oc=5",
+   "id": "31d5c70cce",
+   "title": "Putin rejects compromise on Ukraine in meeting with US envoys",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MSmtKOW1lSk1TTXhyZTU5VjktX256Y2xaaHpQMk1LTWlvN0tCbmR0LWFpd0NBMDZnQUdYSGZSV0tIQm56ZVNpSQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-13T02:01:25+00:00",
+   "date": "2026-11-13T01:58:25+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Russia",
+    "place": "",
+    "flag": "🇷🇺 🇺🇦 🇺🇸",
+    "also": [
+     "Ukraine",
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "922fe380bf",
+   "title": "24m children receive anti-polio drops in nationwide vaccination drive",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ05lYmpLbTlEM0l0cURTRXdzaHNWYVNOQjV3ekxCejVLd2pPNlRtOWRYVUhRMDBNRTlCcUVYUVNRWWRoT1p5ajFPRW91MFl2bkR0Z25RVXNuVXRoUVJ5ZXp0YU1DNzhnbGxxZU4tbkVoRnN0d0pwclMtUDhGc0tqcC13YnI5cEtxVmp5OHVpQlFCNExLcnZqWVIxQzBSUUZIdkhXSVJ0QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Nation (Pakistan )",
+   "region": "PK",
+   "date": "2026-11-13T01:09:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -537,21 +603,21 @@
    "topic": "Society"
   },
   {
-   "id": "e8d7784de9",
-   "title": "Cause of death for Anthony Clark, comedian and ‘Yes, Dear’ star, revealed",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb3lMYzdOajVPRlR6cFV6Qkx0Q2JpZnVxemR0a2ZBc284VjhLQWx0Qms2VVF3X3JVQUZpelNma2hRWUNrSGpTWTAwSk5MTUYxWEJhc0VndUU2cGNMdElVdWpVWTJhSW9VTlBGUzJPTl9TUmNVTFJ5cThuYlBWeDFZdzB0Qm9hVjNUQUNOSTBUaEVrOFN6Z3REbE5ISVZJU3lvcU4waU5rc2ZxcHhSOVp4dXpPOEtmQkFncTJyLVUzcHVYZXdjV1VTMGlkcEdLLWFLaTBxU3hwMGxTdzRIY3g2S3JzT0l5YnRLUDFOUF84VzRTbGJTYVRva3AzWnAzOXJvdENJeWcxTjg?oc=5",
+   "id": "03bf884604",
+   "title": "Anthony Clark, a comedian and actor who starred on 'Yes, Dear,' dies",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nMnRvNHhDcDdqcjlJSHBGbThpVC1FSXdud1ZOS2RnZGM2VVYyYXNnc0hhZm9VbVVtR3ZZMzRWUzItOFVwUnk3RUJCd0J0ejRRdW4xd1pnTkpSWTNsVldERUoyVEg3a2c?oc=5",
    "summary": "",
    "image": "",
-   "source": "Porterville Recorder",
+   "source": "WJCL",
    "region": "PK",
-   "date": "2026-11-13T00:23:00+00:00",
+   "date": "2026-11-12T22:30:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
    },
-   "topic": "Society"
+   "topic": "Entertainment"
   },
   {
    "id": "0c65e3d467",
@@ -562,23 +628,6 @@
    "source": "Phys.org",
    "region": "PK",
    "date": "2026-11-12T22:00:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "6f3390f129",
-   "title": "Wrist device for Tourette’s changes teenager’s life",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmlRbDNjR1dGTUxjbW85c3VPSVFKUVFqeFd5T1hmVTJqZVNkVC1nOW9NM1I5RFFJbFZKRFNFWG1ORUZSMVJpSVNaMEhqWVNONHRsbHdNbUY2cjFjUktOaktVZnk2QkVUbFN6RUR0UUVkRGlNWlFXT2loYWpvemlaQXhTWGRBUVhkLUZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times",
-   "region": "PK",
-   "date": "2026-11-12T22:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",

@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
   {
    "id": "b6e186a99e",
-   "title": "‘Stinks of a cover-up’: Warner releases fresh statement",
+   "title": "Twist after Warner’s explosive Sandpapergate investigation claim",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUTIwVzRoODYwMlBSMmoxSm9xc1QxWDNmQU9WZUFPcTFDUm0tblp5dDVjSVpESmVnSmk1WldGZHN1Y1ZhazJfeWcyRUpsMHpPWHZ5eG5fMDQyT251YUpwTVhzVUdnb3BkakVCTm5GZ2xMOUNpT3NXV2RIZnVYQzA0M255N2YtdXVHR2JVOUpFLTI2UW90WGk4Q21MN1l6Vkt6WThUeGRYLWVWZThWOHZWV3k4QmRiUV9yZ0hRZlRWUmtSa1hhUGx4ZE1xTlpIeGVSUC1lYlA3TGZ1eEZ6RktFWl9MQVBtbkI0T0pGbw?oc=5",
    "summary": "",
    "image": "",
@@ -55,23 +55,6 @@
    "topic": "Society"
   },
   {
-   "id": "ab849a06d7",
-   "title": "Latrell ruled out of World Cup final in Kangaroos blow",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcVczQ0hDYlR6WGoyU2ZBb1R5SmtDQld0UDlYUF9HNG9xNHBWS2VGRzNVNFY2YmJZS0cyODAzZjVQQ2hkV01LbEJybDVIMklOMExqOFMwNUdIMklhZ3h5VjdhaDN0N3B3NFJKdk0zdWVxZjNsYjJ5X0JZNVFHRS1YanhIMHJMcDh0TXdjT0JiWDVGRnFvcmNZZEgzY3pEX3ZtNXJnSHd1NGxxbFRVTjBBWG1oazFpYmhRZ2VHZU9qY05LbHdDTVpLZ1ZwMlhyTmVNY1Njb255MTRwbl9yZ0xxb3FKU1VCeW9EdUhqRA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nine.com.au",
-   "region": "AU",
-   "date": "2026-11-14T07:56:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "a140ab91a7",
    "title": "Hundreds take to water for Newcastle coal port protest despite attempt by NSW police to stop them",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2dWdVRQR2VHYlZvNkg4XzNwMkprVFlER3V0ZzZSWF81ME5WSnMxbGl1V1pvT3V3RE43ZkNjZTJuazZxVmJGaldKVVBoZ3VkWl9QeDA5RW1MYXFIN0E1LVZLbXVIMmdPWldKTWttNF90cXVSMDQ5bHM2Sm9uakNBNDdLc2ZnUW9rRE51NHAyTU5QamVTX2RvLS14Yl9HdnR2X2hvTlN2ckljdXpIWm1KVU5fR085T0dZWnc?oc=5",
@@ -87,6 +70,40 @@
     "flag": "🇦🇺"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "ae41775c3a",
+   "title": "Huge Aussie blow for World Cup final after Walters' warning over Roos' biggest weapon",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEZaZXNPYWZ1djdHaXZsaWxNNkRzVDRjcEZrMkVjOTk1T3dGdVdaSm1aWnp0ZVNoa1BEYjV2aGxOb2FaaEg0RXUxaGZsNFhhS05pVnpDdnpFM0tiOVZnWlc5SnE1Qk5NTERObWhOUGFXSG8wZ2hkb1ZhQjI5N2xBYUV1aFhlN200UW9ZanB6c3JVWVduZGd2dWtfQUV3RGtzRlBYX2xsVW1PRlRFOFluVkVzVFVCNmFKQXBwWFBpZ2p0WHdpVEthWTNReEs2azVIY2c0bUFGR0FEdU1FNER6Y043QUE2UGhwUjFfcF9rS0dxTmh0TDNuUg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Fox Sports",
+   "region": "AU",
+   "date": "2026-11-14T07:46:05+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d117301e01",
+   "title": "Swimmer fighting for his life after lightning strike at beach",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdkx5RVVNalJJN0lSUnRzMjBsXzBmckUxeWc1VWZ4QjhvaXlXalhCRWFqTmZBNnF3YTNJZldfbnItSnlCTThiZnNuME9nckQtbFc5RkkwM0lETG5qc0JVRUkxeUViMTJRMHVJYkkwc0JaUVBmelEyblBKWF9Kc05qS3RkaHMxV1Q4MVZWMkIyc3pJM1FnUFl3UVdtWXY3dHBTNjJYT3IxUVVScFkxLTItblpjbmpfYTFyVElKemNlSWF4cTVDQVpzUnI1bTVVcGhDRkZsa3ZBcWcweV9sT192WXhWZkdKSXFsRnI1RnQzLV9hU2Z5U3VGY01oNkt4QQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Daily Telegraph",
+   "region": "AU",
+   "date": "2026-11-14T07:31:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
   },
   {
    "id": "64336b30a8",
@@ -123,48 +140,14 @@
    "topic": "Society"
   },
   {
-   "id": "259d755d0d",
-   "title": "‘Incredibly frightening’: Police clear path to hospital for person struck by lightning at NSW beach",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUhQQWpRTTVLYXN1eW1ZZnpkOWlmcVNEWUI5bmt4THg3VTlkb3BOOGctaE8yU2lWZ3cwYS1uR2d1V1h4TnNPUXdUS3BQRUZwVDUxWDdzaWF2RnhHYlhaT0E3WERrLVdMYUJCUkZ0WTYydVdSWF9UOGdPWS1Wa0tfczQzVnI3RGlGWFpKclgtR2tBQkUyREJr?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nine.com.au",
-   "region": "AU",
-   "date": "2026-11-14T06:46:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Health"
-  },
-  {
    "id": "2c16cb65f0",
-   "title": "Tightly wrapped: CBD’s Christmas Pageant security out in full force",
+   "title": "300k+ cram CBD for Christmas Pageant amid heavy security",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZU9hYWpZME5Ic1V2Z3lTSnZNM3FyOGhBZjNRV0tJSXVCNjZiaXA0UlJUYmhIV3MyUWxiWERROVZvMmw4ZXBGdGx1ZUtaSTI0REZCR29rbVl2bE5ZRFk4OWpfWFdtcUhNVVJnTWRsS2Vlek5TQ1BsbXhVS2dSX0N3MGdmcU1tNEpyRTJxMVI3VjZ2OHNQbFM5NHhueU1LOFBGZjB3Z2dzWVF1ZHVIci03cllwM3c3WDA1cGFicU5wN19QNjZPU1Z0cW5SQlpsemdvbTZ2dldtRXZzNG9sNW9sQmoxTkdfa29Wc1Zwc2Nva3BESW9tNW1yanJOZEJnUi1mSGFOSFd1NFBlVkFUUkhlcTVVbTBUZEdMVDYzRXpGRm8?oc=5",
    "summary": "",
    "image": "",
    "source": "Adelaide Now",
    "region": "AU",
    "date": "2026-11-14T06:20:51+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a79af47779",
-   "title": "Your SSL certificates can now last 200 days at most: The real risk isn’t renewal",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tOWJTSmxncy1XX3Y1cnpSZnpuaThjZ1ZJU2w0U2kwTENaRXBjc0pubHhNVnJ5THdfZ3lLcHFmVTQxbnlFcU9oM3NOMnRfajNyZE9mMUk4RzJwNUFhNjlPck4wSm14RHJPR3ZQSTJhMEpXSFo5cDdJ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SitePoint",
-   "region": "AU",
-   "date": "2026-11-14T06:07:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -189,6 +172,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Entertainment"
+  },
+  {
+   "id": "d71f871d79",
+   "title": "Aussies face US delays after airport chaos",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSDdSSVZzbDl3c2VKbm9MYkk2enFiWHFHdFlBUXBGbnpWLWUzZUlKU1ZXR0dPNmpTcUM1RG51NTFldW45WWYtOWp2NEUzb1hINGFmNUVSejV3ZzhWbklTNy00WUc0RXFjZFViWksyTW9oT0FqR0cxRFAtQ1ltM2p3MHJjZjJoVUVlSWRDSXdZRl9mbHZDSFFRZm8zMzZCdkNFREpXNU8wejAtclpmMkxHZHRHYWRtWjltM2VTRnpEY2RhbVJScXN5QXZtN1VnUDF3WkFjbDZqZHNUOVh1MkVNM1M4YU11c0xCMjE5d1YzalRHVGMweUFlUGVZUlp3ZG5rOEdISXV3ZkVnUW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Herald Sun",
+   "region": "AU",
+   "date": "2026-11-14T05:46:15+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "37afac5b7d",
@@ -242,19 +242,19 @@
    "topic": "Society"
   },
   {
-   "id": "27c2ae9d71",
-   "title": "Bunnies stars that could be moved on as Rabbitohs firming to pull off stunning Walker coup",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTHFKR3ZLLTIzbC1saG0wZzFxbFVvMVgyeDgwak5zM1Y4Yk9vVTBEdUgwbEt4bGZBSTlKVkhmaGFKcTEtREpmY2FpOG54NWJWV0dSYzRjeFhhM1NnN08yMk9xSWNybm5uLUtyWjVwbVc1eFJhZjZkcGZOWVNoNDFsZXUwTFBSeXFBTTE0MUJJYmVNbFBDcjY3cndIeUNtdlNrTnJiWlZVV2FhQTZCWk5qS25CeTJJWjNWN1B0WHcwTFBPRlBBZkVieUkxU2xvZVpjbzFWY0UxN0FDUVlrelZ5emVlakFXbk05S2k0dUZyd082QnRtazhfb1h3T1Z1OUliZ1h0RzRNQnFKQ2M?oc=5",
+   "id": "b510bdc8b3",
+   "title": "Kids’ products recall over fire safety flaw",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNTdPem9VMHBjbGtWMWhvZmpjZ3ZMVjZUajFJV1dRUVJGLVF3Z1ZZNEt5WGlqazA3NmNCTDYyT0dQQnVoT0h3QnRXaVlYZDBhak10azRVWXZwaG1WT1RGR2dxdzNPWGJLRUs3YjVGalp0MzB4NGVsQTcyTUlyNkdmNVdrS19JNFM2VHFZUWR2dmFvNG5xLWl2U1VuNWY1cTdwcHZYaFA4a3hCSS1xdnJlNzYwcXZOODE2WlNCV0p4aWNFMFRGM00wYzgxeGttdnp3ME9hMmhjUGdZUW1DYnlKcVNIeTNZU1E2dVhEX094TGR2aFZLVmF1cVRYdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Fox Sports",
+   "source": "The Australian",
    "region": "AU",
-   "date": "2026-11-14T04:57:19+00:00",
+   "date": "2026-11-14T03:59:36+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Australia",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇦🇺"
    },
    "topic": "Society"
   },
@@ -291,6 +291,23 @@
     "flag": "🇦🇺"
    },
    "topic": "Politics"
+  },
+  {
+   "id": "9f90609acc",
+   "title": "Thousands hit by Queensland storms as 2,700 insurance claims lodged",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNHhWc0Y5Ul9UcVg4amFmbDFieVk4MjNLMHhMdEpzX2ZRc3d5cDJudldFbktIcGROYzQxWktDeDBkZkd3clRpNi1hbzJ0ZUxMc09CdzdlVnFubnJhVm41amMxaVRwb2FCVTZLSGozeV92SzRNMC15bVoxb05mek91M2RQc3JObnc5clBpS1p1YUZXWlVsTEUyVU9WM19aYkppZjU4T3lwSzBUVVF6QlNsM00zNElKcm5OUFVCeU5ianpvbDNYdlVYdWF0b1Y3Z3RiVnRuU2pkUU1rZFQ5aFJXUDVlVURSMC04X2NiY1FITnRwWmlhS2ExV1ppcEFycUV5azh1MjRXUlNQZ0JyWmlhaDgtdmlHeWw5MWhZ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "News24",
+   "region": "AU",
+   "date": "2026-11-14T01:02:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Weather"
   },
   {
    "id": "6c78ea7ccc",
@@ -351,7 +368,7 @@
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-13T21:29:56+00:00",
+   "date": "2026-11-13T21:23:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -385,7 +402,7 @@
    "image": "",
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
    "region": "AU",
-   "date": "2026-11-13T20:12:37+00:00",
+   "date": "2026-11-13T20:10:43+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -403,23 +420,6 @@
    "source": "Medical Xpress",
    "region": "AU",
    "date": "2026-11-13T20:00:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "37dadae4a7",
-   "title": "Why the Microsoft 365 outage is different and why it takes so long to restore email services",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0tmQVI4bVFmZ0MwQWROMXJZanYzMndxZnFnUGNlUVZOa2dCTzZKWmN3YlRnOWt2S1NCTHFQVUJRenJMOC0tWV9CckZqcjdtd01xM0pGUjlxMmh2MHNWRlFqem1FVW9VbHo3UjB2ZEJBOWw0UC1sZ2dMTmNkWnBTMmdDYUR5ZHVaV2d0NGxSd3VWOWdxekdlU2N2OTVESmhzdXRKbDZZY1RUaUt0cWh3RGRZdWxRbFVnUkFqR1Zzb3lLLVhfOXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Conversation",
-   "region": "AU",
-   "date": "2026-11-13T19:45:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
@@ -461,23 +461,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Society"
-  },
-  {
-   "id": "e2058ea9d4",
-   "title": "‘Showers covering most of the east’: Rain forecast for eastern states, with possible hail and damaging winds",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTmpsMWR1QmFwSGhWcmpISThVOTBkWGpFVzVJQjFKQU9EdUtEODd0LWpxekJleS05Mno0TTloc1QyejRPdDhuaGFBeHQxMVhPanl6dlVxSHhYVk0wRG9QaU81LU1BQWsxTGdUb0tsSmlEcDhWZ3ROUzBuR1o0SmZHakI3XzR6VEVVVmxTeUFRYmMtc25yQXdDOEp5QThsdmdfOWpEN05TazJxcm1zY1RiaWxLN0cwMktoTUhtM0x0elNXbFl2OFhiOTVreWVnX0p6Z1BoSWxxTy1zZURGbUhuQzZTNVdaOHM5Zl9odXVyMXNsMUJaUXZvcXFQdjNNckVVQTZjdTRTRzJ0NXVqRk9v?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "AU",
-   "date": "2026-11-13T18:01:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Weather"
   },
   {
    "id": "d6124f3dd5",
@@ -531,6 +514,23 @@
    "topic": "Society"
   },
   {
+   "id": "a428049048",
+   "title": "How Jensen Huang’s fall could ensnare Donald Trump",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTUt0WE9kNU5ZV3RCa2pNRS1tam56ZmV0Vmppb0ViNklxYkpCUkhEOEoyOE0yQXhBTmVmdG9rWVp0ZUQzbUlpbFRyMFNnU090dk91ZWJacVh1UnhRTVhOd1Z3ZGRsTG1xMFNaTll6cXBRaGtDMlZGTnA3M3ZsS1hOTl8xWnFlRVN1VGxucWlkcXYwZzBzbk00UnFBOEJUdFBMdmtKWUZmc0h1U3VJR3JRMmF1LVROQlNUa3RER0tNSWVZVElEdldueXBnVnY5aGt6dlVTZkYxTUJOOFlrWTZrT0h3RFpIUjdiWWRXeFh2azhQYk1yMVNtS1dYMWU4a1NLYzRRVTN2ekEwQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Australian",
+   "region": "AU",
+   "date": "2026-11-13T09:32:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "97a8c75c1e",
    "title": "Clinical vs Preclinical Obesity: Separating Disease From Risk for Disease in Obesity",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDhKanhlQ1RmbTNMLXJsREZYVUFvN3c4RWJNSTNwbmgtNnVJeHNfQ28xMV9yME9ETkxTQm5hYWhLSnpqMHREWnNSZGFLTF80UXk4dlU0QmxaN0lRbUNXQVU2ZEU3Zmd0Z2F1dWotckdlZ1I1M203TEdLSDJvVzltRzI4ZjF6V3M2dmJKMnlDS1BESkIyWDFBeFNCMzlPWUFUWFVRZF9ackw?oc=5",
@@ -546,6 +546,27 @@
     "flag": "🇦🇺"
    },
    "topic": "Health"
+  },
+  {
+   "id": "c386cb4923",
+   "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "AU",
+   "date": "2026-11-13T07:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇺🇸 🇮🇳",
+    "also": [
+     "United States",
+     "India"
+    ]
+   },
+   "topic": "Tech"
   },
   {
    "id": "3d1ef8c287",

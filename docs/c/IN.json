@@ -1,59 +1,39 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
   {
-   "id": "10b7c29bfd",
-   "title": "Voyager 1 space probe is one light-day from Earth",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmd1ejhMdVdraXJ3eDU3YkFVd2JhNzQ2RjNWSDk4TlZBT3ZfaExBdHFxb0JYMlV0VzlsUkNDWnpMUmtLRG40RHBTelVfS1FQMzJjQmljNUVhNnd0bHI0eGZVRU8yaEk1UTVleC1sQ05sd1IwTzVMQ3RFUERiU3I5dDJGMjNYaEdLcnVjTjJvaU91cC04RzlvNENvSnA?oc=5",
+   "id": "c49a2d40aa",
+   "title": "Mizzou Scientists Edit Rice Genes With AI Tool to Fight Bacterial Blight",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWW4zQW00N01XTmp4NnFnTUNxanZtbzFtbTJvWDJTbk5kNzNmcGNnUjZPWkJqMEdLRFJheE1rMTVtNWxIZFlCN0pidHRlOVJaV2JIUHZaT2ZnenhsQkFxRHBrajg5RVBnMXFrd0x4YTFJT0JsSU4xaklOM1B2Tng1c3NyU3RyZ3R2aXBlWF9udUg4QmtMN3plaGpDRHF3cXh1aGtrN3lhcWo0ZkRhcUZ5ZjZ0a0pKaDFsdjBVbjlPMGw3M3dUS0Ftdmtn?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Naked Scientists",
+   "source": "Global Agriculture",
    "region": "IN",
-   "date": "2026-11-14T09:14:46+00:00",
+   "date": "2026-11-14T10:03:32+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
-   "id": "4ce6642a80",
-   "title": "India vs Pakistan Live Score, U19 Asia Cup Final: Yousaf scores 50; Usman falls for 107; PAK 291/3 (43)",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY0hCaWJzZTI2MFZJOVdkZDZZWmtqNS1Va2hJNllsb093LXl5SG9IVGZoS3h2eGdQQy1RQ2dGNUI3YkZ0bWljdE5WbnRSUmhud0F1cldKZzBqVTVVZDZNU2xOSE5hNFZIUUh3U25DRTJJS1QwZ29FMUp0YnYyUnAxenZQUkoySEUzT2VLQkhLWmg0VmpvM2taRFlqYlRiUjZkXzNfOWZrOTJYTHR0Rm5udC14dEdOSXYyaEN0bm1IRFQ5T1VVUDlyU1lLb0xSdDQ2d2lMVFlqWmHSAd8BQVVfeXFMTUY3dVQ1X1pNSjVLUEI2Y1VUOWZNdExtSjNYSGpIQk5EcGRmS0VTYU5kTExyM3VhUVNEZnZmQWVPTHdOdUJkWUtpX09IVWNHYjBWcXdqZDI2N1pTWG51NXd1SXgyVEhyQ1NsVlM3d3RZcUVMaEdLNG9vSXJJc3dKMHVULWpPNzd5X2RGd2I5ak9jR1VQQTlwRkQ1bm5NS2pWY2V4LUg5QzlTaVVUazdQY1R4MkQ1aTFJaW8tMUk2UTdNOTBqaHA0WHFJaWlkTldzQzNzdVZCOVZPOTcwa1JMbw?oc=5",
+   "id": "5d33c2356c",
+   "title": "Usman century and fifties from Qadir and Yousaf set India 338 to win Under-19 Asia Cup",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjdsTFVoWE9MRGtZSm8zMVNlc3o2VGhKenE0VGZmbFZJWlh1R01HNzM5aTFBX2Z4WThPaS00SUNNWDR3eDZVUlE5ejVzVEZXZm9sSml1V1RaSUhWZmg0anItWURZcjhFeGNGZF9iZTZoT1pXVE54ZmlUb1g4OFEzM1VCR191bVk3eWNFZTdMdFZ4cDBhaUZ0ZTMxVFV3T3huTlU4UVU5TjFoRGstVFdCbldteklfSXY3dTJIOXkzX2MzamZfQnZhZmUyRQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Sportstar",
+   "source": "Cricinfo",
    "region": "IN",
-   "date": "2026-11-14T09:30:24+00:00",
+   "date": "2026-11-14T09:19:42+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
-    "flag": "🇮🇳 🇵🇰",
-    "also": [
-     "Pakistan"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "b172198d97",
-   "title": "HTLS 2026 LIVE: Congress wants to contest in 181 seats in UP, says Akhilesh Yadav | Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWkNaQVZxWWEwdERsTVRrX0tlQVVXY0ZaMnlqMVQ2ZzlCY2drc0FWVmZRTU8xM0hiS3k0NXdmMjRoRE5ISGpfX0U2aHFTUEhGcmRYWk9zZVdtU0RXcU1FcXpvZ3pZUEpudkNLZDhfcy1oVkJWWEpTZzdKNkVUVGhhQm00N3lRTnNudW1Ob2lkZFp4Nm9XVl9jVjBSZURGVWladUdOcXFQLUhuWFVoTkRkdWFGcUZhVVY5SmtEcXFLemJpRUFkVTZlWEFGRnAtaHRFdl9aNGNxWnk2X2hKcUJ5SVpsV0xNYmVZSmNPTEw2MkdZTUZqZHFsZWR6Tm5CdDRseFRDWEtiV1pNbmfSAZACQVVfeXFMTWxybkZtNGROLThNTE1qV0R0S3NjTzRla1dxTHd6c1hjTXAzdkFQdVhVVF9VXzcwTlNWalpGd2UySVBXazFPQ2hwWmdYaWN5Y2NtVHRuUTlHc0cxM1dpWnhjTktYZlNFMU40MVlHSkIyc1RFc0Vjb0g1cE85WGh6Qk9sanlZMURfX1QwSnlsOGxXZ1dKcWoyYnVSWHRDNFNWNFoyZmtNaFQ2OGpzd2VkMjJxNnh3aWJfNG5ldk9IWlBETW5FckxnMHRHYWRHM2pSY2dKSmxzX0ppcWRpY0pWbU5MYnF6R0hYaUVvTlIxaGdDZVhwTVVVQm1JZEFRQi1vZG1NSjBzUWVfWk5hZm9hWDI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Hindustan Times",
-   "region": "IN",
-   "date": "2026-11-14T09:27:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
@@ -73,6 +53,23 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
+  },
+  {
+   "id": "9c6c0a8a86",
+   "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTdIB6gFBVV95cUxOVFhWTENnSVFVSXp3QXYyRTRlNjZaVklTckg3N2VIWk84cmZreXJkVlNrcGZqNmw0bHQxZVNwUTJZMWRPUTJIeWxlOUZtdUdmQTUxcVdvOWpXOGtWYzBNYzFpSld4ZWxkT29GM29mUjRmQ3lTM2VrYmFhLXRYd0t2VUUzaVZqSDNLSHFNdUpENGFoNzVZNUNoRnRDc1ZZT1RSaXRReUE1YkNjemg5c2dFOUM1QVR6bEFlRkF0b0ZUdi1KeWpsWXloZEc1V2JkWm5QNDJsLXg1czdpZjVUMDBkUFAxQzdjSlJuOVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hindu",
+   "region": "IN",
+   "date": "2026-11-14T08:41:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Tech"
   },
   {
    "id": "d11a2ad974",
@@ -109,6 +106,23 @@
    "topic": "Business"
   },
   {
+   "id": "2f872711d6",
+   "title": "Rahul Gandhi, Revanth Reddy ride pillion with gig workers during bike rally in Hyderabad - video",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0sxZHo5XzFJelJfNXJVdkRqd0FlSVFlRV9LZTdTZlVwbFlpVUhLeTQ2MlozVkZxX1cwQlJBUzBMYVVOdDl3T1czSkFOQm5iN0RsMHVMSVl2OHE3NUdyZUpveFFCVW5hRDN2RllwR1dWeFBJbmMxTDhqT1dlN3kzRWJMenFlNXdHU2k0a0w2OG1tWVFySGFpNkl5SU91a0tFd3VmLU1obEQ5bmxVaXdoSzBwc2V1MzYyTV9vc1d5cWZCODVFNHVaTUpyeW15dVhGRFpOOHExQUpjWjh3SjZJMC1R?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-14T07:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "cebb603b58",
    "title": "India's Sooryavanshi becomes youngest captain in men's T20 history",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV9YOGZqQ183c2N0U2phWWFPNGtQQVpweVo2OWRJQVVYWVl0WFltRVJ6YVpXZXlKX3BfVkZuUjQ5YnJFWDQtZldRNE9GWmxfWk93QVN1SXJHamNrOEkxa001cTh2V2lwcE5qTHlIWVJRaVlCd1pDV2tCSlR5bmxtUjlhSlNrSEpBdlV3SHJmWGN3Rll5ZENqSWJ4blprLXN0UFh1Qzd3WkljLWY2ckR5cW5B?oc=5",
@@ -124,23 +138,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Sports"
-  },
-  {
-   "id": "895f2179d4",
-   "title": "NYT Strands hints, answers for November 13, 2026",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Mashable",
-   "region": "IN",
-   "date": "2026-11-14T07:15:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
   },
   {
    "id": "5d5b4a8569",
@@ -194,14 +191,14 @@
    "topic": "Society"
   },
   {
-   "id": "6815552c2c",
-   "title": "3 Lost Foetuses, 2 Escapes: The Troubled Journey Of 'Dooars Rani'",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSElsUUZ6bXlleFMzZlYtY3k1MlRjQU1PN05GejJLTFY0SEhrZndnMjhhUWpNU3hhdXJ2QkJHeDVyQm1hT0pqQkZhN3Q1UDlDSzBMWU1weEVZWGl6U2ZnWEZLUk1Fa1hvWjlWSTRvYkMyNUEtU28zVE5kdkVCVkVVdjdWb3dnSnpJLWhtTU8wTVUyVmQxRDJORmhWY2w4bHhSOVdBctIBrAFBVV95cUxQMl9sY0dYNjhNY3BVY2ZlUG9teU96eUgwTFBCNnk4Ni1ZWDJyUWRraG9xM0puUVpPTmFRUVI3eHNuckFUT2dhS3JWT2tmVmdpSWJRRnV0V0VlQ3NQd3RLcGhaZGlSVTAzdGtiUUxxMFN6aU5GT0hLMDRmeUJqbDJZRTAzRFRfZXJrQ1dvRUF6M29QR01nN2Mxa3czVHZqZ2NOOTdFT0tGX3BEbFdi?oc=5",
+   "id": "bf7815f88c",
+   "title": "NZ vs IND 5th ODI: India's misfiring batting seeks strong finish in Mount Maunganui",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeF95OUZJWnpLTGw0LWc3TEhsN1NvNWJNSEJ3Z0dkd0ZPX2J5OVFIUkI0ZVlxcWpNZVdFQWhjV1ZlUTVtbWphT0I4eUxtTTh5bGpLUlZEQ1I1WjY0Y01YN0t5U1cwZjRqUzE5LUhIb0R5Ry1ROFJSQ0ctSU9iNlhYQXByQWlpSlZYOEFnZWZfOVY2M0JhanJ2eld2YmM0RkpBVGxhT1RoQVRVUS0y?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDTV",
+   "source": "Cricbuzz",
    "region": "IN",
-   "date": "2026-11-14T06:21:44+00:00",
+   "date": "2026-11-14T06:18:38+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -211,14 +208,14 @@
    "topic": "Society"
   },
   {
-   "id": "bf7815f88c",
-   "title": "NZ vs IND 5th ODI: India's misfiring batting seeks strong finish in Mount Maunganui",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeF95OUZJWnpLTGw0LWc3TEhsN1NvNWJNSEJ3Z0dkd0ZPX2J5OVFIUkI0ZVlxcWpNZVdFQWhjV1ZlUTVtbWphT0I4eUxtTTh5bGpLUlZEQ1I1WjY0Y01YN0t5U1cwZjRqUzE5LUhIb0R5Ry1ROFJSQ0ctSU9iNlhYQXByQWlpSlZYOEFnZWZfOVY2M0JhanJ2eld2YmM0RkpBVGxhT1RoQVRVUS0y?oc=5",
+   "id": "895f2179d4",
+   "title": "NYT Strands hints, answers for November 13, 2026",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
    "summary": "",
    "image": "",
-   "source": "Cricbuzz",
+   "source": "Mashable",
    "region": "IN",
-   "date": "2026-11-14T06:18:38+00:00",
+   "date": "2026-11-14T06:11:14+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -243,23 +240,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
-  },
-  {
-   "id": "f189c3c5e4",
-   "title": "Delhi Police proposes 50,000-person cap, 10 am to 5 pm window for gatherings at Ramlila Maidan",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUnZJcTByc0toTnl6d21ESHAtcC03SHNadndSd0IzeWFzbEYtelo5VmFmbE8zOGxGWVAzaktURTI1azM1RWdaWk5GRXZIY05WdFdPOE9pQXlTMEVrY2Q5NkQwSjBtMmJfcnAtQm5qWjdDU1RSNEhoNlp2VGJJRGh3QWVSa2xRQ0t1RzdtaWN2NUJUa1dnNXZIQTliWVIyVE5HaTN0QmhGV3pMRFk2TmRfOG5jWTlBREhYWi1hYTlKTUVmTXNYQ19BOS1iaWM0YndxeTVrVHdyWEwwUFnSAegBQVVfeXFMTkVYc296T2RsbWtfTjJEX01LUTdRVFc0QTFZNkp1clNualZNM09KSk5HUXJWVFJKWVU0N25qZ2ViRlZWbVUtUnhHNTJzUmZaUHlEMzlOWEpDRmQ2d2JhZERYUVo0d3B2Q2ludWQ3bHppOU9SMFMtSnIwU2JvSWhZZGRoMXBoWlJWYmx0TG1rRmRWSTc2TFZwaFBMLVVhUlNiWDJYUVJtWjI5STlqSmxSdWNuaFUtV2Y1QkNYbk51enBVbUpHOWJJaGtwOHV1VGJjLUh1S0RfVHlJSGNwamwyckIzVXBxSFpPQw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New Indian Express",
-   "region": "IN",
-   "date": "2026-11-14T05:48:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Politics"
   },
   {
    "id": "0a12c42e46",
@@ -292,6 +272,27 @@
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c537ff521f",
+   "title": "Trump, Xi and Putin to hold first three-way summit in China",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmk0ejVORmZqQnA3RktiXzIxcmh3TTc1NE5CY3gtUVpQTkZ3dVNXencwMHRfX3BqVmN4Z1dtRGlzWWxkV0llVkY4VTB5Wnl5TlA3SWM4OHVuTm5BeEVkMVVQeUV2U0dFRDRFRTJmc05uWjBYOGxLREZDVXRHeFhpX2NNdVhlNVN0UlFYUXMwa2tkWlNad1FnM2xqUVhRSlZVZ0HSAacBQVVfeXFMUDhyd0hGVV9iWXZGcWRVVFktak5Cb2lES0U5eGY3UTdObG1pamVxYkwxbW4yVW1oUXN6d2RzS2d1Q1I4S21VelFjODZnZUZNS0RrOTY1NEJFWG9JTHZRWXY3SDJRUVNqQzF4QWVIOEFHRTNUaUVPTUNJb3dwOU9Tam1rN0dFRW5sMTBaYlVBTkpwZy14bjJVc0xmWTgzZ2E2czVRMUd5bEE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "IN",
+   "date": "2026-11-14T04:58:26+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
    },
    "topic": "Society"
   },
@@ -347,23 +348,6 @@
    "topic": "Society"
   },
   {
-   "id": "753574285d",
-   "title": "Delhi horror: Woman objects to being touched, beaten to death; man arrested",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUxXSWNockxRUlo2MEQ4c0Z3aDZ0YlFjcEpXZFdGcUo1RUc1RzlYMWp4NHg0bGFMQTdlRUs1dWdFWFlES3FCaWpCM1FCa1h3bmxraU16SWdXRmdZdDBsS25SUlpISHZfTU1nd1VBckthMlFZSmlYbUs3dTBXbTBFMkM1anM2bVE5cjRld1NZUlRPU3ZacUtOR2hqNV9UX2RCVjh3V1JZbmFnWlNJRHlsQXZOU0IxMFA4RlZnN1lYaDZGd2x1NDNkZXJaVUdiREo3RHJUWW5RRXlieVhReEHSAeMBQVVfeXFMT21EODVpMHBjSkdaU2NSZVlTUXJkZG5taTd0NldzaHFLNGNhMWN3RXl1TEhSNFZJVFJLei1LLXRkcE95WUxraHlJNFpPVFIwT1hkRVFqbThtazAzMm9ONlR6elRyLVppcEVGWTJmLUY0Ym9CbTE4VmRDR05PeE1EUE5rYUd3Qnk3RGN1M3lNQUxhenlaTkwtUzl2ODQyTHY2enY3bDQyTWM2b2VzQUtsV0QwVnJUYi1CM3BEcXVKLWFHVGFJNGdSWVYtWG1raVJDZERsS29WVGJZd21kWTZfd29DRzg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-14T04:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "536a19df32",
    "title": "World Diabetes Day observed today to promote early diagnosis and timely treatment",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3hvUU1tYTJyeV9jdU8wLWhBT2xOdmFPOEFscHNOX2drZ19yNldOR1dPeWhJdXVSVzY0dm9Pckc3X0plemw2dndBY0pOX1FCRmMxbmxpUS1wdEIzLVFCcmN5eThHdmhTVGY0d29LekJzUzI3VWp3UXRBUk9UODlhTUNlUEhfdENKdzllYUp0R1BXYUFUeHpVdGdZcHJGdlRSN1dKSVdLeTRDVzg?oc=5",
@@ -379,44 +363,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
-  },
-  {
-   "id": "fd39e9ce40",
-   "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEQ5Q1VoVkdRb01adXJnWXVmNG5oaFl4SjJobDdyVVFaUV9YN1NXSEE3RlhvV3FnMGU4SDR4cllQTEpBM3FUX1pqNUZUOHJOOVBVTWhDQzJUUkk3VllqdG5NVUlQeVB6VU9rT3FaSDRud2xFMUNpRjZSdHR1bUJPWDFPd3NXMmlWOUtyVVlmQWk2eTZueThxNGZ6OWZRTWR5TUx0b3NfcFhwVVduaHRoZWR6bk9uYlp6YzNkX19iOHBwMGhvcVJlTW1pT3VQc3lsNFHSAdgBQVVfeXFMUG5mTEtnOGtRVjBKZGhucERSQmdvdFVxd1hQR1JMVjlXd1lsN0gzdEhnbkdTTjExQVhpZUpQYkFxRkt6aWFkS051V2h3ZkFqMktidTAtTWQ0Z3lqWVF3d3gxZ25xZVZfcEZLbXp0VHZnaktNUWZoVGRlUnd6djhEOTMteW9sU2ZYY0tFeTl6TlRnV3VkUjU3b1A1S0hVVUtZTUxIMnM5OXJxLUl1UWRXRDZXMktOZlc4b05ON1RoVHVyWHQxRk4tSGNQUEo1aWVBd3dOcF9DUVEz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "IN",
-   "date": "2026-11-14T01:47:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d3bb98312a",
-   "title": "Microsoft Outage updates: No ETA yet on full recovery, company says",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hindu",
-   "region": "IN",
-   "date": "2026-11-14T01:18:21+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
   },
   {
    "id": "082b669829",
@@ -436,6 +382,23 @@
    "topic": "Politics"
   },
   {
+   "id": "fa10b6acd9",
+   "title": "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chip exports",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWhOa1hRSm9nSDRZQ2lhUGtsSXYzcy1icFlsa1FZMkxtM3E1djVtVExzUGdRSGp4TXhqTUtXNkthSDdScUhCamFLb2lXYmNtMjlXcmJZSjBEeFJVYUdDWTNfYWRZRFFKRlpjb1ptOTAwNWNvNlVESC0xZGM5OXRQSldNb3RkaEh5SGlWUGJrcW9kNUVrRjFBVmt6SWp4OWxnd3IxcXkzWDgwWUtNWmJEdXNpam1uZWdMcUxBMg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Japan Today",
+   "region": "IN",
+   "date": "2026-11-14T00:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "ae87096465",
    "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
@@ -453,41 +416,72 @@
    "topic": "Business"
   },
   {
-   "id": "3363ace761",
-   "title": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was ov",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVWdNMXpwS195M3pXV0tCbi0tZWFqRVpjSV96eEVxb3pvRVpURk56NUVkVVc2YndVN085WGFNTllhdHZ4UHpDN0FPcHVHUlBFdG1hSXhPamFBalROdEJhUzBQQnpxekFEd0RmaUFmNUFKazJ5MDJqcUhHdWZpbkk5QTlsVHRBUDlOY1lyLTF1YldKd0l2TVBqMW4wajBHN1JFYUVYRzNZYTJ2b3hOTVpKVlBhc2RTUUhsaVNaNlN3V2VQQjdSZ05VMDhyN3RpQ0pka2E0bjY0ZkhhdWF1S09KVWMxcVp5bVNaQTMxdjhmazg0c0xDd1dnZ0RFaGs0U3FtOG9rdE5yeXRjR0hhNnV1QU80eGFJU2VOX3BzRmlqUWE5WGt6ai1WYtIBrgJBVV95cUxON1VhZTdHdGxiX0lKRHJxSlBZa1pMSHNIVnpsMWRQNklaYnhBMUJrOVk0NzU3Wi1nNDhsWml5TEZhUmRneXFOS0pJUnhMVzUtZDljNDh3cWJmaHBNQy1uWU5zNzR5RU1VRGNOTWJhMVlNbjBjZThpS2FyZDJRLVVxR2h2SmRfWVp2WEZMLURwU3lGOEsyOUhpdDRqOFhPT3ppLWZoZHJjTGVRY1lQanduVWRBUE5oa1dGYVoyVENsbXdGZEgwaVVHOFVfWm9HM3k1Nkc2X3Vaa3R1ZTVsNDZpQ3M1LU1qSnNncEoxRFFpQjMtWjZvdTRBUF9wUDNZZkNvc2lmS1NFbUVvS205VVBsUDdrRHhOQzVpSmhBeWU5QVFLTnZmTEtQeXlKR0Vudw?oc=5",
+   "id": "e3938646d0",
+   "title": "Protocol helicopter which accompanied PM's helicopter, stationed in Mysuru",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa2RnbmMzUWdBWnUwRTV1azI4UU1zTzdINGNkblJycFRodGUzbFV3djd4QXdERm4zUnhtWTlfZW9PMVdWTE5PaGxIN3pVOV9JSGFnRTMxeWRrLXZyeTBwLXk0cy1yYXRoc21vMnVsUzYycHJxNjhnNW5JR24yalZiVDFLelM5UENpX1BtcDd5VXFPSmJMMzYzWHIwN0pBdHhSVVNFOWNUZU11U1FOS2JReGZPRkN5eFpqaS16NHo2c0dfQlkzb1BlRHBmLTU?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Times of India",
+   "source": "Deccan Herald",
    "region": "IN",
-   "date": "2026-11-13T19:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇬🇧",
-    "also": [
-     "United Kingdom"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "24e1fb3be7",
-   "title": "\"Like The Dotcom Bubble\", Big AI Opportunity For India \"After The Froth Settles\": Sunil Mittal To NDTV",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXlQOUQ2ZGdKenYtRkxWemM0NFBYSjdyWW51UzRFRVB5dVIzS1g4MlN1NHVzeVcyOGo3NG84dWtGbzdpUlZWT2FRUVZudnJHdlYzZXphdURBRzE2b3RiZUIwbG1rR1hHbW1ZdUhiU1lFTjN3bk84TnQ2aFpud2l5TVBKQ2tvY05GWlFGMDhIVU1TR3BUeXlPTGFrTmh5SWJCMDVNSDFadFdsS01UX3V4dkh2X2lERHBLWFFjYVY2NjFFOGpM0gHMAUFVX3lxTE5CMGdDUGstSE52RTdteEpFUm8wcmUtLVd0djd2SEtsNmc1QldfWkszT1g5VzJYamprUDRLVEhtd2lKS3FRVTNmZW91Ymp0WGZWMGpuNTFOZHl1MTYwRWY4YXpwM3pLRC1XdEtKS29ZbXFZRDFxVE1QaWtoZWFucU9GdURtRzRkLUdFYVdQT185eWZKMjRYRExiVVQ2OU83dnNyWUhJcnRoZ2VzZVVTQ3BBbzdCbGtrNVNQZFdBcjVMVlU0cEFOZUstM3RVbw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NDTV",
-   "region": "IN",
-   "date": "2026-11-13T18:26:02+00:00",
+   "date": "2026-11-14T00:01:28+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
    },
-   "topic": "Tech"
+   "topic": "Society"
+  },
+  {
+   "id": "125237f113",
+   "title": "‘My phone tapped by PM Modi’: Rahul Gandhi’s Instagram video and a dare",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTldQTEZlUUtCX3phLWR2VXZVbDB5cHFVdFdUWjdMeVdGMnFobjRCblBQRU0xTl9QcHhra1BBYWx6ZGRGN0xxTlZLbVcyYTlCM1o4RjNYNmhJSlVNU216VEttU2dRTnBlbUFPbmp3Wi12TGRodzM5aE91TzVRZTJuWHRqU2E0QWNKWHlRVVZOVW04TWhOT2ZXTEROeG1tamZncVItNGZoQXNJcXB6eXhDcllIUk1MaFZqZTNwRUZRamdMTFNxMUZB0gHOAUFVX3lxTE9xMTNITTJ5d0xib3JsMzR6ZVlYR2JIWE5pSjNiWUtuaEh1TFFCZjRjV2I4YTdLTnFwRmE2bDBEekJOdTNGN2tWTGp3OVBIVWYyU012VldOSS1scFhBVEVqOU1Qd0dVWlRHckxjQm9hSXE2d3pBcHVmY21iMnZfZDd5cGpKb0xqWHYxSlBPbWRhbWxncjhhZmJsY1pXV21UaVRjQW5qa2ZvZ3RfZUVjXzZFTUJzN2ZDMU9lUF9zeHNWemI3MUdHa1NxVjRjaS13?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Indian Express",
+   "region": "IN",
+   "date": "2026-11-13T22:37:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b54308e6f2",
+   "title": "Khambata 'strategised' to oust Srinivasan, say Tata Trusts VCs",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNblFwVksySkw1el9TY2ZOTUNpQXR1XzdqRzdNTkc2bzhScVFoYk04bktuTFYwUWdnRTEzeTdfcmU3V1hIeUxDeW11R3p1Z3hNNld4YnpWdnE5QXEwYlVKZkFfbE5XQ21IS0c1XzR0ZTJnQk55Q1JSdG4yY242R29QMjRsRThOekR0NjNHRUJRZm54N282SVcxSWJMOXBFZVZoM0lUaXRXYjdJa3V5djBsYkFBNEFtTGtLVThjZUZjazR1cHhFMDhtVVFvbjZ6cVk0TGtxLWJVU0NlTzdtWnfSAeMBQVVfeXFMUHVyeWRlbGhzVVAwSDJFaTcxSlMwUEF2a3MtZVBEanE1UmgyVi1oV3NfNk9pLV94eXg3eFpWMEpiN1llcXNJT1lrN0tRY2xRTTNKUDQ5TXNGWl94RjVVZDZLZmhYbkFQUkk1SndmRHZZUF9veEdSbE14MVBFSFhuRUNCR3poQXo0V1BVYTRWWGlOM0NZaW9nREpQNS1uWGt6djdmemNhMTk4aUExcmszMEJLRm5YVUpjQWtVUXA0Z0RjeDNZUHlGLWQ2SkVHQnhROW5fa0puSkpEMDZEM3BEbHlaYW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T22:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "15e777a529",
+   "title": "All passengers, crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTdFano3SW9GYUFlNmpkWnp2LVo2YkhiQUlLNVExbzlyU2VGVUtnR25MQ0Jqbi11R2VjOTM4V0lwLVZyOVZaeHhYMkFDRmJJb0xjM0Z3SUVmbkRRODFqSzI1NGRUblM4WlgwUDVycVB3UHJsOVFUdGszTC1lLThrMkhvcGxjYkJBbVFiWllKSFFEWGdPa25RMGtPbEQ4SmRvUmR3QTI4TnY5YW01a3Zld2xpQ2hWX1ZuUnfSAcABQVVfeXFMTnpUZ0l4NXkyU2JvTFdoUHJqSnhZNHlrWmJPTzhqV2c4Z2x4TXB6TnZUV3RGZEdXLS1zXzBSU1FzSXZ1R2dzQWJxVFI1bDlOQ1BENHFPSEJMUlJva2RPVHZab1JKbkVYeFpKcENJdTN1VlBRREpOZmxtcXpZbjcxamxzQU5hV1ZRS18yLU5oRUp4THZzQXNvS2hZa1I2ODZSdVZKTjNkY3hfS3hGa0pnTWRITUtOcUNvTDhmQzNIU0Zx?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hindu",
+   "region": "IN",
+   "date": "2026-11-13T20:53:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
   },
   {
    "id": "5407163776",
@@ -505,26 +499,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Weather"
-  },
-  {
-   "id": "b8401822a8",
-   "title": "Huang's China affair may fix Howard Lutnick, the man who wanted to fix India",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDdQQXdrci1QLTVUVzhVMU5ULXhvTFo5SnpreFBiZWE5QjIwUzl1Yi1oM1ZnTmdldzAyc0RaVmtJclJFNFFHcklhcUR0dGEzZ1cxejdiSUFXM3lUV25KaTI1dG52RFM5dml0a0RiZm9YaWZhWDVlZU0yaUNWRXBIcldBdWE4NDJ6WDllb0pTQ3JaTXNrXzhNQTJPTl9LS3M0aWJzTTZEYno4ek91eEw4OXdtRnVFcUJJV1hfMXVKM1k4S1VldDdmNlZ0cTFxbVFodDJRT3phX2xwWW1WWDMtclMzeWp3OE5oSDdVT2dOWUIydFQyU3FmdW1vNm8?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-13T16:59:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳 🇮🇳",
-    "also": [
-     "India"
-    ]
-   },
-   "topic": "Society"
   },
   {
    "id": "0324161df1",
@@ -595,14 +569,31 @@
    "topic": "Society"
   },
   {
-   "id": "2991f3be06",
-   "title": "Stock Market Close: Sensex snaps 3-day winning run, ends 319 pts lower; Nifty at 25,144; VIX down 7%",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSFRvLVlZT1lZRGkyWUZkT2t1b2MyRnhNYkIxeDRQWm9qOWtta2hqZUpPb3FNc0l0V3MzU25tbDZpMU1waVdtUkhFM3lkY0d4SDhnNEFZQ1k3Mzl3dll1VmZzQmZZNzhtR0ZwTGJPVjJtWm1BMWwtRUc4emVNSHpkdFFvV2JaTEtwRlMweXo4Vkc5UWRHbGxCWmc5ajZQaDBKdHA4RUV4UUtlN01SdmYxTHdvdDhaVmwtWmg3REtNQ1VNWE1pUmU2cWhEQ1lwVjlVVzRaVjBlbDFVTVJISmNuVklTYW5IRTA5MXhsT3BaYjdmTWo1OGVBeHV4UFRCZlpDQlhJ0gGIAkFVX3lxTE5qWk5IblVCT3Vuam41VWx0Qnc1MkM3NEppQTQwZE5UYmg3djJNVXlzNENia29rZlZWWkdtMzJZbVNxbEhSU2h1VzhZVTRDd2I1ZTF1dk5QLXRSMC1CWFN3ZHVYeEdFdDc2Vm5JbHR2ay1yTUJCVWdjMHpleFVnQWtKM0dlbzhvd1lETGZ1VWJhV1lJVXQ2dkx6Yjh4cXBQNnRuQkR3S0JJUEs2Y2JNZU5aNjRhbG4tcWRwaDl1T2pZYjlSS1ptZjhYVHJCSmpha1hZWEtvOG50ZTAxYi1LQUJBdlZTMGVBeVA4QXYtX0d3Rno4YU9vZlp2QUpxNWpXRG1mWTIzTE5zdg?oc=5",
+   "id": "39771acda2",
+   "title": "Virat Kohli's special gesture for Matt Henry goes viral after New Zealand pacer's six-wicket demolition o",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdmxNSlpIbGRCcWZEZWx4NVE4QjJBTUVyWlV3dTN5MzJLbzZHcVh6SWIwVk1BZE1xejJJblJSTGNPUHhfS1UyZlQ5bzAyQkxub1p5alZZQkgtVjBnRzZRWDN6aVM4NFlEWXFTZWgtcVJRUW03bXMtX0FFUUhUTHJieTZnU2t6aV94WTdLU3kzMVFZRXVWNEd1RGZhTDBmSHdlTUg3MmRHSEV2dGh3NEJvUnJxMXZqTHlKV1Bkd1NJTVBCYzRYQ3ZuVEIyclUxbUNHQUlKY3ZsLUs5akM3X0c5cThpU0JFVWQ2N2dvZVpNRVJPclJrTjVzVklNOVB1QnpxUV9uSGYydFVqaDdJSGhNX0RTc1VtaXZpcm1sd093WEd1aU5mVlNyVHJsaC12TDJ5ZWfSAbcCQVVfeXFMTUZtQWJZdzNwbk82RGplemVUQUtzclloOGdySG9Tc3ZCNU12Qm9oNHBYT3hmUzhkcDZOTUVObWV5bEU0aU1OUFNmZlRtbGpaeWhJa24tRG5YMUE4NTVmSUZnMnNWTEdkXzZ6dXUzYUM5bWIydUJJbm5oVG9pbmF3Q3dYbENqWFAtQXJEeHFHS3VJQVNsQUl6UGdmNmwyNzg4MGpJaGZFN0pFZGsxMklySDhxNjhOYlZob1M4MnF0SjlSZndBWFFMTmtqSEk3eU4zc1RqaXFFU1pva0xEZXlrZHdDc2tNZkxuWUNnblFfdXVib3puSVpYTWpxbzY1T25BMnhhZXpfblVBTGVPVFM5OElMQ3RRUDVlbVdlakxvNEcweVF5OGR5MUhxdEl5Smw0Q3hCX0djeTQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Business Standard",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-13T10:39:26+00:00",
+   "date": "2026-11-13T11:34:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a06d4729ba",
+   "title": "Apple's first-ever IoT hub HomeView, hits stores in India today",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOWtMbmRoYzZRRnBnaWVsWk1zYkNZOXpEMzR0ZzhpRzZHNnhFVzgxZDFMd2RUd21TUUdEMzBpOV9lUGZQZ0F4eUNJYVhQT3BoTnZwVnhiUEdNblMzbU9NVktncE0xSjIwa253eFBTU1F5cHdFX1BjQnRDRkJ2OWhoSkhsUHI2bkVhcGtZajJRTWhvTWN1eWdFYzNSSlFVeVI3LW1wNzR3VU5DRnN5QmlSSlE1MWhyYy1STTlrcTdYRi1nTUhlSHpwVjFNbHRpUQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Deccan Herald",
+   "region": "IN",
+   "date": "2026-11-13T10:27:10+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -629,56 +620,19 @@
    "topic": "Society"
   },
   {
-   "id": "30253cc561",
-   "title": "PM Modi Inaugurates Bengaluru Metro's Pink Line, Takes Ride With DK Shivakumar",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjdKTjBOY2otMHNQek9nZjF2N2QwMTN1WGVSSlhsUjR3aWNDNEZTak9PLWQ4UzU5aFB2TExqX1FwRWwwZXpOWVVlRldkR0N6QzM4eFh0RWt4eDcwVjF4Vm95NXdVbU5oUHdmYjRWdHdHRnM2WXNHUE5nM1JGTkVYX0dtbW0yVC1hSkhTdzBLSlFacjd2SXZyU1BUWUZibVZlelZ5VnJYUWtlbXY4b1FDQnVhZ29wYm5KbUNKa2930gHGAUFVX3lxTE1qQnM0dkZINGgxYTBvdkZtclNKeExmRUdJSkZCV3p3TUhkRHRKTFdwZTg2Qlc2SXdoTVZOS2lERlNfMXdFLXpQdXczeER2M04tYXdEaDR3SUE1aGszUVlWbmoxX3MzWk0yRUNXal93VTBBT2VZOHhuazR0MUZ6OXV5U2lBV1owVWRVVl9yb0pCT3JSVkE0QUtPbXZXMGQzVjZQeXpyWW55a280WTlYR1pZb1Q4N2x1WExNZWwxUWNzNE00ZVNRZw?oc=5",
+   "id": "90cc83f466",
+   "title": "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjIzMXU5XzlDRzZwb0F0OExKYnFKcEhwQ3J1QjFCQzBRLUwxb0ZfRy1GYWI2cDUzc3hSelZYbG5yRE5MbGE1QmF6eFFuQ1BZcnJsMXhUdnMwdHJuOHh2SnpKZWhESGRUQVFfblprUjhWNktCemtrRS1ZdFowTEswdlFaWXVpNkJzWG1Td0VGVHlVRlItQXpnUHJoekZlcG4yVG85Zm5UQklPVXgtczA3eXhGRXlreFNJTDFB?oc=5",
    "summary": "",
    "image": "",
-   "source": "NDTV",
+   "source": "The Economist",
    "region": "IN",
-   "date": "2026-11-13T08:19:46+00:00",
+   "date": "2026-11-13T09:23:37+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
     "place": "",
     "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d6353c753d",
-   "title": "Color OS wins over more OnePlus fans than expected in our latest poll",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTAxaUowT2xVNDNRbVBsRlk2eWxvdjNjdUVQWW9ZMDJ2SXdCRXpfeWFLSTdXbnJlVk82R2pqVzRYSmUybmU1VnhINHFBV2hCMWVQdk51RVJjSXZ2aDlmYVJxRFZ6SElseUJ1NGk0QUpCY3hTd3lkLXZyeExPUnFULTlmZng0X3RkTHc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Android Authority",
-   "region": "IN",
-   "date": "2026-11-13T08:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7ba8731097",
-   "title": "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSC1vVVQzbERPQzBpMkRJeWM2SVNvZGFPZFE1RTdPVU5WcnJYV1psaFVsVHRiaVE3dmRMRWh0RHFtTXltdkdZdU83QlJjaExDYXRacWlydnI1cUUwY1BsdHdpaDdIa1JBVWdBVWF0aWdzaGkySGhHSmk3dFJYUG5Wd0xraFdrYUc1TUYtQ0Q3b1RwSkxqdmM3Z0VXSFpnSmFWY3hhOWxkY29SanJCR1JlRnZpcE83cTFwYXVqOE5tY3FZSFM5ZkZ5dFQ2SWw1YlVuaU93MmZtQ2h3OVBLa2xnV1VOeldTSW5RTFVtZ2gzV1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-12T18:30:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳 🇦🇪",
-    "also": [
-     "UAE"
-    ]
    },
    "topic": "Society"
   }

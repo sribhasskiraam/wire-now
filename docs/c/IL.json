@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T09:28:33.578808+00:00",
+ "updated": "2026-11-14T10:17:02.300426+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
+  {
+   "id": "a8640d2785",
+   "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlg5VkVtWnBvVVBmY2IxcGd1akVUa1gwOFRlVnRsRmFMSjY2NHM5ZWktSzZRSGtHejlSakhfOHN5eUswWjBWN0NuLXBCX2pZM1FkSWFaM3p5TjJKdkNONEx1bXpXODJMSThIaHpkRUxxNFgtTll6T3NPWFlqQjlQTERiQWVJTWxOcGpRMzdRVkVnMmdpSTlvYmdiWG9PTTE5S0VrYjAzRzVGZnE2dXY3aXVn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Al Jazeera",
+   "region": "IL",
+   "date": "2026-11-14T09:53:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
   {
    "id": "a33a322211",
    "title": "Feature: A space shuttle frozen in launch position offers rare sight in California",
@@ -38,21 +55,38 @@
    "topic": "Society"
   },
   {
-   "id": "c6e93f5852",
-   "title": "Send one prompt to 6 AI models and compare their answers with AskAnyModel for $31.99",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhxeWVNMjY0WWhlamR4WEN4TzBEWU51OF9VWUIxYUs1cUxxczJPZllCeFZpTXFhZmRIQ3hvMUNQbUl4WFA3NVByODlSWjR1VzVrXzFkZjM3UF9kcktKU2VOQW1yc0RhbFBGd0hrNlg4dzhVT2N6bTJLNVZQS2VMQkFnNXM?oc=5",
+   "id": "1068860c29",
+   "title": "Airport chaos as US grounds all flights for hours over tech issues",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadHk4LURmeWRBc04wcVRoZXl4eWpxUWJFYl95MUdoaXVyZkxCaEhjQXFzcEdQQmZYZUx2N1NuaERuT2R2Q295M2hGSkxYYmQ0WnpnZXRxNFFRLVU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "IL",
+   "date": "2026-11-14T08:42:50+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "84d60ea026",
+   "title": "The ASUS ROG Strix gaming monitor has dropped in price ahead of Black Friday — save $210 this weekend",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRRkt2Qk1UXzljSG5ZaFJ6M050NGtfNF9yWVFBYWJWbHdoVFYwS3JKLUpIcGgtNGRLZjJKVERPWGxNb2d6dF9IVENmVW92MVpVdGxybElOS2VMbThtelhnU2drREJCeVB2d2NmUlJ5VHFvb2pQQWVZSFZiQQ?oc=5",
    "summary": "",
    "image": "",
    "source": "Mashable",
    "region": "IL",
-   "date": "2026-11-14T09:02:14+00:00",
+   "date": "2026-11-14T08:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "fd6cb292d7",
@@ -68,6 +102,23 @@
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "90e598353c",
+   "title": "In new memoir, Biden accuses PM of making repeated empty promises to reduce civilian harm in Gaza",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1ZtQ1VXTzFubnhmQlA2ZVVRQldBRElLZDdObTBRY2tiUGVXZUhxTE1oUzlJMmtIMHU0cFBaQWx5d3FDMzRqWnc1MWlhMmF5R3pockRSRWpBd1dqNGNUX3I5N2RxVTdKN0sxQmJRYXpDNXZRTVlweURvZzFydk9acjBSNlA5SGlEeS1fQmFyMHpfck9leWxpM2ttSEZqVUJlR0JBeVMwT0h3dDd0UVJleFRuQklMZ1E3MXBPV21vcTdqSTBOQnlnVlJNcVdLYlZpLTRId09B?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Jewish Rhode Island",
+   "region": "IL",
+   "date": "2026-11-14T07:30:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Palestine",
+    "place": "",
+    "flag": "🇵🇸"
    },
    "topic": "Society"
   },
@@ -89,26 +140,6 @@
    "topic": "Society"
   },
   {
-   "id": "3d8bfb0d22",
-   "title": "Ireland seek Austria win in bid for Nations League promotion",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmViUnVNWHVNSnRiNnNSR2thVjVFdkNoWkVBcEwzMHBOUEFJTDQ1QnMxdmJRTzRDbEtMUjRlSVBndmlDTzl3MXFRS3ZrVzl3bHZQS1k5bG9NSEhLSkVyVzU4eG5ldDBySDRQbDJwOUZfcldCa1NzcHFkZWVfalNmdzVhazE4LXFoZmFfTlV6Vm0wXzJwRGRQUEdyUlhDSmNjUHk4V0pXUXFkZUhqVkN6Y093?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Irish Times",
-   "region": "IL",
-   "date": "2026-11-14T06:01:11+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ireland",
-    "place": "",
-    "flag": "🇮🇪 🇦🇹",
-    "also": [
-     "Austria"
-    ]
-   },
-   "topic": "Society"
-  },
-  {
    "id": "229c25dd0e",
    "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnVQRU9PdU5QdzM2RFJrZndGam55c0ozNGg3ZGFCOU1fanJReWduRWZrRW91M05vWlYxWGJKMUY5czlIWFRzclpqRTlpQ01uRWFmc3Z3OGNPZmlOdDNBQS10bjgtMDhtanNkcXU1THM0VEVpNmVTT2V2WElCMjRYVFRUbDUta1h5RkhQVmRDak9WSWlJZHhtdl9VdFZuU0VLWEdWcHFIOWNpYjA?oc=5",
@@ -117,6 +148,23 @@
    "source": "European Spaceflight",
    "region": "IL",
    "date": "2026-11-14T06:00:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "fe88247392",
+   "title": "This week Sony revived its classic Walkman headphones",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SEtGenMxM0pEcm1vUHhIOWkyeVY1cDVxWmUyX2dURmZlQjc3a0RXNTZWS3IzTVgta1RfeHV0RVJtVVZyWkwxOTVOYXRGdlVTNWlxMkFZRlFKVGVIRURTZTZPRWNIaUxyenRyTmhJU0loYlNBUDlj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dezeen",
+   "region": "IL",
+   "date": "2026-11-14T06:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -160,14 +208,14 @@
    "topic": "Society"
   },
   {
-   "id": "df534cc22a",
-   "title": "Biden says Benjamin Netanyahu put political survival before Israel's interests",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SSkg2OGtFVWt1ckxvNnJwcXR4N0QzQ0RXNUh2bmtGcmZnZG5EMmZOZUVGZXpnRGtpLUFILTZIM0otX3NTdWZQNUc0SzlCcnpLNUxtNnhPdlJSMUpnLTFv?oc=5",
+   "id": "8afa9d95cf",
+   "title": "‘I used to hide my insulin injections on dates. Now I do it proudly’",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPSl9QNGEyNG51cl9reHNiLUVXNEJkdE1LU000VnpFX05ESGZRXzRmeHRZbG1LSzRKY2NZeXhGWmtoaG5uc2Z1UW1kdFVTU2NBcmVtVDdQTlpaam1SMWVNOW80bzBET0tmLWxj?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Jerusalem Post",
+   "source": "Ynetnews",
    "region": "IL",
-   "date": "2026-11-14T03:00:14+00:00",
+   "date": "2026-11-14T02:48:37+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -177,14 +225,14 @@
    "topic": "Society"
   },
   {
-   "id": "8afa9d95cf",
-   "title": "‘I used to hide my insulin injections on dates. Now I do it proudly’",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPSl9QNGEyNG51cl9reHNiLUVXNEJkdE1LU000VnpFX05ESGZRXzRmeHRZbG1LSzRKY2NZeXhGWmtoaG5uc2Z1UW1kdFVTU2NBcmVtVDdQTlpaam1SMWVNOW80bzBET0tmLWxj?oc=5",
+   "id": "4050fcaad5",
+   "title": "The path to the final four: How Svitolina beat Sabalenka to join Andreeva as a Group 2 semifinalist",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2xMaXN2bEwzYkgtN25UcGRRdTNlNzZWdndObElwT2dUbko2LUxSQVNDR1AtNk0xN2NydVVvOTV2alFudzFlOXFpQ2piT3pwcjNOUkszdUZlMjNOb2s0cWtQZXFjNkpydDhOWHJ1aEhxLUVlRHRhT0ptX0FDU2VxSEdXMVJEelcwSVlBdmFIbmdSQnkybklUYnpmUmtRNkVDdHZDQklxR2d5WFFfTGFv?oc=5",
    "summary": "",
    "image": "",
-   "source": "Ynetnews",
+   "source": "WTA Tennis",
    "region": "IL",
-   "date": "2026-11-14T02:48:37+00:00",
+   "date": "2026-11-14T01:05:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -279,23 +327,6 @@
      "Iran",
      "Qatar"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c9a715a8d0",
-   "title": "Physicists Find a Mathematical Limit to Making Time Run Backward",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUluT3hRcDViam5qSzVrWmpCZGdxOGR1c2lkSU9qV2RENkZkV09ZYzVGUmg1WkxsWDg2MkwxNGVHZWpUZUprREc1ZldMVmhfa2RaWldicE9xS3MyYUczWFpneHRWTzNWOEc0dUN5VHJuMUxjVGQyWjFNbm9vaDBhb1NGcmlrOU1ZTlNxWlkxbUNBZmFhOFZqMg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ScienceAlert",
-   "region": "IL",
-   "date": "2026-11-13T23:03:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
    },
    "topic": "Society"
   },
@@ -406,40 +437,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "4396311283",
-   "title": "Change Is Within Reach of the Hand That Votes",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFdJOW9qcVg4NHdwcEIzOC1YV19LWDNoVUFJQ3pCZjFxdGxwSFZPSUxGVnViZW9zVGg5SWh2cXg5NEZGX1NabEZUVGRnWFl4eDJDQ3ByY3oxRHUxVU9OTEMyMEJxSFYyUm5kTlc1RlRJanpQUjFEeXZtc0dvaGNhOGp3czE4dU9hU0FDZHc5aEI?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Media Line",
-   "region": "IL",
-   "date": "2026-11-13T17:49:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fdd7327b00",
-   "title": "Israel moves to secure critical minerals for economy, defense industries",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5ZWhjdV9COVRKMFUtQWQ4QnZ4SnhhZndxd1JaaGhXQ1R3cEJNREhFYjdCYjRuaWxMVUxMTXFFdkZTUU1aQnFqWTRYQlk4M1ZOckJVVnhoZldtX09j?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Media Line",
-   "region": "IL",
-   "date": "2026-11-13T17:49:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "da40ee5a44",
    "title": "How to Watch Hallmark Channel's 'My Christmas Cowboy' Starring Amy Acker & Luke Macfarlane",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkRKMFAzYW9RWjBCV25zaXNPVmhYb1NQN1NiQXpPUFhfOEZ6eEJqYVgxc2lXdkxfTTlxRE9CbXhSR3lDRkZDWTBobWlfX3VmWjR5YTh4WHIxZ1RCRGFnNlZ5MUVlZFJCajMtSUpaRE9BdVNMLUpfNWxsRUVrQnlwOGxySzdzR0UzcmFVYWN3XzFkU0dFZDR0QVNTYTdrcVJ1SEJObXVnUDFWUXVvMFg0eWdZQ3d3dUNrQi04anlabm4?oc=5",
@@ -508,90 +505,22 @@
    "topic": "Weather"
   },
   {
-   "id": "fa9d24b64b",
-   "title": "\"It's a wild situation\" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVEgwelRwck9sZ3l4QkhlQXNJZzNvM2hiVlZmNFNsaUxhLVhIOXhaaUtNWjRZSmxiRUJYdHBuUE5sY1F4ZGpGaGlONmJCbnh2UkNOSE5FbFBtRUNLcUFoZUlEMUVjZTc3clpiRU9vcnVLcHBRajBoNHlCN0x5ZGJyODRMQ3RJSzhNU0p5aE9UeS1SZmJ3eDh3QlppbVpRQ1FBdWMxd0N3OUdLOVJNaXBrcV8tSVg1SmpydWs2Q1VNT25lWG9zYVJJa3pybHp6MXVFQ2J2Z1BvTkQwemNlTFlUMG1aUko0UQ?oc=5",
+   "id": "e2042d649d",
+   "title": "Six-year-old Gaza burn victim caught in Israeli dispute over aid",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFo1ZDdUVlo4bHVVckx2ZkpOazJxa2Z6ZjhDNmhfamN4Q3g0LWdsaGNudjllVHBKYzlJRWgzSzJZbi01RlZJZXFTdk4wY3BFUDFIekFoMWh3M1J3amNfaFUtXzE4Z21OMDVYcV9YMVBoXzdHVzN4LXJIbG9DRFdCUzU1S3gwcGVTOWFRcFVBNXp3Y0ZVb01wbjd0WW1FekgwUEZDNnBnVllLcGJmYTJOcW83aWtmYnZYT3EteEduZWJmMnowOEJjN1dIX0dtZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "GamesIndustry.biz",
+   "source": "Reuters",
    "region": "IL",
-   "date": "2026-11-13T12:04:00+00:00",
+   "date": "2026-11-13T10:22:16+00:00",
    "coverage": 1,
    "location": {
-    "country": "Israel",
+    "country": "Palestine",
     "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "d2f8ceda96",
-   "title": "Mercedes and Ferrari Make Major Staff Security Decision Ahead of Qatar GP and Abu Dhabi GP",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTjRHWDdOdFlMMlR0WndEbXhhU1NzRUlKWnkyTFg2b3o1V0JPYXo3b1RWNXNpa2N3NGljclNJaEVJMm9Rbm5FRG9tTkREM3BQLTVFRjd0OXdLZ3VBTFpHY2hQczR2dG43SzVqUXpsVmlMX0w1X3FrOXFqdWxjenhiTWtpOXQ1LUxIbFBIVk1ha2VvZHJZeFhKVzBsZTNsUVpnakxYVGRvMVl1VWVHWndkSG80OTNuZk1Tc0NlVXVmNGJwM3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Athlon Sports",
-   "region": "IL",
-   "date": "2026-11-13T12:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Qatar",
-    "place": "",
-    "flag": "🇶🇦 🇦🇪",
+    "flag": "🇵🇸 🇮🇱",
     "also": [
-     "UAE"
+     "Israel"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a2f9f3daf3",
-   "title": "Once Trump’s presumed heir, Vance is wrestling with his political future",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3dESVVBMm4weFZMWS04dmFPbUM0OXVzSWtyRXRtN3J0RmhnMjM1eVNxY0doTmNlY01DRmpzLXVuQ2RoMjI4Q2xvYlFsaGV4dzJCaGRLYWpxLWJpbFVsVW1fVDhNZG1saW1OcUJmWnp6YjB6LWVRa3ZIdWxsMUZyNA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "IL",
-   "date": "2026-11-13T10:00:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "4bcefa03eb",
-   "title": "This AI finds patterns in visual brain activity and turns them into pictures",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3JDazJKNVBsNG1hUnFjVVA3T1dZd194cm5vWGllbExxckg1ZFRwcmZMdzRydkZJaDVvTFNZSDV2SGMzSHZkY0xuanJOQ0pxNWJYVTQ0QlhlZUk4X21ZWnNEalpsUHlZUDhfSi10MGdlWnNLUHNRTmU5MzZfamQ5MjRwSndENGNNWDZjVldiVEEtVEE2U3FXa29zQlcyN3Y3N1lvNWs0YWlzV1FIampmd3VBVkE2NUk2MDhSaXFHSWpUckQyWnFqSEgwWDg5ZFBkWlBoVlhR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Live Science",
-   "region": "IL",
-   "date": "2026-11-13T10:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "90cc83f466",
-   "title": "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjIzMXU5XzlDRzZwb0F0OExKYnFKcEhwQ3J1QjFCQzBRLUwxb0ZfRy1GYWI2cDUzc3hSelZYbG5yRE5MbGE1QmF6eFFuQ1BZcnJsMXhUdnMwdHJuOHh2SnpKZWhESGRUQVFfblprUjhWNktCemtrRS1ZdFowTEswdlFaWXVpNkJzWG1Td0VGVHlVRlItQXpnUHJoekZlcG4yVG85Zm5UQklPVXgtczA3eXhGRXlreFNJTDFB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Economist",
-   "region": "IL",
-   "date": "2026-11-13T09:23:37+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
    },
    "topic": "Society"
   },
@@ -647,21 +576,21 @@
    "topic": "Society"
   },
   {
-   "id": "23e5244f98",
-   "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1hkR1F4VkNQUnFRcm10NFczVkNmTWxlbVZyVXk5VDBqdjRDYS1oYTFtS2ZqX2xxOWlDZ3VYQ2xFM2FMM0VjWjItaTJMcjcxcjQwMkl0UldGcDUyV2lrWEZQTHF4V0xPcm9JeFotdmZ5TjF5ZmdfNVV0dzRnQ1ZZZkJaVk1Obks3ZkQ3Zlo3ZTJ6YXJqUUVnM1dvZTNuTDNBUlE?oc=5",
+   "id": "39ef8bcf44",
+   "title": "a16z's Jonathan Lai says AI game tools will cut 13-year dev cycles to 2 and mint new billion-dollar franchises from mods",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2WDhkSzZzZkJ5NUVPblN3anJEWGZKRmdhM0ZsdDJxVlFRSFBIS3VXWHlsN04teV9vT3I2ZFRvQjlwU3p4R1Q1TkdKY1FLbzZQQzFYRE5WWFNqOGM?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Guardian",
+   "source": "BigGo Finance",
    "region": "IL",
-   "date": "2026-11-12T13:57:00+00:00",
+   "date": "2026-11-12T16:08:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Palestine",
+    "country": "Israel",
     "place": "",
-    "flag": "🇵🇸"
+    "flag": "🇮🇱"
    },
-   "topic": "Society"
+   "topic": "Tech"
   }
  ]
 }

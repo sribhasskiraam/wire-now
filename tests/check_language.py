@@ -30,10 +30,16 @@ def source_names():
 
 
 ALLOWED |= source_names()
+try:   # outlets named in today's news (brand names, like "Wire Now") are allowed as written
+    _d = json.load(open(os.path.join(ROOT, "news.json")))
+    for _s in _d.get("sri_lanka", []) + _d.get("world", []):
+        ALLOWED.update(w.lower() for w in re.findall(r"[A-Za-z][A-Za-z'’-]+", _s.get("source", "")))
+except Exception:
+    pass
 
 def leftovers(text):
     words = re.findall(r"[A-Za-z][A-Za-z'’-]{1,}", text)
-    return [w for w in words if w.lower() not in ALLOWED]
+    return [w for w in words if w.lower() not in ALLOWED and not (w.isupper() and len(w) <= 5)]   # short acronyms (IMF, XR) are fine
 
 def half_translated(route):
     """The robot's data, but every story with a summary gets ONLY its headline translated (summary not yet)."""

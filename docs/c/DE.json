@@ -1,22 +1,90 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "DE",
  "name": "Germany",
  "stories": [
   {
-   "id": "5b8b9f688c",
-   "title": "Starts an US-Flughäfen wieder erlaubt",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPendwLWhzU1dDVXJ4cG5fZkkzeHhMQXYwaGJQanNGVXVWeWtqLVBfQndVMmdxY3o2czlxei13ZU0xcHpuWHZESGhBWGZ5QWlsSl9hMzRkUmZSdDRyekpBTzQ1bC1kMkdURDdZUHNVOU1fX2xwZlc2T3NQS1huSzUzSDVWVDAwSmhxSU11OUJYeTBBalY1TmV1RXB4NFB3RHZLcGZOTHkwRGZ1elFNbGc?oc=5",
+   "id": "722ddd300e",
+   "title": "Gefälschte GTA-6-Shops locken mit Rabatten und Vorabzugang",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sWTZ4QzRONnFWSEJrcWpGcHAzZUx0ckFKbkdUZzA0WTBxVm4zcWJsVHUzLS1pWVdLWEMybzJiYzVESnc3YUEyZVU1U3NUS1RGbklodlFWaFpmcU8ydE9od0JCUFVCY0REVlh3V1hibVpfc3Zq?oc=5",
    "summary": "",
    "image": "",
-   "source": "Spiegel",
+   "source": "RETAIL-NEWS Deutschland",
    "region": "DE",
-   "date": "2026-11-14T02:06:00+00:00",
+   "date": "2026-11-14T03:09:16+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dfba5d9bc1",
+   "title": "USA: Nach landesweitem Flugstopp – Starts an US-Flughäfen wieder erlaubt",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLV9RSGMwM1RIMjcwS1lMazc2bVVyY0IzbG9BQ2pLYl9keVVhQVdSY25lMDBXT2FNMHZRdzFnaEV6WFZSTE5ybVlyVF8zc21fUXFwdUdSU256cFltS05mQ1NUSllobFZPdHZIRDQ2clhSN3M2WDYwVnY0STZ4T0wtZDNDQzA2MDRIenZDZlUtZlVSWU16R3QwZUV1YjFrNDF2MUpBRktkUjNCVWNRLXh3R2lRTDM5NHo3cUV2blJsbWpVQjVPUW9pcVdfVy12V2x5bmpVeklVVndMdFk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WELT",
+   "region": "DE",
+   "date": "2026-11-14T02:52:40+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "d18dd737ae",
+   "title": "„Mini-Mond“ 2026 QQ8: Wie ein 1–2-Meter-Asteroid kurzzeitig zur Erde gebunden wird",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXRqakdqaV9Ed25PaXF1OEJDZW8tYWgxOFZJUW12blI0QlBzYnlXQ245UVdWdUtPNDBLU3R4SzJuZmJJTXhzV2RqSHlQUFdFRzhSdURKQWZMWUI3dm5sRjJuYWNqWUpvUkJmeVFncHh0N09NbXVBSGFZYVFiT1l3QnkyeWVwdG1DQ1JLTkgyS1Y4bXZOY2l4czlfanFmd181NnRCSTJ4YXI0UUQ5dVdneQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "it boltwise",
+   "region": "DE",
+   "date": "2026-11-14T01:39:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c53d811a51",
+   "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0JnOXJ2b204c2hjcTNFTFZQSnRYMW5JbWQ5NWJXcFhkcE1zT2RtTjBlZHFfeGZSMWRsazU4Y28tWWRIdlktcEJKbnNLNmNrcWNEQ0Y4dEh6Q0I1LW5NQmJkbVM0QzFxQnRYR0pmeHdtNFRMY0JNNkoxc2gwM3dveUVDZ20?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "tagesschau.de",
+   "region": "DE",
+   "date": "2026-11-14T00:51:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5d8ee0f0d8",
+   "title": "Regierungsbildung in Berlin: Linke-Chef verteidigt langwieriges Verfahren zu Vanessa Emde",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0YtX1dOcEZDdTVPLVNKQmp3ejRVRl84d1U3bUxTSkhKamNjTlo4XzNDNThqUTJEMmpNVm5XYld5M0RDQ1NSM19RVnJJVlRFYTdqSi1xNGJYZHhVSWJia1BnVTJiUVFlYlFVWkgyTEhYak9zZjJaMVBWMlBjSzlheDFxblhwVloxcGxuSWhRSFRSRklOaGZnc3RIeGk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DIE ZEIT",
+   "region": "DE",
+   "date": "2026-11-14T00:05:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -72,23 +140,6 @@
    "topic": "Society"
   },
   {
-   "id": "449472618d",
-   "title": "Mehr als 130 Passagiere an Bord Tanker in den USA kracht in Kreuzfahrtschiff – „American Heritage“ geht teilweise unter",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRTBkUTJ6a01vTjAxUEMycjRLR2lFOTRhWE1zMzB2dldYQUZqMUt4S2xjT3pnQzU2c2NjUFhVYUVlMGo3V3dRbG5nVEhfOFptcG5IMUh4QzJFUk9lcXJ4Nk1GT2Z0VWlOS3VudW9zWXQxYUhfNElINHNnVTZGZi1ybnpKRWEybXJWZmIxU01rNkJSelJ4YVFLYWJlLThjelBLNUhDdlppUUhVcVJrT1F6bXRMRUE0MnA1OHhucUlXOW1LT1BUVzAwSjNObkpoYnNMUDJjMlJxUlJCRHlQRFBzVEJSMFBPZVpHMThhcmpwODF3Y1JJem1NNlluRXBzUW42?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tagesspiegel",
-   "region": "DE",
-   "date": "2026-11-13T22:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d0a7c35cfb",
    "title": "Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdE1UV1NGOGRuS0dyck1neXY5X0s1X2dWVUFPX1J5NTdKQ0NWbzg2Y1lRWWVUWTFKSlZVaWZqS1FpT2UxNlYtcUdEa3FKSzRoZlUyMVpGS3d0MW8wYnlkRUU4UTQ1SXZ2dDhRQmdvZkJ6RVhBd0hwdW5GYXd2TWVBd2RpXzBhLUFVZk9ET3NmOFVycDNJa3hkR2FCdk9ta3dpVU0wbk1xdGM2VnBxb0E?oc=5",
@@ -123,23 +174,6 @@
    "topic": "Society"
   },
   {
-   "id": "6b3c4be3fa",
-   "title": "Massive Störung bei Microsoft ging auf Netzwerk-Upgrade zurück",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFXWGRlQklYU3BGYXU4MFhmeVY5VEN0dExuaVpSVHVmM0VDYk9UTWF5cm80RlFYNDlhcHN4MkM0NTQxRTNWVy1FX01WQldFM1RDd3FLY0FaalVuUExqdEx1bFJXLVd4YVZ6UkJvMkI1ZzEySWhnM1Z0RFRVYVRSQ3hRdzh0eG14bEpaU0JrbHdEY0k0cVNpc3pGOG9rSmM0NHNsN0xDM3FVektMMUh2ZnN0dUlkQXU0X3g2QlNDU1dEWGdoMTZtTUZwVE5INFZLMDhfOEpSakg5S0NFenRR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RND.de",
-   "region": "DE",
-   "date": "2026-11-13T21:07:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "bf0a8aa532",
    "title": "Wie GTA aus Fehlern, Provokation und Skandalen entstand",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVExU29TSDZJMG8xMVo5Sl9Id3FuamM3elVWTTR0NHZZb09nWTFnTnE2Wkd5em5nMlNsWlkyYU9za1FnX0p4WWt2UUVNNzZzMjRUanM3NDk2QXVoSkgxSWM4dVVXRFpKdTBNaEoxVGF1dEg2M0hYcHVhVDBtS2t5eEd5U2xfUWhwS2Q2dFA4QQ?oc=5",
@@ -172,6 +206,23 @@
     "flag": "🇩🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "a8197ef837",
+   "title": "Weltweite Microsoft-Störung ebbt ab Unternehmen führt Problem auf Netzwerk-Update zurück",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRVRpWXhxY0lrMllBVlNGbE1kUTNrZzE0a2pnS0hONV84MmY4OGpNT1lzYU9BVXdnWmpneFBlT3JmcFhxXy1BcURUS3RVbTBZQ0hMbk9qaG1hQ3ZUMmtySHVQSkxoTTVMUjhmNUQ5YlRrM2tDQmlBTnktd0ljS0IzcXVudFF3SHRLS0FPaE1IclBfYm82NjJmMndtVkZGanRSdnBwQ1pPVnFlUWVNbG5OYWlRR3FiMTNsalJSaUFsc2JCOGJsV2FxWUl2UmlvQ0VBZWM4VWJTMTR1c3RGRzAzNV9tWWNQOWFzWlI4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T20:09:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Tech"
   },
   {
    "id": "dce371f8de",
@@ -225,40 +276,6 @@
    "topic": "Society"
   },
   {
-   "id": "e79ff2d614",
-   "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sc3BrSFpmNm5YLTV6UXpKU0E5ZEVMQVpGWHhkaVpmZUhNa0plWkVXRml6d0hWdWg4NnhZNHRnSFFLY1Q0TktqWWJlZXdrM2l6UlVxeDNTNmFHa2JuNXc5czJ3NHhHWl9YaFBiVTZicmNzcEVvWWRWSExNTFF1VUk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "tagesschau.de",
-   "region": "DE",
-   "date": "2026-11-13T18:44:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ukraine",
-    "place": "",
-    "flag": "🇺🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d1c72f695e",
-   "title": "„GTA VI“: Wie ein Spiel zum globalen Phänomen wird",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTAxeS1UbE9zUTRwU3UySHVjZXdXRXk5WEFiUUJFTjBVUTVsWjREelQwbjJtQmkxUHBZUHFLcnhWcWFCbkVEb2xKUUYweEtuMnl0WkZqYXZUY1hBcTVRZkRNWjBfaUNTZTVYZWFCeWVnTlIzNmx6eW5xSlVQREh3VFpkQWFTVC1NZndzazVmVlhGd0IxU0pmc3FLS1A5UFNK?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GrenzEcho",
-   "region": "DE",
-   "date": "2026-11-13T18:39:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "bcd76394d5",
    "title": "Video-Clip aus Doku-Film: Thunberg lacht deutsche Fridays for Future aus",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNa2otMm9fMUxGZVVwSWNSN0hBRTROb3NLLUQxUHdYTDdCVldtX1AxYkF5UzF0dnlYdnVWSVZ5bXdJVml3M2J2aXM0a2xxRElpYXp6RlVybklING9TNFE?oc=5",
@@ -293,6 +310,23 @@
    "topic": "Society"
   },
   {
+   "id": "7c2f2ef779",
+   "title": "Migrationsstreit bei der AfD Die Hardliner um Weidel zeigen Chrupalla offenbar seine Grenzen auf",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMFI0eGJQYjczTTktODlnV1RkRHItYjJRZGtULXNJeTlwOXQ0OTJhRkE5MjBNa3JXZ2VYWUtzQ2NmWjdJV1NwYW5oQTNtUUtvSUFGb0dUQ3YwYlNlUW5PR3ItQ3lKUHZZeGZtUWVraHNYQnQ3TVdXWXRiN2VXQm5kcTRBQ0lyR092NG1wSnJKS0ZFY2NLZWNpS3kxVkFCeTJ1Ni10UjB2S01qYjBUMm9oQ01VQTdfMkNiWmpXaC1CZ3JqSWxpYkpyWUFYUF82dV9PeE9hRVBfQUlCTVVkOEVV?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Tagesspiegel",
+   "region": "DE",
+   "date": "2026-11-13T17:09:24+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "cb3686b1f9",
    "title": "\"Jalta 2.0\" in China?: Trump macht Putin mit Dreier-Gipfel ein Geschenk",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2phUU9FeEJsdEVXTEJUWU5VWkZ2NmdPVmlEdXh0dVJfSEVub0pLX2xNQ0FtbVlhSnpiUmJQa0FBeEdjSm9UUkl4UVlvc1RsZU5QcnVJdkhrY0V5LTFBcUllWmVyRUl1dTdZV2MzRXZFYmFTZmJoOEN4U0lPMWlSYmttcENjNlBXME9OUUVWeVV5OFFXaDVr?oc=5",
@@ -310,23 +344,6 @@
      "United States",
      "Russia"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "2d65af039f",
-   "title": "Mehr als 200 Hinweise im Fall Lisa T. Obduktionen von Mädchen und Tatverdächtigem sind abgeschlossen",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOemRjU0ZPdDdlS19iSTVkQmJ3bmlKZC1ZVVNjbkgyUzFOcFBBbWczSnhtanhMSTRnWS04ZTE1YTJJZzJtT2dwSlZNeUU4aHdhZ1dUa1luclpUUEUxcTJPWnVmMk9DT3lpWGN2ZkdmV0o1WlgxX2VzdkVueC1kMUtnVEktZnNFZVd2cmJJNVNSSDgzQ3Q1Z0puVkFwcWtsMlBKUGI5NllOS2VIc09meF9seFFXZkdvQ21RUE1UOWkyRFAxWTRKQmxzR05tVmh3QVdnN09GdmlraTJNZ0hSZUFteXln?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Tagesspiegel",
-   "region": "DE",
-   "date": "2026-11-13T16:24:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Germany",
-    "place": "",
-    "flag": "🇩🇪"
    },
    "topic": "Society"
   },
@@ -416,21 +433,21 @@
    "topic": "Society"
   },
   {
-   "id": "3b50d03676",
-   "title": "Biograf des geschassten Nvidia-Chefs „Tobsucht und Narzissmus – Trump und Jensen Huang haben viel gemeinsam“",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSV94OGxpNm5XQ3kyLXhWZ2lLby1kN3h3YU5XLS15amdtYVVOdXU5Vm1na0JQWXJ1Qm5ldGYyRzg3bWZxcHAtUnFPTXBOMEpYZXZwUUtDMFV0NGRmM2RKeDRnc3pUNm5zSXlKSWR4blAxWk5tVFdEN0h6eVJtM0hrMnROZkU2UHp4UkcxMGpTUFZyU1Utc1lFc01Ra2cyTmIyR3Q2REZEWnhGbWZWRG9SSnhLdzNTTm0yeDJkWE4ycEVzc3ZBeV9mV3cwWi1qbm1uVHJ3Q3FUN1ZiMHh6S283cERMbzlGczFta3FHeDZydzE4N05tTHY2bkV1c3lUb081Y1dv?oc=5",
+   "id": "a87c7556a4",
+   "title": "Ukrainekrieg: Merz geht von deutscher Teilnahme an Ukraine-Friedensgesprächen aus",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDhQRkVBaTVDM29WV09lS0xvNEh2eE9HY19sQzZOb3V1c3lDcmJ1bHdHcHVyTmxMZm1YTk9tSGJhVlhnSVVYRHIyWFg3cWl2cE9lUmlWQmJoUXFFN2hHcE9VZ2VCNXlkUFZCTzhBS19VX3hMT1AxcFBqTmd1ZmdGVHFlYncyeTcxbUJlNWdtSGhITHdRSXEyZmhYVzFUUUtEbzhNUEJUV29QQklRVk45d3pjV19kQ1ZUYXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "Tagesspiegel",
+   "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-13T14:10:35+00:00",
+   "date": "2026-11-13T13:10:48+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Ukraine",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇺🇦"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "715cbd1612",
@@ -484,21 +501,21 @@
    "topic": "Society"
   },
   {
-   "id": "abfa544bdf",
-   "title": "Krebs: Viele unterschätzen diese Gefahr - 200.000 Fälle pro Jahr wären vermeidbar",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbS1GOTU0cHhtb0tCcEtEb05EaHprVUEtMUs1Rjh2TE9nQXB2dzc0ZXlNSjFMT29kVXJHWUg2Q3UwTWd3U01IYldtcWkwYVpvVFUzbDdFUi1ySWNFbzNlWGU1ZTlqVWdldnhwZlJwR05VZEpuZ1pGTDJJSTlMWkNRV21IVVVrblppYm1nd2JuQ1JVUHl0NXlVdGNXeGw4bEdHN1lLOHBXbUw2TjU1Vld1TjBmbEJueGNoNTlsTGRCUEpPMjBFN3A0T2lVSUVzd0N3a0Y3THFaWFNIQ3otaEZz?oc=5",
+   "id": "1f28c603a8",
+   "title": "„Ich bin ein Stück Sch …“ – Jensen Huangs letzte Stunden als Nvidia-CEO",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbkpVa3JQZE1PdkFFak05ZmdxNHl4YnpMV2dZTUtjVGtLZXhrN1E5em9JV2NMaEZsZUR2UVBidFVWbFJXY0RjRURFVFMtOGl3MFRZZlFDNy0tREp6emp3U2Rvd2tfZ2V0azlSd2RReGNFdENwVzJRY2owd0c3TmxadF9mb2hfeG1GeG1YV0xXdFdTdjVPdjdyYjZWMjltLXg5c05hYzlLa0FRUWZ1SDdyWlljVXAyaHdpTlpudW5KX3JLdlJlaUhINU9NNVFvdkk?oc=5",
    "summary": "",
    "image": "",
    "source": "WELT",
    "region": "DE",
-   "date": "2026-11-13T07:26:24+00:00",
+   "date": "2026-11-13T09:50:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "fb299da76f",
@@ -518,14 +535,14 @@
    "topic": "Society"
   },
   {
-   "id": "fcf72ba7a8",
-   "title": "Regierungsbildung in Berlin: Banaszak sieht «hoch integre Leute» in Berliner Linke",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUxZT1MzSE1HV2RiM2pubXBZRVRnZXptWVdUYk9BVFRZUl9DbVhhc0RPSmI3ZTdPUG5vRGVkT050RjdLclNFT25mS2tFckxhVzVLcnEtUmtCWDNsM0FzWXpScU9YM09JdUdESXkxeFZrVkJhN20tZ1JUUlRkeS0yMm9KZ21mZHh3SnJMaXJOeWQ?oc=5",
+   "id": "7f340e27f7",
+   "title": "Nasser-Krankenhaus im Gazastreifen: Elf Tote bei israelischen Angriffen im Gazastreifen",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTQxQ0hyU0dpS3NsdTdnUDB3ZVhvUXRsbF84Xy15QnZmcmhjOXVRT0RCV0Y3TzdJUmRFeFNRanVhRTgzTXA3aF9XVjEyNGVjaTBYa2FHZGc3cjVUa004VW9DRXJtTjBpU3BGdlBQZnc4S1Z4MjBueHBpeTVJVGdhTmF6MEtSRENmd1BCbEpMQTBKVVh5OTdRXzhvamduemVLWG9OQW1qckhvT1E?oc=5",
    "summary": "",
    "image": "",
    "source": "DIE ZEIT",
    "region": "DE",
-   "date": "2026-11-13T00:00:04+00:00",
+   "date": "2026-11-12T19:00:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Germany",
@@ -548,23 +565,6 @@
     "country": "Germany",
     "place": "",
     "flag": "🇩🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d558f2d9f0",
-   "title": "Die Hölle von Gaza: Eine Doku erzählt, was Ärzt:innen mitansehen mussten",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTBsTGNtNk1ldjRfUlZXdmN4RV9JSTJvUDNMN0tGVXJPSk9vbEdoR05xVloxQWh2MnRfVXR6c1cwYktXWU1FU0h6dXMtVkhkS1NkeDJZUzZJN2UwMVNRMzVrWUhtZ1FjZm1wc2w0R0EyNG1pbzRYZmNKMl9MQ1hQZ0ZMcXZiNlV0eTZZamJZaTJfMks0OTVQLUxfYURuQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "taz.de",
-   "region": "DE",
-   "date": "2026-11-12T11:13:10+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Palestine",
-    "place": "",
-    "flag": "🇵🇸"
    },
    "topic": "Society"
   }

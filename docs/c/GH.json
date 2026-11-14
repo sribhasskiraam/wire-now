@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "GH",
  "name": "Ghana",
  "stories": [
@@ -36,40 +36,6 @@
     "flag": "🇬🇭"
    },
    "topic": "Society"
-  },
-  {
-   "id": "94908b880a",
-   "title": "2027 Budget: New Economy is ‘copy and paste’ of 24-hour policy – Amin Adam",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVF1QkNrbWdxT1ZsZ2xXQnQ4QTk1NWthRkVFaTZURnNUZWdpRjlrc1BrdTk3S1VxaTdXemt3eUxHa1ZPSDFTbkVlZ3hQWVNSaldZRXF1aVEwZXVyU1VyQnFRekNrT0RWWFJvWVB1WGMzZzRPTElYeHp4Wkk5Q2ZGd3o0dkFROHJiaXpvcTRZTGpOX2JE0gGTAUFVX3lxTFBFNWJYTndVQnFsZFY0ZmlwY2JETnM3S0xnMThOcGJnMEFqODFwdldueVV6c0EwRGF1SndtWjEyX25IRHhLd1VZMElZNGZUUFlfc3BsYVZrRFJ2MUNLb19oQlJUQlJFSzN3TFQ3SXNqTzNJaEEtd2VEMWNZMkpZZms0WEd5bnZKcktUNnNCdzdwdjI5bw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Modern Ghana",
-   "region": "GH",
-   "date": "2026-11-14T01:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Economy"
-  },
-  {
-   "id": "f1834a03d8",
-   "title": "'What are the technical reasons for the new cedi notes?’ – Oppong Nkrumah questions BoG",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHBuSXF2eG05YkU2SmhEOG9YNmRtR3RxeXdTZEMyWnFjTzRzMDZ1amVWOG9RT1pzVEpBMy1SbkNNM0VOTlVoVE9pXzBEdVZnODdvbWdpODdPQ0k5NkZaU0p2NGI5YlR1MGUxRVQxMk9jQjljc0Exbk5UMjlzQ1hjNEJzTldjN0hpZHo3OTZHSHVPQl81WThseg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Modern Ghana",
-   "region": "GH",
-   "date": "2026-11-14T01:51:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Tech"
   },
   {
    "id": "7e541f0e94",
@@ -157,14 +123,14 @@
    "topic": "Society"
   },
   {
-   "id": "3f90071d8c",
-   "title": "Bruno Fernandes Rejects Second Man Utd Contract Offer Before Pochettino Takes Charge",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYnJFZ0NwUy1haHMydlpRa1RheUcyallsSWs2OHpnU0NVak45R0FGWWI1bmtjS2FZSmdnSXVudXJyVHhVVFpXOHZ0am9iWnBmTXBfbzM1ZFQxQzlFdWdtRkNDNjZfeE5YSk5qNm9DeDFyd2NVNDdQSjBjYTltTWFzTHRvb2RMUG1tUzdZ?oc=5",
+   "id": "3bffbf6ffc",
+   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjRfY0E0Q2VJSE9YeVdSWjhJOGlWa0lSTXhiZzFUYmo0OW9qNFVQOWVwNUl4RTBNVGRmR1BDcEh5RDZoR21PeGJQanZWQWJzYlhsTnd1cHRoZGdVRGQ1VnFoYWtQT3VVTEVXMGdPOXgwZ1gtT2pUQTJuRm83Vks4b3hETDhLQVl2d1BOUVRzazR5bllabnVFWWJrTERJaTNRTjJFZ3NlbFdoQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo Sports",
+   "source": "TechCrunch",
    "region": "GH",
-   "date": "2026-11-13T20:08:21+00:00",
+   "date": "2026-11-13T23:00:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -174,70 +140,73 @@
    "topic": "Society"
   },
   {
-   "id": "e6a6e9383b",
-   "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuTG5Mc1g4SHFlbnhyWkk4MlE3VjhzRG91bDVoUDRBZXRUM2M3azN1cXhzSkRxRDR6bjBGdi1PTlhUTGRtek1pOXRoRDdmV0tsMlhud1FobXY5TkxHSHg0?oc=5",
+   "id": "3ef5331007",
+   "title": "President Mahama eulogizes Nana Akuoku Sarpong",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdkdpYlctT0RVMVVwTEg5UGRpWDlwQ3pLTlk2RGV0QTNoSHotWm02eE9rZEtYam4tNXNsT05vbW0tLW52UFVxdkpSbFA3TkNCeUVSVVQ1UzVrd19sM044WXprbWRVYzNnRUptVDkzcmZFUDE1eHg0TVBTcVBkX28?oc=5",
    "summary": "",
    "image": "",
-   "source": "Nature",
+   "source": "Ghana News Agency",
    "region": "GH",
-   "date": "2026-11-13T19:26:21+00:00",
+   "date": "2026-11-13T22:51:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Tech"
+   "topic": "Politics"
   },
   {
-   "id": "a2a644d0b0",
-   "title": "Chief Justice Baffoe-Bonnie appoints Justice Pwamang to act in his absence",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTk8wMUx1UmcwQWJIVkFVWWNwM000U041Tkdza1FUTUFZRWJ1RHNKNUNveGx4c2lTdno3Vl9pNUJydVo2blJGb01MQ2k3Mms3M0tHTVZOWG5UcGVDRU9UTjJwR1NVWjE3bzdHZjdnaFhEMVFZLWw1NUZhcTdDYnVmOWhUb1F1N19HTTZLZ1huS2xpZnhXTl91cHcxeUZHUlJlbkRjRHUxY0hWX3FoS2lveVhsVDF1Y1hmaXZMYnkzamdvazBjaEdFNHdpWHhtQQ?oc=5",
+   "id": "a4b696ee3c",
+   "title": "Who Leads Ghana’s Courts After December? The Constitution Leaves It to the President",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY1dtTXFCcEpCX0NTb29VRnBTNHh1VHdoLXEtamRmM3k1SGp4V1NHVnFIMVBUdDZMX0pWS3VQZ3ktV1REck5OZG5pUDllLVd2aTdDR24ydHVUZmZvNWZNbENJR3NSd3B6Q2FjQU1TRk9KazVsY0V1clMtZTdUVVB3RWtzamdsRE9ySi1UczNGbzNPZ1JSNi03a1ZPdWNuYUQwdXpWZkI3aEU5YnFXUGF3Z014djdOZWQxVm0yRWtJMF9GQjFW?oc=5",
    "summary": "",
    "image": "",
-   "source": "GhanaWeb",
+   "source": "Jurist.org",
    "region": "GH",
-   "date": "2026-11-13T15:42:14+00:00",
+   "date": "2026-11-13T22:49:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
    },
-   "topic": "Society"
+   "topic": "Politics"
   },
   {
-   "id": "50d96becb6",
-   "title": "Dark Roast, Bright Future: A new report sheds light on the future of branded coffee shop markets...",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTTUzUzh6dnppRkpXVnRoT2FNaUxKNUJOSnFoS3VSd1lXX05rUW5CMXdsSU5XYmZvcHlsQXBJSE5QY1FfejV0YV8zejdHMXB3dFEzR1diaUdzaEhvOEtxSEtyejhZMFhoUFNTLTBJQlQ1Umdvdk9lUHVJRkwwT0lTeTVubHlZQ3NqdVdPR3BWQmJKVXdSZHhiZlVGQXFOekp2b2xhcGNtenlRTFRzUjJVVy1qRF96Mms0VkpQNkF6V0x6MldYVmsteUNqMkxtbEZ3dDJlb0psN2kzYjFHZ1kxaFJiM29fUWNFdXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "BusinessGhana",
-   "region": "GH",
-   "date": "2026-11-13T14:27:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "03dda96167",
-   "title": "Dangote eyes Ghana as cocoa-processing hub in potential 500,000-tonne deal",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZENsWnF5YVJHaURqMXRDV2FRNEozZC1iTXE5QlEzTFIxLTFKUmxSSjNjcFhPU2YzUzlYSGdJTEQxeXdEOXRUTkxZQU5XV1ZXMTFTcm9nSkZfV0tZXy1fcTlIdjV1NldjNmJ3SVM3cThQM2RMa2wxdS1jZl9kbTVFVDNFNzluUVpiRENHMnprU0pyRG9fZ256VFBLZEJ5eHVZMXFtT05qc3p0bURtUjZxdHNQVkZhT29SQUZCYS0yODB5QQ?oc=5",
+   "id": "9f84d13afc",
+   "title": "BoG Board Member Beatrice Annan provides clarification on GH¢50 note and Theodosia Okoh portrait",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTHQ2eFpBb1FTSm9MS21JT203Wl91NFRReUEtMXZleVdyem5OV0dnLXdVczlZZXdHLXZ6eExwQXVEUHBFQWZVTzBQNGJGV1NUSU5jRllKV2ZKVnpoRVhubHBSdGtJUE5WZ2xfLXRwRGxucm1uX2JhNVNCN2ROUjZuMFBaSnFoaS1ILUFHb0dEOUtsemxzMXZuRTZma3dOQVFLWTBRMlVELWExdEVTYkhvQ244b3VCSU53M0JXdGRJem8wbEIzdWIwTjB2QVFwM2FTZ0JSLWxhRUp6LXJpcWdv?oc=5",
    "summary": "",
    "image": "",
    "source": "Graphic Online",
    "region": "GH",
-   "date": "2026-11-13T14:03:09+00:00",
+   "date": "2026-11-13T20:26:04+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
     "place": "",
     "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "dded3a825f",
+   "title": "US takes on China’s dominance in African telecoms",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjlUN0pEQjQtakZ5cmh2OXJDcmZLTnAtTnA5czFGd0lraF9FM2FnOFRoQ25xRWFCdXY1bTVPcDh2ZVhLQVNQNVBsVE9hTjdiOFRoME9MeGtUSE9uSWlLcDlob09KOUlrVzJBMnk5SUg0WUtURFJieWZuU01LU0ppbFVuak8xRlg4bTBPYzFWWnU2SmRrZEow?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "African Business",
+   "region": "GH",
+   "date": "2026-11-13T15:21:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸 🇨🇳",
+    "also": [
+     "China"
+    ]
    },
    "topic": "Society"
   },
@@ -267,6 +236,23 @@
    "source": "Graphic Online",
    "region": "GH",
    "date": "2026-11-13T10:43:07+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "8e440b467f",
+   "title": "AFCON 2027: Where to watch the Burkina Faso vs. Mauritania",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVF3dGpoNGxIekhEdUN4cU0yTzMxT2dFa291c25DTmVpZDJCNV9BdWR3amJwME5Ra2RTMzdTMFkxT3l6aUNoc3lKaFlUN2R5Vm11V21NTFNlYWtIWmJYMG9mV3Fyc3lkY0VmQTF1Z2t6LUlRVTRpM2tNS0lmazRwRVdNQjI0bFcyUEN3YkhXUjNDdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Africa Top Sports",
+   "region": "GH",
+   "date": "2026-11-13T10:40:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -327,23 +313,6 @@
    "topic": "Society"
   },
   {
-   "id": "4cafc287d5",
-   "title": "Cote d'Ivoire takes third straight win in 2027 AFCON qualifiers",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2s2TmZKcFNZVUl4ZFIyQlREYm0xX05OdEF6QVZhZXhWbGRLOGJ2NEZYVXFKdkRITXJIX0NaVmNvdndyMlFyTTJWSGU1VG4yUmp3dkVjYVdwZk5yT0h6clphbDVQRlFZY1RxdkZrUDEtWmh4N2RJRU95eHpDa1RwbTlfa0RLNGtNZlN0R3JXd0N2aG5jaURyWlZpaDZHbGVIUHZ4b3l6ZTlkZ3JE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Big News Network.com",
-   "region": "GH",
-   "date": "2026-11-13T09:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Ghana",
-    "place": "",
-    "flag": "🇬🇭"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c06de7f089",
    "title": "African Arguments Interview With Dr Antwi-Boasiako Amoah Ahead of COP31",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wU1RBRzdvNDBoX2hYZGlrTWM3Sk9tSDRTVlRmZUx3QXVfMG52YjBsbHRQcVNZRUQ0bE5DdHdEZU1hd1B6UjM1bXc3LXZJWGxObHRlTmJYUFRjYTQ?oc=5",
@@ -378,14 +347,14 @@
    "topic": "Society"
   },
   {
-   "id": "3b4ab5c204",
-   "title": "Two Aduman SHS teachers interdicted over alleged sexual misconduct",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjdCQnN3LU51ZVV6N01ZRDk4UXdkTjJfR3NTTkphaXlCRXBoeGZSZnhyVTlkeGRPWU9NMHhRck1WblNROGFFbU1oaVoxWmhFRXEyR0FKUDMtdk0tdklxSUhINDNFWkhycUI1VmlOOHN2d0M3VFRGdjFzdDlQX2VMem1JUzlVdGFrWThpNmJzYWJMYy05UU5LY2c1RDMwdmd2cFk1UW5aUmZfTE5XZXBGTWJ2R1hGTHc?oc=5",
+   "id": "a501b0254c",
+   "title": "WATCH: Diomande’s Assist Vs Gambia",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDZQOEt1YkItQzIwNE1GN1l0M0JyRDBrcDk3M2dtZmJPelZRdGZNZnNjS3NyRFVSdmVlUmJiNmVoaUhlSVg3SThicVJpa3VSRWIzaWxZeEtZbnpZWEdyTlhnOU9kR01qUmZUZkFuMHRMX1dlc05RRVB2bjY2aThHLVB1UXcyT0E?oc=5",
    "summary": "",
    "image": "",
-   "source": "Graphic Online",
+   "source": "Yahoo Sports",
    "region": "GH",
-   "date": "2026-11-12T15:06:28+00:00",
+   "date": "2026-11-13T01:49:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Ghana",
@@ -393,6 +362,23 @@
     "flag": "🇬🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "b8ee0ae9ba",
+   "title": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpiVnhweGgtUnh2TlMwYzFJalVYZ3NBdklEbjZpdkxaeXZMUzVmUXpPbXpJYXFsYjBfd1puVjFUVmFmUTdOSExEQUMtRS1YLThiMXduclEtM3g4MlY0S1AwVy1xQ1d3V193NzlfTGxwNXJRMkNHcTJiMnVTUTFNNHR0bHhCNFlGbk5PU1NmOHl6aG01emdCNzBVM2lSNG9MMW1sUA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "GH",
+   "date": "2026-11-12T21:55:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ghana",
+    "place": "",
+    "flag": "🇬🇭"
+   },
+   "topic": "Economy"
   },
   {
    "id": "556de1d9e7",
@@ -412,21 +398,21 @@
    "topic": "Business"
   },
   {
-   "id": "acad42f14f",
-   "title": "Jab by jab, house by house, Nigeria slowly rolls out malaria vaccine",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelMwLWtBOHJhcndaZW91VjczVzZwVElLUHF1TTYtLWdlWnpqM2otaWZXQ21aSk1VZ0RYYjNBN3NpZXN1Wmt0SXZBZFJ1bkZteHJBeV9CWHJZdkxXakdCWUFVdDhqalVLMXR3VXFhT1JxU0xBU2pWd0hZWnQ1LWJVM05wcWZVOFFMVGhwU1JLZUoyQURmbEJ30gGWAUFVX3lxTE5hVUFGXzBLY3RHVlRaMjFtcnh4Z2pOV1BRV2huYll0SWtpdGxzaUFIRHRhcW9EUDlVWWktZjNtQ0FDUkE1THhDZzlIYWJqZE5LNVRZa0V1aDdZREEzcFhlWTdwU1RvT2g3S1BUSFl6QlJoUVBVUFRNNDR1dm9NRFVkdWFxalJURTJHOS1qWVdHNmkxZUgzQQ?oc=5",
+   "id": "fe5e2f6b9c",
+   "title": "Ghana to host AU summit on financial independence and sustainable funding",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGFVVEh5ZldmU3c1SDd2bzJ1TTRfZktva0FJRkp1QW9nZHhLT0l2Qmt2MTJScXZmQjNMZktxcWhxYVZvSktKZzR4MDRpaGxvcHp5cWtyeko2Vmtxc1RCeWVkSkFnaW1qYXllXy16OXlHQWwya3BtTEFlTWpkSDY5TlVMQUJyazlTZXI1UkRQOTQ5NEN2RVJLcFlTd9IBmgFBVV95cUxOWld5N3A5clU1SG1Da1A5SFdqUnJDZXZCUldoMFAwd1NhN3FuTWhVbTQxUjN1V0VPOThZTU1rb1k5WHRYRDFMSW9yRF9CZW41M0VmblFfdDdrUnlZaDNzNzUtdERPd3pELWFhMDBQUjd6a0NHNFpramZ2cWF2S2VSc2ZjdlBkYkF4bTI5MFBWTUFfYjVjNVFzREln?oc=5",
    "summary": "",
    "image": "",
    "source": "Modern Ghana",
    "region": "GH",
-   "date": "2026-11-12T07:51:00+00:00",
+   "date": "2026-11-12T08:03:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Nigeria",
+    "country": "Ghana",
     "place": "",
-    "flag": "🇳🇬"
+    "flag": "🇬🇭"
    },
-   "topic": "Health"
+   "topic": "Society"
   }
  ]
 }

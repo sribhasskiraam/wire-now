@@ -1,24 +1,44 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "FR",
  "name": "France",
  "stories": [
   {
-   "id": "a657e76225",
-   "title": "En raison d’un problème technique, SpaceX renonce à récupérer le premier étage de sa mégafusée Starship",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2ZIODUwdVZqZDRBWllQX01tOWNwS0x0UmFMcHRpU2FkQXB5NVdfZzdIc2ZLUHpLajBad2VFeTBEc1o1aHJZMXlLT0JKZ1ZDSlBGV3FocEpEM2JQUmtQa1hHcG9aYWlBRFJOTllpZWFwOUNuYmFuNTFoQlAydzZKWlplREhIeFZOd2NFYVpzVmF6LU83UjlaeWNDaWFNSDNvVmRXdFdrTnJPN0pseTRDUEVQTGtwWWN5ckY2T3VseVhiVnJSOXNsSUhOQzVRZHlKTGIwNkIwdHVTdkFB?oc=5",
+   "id": "2afff49353",
+   "title": "EN DIRECT, guerre en Ukraine : des discussions sur l’Ukraine ne sont pas prévues lors de la rencontre trilatérale entre Trump, Poutine et Xi annoncée par la Maison Blanche",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdHVDWGtPZlNjcDZJVENrSzFwVXJpLUNNYjJoRkRPMlA4dm16czlRRVdWT2lYTUxiTlJoYkt1Tkc4TWY1bzZwZm9jYUdwYWgxYldyQjM2QTdfdHhKeThIdUFkbmRadlBUNzhEYWhwQnFqVG5NMDBHamdTdmNOQ3MzblpGQklZU2gtTGctdWt4UU1fZWFVc3p0VGJGa0wtVjNRTHZTcXVhOHpKWWFZX2ZWYW1qWkd4ZldieVdBZEtCdVdXOVczby1oYl9xTHdMWTE2c1hwQTVldXNpWWtzc2Y4akQ5LW9mUzliNzN3TkFWQ2Q0SFpKNURrWHJMNE5raDFUTWZKaUlNWUVKMzBiVHl5NkRnc3JGT3hVWkVvVjY4c1N0TmVIbEJ2T0Z1M09GbER6emd2RVVsZHRUU1FGa29lRFViV0Z2NWhQNGJnNHpMeHNqdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Monde.fr",
+   "region": "FR",
+   "date": "2026-11-14T02:06:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ukraine",
+    "place": "",
+    "flag": "🇺🇦 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "efdae234c0",
+   "title": "Suspension des vols aux États-Unis : l’espace aérien a rouvert",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSkxGcWZmcmJQTFM3b2ZoWDIxXzljX3FPNmh6QzhjV0llU1VuZlk1LUthaF8zdjBOczdGZS1lTk9hV1hMN1MtSUVCZk9seHUwMnpIUm9zOXAzMmhVQmFMNUJ1QW9kcm1sTnVlQWxzVE1rNWxEZEhndDR2aUZLTWlreDhraFY1MlZGNnpJdEtVYTQyRlVlVXlRNFpPZ0lQdkxoNlVpYWFpcWNsbndlTHF0bXFDWWllaXFyVk9DQW5vTENFZGxKcEJfTGR3ZkNzVjVyLVpQeEhqX214UlJleXhteWw2RFJwbEIxbTRyVUNB?oc=5",
    "summary": "",
    "image": "",
    "source": "Le Figaro",
    "region": "FR",
-   "date": "2026-11-13T23:06:42+00:00",
+   "date": "2026-11-14T01:48:18+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "7f1f51e59d",
@@ -29,23 +49,6 @@
    "source": "Le Figaro",
    "region": "FR",
    "date": "2026-11-13T22:43:06+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "bdfed33e7c",
-   "title": "Un drone suspect repéré au-dessus d’une base de la Royal Air Force",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQem9iMnhSODlpekRLT2xZSEtlNUxzT2xLRk9Nc01nTndtLTd4YXgwMmhhQURwRmtWOU9RdWFCQ0Y4MFRaYy1MZlg2MFhIV3VKS3pESkJJNHNOdWNOVldsQmF3Uzlqck1DbVFWWEpTWjVRZlYyQ1N3aFNjbUNNb05jRHVPVjhpMnY2Q09IaE0xM19JeWdaSHRYN0VBZk9vT3FrYll4VFFlRG42ZVdrVUtPQ3I4SXZzb1VQRUxRMkxJN3p6Wkt3V0hLUEhVLVk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "20 Minutes",
-   "region": "FR",
-   "date": "2026-11-13T21:44:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -72,40 +75,6 @@
    "topic": "Society"
   },
   {
-   "id": "efdae234c0",
-   "title": "Suspension des vols aux États-Unis : «L’espace aérien a été rouvert», annonce le ministre",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSkxGcWZmcmJQTFM3b2ZoWDIxXzljX3FPNmh6QzhjV0llU1VuZlk1LUthaF8zdjBOczdGZS1lTk9hV1hMN1MtSUVCZk9seHUwMnpIUm9zOXAzMmhVQmFMNUJ1QW9kcm1sTnVlQWxzVE1rNWxEZEhndDR2aUZLTWlreDhraFY1MlZGNnpJdEtVYTQyRlVlVXlRNFpPZ0lQdkxoNlVpYWFpcWNsbndlTHF0bXFDWWllaXFyVk9DQW5vTENFZGxKcEJfTGR3ZkNzVjVyLVpQeEhqX214UlJleXhteWw2RFJwbEIxbTRyVUNB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Figaro",
-   "region": "FR",
-   "date": "2026-11-13T21:33:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "edd2fbd63e",
-   "title": "Pas de Pierre Sage ni de Walid Regragui : Lens a choisi Didier Digard comme nouvel entraîneur",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzFvTGNmMUJOcHFSVUt3WUMxUjBodHQxb1p6WFB0N2VnNFhfVzk2SWJmSm1uMERXVXozWVVYY1NjSUxQNi01bTFReWVOcFJ2bnF0ZjdkY3Uzb3RqcEZHYlpmODNDbFFyY1ZEaTBQMWdiaEQ5M2dOT25MS2h4aTFQdkJIb19mTmJpM29kYXgzdjJqdnZrYV9UQ2JfWUkwWmNCOTJDNkpLYVdBYkpfemNiYlRhaHFzR1dWcURmc2g1Q1dSTkJna2NpQ0Zhb0hZQzVySFRsRTU5ZnhhUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "L'Équipe",
-   "region": "FR",
-   "date": "2026-11-13T21:29:01+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "11d220d258",
    "title": "Décès du footballeur Jesus de Miguel : on connaît la suspension du gardien d'Andorre Onowo, à l'origine de la mort de l'attaquant espagnol",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMXBza2t4MHJFcTNOQ2VqNDE3dFpvTG1GeTJwcDFPckVuM1c0b1BCSk0yeDJ4MTZjc0VJU1NtQnEzeXE1MjN1MFJnQ3BDY092U2hzUW9ycWhuMHh2YWdzWFpzeXNRLWp2b2JDUzhhcW54QVQ4dnVuWFFxSzk5OTlhOWZOdTQzV2I5TXphelJ2WE42NEwtMkdwZlJHbjRsd1ZhdzBsMV96QmhrejdvMVJ1a21QTU9BbklTRVItWmZrTl9Ia0w2WkpCNC1rMTVnVkp5SllGempzaTVoUnhuUVNzci1zbjZ3ZzhORTZMRUp5eEJDUGMwY1VMM19MWFE1ZzlPRkNpdlFqTVNKZFllM3JUSU13?oc=5",
@@ -123,6 +92,23 @@
    "topic": "Sports"
   },
   {
+   "id": "cfbcd0bae8",
+   "title": "Un drone suspect détecté au-dessus d’une base de la Royal Air Force en Angleterre",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOG5LcjZ5dEU0R1pQbVR5N0RjVC02MFd2aHh0Z2ZESXdHMTFCU25mM2tuT2xseG13eS0xTEVnQzVSMFJJbWYtOGY2WHJPVHJqajREWnNYalhXOXpjWnZaM3JjMjVPNVFxTk85SDBtQ2dFNzkxbG5fNnlJdi1EQWdIa094MVVpTVZRWktXbXg0R2k0SDZ4aXhwR0VaVlhfUDNaaUFiTXpjaW9TNEN3WXBVR3czR1hkenozM1JYb0VaWjBjRWRBMWRn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le Figaro",
+   "region": "FR",
+   "date": "2026-11-13T20:53:39+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "3a27035fd1",
    "title": "Déstockage PS5 : 5 offres à prix records avant la sortie de GTA 6",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHkwQ1Y0UkpidUYtWXFVWE1SdUp5aUs2TlBMWC1UaE4zQ2FTc0RJbVg4TVZTQUZVOWZIdFNnSzN1RGt3MGFjRFdfa25CZ3F0djBhS2YyMG95VXBrS0NXamVRUVNwOGFRd0RVeE1URU02UFkzVFplZV9vTTZSRm81Ymljd3BYTHJ1UXhTNF9SN3NsYW55YmdvaU4xaWR5VWQxZjhnQ2FTdXV3TTdpdEE?oc=5",
@@ -131,6 +117,57 @@
    "source": "20 Minutes",
    "region": "FR",
    "date": "2026-11-13T20:22:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b37f923cc4",
+   "title": "Didier Digard finalement entraîneur de Lens et pourtant Pierre Sage semblait tenir la corde, tandis que Walid Regragui avait été auditionné",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNlBSYU0ydHdlbHFKNHRadmdGTnFETHdXMHVQcElORFZvNG54NEdOakU2dzRQaDJQeEgtR2pvaHdEX1NPMXBQUUM5M2ZOVEdxYVJaRXZQaXozS25WNDZ2V2pUUmdsOGdIQmJrSnRkNjFEcXZnTzNIZ1VSUm1CUUdhRFlxczhRTmJ1M1kyb3dLc09OajRHOTdTLVQ5dFQ1YXNoNU9RSl9iRGlNUXlHVHdfVlpnSF9VRDVGVi1Pci1MLWdoM0l0ekl6QUQwdFhCN3ZxeFlWcjk5ZVhrQ1Z3RjdFZ1lrUl9SaWgtM1BqNmNvV1RwUEt2ODNYM2Z3?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "L'Équipe",
+   "region": "FR",
+   "date": "2026-11-13T19:34:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5f82714774",
+   "title": "« Rends l’argent » : La visite très chahutée de Marine Le Pen au salon made in France",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOXBmam94dHVYZm0tUVZFVnoxU2NfakI5YmtXZ1ltT0lBU1JzZS10SG5yR2hCZmFoVmtBTWtLMEF5LWlYVm4tQnl5c2VPV3VKNXNzTDdHWUF2X09nYXFyV3hNakdVYUlvSkV2b3RPblZLOTRKX1kyRnd4QXcxRFdjV0UzWjFyWW5DY2R5QzdFYnVRbHItY2VZaTB6cUVLNFdaRk55ZHpjRUJRcGFLNE9KVlhQWVpqbFFLdW9CSzVnR1JvblRvU3hLbTRBX1p4QzVmY2tjYVNB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Le HuffPost",
+   "region": "FR",
+   "date": "2026-11-13T19:08:32+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "b70c9d5835",
+   "title": "DÉCRYPTAGE. Disparition de Marion Wagon : pourquoi le nouveau témoignage récupéré par les enquêteurs est-il autant pris au sérieux par la justice",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVi13RDlGdldWNHdRS0RvSUl2U0Vudm4tTWNOLXdZb1RmdVJBR1dWYld6bGZvdmo5ZXBvVlVmTm9CRlRYVHpOMXNTQlllbHpsNUs0b29YRThXdkJhcktqMU1YYTRnVGVudC16RUNLVFdieGJieFlrS0VzTVRxdGdQbEEwY1FNdHVLOE5naHlpQldlNEJ3RHF2eWpRUXNmX0lkV1VLcWw4M2dVQWp3V2M3LTlHUkZEc0tleDh5U1pkMVZ3Z3ZiUVZDdUJ4VFNkV2pqcUs0VklwdWVmUlR4V3hMOEpqSWxJZV9keXRNTXZVaGkyTTlSLVRxbllhWS1yb0lGQjl4OU8weGlPcDRfYnZndk94OTRsUXozU3Bz?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ladepeche.fr",
+   "region": "FR",
+   "date": "2026-11-13T19:01:00+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -191,23 +228,6 @@
    "topic": "Society"
   },
   {
-   "id": "c087677361",
-   "title": "Les Européens reviennent dans le jeu mais se méfient d’un coup de Trafalgar de Trump",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMFBxaFNYTU9RSXZteng3TW55SzhlMktoQUFLMW55ZVNCeE9fT3FQVDF5UU1BRlpneHZZcTh5eHdyWGNmMkx6bFlOaWQzdWlKTmtQMTRyZ0Y1OWFUNXN2YnVKREpiS0g2T205VDEtaUt4a3RZRGVlcXk4NWxqWjYyTmtwdTUtMGNhdmNxenJYR0dBZjBteGxBN2stNlhHbUdra0o2d1FqVzdwQXpxOElHbktVSU00YllnVm5uTEtnSWlrbDdJaS1qTzdqa3lWcFo4SVRz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "20 Minutes",
-   "region": "FR",
-   "date": "2026-11-13T18:16:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "04d458cd4d",
    "title": "« Il y a eu non-assistance à personne en danger » : les confidences de Rosalie van Breemen, l’ex-femme d’Alain Delon",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQUUFlQW83aWhVOEUzQlREZXcxUDF3NnRyZ0Q2ODBpR1hDRVZtbEpUREN5UXJjWmY1elVUakktWDNEWTFRckpsMWdjTmJsWWNqSnlSeVoyWEdfanhBYy1zRWxGR3lLR09BVmdQaVZNdUZrbDh5dzZKU05CS1E1aXpvcnlmSnZEWjlkQkExZHlTanRkeGUzSFpfZDkxSmZkSXpDckFPdHJ4bG04NmhNQTFDQ1p2UWNKSmFqTWlDbDR2RlVDTHNwenFmeHE2a2VOYUNwZV9jcE5OZ2ptLVM0bDhQcWdkSzhOM1BYSVhONDNJRDFoRERBM2YyenBlWnM0MzhFUDZianlEMm1YbG9ldzFQZktRbGJ3a2JaTTFTU3Q2T0UzalNt?oc=5",
@@ -233,6 +253,23 @@
    "source": "Midi Libre",
    "region": "FR",
    "date": "2026-11-13T17:53:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "4da444ce6c",
+   "title": "Le Cac 40 n'aura pas baissé une seule fois cette semaine",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHpYV2FzZk1ROU4xZjBGZ20xNC04VkJQR0VDLWMwREhhUE9EeXRtQ1Q4QzBqT3otdTJxMUxJY1R5VWNyYlZxMl83elZZMTdCdWZHRkJRbzNWVVF3VHVxbkNIM3hObThDUldIdWozTm9xNjRQUndVaDd5cDYzYjhMaVpKUG90UkEwNlVrM05QNVVETVRXRUltdWJ2bkQzVkNzYWphRVAyX3FKU2FObHB1ekRyVndaa1lqcGVNU3BEQ2xoelF1?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Investir Les Echos",
+   "region": "FR",
+   "date": "2026-11-13T16:58:56+00:00",
    "coverage": 1,
    "location": {
     "country": "France",
@@ -274,23 +311,6 @@
     "flag": "🇫🇷"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "7fc81c1673",
-   "title": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWnB1OGhmdnkxd3R0RjJwN09LMFpUNUpQQmtrZFdETFBlRENCMUVvbVg1bXY1U25iZkhhMFhIalNkYW5sZTdrbllTNU9kUUhCTXNiM2NpaHN4dEhxYUk4cVBmRHJMSFVNQW1IZURtY1JwNm9hVFFkU0FtcUVIeGQ3RFpXQmtYZVE1d2RfSlRBUnNpdF9LRElmUFVObHBlUW9Md0ZXeVVVYUdzZXRQQkpfcFUxVm54TjBGcUNZWnVDbHV4X0p4dDdVZHZaT2w3bkt3R19Ea3JIT2NSS2xJR2JBTjRFQ2lsTlBtYlpNQ00wdDBQdnUyb1I2QzYtdWJoSkpyU1lrTjNoVQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Le Monde.fr",
-   "region": "FR",
-   "date": "2026-11-13T16:07:02+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
   },
   {
    "id": "16c24900d0",
@@ -343,40 +363,6 @@
     "also": [
      "Iran"
     ]
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "5504695f6a",
-   "title": "Mortiers, jets d'extincteurs, enseignants agressés : les cours à nouveau suspendus dans ce lycée de Rennes après une violente intrusion",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcTlnWG5CVV9LclFxdEtHRnppRl9SNXJncGIxZm5RZ2RqOWIyT1ZLdmxCeG8xcEVMZWpsTHNqeUhKbHRMR3FncG1rckQ4bkVsOWljUmJuak5fbGdPbGsyTEVWWlI2c2o1U0JOYWlUOXotQ0duMDdNdEVkckdfZnYzcERLdHcybVh5LTdQb3N5WmU2UVd5OGZ3Ymp5VXlzdm1UZUZHMlQyWENmQTRKTGgwWFg5NjN3M3VFcXpBZWsxRmdpTTBDS01lTkdwbGNmWlJuSnQtWmtCMlByRHR1dVpuaGNwTEZVZU9ZUW9xYzFLeS1mZVA1djg3ZDRvem5aZUZQb0ZXUGpuenZpaXZ6aTVPbHkwbU0?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "France 3 Régions",
-   "region": "FR",
-   "date": "2026-11-13T12:14:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "dca58bb19c",
-   "title": "Italie-France: des Bleus irrités, quelques couacs logistiques... Les coulisses de la première défaite de l'ère Zidane",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOalNVSVItTUFtcl9XcXhFUUZQUUtGS1J2b1VLMXNSUGxfLWtVRUluVVZEVF9FdmJiTExiRXdSMUw3UVlXa2lPODM1Vjg5ZHhKNGstM05TM3hhTTVSMV9NV0VIeUxhcnpaMmIyQkF0M0ZsOEEtUWVLNzNVRWlYV2ZUVmNPYWhnemNiLW5FYW5hOHlvN0N5bi1xcW11Mml3SEVhNFJfTTdCMU1lZUZBbC12Q2Q1NnI3dmVMb1AyQ2RZUXozVm8tdGFsbVU2LTVMVlV2U0NlZVNYVHFJVVVGWnlPem1kMm1XaVFBR2Z2R3dVVDBFWGFMX3JTajRGaEJMTG5TbmtLZ2tNVXVuQW9jSUhTZTNlTWpmQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RMC Sport",
-   "region": "FR",
-   "date": "2026-11-13T11:53:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "France",
-    "place": "",
-    "flag": "🇫🇷"
    },
    "topic": "Society"
   },
@@ -466,6 +452,23 @@
    "topic": "Society"
   },
   {
+   "id": "25d4925e2a",
+   "title": "Italie-France: \"premier couac\", \"gros pétrin sans Mbappé\"… La presse sonne l’alarme après la défaite des Bleus de Zidane",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMm9VTnV2UGt4bl83WnZYQm5NY1NzNnBIUFFETHprLTlBSnc2QlRicllLdkU0T2tuQl9lcm1FeDYwQVgzdDNpRW5LNE5vTWJOUkdBeDc1RHlCUTlsb0prd05McXl5VHdmeGozZ3EyendXdmE2MXdUbGVNNTZKWVFGcGtSck9WQmlINTUzcWkxeFZDRnk3WTh4MzZncWNuTm9JbHVJVWtlTTY0ZnZWbWlBTms0cTViTGJ4V0RoTVVwNmk4Wmg5SnVFSGpuS2tDNFF0WDM4WFVuSVZIOEd6VDhUVHlaT3oteC1MRXQ1MHBfYWR3UTB2dlNIQzBIUTVvU2FITGdzZTN3WS0xSkpRSlBXZ3VMMVRJams?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RMC Sport",
+   "region": "FR",
+   "date": "2026-11-13T08:48:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "France",
+    "place": "",
+    "flag": "🇫🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e399d16a07",
    "title": "« Il savait que s’il en parlait à quelqu’un, ça ferait foirer le projet » : le seul ami de Kevin, le terroriste de l’attentat de Trappes, n’a rien vu venir",
    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPalJVcHA0ZF9pRlhEa3dUaURqaXVIdkZkQnFrNGV2RHFUdmU5QlJEWUh3cWVUZGNZM3RLSDlUeGFycnk2cy1nZm1ncmpsVFV3c2lWWko1el91cmdOay02cGY4bFlJaFdXWjFvX1VwdDBSQ0E5amhWS3U1THppcDg0RzZFY1lzVWJmOWxBQVZmdGpwUkJaTHh4X1R0Y0xvMkF4VDVOZDNYVkY5LWlDYVBXdW91a01nSWRuRWdMVndPeHVpR0NmTTBQSHRIMy0wWGNZeUs5bTRyWThOcDUzQnZUQ0I0MFZFVUxUWk9ZZGdQLUQ0UjFsLUdQMThlNFJsTWstUEFHUGZQdlRZendXWHdSQVBpbUQxRHFxUUFkZUNLS0hSS3RobnhOSA?oc=5",
@@ -500,19 +503,19 @@
    "topic": "Society"
   },
   {
-   "id": "ebaa2c9197",
-   "title": "Disparition de Marion Wagon : qui est l'homme au pull bleu torsadé ? 30 ans après, un témoignage relance l’enquête",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTmpaOFpLeW1paHNzbjVNZ0doOHlubWFDbWZhTkN6ZmRudHFQTzMyLUw2cWVJZlZhblY3NGFQQVZBSi1RdnhzdVJ6MTRCYmp0VkdFWlpLYnc3RkFidWUydzNNSVB4aHJPWnc2bDBoMG5ZQkU0X0pzSW1PSDFhMGNlUVdobFVFc0hHWUtfMGJ6X09NMUdJbWxuVEFOZ2MtT21DSlNOUGVQVlI1c3c2X3NHYlUxYVlRSVJxYzR0OVdRazZzVnFXZTg2MDNHOWk3VjhZaUNDUk1NVVFwYnJTajN1S0hiYUZ5VmlmMUNNblVmWTdXQm50aUE?oc=5",
+   "id": "0f1a9d90c7",
+   "title": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTUt4NWsxczhrMFQwSVozbWFaX1k5QlhIV2RzalczTkdaMGZ3ejdJUkFxTEliM0ZsQW5HZURwRXFjMnNmTFp5R0x1Q3Jld3FVTGJNUDZpQVdNQWxlNExUZ3BqZEx0ZG5uVGZtTkhwdVd5U2hfRndvWkJJTlowOEluRk9XYldhRnYwYmc3QjlaNHBNSjhEYlZnZmh5LTVIMmwtNHN3Z0I5bm5PSTFTRDlSNVpTX1h5S2lORDdGVEFNZHRIdHlTUWlyc0RRcVRiV2t0cERVR2hTdGVNTUk5ZzZ5d0dtRjBoWnI2S1plU0hiVWJ4MllsR3dOZzhLd0NXNEFmdURRTlBVR3RhbnFCNTN3S3lJV09tdw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ladepeche.fr",
+   "source": "Le Monde.fr",
    "region": "FR",
-   "date": "2026-11-12T19:13:00+00:00",
+   "date": "2026-11-13T00:01:12+00:00",
    "coverage": 1,
    "location": {
-    "country": "France",
+    "country": "United States",
     "place": "",
-    "flag": "🇫🇷"
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "KE",
  "name": "Kenya",
  "stories": [
@@ -55,9 +55,9 @@
    "topic": "Society"
   },
   {
-   "id": "d72dba43e7",
+   "id": "7e541f0e94",
    "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGUEtuaTR5Vzh3VzM2RXFzek1rVFQ5cmZKOV9TX01mS3ZSM3ZqVU9oZjYxRzJ1cEJsSjUzSnFlQXhIdkRoZnlYS25jNHRxcHdHdVpuTEhaYkVsTG1jZ2EyNEhiSy01bjQweF9xaXFIYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Z3cxc3ZwT0p4VE9jQk9CR1B4MDdmd3Zta1ludHh1SjAtM2ppWmN0LTEwV0hkSDM4bUdRZm9HcXFXMDhYX1NsYXc0ekdzckktaXdiSWF0TGhJZWlCVjhhM1FxRFNMWXFMN1lobjhn?oc=5",
    "summary": "",
    "image": "",
    "source": "Science Daily",
@@ -70,23 +70,6 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
-  },
-  {
-   "id": "ae87096465",
-   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "KE",
-   "date": "2026-11-14T00:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Business"
   },
   {
    "id": "6edcf48076",
@@ -208,23 +191,6 @@
    "topic": "Society"
   },
   {
-   "id": "c57ea4125a",
-   "title": "Beyond Security: Kenya Defence Forces (KDF) Supports Education and Community Development in Afmadow",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWFhCZ3dWYW54UEVXQ3kwcHJxSDYwQVFOeXJxUmVRWEI3ZmM0dkRGMm1CUHlkTFAyT2lYbm1zc3RXRDFuRWVYd3RkQ3JRUWJpOHIzOXhmb0FZYmZidlpmeTh4SEk2RGVqb0c4Z1VFZDRCZEladUprQ19yWkMwZjVNWXFtZ2dTQ09NMWhaOWtrZWFuMHUzZ3d5OHN1bDJ0SDVHU3h0Qm9Uck1rdGxqbVR1Y01WYkM5QXNVOXJjRGtkWkU4LW5Vb0E4eE1yQzJCYVhSYjhEazBHcExaWlRQQWxFYWU0bzdvb0RyRGhFcHpmblhYQVdiU1pRRw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Zawya",
-   "region": "KE",
-   "date": "2026-11-13T16:11:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "68e4c4fef6",
    "title": "Premier League reveal October Player, Manager and Goal of the Month 🥇",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0tiQUgyY05HOXpXMDd4bFJpM3Y2eWRoTzZFbTVmUW82MDFkVnR0WEYyX09CdW1LcHNQN0JwbGhueXp3NUk4Z1dTVEc2N0t4QWEzcGhKUjNhLUw2eHVOdEVTaGpwSkdDdFlmRE90UWtFa1NDVjNsS0hneTVRX3RYR0ltRkhPVVVpMF9aYVFn?oc=5",
@@ -310,6 +276,23 @@
    "topic": "Society"
   },
   {
+   "id": "3f5a0b3172",
+   "title": "Equitable Party formally changes name to Linda Mwananchi Movement",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDdacEpSVDNTV1JVSm8xYWRsT29JLWlDNXd1c0V6bEJoV2taYXR3NERGbDFwd0RaSHJMOHU5N1c3Zk96YXQ5eHowb0FDX1JRYzBTbjRRc05jNzA5eThwYjcyM1NwUTU3T0hxVlhmZ2N1WGttVUdNakNmZ0FNTXVNTkM5bHFjZzh3WjBNandHUnJvaThCLTdhbWo4Skw3U3U5cnB4bU5LeU5xWEJ1?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Star, Kenya",
+   "region": "KE",
+   "date": "2026-11-13T11:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Politics"
+  },
+  {
    "id": "662212a225",
    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqQ01qb3lwNWhSR0VzZy1pZ2Rxa0VKNllXa0FOaGVJeWg5bnROUm9VaGZhODYwbnQ0Rl9VbXd3THBCMU5LR2tyQkVUWVl1cmFDZV8xckVvaw?oc=5",
@@ -378,23 +361,6 @@
    "topic": "Society"
   },
   {
-   "id": "dd6ed3fe04",
-   "title": "Wazalendo Engages NDC-U Members On SACCO Services",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmZWYXVKbU5XOUFrUnlkZEZoM2NLTGhVUUpLbTZVYmNxd0dva0NSN1hvOHYzSlNhb19MNVNaWXJ2VjYwbDZVNkpZWno1ZnBkWVBjSnR4bjN3Zm5HSW12WlhEYW1STm81NVNmZ1U2VkVGdWRxWDZqSnkyRlJPV21yVXJnd3cxWElzaUNR0gGQAUFVX3lxTE1UekFTMU5tTDJ6eUtuTjBxazdzb1hPRVJyYzg0NFVlOTZUcEo2dXhGNnpkU1psWDAwQWtzUUNBbWVjcDE5LTlHVC1ZVTI0UzdMM1hEZmRKYkt1d3JuTzQ2TTZkbmo0SzNMX1lIdTdGV3NSbFh2R3VSY0l5WjN5c2dDbjdrWjQ5b3JvWlJxWm44cw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "UPDF",
-   "region": "KE",
-   "date": "2026-11-13T08:59:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Kenya",
-    "place": "",
-    "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f84cd61e2e",
    "title": "Lawyer Abshir Abdi appears in court, seeks to narrate 11-day abduction ordeal",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbUt3Nm1yVlRyZWc3Mm1DSHoxMGlxS29OdzI0bUpNOEdJcE1tQWpfWXpzUF9ZdjBBd3RzQlAxYWIyS3FRbzJ0RFdMNUptOXViOFFlYjZVOFRBd1JUSUdEdHIzU1F6RjNVbTllTXRGcDR4aEllR1JFcktNRVozaWttYWJZZjhrNWpwOU5iVEhNUGRnTjhjQ1ZtSk0xalFZNVB6M2tGTzdOT0ZyM09oYzFsOVkzZndsNFpQWjFXTjh4RExzTDNycmhETDdzS1F5TlZHRVlYc1Nia2xBV09pSmc?oc=5",
@@ -429,21 +395,21 @@
    "topic": "Tech"
   },
   {
-   "id": "0157278389",
-   "title": "The origins of Friday the 13th and the associated movies to watch",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjFnQV90ZU1OYjE5NTU5Z1VsaGF1OTd5Z0JPTUhIb1JpMmdQNUdqM01pY19jZngxbVdFLXAyMDJkZmJ4R0Q3UDVjX3VEVUNkcGRqYXFGMkhJdFlDQUpaV3NFcFdMaHdyQ1lDaTVMeWNuUmxuN04tLUFFTlpHZW9kZFNNZFZUd2s3LWpYVF9UTGdxdw?oc=5",
+   "id": "4cbe43cffc",
+   "title": "FirstRand International Postgraduate Scholarships for South African Citizens - fundsforNGOs",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTThaN0tianBvYVkzU2NxY1l1VDlrZEUyYWQ5SGpaRDlnUGxHVWNiSXRTRHJuU201Nl8zSmo3NGVBQ0huTFpQNWJjNENvb0tNVV9CUlFmTTR6cTZQaXJkLVNkV0xDdG1XMW5kVlo3REVQOXlfWk1CNVp5NDZDU1B2dEpSa1RtVE9rWFpoNzlZdFJuc1J5MURmU3pSZzhERFJQd0p3aU1vTG5CY0Mya2xoZnFTUnU2NFotRFZn0gHAAUFVX3lxTE5ra0plc2xjeDZ0ejhnZEtXY1E5c2dWYmRtMC14RWNacDRzNmFYZXZGeFB1dWJoalhfZ2tnWW1zWV9ZN2ZJdXZhZzFCbGlHNkozQ0RjLTNwZDJvd0NSdjNGakw2UjNNMlZiOGVsbkhlb2JsclA3TUJIQWpFR2R0QlpqclBtS2lLRUhBYnRvX2ZIWjlmRUVHZEpmaUJzLWprUFhZbC10UGFBMnVfR01idm12b1hlSjVybldKd0todkR1YQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "KBC Digital",
+   "source": "Grants and Resources for Sustainability",
    "region": "KE",
-   "date": "2026-11-13T06:39:50+00:00",
+   "date": "2026-11-13T07:14:53+00:00",
    "coverage": 1,
    "location": {
-    "country": "Kenya",
+    "country": "South Africa",
     "place": "",
-    "flag": "🇰🇪"
+    "flag": "🇿🇦"
    },
-   "topic": "Entertainment"
+   "topic": "Society"
   },
   {
    "id": "504facfce3",
@@ -563,6 +529,23 @@
     "flag": "🇰🇪"
    },
    "topic": "Society"
+  },
+  {
+   "id": "1a66bff1e8",
+   "title": "Jensen Huang resigns as NVIDIA president and CEO after leadership crisis",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFp0ejdNU0U2c2tBNlplc2NSTmZjY1FicjFVdmI3ZzBzbjdLaEttRWcyV09DUFp0enQtUXFzc0RrNFh6cVhUNlI2V21adG9NZUI5b0NwWWk5VVNfYlRZSjlQeUU4bXpiVkNQUmdVZGdKcHY0RjFfak5WZFF6WG5lemtjSi1uekhtamtaVEo2NUFiVnVCTjBwNzUzNkNQak9LSUEtbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Dawan Africa",
+   "region": "KE",
+   "date": "2026-11-12T14:17:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Kenya",
+    "place": "",
+    "flag": "🇰🇪"
+   },
+   "topic": "Tech"
   },
   {
    "id": "f1d304090b",

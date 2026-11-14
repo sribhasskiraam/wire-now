@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "AU",
  "name": "Australia",
  "stories": [
@@ -55,6 +55,23 @@
    "topic": "Weather"
   },
   {
+   "id": "c55aac9072",
+   "title": "Four bidders vie for $2.26m Edwardian house in Melbourne’s east",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjFFVEZVNGxUcEhMdGFLMXJ3T3FBcDJjYTZZV3I1TFJrZGpRdHBzMnR5YzhuQW1EU0NuZTJYYUJTd0RzT1dSZFgwNjBzMzRsMWNadlNXMmR5QldFRVg1UnJ6eVl6aEpzQmZ2enZHeTEyUnFpeHJmZnFnQXpWSVUxOWtZd0liR19Bbm1oRHpLR3ZXeERSd1Mya0JCTG41dVluMllCZEdOdHhuRmxMWlZfQ1FaN2lueTZFbFlBTEptSWIwbHA1WUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Age",
+   "region": "AU",
+   "date": "2026-11-14T02:15:55+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "bdb606dcc6",
    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
@@ -76,23 +93,6 @@
    "topic": "Society"
   },
   {
-   "id": "561c6d3ff5",
-   "title": "Flight grounding lifted in US, delays expected to continue",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkFwLVY4TUl1YV93SFliMkZybTA0SDhMa2s2TzZNd2Vob2NzOFFwNzF2QXBrRGR3TjZBRTJYb0Q0VkZkbjRwV2g5MzVicmFVbldfbWphOWFEWUZ6QmlDODlTd2FDOUMtd2NvclpFR0VBSnNMWXN0Vk10My1KcHo3a1V0VExDLWxJT0ZZZjRDNFBPQVVGektockFmaVlOV2JkeUZR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Nine.com.au",
-   "region": "AU",
-   "date": "2026-11-14T02:04:18+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "c35203a660",
    "title": "Scientists Discover a 98-Million-Year-Old Mantis With 'Leaves' on Its Abdomen, Trapped in Amber",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlJUSnMtZTF4RWRQaUYxUlRlUlU4VkxmbThXSnB6bnFpLU1uT0RrVmRXNV9neG9lMWxSZnBGcUFVdzQ3RFQ5Q20yb0hvZTFkbEdkN29RM1A3ckFVWkswR0R1NHZxZEpmdExQRGljU2lUaFFsUkRYaktaT1hXbzZuWUZlTDBjWUJLQWZwdTZqaVJrTWVEWGtaWnBtZmdENndtSXFzUTZuZm15cDdBYVF6UG0zTTRNWFA2OXZXc0dn?oc=5",
@@ -100,12 +100,29 @@
    "image": "",
    "source": "ScienceAlert",
    "region": "AU",
-   "date": "2026-11-14T02:01:46+00:00",
+   "date": "2026-11-14T02:03:33+00:00",
    "coverage": 1,
    "location": {
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "5c555cf447",
+   "title": "‘Extraordinary circumstances’: US lifts nationwide grounding of flights",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVG5XcHl5Y1hHRzJRLTYwRS05UllDQXV4UzVPV3Bud3hkSnF6bFVpQ1FlTU0xRjByZVlkTUIwX3ZzVFpMNjZtTkNibm5pRlVhY1BlQm1jTXQ4OHZueG1VVVkwV0R3eGJDalNERVpFZERScXZpbTE4RGlUN3dLcl8yY1IzdlQ1TmQxd0hoUmh6VDRxRmdJdFl6LTA2SlFPaklPQVN6SXFFTjFHQ0dlQ1pRdE4wMzlkOE5MTEpyQUtTOU9mam1vb21qV3JVOXVaY21qMDNrdWg4d09Yc2ozejZPcXRwUTBzSlE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Age",
+   "region": "AU",
+   "date": "2026-11-14T01:40:10+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -212,6 +229,23 @@
    "topic": "Sports"
   },
   {
+   "id": "8a2e89218d",
+   "title": "‘Miracle on the Mississippi’: Passengers, crew rescued after tanker hits cruise ship in New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3lWeEpkVFpsdmVxNEdRVklJVVdnSGdMUTR2VmpPRThEbkE4aVBLRkVnRC1LZ1JaTzcxU1pGQkJleWd0U18xRWIxMFVPaXJQeUJMa1k1Z0gzS3hMd29fbjhmMFJKUEJZV1lDc3ZMRUpWTDJFQ3dobWVHR1BvS3NuckJiRklnZ25xMjZvUG9BdTF1aUpFY084cl9Jbmd4dlFaVWlkcnVHUUlmaXB3Rkd4Z0YyWjBUOUNCNk9qcWt0MkxsQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "SMH.com.au",
+   "region": "AU",
+   "date": "2026-11-13T23:16:49+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "15feccebf8",
    "title": "Eels recruit in hot water... again as alleged abuse aimed at NRL official revealed",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNXzkzbUJjOWthNmlRS00wSjZUMlJGZWhLVmRna29YVnJaN1VoU3E3NDI4WGd6WUFRMUwzMXVqdVBfaE5SX2huQ0pwVUc3bHBzaG1sZW9OdVRfX1B2dnlGcnlabmRVdHRhemdmZjJnX0ZCTzRhTGtTWDBLQm5HaUV2bUhBWGkyR241UkhuWGZLWTdyeUtwbGFNX1VoWEY5NXZfeUFkRlJUb0RCTUF6RHZtcHc3VFUyajlDa0dCaWFlWWlUanFXRGZqOF9zQ2NjNmJTQ3pjZ1VKRFlzNU15amttajJlaWgyWEdtV3BpVw?oc=5",
@@ -246,23 +280,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "715fa92144",
-   "title": "Tanker lost control, hit river cruise ship in New Orleans",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRk81aTU1UjFydVlWQUp2emFBaS10UzRITE9IakpFNVVEWEs0X1BnRUpyS0d3aW1TOFJBcU1CS0JBZWFROXdWaGstVlFCaVJDaW9Kc3AtUjBZemxJaWZHVGZkY3Fra2V1X2o0aGZ0STBmZ2duMWFXMVRSVUpnem1NLWZIQVFrdTFhVkw1UjZWRjk2MU1rd0VsY2JnM3FPeUdKNFA1V1VNSmMydEtqaXBaZzNMR1d6bll1aXVnN29GN21kVVRsNmJvQWVpVTh0VWlpdXl3eWczd1pDTWk5MmNKWm9oTFYwdmN2enFFQ1F2TER0Ylk?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Australian",
-   "region": "AU",
-   "date": "2026-11-13T22:04:38+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "6d2b335685",
    "title": "Exhibition celebrating 'unbridled messiness' of womanhood opens in Canberra",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXBzOGZnMHRJXy0ybzBIenRuV3hjUDZDZExBUkluY3VEelZMUDNTVE9iTlVSN3lJcHJNTnQ0bC1qV0FBa0ItdGxDOGtVQ1l2ODNIajlmMzgzbm9PeE9ocEVIeWlYMl9jTlNyNEFQYjVUWHE5aXJMTnFsRkZndUtrbEZrYmlhN1doSEVGcGhFTVJQU1MzQ1RUaVdzYUJsb0FOSEVYXzk1RVc2dC1HY3c?oc=5",
@@ -293,23 +310,6 @@
     "country": "Australia",
     "place": "",
     "flag": "🇦🇺"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "a428049048",
-   "title": "How Jensen Huang’s fall could ensnare Donald Trump",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTUt0WE9kNU5ZV3RCa2pNRS1tam56ZmV0Vmppb0ViNklxYkpCUkhEOEoyOE0yQXhBTmVmdG9rWVp0ZUQzbUlpbFRyMFNnU090dk91ZWJacVh1UnhRTVhOd1Z3ZGRsTG1xMFNaTll6cXBRaGtDMlZGTnA3M3ZsS1hOTl8xWnFlRVN1VGxucWlkcXYwZzBzbk00UnFBOEJUdFBMdmtKWUZmc0h1U3VJR3JRMmF1LVROQlNUa3RER0tNSWVZVElEdldueXBnVnY5aGt6dlVTZkYxTUJOOFlrWTZrT0h3RFpIUjdiWWRXeFh2azhQYk1yMVNtS1dYMWU4a1NLYzRRVTN2ekEwQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Australian",
-   "region": "AU",
-   "date": "2026-11-13T20:51:17+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -436,23 +436,6 @@
    "topic": "Society"
   },
   {
-   "id": "73fcd4b781",
-   "title": "Microsoft outage shows Australia must develop digital resilience, experts warn, but it will cost",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1V5NmZlZV93bmxHLXFyanF6eTUtMklNX2xmckNESENyOHdMMXpQYUt2djBSLXhwOHVsN1o2bXB6ZnZjeFZaLUxheGR4STMzdkp3QW41TkRaNG83UWg5aUZwQjFXVXdJX1VGWHc0RlMxMmx1WE9rcU5UMXNMOTd3VHI1RXhxbXN4b0R5ZV82V3ZsYVlXSzVCYXRWSVNPdDRJTkhiNmJaTlhFbjBh?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "region": "AU",
-   "date": "2026-11-13T18:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "63ac8c7a23",
    "title": "As the world's calamities converge climate talks tread water",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTJTOE9fS1pEX2lJUUR5Zl9yS1dXalZxMHc1cFlHcDhTWDk5V0lTb2E1TGo2eU5hXy13V3ZlQ3BIZ2dLMWVBR19xT056LTRZdkZJbFhrQVF2MzNiTXBXOEstRTRvRGlxTVhsZ0Y4Mnk1MnJzNEJjMFFNazY0MHNORjgyNDM3dXViZGdmX1F3?oc=5",
@@ -538,6 +521,44 @@
    "topic": "Society"
   },
   {
+   "id": "a428049048",
+   "title": "How Jensen Huang’s fall could ensnare Donald Trump",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTUt0WE9kNU5ZV3RCa2pNRS1tam56ZmV0Vmppb0ViNklxYkpCUkhEOEoyOE0yQXhBTmVmdG9rWVp0ZUQzbUlpbFRyMFNnU090dk91ZWJacVh1UnhRTVhOd1Z3ZGRsTG1xMFNaTll6cXBRaGtDMlZGTnA3M3ZsS1hOTl8xWnFlRVN1VGxucWlkcXYwZzBzbk00UnFBOEJUdFBMdmtKWUZmc0h1U3VJR3JRMmF1LVROQlNUa3RER0tNSWVZVElEdldueXBnVnY5aGt6dlVTZkYxTUJOOFlrWTZrT0h3RFpIUjdiWWRXeFh2azhQYk1yMVNtS1dYMWU4a1NLYzRRVTN2ekEwQQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Australian",
+   "region": "AU",
+   "date": "2026-11-13T09:32:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "c386cb4923",
+   "title": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLUNOZGYxREhHMEZTNnZfcFJtdWxPMVNINTl0cGRkeHpHeGM3eXBoUEk1YkJfMEZ5cjhsdmtrOG9SSUNpN3gzV3IwdTBTV2gwcVBLczhvaXJRZ3IyVk5mcVVQV0tmTEFWVTMtUEUtZGF4Z1Y4clg4Z0o1TGdfVFd2c1F4cnBfbmlHRU9QX0hqb3p5RGQzZmxGXzlyT3hnSTJnNExTSFpVeC1fWkdEMWxJQ2ZLQnZvTEIwNWwyYk05XzZ6MWZrT2JueTU1amVneGNGdTB2dWFOQlpiaVZQQ3VaU1VOTHd3d0p0MEpMN250SjhONHUzQVV4bUdaRlFVMy03Z05qc0xqS2N4Ym1fS0JoVC1qUUxwU3htVkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Guardian",
+   "region": "AU",
+   "date": "2026-11-13T07:11:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Australia",
+    "place": "",
+    "flag": "🇦🇺 🇺🇸 🇮🇳",
+    "also": [
+     "United States",
+     "India"
+    ]
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "3d1ef8c287",
    "title": "Evening Wrap: ASX 200 slides as NVIDIA woes, bond yield spike and falling commodities drive broad sell-off",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1pzOXV5Vmc0dmdOU3ZQV3ZfSzNUd18tY1hfaTdlSjZqOGgyci05LW9VTzh5QklGNktzay1BNnIzYmZxeHZUcWNJTXhDNUtvZ2lmY2lqZUJtM1NMYWxwRlpYTlZmRG0tNXp6WHAtTnlObm9lVlFFRlhDNTRBaVphWHFpaElkaVVoWDBZd3dPaGtodDc2eF9rSXFNOHVQLTBNV0RrNkVXM0FEYkU?oc=5",
@@ -553,23 +574,6 @@
     "flag": "🇦🇺"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "208b9a7c3a",
-   "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQek5fZXhOb1liZExJTFBIUndYeUZrTk9Wc1FIX2kyd01sN1VPRnotYk0yVGZzczZCdFZtSFZiamEtUWJTMGFVQ2k2aWtDQnc4TXJlV0VSWTIxRGtkTmN4dU9SZVVteWZzWTROY0FLeFI4aDRqT2wwWUVyZlB1LW54NnNCSUlrb1ZNaTlFWWVKWkx6SW5mNFp6S3ZrcVdrYnRBcklDTWJ5azFDUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Guardian",
-   "region": "AU",
-   "date": "2026-11-13T00:34:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Australia",
-    "place": "",
-    "flag": "🇦🇺"
-   },
-   "topic": "Politics"
   },
   {
    "id": "82d08a6c21",

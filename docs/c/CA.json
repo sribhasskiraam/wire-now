@@ -1,8 +1,45 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "CA",
  "name": "Canada",
  "stories": [
+  {
+   "id": "b295149d7d",
+   "title": "WWE SmackDown Winners, Live Grades, Reaction and Highlights After Crown Jewel 2026",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGdWaXBRNmdQeE9SeXhfV2Zza2FXbU94TzFfdFdVTTRqQnRGTXdZYllWSzJjMGFCVWhjQ3ZKXzcwaXhBb09NRjNSU2JXcnpxWUZ1UGVjQ1NKSlg4Z2tXazE1ZXpDb0MyS1FwdkdJZTlrZWw0N3hYNk1xWFA3eThNemRhb0pfMG5jQW56eXhPU3J1cU0xOWVXOThmV1l2RFRERlJaMlNQR2tSQ2tDQnAzNDFqc3I1YlBwLXZPSEpVMkZIWUU?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Bleacher Report",
+   "region": "CA",
+   "date": "2026-11-14T03:33:45+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "232c6b0c3f",
+   "title": "Canadian airports cancel flights after U.S. orders nationwide ground stop",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUC1BRWRabVNXQnRDOXg3bDRDRE9PaDhjYXNUT3ItQzJIT1JvZWc3Tk14LV9RTWhiUXBHanBFeXZuNWExNFBnSk5oLUcyR0pDX1FpbE90ZHJNMmVoVzN2eUM2UmlDZk9RWjlYcGs0OA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Global News",
+   "region": "CA",
+   "date": "2026-11-14T03:04:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦 🇺🇸",
+    "also": [
+     "United States"
+    ]
+   },
+   "topic": "Society"
+  },
   {
    "id": "8d325e190b",
    "title": "More than just streaming: TwitchCon drives $60M economic boost in San Diego",
@@ -17,23 +54,6 @@
     "country": "Canada",
     "place": "",
     "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f4a47c2810",
-   "title": "US Loses Measles Elimination Status After Cases Surge, WSJ Says",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeTNacXlJVzlCT2ZHeDlFTVk3eEQwMlFlUVcwRDcxdWM4Znc4alpYMldlbW1VNU5hVmw1T1NCYmQzd0NyYmVmNHhWU0RxakJZU1hhaEpHX2ozQXd2TDBhem4yaS1fNTE1MS1qZ1BRTHZDQ3pjR0F1Y2tSNjJBVEp5Z2lZOEM1ZVJSX1dLSlBCYklyczloMVRRUmRKS1o2ODZlbmQ4dF83MjlQWlloTm1aTHFfQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg",
-   "region": "CA",
-   "date": "2026-11-14T01:01:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -55,22 +75,19 @@
    "topic": "Society"
   },
   {
-   "id": "232c6b0c3f",
-   "title": "Canadian airports cancel flights after U.S. orders nationwide ground stop",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUC1BRWRabVNXQnRDOXg3bDRDRE9PaDhjYXNUT3ItQzJIT1JvZWc3Tk14LV9RTWhiUXBHanBFeXZuNWExNFBnSk5oLUcyR0pDX1FpbE90ZHJNMmVoVzN2eUM2UmlDZk9RWjlYcGs0OA?oc=5",
+   "id": "1c71717326",
+   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1Zub2xqb3dzYTFILXNXXzF5TkJOZmRDWFRXc25zbVFkNkU5Mll5aEZDVTB3aFJjQmFiZFo4Qzd1RXFnLTE5em1ROEQtNEctMTMwZmhMYUFMZDFRVjY1cF9nMGVOREJXc3VhbFlhSEtNdTNtb1JxS1BfTjdyNTdmMkp4TEN0VXd2eG43ZWJoUXR0dlRydy1zaWZsQWgwZkFSRDBaQUZueTIwMDZwdHZIWWZCNA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Global News",
+   "source": "Ars Technica",
    "region": "CA",
-   "date": "2026-11-14T00:53:53+00:00",
+   "date": "2026-11-14T00:49:13+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
     "place": "",
-    "flag": "🇨🇦 🇺🇸",
-    "also": [
-     "United States"
-    ]
+    "flag": "🇨🇦"
    },
    "topic": "Society"
   },
@@ -228,6 +245,23 @@
    "topic": "Society"
   },
   {
+   "id": "b37083dd7c",
+   "title": "Flu activity ‘high’ in several provinces including B.C., Alberta and P.E.I.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWJNbjd4YXlKbGowLUhzbUxtdU9TOEVyR3o5YlRScVFydWtWbnhDOWQ3NmNvZmJ0WmRIMDBHN1E3cXhLSjdCazFiSGFIUXhzWG5hZjBVSmRWdlBsUkw0MFRjZ0tOQWxqTjBpUGJXdTRmdzVpVjBEMm9VZEtpekVKT3RKaTU5aGZMMzNaOVJZQ3lScDgzQW9KMjJTMlpTUGlIcUY4eFYydWxUN1NULXoxRlhB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CityNews Kitchener",
+   "region": "CA",
+   "date": "2026-11-13T22:30:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "f07042031b",
    "title": "Canadian women pass stern test from Czechs at hockey worlds, advancing to semifinals",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lDUGQzdXdnY0NxWnRaaDNYNXJ5V01ka1pTNU81cVI5NlAwejNfNnU3a0loalRoaVgyU3JlcEtkenVQczNqR2cyUEFJdGswRENfbFFIUnotbzMycEZXZDg2VmFjR1F0bXF1bDBCdHZvUFpTM2dHM3NpWDZmbE1GaFIwc3pQMGxIdGhDZm1fZjhWZUd1bFF4ZFZZS0NIV3puaWxRTm41VQ?oc=5",
@@ -296,23 +330,6 @@
    "topic": "Society"
   },
   {
-   "id": "495d988ccd",
-   "title": "Tanker collides with New Orleans river cruise with 180 people aboard",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQW85U0JzRmRBcC0wSk1OdnAxaFU0c0FZRlRxbnRONHFRNVAyTFpGdDhUY0tXSWRlcndaRThSM3V4eHFuWWtqWXlvd3Qzb2lPazRENUNZZ2I3bndzMS1FRS1kU1Q4NFQyM3h1bHMyeVZ6NlgzSkNOanZpSVlSVnJxTUJrUkxLdnZvdm5Ta2R3bFBXZV9ZMnpBR0EteWY3UkFxN256M1BfRHJkeVNPZFZz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Globe and Mail",
-   "region": "CA",
-   "date": "2026-11-13T21:06:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e6b6766802",
    "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNENSQWo2eG9BYl85Q0NnYUFfY291R0wxMmhqYTZRYkJMSkhpNVBhOF9lQjlKcFY3a1d1RGRhMHNVVUt0OVFjQWVnaVo3UDczdkdPSW1zSGhyNVNNWjZiTUtaajlEMW91d2RidkdNYWZmcEtaanNOSXdqMjRJZ0t1cmNYRmdQZUVVS3BMMXFIZEdZNkZCcV9EVXkzWVltTXhtMGVoQ2JYWHRfZERCZkFKTXFaT1BlUGVwYmJSSlBYaUtEeUhNMWtNR0RWSksyaWZGVjZDTDJoWXg?oc=5",
@@ -330,14 +347,14 @@
    "topic": "Society"
   },
   {
-   "id": "5350396d40",
-   "title": "Federal agency finds no evidence of common cause of neurological illnesses in N.B.",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iSHFqQU9TN0hHOUxVQXY5dmFZdjk1SE1HSG52elpBOUh5V0pHY0JWaHRlRHNrTUtQbWJnbzk2ZnBXaFYwVlpIRnFBSFhwZDlEblFDZTNUUTM3dGp1dkt5VVJkTktXbHpOc2JWRmluLWpJUmF0THEwWHVvcUY3dw?oc=5",
+   "id": "88af74d1de",
+   "title": "Tanker collides with river cruiser near Port of New Orleans",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjRJRXc0Q3pleXZsN1NkZlVkbGFiQ1Y5cDFWb2lzXzBfSXNsOWF6bmRRTlgxQnBwR3Z2UWRhS3JSbHNQRUM5OGkzNHhQcnR0X3Z2d0ZvZ19wMXVEMGcwT1B0dmtGVkJCVXIxbUFaMHRGSE0yRk1FcnJRbHBvODNCS1JpODVHc2lOUWVkUi03U1hfVUVPRklUQWt6MmcyZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Yahoo News Canada",
+   "source": "CTV News",
    "region": "CA",
-   "date": "2026-11-13T20:35:00+00:00",
+   "date": "2026-11-13T20:34:50+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -355,23 +372,6 @@
    "source": "CBC",
    "region": "CA",
    "date": "2026-11-13T20:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "46a5510a02",
-   "title": "Flu cases are climbing across Canada. These provinces are seeing the biggest spike",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0h1Ui1WWFhaUTU3SVprOVVybVptVHQwZC1jWjlMdUR1LWc5Nlk5ck1MWGZBdmJXaEZrVmJjVy1CUHZLMjVYT3B4YWRSdnY1SEtjZGR3NzZ0UDdQNzNFQUpFeTNISFBPMHRpc01zckVFZDdtek9Lc1MwRWhYZ0lDMWM1dXhHME9tN3E2a0xuUFZwblZtVVNTcUxJdVBaYUxmT0JCSVRtNXpCazV5eVIw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CTV News",
-   "region": "CA",
-   "date": "2026-11-13T20:11:40+00:00",
    "coverage": 1,
    "location": {
     "country": "Canada",
@@ -415,57 +415,6 @@
    "topic": "Society"
   },
   {
-   "id": "8800023b6c",
-   "title": "The new ‘Bachelor’ will be NFL quarterback Sam Hartman",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LdDVKNUsxWVBibWpMNjEtT1dab3c2NHp5OENHQU1ad2dsNG5WTDVYTjNzdk9xMkt4TmZVLWd5LXFucF8wWjZPdkZBMjBTQlAwWmxhSk82QzJuT2xmRm5JZzBZc3RBVkJyQlM4WEVRbjZXeWlrLURfNm55NA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Global News",
-   "region": "CA",
-   "date": "2026-11-13T19:34:12+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c0f401422b",
-   "title": "Microsoft reports progress in reviving some services amid global outage disrupting businesses, governments",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84eWE5ZU9pZUtxaE10MEI2aXVEbGctNnpJbDV6S2xrbE9oVlZzUndYMFU2VGp1a2ExYmFqVlVLRVRoeGdDb1dFbU5CM2NfTDNoV1lLM0UzS3d1OHB1SW9KQlRWR0NCSFFrd1FHX1RkWDBDa1U1Z3V6TkJNTFE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-13T19:18:16+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "bc3b8a6d57",
-   "title": "They called her 'Mommy': Vulnerable senior dies after 2 strangers take over her life",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vNURJOHREakdQOF9fakpxUFZ6M3A4akZ2aS1GZG5KMERwbU1SRWNnVmd0S2daZXVmbmdGY1J2RFFLY1FGb2JwQnY2dFY5UHZPc3ZnRU91b3p1ZHMzb00tR0duRFJsemVHSmlVZDN1bTFxZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBC",
-   "region": "CA",
-   "date": "2026-11-13T18:25:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Canada",
-    "place": "",
-    "flag": "🇨🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "4330a9062b",
    "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont. on Dec. 1",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DdWJLQ1VSbUlpeExUQy0yRzRPZ3NlQlZwcl96eHZSRFhLbTJ4WmQ1cU9lU2FUY0RLRGgyVHRIb2tQdkFqaXUzWDBJdjJJeHN5SEVsUHVoMW5aNWc4MmVnVTdRdW5ZeEpn?oc=5",
@@ -500,6 +449,23 @@
    "topic": "Society"
   },
   {
+   "id": "37f37e3668",
+   "title": "Advice to patients in the West as Microsoft Outlook outage disrupts emails",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNFVCWDFmbDd3U0F0bmZ4RVo1YzFPdkdzN1FFVzB4a1c5bU15YUpIc3YyOENMNEVsY1dVQjVfU29TVzJtSVpHMy1yTGNKMVFncGNmUlRSUll1Uzg?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BBC",
+   "region": "CA",
+   "date": "2026-11-13T17:34:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
+  },
+  {
    "id": "f329030e3f",
    "title": "Rainfall warning, coastal flooding statement in effect for most of Vancouver Island",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTlvSDFiakk2cGkwUy00Y0VIUm92cVl3NDBzc1hXYlpTOWZrS1RoSFFqd3pHS1k2N2trWkFjQnhQZHZFS1FjaTY5REZXbHYwT00zNHZNX2xrQ3phMDZMTThsTEZGcGkwai1HQkNCZEZ3R0lBbHFIOUJ3OG9JWHFXb3kwMzhLcnhTVjRJVy1PSDZvc2J4cmY4UnFsRHJNekQ2RkV2M0REanAwQUpDb3JTMA?oc=5",
@@ -515,6 +481,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Weather"
+  },
+  {
+   "id": "22c781f401",
+   "title": "Public Health Agency of Canada can’t find connection in N.B. patients with mystery brain disease",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXJSeXh5Z0I0TUFCQ2puRmlqdlo4dGYxTDlHSEdkN3dITzNLVERKbDFLU1V2bTJndHhlVWZsM0pZUG5jaWk3MDlOWTk2ZWxtMFRiZm16MWhlbXI1X1ZZaWZiWnE3TVZ5TTBjdmRKTjZ2dUZWbjNmSWxFQ1AzNDU0eU0zR2xtRTB5bWhFWFQtZVpseHFDVjJvM2d5cEdPa2tHRlk0NHY2RUROdTR5OTlIWkplaV9pbTFVbHc5Q3g0bmloREczX2czMVQxMEZpNHFEWl9SV011dTVQRnlrOC1KR3pR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CTV News",
+   "region": "CA",
+   "date": "2026-11-13T16:42:33+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
   },
   {
    "id": "430b65e2f9",
@@ -549,6 +532,23 @@
     "flag": "🇨🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e0a7a220ad",
+   "title": "Heart Health Matters in Beef Herd",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pVDljY3dHSTBYemFKMWtoSE9zVEE3SmFXQ2RpYVY2WE5jOUxaQzZyZ0Q5S3hGbHdGMnZjRWRJTGxsNE9jNTBSNEZCaWFrc3NsdlhjTk04bWpCVmE2M19EUno2U21nbkd6NTc1QnpxbnB1Q1VWZnZMaERNT0Y4Zw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ABP Daily",
+   "region": "CA",
+   "date": "2026-11-13T16:02:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Canada",
+    "place": "",
+    "flag": "🇨🇦"
+   },
+   "topic": "Health"
   },
   {
    "id": "0843ddf5d6",

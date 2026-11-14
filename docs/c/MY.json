@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "MY",
  "name": "Malaysia",
  "stories": [
@@ -21,9 +21,26 @@
    "topic": "Society"
   },
   {
-   "id": "5688425843",
-   "title": "Najib spent 8 hours outside for hospital treatment, Friday prayers, Prison Dept says",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE9laTBNQXFZSmEtVThpdkdXeGdDQTkxUVV1ZzRTV2xLSlNRbGxQZ29XcjlIalJGdmx0TzJxRTMxcDZOUHpkTDFscWcwSUxuR0oxdHJpM1RQNzZoM3o0bjhkQlhRV2c4LTYyRkMzdEdLaTgtUTBnVUgwTnZhUVItZ0luNEVhT202NnBrMk9NcEI2eFl2RTg0VjhERnNjUTJoYXNqSW9PaWRXZW13QTFfaEVuQ3BfYXhVdktIRERoUDE?oc=5",
+   "id": "6056f0f835",
+   "title": "All departing US flights grounded due to communication problem",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX2ItSEtuMERraUFVbTh6Sms5T25TNmVHNlNGZHZUNXBKckszVF9sRWdyZlBBUUhZblp0b0VUYjgxNVVDNFh1NFpTQWZ3RzlZTkhGUHdyU3hBQmZQZ08ycDJDRzJzb1ltQTZWU0Nvb09UYjU2MVprWHFCYk50bW9rbmx5eW5WZHN6S1kyRXdhSlVTT2V4Q0Y0SzJuVlhoa3BuU3Nxci12VUtveTdUdmV4NHFnd3hTRGpzYlljM2gwVmgzbzNa?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Free Malaysia Today",
+   "region": "MY",
+   "date": "2026-11-14T02:05:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "eec1d69421",
+   "title": "Najib's 8-hour movement involved hospital visit, Friday prayers, Prison Dept says",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPellPRVVQeExkcmM3NmxNMzlqX091QXFmSjJrOFlkSEpDUlRVeU5DcjBBYkdqSlhlUGFPSHRYSFdsU0VsVGRrdXBfeWtxY3JVQkQ1M01RMS1wX0ZUaTJpUElIN1h3VVVwWC02OUhiOGt5bTg2QVd6Um9yVGRkLVM2eHpmTlhRSGo3UnZUdGFjbHA3X1hfZ2tTWHZLVGVfNjZmM2JGRGxDRm5fTzc5Y2ZqMUdoSjNldjY4c01n?oc=5",
    "summary": "",
    "image": "",
    "source": "Malaysiakini",
@@ -72,21 +89,21 @@
    "topic": "Society"
   },
   {
-   "id": "eb1d7b8ee3",
-   "title": "Flights grounded across US after air traffic communications outage",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmVuWG9uWUpiX0JJV1RpeGhnTUF0NkRGT005RlhielVLTk1NTmdlWnZiU3EyeFQyRHBaTl9QalJRZ0tLbThCUEJHdl94ZlRqVWpWdmQ5UzVyTXBBbGstbG1uTFE5eXRmMWZvNm10T2U3QXVhdTloUzBRRVJ3emNDanRWQnRuRDVBTW1ZVGQzMmxWbXBBd0tCa3hwcUhodmJZb3lHb0pNcHNvRFZIOTlrdHRfaWluOGpfc2NncndhdXg3THJ6anVRSzlERVBQOGM?oc=5",
+   "id": "2cac0b00dc",
+   "title": "When one person has diabetes, the whole family feels it",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblRGOEFmM2puUzM0eFg3UXlzR3JCd2xubWF0aUNhdzh3RU9MSFRSdzIxTGR1TVNFTTBNZ2lVLUNTRmxzWFM5Z0h4RnZIMjNGRWdfMEFXRm5NQndKNWhqWGVzTDZ3Rm9MU096cjF3bk1PS1hxMVJMelNWWHpGa1M5VXRxemNCRlRZS2o1Q0pCUTRLbUMzc2ladmc3OGNTRFU1Mk9PeWZmUG54ZGgxWkFOeXpUb2FEYWc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Star",
+   "source": "Free Malaysia Today",
    "region": "MY",
-   "date": "2026-11-13T21:33:00+00:00",
+   "date": "2026-11-13T23:00:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "Malaysia",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇲🇾"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "81d926e216",
@@ -418,6 +435,23 @@
    "topic": "Society"
   },
   {
+   "id": "01dc13b143",
+   "title": "Microsoft Outage: Outlook and Teams still down as fixes stall",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSF96MnVFTzVDUmYxMkYtdkRNWHFmdXdSS1dpSzVwcUozSHdUSC1wbmJkSmZMbF91YnlCb3pWaThRcmxodUVPakgxZVU1aTJWdXhKNENjeHVUTktxX2tDcUtNb3lDTHlpN3ctNG91ZURjWFlyNks2eFc2VjNody1zZ194S1RKdTRlWmg4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Forbes Australia",
+   "region": "MY",
+   "date": "2026-11-13T03:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Malaysia",
+    "place": "",
+    "flag": "🇲🇾"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "cb5254026c",
    "title": "Structured Exercise Prescriptions Should Replace Casual Advice for Lifelong Brain Health",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdy13VDhiN0JQdmF4Y1lBOFY1c2VELW1pTlUzelRtSzhLa2RKZnNjallUZndrVjFDd2Q1VlhpakU1YXJCclpxcmgwbnUwUDc3LUpCbE96S1QyYjRRVWpxamg5QlFvbDhQZTItaG41VExGVy1vNUViRWUwUzMwUWJEMGdDTlExMTJzMFNxd2JlMG5XVHpDWVpsOUNCQ0JBMWZUbUk3WmJGYklmZUJCT19pQ3BGVQ?oc=5",
@@ -433,23 +467,6 @@
     "flag": "🇲🇾"
    },
    "topic": "Health"
-  },
-  {
-   "id": "2e93460e80",
-   "title": "Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IRkRvWUNfaFBvNldsZG5ZX3ZjVDVOcFd1dXJWV2gwaC1yaFRaYk9UWmVSbVR0a2VNOGhjTWNvSlhSYnlBY3RDSUZPU0ZGSm9P?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Edge Malaysia",
-   "region": "MY",
-   "date": "2026-11-13T01:40:26+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Tech"
   },
   {
    "id": "32871a0fbf",
@@ -514,40 +531,6 @@
    "source": "NST Online",
    "region": "MY",
    "date": "2026-11-12T05:24:15+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Malaysia",
-    "place": "",
-    "flag": "🇲🇾"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8f2923c67f",
-   "title": "Singapore aims to ease parental consent rules for youth seeking mental health care",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSTNtUTBaSmphWWdBQmp6ejAxOUVDRVJIWXhWRmFwRU9vWDdNTmJsTkNIQnJMaVV3QTR5SDFzQXdoNnBUdi1UVnh4UzBoRnhOUkFKUzk0T0l0T01XWUxGUGJWOXIwcUtvMVR2Y29fMURKcDh4ZEZsei16REN3NEdFVEU0RUNwTWhaZWdYeTZjZldYb0FCSGdIMmxCcVZ2dGRBLXQtckZUamtpdVdOUnVnRnprTUFNb2ZzMm9HRmNBMUVReHRRWnhrN0ZuLW1iYkRJWnBHdGNpalc2Q0dBZUE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Star",
-   "region": "MY",
-   "date": "2026-11-12T05:17:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Singapore",
-    "place": "",
-    "flag": "🇸🇬"
-   },
-   "topic": "Health"
-  },
-  {
-   "id": "f31f774e6f",
-   "title": "Expert: Swift's fall shows growing need for space traffic monitoring",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTG52TDlnaThRNnRCeXhsUGJZTERPbWZ5LThQeTV1U3RSd0xvcjNYMHBXRmEyMV9oRG9pV3ZVRFdjZ0xhcDZuQW5sWUtOVXQ4N21Zb1BBSzhjZzI5blMzUnZyNUFBWVktSTNyUktUTjJZSWZzcmNuVWNVWlFJaVh5Q2N4TzlTenUzVEpYVHVyQ3N1X2d5M2RGUEhaVEVqWmRKNHdYVl8tU1pmUTd2dXpDNlRzQ19hVFdLbTBhX09vdm5PZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CGTN",
-   "region": "MY",
-   "date": "2026-11-12T03:17:19+00:00",
    "coverage": 1,
    "location": {
     "country": "Malaysia",

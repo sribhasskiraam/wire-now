@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "US",
  "name": "United States",
  "stories": [
+  {
+   "id": "0ac916c763",
+   "title": "For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFBPeER1V1U4YVFZeWFtNWlicEVwazExUVhpWmFjMEZaWVRkMkV4UFhuS05uYlBib0t4dFZnRnc2TWh4Qy00Q2ZDM183RkpqbTZHRlgtUlJ2SDFzZlNGUXJHUVdRdUZ6SUJvZlI1c3d2MFowTUI5Ul9qaDhfUWRmR0pTZE9qblJTa0pwRGY2SGZqWDNjb3NreDB2T1J1OTdwUzMyM0lWNENkU3dLTkdnT3Rwcw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Washington Post",
+   "region": "US",
+   "date": "2026-11-14T03:12:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
   {
    "id": "ff3daf1865",
    "title": "Live updates: FAA lifts nationwide ground stop that halted flights across the US",
@@ -12,40 +29,6 @@
    "source": "AP News",
    "region": "US",
    "date": "2026-11-14T02:57:45+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "d3357258af",
-   "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CNN",
-   "region": "US",
-   "date": "2026-11-14T02:41:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "402c6111a5",
-   "title": "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3A0V3dtWnNnWFB2Z0x2RVBhX2hiYmJCa01TYnc0SUZucUJFcm1mdlUtRTgyV1l3dEd3NVVvcTFfTnM0Z1dBMkFHbTMzZzBLVkg4QW1zY1FoUzNnLU1aOFNYbnlkRTlNMkxkWThTYnpROWlYMWpqVlotRjBYMGROY2VQWHBFbmdDZzFGUjhR?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "US",
-   "date": "2026-11-14T02:24:29+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -93,23 +76,6 @@
    "topic": "Society"
   },
   {
-   "id": "9501d8a285",
-   "title": "River cruise ship, tanker crash in New Orleans on Mississippi River; passengers rescued",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG9uQTRQQzVfcDVfdWFEaDBGdWxsVFg0bi1ZNTJZMUlwVUF2M2N3S2FFMzQzYXlrQVlFZmQ3NWVaM3RPVDBQY0ZiclV5TTh3UGpKdExrWWJaSE11OGRBTlY1SUl2eWxzN3NjSXljS041MVFHY2paZ3VoR3JjVjYyUHZtZzlOLWZKU19n?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "CBS News",
-   "region": "US",
-   "date": "2026-11-14T02:00:05+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "b4ad0a8208",
    "title": "After 26 years, the US has lost its measles elimination status",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSzVyZHgxOG16NGU3a2o1NUpOMVhsVnV0LXh3aWJFZ3ZQN0dwVW03aGRWMjFEYW05OHFMLXczRmlEc2MwMlRSUWJ2UENrYm81bTFqV1JPSS1uRWVURW5zc0dKYWNhWjJxTk91czNsOUFmRzZubnc?oc=5",
@@ -144,6 +110,23 @@
    "topic": "Society"
   },
   {
+   "id": "6a7a6558d7",
+   "title": "SpaceX’s Latest Starship Mission Hits Early Setback",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0h5Z2ZOZ3hGRDU2d0RaMk5ocV84cmVmTXhBOWl2dFgzVWhQN3hTNTVuNGhfcFJJbDJhZnZ3aVJFT1I1SnFSdUZGUW9tNFZrZ1ZkQlpXVXlaNDBqQUh0eWxZVU1jM3hSZ01hNEYwV1R1a3p2N2NJOThfTk9TbUNmUmFkZ2RkeTJMRVB6ZVdqeEhVQ0o1ZVozRmRHYVMydlZCWjBKVS1vTDNpZEtIWHpoVGxlUWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "WSJ",
+   "region": "US",
+   "date": "2026-11-14T01:19:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "ee99dde3f8",
    "title": "Rubio says further US military action is not needed against economically weakened Iran",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
@@ -164,14 +147,14 @@
    "topic": "Society"
   },
   {
-   "id": "f788f0f288",
-   "title": "Woman in truck that crashed into soccer field, killing 2, won’t face charges",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQalE5SUtNel9DbW84bnVvbnVfYktrNVdsWGFmWmczYjdqZlM3VHJGMlJCdTV2ZHZrMnVIOFRma01BSUVIY2pzNkJDQ2E5T3M2V05kRkFTUWF6VHZlOXZ0MkZMYndHblphN1kxWmZtcVREOURISGZBdk9PUFhWR0dpaW9jU1lvQXc3TEp3N2xSZi1iM25EQmtXSFlSVHV0OGFXam1TcENOdDZCUDlFRlRyVEpwSQ?oc=5",
+   "id": "9501d8a285",
+   "title": "River cruise ship, tanker crash in New Orleans on Mississippi River; passengers rescued",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG9uQTRQQzVfcDVfdWFEaDBGdWxsVFg0bi1ZNTJZMUlwVUF2M2N3S2FFMzQzYXlrQVlFZmQ3NWVaM3RPVDBQY0ZiclV5TTh3UGpKdExrWWJaSE11OGRBTlY1SUl2eWxzN3NjSXljS041MVFHY2paZ3VoR3JjVjYyUHZtZzlOLWZKU19n?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Washington Post",
+   "source": "CBS News",
    "region": "US",
-   "date": "2026-11-14T00:42:06+00:00",
+   "date": "2026-11-14T00:40:22+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -283,23 +266,6 @@
    "topic": "Tech"
   },
   {
-   "id": "a41f6c2f76",
-   "title": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUdwU1RuZkZPN0FwWXJYZ1FQNktMSDlCN2c5cXUxQ0pDLVJabXBzTWZUXzQ3cHE1SlBsZlBSNHVQeUVDdi1WQVowUUpoUGFYXzlrT2wwWmtFWGhXbGJsNnE1eWEwV0kyN3FIVkl0amRpeTRPeE1adjlNZWM0anYyQWVoT3NBcVg1a0JvZ1pKZ3ZVWEc5MEM2WHNCWWxHcDlLLVBFOGpBMmVSal9IRFdLb3pZbGU?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NBC News",
-   "region": "US",
-   "date": "2026-11-13T22:33:13+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e996f4d204",
    "title": "John Harbaugh: Cam Skattebo was not supposed to push on Jameis Winston sneak",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbHpiTENjNF9iQW9mdmFKd3ZrV3RZcTBPNGVyc2Z0ZEFRdGhzRHhZYi05X2lhNUVQNzQxbnN6VFJjN3d0bjlreFlQMVhHX2w5dE5WU1dhM1NkXzdMdE9DMnltMm9wREpOT0pBSWwzanRMbzhCYjN1MmcyUElLVktDVDBDeE0zUEhmRE40YXJuQjhjb2dFbDg4ZTNFMDd3QUQtUlFzcVdNWWpzY01kamxKRmFmd0xHS09NQVJsZmNxeDV6aWVBQlc3cTM4eGxncXd6QzRJ?oc=5",
@@ -308,23 +274,6 @@
    "source": "NBC Sports",
    "region": "US",
    "date": "2026-11-13T22:18:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "11c2ecbdf6",
-   "title": "Family Dollar to pay $63 million to settle allegations that it routinely overcharged customers",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjJaa1d3XzBUVGtTRHNGZlg4REFRMkxBUWhwcEhSaXVWN0dqZTNJM0ZYZDB4V1gzUTJjV0E0Qld3Y3Z0UWhPWFNncjhtZXhNb1hYRGpkTlZMZjBDWUFpdnlFUVNBVlRXcEVXSVdhb3NVSXBsX0E3VllMOHNkWXJTcVR6dUdXS3pVaXI0NkJObWF2c2s0eHYzSV80SEJsaEtRUF9kN1dGYnQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "AP News",
-   "region": "US",
-   "date": "2026-11-13T21:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -368,14 +317,14 @@
    "topic": "Sports"
   },
   {
-   "id": "6eeeecbf7e",
-   "title": "Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5R2xIMG9WWWNpT1RGc0xYdHdvZnV3RUtSbzNqZTVmMjMzeExhRE1SdUdhSF9oQ3pEM25oUml2N3NjX0VNRmF4MGxuU3UxN3JVNEt1SGF1ZjhVQVJVMEVpMU1CMDFXaUR5bjBKUGhaR3dRZTZBLTNXb2ZEc9IBgAFBVV95cUxNTDNidzNOMlhFNHdhXzFGMHNFZlBXQVU5T1V4cGNNVU83SW02b3RyeHRLZmZSV25YaHRpbmFuMlhsbmFnR01YbVg5ckpNcTQ5alNjUGV5VjloVUY0UGNJN0hLX3d5QzA1cDZ3VVlpUzduNVdXSnVHQ1pIMFFDRFhKXw?oc=5",
+   "id": "d6c77ba95e",
+   "title": "Family Dollar to pay $63 million to settle claims it overcharged customers",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnRqNkdhV3JtQ2VPS3VOSHRXWENndGY4cnlKTFFmNElReU02dkdXQmozN1BFRUxMZHAzVkVkRGJBc0ZwZTRVY1QwOGZ1T2w0RW16eXhvY09iOTNoWXJ1eXM5Zi1fbFhsc1F3R0JCSVc1RUtYaWh3Nk1XY3VTZnpVSDE1T2JWdlE?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Hill",
+   "source": "CBS News",
    "region": "US",
-   "date": "2026-11-13T20:36:00+00:00",
+   "date": "2026-11-13T20:52:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -385,14 +334,31 @@
    "topic": "Society"
   },
   {
-   "id": "a172c606cf",
-   "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHRoQnZYNFlOWHFjNVdsZWlIektzY3JHbm9fUS1YbmQ1bW9JNnRrdWpURjFwaUtuNWlKUkYybEVUVFpnaGNjZG9wNVBPQUNrN3VsQ1lsQnlSS3lIb1VSQ1QtVzRZT3RVeXQ4ZGpSa2tBZS14bEVPUEEwY3QzTjRSdHF0YnBoMUhOZFFHLVEwN0Q?oc=5",
+   "id": "0edb1c6a6d",
+   "title": "Second child dies from measles in Grant County",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGNqOHc2ODV5Rm93d3R1Y1RwUTFKckNlYkoyT0dhenloMmZ1a1dWRG5HWEhlYUZZUkNXeTM4Rm9hdzVsN0d6Y2RseGhIZWdYOHlkMjhoT21rNUl1UFhhdldOQU5pZ3c2YU5BRm9vdVVGdEZzRE5LLWhtVWZlaVBkb2J3ZExDZFlxdHRjZHpER19lemN6V1ByekZySmdKY0d4NmR4Z19qZkVVS1NxTWt3VHhYdGwxa0FuYjJ2MlpnT2JuRHJQUWQ1bw?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Verge",
+   "source": "Channel 3000",
    "region": "US",
-   "date": "2026-11-13T20:30:00+00:00",
+   "date": "2026-11-13T20:03:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2f0642442d",
+   "title": "The senators who could join Van Hollen's insurgency against Schumer",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Axios",
+   "region": "US",
+   "date": "2026-11-13T19:48:15+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -419,23 +385,6 @@
    "topic": "Tech"
   },
   {
-   "id": "882738db2c",
-   "title": "‘Dept. Q’ Crew Member Dies On Set After Season 2 Wrapped Filming In Edinburgh",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMjBscUM2WU5raGRaWEFWcDJZUXROWkFNRkpJa3QzbXB1bDBEOEtKUDl6dUY0cnFFa0FoVGhtSVdld3BXakNYaW55X04yZFdXYm5mNk5yLUkyTU1ISUZxN3F4WGRUZ3pvY3N5Sk11Y01hWEV1eDVOLVFZNlVBVTA?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Deadline",
-   "region": "US",
-   "date": "2026-11-13T19:26:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "25b507ba1e",
    "title": "NFL quarterback to search for love on ‘The Bachelor’",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFQxOG1iYkRWT0ppUUwxcjFwUHBUSFZGNUREOVZLSjBESzhTQ3M4akpLZDc3VHhDUGtVSTZ3a19ZVUI2N3loSkwzQ0VJREx5RE15Y0NXOUtwSU5La01tMmZHc2FucEpFRk9HTUNoSVdIUVdsVE9aZVoybG1GQ0pnMmo2U3JNV2tmRkl2dWRfSllUZ3FUWFNxdnFzWmIzUWVQRFlZaDVIR3lXMFQ2ajNKZkZWY9IBuAFBVV95cUxNeGdiLWpRX2xqYW10eUNLdGRGbHRJbF9uX3VFZTJvRHJmalZxZTB0SnNiejRrMGI3cTBWUUw2eFF6ME9sTG14X05JYWtERDlGMWxrdGdFTmxLS3ktWDA0WUNCSHMzLWF6cHk3cF8tSlN0dlZIYUZjalVjTng0bm9zN3dOa1Nuc2JYNjZuUFFaaFJNTFB4YlBzY0xkdDlicl9ieVY2dTkwRUYtUHlEZ25pT21tcmJpMnNR?oc=5",
@@ -444,6 +393,23 @@
    "source": "Good Morning America",
    "region": "US",
    "date": "2026-11-13T18:20:20+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "07f792aafd",
+   "title": "Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50VW1ObmxOT2R4SkpnMVhKUUdVUGNPYlRPbnJsTnhpTnYxZTl6Zm01dC0xYXNGa3J1M2xkUkdWeS04Wm5uVEdRVkYtMlRqWU5HQUo1a2RKNUxXV2RxZUpRdjh0RDQxOFdKRmR3ZEI0eEhvUzlIV1R1cFhSa28?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNN",
+   "region": "US",
+   "date": "2026-11-13T18:19:29+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -504,23 +470,6 @@
    "topic": "Society"
   },
   {
-   "id": "430b65e2f9",
-   "title": "Russell Brand Accused of Predatory Behavior by Several More Women: “I Begged Him to Stop”",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTi1hbno1UEYzNnhuUkNnV2FKd0R0WmdKUjNBY0FHaHVFLURZQXNMdDNxQUlRdUlaTVh3ZjkxVlVOeUw4MTJaSUlXazk2WkkxOFViYjdTOWFqejlZZDVYX1ZQNlc3YUZoTWwzUEE2dkUzUU01MkNIZkxwRUFwamw3M3J0LUpfcGttanNianRVcWc2UE95ZURaNVBnRGRpbmZaR05PWlR2WE9aZjlDZmJfMW1nUlNOUFdrYzB4QUdrcw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Hollywood Reporter",
-   "region": "US",
-   "date": "2026-11-13T16:31:57+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "f3592280a5",
    "title": "Limit of light: US scientists reveal why no material can ever be 100% transparent",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHJxdmJFb2hlMzJyMzE4WXQ2Qk5HSlF3aHA4Y25TT2t1WnVyaUlzY1U4T0UxcmZUMGZjQ2p5TzM4b1c2cXV0X1ZqaHpLOG1JTHNpalBlWEh1NFRzUl9qYW52a3pBYUdoV1F3b0d6Z3RoZ25GYzBzZnlERXhsdnVvWnM0NU5qaV9sRUl6MnRqUEIwbENMc3c?oc=5",
@@ -546,6 +495,40 @@
    "source": "The New York Times",
    "region": "US",
    "date": "2026-11-13T16:02:36+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "6208915951",
+   "title": "How Peter Farrelly Captured a New Side of ‘Rocky’",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45SHpSMjEwWFJjVnNEeGVjZXlXSlVFekE1WlhSYXFtcktZV29ialhDLUlDenEwR2RRTXhwdnREVmxjWlJkUzVOYkhoWHc5ZG01dlUzOTlNVldBazZsdDJEZDZUdTdIcGhuOHJXbkZVZmNzZw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New York Times",
+   "region": "US",
+   "date": "2026-11-13T16:00:44+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "706c97d6de",
+   "title": "Another Linux kernel developer steps back from some duties due to overload",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2JRZ0NvSXo4Q0thc3B2OGw2b2czNDE2b3c4eFhIeFVxc2cwdmg4SzBFbEs0WXJCcFRBNDN0MlBPTGxBQ2hxTXY1MzJqcVI4b1NSS3RTWHJGSkU0ZTRuQl95RXU2VU5PQlQ1U1RBQWtvN2xBeGdpY3Q3RmNmSE9JaU5jVG5nRmxMaUtiOXRiWldyQWFYU1ZkSjI2c2FIY0s4WTVtVU91UHdDRlB4RkxHWVBBbVp1Z1NGVnU5M1dFb0Y2SHNNQTQwS1lMbw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Register",
+   "region": "US",
+   "date": "2026-11-13T15:28:00+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -589,22 +572,19 @@
    "topic": "Tech"
   },
   {
-   "id": "3a08605650",
-   "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
+   "id": "77423a7c78",
+   "title": "Man dies after eating crude bomb disguised as traditional Indian sweet",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUVBLWlJER2ZaakRjdEc5cFhSN0NUT2NlZWJFM2pnb014aVJIRGc3alhRc2t3WU04Ul9jSXlOSTJJOHNWWm1KWEt2WjNpQWw1MFRFQmtMeG1yLURqcThhMVppQkJ6NFVxYkk3VDJJS2xjdTgzNmtOVjlhUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "CBS News",
    "region": "US",
-   "date": "2026-11-13T04:05:00+00:00",
+   "date": "2026-11-13T11:36:22+00:00",
    "coverage": 1,
    "location": {
-    "country": "China",
+    "country": "India",
     "place": "",
-    "flag": "🇨🇳 🇹🇼",
-    "also": [
-     "Taiwan"
-    ]
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
@@ -617,6 +597,23 @@
    "source": "Phys.org",
    "region": "US",
    "date": "2026-11-12T21:00:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "21a30f806c",
+   "title": "Turns Out Aspyn Ovard Is Perfect for Reality TV",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qbHVSSmItc1RmYnJKT0lMTzJRWWwtZGg3c1UwRm0wak9VS3lsVFNMRXY2b1Q4Nkx5SGJFTHpTRVhDeGRJeEJ4dUEyd01iYzAwRl96WUZKUm1WZTQ3ODFHcXZWLXRVRmhJQXc5WUVJWHBkUmhySVBKa2RoWWhiUVk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Cut",
+   "region": "US",
+   "date": "2026-11-12T17:00:42+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",

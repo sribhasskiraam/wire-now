@@ -1,14 +1,14 @@
-Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 12/80 used today
+Mode: LIVE -> @wirenow_lk | AI cards: on (OpenRouter + Gemini), 13/80 used today
 
 OK   Google Top Stories LK: 38 stories
-OK   Ada Derana: 93 stories
+OK   Ada Derana: 91 stories
 OK   Newswire: 20 stories
 OK   The Island: 10 stories
 OK   EconomyNext: 15 stories
 OK   Daily Mirror: 53 stories
 OK   Hiru News: 100 stories
-OK   Newsfirst: 13 stories
-OK   Daily News: 58 stories
+OK   Newsfirst: 12 stories
+OK   Daily News: 59 stories
 OK   Sunday Times: 2 stories
 OK   Lanka Business Online: 10 stories
 OK   Lanka Puvath: 1 stories
@@ -21,54 +21,67 @@ OK   The Guardian: 45 stories
 OK   Al Jazeera: 25 stories
 OK   CNN: 29 stories
 OK   Reuters: 100 stories
-OK   AP News: 95 stories
+OK   AP News: 94 stories
 
-Biggest stories right now: All passengers and crew on New Orleans cruise (8 outlets) | Microsoft services begin recovering after glo (8 outlets) | 23 killed, 20 injured in bus-truck collision  (5 outlets) | SEC ‘warmly welcomes’ inclusion of two of its (4 outlets) | US flights resume after FAA lifts hours-long  (4 outlets)
+Biggest stories right now: All passengers and crew on New Orleans cruise (8 outlets) | Microsoft services begin recovering after glo (8 outlets) | US flights resume after FAA lifts hours-long  (5 outlets) | 23 killed, 20 injured in bus-truck collision  (5 outlets) | Zelensky welcomes US bringing Europe into Rus (5 outlets)
 
-5 new stories to post
+7 new stories to post
 
     reddit: Reddit not reachable from here
 What people are saying: looked up 1, 0 stories with Reddit discussions
-* Ada Derana [1 outlets]: Goalkeeper involved in fatal collision gets 12-game ban
-    normal news - one-paragraph summary
+* Ada Derana [1 outlets]: Father and 9-year-old son killed in motorcycle-van collision in Chavak
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newsfirst [1 outlets]: 15% of Sri Lankan Adults Affected by Diabetes
-    normal news - one-paragraph summary
+* The New York Times [1 outlets]: Developer Avoided Stricter Oversight Before Fatal Building Collapse
+    important (serious news) - researching
     news search: 0 results, 0 about this story
     reader service failed (HTTP Error 403: Forbidden)
     article too short for cards
-* Newswire [1 outlets]: Sri Lanka moves forward with new law to prevent people from joining te
+* Ada Derana [1 outlets]: Kassapa Thero summoned to CCD to provide statement
+    normal news - one-paragraph summary
+    search failed: not well-formed (invalid token): line 1, column 41
+    reader service failed (HTTP Error 403: Forbidden)
+    article too short for cards
+* The Island [1 outlets]: Showers will occur in the Northern, North-central and Eastern province
     normal news - one-paragraph summary
     news search: 0 results, 0 about this story
+    gemini failed (AI error 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is curr)
     gemini:gemini-2.5-flash not available (AI error 404: {
   "error": {
     "code": 404,
     "message": "This model models/)
-    gemini:gemini-2.5-flash-lite not available (AI error 404: {
-  "error": {
-    "code": 404,
-    "message": "This model models/)
-    attempt 1 failed: AI did not reply with JSON: ''
-    attempt 2 failed: AI did not reply with JSON: ''
+    attempt 1 failed: AI did not reply with JSON: '{"topic": "Weather", "country": "Sri Lanka", "place": "", "what_happened": "The Department of Meteorology issued a weather forecast for 14 November 2026, warning of misty conditions in the early hours'
+    gemini failed (The read operation timed out)
+    attempt 2 rejected: the name/word 'Airlines'' is not in the article
     -> no cards; posting with the site's own summary
-* Reuters [2 outlets]: Nvidia's Huang turns to Paul Weiss, law firm that inked deal with Trum
+* Hiru News [1 outlets]: Eurovision is finally coming to Asia - meet the stars gearing up to ta
     no AI summary: saving the rest of today for important news
-* BBC World [2 outlets]: Watch: Cruise ship seen sinking after collision with cargo ship in New
+* Reuters [2 outlets]: US urges owners of 720,000 BMW vehicles to park outside over fire risk
+    no AI summary: saving the rest of today for important news
+* AP News [2 outlets]: Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dha
     no AI summary: saving the rest of today for important news
 
 Top 10: 0 fully explained
   reader summaries from the website: 0
-  photos: looked up 24, found 1
-  photos: 12 too small to look sharp, using the clean cover
-numbers: weather unavailable (<urlopen error _ssl.c:994: The handshake operation timed out)
+  photos: looked up 24, found 0
+  photos: 13 too small to look sharp, using the clean cover
 What people are saying: looked up 0, 0 stories with Reddit discussions
-  radio script failed (no AI available for writers)
-  translated 30 headlines (openrouter:openrouter/free)
-  meaning check: 15 stories judged by openrouter:openrouter/free
-  meaning check: 15 stories judged by openrouter:openrouter/free
+    gemini failed (AI error 400: {
+  "error": {
+    "code": 400,
+    "message": "Request contains a)
+    gemini:gemini-2.5-flash-lite not available (AI error 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/)
+    openrouter unavailable this run (AI error 429: {"error":{"message":"Rate limit exceeded: free-models-per-day. Add)
+  meaning check failed (no AI available for checkers (last error: AI error 429: {"error":{"message":"Rat)
 
 Website updated: 150 Sri Lanka + 75 world stories (1 with cards, 10 story pages for Google)
 
-Countries: IN 37, PK 36, BD 36, US 36, GB 37, IE 35, CA 37, AU 38, NZ 30, SG 31, MY 32, PH 37, AE 36, IL 35, NG 34, KE 35, ZA 37, GH 25, FR 33, DE 33, JP 11, IT 32, ES 34, BR 34
+Countries: IN 37, PK 37, BD 36, US 36, GB 37, IE 35, CA 37, AU 38, NZ 32, SG 31, MY 31, PH 37, AE 36, IL 37, NG 35, KE 34, ZA 36, GH 24, FR 33, DE 33, JP 12, IT 32, ES 34, BR 34

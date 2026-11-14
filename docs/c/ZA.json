@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "ZA",
  "name": "South Africa",
  "stories": [
@@ -88,40 +88,6 @@
     "country": "Kenya",
     "place": "",
     "flag": "🇰🇪"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "c510ab4ea1",
-   "title": "South African billionaire Johann Rupert’s Cartier empire delivers $2.8 billion profit and builds an $8.6 billion cash pile—but shares fall 9% over jewellery slowdown fears",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmxuNWxnWDBkb0hOX3EyY3FoQU44bjFYVTlFYWdPUklSTVR2aFhXUG5LUUNIVUQzVjNLZHEtaV9sR2dkSktZdllZa3JZUm44X3Q3MUVoR3Y5ZlI1Q1E0dVNzYTNPcU1UUV92clR1ZndfX2xDWmh0TlFNbjVYaDhUN1NnclRQSF81eldobFl1Ujl4QlFXTTRYU09wdlRjaUcxNVQ0M2JHTklkd19xajZFWE5LZmZYdUJ5U29lZXlqZ0ZEanUzbjVEdV9nSEs2WmRVVFdWZg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Business Insider Africa",
-   "region": "ZA",
-   "date": "2026-11-13T18:29:20+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Business"
-  },
-  {
-   "id": "3c958c6054",
-   "title": "Chris Pappas sworn in for second term as uMngeni mayor after DA surges to 60%",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanpKN25Gdkx6NVNmX0NzeXpBVExCSFVlVFk5YlQ3bTRzU01Fa3NIcWRObndfbFNYZ0dmSHNUdks3SHQ2cU10TmtFYTNGekVRRk90RWVGRkFKSlZsenhFbHpJUUw0R21iRFZjYXZNQ1lqZXkzNFlQOW1oU1ZQRzhCWW9UaUhMMUhSVnJxejdYUnU4MTZ5dU5vYnppVkR2V0JoOVZ0aG5BVG4xSXNpcUpfaVFGaHJrTDE5MEJRU2Jrdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-13T18:27:23+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
    },
    "topic": "Society"
   },
@@ -265,6 +231,26 @@
    "topic": "Tech"
   },
   {
+   "id": "7d3d6db6d9",
+   "title": "German auto giant starts production of Africa-focused SUV in South Africa after $241 million investment, even as it plans 50,000 global job cuts in biggest-ever overhaul",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVV3QmYxNVgybmVOdG9ReUJpaVB0UmxhU3NiQlhFQjlaRGdZcDZ6dEt4UG5vcjRDMWdlaHU1dFZlUFZfNGY4cDV1N293aW9UVk5vNVRKSC1OODhWQ2hCc3o0dUx4VHdvMExZWFBMaHFpOWZ4bzk1U3dBR1VubllLZXdMaW95VDVxYnUtbm1XRlZoZnVhRU5OZ3YtNVZab0FRS1BHZE5RX290a0RJQkh4d0s2cW1xMkhuUUZrd1JPSHY2SWt0ckM4bzdWZ0VkRWJFQ3c?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Business Insider Africa",
+   "region": "ZA",
+   "date": "2026-11-13T08:47:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Germany",
+    "place": "",
+    "flag": "🇩🇪 🇿🇦",
+    "also": [
+     "South Africa"
+    ]
+   },
+   "topic": "Business"
+  },
+  {
    "id": "d571b3cd9b",
    "title": "More Level 2 water restrictions announced for South Africa as severe weather hits",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmJGXzNyT010Q2U3aEtBbU1TZzJobjgyT2Z6d25yRUFQUU5uUU80dkU3UU1ub1VwTWhPTFZ4TndfZUpxdHJzaWVadTQ0S0dLVllCcHhUdFpIUFJFN09heDR5LXVweUNSWF9ZaU8zQmdnVXlhTHJvczBFYU0xaWNndEZ5THdZdWdVNUI0Zy1NMkhic2lXNVhHZG9UbXg4eW11dHFYV2RSOFdRWmRrTVJYTnQwcFZqN2xmVE40UlAtVjhYOWdr?oc=5",
@@ -401,23 +387,6 @@
    "topic": "Society"
   },
   {
-   "id": "b86b8e0b39",
-   "title": "‘National security’ drove spies to protect cops investigating Big 5 – Sifolo",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTlIbnFrZ0s5MHFvMWJhelZFV0N3QTdORzVuUWxORC13d3FEVEZRdmpIUmRnb21KWlZPcDNubHhzZi1qX3RPeVFzV1JLR1hnMHV6RmsxTDZFWHZocmlvVUhxWWJqVWJuM01keXYtd2VWYU9IMlYxcXd0akphb3NYOW50M0V0enpYenlhcjhUazltMEpuamhROGxEVWlSYUtNZzRKR3AtemFfNFlnSlhSYnpMR3FaZ2lyaGFDU29oQTNaRmZq?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "News24",
-   "region": "ZA",
-   "date": "2026-11-13T02:04:36+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "South Africa",
-    "place": "",
-    "flag": "🇿🇦"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "37168433de",
    "title": "[HIV Glasgow 2026] Life4me+ | How Switzerland prevented hundreds of HIV diagnoses with PrEP — and who is still being left behind",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTW1BYkRqYzJ3MWV0SjBFWHljUXVDLVFZUU5JakhVVUdEWW1xV3Vfem5vY083MDB2bnhMVkFUSC1nV01QX0s5a01fdnJNNmpuMW5nbURlbVZXU3lfbS1LSFdxQzhIRElIY0lOdE42bHBIRGVNX3FEZ0trcEpCUFJNOUZzbXlWNW1XcDVBZFpDT3NqUkFBYXRrSjJSbTRYZGxYUXlVdENtN1YtZlJvcy03YW1ManJQdmNMZjJ3WkFodVh0Q28zUEczSU8zcmpJdC14NURvdldIU2NqZkhXYTN4cUFuMFlfWEk?oc=5",
@@ -433,6 +402,23 @@
     "flag": "🇨🇭"
    },
    "topic": "Society"
+  },
+  {
+   "id": "5e9453a815",
+   "title": "Intelligence testimony reveals mafia-like networks, corruption and political interference inside government",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3lTSkNOcGQzUGxPR0dtMl84czhhZ1FQVUk5bHlTeHR2eWo2ZVg2cFVUdV9MY1doOE5GNTBEYnRnOG5jOHpjSnJ6NW9MeTRDbVBkRVp3YWxtZ2M4NmJjc2ZFVFZLaTQ2aU1Rd2N5WWp3NEhpQUUxd2FnU0todkwzZ1J6R2V5eTZrdWZyR3RCaDN4Z0FWMWFZOWpzbWpZemkyeWJJOFdmVjJvY1AxeUNBMXZKekRjSWM0eU9tR3BtU0FHWXk2VWtVWQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Daily Maverick",
+   "region": "ZA",
+   "date": "2026-11-12T20:32:08+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "South Africa",
+    "place": "",
+    "flag": "🇿🇦"
+   },
+   "topic": "Politics"
   },
   {
    "id": "27286ac775",
@@ -544,7 +530,7 @@
    "image": "",
    "source": "The Citizen",
    "region": "ZA",
-   "date": "2026-11-12T11:43:26+00:00",
+   "date": "2026-11-12T11:43:28+00:00",
    "coverage": 1,
    "location": {
     "country": "South Africa",

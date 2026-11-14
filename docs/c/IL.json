@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "IL",
  "name": "Israel",
  "stories": [
@@ -41,6 +41,23 @@
    "topic": "Society"
   },
   {
+   "id": "2c88e0dfaa",
+   "title": "Old air traffic control equipment regularly disrupts US flights",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjFpV2FkazZob0lCemtEVGdCdERFV3FFOWtsT3RaWEdLWkMwWWJpYkRRdlU1cy1LYXFKVTh6al9rQmF4bVh5YUtKaGpmbFU4Qjc4QS1JRVBqOGU2Yl9WNkY1N2tOclRldXl0aHgtc2FvaHdrbklsZ1pMaDktLXFjbXZEM085dXBtNDRnMjBnOGYyQ1JDaEdoM3k5RW9nYTZxb3AzSk02bGgtOFE2SVNUWWxZbTBvc1RlYW8wTFdPY0ZBRF9h?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Reuters",
+   "region": "IL",
+   "date": "2026-11-14T02:45:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b08aa074d6",
    "title": "Evolutionary DNA changes may explain differences in primate brain development",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEVkUVJvOXcyTGtwMFhtVWZuQlNpclRoMGpxNnFubGdzMlV3S1FwRHpKSXYyMGgzaUtEYUpVRmxtdks2OFNBUWNvcFFWMFpOU3NMOXhnTG84VlpHSy1zdkJJT1hoeEM2VDZYcW8xZHc2NXdZelJwREItTWU4SUlKcUZia2lPU1NDSGNWRzFuYXU3UnJQOTdsR2R3bWs1SGU0bGNESC10ZjQwZlZ1Q0RCUUVfcDQ5Q1EySVdsMF81c01LWWM?oc=5",
@@ -49,23 +66,6 @@
    "source": "News-Medical",
    "region": "IL",
    "date": "2026-11-14T02:41:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "aca37c0da7",
-   "title": "Niels Bohr, Nazis, and 'Jewish physics' in new book 'The man who broke reality'",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qdGEtT3JPQVVvNnVUaUFRakU2QWdQQjE4eE9vMEp3Nk9xNlRuV2FTQVlOQmEtaWUwNUtxVlNVRFRJamVINXY0cl9CUE1QeXBva2RseFQ3aw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Jerusalem Post",
-   "region": "IL",
-   "date": "2026-11-14T02:14:11+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -92,6 +92,40 @@
    "topic": "Society"
   },
   {
+   "id": "7e541f0e94",
+   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Z3cxc3ZwT0p4VE9jQk9CR1B4MDdmd3Zta1ludHh1SjAtM2ppWmN0LTEwV0hkSDM4bUdRZm9HcXFXMDhYX1NsYXc0ekdzckktaXdiSWF0TGhJZWlCVjhhM1FxRFNMWXFMN1lobjhn?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Science Daily",
+   "region": "IL",
+   "date": "2026-11-14T01:14:51+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a8e481e3b2",
+   "title": "AQST-109 Sublingual Epinephrine Holds Up at Low Systemic Exposure",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeXdXd0JWNnVtc3B0YVNoNm5wc0diWVFmUjN4TnlQUnZtNjJTNF9lR1BrVVJyQ3pNYVBsdG5xT1VTUnV6Yi1qQ1UyVXU1U084empQSEpsOG4yelpHUW8wQmZ5ZHEwdF8tV1k0MG1sQjdMcEh0RWhxWFlmSlZ0S3YtdEpJWDBHYzlKbmFqRFVoLVpydw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "HCPLive",
+   "region": "IL",
+   "date": "2026-11-14T00:54:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "550ff35c1c",
    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xa25uZ25Ya2hyRWFTd0dZRHItbGJmTjdKSld5VDNmQnRhd0Y2ZWNTYUN3bVZOZmxCSFpIX2loa25yRWxrTEVybnh1ZGVDbklmdVVBSy1CZzRJUk0?oc=5",
@@ -109,31 +143,14 @@
    "topic": "Society"
   },
   {
-   "id": "4458b06d0c",
-   "title": "‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1U0RkFDbFh2b3BpclRWQXg5Mk5CZ181Mklja2ZwQ3cxOGFwSU54bHlqa2xEVkRTbVpTbkNzS0JNLUpVcXZxSTBsNlhYNXotOXB1QlZVb0U2amxJRHMwa01tUVB3dmp5MXRwdXFFZWI2aTE1TkxYcFI1UTZESnk4ZDkwRGllUjZIZDk0N05B?oc=5",
+   "id": "faf76491c4",
+   "title": "New schizophrenia drug offers hope, but $2,500 price puts it out of reach",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DYk5xc2ZtNjk3YzFObzZOMG5jaTJIUWpfRlNmU24wbTJlbVRINTE3X2xpVy1Kb0xaZlVZSDkyYXFQanNUVlRnV2tvR2l3cllsVTJTNnAyUXRpVk9qeDkxMFVLYW9ia1NzWEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "Politico",
+   "source": "Ynetnews",
    "region": "IL",
-   "date": "2026-11-14T00:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "f16dd6f33b",
-   "title": "WTA Finals 2026: Singles semifinals set after Elina Svitolina shocks Aryna Sabalenka - The Athletic",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDFyU0NJNGljbEtfWlJNLWRWZXRhSWF1dFdSaUlneWs4eGYwdUg2MWNEU3lrWThFdnRRNWZ4RHBrbHFhWFhkXzdZYmROTHpIejFGR016azY2QXJCS3FzUWpHdWsxSHNUVmlQY1BadHlwaTdWTWQ2MEZFU2lJcTEtQ0d5R1pZZ2ZueElwR3lNc01tZWlNZUdKQVdENjlJT2Y0RDZz?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The New York Times",
-   "region": "IL",
-   "date": "2026-11-14T00:16:50+00:00",
+   "date": "2026-11-14T00:15:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -156,23 +173,6 @@
     "country": "Israel",
     "place": "",
     "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "3675be9cc9",
-   "title": "US to resume flights after air traffic communications failure sparks chaos",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "IL",
-   "date": "2026-11-13T23:36:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "United States",
-    "place": "",
-    "flag": "🇺🇸"
    },
    "topic": "Society"
   },
@@ -215,31 +215,14 @@
    "topic": "Society"
   },
   {
-   "id": "c9a715a8d0",
-   "title": "Physicists Find a Mathematical Limit to Making Time Run Backward",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUluT3hRcDViam5qSzVrWmpCZGdxOGR1c2lkSU9qV2RENkZkV09ZYzVGUmg1WkxsWDg2MkwxNGVHZWpUZUprREc1ZldMVmhfa2RaWldicE9xS3MyYUczWFpneHRWTzNWOEc0dUN5VHJuMUxjVGQyWjFNbm9vaDBhb1NGcmlrOU1ZTlNxWlkxbUNBZmFhOFZqMg?oc=5",
+   "id": "e76af93292",
+   "title": "Nvidia’s Retail Investors Say They’re Not Rattled by Jensen Huang Scandal",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3hRYVl2ZlBudTlwWk42bDZoWnI0bjJxWVJDVFJ6VU93M0tPSV9mNWE2RTNtTjQ3WW1Ja1RzX0VzX0pzNGJUb2VMX3F5YUppLU1NSVFlZDNQRjhzRG5obU9kTUxGN1RjNEJ3NGhSNU5hNGVXaUhxR0I4S3RudThXVmUyVkw4WVktWU1ldWhWRUFWWXZlUkMtWlQyRUVhRU9RbExQMWlNZU0ydk9JbURabXFzaktLU0dNNEE?oc=5",
    "summary": "",
    "image": "",
-   "source": "ScienceAlert",
+   "source": "Bloomberg.com",
    "region": "IL",
-   "date": "2026-11-13T23:03:33+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "32c8b3c352",
-   "title": "AI Stocks Close Lower Friday As Markets Absorb Jensen Huang’s Exit From Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODBOSU5fTm9LbHJwSGxFSkZoUHRlX0VGT2JHa1FyNnNoek5zOFJqTS1QZUJkNy1FWXd5NEtsLVBPT1JoZnJJbndwdVlXOWdOWHQ2eEtGRFZ6T0Zvc3BCbWJzdDI2a1BOLVF5M19xcWRZSnFybjJwREZTNi0xUU91WV8xMFdjT1RmYjJ0aWE2aGNSS1Z4SjRsNEJGbkY0Wlh0UmRRVV9fdHBoMGN2NkVLYkZPZ0xzR1p2VFBSRGtjcUI3UDg?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Forbes",
-   "region": "IL",
-   "date": "2026-11-13T21:36:20+00:00",
+   "date": "2026-11-13T21:52:46+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -247,23 +230,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Tech"
-  },
-  {
-   "id": "8a5a227468",
-   "title": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHh5SEF6X2tQTUhkaEpDZk9SWTB2Wk9BTEQxVzRsQTRtOTl3YUswQ2VVaGc2TmQtT2cwRE55SmM2S1BtTFlNMlRmLWNrdklpekpnQV83SVdGOG5PQnRMdEF6NG4zUVZ4NDFNd0xWUU0xNDlwTEdCWWoydmg5aFdZNC1zVU5GOEdlMzFZRlVGckI2OFRJRTdhU3hjNG9TQ0NDWFN6MEFDQW1iOVF3cWJSQQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Bloomberg.com",
-   "region": "IL",
-   "date": "2026-11-13T21:32:24+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Society"
   },
   {
    "id": "547c9414c6",
@@ -274,6 +240,23 @@
    "source": "MeriTalk",
    "region": "IL",
    "date": "2026-11-13T21:28:48+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "33a02f5965",
+   "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12TlM5andXTTlTZ2JlWWI3d2MteWkyTV80ODY2eEp4NDZob0ItWGhHNjBxRC1ya1czRFpqT0g1WGlseDk2Z3ByMW1MMUFfSzJaVVc3eUpQdUZzaVlsTkJhbWxMUGIwd3FjN3VPRmVYX3VSZ0RsWm5R?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "NPR",
+   "region": "IL",
+   "date": "2026-11-13T21:06:09+00:00",
    "coverage": 1,
    "location": {
     "country": "Israel",
@@ -372,6 +355,26 @@
    "topic": "Society"
   },
   {
+   "id": "7ec29f3aec",
+   "title": "Ireland v Austria: Heimir Hallgrímsson on how side is preparing for Nations League clash",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbVNpdHZqVVZFdEdMUFlHZ1ExU28xVVN4TThlTGZCNlNBeXd6eE9ESWhQY3ZmdEttRGZFNFJqS050ZVFyalpOdmxRMzlhY2RMOWQzRnBqYTA1azRDY0FKSmYzVHBVckl3d25SZHF1RjhVV0lBUVhOWEtHc3ZXSzc0cVRZdDJGX0RwZlA3QkxwOTRJNFpSa2hteUw3MUQ3aEpfZzVldDExaEJqRWY3Tmtub0t6MU5JODd6NkNPLXNGaEpHSHFTeVdmZmVMYmUtVkU2VFdjRTNtVQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Irish Times",
+   "region": "IL",
+   "date": "2026-11-13T16:23:06+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Ireland",
+    "place": "",
+    "flag": "🇮🇪 🇦🇹",
+    "also": [
+     "Austria"
+    ]
+   },
+   "topic": "Society"
+  },
+  {
    "id": "1d86d54956",
    "title": "The beginning of the end: Israel at the heart of America’s political civil war",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUFFMmZVNndrLTEydXFzTEc2RnlTc0hLdGYtalhtcjhxQ2ZwWEFQWUdLOFhybmlNb2Y4MTZISjEyZW1mdlg2RV9FN1pJanZzNVRDQ2pTcW9zVWw1amRlV0JNek9sNnNnY1F6Z1FfczRfamlLVjgxR1poeENGYWVhQ1RTU2E3OXBiY24tckNvTjFWejVGLTZoQlZnMHBidXc?oc=5",
@@ -423,6 +426,40 @@
    "topic": "Society"
   },
   {
+   "id": "e21933604d",
+   "title": "The US Dollar Firmed Ahead Of Data And Fed Speakers",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWE4Mk13Q1RHYzFnLWtmVnQtSzVRTldBbDV2NXNBZWxRQnpQQTQ3TGVVdDItVGtpYzNSVzFzdGpmRkE0d1ViZHhJeGNLX3lvZjBOVDdhYzVOTmNwUW81Mmo0RGRhMnpCdzFaTzRpZl95OFVlNUJTUlB6bHE0WFZmQVduX1psems?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Finimize",
+   "region": "IL",
+   "date": "2026-11-13T13:48:22+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "af1ea35cc3",
+   "title": "Would Pep Guardiola coach USMNT? What legend said about 'fascinating' job",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3NVUGV5X3JTa05yaE5YUGd4M2piNHV1T3pkWWRDWVV2UC1nbVB0SERrcThtLTBscThFeTBVMF8zYTdrb3B4Y2VkTW9SUTdyZm9yWnFLTG5PR2J5Qy0zRU42M1ZDQlNMRkxGVUdsQ2VqRFVwS2UxMUtkcFQ4WUFkTzJYYUNpdGFfM2lyaGtXS3dvb3EwVEswUHV4ZDZidE84dmNRdGtmMjNEQU5CN0hoTjNEeTFGVkE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "USA Today",
+   "region": "IL",
+   "date": "2026-11-13T12:46:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "4afc5d2174",
    "title": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUQ4VUJVcUlWTXZmUG9DbVh4R2h2UEJ1NS1mcW9vM1QydmdQWmVYc1ZpWFNEdEc0a0NDQ1pIM3pTNk94dXZrWHlNMGpISDJJaUh4aVF4ZUlXSkdFLXUyamZTU3JWREFpSEU4b08yQXpTbGVnN3pZaTJBa3pPUXlCczhfOVF1YjRFZlI2ZlEwcFlMVHdCYmQ1V253UUZ2ck5HcHJnaWJqakl2T1V5YXpHM25lU3VHcFpkWm9kZVVYR1BUV0EyeG44bFp4a3M5TUI4eXRqWmVyT0s2alBWOUlrZEV4OA?oc=5",
@@ -455,23 +492,6 @@
     "flag": "🇮🇱"
    },
    "topic": "Society"
-  },
-  {
-   "id": "fa9d24b64b",
-   "title": "\"It's a wild situation\" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVEgwelRwck9sZ3l4QkhlQXNJZzNvM2hiVlZmNFNsaUxhLVhIOXhaaUtNWjRZSmxiRUJYdHBuUE5sY1F4ZGpGaGlONmJCbnh2UkNOSE5FbFBtRUNLcUFoZUlEMUVjZTc3clpiRU9vcnVLcHBRajBoNHlCN0x5ZGJyODRMQ3RJSzhNU0p5aE9UeS1SZmJ3eDh3QlppbVpRQ1FBdWMxd0N3OUdLOVJNaXBrcV8tSVg1SmpydWs2Q1VNT25lWG9zYVJJa3pybHp6MXVFQ2J2Z1BvTkQwemNlTFlUMG1aUko0UQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "GamesIndustry.biz",
-   "region": "IL",
-   "date": "2026-11-13T12:04:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Israel",
-    "place": "",
-    "flag": "🇮🇱"
-   },
-   "topic": "Tech"
   },
   {
    "id": "e302ae148b",
@@ -560,6 +580,23 @@
     "flag": "🇮🇱"
    },
    "topic": "Society"
+  },
+  {
+   "id": "39ef8bcf44",
+   "title": "a16z's Jonathan Lai says AI game tools will cut 13-year dev cycles to 2 and mint new billion-dollar franchises from mods",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2WDhkSzZzZkJ5NUVPblN3anJEWGZKRmdhM0ZsdDJxVlFRSFBIS3VXWHlsN04teV9vT3I2ZFRvQjlwU3p4R1Q1TkdKY1FLbzZQQzFYRE5WWFNqOGM?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "BigGo Finance",
+   "region": "IL",
+   "date": "2026-11-12T16:08:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Israel",
+    "place": "",
+    "flag": "🇮🇱"
+   },
+   "topic": "Tech"
   },
   {
    "id": "23e5244f98",

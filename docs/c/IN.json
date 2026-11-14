@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "IN",
  "name": "India",
  "stories": [
   {
    "id": "c1ae44fc85",
-   "title": "U.S. FAA ground stop LIVE updates: Nationwide ​halt ⁠to ‌flight ‌take-offs lifted, FAA says",
+   "title": "U.S. FAA ground stop LIVE updates: Flights resume as FAA lifts nationwide halt to take-offs",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnN1WVpEek93bmZvMllzOGZrWGQxUVlIX2lxaHNqY0g1c0lHOTFDc1pwMUV1d0J2X2RuWFZjOWlxSnZ1R3ZGZDdZeGJSSWtDTHo2dm1VWVdTZXB3TzVzMy1TUUVnTW9UTG10NldQUlBHcTQ3VWRRSGFFOGxQVVZEaTFxM0dNcGVzRUp4b0hUZ28xdkRFVjd0dDlod1hLa3AyTG9kMWkzZHktZENQRkxFUFB2M0g0M1RxSU1tNzh1SGJ4X0tFQVV5eWUtUURzTXl1Tkl0RjdVZEZOVk1pTmfSAeQBQVVfeXFMTXRNQk5weURjMHQxNTBtYllXUlRueDlSMnY2elloZnE0VUU5a1ZYMWhMalFLT2FqV0tQX2huUVdPSXRrNkhqSVdoTmV0RFFOaktLamI1NHBOQUptcVE2NUVsdTkzYVhRRWk0YTJLMG9tWFUxaGpkLWUwWnR3Zk15YkhITUR1TFVXRUY1dVFNajdHeGVwTV9vQWJiX1dHTGd2YS1kMno2eVY5TGVfd2JNdFJCeXdZTmFnaktROTNnV3RwSTVVNGNTS25WYW9mOWMxWTVHV1VKcmNZWVh6M0l3X05HeG81?oc=5",
    "summary": "",
    "image": "",
    "source": "The Hindu",
    "region": "IN",
-   "date": "2026-11-14T03:08:44+00:00",
+   "date": "2026-11-14T03:40:09+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -21,29 +21,25 @@
    "topic": "Society"
   },
   {
-   "id": "bdb606dcc6",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+   "id": "15e777a529",
+   "title": "All passengers, crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTdFano3SW9GYUFlNmpkWnp2LVo2YkhiQUlLNVExbzlyU2VGVUtnR25MQ0Jqbi11R2VjOTM4V0lwLVZyOVZaeHhYMkFDRmJJb0xjM0Z3SUVmbkRRODFqSzI1NGRUblM4WlgwUDVycVB3UHJsOVFUdGszTC1lLThrMkhvcGxjYkJBbVFiWllKSFFEWGdPa25RMGtPbEQ4SmRvUmR3QTI4TnY5YW01a3Zld2xpQ2hWX1ZuUnfSAcABQVVfeXFMTnpUZ0l4NXkyU2JvTFdoUHJqSnhZNHlrWmJPTzhqV2c4Z2x4TXB6TnZUV3RGZEdXLS1zXzBSU1FzSXZ1R2dzQWJxVFI1bDlOQ1BENHFPSEJMUlJva2RPVHZab1JKbkVYeFpKcENJdTN1VlBRREpOZmxtcXpZbjcxamxzQU5hV1ZRS18yLU5oRUp4THZzQXNvS2hZa1I2ODZSdVZKTjNkY3hfS3hGa0pnTWRITUtOcUNvTDhmQzNIU0Zx?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Hindu",
    "region": "IN",
-   "date": "2026-11-14T02:05:55+00:00",
+   "date": "2026-11-14T02:12:12+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "India",
     "place": "",
-    "flag": "🇺🇸 🇷🇺 🇨🇳",
-    "also": [
-     "Russia",
-     "China"
-    ]
+    "flag": "🇮🇳"
    },
    "topic": "Society"
   },
   {
    "id": "d3bb98312a",
-   "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+   "title": "Microsoft Outage updates: No ETA yet on full recovery, company says",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUtOZk5RTEpoOS1xNnZleDdiMWEzeTdSZEVGNEUxZkRkWW5HMHRCakUtRmxQd0Jxa01FZHBIX05jUm9uZWZKQm9tbFMzbXJJeWFXRzFkUzdTSHU2NlpvQTJNSHNjS1MyaFJqTnRBX05PaXpJY1dYOEVSdS1JakstdkMtejdQaXhYWjRPWjlyd0JVeVRJZE9rbTRheGN1dFlORDNFdHN5WUdlaGJSM2VRUVo0QkZQOG5HSFZrZUNJNWVtWEdSellWQWNueU90UmxEQWhxRzNRTk5RVDU5U3dGNG1GVE9MOEI3WmxR?oc=5",
    "summary": "",
    "image": "",
@@ -59,14 +55,31 @@
    "topic": "Tech"
   },
   {
-   "id": "8da153b621",
-   "title": "Adani slashes Maharashtra power project cost by 99%, its forest dues plummet; Centre orders probe",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3k5SXVSejRIcHE5QU9LbThiTXI2elVPeTdnVHZSZ1lYTXQwcW01ejhNbmt1NDk0SzhjRGZ2U1hTVzVOeW1jNWk5MDkzaXYyc25TaFpEX2Z0OWVka01rVm45b0xVRzJSeThoamJ3ejlUbXlMX0tqclRCSXVVVXlYQ0podXZOMHRGN0Jwd1RCZm9yYmdrV0pzcGljNTluc19tWHpHRkZxd3kyVWZJNDdxa0l6MERuTGNpbHBiblc3bw?oc=5",
+   "id": "5147ab8afc",
+   "title": "'Mysterious Foreign National': Himachal Police Book BJP MP Kangana Ranaut Over X Post Against Sonia Gandhi",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2I2Y2RwZ085eDFnQkw4YXZkdXBVYkx0TE5vWTBlNGhncHo4dGdpVzRWZWoxeUNkQzRPdWFkRWp3VzVQaEJ3Y000RWhzZ0pFNzlmcFpHN2lrMm54VmgwZFpIY1dYbE1qbDgzZnpYRGI0RE5JUnJNUzdlVjYwZ3ZjVHgwWXE2OHpCMHlJaVRJdEdmQ0tLd3ZLc084MTlzSXdPc1h0OER4QVo5T0o3Y2hEb2loZTVGRnFTWXFLdWlEYWxxUW40RmZGdmxld1pObWhTUWllckgxTWEteFBPZmdVV2YyS3RYdkJ6emlmN9IB8gFBVV95cUxQS0RQWDlCTDg5QWRfSkJ0eGVwX2Rmek5fNEtUemtqODBaclZaRkZIMmRMQjJUVXlBSTFQSGgyN3k2LVBTLUlpR3RGeWZuQTJHdldmeXdCcWNESGxwb1VQYWtxNUJ3ZE1hWEoxbnNkZE9DM1VpRGswUTR0MlF5UTFQRGNGampYVW9sY09KVi12TV9RREdjUUVSMVROaWNLQ0xyT2hoRFBVak44czNBSmNVWmJGdXFLdEVjbWJmaF9OWkxZblZ5dVRnMUFPMWZ0SkJnYnNkYnA0MGxReHFvelY4WG93UUhoYXVLRHJETV85MTdnQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Indian Express",
+   "source": "News18",
    "region": "IN",
-   "date": "2026-11-14T00:51:38+00:00",
+   "date": "2026-11-14T00:38:30+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "281238e095",
+   "title": "Fear of diagnosis keeping people away from diabetes screening, finds IDF study",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMm9mM0RLenJEX3lNaG0tY19rVG9Zb1V0dUR1Wk1UbEdvYjVMaDVqMlhqeFNSVGx3ZGJfbElrLU9mUHZuMzNEZ2wtSTNjblRlZDcwSWNjVW5VMWdWR1VYOG51Qi1RZTJXUlgyVm5FRG9ReXpYQWFId2RpcHp3SDFmTGpfWEhiR2ppRFFrMW52TEN2MWFKdkRBVUUwcW9sYXcwVXpVX09VVG5iUVBoQWFzQjRjMnNSZnFQTXpIdGw0TzFwUzVzTHNDR0c0eWJkcURicEFqVEhZNEQxVHZrOXZv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hindu",
+   "region": "IN",
+   "date": "2026-11-14T00:31:00+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -76,38 +89,59 @@
    "topic": "Society"
   },
   {
-   "id": "2e10dff297",
-   "title": "Quordle hints and answers for Saturday, November 14 (game #1755)",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZlkxaVFxdHhhakYweUE4SGlhTzhkUTRtdnBNR3BtRnZVMFFYWkpncThyYURrd1dybzczYUV1TzhhZktCZFpqNWxhSmVGNG5xcEc1dmdEUmdCWGs5OWw4U1VjeXVDNmVRTk9mNV92U3NFdUFWMmNpdjRoSm1HRmhwTFI0ajZDQnFLYUpNNGJuMERWMWpHVkZaVkFn?oc=5",
+   "id": "330d32d835",
+   "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0trbmtZaHhlcEx3LUlRSjFkeXJETGp2VUYtZnZtdC02TDdoZFA2NjFLdFF6NTBmTmcxU1k2M0F0WEZYZ0pLVGR0dms2aTgtY2RTZERXdV8yb1BQSFV4ZW5YTlFOWWZiWjVwRW5MazlVeW56aTY1LWFvay1XU2xKTzBrWFBPeUpLRlRORDRESzR4b3ZxcTJZd2FFVnV6RGI4ZkEzckk3dkI2MnVpZDI3ekZkWkpfTVczOUd5N0I5Z2tXOGFrQXlPY1MzcGtUbENXR21maldB0gHbAUFVX3lxTE12TG1DYk5SdUFWa3JESU9RaS00YmNtSUtIU2tOVTdJcEUwVmczVnRXSTBsZHpIYUc3NDZlcUcxZDlVQU5lOWxoOU84UUw2Zm01bzVUbXRKdklpbDc4OGI0OVdibVk1UWgtWGM1cHNJaW15dVNpbXZCV3JPRTZMRjh4cDlkYUozWENPc0w3WUs0RENkMUFLU3VMMnNTYlBXMjJSMXFndXFmWTVYZUsxZUsxS2N5Yk5ta3A3bm1rUENmekJTZnROREp1Nkx1dzZvNWVQdmJnUWVra0oxVQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "TechRadar",
+   "source": "The Times of India",
    "region": "IN",
-   "date": "2026-11-14T00:00:00+00:00",
+   "date": "2026-11-14T00:26:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "India",
+    "country": "United States",
     "place": "",
-    "flag": "🇮🇳"
+    "flag": "🇺🇸 🇷🇺 🇨🇳",
+    "also": [
+     "Russia",
+     "China"
+    ]
    },
    "topic": "Society"
   },
   {
-   "id": "125237f113",
-   "title": "‘My phone tapped by PM Modi’: Rahul Gandhi’s Instagram video and a dare",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTldQTEZlUUtCX3phLWR2VXZVbDB5cHFVdFdUWjdMeVdGMnFobjRCblBQRU0xTl9QcHhra1BBYWx6ZGRGN0xxTlZLbVcyYTlCM1o4RjNYNmhJSlVNU216VEttU2dRTnBlbUFPbmp3Wi12TGRodzM5aE91TzVRZTJuWHRqU2E0QWNKWHlRVVZOVW04TWhOT2ZXTEROeG1tamZncVItNGZoQXNJcXB6eXhDcllIUk1MaFZqZTNwRUZRamdMTFNxMUZB0gHOAUFVX3lxTE9xMTNITTJ5d0xib3JsMzR6ZVlYR2JIWE5pSjNiWUtuaEh1TFFCZjRjV2I4YTdLTnFwRmE2bDBEekJOdTNGN2tWTGp3OVBIVWYyU012VldOSS1scFhBVEVqOU1Qd0dVWlRHckxjQm9hSXE2d3pBcHVmY21iMnZfZDd5cGpKb0xqWHYxSlBPbWRhbWxncjhhZmJsY1pXV21UaVRjQW5qa2ZvZ3RfZUVjXzZFTUJzN2ZDMU9lUF9zeHNWemI3MUdHa1NxVjRjaS13?oc=5",
+   "id": "ae87096465",
+   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Indian Express",
+   "source": "Reuters",
    "region": "IN",
-   "date": "2026-11-13T22:37:00+00:00",
+   "date": "2026-11-14T00:25:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "India",
+    "country": "China",
     "place": "",
-    "flag": "🇮🇳"
+    "flag": "🇨🇳"
    },
-   "topic": "Society"
+   "topic": "Business"
+  },
+  {
+   "id": "59963ae04f",
+   "title": "Android Circuit: Galaxy S27 Pro Camera, Honor’s Chinese Win, OnePlus 16 Thoughts",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONEJRZkRLc2hxMFNkUGlCOW05VU5DYm5RYU1FdS01MGZnMDBmUEJHbFYtMnVhOE81bVFqMUliS2U4UTZ1b0hHZnJPVjRMczdFV2VwMDNyWjI4dTFUck4wWEF5clltbG14VlhOcXN3LVV3TzVQa3JCRExKTjlPS2NvMGpubjFfcXF3RWNNMG5MYmI4VDF1b21tMHdPMjFGMTdqRkN1cjZLRlMyZ3pKSmlhN3FORW1lV2RGS05nRnV4Mlc5VWlNQzJRYTFqV1o2bUd5UzZXbUJB?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Forbes",
+   "region": "IN",
+   "date": "2026-11-13T22:54:29+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "China",
+    "place": "",
+    "flag": "🇨🇳"
+   },
+   "topic": "Tech"
   },
   {
    "id": "b54308e6f2",
@@ -118,6 +152,23 @@
    "source": "The Times of India",
    "region": "IN",
    "date": "2026-11-13T22:10:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "e6bec0843c",
+   "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Nov. 14, #986",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "CNET",
+   "region": "IN",
+   "date": "2026-11-13T21:00:04+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -144,23 +195,6 @@
    "topic": "Politics"
   },
   {
-   "id": "7d71898a28",
-   "title": "Raj Thackeray Accuses BJP Of 'Exploiting Chhath', Draws Shiv Sena Retort",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFR1cEZuU3A1WHFXMW5GNkUxOG9aZUdiTFRYdEh6YWwzMGN0empkQW45ckMzeUp0Y0QyZ0Rzb0oyNFhDc1JJbjBuZUVwamdleHlOeXdUTFlSUWcwblI5TjJUSDJFVEhLTEhtaGx1b0lsbVFqLTFUUWFWWlMwdkktWlFtYTVlSXVhMU9DbUd6QjUwMlRKYkVmUWlTcTRsQWNNNDJpZkVLajEzb0ZLeWNv0gG3AUFVX3lxTFBaWEQ2TzA5MHNoSHA5WFRIek9CVWpDVUZYSWdmYXRodThYTUVBVGhzY3BacVVhTFhnNkNCU2s4dFg1dnRBalRReXFWV20wclBLbU01YjVmRDlfcm9KcFM1U2FidGs0Zl9LZG51dkphRnNxZHVrQklmbm5lYXlXUXB1aWJWLXN2Rk9FZk16eDQ1OWQza0xmZ2RxWU1EeTlaamIwQTJxVmxUajlWN05oelRvOHNTcFd4QQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NDTV",
-   "region": "IN",
-   "date": "2026-11-13T18:49:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "d1e5ff09d4",
    "title": "Turkiye and Qatar sign mutual defence agreement",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEpuRUNDOGpGX1p6czhOcXVnSk1oY05LYWpzSENZX01mbER3R1c0ajVaVGk5OWtEQ2U3Q0FxTEoxLTNVTXV4bWNTQ2puZFVUblFtaFpBRE93d1hmTnJiYlp6bnlHS2lyazBMY0w3R2tPZDFVZTJ4a3hWZUNmWEFuNk53cEtNNGNJYmVLaUE3NG8zN0HSAZgBQVVfeXFMUHFIbmFuQXMwT0hsVnEyZHJlR0hfNmx0Qkx1YlpVellKZU9waTRoSmNhSVR2SzhjV044ai13QWcwanlNV0ZTd21lU1JkWm9OWWQ0elNQSzZHSWZYU1BpaUdTbVBwMXFCUl9EdXNsbWppZ1ZLLTF0TWVQSzBLMmV3U3hDZkFPTVVEVWktc0xpZlBmdmQyTG5VVUs?oc=5",
@@ -176,6 +210,23 @@
     "flag": "🇶🇦"
    },
    "topic": "Society"
+  },
+  {
+   "id": "5407163776",
+   "title": "Samay Raina teases Huma Qureshi about Yash's 'Toxic' on 'India's Got Latent 2': 'You're the first one to",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNOWljZzA4cHNOcW9SeUF2U3BOUWlycDcwdFpGSnc0Uy1Ma3hsRVJDNlRDN2lHSlNtU3dmWU94U2tFa3ZiR1NHZ0s5dUd5ZEwySk15Wkktdm9nSnNjQWptWnZTR1JMMndncVdkZUFMNEprX25ROGFWaWI3bW9TUHJzRDZPWGJLVTE0RTJhZ0xsVjdpZnlUaUQ5bGx5U1VoWHhqU3lQMXhoZGlqLWZWbzVFc1FndHgxb2hyME9YV2xMUjBYS2cybk1xMWNtbGtwMTdHQVJpOXFiQ0JUU3hDTVV4b2Nrckg3WTdOSkFoTlpQM0hjdmk5Ti1mN3g5SV90RDZQS1hJeWZrUndrMEFOUGR6VzBCZUhaQ3A4cDV4LVl1eG9sNktudm01VWRicXNJLUxROU9mQ1ZkaWxSazVDMjJ1XzdBVHFZQmc1aWxj?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Times of India",
+   "region": "IN",
+   "date": "2026-11-13T17:17:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Weather"
   },
   {
    "id": "4175609c8f",
@@ -210,23 +261,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Business"
-  },
-  {
-   "id": "2fb766ea18",
-   "title": "'Vaaste' singer Dhvani Bhanushali gets ENGAGED to Yash Bhanushali and shares glimpses of her ring and the",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNSFZRNUtaY3ZQWndpWXhpcXpoS205b09PMW4xWm9hSHNQX2c1ZlZhcm9DMDFGREJHbnFsWmROUlh6SG50QWcxS3ZUQkNfSGZUbk9xTDBXdGpSeUZaM0ppMDJwSzd1bXgzS2pGOWdSSFlySFJJcE5tMFlyZDFXRXZUTTN2dG1HYnVtYkppSVp1amtkQVRFaTkyaENyUDJHWEFhMDFqXzJzYk5tTmZJTnpYbGRjRnRRVzhnNE1ZZHJkTVhwQXhFbHplMjdhOXE4X25nZjVHTlNfVEVNa1YyUUk5bFFJSmdCOTJ5b0tlTFRoQVY3MlZ5RnlvUjJRLVNQQ2xYM3FiQkRfUjVveVEwZWZPMElvMzN0SlQ2TURDNnhac2dLcDE1NnFRd0xyOEZ0NnA2dWstUlJpWVJxaVUzRnhMSGdlOC1wY25iWmFLclJXLWl0dnpKZkF0cVF6SGJsb2l0TWdObDE4SDFTTEt3emc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-13T16:10:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Entertainment"
   },
   {
    "id": "ab2887886e",
@@ -283,40 +317,6 @@
    "topic": "Society"
   },
   {
-   "id": "7ba51f9e56",
-   "title": "Man Utd allowing Mauricio Pochettino to coach final USMNT matches shows Red Devils' board still don't understand how real relegation danger is",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNN0JqUjBMYWJuQWVBU1F5LTl2UGxrS0p6UnI3SnBQdU40SVc3SndIMHU5dHNIS01vT09VeERQMFJZSlAtaGJDM0xHSWR1cTBYU0lDanJhRjROTDA4X040T0JQRmtnMzk5Y0JkQlpqOW5kck56V3pVNlF1RC1qT2JnUDI1RWtTY3hqSjhlYjdTc3gzckhuSW5tZ25Td0VhRk1QSWt6MTJmQlZBVjByUlNUdnhlSGhraklKTFFrSWhQQVBpV2lXenZocnJkWlpOcXJMOVNYRnVOaVVoamJ2RjZROXZrc1ZnWllLMEMzWmJVand6RFB3aEJVZ0RNTWVOOGM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Goal.com",
-   "region": "IN",
-   "date": "2026-11-13T14:38:32+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "fe3d8c93da",
-   "title": "'Josh' actor Sharad Kapoor fights back tears as he sends his four pet dogs to a shelter amid family and h",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPeDMxaG1ZNzZyRGRDVHdQNVMwRGdudjdDWVlHdE9KbF9iVzlzaGh0SVBQVUNrTTRhSkl1Rlo4elh0TFRJZkcwYTZVbTVGcTdDZUR4MmlsVXRYeXlwRTRNU2JjeVg1TEhxR0psT1d6c2hRc2pyVm1iUjdoaW9Yb1Z5U2VCTFNubTJWeHEwbURBTFNHTzhLTWk1NDFqUHREWHluWktxRXBGWTBzRzlVVFRqa1RrVHM1bzd0UU53MUp3OHZhR0dPaFlzYVVXSGJnUWl0UEFVTlVoaXgxYlJwTzZDNHR2djVDN290enZobV9tbE9aOE5jUW9hZl9DOXp1aGJsX1FFMVhpRk5IODVsSkRmaGNfVk9vUVZRZm1HY0Z2d3RaenRqQlZseWxHaHJsTU9DTWJEWU9KZGlGVHVoWDJ4ck5qdWxrUXRGeGVNN2JlaFlsWEZVOVVrVG5rR1E?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "The Times of India",
-   "region": "IN",
-   "date": "2026-11-13T14:35:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Entertainment"
-  },
-  {
    "id": "c1dc8b48cd",
    "title": "Can Netanyahu launch a strike on Iran before he leaves?",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDVpZXM0aE93SXF5aVY4RzJ0VWpkdExxa09ab0VsdEpkUWVLRDJWZk9QbzJ1ZDRRRXRTaHBxYUlPcEp4VlhqY1JnVlVEaTU3UFBaVk0yajY4MWlkZm1kSmZIOWVSampraEd5TnZ1TnlNVWJER2g5R0p3cl8ycmRraEg5S2ktaTV4OTFQaGJlbTVta21SYlpPM1BnUzLSAaIBQVVfeXFMTS1nUFo2cWt1eGhEcG9uNTQ3R05sMzZzSU9seGsweFlYMFRlNXBQS21uRU44SEtrczhpekRVaW11Uk15N0tkbzhMcENKWk5FOXdLcmh0MGhwaEdRbGVkdzFINUo4MjNyVld1ZXVXQWQ2c3lvWUFoZlY2ZFgtcEJUSjREVFpZZDdoUnFwNGc0bGlSZXAyWHluNEJDTC1DZjNlRDFn?oc=5",
@@ -337,14 +337,14 @@
    "topic": "Society"
   },
   {
-   "id": "28cc7f336c",
-   "title": "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
+   "id": "89f2979fcc",
+   "title": "Recap: USMNT's Pochettino in tears as he agrees to join Man United",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTi1xRVRIR3RjYjhQTkx2WjRYM0ZZZ0VfSm9GVXIzZ0Nwa250bmppdDFyTzZObm5ZMkhrWHByUzFiejh1b0tKcFphQ2x0YXYtc3cwcENqYS0tMEtCeEhNNFdXMWdtckNnZkM0azJRd1Z4X0Eyc0VOa0I4UlhkSnhfTDBTZXBOcjhscHZ6SXpSajhpQ2R1amh4SkwwSTJLc00?oc=5",
    "summary": "",
    "image": "",
-   "source": "Reuters",
+   "source": "ESPN India",
    "region": "IN",
-   "date": "2026-11-13T13:54:00+00:00",
+   "date": "2026-11-13T13:56:48+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -352,6 +352,23 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
+  },
+  {
+   "id": "9d494109d3",
+   "title": "Matt Henry keeps it simple to bowl one of the greatest first overs in ODI history",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjNCTFRVbldyTVEyNVRKSmdPZ0NGeVhqX1RTa0VIS2tsT180QVk1NHJ4SzhMVEY0ZGRKT2pYNVlwLUphMHZGdWNEUU11aTVhSzlwQ1d6dVphRkoxQU01WEZidDNKeGVxdlNzT0xWRExKdkFDd1RVWTJmVHN2ZGo5RENoZmU0TW52M0tMYlpTTklFckxqV1HSAacBQVVfeXFMTnVfREE3YzhZN2NPUnBScUpNYl9FODR2VnR4X1hQdVQ4a2tTZE5feFNGQjhRamNtUGwtc2VYdU82TVlkdTFXUXJKVzdXOUdUbTd2bUwwZEhhbmJOUGJSRTJaZnpncW9RY2tNWWxiR2JvVmtpaE9DT1lwc3ZDSWdZSTVXRzNGQ21NekE0bngxQW1TRUhOOGE1YlN2NnFzUUM4eUZfRVVzalk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Cricinfo",
+   "region": "IN",
+   "date": "2026-11-13T13:52:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Sports"
   },
   {
    "id": "26c2fcd806",
@@ -422,14 +439,14 @@
    "topic": "Society"
   },
   {
-   "id": "f7368f069d",
-   "title": "World Diabetes Day: Why early prevention and regular screening are key to reducing the risk of diabetes",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONkNCM29sY3hqYlhCSzVTQm1kbWc0SjR2TWZTcW1Jd0M1MDN0bUh2OXVJZnlmdlNrYzFKcENOOFl3eHFLLWlOeXhtS0Rka0dOUjZLUGtiNWdZdEZnTV94VnFMTjBtVEJieVJmR1dEaTBGT0hsbWFxbFhCWTdzTElHS2JXMm5DMEowTlZCejV2T1lfMzVkSUw0ZDJGY3V4Z3hXQzBjWFRldnR4LUZZMVZ5SEJndUY2SDNEWm1ZdHNwRGowT2t5TXk5NWlRRkhrZjF6a0NfSllaeGJhb2JhYkQ0dHVB?oc=5",
+   "id": "ee5ff7fe6e",
+   "title": "Modi revisits intolerance chapter missing from Sonia Gandhi's memoir",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTm1WZkNrVmhWUm9QNFowajQxMWJqVk5IYkUtYTdlYndZN1QxaEpFWkZSaUZzZkxwUFN4YVMxSmFNMFB0NW44Uno3YW9jT3BIVkV0bFhnYXp3dDY4azNnVUluTmE1MW5OUG1rdTR1UkhOeDJ0NFRGMkhRZ2FhdjZMcXJlYUVBSUpqY0x1RWxPa2xXRXEwb0Z1dGYteU4tZExvZzE0OE44alhjQk9PQVROQVpXRTFOcDVpdWR1bHVINGE4VzR1WldMYmVEcTdqN1R2eHVpRE1ZNGdwaVVCdzFJ0gHkAUFVX3lxTE92T3NJdnJ5aTJPbVJiZFgzQlBYcld4czlVUmJia053bTBkajN4Q3RCa3hHM09PbTdfN2M5RmRLUmxfX1JDX0N5elRWY0xkZE5KQ0lMUjhiZEFidExQaFcyWG1xMEFUUXdfUFFGYUhQUFdUeVUyVTg0UHZ6Sk5NSWdiU2pTZ0JDSFlhWm1relQyNWpRWEQ4clB2Tk9venNyWkZ6NnJQb19yOXN0Nm02UWxLYl95TU1wUXo2Rm1Fb1ZIVVotTEpGYVVfQVZwUTg4WGxzZ19Obm5sZUpoQ09xWlhmUnRJTA?oc=5",
    "summary": "",
    "image": "",
-   "source": "Express Healthcare",
+   "source": "India Today",
    "region": "IN",
-   "date": "2026-11-13T11:40:52+00:00",
+   "date": "2026-11-13T11:19:13+00:00",
    "coverage": 1,
    "location": {
     "country": "India",
@@ -437,23 +454,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
-  },
-  {
-   "id": "bc95ddb1e9",
-   "title": "Gambhir 'concerned' by India's frequent ODI batting collapses",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVJDc19FRzR6ak5lcnlOdDlCc2FTWkY4NXYwMk1VRERsekxYN0lHbWw2VWxQaUlTTlprZ2hnNVM1ODcxZmp4WHJfRTF0cjJYLVJLWjBwdllOenA2Q1NYUmg1SE9hNjMydTdCZHlMR0tCdkRSNmFNR2VERXMzZmFQWkNuU1E4WDV1T3NoLVluVFhMSW5ZWFN3dWRxbjcwTm9jNU5UdTFXTHFGMkFVZXBRVXBadUNVTFZaZWpkSG5vbUo5RTTSAdQBQVVfeXFMT1NBajBWYnlvck5acy1tN1NQenhQVWNvRkJUTmF4ZEJRLWtBOWNRSUh3QW5fSWVmNkJNRWdpaldwc0NFTVpzV0xWODZEUUFnbzk4WWU5X1N3RVRFemtPZThGNU5HS3YxUTFLQ2Zaa0lZd0tUaUhUM05WUElHbHQxWEE2MURhY2FqLW9McklKMllkNjdscmlWTnd5RTZrV3NaTmUtc09MZEd0NUg0c2lnMGxhQ2k1WWpMQ3pKTXM1UkhzYWpqdFlLci1EQjRJMFJyeE1lckE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cricinfo",
-   "region": "IN",
-   "date": "2026-11-13T11:19:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Sports"
   },
   {
    "id": "1cf42fd94c",
@@ -473,23 +473,6 @@
    "topic": "Society"
   },
   {
-   "id": "a2d78d5efa",
-   "title": "Claude Goes Down as Microsoft’s Global Outage Drags Into a Second Day",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fT2ZHYjZGRUZIWlhDTGg3U3ZEa1VpOU5BV2gxeU9MMW9VWjZKTnlDdGNVbkUtWUxtbjlYdFNOYzRlb2dRODQ0OEhBLUNiYUYzcTZYS3hwbFlpVXdIbF9j?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "SNJ Today",
-   "region": "IN",
-   "date": "2026-11-13T10:09:47+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
-  },
-  {
    "id": "d93f23ed3b",
    "title": "Who Is Maruthi R. Akella? IISc Honours Aerospace Scientist Whose Algorithms Guided the IM-1 Lunar Lander",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUd2RU1XU0M4eG1iVDJKNm1UaTcwWElpVkNPZEs4emQwSEdscWJicGJ3ZXIxZ1VFWVUySVJHRWhsamZDYkhrbFdwZWtZa2xXVDZKU1ZuZ0dGbDRmek1oN0ZydWFxdnNncnpRZ0RRLWtMNEJaNTlOQ1ZXeTRIa2tXZWhsRV8xM3lsUlRnN2dyd3oyd2c3MkFRU05tdFZvN2FWRDZjak1FWXNlM2NLVU9rQlJIWTdKSmZnakxjZEJOLXlqRHNZbWRKVV9NYW9EZjFWazFJag?oc=5",
@@ -507,21 +490,21 @@
    "topic": "Society"
   },
   {
-   "id": "1084058e31",
-   "title": "US Senate summons Nvidia’s Huang, Lutnick to testify",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb05henBsUGpiWEtWODhpZWJPcEowNFhUcVpzX2xORlBIUWotSV9KTFVCeF9WcnpON0QtY3FHVm9ZWGZZOHZZN01nOHJRZlJ6ZjFCeUhWRExXWlpWdkNWUDYxSGNiNVN2QWJlQW5Cd3hyY1NlamlsQmRkS3JGQWhNVkhzNUtHUFowaUUwb3lfS2pQT0doNkVLUm9HSTjSAaIBQVVfeXFMTURpb0psekFkdXUwRFVfOXVKQmNOOW5oNWk4cVJHVjBtZ2NtZDM5VzRzUHp2N1VZLWc4Xzlqbzl3MW1rekpMTVBkc1ZwSkVNN0lnbm45TmNfOHJBZWxxakdUX0YzcEw1THM1Ql9yV0t1ckFyWXhZMnNEZXRJb21EU0Vkb1VDRlR4T1EwNFNIR21fZVRjV05ybm4xNmVPazdKdkVn?oc=5",
+   "id": "6500b8c8c7",
+   "title": "'What Happened To You?': Sharad Kapoor's Health Sparks Concern After Viral Video",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY0ZPSVdualhGRGRIenJ1RkJGYzZ2a2JCYmh0TjgzVW9tVXpNNUM4Vi1rTXBYRDY3b3ktTkJHU0JWR0g3UlpJMURZdERCanNqbU9YTjZ1cWN0blRqUDRsSll6NDNNOWJHSk1TQ0hscEpicWdiM29BRUxlZVVyZFBjTFhoN01sd0hoTmlTZ0ZiNTduSnNhWjVtTUJKSjk3RENyV25sQnBHNzVFWU5CemNOYXR0cThLdWRjN0hsQkprSTBUNGxuSl9rNEJ2T0llX2VlTFR3RHczVWFCWjJLb2xNNUI3TdIB6wFBVV95cUxQSUpObFZlSGgySWNFbzdLcEp0RnhvNEN0QUNyV3ZKYXlSQkFiYmdmNmhPVEFqbUIteWVENWV2QzRpU2VZaUw2dVAxRW9ndXNfWXZ1T25wd29KcnVWSVNyWkZBbFJkOHU4d1dZOXNsR0loX1FUUDh0MkJaSTU5ejdBZFdmMUg2YVFEcW54VEdjc20wdjMtRHhLMVJUVVlDa0g5MWMtdGNKVFRRbUJiMzFxSU5iVmNiNlpqangzc1pSMzB1Y3pWR3g3UTZhN3laLWhqTG1IZUpLeGlGN1NIX1FFaWVwT005MWFpem5F?oc=5",
    "summary": "",
    "image": "",
-   "source": "Al Jazeera",
+   "source": "NDTV",
    "region": "IN",
-   "date": "2026-11-13T08:53:38+00:00",
+   "date": "2026-11-13T08:59:45+00:00",
    "coverage": 1,
    "location": {
-    "country": "United States",
+    "country": "India",
     "place": "",
-    "flag": "🇺🇸"
+    "flag": "🇮🇳"
    },
-   "topic": "Tech"
+   "topic": "Health"
   },
   {
    "id": "30253cc561",
@@ -558,6 +541,40 @@
    "topic": "Entertainment"
   },
   {
+   "id": "f7334ebe1c",
+   "title": "Ladakh protest enters second day, Wangchuk claims 'under house arrest'",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkRya05kc1NRbk4wTGFlMDQ5bWJnc1ZNRVp2T3dCNHVWbjlVYUZFWUQyZFRxUEIzd0NBdHZHQ3ZGRWk0OUVSOV9QazlHU2duUWxnejI3VWdDRkpMWjRHZ1FNbnUyZE1hVHY4TTc5YVA5OXlLUXR6N3NOR0JySHlLYmtSZF9uUzl4MGVnZWlidGxkNGRVS3RLclJqcjhVbks0ck1kZU9HWWtoVjJEMFIxLTViVVBZYzBpM0HSAccBQVVfeXFMUHV1S0NNOXA4VzVsV3pYVHRnc01YNHg4anpuUW9ldE5EX09CQjlHSkplOWdSaFN3Sm1lS2ZJdmFROFpRdWNaUW96Zm44SUFId0tMTWF2dUVob0diTnF3WlFRRldEU2ZZVUJTNDRjQU9jd3VkSm84LXZjNXJtVWZXV1hpZFNQZHJhMzdBRlR4N1RjM1RlMm91ZUlrTTJUeVJyaC1EZ0V2NlJCUVZzaEJTMXBGSk9sUEVmOHk0c2loV2kwanM2QXpwaw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The New Indian Express",
+   "region": "IN",
+   "date": "2026-11-13T06:32:52+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "India",
+    "place": "",
+    "flag": "🇮🇳"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2c0d82df97",
+   "title": "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYWtKVC1pM3h2c3NtdkFaQUxrN3d6V0I4WnNtbW5GNVUxTXp0Um1mWkp6SlltVGVsT1FEWG16eXpSTnZMNzVZS0VrMFhHUlAyOXZFRUZFOVdvdzdvQUV3WlZRSDVOMGNWcjFGdkRCUlJkWTdBTWlaQWVEeXp4Q0FrdlhIeDBSZTlEOUZUS0V0bHJKcTlIOEJjeGxkTWdzMGFoU2dEV0xieXFtUFBlWmFpanZfLUx1WG5wb1BCekJXc29qaDJuOXFMa1ZMU2h2anVsWUVkVzN1Nzh3NGc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Hindu",
+   "region": "IN",
+   "date": "2026-11-13T06:22:31+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
+   },
+   "topic": "Tech"
+  },
+  {
    "id": "d401914b33",
    "title": "Google launches Gemini 4 Hydrogen AI model: Know features, price, and more",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3drUVBzVEE1aXFGeDB3dDZXU3U2NV9NMUNzTjk3TjlwVDJxdVZQNHdlcHdRdmJwMEc4cGp3OEVicVdhR0Nfdl9MZXpYNnlWb1k1YURRT3RBSkZsdlZKcUtWdXpBa2xxWEh5TldOUTBCaDhVS2N1Zk1TVmtvUVJqZklJdDJZRHhmcEcyQmM2T0RMQW1mZmtFZl9VR3huQ2g0US1kaHhhRU9KdU1SMklhMU95eDZRazFVQjlidHBzZVN4R2dnY1RIQ202Ri16ZmtPNkItOGtBeGl6OEdieS1B0gHkAUFVX3lxTE8wQ0twQ3hiaWp0LTlEanJnZlJjMUR6V0txWEttMWxuLU1NVG54ZHNYZldJVDZfRW5ObFNxSkY4TWpUa2FKWGZMSnd2aWJJS283Nk9LOUhCYS1LeFlFMkZsODFXQUNlZGxCcE1MWUNua0lrUnBIRDhmeGFBM3NTTC1uQ0xnX25kUXp4YXpkQTNMbXhXVTkwa19haTRtZlpoM3NPdXFxWVZHYTZDZHdObmJ6XzF3UmhxUXVOSUkyQkVDWF9ESmdsN2xBOWlBWFdJNDZVcTg4anpEMVZHRUh4azRNdS01bA?oc=5",
@@ -590,23 +607,6 @@
     "flag": "🇮🇳"
    },
    "topic": "Society"
-  },
-  {
-   "id": "3f70f76e2b",
-   "title": "Nvidia CEO Jensen Huang resigns; CFO Kress to take over as interim chief",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2ZmcDV3cXNWdUo5aWFBU2VzMmtlSXpqN2lPZkpCOVk5dFpWR3Brc0JXeks2a1N0R2tDUDdyWG1hNWtXaUJyOEQtMFRQbmt2U1JZNVkwNnlBaVFVRjM5TFNOaDFqX0NOYXUyMmtQOVdfXzJTaGpHUkE2ZVJRN1lBZUItMjZqUHNzNFpwMFZqanJnTDdPNjhmdnJHYkR6Q2hKenB5Z1A0cDZQS1cwNk1LYWNmQ3N6Q3Q2eUw2VE8wRDZ6ZkRpTE5OOHhyaDZEZ9IB0wFBVV95cUxPRmFENE16WW02TmtuX20wbHp5OGRNTWtxUU02UDRsVldndkZJQ2VEaHU2cDE4LTNTQXYtWk9KbjZCWVZiT2paVElDNk5jaEJWMF93QzNHLUI2S3Z1Wkw4WVh4R2FPMTRaaVpaUVhPTE5IUFRlN0lwNmlFS1VxbnVObDFNVS1BaEF4MzVWbEdsbExwdzdaRFBBakRfRkU5VXJraE9PMzZRSzFZY1ZfTGk2aUhEWGpKRldMMEl1SzFNQjhBcHhJN3dpdWpncXJCVTZEUVB3?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Business Standard",
-   "region": "IN",
-   "date": "2026-11-12T13:55:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "India",
-    "place": "",
-    "flag": "🇮🇳"
-   },
-   "topic": "Tech"
   },
   {
    "id": "68904364d5",

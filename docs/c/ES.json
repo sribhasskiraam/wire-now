@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "ES",
  "name": "Spain",
  "stories": [
@@ -38,19 +38,19 @@
    "topic": "Society"
   },
   {
-   "id": "0324d5d7fb",
-   "title": "En una ráfaga, Uruguay le marcó dos goles a Argentina",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2xydDdkb1NWTDJxY19tTHBJdVlsN3Q3ZFZ6UzRjRHVmWjRxSlR1SFdMd0ZTOXpnM1NZd3pkR1Utelk5Y0I2cFBHbkFTTkNIeDlBY2dvNFM2Wi15NkptWi1lOUEtSHBQWXZ1ZEZKdGFPUklTdUlBcTkybkJMa2gxVTB5dUpja2s5YmNYSGxDYmMzMXB2NWVhRWpNRTF1Um05ekpMYXhZcFNxZXpBUkZmTXFiN2VZREZVLVBzQ205NXQ4TlNYRGhJ?oc=5",
+   "id": "2a53c506cc",
+   "title": "La autoridad de aviación de EE.UU. ordena suspender los vuelos en todo el país \"por circunstancias extraordinarias\" relacionadas con las comunicaciones",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tdmJQSkswVFRaRE1oNUhOc09qQWFRM3JWUVp6cE01N2p6M1JweDlRNERaR1pNcHlqcUxXa0w4WnlTczhBUG9KdTNaTUVWczhvbEtZV2FCSVY0ODBT0gFiQVVfeXFMT1BVWUEyR0hxazIxNy1QTnZIdFpFdWhVM21GeGkySzc0ZmhQTklJWUhEbnJEb1RHcS1VTjlReXYtd1JtTkZMWEEyaHhuNWxfZC1BaTJSaldfdzlCaXJ5Wi15RUE?oc=5",
    "summary": "",
    "image": "",
-   "source": "ESPN Deportes",
+   "source": "BBC",
    "region": "ES",
-   "date": "2026-11-14T00:30:00+00:00",
+   "date": "2026-11-14T00:47:08+00:00",
    "coverage": 1,
    "location": {
-    "country": "Argentina",
+    "country": "Spain",
     "place": "",
-    "flag": "🇦🇷"
+    "flag": "🇪🇸"
    },
    "topic": "Society"
   },
@@ -80,40 +80,6 @@
    "source": "EL PAÍS",
    "region": "ES",
    "date": "2026-11-13T22:36:53+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "06fabeaba6",
-   "title": "Países Bajos se da un festín griego y Alemania resurge en la Liga de Naciones",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkczNThMMnozeDFQODlQX25SWTdfRHVWNkJSYXBJekJYNVJCYS1KTGZlczNEMy12eGl1blc0SWRKdFZyZjlIRjNsaGdfdmNfSlNKaHltX3NCQUdHZklWcU9nZHFWbmVjbUhPZ0diSjA4dEs0ajhCWGRmVWJnR2lJNVNNRFBSb1NKRmU2RHR6NlZYR3h0QnIwVXlvaXRYbkp1MmpVLWdidjRPeEYyWXAtOUVPZzYyamMwLWQ3V3RKRDgtU3RNSEhCbDdOR1NOZ1lUX3c?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "RFI",
-   "region": "ES",
-   "date": "2026-11-13T22:31:43+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8684ddbe24",
-   "title": "Susto en EEUU tras suspender todos los vuelos en el país por una \"interrupción en las telecomunicaciones\"",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSGlWNkdEdlZqazNVcXFtOUV2amFqNDNfR3dnZ0o4X0J4QUNQQlpsdXRaLTFkbEJNMTV5Ui1Db1NQbElHSF80dUVEenJRU1N1bGVZLUZyOV82UFRUeWZCRGlGUVc4UGt4eUR0ZEd5eEsyalpUMDk4aHRXdlJPR2VTb2l3cnQzUzVxM0VmYkg3bDNjMTdjYWlLTzJVYktKZXJwQy03cFg2cFI1ancwcjZ5ejZQY3IzczNycnNQcjRyLURBWnRoeTA2bWEyS3dkTmtScTNFN3ozdlRldThiMUpOeExWSjEzTTRXYnZYenAtSzRySVVVaXo0ZFRpOGI1cDBrQ2lkUDBmTkxZbFhm0gGMAkFVX3lxTE5uOVZYRkdERFAwUmQyOWV2bnk5RzRLVmNGdGJFN3UyRVJMYlpqNTB3QjlkeUhZcWpvOW1RN1ZqUVFNTHRBRmtoQzRvb2ctcE1sNUszMFF1aTloMlZ5dG9RcVZONG5nUVVJVkltT192MlpPREtnQ3p6bkRaY0thR19ZeHNXS1VhSmpwTXhwVzAtY0pvTnhqR3FzTjEtMGxLckdZZEdUR1JXOERfamZ0TWhKaUl3Z0NuQXpIaDEyc1NFZEZuS2VSbVZvbXcwY0hTcy1VWTY4Q0lHYWVRX1lpX3NEZzRsMElDSXBfeGIxeXd1NXlNM0ptaE1WcWlzN1VLNUZpTEdiLWF1azB0U1o?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "LaSexta",
-   "region": "ES",
-   "date": "2026-11-13T21:27:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -172,6 +138,23 @@
     "flag": "🇪🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "0863b0061d",
+   "title": "Competición sanciona con 12 partidos a Jesús Owono tras su expulsión ante el Tenerife",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3MtZ0ZhS0xQekZ5YndBZWhTeUVJWTlpeXg3NHdxMGRCb19JTnJRREtRamtCb2daRTlZU0N3SXljNmRrUUtqQzVOMTdMandpNk1McXVLQTcxTVhCSGY3bGxad29WSlg3bmhYaWI1Q0JlNHV5b0t4c0RjNVJZUXFBMzR5UTUwSUtEV3RiM1cyUXJ2X3hMWE5yVUM3SWVGWTdBbDNqTVNqSnZseHU2TlZkSXA5SnpGZkhkN0NyVER3bE50NkRva1RsSzYtX1RzT2xXNEHSAeYBQVVfeXFMT2FZc0dBQXdCY3JLSnpib1FxaGJrdWh2SjZ4eWI4MlVZN0JSZjd1T0ZiT29yMnYtTGh0MmpkRERlaFVXQnphTDlXSWx5QlpETjRBdGFPQkZrTk1SYURSNnlpQXhxaG56RXg0WVRYdXF1anNLSzVtTzNLZDdUVkRndzFnVmhpb1hFZDJpR2JvWUFndThNOUppUXM4QmlkMmQ4MlRFS204Uy02S0ZWb1hEb2VBM3V0a2EyWWJvV1gtcTVEc2xBVDlQek9zRFFfcGQ4cXFTU2d6TUp0QTNvZFNoTHJIYWhSMWc?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "EL PAÍS",
+   "region": "ES",
+   "date": "2026-11-13T20:57:09+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
   },
   {
    "id": "be7f2199a1",
@@ -293,14 +276,14 @@
    "topic": "Society"
   },
   {
-   "id": "390e950f0a",
-   "title": "Piqué se queja por la demora en las sanciones a los jugadores del Andorra: \"Es una crítica constructiva...\"",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcUVWRncxdUxHUEV6SGszYjlLMTh4YXJHSTVGRVZZc29XUWpnWDJWVFk1Yklyb2Y4QVNtRU9RWjZ6Q05EV0o1RjBYOWQ5ZmxjTkxlTUFFS0czbUNOaGNCOTlINU5yclpOX2t2Zll6VHJtYkczQkdITFFxR1NzWWRWSkNWWUF4MzctSGpFQ3g0aHZNQTBiUzd0ZzJfRHQ4M3M0eG9weEhDc1VVRHpqbW11NmgzV3E1Vlc3eUZKX0xobWVzT0ppcFI2NThEVWxaQVVpZUxheWk1SDlyenV6X3I4Mkd5SDJTRDR2UHfSAeoBQVVfeXFMTTZlR1hQU2NnRE5HY2xza1dFOGMxNG8zTk9nUURoVW02dnptZ2NYZnZCQ2NTLVp4SDR2NE5PdmgtZHJ5OFIyT1BTblhqeldhMzl0YllDbFNsbjdrUkd3b0plN2xNbEdrMDZjYlFwOHpaWTBsbFZEZXlVTjl0S1FWTGNvazQwNGs2M0ZOeS1DNFZsSWZuUktkaDVUZEdXa1NRNUIwSmZIVGNydkhjTVdicnk3ZXJLaE1LdTVWNW1kRmlsQ29WUEo0Vks2anAxNTRPanZBQ0VFN3BpelM5OXZKcFV3bHVaUnNxUmJ3?oc=5",
+   "id": "8df1de924d",
+   "title": "'11N: huelga general', en 'Informe Semanal'",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmVreWo4R1gwbEZJYkpQNjl3YWExcmtjZVdFckFZTWNyQTRlR01wQkJSVVJ2MmJNQjJKVW1icnhWTkM4VXVZZFN2aG5QSDljWl90cVBnNjVueXJGc0RGWVY2MFlONFBBd1V0R3h1dnQxOGw0WE1WUzV1al9oMkhtOGQ5U3FXMVVBVjBZ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Antena 3 Noticias",
+   "source": "RTVE.es",
    "region": "ES",
-   "date": "2026-11-13T17:54:38+00:00",
+   "date": "2026-11-13T17:41:59+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -310,14 +293,14 @@
    "topic": "Society"
   },
   {
-   "id": "8df1de924d",
-   "title": "'11N: huelga general', en 'Informe Semanal'",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmVreWo4R1gwbEZJYkpQNjl3YWExcmtjZVdFckFZTWNyQTRlR01wQkJSVVJ2MmJNQjJKVW1icnhWTkM4VXVZZFN2aG5QSDljWl90cVBnNjVueXJGc0RGWVY2MFlONFBBd1V0R3h1dnQxOGw0WE1WUzV1al9oMkhtOGQ5U3FXMVVBVjBZ?oc=5",
+   "id": "6a4744ca1e",
+   "title": "A través de TikTok: Piqué dispara contra la Federación Española",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWUtY0dkNkwzOFp5clg3eEdWRUM5eE8zNk01REoyY2ZiSlhXaHZnU2ZnaFZndUhob2JXWGsxQkx3OEF3cHdhRVhoRmtFOFJVTFA4QkZjVWUwZVdsUWs3LTFTbkNyR1VVZ3ZjczRBb2VnM0pkUVk5ZUVSRlJVaXA3dGpfbEI1NWlVWXF6a19IX2ZvX09oRDhnSDBNeE5rVVhtdFk4NDdSX05iZGtGNWNUb09BOUVQQQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "RTVE.es",
+   "source": "Goal.com",
    "region": "ES",
-   "date": "2026-11-13T17:41:59+00:00",
+   "date": "2026-11-13T17:03:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Spain",
@@ -412,6 +395,23 @@
    "topic": "Tech"
   },
   {
+   "id": "5bed3dccdb",
+   "title": "Argentina vs Uruguay en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdXNPU0ZKWnk5Vkh0c0c4NWkzd3dqUXJvVzBXblBZeFhEZTdfQUphTFhMbU9OZHNPZXJXVklHSlkwSXZSVG1sbzkxSkRrWTBEREh4djAyWVhuc0ZLRUZDbWU0WmhpT2RERUFqLWlXSjQzRDZDNUtEdFV3VDhSRnd3XzNBQzdfZWF5TDBEX19BbmZibk9oUFVzQ0kxOF9CQ3lPdDdvVHJJTGFXMVZ5RkVYckQ0cEFPNXIyTUtqWC1LTndwMlRfdFkxcDNjT215c0R3amFGci1HaVc1b3RFNzZhR3dnMWdhNDFldUU4?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "DAZN",
+   "region": "ES",
+   "date": "2026-11-13T15:29:11+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Argentina",
+    "place": "",
+    "flag": "🇦🇷"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "b4d02960ea",
    "title": "Enrique Cerezo destapa su estrella en Almería: \"Mereció la pena dedicarme a lo que creía\"",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb24wSVQxWVB4bVZwTjNKZW1kaXFXS2U0YmVIN2pSd0F2ZWxXV0RUSnZnYk9Zdkh4UWhlT0hLV2p0NTM4dl9VdGZYMC1hblBjNllITmswVjFVa2E4bnRvaXY0YmN1NURZS0RCcnA5MEZUTVlMV0NwdThCVm1DYll3TThzdXhseWxoOU50V0FTb3MzU3dxdjdxd2NkcEh4Y2Z1Rzl0eno0TdIBrAFBVV95cUxPZmJhVU1MUXBLRzVxRnRUQU0tMm1mQWtkZVJmWGRWSzcxUzVFR2QwZGxsZUF3VHFwZjlJWlJmSzB2aWhDVXE5TkdUS010alhuampwSThfbXkyc0hJVGpYajR2SEFSb0lIMmpWZm5jSWhkTFBJLU5CdWxXc09RNW44UTlfZ3U0dGJRbGFlcUpNVXNxWFpVc1dpUU9SNlVyWkhsblpWUG5CMndmdDVR?oc=5",
@@ -463,40 +463,6 @@
    "topic": "Society"
   },
   {
-   "id": "d3c514c864",
-   "title": "Descifran la propagación del hantavirus abordo del Hondius: confirman que su origen genético apunta a la Patagonia",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbURCOFoyWVlrcEdqQXRPZUZyXzdqU18td0YwaGk0eXVyMk13YVBMdFo5QmNnSzFOZGZHSkdkeWpfQ2RrVEhWQlA0WDJPN1J2eXJRN0tGWFprTG1CUFZpVF9xSURaN2lkNExFN2lTWnRXSTZDdWpuQmNRMWZyUFdDR1hJYzMzZGwxMzBFNl9ZY2diTE5HN3JJWVdpZmxkRmRkRmx1ck1FTkJiUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Gaceta Médica",
-   "region": "ES",
-   "date": "2026-11-13T12:19:04+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "7b151ef786",
-   "title": "Pedro y Manu Sánchez mandan un mensaje de apoyo a Broncano tras su entrevista a Santiago Abascal: \"Ahora más que nunca, que lo sepas\"",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNXzEwcVJrNXdvTW96WDRqU0FsdlAxUS1qZkpyY0RySnlteVZOMlAwNzFneHVQMUZEV0NzSjgtNzRZeUZmYm5qQXJwbUwzLXZob2M3TnhtaUV5QmhQaXBPelpOYW1QYm5KTHhiY3VqQjUtUGs1QmJWR05rN2w1NFdPbmh2eldfZ0VxTkJOWGNiYUJJOFJzQXNPQlpBaElkYmtjRC04V0p3VUlQR3pYZmRfYU45UlNNaC1BbFo2aDZZZ3BmYlpEN2JLd0VOTGhvb0NQbUdjZlFPdXZtZ0JnNTM1aGpyWFpybVhSWEZpY2ZrS0w1b1VkZllTdlhQMGwzZ1Z5Q1FvdXZtdDBVdzdhcFlRTGU5cnlhUm50RXhpY2lKbmhYWjVwZHpVU09DcjBRRGpvX0RQSXJIbjBPVE1K0gGnAkFVX3lxTE14a2tDc2t0TzJILUpHTmduS1NBZDh5ZlBHdllaNkluWEV6bEJpUHhXTExwbF9ESEw1TEtsckprSHQya1JFOWhOdUhrbUU5bkl6YnZXRGM2OWF1aS1EbjJmWVVNZGJyY0VEbkMycGpWMnVxeS1NTTVrNDU2anpubWZrZlNfV29nbjNCZXNYRGtEUlZ3bHhodU0tLWlpNUpCTnpTYVJITWxjOFI3cGkyY1N6N245X1BHdjBDcHdEWmZRSGFsVE9LNk5JUnhMSWhZblA4VHRxWDFEY3RZdWpTejYyLVlYSGFwN05rSzFwY2xvU01Vdkcwb19abUl5Q1dJUHBEckNYS2l3TFhLZGtoall0RDY2VFQ1WHpsRGctUmdIQjg3ajVtdnM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "El Economista",
-   "region": "ES",
-   "date": "2026-11-13T11:53:29+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Spain",
-    "place": "",
-    "flag": "🇪🇸"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "e0cada22d3",
    "title": "El Centro de Salud Tomelloso I acoge una charla sobre diabetes y salud bucodental",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGpvQmg3WHFaX0JOX3V1aDlQUXJIbVRMTkFYeGF3MGdxZDNKRm9ZQXhNaFdsdG52QVdZR2lqVGF0VWZJQTEtb0VrNy1GZnN3QjBaQ2wxRHV2aVgyczVzTXlpTGJqMjZQZm8yS3VvMUluSmpKNERhOUhqMUdUTnQyVnQ3UDVSdFgtZnROQUYybDZzaGZHNjA5RVk4VzhIcV9EblFpaE41TnVwdw?oc=5",
@@ -531,12 +497,12 @@
    "topic": "Society"
   },
   {
-   "id": "f1bf31b3db",
+   "id": "a5c29dc85b",
    "title": "Los cinco alimentos ultraprocesados que deberías limitar en tu dieta, según la oncóloga Estefanía Palacios",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRGhDa1ZtYUYzMU42Y3lKWVpoMy1lRWNqeDBXdVh3X2Ewb2lZNHpHdnVZbW11N2JMYVZEX21MNmI2dzRqU0VLMVZRX2V5NUt5SVdyN1lvVXBIeExKTWNnR19CS2Y1eXlVcHIwR19GVGdiU3Q4OVFiMi1NRm1JQVM3RHlGWjVCZ3JZRC1ncHQ5aWplVFVZa053NmlDaXlib0t5eGJJMElkUUdWNDQ0SEtoNHEzRWpjcWxaeThhVjlpbFQxZC0zOXJRUkQyaEFaVllzb0NOWERRbDBlY3IzWnBES9IB5gFBVV95cUxPby15TjlLRzdLZG03eXFXbzZPNTlCa0pmbkYyR3F2dUtiV0hmVmx4NTNIQ3AwaFlrdGxDVURWUktMQ2N2R2RuTXZEbXpIcUVwb3lOU1g2ZWhPLXhabHdQNnY0UUJnOFJldGdrVng5bUdYRjNxbENzZ0VtcWxqY1JLTEZBM0ZIUTRCUlQyOEVKNnZmQmRya2ZNMzBfSzNJdm1sRk8weU9aZ0FjNjFqc2w1MFRnUWtLem1EaFNmcTdobm92elpJeUtqSjJWRDNHN09hSndLUG11VHc4aHc0THNGNXNmYUZRQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazktQXlrZUhDWm80UXFaQXQyMWRJMFQ3Sms3UFV0eUtlcXI3U0Z6eUFxaW9oQmJRbWFKZjlVVXNEVWJ2LU40cVN3aWdHcW5LZWNpdl83NGIxcHdCQUJHck9fOFF4aFVqbG9nSFlOVGdTWHc5alVIVmZTa3VEVUxmNjZSMGFqenNpUDhiQUZUeDhxWGx1MDNFbkV6MUhFZXFpQkVMOHhSYjN3S3Q1azVRV0RabldIRlEwOGVSSXdLOThKYmpDX0RvcFgwNGNlLUx2SG0tbUxrRGU1Z0liMnfSAeMBQVVfeXFMUGM5YjNuZm83Wmw2MGRaTHpueWxZWVc5S1FBZ1A4YnBqeEpJSGdMSS1ERmpoMGZmci16X1NHT0xmdmJjY0F4bkJMUk9ZUDBkOW9NNWRzOEd4M1QzUHhTWUxmaHN5TWpJREU4dk5FTkl5TVpEZWlDSjk5U0VZcnNGa2g0ZDlleG5nZUtJbmItczVVcDkydVFpQ01IWkdmck5zUHhZR3ZzbWxmcnhxcUZPampwcU5rZ2EwcTUzRGxQUUc1OFZza0NiLWpYcjQ5Y250Q2xRRHNFVm9lMzJCaVZNVno5dEk?oc=5",
    "summary": "",
    "image": "",
-   "source": "Noticias de Navarra",
+   "source": "Diario de Noticias de Álava",
    "region": "ES",
    "date": "2026-11-13T10:30:46+00:00",
    "coverage": 1,
@@ -565,6 +531,23 @@
    "topic": "Society"
   },
   {
+   "id": "b43190ac27",
+   "title": "Los últimos sondeos anticipan mayoría absoluta de PP y Vox, con entre 189 y 202 escaños a dos semanas de las elecciones generales",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcHhVTFZRWkVyM2RvOTN6VHBrN05oM0VfcUFyZkxNTEkyQzYxb3RlcW82UFV2RHlfQ1FpQUEwNlBnSDNPRHhCRVE4eC1zdVl5NDN0cHpHWFFVaXp1eGtWNngxM05VQ1d0RmJYeUs5WUdwbWl0empkaVVCWV9SOU1tMGRNZnluMGwyZmNISEFzdXpWbWtxeFB6Y3hESUhlM0FrdzZIeHlZdzZiRW51OVoybWJwTWdtZGQ2U01ZN0xkdVFQdTFaUFJRM056QkVwOGRoNUtkM29nNlBRSDNIZDJBTnBEWmlEeFpUak9qTnZHbmVwRmvSAY4CQVVfeXFMTTRvOXNLSWdkNXlGV2RxTTNnZG5aWlN4RmlJemRfZmR6TG5vWGFWVzREbXZQd1VhTEwxTjl1OVlKbzdLUWJDQUh1UTB2V0tfVDl2YmtneVRZMUZCeEZRRmJOWnpUUkJUbVdGYmt2X0pPTXd5THczVmhva25wVzJlcHR5OGJoWUVOTnJYRldpRVRwX3ZLR19EaS1HTzcxbWlYSW95VTBpR2c4dGRLOFp1NUJidmVtZmwzajNtMm5sbFBGUWhjdWUtYTBlaVBnaDRZcVdMV2FMR08tdmxxWlR4Njh3c3o4ckhhTDFHNTZzRW9pd1JkbFBKR1hRTHdNQXlCRlZUN000TWV3QXFZdktR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Infobae",
+   "region": "ES",
+   "date": "2026-11-13T09:26:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "e5638b390c",
    "title": "Warby Parker materializa su entrada el mercado de las gafas inteligentes de la mano de Google y Samsung",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGpNRTc3bktXVWRzMnJHNXZ1X2tGLUQ2V2YyLVJXcjFfM3Y5Y2J0c25VQ05iTlI2Q1BtWFF3M254YU50bHFXNUtBdE5xNXZyQ3lEcEw2QVhmNWhYUy1NVTNva2JUVXpBMHRFUXdfbU1pQW5GVktRR1VsT1pHTHNsR1ZWTmwyWE5KcEVQMFJPaGsxYWl0Sld6MncwOXRXYTBmYkNfbDU2U1NkbFhVQ1YtUkF1R2NXanNLY2ZtX0d5T2ZHM2pmU1Nz?oc=5",
@@ -580,6 +563,23 @@
     "flag": "🇪🇸"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "df4b31f1fb",
+   "title": "Día Mundial de la Diabetes",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORm1pWmZuV1lOTVNJWVVHRlFJT20yOHFLVEF0aDBCMzZOZEVscDVxaHF6UkpXZGNFVmxucGhROGlxOW52LVV1RkNST3dibnFnLVR1UGhsRDd0UzkxY2RTY3N1M3E3c3kwWUJ3Wi1lQlk3TTVmY2UyRlI1dEY3a1AtRTMwQXB0bDNlSXQ5NnFJb3ViWW5jTVN3Sy0tTGtxRGN6SW01eVlrV0hyUlM1WEVXRXBOS2VEWXVrZmtMS2RZWlQ1NzZ0TEY4d05KQnZabkw1dkxGUkV6SGVwZ2l2V3h6ZklYbmh6eXFEUVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Somos Pacientes",
+   "region": "ES",
+   "date": "2026-11-13T07:21:40+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Spain",
+    "place": "",
+    "flag": "🇪🇸"
+   },
+   "topic": "Society"
   }
  ]
 }

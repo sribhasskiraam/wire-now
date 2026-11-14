@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "NZ",
  "name": "New Zealand",
  "stories": [
+  {
+   "id": "5a8c68abde",
+   "title": "Researchers trial AI coach for diabetes",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybmlQY1BpRXRNenhNQVA5SWZvNVdCTkdKcjZPTGlwX3pGRDRoMng4MDBGN05wa0cxNS1MRG9hbmgwY05zdzZTZVdSVFlJMTBvWlFFM09YeFlsbng2NG4tajBGN1lLRm9lNjNPTlpR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Medical Xpress",
+   "region": "NZ",
+   "date": "2026-11-14T03:20:01+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Tech"
+  },
   {
    "id": "bb55c58404",
    "title": "The dental problems you can expect after 50 - and how to stop them",
@@ -38,31 +55,48 @@
    "topic": "Society"
   },
   {
-   "id": "cae39e50de",
-   "title": "'The face of the earthquake': What became of Kaikōura’s stranded cows?",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXJQeWRTcnFvbFBTWWlJNFYxRkw3aE9vM2Y5ZHZlRDV5Q3AyUk4tQXRjNkhNNEpuWEVBcHFCQm5ySVQtVkJjemd5SUg4RXdGUGMzX1hMX2tCSG41VWs0REl3a3JHYmhpV3R4ZXhsbFktX3pPbHQ3OHlrVUt5YTRQNjNFVmxfY0VETHZnSGhkN2RZcVdfS0xBaXZOWDk3cXRLcWd3?oc=5",
+   "id": "8e5fc27f16",
+   "title": "Slow-moving front prompts heavy rain warnings for South Island's west",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0cwQUx3T0ctcm1wbFZtb1Z4d2dwLWNBQnJPVEliZGVueXBwakN5N1FMdUMwQ2M4YXBxRlJkR0l3RVA3VDhSMkV6c1prSXRyWEtxMDR0S1dCTXItNEpTN09zM3VWTUtFUHFKajRORzBYU3ZhY2trUVZXTjdLZm5FZU5kODdjWXFKM2FkMW1VZ1piM1JaSHBXVGN3Y0k3dlcwQ3I5NHJ6VQ?oc=5",
    "summary": "",
    "image": "",
    "source": "1News",
    "region": "NZ",
-   "date": "2026-11-14T03:02:05+00:00",
+   "date": "2026-11-14T03:00:33+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Society"
+   "topic": "Weather"
   },
   {
-   "id": "16bd5e9e65",
-   "title": "Delays expected for days after US lifts nationwide flight halt",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUtkaXJXU1B1MFRFX1k4WmNzWTR3ckxGMVBHZlpyZExFQTd3OXo5UUlUcWkydkdyOXNmOGZsWFhaTE1tUV9scGdva1g2a2NpaE5DQXZiN2h3VXpkcVd3RU9ONXdNSE5KdTI3bVdYSGhEbUZXNDV4cmFkZUNDZzFhVWNGMjhERy15Q29CenJwVzNLd2FxVWRvUGNKRmxQQ3A0SUQ2aVNCeEhteWlOaVJyRl9ZYkhBRlJUVUdTQzgzdnkxTmUxQ1BrNC1Ga0x4Yk9OakE?oc=5",
+   "id": "8bb063cc50",
+   "title": "Why your work email died: Tech expert explains Microsoft outage in plain English",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ0h6SGVmeFJtUUMyYUdUWkZaWkhmTVNRX05iTjMzUnVRRE5VRkNkRkJWM2NiNXVtYTc0N1lKcnJIeTdlczRNQURWVW9DNmFwU096OTJVak51RU1UY241UmFBWGp0MzFYMzBUV0oyM21rbVhfMVhZMVlCdXNjZmF0MG5jTFdla2tOcTZXR21TWHBxREU4SUpWaTFSZy1fYmx4bER4dVpDc0dLUjhfS0x6cWZSWWRRelEtNF9VdWNyM25hT2JORDFWem5oODVpZVI2VjBORmpGdms0T3drMHdJ?oc=5",
    "summary": "",
    "image": "",
    "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-14T02:15:00+00:00",
+   "date": "2026-11-14T02:10:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Tech"
+  },
+  {
+   "id": "f09ec99547",
+   "title": "US loses measles elimination status as cases surge, vaccination levels fall",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR05ydVlKN2xaUXlpTEJSZldka3ZZVHNjOUNFVEVYcUx1QTRJcnNNWGk4T1JDbjgyUDdVaXZXV3N6NHZKYk9YemFBcnJ5bkJBVFpHcU1vcllOLThSVUY2Nkp1MXozSDBBN291cHhhZ3ZMaEc2aGdNMEtnTlpSSG9zbkFsUG9qaW95cENkVl9IRDlVcFdRSE1EVE9FRkZjSERCLU03cXBrMjg4WDFHdjFZRVc4ZkUxdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-14T02:00:42+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
@@ -106,38 +140,38 @@
    "topic": "Society"
   },
   {
-   "id": "f6c3b4a524",
-   "title": "Active front moving north prompts 27-hour rain warning",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTVkSmxfV0M5T0pmTF9mTFFmRnhDTThLZDdfVTZBUUhEdFBfWmVtajFsS3FpYndBR1hFSGNyVzlqdjhBMXNCYlREZ1JDRHNDbGFiR2RVemdFNHAySXJ6T2dlNDZjT2ktRjR4ekdxSzJrYzNTb25EeDUtMWpfT1JfX0g2NHc5NEpOQ2RCUEh1aFRhTGJVSHpoVDU5WnY?oc=5",
+   "id": "3b9a10e24b",
+   "title": "'OMG look at that': Scurvy and pellagra warning over Ozempic-type drugs",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGdQTTY3UUpJa09GWGNtQzlPUTlYVEZvTEVLd3dJaVkybmFtV0lCdTB5ZXVZUWxoSFg2LTQwNmRSLTZ3WjFSc3JqZlpLZ0dqT013aGN4X1ZrcmxLMUFfdkF2QjQyM1hmWGxFMmZBYWVjSU9uVVVDSThjcDk4eDQzV3FablBfeXRQMTB5WWdyR3NfWGpVSVJCRG85dWZGVmJSblZ5X2V0QTFWOFJ6MG52YjhuMkRnS1dIZ1dmVzMzN1Q2azNPaDhtUHFBelNzWDZ2VWU0RllXSVVPOXljQVF1c0d6UlFlZw?oc=5",
    "summary": "",
    "image": "",
-   "source": "Stuff",
+   "source": "Newcastle Herald",
    "region": "NZ",
-   "date": "2026-11-14T01:04:05+00:00",
+   "date": "2026-11-14T01:10:35+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
     "place": "",
     "flag": "🇳🇿"
    },
-   "topic": "Weather"
+   "topic": "Society"
   },
   {
-   "id": "528f3fe001",
-   "title": "Businesses suffering a loss from Microsoft outage could have grounds for insurance claim, lawyer says",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUwtYTJObDItU3JRNENubG5BeDdrOGVSZDVOSlhvREdRa04tQlRtTGh2NnNFVWlvX3QydlVQTTlJbXB5cEJIM0t6aXhfMkVLMXR3eXRuX0cwdzhhUGZLNjdlVy1MOEFHME9TWVAwSGJqZ3pNQ29FdXM0NEM0c2ZoQWxnak1keVNUQjZ0SjE1bTUxaTdkbjBxaWdVNTRRY2NrM0NLUkl5ZHU4NjUwcjJLd0VHMHFneHJvWE9BVEU1TFZKLWpKYWQ1ZG9qNGNRZnVjQUV6NzEtZThEVjRr?oc=5",
+   "id": "4eddc6c815",
+   "title": "Flights across US resume after communications failure grounds planes",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFZpRjBnb19sX2QtZmRzSUFlY3djUjE4X2l4VUZEaS0tRm8tMWU1eHFxSzdEZTBTZUVYbkV4NFFQM3djYlVZUUxvdHROeS1hYW80MUFBMTNiV0Y4VmlUZW5ZWmRUZ0VfN0lURmF6ZW1UUVhqeXRJWXZ0bjVKVXJFQ0RZa3lRbmYzTERKdUJCTUt0TklNZG1lOThJeHllbVpiNkRkcWs2OGRSaFkxQnc?oc=5",
    "summary": "",
    "image": "",
    "source": "RNZ",
    "region": "NZ",
-   "date": "2026-11-14T00:23:10+00:00",
+   "date": "2026-11-14T00:04:39+00:00",
    "coverage": 1,
    "location": {
-    "country": "New Zealand",
+    "country": "United States",
     "place": "",
-    "flag": "🇳🇿"
+    "flag": "🇺🇸"
    },
-   "topic": "Tech"
+   "topic": "Society"
   },
   {
    "id": "992b3b9803",
@@ -170,23 +204,6 @@
     "country": "France",
     "place": "",
     "flag": "🇫🇷"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "637b622b49",
-   "title": "Classic cars, guns and gold bars seized in major drug bust",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbW9XMERjdFNpM1kzZDNJcURSa2ZQNEVlWmd0ME9zalVhOHBCNmg3aUZfN2dWX3RjZ19IQmxRcWctSmZjN2lwNGNhSGtlUWNiRzZOY3VPUXVuYVdyTXZsVEMxMFBTaXlkczJxSlBRa0tRZkI0X2t6Y1BzT0RTYkdMRDBsRWxiT0R4Skdzb0VzZk8tOGQyMXBXTHRsQmZuOS1pemtJa0JSRzExTDRVeDZUQlZGeW96QUROeWxqb2lMamxxUHlMX21TNEdMOGUxOHZNYWdmSTVfRk1DVnM?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "NZ Herald",
-   "region": "NZ",
-   "date": "2026-11-13T22:25:28+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
    },
    "topic": "Society"
   },
@@ -245,23 +262,6 @@
    "topic": "Tech"
   },
   {
-   "id": "c07a93af58",
-   "title": "Man arrested after 12-hour stand off up a tree",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHVia3NsbzhhX3JNUV9vd0hnZ2lZaVgtWGw1bmhIRmJqaGd0SlpnX256MHpMZWZMa1VvQjBPUTdxUExLUmp3VGJzYUk0QlRsRDZOd0dpVzFNcWIzLU9UTUg4czZzSkJUUklxcDJWektaVnVGUGhmUWxNU0poRkYwQVZOcUNZZw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-13T20:50:56+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "07078eb745",
    "title": "Trump takes corporate America to China – we’ll be there too",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbG55aGpEclg2T3p5UGdya2hUbVAxUVlNS01rM0lhS0JaOUhka0UxTEtIVkZBU0FuTm1zOXYzY3VPTHhGNFdvOTJMU05LRDJOdTJ6MGlrZDJKSk9vdjl2T0NiWGg5Y1RqMEowUEhaSHdiX2tucDlwVlpkOVEwZVZ0Wjg1bnR6Z2xDZ1JIdDFhUk9pYzBqSU9IczNXWngtVDRPQVhBUXJKRUtaNHFHS3doZGFJMmJPbDN4LVh2WjVIXzFQbjQ0ZTVIVDlqemo5TnBvaGs1WS1jWVZwRUNPazlRaFVjMTZENUdpcUphN3hZMl9qaUxfZUw0MA?oc=5",
@@ -282,14 +282,14 @@
    "topic": "Society"
   },
   {
-   "id": "3b9a10e24b",
-   "title": "'OMG look at that': Scurvy and pellagra warning over Ozempic-type drugs",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGdQTTY3UUpJa09GWGNtQzlPUTlYVEZvTEVLd3dJaVkybmFtV0lCdTB5ZXVZUWxoSFg2LTQwNmRSLTZ3WjFSc3JqZlpLZ0dqT013aGN4X1ZrcmxLMUFfdkF2QjQyM1hmWGxFMmZBYWVjSU9uVVVDSThjcDk4eDQzV3FablBfeXRQMTB5WWdyR3NfWGpVSVJCRG85dWZGVmJSblZ5X2V0QTFWOFJ6MG52YjhuMkRnS1dIZ1dmVzMzN1Q2azNPaDhtUHFBelNzWDZ2VWU0RllXSVVPOXljQVF1c0d6UlFlZw?oc=5",
+   "id": "e2a249ba02",
+   "title": "Wanted man arrested after 14 hours up tree in night-long standoff",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkY3ZnpIODIzMUdTSXdwbG43SlM2MHFFTUpLeDBQX2NXdU40SWtuSzNlVGkzaTdxeVBPTTNTTi0yMzBsOUdqOHJIY0VldE5jVi1FcUFVN19wNzhPX2FvMnZqNzQ3Tm11blFZcDViM0RQelRBUFVtdGxOTU1uSVI3eExTSDEycUlxR1g2N0JqMWMtVnBXOTZEVzYwU0NIRWNLZ1Z2QkxNTk5YbXJZc3FOUlhncnQzSmRicTdLbFBmb2dqSFFiOHBqYkktMkJ0dFdQcE40U0VCZzNKUQ?oc=5",
    "summary": "",
    "image": "",
-   "source": "Newcastle Herald",
+   "source": "NZ Herald",
    "region": "NZ",
-   "date": "2026-11-13T20:00:28+00:00",
+   "date": "2026-11-13T19:16:00+00:00",
    "coverage": 1,
    "location": {
     "country": "New Zealand",
@@ -331,6 +331,23 @@
     "flag": "🇳🇿"
    },
    "topic": "Tech"
+  },
+  {
+   "id": "c70aab311b",
+   "title": "Country Life: Woodchester Station 10 years after the Kaikōura quake",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk12ZXFad1BSZWRON1k2UURMQm45ZTZvSUpNT19tYlB5NmdGZjIxZzlURkF2RDlJODRVaDRKWndfWlVQN1BjNlNJZ1VwbW5RSkhtMVNIc1pEY3hVWGdCZ1Y5ekNSWEo1SEczUjBlNmhnTHVyNG53RlZlcEFCOWZGUVdBQTRaVW1pN19nTE9Lby0zRl83d3FVY3RPQ0tvcy1qd0RqaFdST05za1VCZUE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-13T17:41:58+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Society"
   },
   {
    "id": "53679dbfa9",
@@ -384,23 +401,6 @@
    "topic": "Entertainment"
   },
   {
-   "id": "d56abe9a07",
-   "title": "Voters sour on MMP - and Luxon’s U-turn - in wake of election controversy",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRTRIbGZBRW5Fb19VT2Y1TklOeXhZQkhPTlFEd2FNYlRILWNxYWhBQk05ekd0azZLWHQySl9RdEZhb0JOSHRRcENzZmdlcnVDbmg3TEM2eTEzZnJjSENRaDVRS0Nxam9qUlVhdWpxOVQzbHFmblJhR09nSW9TWURkNW15emNjUEkwVUl6UlpER2xETS1vMG9FQWxiRDJLcjRMOFJv?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Stuff",
-   "region": "NZ",
-   "date": "2026-11-13T15:00:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "New Zealand",
-    "place": "",
-    "flag": "🇳🇿"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "df2518049d",
    "title": "Air New Zealand to launch direct flights between Hamilton and Queenstown",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORi04SlZfcmR0VTR4OWpLX2d3ZVF5MWZQZ3RrSE9WdjFPNWV3cmhVLXRMRDB4Z3FRNWVfV0pUOVNXV2RNaEhkVlB4RW5lOWlpSl93UWVQMHBtdGg2OE50UWFnczluUGJqMUZVSXp3SHFJbkZGU0ZhYXFlWWtkT2s5d0ptY05fWGF3Wm9DS0lFSC1UMGFHeGw5a195aThYUTc4em4tWUtwSWpIN0lTb040?oc=5",
@@ -431,6 +431,40 @@
     "country": "United Kingdom",
     "place": "",
     "flag": "🇬🇧"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2af43e4a23",
+   "title": "Fewer list seats could squeeze Māori representation in Parliament - expert",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXI1WlhjWm5LOVlndGk0WFdsSzJ3ZTJmVmxVenRTc2x3QlNDV3ZnTlpCajdPUkp1OHktTFlzZ3MxR3FRczFpVGZpMUdUbjVDQ2hwSnhQeDljTFJPSERZcS1fbENyYVdDS3F1YVdoTDlwUm5WNWVfRGJxTHI2bjBENzB4TlFRUnJrd09IR3hIOThuaVhBSnQ3M2lsc0dmQWVhY2xCSXNiUXRNeEN2VmFCVjdPR2Uxa1E?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-13T03:49:41+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "New Zealand",
+    "place": "",
+    "flag": "🇳🇿"
+   },
+   "topic": "Politics"
+  },
+  {
+   "id": "427c27e993",
+   "title": "Two children among eight killed in New York building collapse",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1dSaTEtOEwtQjlJNEFSMXpQbjBaWWRhTE12Y2RXNDVuWEo4UG9Ha3BDLS1FWnYxVFdCVUFzSUVqd2g0M1FDMW11YWhTM0tjVVFKcW5yNzd1UmloRFBWb1E3N0RycGNlNkFVMHhCenF2Q1d6OGdPNFFKSEpFMlhBY2hHamFIaWRESlVySDhQMzFjckN1WXNIdk1jMzdjamxrTjl5MA?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "RNZ",
+   "region": "NZ",
+   "date": "2026-11-13T02:24:04+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "United States",
+    "place": "",
+    "flag": "🇺🇸"
    },
    "topic": "Society"
   },

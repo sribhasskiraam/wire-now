@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "IT",
  "name": "Italy",
  "stories": [
@@ -72,31 +72,14 @@
    "topic": "Society"
   },
   {
-   "id": "0224c77c96",
-   "title": "Traffico aereo bloccato in tutti gli Stati Uniti. Escluso per ora un attacco cyber",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQXVZNWI1bGVpdHJtMWlrZFpra2RmNzJ0bzJKY29lVUhjSXROdGdkXzIwQno3WFVkdWNGYlJhMDB4LWlENGtKMzVMZzVuSHRTQlZqR1RDbUFSVWktV09FR1pObnlnNktlVnRyTmZFY1FXSUxickxGY0F0UXA4RVQzTHR0WWw0emRja0luS2FDVlV5U2hWSHVFQVlJSDdWRUxXQU5oVHBDWmpiOXlrWTZjaVJ5bTFnTEhQOV9qODFUaEFfUTFjU0hPajlVYkxfNE45OGxDY1E0S1BWZDQ0WVdVNG5YYW9VTngyeUlaTjJB0gHzAUFVX3lxTFBIMkJkTnBsNXRidm1QWkx3OVYxRWh5bHVuU25QdkdZd0NiTFF2ZjY0d3I1SzBNbm4wVS04T0F6bU9INTNKR0QtcndpbndUVkpxc2p2U2NQeUhqMlpvdVZMa08wbVlIRHRaUG1BVC1LRDhWY0VwSldVNjNCcXo4Mk5Ub0NOdmpVSXBmMzBuemRiYmJRdjNDNkxEYVlfTG0waDNIVXNrSi1rcTVSNEV1elkwd2hsbm42MnZUU2xYaGRwbUt4bnQtaXRsWkJBbkl1bmtGNkIwbnJ2YU9aejVJbkd2bGFPYjRCX1g5RkhIaWNpZXcwVQ?oc=5",
+   "id": "baf4dda842",
+   "title": "La Germania di Klopp ritrova il sorriso, dilaga l'Olanda: 7-0 alla Grecia. Fa festa la Svizzera per la promozione",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMnI4dWd1OWlUX3NKZlB4NENaWU82XzhrS1VqOFdqMEFsb0k2ZUlmenNsTFpTUi0xOXZndVU3dFkzbExUbUJzTEppOThJX3FlM2Jhd2EzUUd3U3NDeExQdmZxU0I0WVRpTGJBQzVwaHU4dF81R3czYXpmZlJrZ2hBdGljT3RjNVRoR1ZUQ0JmdHZTZ3g0WEJaeEEzcFFOejVnaXRFSUxfelJwNjBGWVlCeDI4T0k1YV9EU1Y4VjNCRkxTZXpJa19qeVNpZkg1MEdfSVpBb2JHOEd1ZjBKNUZqMkVKZXdpNEJNT0VOV1V1akFLbVo1ZmwwZ1p1bnAzOTR1TkxpZVFaelp5aVVES1RfdGpJN0pxNEhuLWNSY0ExUlR5Zw?oc=5",
    "summary": "",
    "image": "",
-   "source": "ANSA",
+   "source": "Eurosport.it",
    "region": "IT",
-   "date": "2026-11-13T22:55:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Tech"
-  },
-  {
-   "id": "8bd68a2fbf",
-   "title": "Ciro Grillo e lo sfogo sul suo processo e il crollo del governo M5s-Lega: l'accusa «pesante» a Giulia Bongiorno - Il video",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWxveUlZSmJZMWJneU1val9wVEYydW9rc3pGUU55MElZcWl0SjQ3djl6a3IzTW5vc1ROa1BkRVhncHk3SFdhVGthbmxfN1BvYVp1eWxSZVNTODBaZWUyQkFrYkNQVmhQcndOcUluZDk2Rm5haEhYOExVaDRpSnpMa2R0ZW1SMlNxbXNsQzVWZlVJZ2tnRmZlMVNWZjE4eHMtLUVpSQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Open",
-   "region": "IT",
-   "date": "2026-11-13T21:48:24+00:00",
+   "date": "2026-11-13T22:21:57+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -106,19 +89,19 @@
    "topic": "Society"
   },
   {
-   "id": "e5358f0a22",
-   "title": "Valanga Olanda! Super Reijnders, sette gol alla Grecia per andare ai quarti. Vincono Serbia e Scozia",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGg0X1NMbUdZRG0ybWxMbGlhckJzdVowcHJtNlptalpvRWpxTEEzWk1FX2FoSUpvZVJjRlFiWW9sT1hSc1Q2WlN4SW5tUGJac19JaVlGTUd5c2pMc2dIVWYxRDFBcmZvTUgzQUNuSkttRG82aFdTR1dRVC03TnFGeGpFbTZFTXdjQVY5ZWgtSktTdkJkZ0RvRXNnRDRHbWlGV1BfMXNwV3VTQlRDVXphUVMyamxqQ29xTTllc2dDYTFZVDQ?oc=5",
+   "id": "46d43ce633",
+   "title": "Mosca: “Mai parlato di Ue ai colloqui. Finlandia fuori dalla Nato o niente pace” - Zelensky: “Mi aspetto il più grande scambio di prigionieri della guerra”",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUktGcnpkQW9hRnJ0T1VrcEN3TDRBb0RQLUM0dEpJRHJGWEk0azhVajczNER3Slh6Q1Q2Z2JNLTd6cmk0RWljbWJWUGRMdHJNVVVROExhVW9NZDNjTzluOERKanFZekxYRnlqdDJWWjBWMGlvYnRVc2QyTGFKaTFzZjZzamNGYjVRalFxQm5LY0xWRzVfMmlMOWpkUG5QRkI4aFVpUldqZ25GYXBPMFZseXZSSjA4dFJManJ2WGpVYWJqRGJkNWlGYUl2aXY1cnNQM0xfaGlQTEdXYV85a05oQzNHWFNaWkNzc0VBWlJzZWJIT3B6VTRSb0k3Wlh5WXlkQWlWYlQxWU81TjBjRVQzczhCNNIBmAJBVV95cUxNZkVFbFd0a3RxQnBoYkpVZ3dvNVA3RF85UXpKdGM1eV8zanhHX2tWMnVPYmNGVjIyMWN4ZzFDRVF3ci1iZ25aUHd5cFFibmNUVXlXeEM5Zmx5ZjE2RHI0MkRxQzBaZ3huMHg0UkVFUmtiNks0YkZDUktjb2M0SEF1Y2NIY1UyNi1OWTF0OTlUc3FrSFVGZF82UDA3S1FGOHplWTZiOEh3V1pQbTNvUlNjbjdOdkMzSnY0UWpRNHNEa3VETEpveEtCRFFnc1pDbmFoNFdlMjluU3RaSlltazhqbldIdTc0VHVKbTJfMzRZMkZfdEZTem1hRFlRZ1hSU3VkU3BncE9mZS1LQmhDT0FSWkpqOHlNbVhC?oc=5",
    "summary": "",
    "image": "",
-   "source": "La Gazzetta dello Sport",
+   "source": "RaiNews",
    "region": "IT",
-   "date": "2026-11-13T21:42:44+00:00",
+   "date": "2026-11-13T21:51:00+00:00",
    "coverage": 1,
    "location": {
-    "country": "Serbia",
+    "country": "Ukraine",
     "place": "",
-    "flag": "🇷🇸"
+    "flag": "🇺🇦"
    },
    "topic": "Tech"
   },
@@ -131,6 +114,23 @@
    "source": "Il Sole 24 ORE",
    "region": "IT",
    "date": "2026-11-13T21:40:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "a7a906fd75",
+   "title": "Usa, traffico aereo bloccato: “Non è il nuovo 11 settembre né un attacco hacker”",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWp4RmJHcDNSenUzVGVINjlkV1oxbE5RMGtta1V5Zm1scEFtdURfRldrR0puTVNaZkpzRUxnTy11cDFkMEg4UWdFVl9LcUhSdDcyckVsQWV4NEh5N2wyNnBEaHdOVGlYcHE4SDMtU2cxeDhlRmZTYWdfNUNoUm1UNnRlY1Jkd9IBiwFBVV95cUxPSHRkblIwMEJ5UmgwOWlMUkFhN2JJOG5SbkVUSDNvNWVtQU5JUEJNemY2TjdRWC1ZNUtKSENoOUhYZkVJLW5GeWtCcmhJNGZMNWhMWkJlc3lIYThrdTQxMnUyX1BqWllLdWowVWVONy1qcTdGWU1iMEd6V2hYM0xxbm1ITUdtTVB4dnZv?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "la Repubblica",
+   "region": "IT",
+   "date": "2026-11-13T21:14:25+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -153,26 +153,6 @@
     "country": "Italy",
     "place": "",
     "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "81c86e26b6",
-   "title": "'Putin vuole Helsinki fuori dalla Nato'. Merz agli Usa: 'Basta sorprese'",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMmVSRlRKWDJBQ212cDZ0Z09DRndYRmtwcEo3bU44aGpmODU1VnVxZ3h6X1lSMGZZNVBkaXJQWGxuQ1dqSm1ZRnh0ZUpWd21UV1pqVmNRMnpKT0loTkRtUnhvUlJxbFZ1Q2x3eUE5VHZNTWt0SXpYU0EyR082VGU1dlFzWk5GWVVHWHZvX1BxQktPWHhxVml6dGxZa0hPWHlJRFM4NmN3bWVuMWR6TllpdTVSZ09Gc1VpUnUwbzc0QWh3a3JoN3RzdlN2dzJ0dGVwWXBvTExwNHFxUjFQTFQ3bU1wanHSAeoBQVVfeXFMTUQ5LUREWnFGTk42ZVBjVHhqS05YUFZzbHdycE8wcWpJQm5FcEtQZURLR2VrUWxGaV9nMXBjZF9nNUdTeEVBQ0FHY2c4czAzTFNOR1M1M0ZzN1VtblNOMkZUV1ZKQkxSUWpGV3VqYkQweVVWLWZCNjFnb3RMSGNrNFhqSElTUkhicmxnLVZZU2p1N2JRTk1jZ280anhFVFk4TXFGR0JLNE9hMEo4Mk92UklrbmNKcWNBcXJRNlF3SjBqOTRFNzUwZUJ3a0RRWmxGUVJPOGpQblJuQ3FXWWdLYThPd1VZbDRPb3RB?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "ANSA",
-   "region": "IT",
-   "date": "2026-11-13T20:18:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Russia",
-    "place": "",
-    "flag": "🇷🇺 🇫🇮",
-    "also": [
-     "Finland"
-    ]
    },
    "topic": "Society"
   },
@@ -313,6 +293,23 @@
    "topic": "Society"
   },
   {
+   "id": "00a6337a4d",
+   "title": "Mancini e Sebastiano Esposito, il rigore sbagliato e il rimprovero: \"Perché tu?\"",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0FGYy1aRjZlbTRDdlBIWUVoWTRDMVdxdXB1QzU1VUhQUzRBQmstUHc5amNGRXZyZ0stdHRXa2pLSk1CTFNHZXZEZ1pqeVJMTFhPbTBDd00xYWEyZGxMNjN1Y2tiSGZuRmFrQk1XVnByTlhzYlNLenNWY0I0ZnMwS3N0YjZkejFBdUVxRmI2b25NeVdtcFFqaTZmRXRwRU15ZHpfY3hNYmdVbU96Ti1FRk8ybWY3ZnlWWEJCdUdfWThfRGUwZzNwMVFCc3VpaW8?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Il Fatto Quotidiano",
+   "region": "IT",
+   "date": "2026-11-13T14:56:42+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "447a165fb5",
    "title": "Il neurologo Martino: «La sclerosi multipla si può tenere a lungo sotto controllo»",
    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNV19nZ0c2SWpRZTJBN1VPa2Nud1lhNFRZeFJMU0ZWWHBIcGpkeG5ZZlVDSzJsMkRRT0pPRWpLdlVKXzExVm5jQ1g4bGEtVHZ3dVpzRUQ3NVh4aWFLcGQ0SXlFSl9idHdZVC1xN3gxQWVJZmUyYkhEYkRNMU9uREN4eE1uSXRGV2FoZllTdkd1d1pMd29EX2dsbVoybG5ObmljX3NGUUoyOXd4MDdWdS05enc0VG5JNnlsa0Nud09Qbm1XRnJwUXFZNF95VG1KU0RsYmp3aDBHQ0NQMGpmQndqNmZ4bWM3S0lBTFloN2RvcTdiVmY1dVVGS0VYRlNkZGsxLXVxajN1R3BTVjlpQUlIdzZMOThnalZQQUxDbE93dGxaQ0tQUWozUkU3cUFKSU8xX1cxMFowY0FoNjRScUlHedIBxgJBVV95cUxNYjBQYzBPUVRMaEpUdFUwRGxLVnV2SHRISW15RF8tOEItWVpYR0dSLXNtNDRfX3dTV05TTS1yTktObGdFQ25iQ01Dcl9ZY1Frdzc4SVp4OW1CSERoejVrNDNIWW1pY1ZJaHdueWhjdGxwUDBUcFM0ZG9hZUNvSkE1b3doaGdIN2pNMGFFS2hKV1cyR0lIZnVpaHpXZHU5bnBKLVlpSGdURVZSR05tZkVFSzBXQTk2YUYyQmx3QWZRU1V0Tkp5ME1tRmhCLUllbzhZRmk3dThKVDl6cU1wX0ZMVWNtTGNnLXkwVWgwbngtVXZSUFNMSlRONGxGVm9jTVFYNkpwSk5zOTgwUDFPakZWcnFHdWViWVE0S2ZGYm11Q3ZUUUktUmlXZ1pSTEZKelB2T1I5c29HT0wteUVIbkg3OXAwVzdKdw?oc=5",
@@ -372,23 +369,6 @@
    "source": "Libero",
    "region": "IT",
    "date": "2026-11-13T10:53:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "8115de206f",
-   "title": "Pio Esposito sulle orme di Meazza e non solo: i numeri in Nazionale sono già storici",
-   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxON21UbkdYa3FVU3dWUk9TYk5WaEVONW1FdF8wQktTZWNUcjVMVkhMNVZTcnlvSEpaRTR3alR6eW1scWdhYUZQanFWY0dPZEJSMmtabG5PS2hoSjBGRHdEZWxYVEt4X2pYSnQ3UXN2blNGQi1nbzJIcXc5d1BOSThUaGtRM1c3bTNBbDcyZGVpd2JGT2dwZzc5VTJaU0JpdEJneTVCa3E3Umc0NTdCZTVMVzhlVjF3SC1VV1h1czFGLUNzdFFVLW9xUExKMUY2S1ZhTEFsYVpwMlNpVUFXYTJyd2kwX05zbnlxTEVtTEd0NFVPMk82a2JUTWRVZWlpb1Vkay05NFAyT1lRNEpUVnJmbjlOb2JPcmN4Z3pxN3BkYkpUbXRLTlZrSUlwcUdIOElBNGtvQ052MGN1dk1Xc0c1N1dRX194ckFBa3lDYTB3emNmYVE?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Eurosport.it",
-   "region": "IT",
-   "date": "2026-11-13T10:19:44+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",
@@ -542,6 +522,23 @@
    "source": "Media INAF",
    "region": "IT",
    "date": "2026-11-12T11:18:49+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2e96380843",
+   "title": "I candidati alla presidenza francese, fin qui",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmFIMEdZTVg1SEVnbUUtQUVFY0I3Sndjc0JWWHdWWHNWcUNoUHowWng1NG40X3NFUXc5ZVBmZXpKUG1ydlBweHpzLVJzS2QxRXQwVnVYSkw2RWpsTHhDUGpCa3BiT3RramJuMmdrNU11RVpUS1BoNGZRMFJoVTJnX0h4ZTQtMmxhdGtlZXVDSQ?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Il Post",
+   "region": "IT",
+   "date": "2026-11-12T10:00:55+00:00",
    "coverage": 1,
    "location": {
     "country": "Italy",

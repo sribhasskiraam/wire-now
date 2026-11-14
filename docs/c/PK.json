@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T03:14:42.229637+00:00",
+ "updated": "2026-11-14T03:40:06.627502+00:00",
  "code": "PK",
  "name": "Pakistan",
  "stories": [
   {
-   "id": "01d58c0798",
-   "title": "What we know about the longest US nationwide flight ground stop since 9/11",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "id": "869070af4d",
+   "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkhkRS0wN3ZwMVdrV1lmZ3Z6bGpxSDRvcHc0MFpGNDlQZXVtTG9qTkl5X2pHY1c4SW5zU3ZRVHY5X1QyM3dQZ0M2R0toVkprNFRIVml3QkNXbnhRaWxKNVZvdjFoY0xQT2J1cUlhZi1QVzlpdUJHYzZ5d1N1ZHZhdDRaR3U1NjRiMXhQUDMyZVVka2lDd05xdFd2Yk1TTXRWSlpTaFdUR284eGZaaThSa2FGN1lXYy1iclZOdEl2Z211ajc2LWNHVkhCS1pNSXIwMFpZZUprSGw1Q3pm?oc=5",
    "summary": "",
    "image": "",
-   "source": "BBC",
+   "source": "The Guardian",
    "region": "PK",
-   "date": "2026-11-14T03:10:37+00:00",
+   "date": "2026-11-14T02:37:30+00:00",
    "coverage": 1,
    "location": {
     "country": "United States",
     "place": "",
     "flag": "🇺🇸"
    },
-   "topic": "Society"
+   "topic": "Tech"
   },
   {
    "id": "6e85a8bac0",
@@ -29,6 +29,40 @@
    "source": "The Guardian",
    "region": "PK",
    "date": "2026-11-14T02:31:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "75b14d1889",
+   "title": "Bloodborne Just Got A Complete Overhaul On PC",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSVgxX1JnbFJTbEhZN2xXSVkyZ19KUlJkTHNqaFAtRzlMZ1JFaU5oc21UWXRnZ0R4NVNNQkxiZEdCY3ZyREljX2o4U2NxNzVtMExlLTNWM0w0UWctc0hYeFVTZ3lNWVV3Z3ZTQlRyUGk?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "ScreenRant",
+   "region": "PK",
+   "date": "2026-11-14T02:00:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "861986ff66",
+   "title": "Lahore CCPO orders supervisory officers to lead raids, operations against criminals",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1VIbHJONEthWC1mY3RreXVQbE5BcWdiNlRHakJoT3dteWk4VE1oU25jYUtMQlduT3BEaEFQZUMyTmE3WEZpbGhfVS1qRkRVS3czYWpRZW9yMmlfRE5xbDRtLTFjaHFYWHljWE1yazJsQWExaUVJZEc2QWdKZVBxRXRPRkVHMzhMNEJ2ZUZLS2QySVlZODB4dXV4V0JzR3pUejJna2hLLWdOcDRyYVE?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "The Nation (Pakistan )",
+   "region": "PK",
+   "date": "2026-11-14T00:40:28+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -55,14 +89,14 @@
    "topic": "Politics"
   },
   {
-   "id": "861986ff66",
-   "title": "Lahore CCPO orders supervisory officers to lead raids, operations against criminals",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1VIbHJONEthWC1mY3RreXVQbE5BcWdiNlRHakJoT3dteWk4VE1oU25jYUtMQlduT3BEaEFQZUMyTmE3WEZpbGhfVS1qRkRVS3czYWpRZW9yMmlfRE5xbDRtLTFjaHFYWHljWE1yazJsQWExaUVJZEc2QWdKZVBxRXRPRkVHMzhMNEJ2ZUZLS2QySVlZODB4dXV4V0JzR3pUejJna2hLLWdOcDRyYVE?oc=5",
+   "id": "6763720bd7",
+   "title": "Referendum talk",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HVENWVGJDVTlGeXpPcmxUZjFsVkFIbVdySVhIcUJYTlVvRk1GVFBQazg2VGVrckdVR0tJRUZySE02TVFlZlZ4Yg?oc=5",
    "summary": "",
    "image": "",
-   "source": "The Nation (Pakistan )",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-14T00:40:28+00:00",
+   "date": "2026-11-14T00:24:22+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -70,23 +104,6 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
-  },
-  {
-   "id": "ae87096465",
-   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Reuters",
-   "region": "PK",
-   "date": "2026-11-14T00:25:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "China",
-    "place": "",
-    "flag": "🇨🇳"
-   },
-   "topic": "Business"
   },
   {
    "id": "bf2e098e99",
@@ -157,23 +174,6 @@
    "topic": "Society"
   },
   {
-   "id": "f671a6a1f7",
-   "title": "New provinces cannot bypass Parliament: Tariq Fazal",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONE5WbnkxVFA2cnNOMjd0YnN3VzFNcFFNcmctZHV6Z3ZlaXZFUmZzLXI1WGJlSWxYVElGUURuWURycFNkeUl5TWdMLWsxY09RZ2EyaDRzV04yLUVQNGE4b0hyRGJrOUxXWjlFZERMbzJFQTlHSGY1RTNVYU9VT0E0UmFCdkowcE5CbGxYSWR2cw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Minute Mirror",
-   "region": "PK",
-   "date": "2026-11-13T17:10:03+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Politics"
-  },
-  {
    "id": "70c76b3fbb",
    "title": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia at UN",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUZZd21PaVRpLVdOU2NxRkdTWjlrZG1DRkt5OXotUEtyY0h2akVzVDJRNUd3Yzh5VzMtV1IwY3h1VnQ4QzJXU2M2NEJKQUFJbG1KVnNyaEVaSlNhbFlCUDFHRU9tXzNCTXBjZHR3cnFJWkJPbmN6RzJqWktPMXM1eEpPcEM1ejl1V2JjX2FuUGtBTURneGZqMHdDT2dmN0x5WGNtbEhuV1A0Z1dIYlBwa1FiUXFtMHFPSmNsaVd1NVVBQ3ptS0p6MDlGTjhoU19IclHSAdgBQVVfeXFMT1NtVy1hM1NDdnNfTEhaaVpDM1pIb0RNdG5IWnBUSEVNd0o0SjduSHEwaHRmLVBLSml3SmdkR3N6ZERoNy1fb1ZjNnZDd2s5ZmR5UVNna015SnJ1QnBfV0R3VEMyMzFTbjJEblc0LWRBLWxoZ0ZrZEhXcFhCRnN0bG5hTGVYckc1Y0JXX0tfUlVweVFld0NLa2JZZm5Ub3d1MVNKdGVaVXRhMW1lRTVFdHpmUTczVW1iRXJTN1k1YnJfZldna0c0NEEzQU9Fdzk1S0Z0ZzhwVzh2?oc=5",
@@ -195,14 +195,14 @@
    "topic": "Society"
   },
   {
-   "id": "0d45b5fb3a",
-   "title": "President's Spokesperson rejects reports of discussion on provincial matters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTdUTVRqT0c4UVh0VEc1VkJQcUJVZTh0UWhQcGRyMHNDNmN0RHFPeWpsUEZOSUdrT1JXYVdCbEZPdmNQVXdZbFhTQW5pTkxBMkMzQ0c1MWQxYldjVVlIWHpoeDlEaU1yd2NoeDQ1T19HWUx3MC1pYWkyVlBhQjVma1VUOWl2Vmd5ZGlGMEpVcHd0WmdwajQ3NzdzLWtoOHZrSGhYZ1dsd0hDNGp0WHJMMA?oc=5",
+   "id": "14fe4ea9b3",
+   "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zQW96X29FMFZfUTIxV25TYUNRZlBGLW9xbnhQTnJZYjctZm9iRnFZMWREdndqeFBzLTZTTXFZamlNSTdBTDNRVw?oc=5",
    "summary": "",
    "image": "",
-   "source": "RADIO PAKISTAN",
+   "source": "Dawn",
    "region": "PK",
-   "date": "2026-11-13T16:05:12+00:00",
+   "date": "2026-11-13T16:00:07+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -212,14 +212,14 @@
    "topic": "Politics"
   },
   {
-   "id": "e959e1aa09",
-   "title": "Johnny Depp brings yuletide jeer with 'Ebenezer' Scrooge redo",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTF3WWE1ODV6T0pFMkRjeXc4MWdQaUwtc0tENTdmZDduZENDNjMwanNhZmpJSkh3Q01aVjVzLUpNQmRiU2dxRzI0eWxiNnFicno0ZGNtaVcwWmwySkJsdlU1X1RKSVdNUlBMX3Nxa25wVl84blIwdHE3V3duNHZ5ZVdkWk5jLVFYbzFKeGc1WXFnLU9aaWFOYmJxV0ZlOHZf?oc=5",
+   "id": "efca009da8",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmJCYlR5dlhvNXJ2UlNrcHpZZ0tCNVZLVnBmUVB2X0R5NlNpMmRESDhlUzZiVXRUWlFYQ050RmRLX0xvRkRUdnJnX3hOSUc4RGItVXRCZDlmS05CWDZWMzRYbGhheTJxN0cwNEtNSi1KYV9wUEh0a2pJLUc2V00zTGJiUnZfZDEwQnNxNWhIc2Jqa1N6TzdvV1lEZlFPblU2UGhPZg?oc=5",
    "summary": "",
    "image": "",
-   "source": "USA Today",
+   "source": "TechCrunch",
    "region": "PK",
-   "date": "2026-11-13T15:24:00+00:00",
+   "date": "2026-11-13T15:58:00+00:00",
    "coverage": 1,
    "location": {
     "country": "Pakistan",
@@ -245,6 +245,23 @@
     "also": [
      "Iran"
     ]
+   },
+   "topic": "Society"
+  },
+  {
+   "id": "2ef822c1cf",
+   "title": "Johnny Depp's yuletide jeer",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjVWLUJ5S1RBaktWYzJTZkpiOEhGUkIxVU54ZWJyZjhRSnEzNlpsS0pwQ01UTTR3eW9qcjhHMTk3aWktZzI5T3c3WWJNdjVfSWlxbjMwdHZ0WVN4QlliMG9KbVV0cV9zZm9WSUNpdTZfZ3VIeWtWa1pQeS1rT3VTUlZJM09OX1JmQWIwUEJmX0VvS3VKdmNIWi1JbEtBZHJ4ZXdyaTFGLXBmbXdUYWg5Y0p4ZU5faUM2a2F6NXl6dmVzMUVUSWFBQzVR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Central Oregon Daily",
+   "region": "PK",
+   "date": "2026-11-13T13:56:46+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
    },
    "topic": "Society"
   },
@@ -283,23 +300,6 @@
    "topic": "Society"
   },
   {
-   "id": "482f47a63a",
-   "title": "Savannah Guthrie's ‘Today’ future revealed amid family crisis",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUU5NVdtblVpSzJ0dEVVdEttOHJfNEVIYjdwcmM4TGh3SWV0b0RvaGt2ZEFtYmdJQnd4elEtNXdONEYwSGs5WnZqWk9UN0R6Ykg5VUl2Qmg5aHhoVlRsTE80dWVHa0hjdHgxcXZyMkxGZTY1Z3ZrVDI3UE1ETTdyWmRJeG0zOWV2TDRFLVZjSFE3RmVYRWlXdEoyVEE1MHRkOWt6NldIS2NuYjEwVFlSbTVTc1RDZnhmYTVqSkFlUEFEdw?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Cleveland.com",
-   "region": "PK",
-   "date": "2026-11-13T13:20:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Pakistan",
-    "place": "",
-    "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
    "id": "5416e86f94",
    "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXpva3R3Y3pWcXJ1SmlXZ3dVYjkzWkY2MVdzWmo1TWdOM2I5UlUyb2NBVXpnYlZBT0ZMV29zUi1takJoVGUyWTcxZDc2dTZEdVR3RzgxQkI4b01zU0YzQ0dlRU9ibzlxSXNPdlJYY2I4ZUNWQjI5NTNVY1JCcEhiSW9sMGZzTC03Skptc3pmWm5CQUdqSE9lajUyNzdLLUl2Qng0NldCVdIBrAFBVV95cUxPMnplZlVqNFZOd21xQ1k4TWNXTHMxcU9vMVdTVlF1WXhFTEQwRWlrMTlPb01YQjdwTk1Ma1FKTnJnMGR2Z181M09xQ2I0a25ETnhRVllWUks2dzd0aXVhTDEwZkpkQjBRekt2YTgyLXlRX1NVd0pwbEx6NVpmQVNyTUo0SDJ6d0swRno2RFVWbnRndTBDWU5JRGxFTG9BZlYxZEw2M05BLUFEYVY5?oc=5",
@@ -315,6 +315,26 @@
     "flag": "🇵🇰"
    },
    "topic": "Society"
+  },
+  {
+   "id": "e8249607dd",
+   "title": "Italy rise in FIFA World Rankings after 3-1 victory over France",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVyYUxFbG1KcU85N1FrdHk0d3hZWXRWenB2RGU5RWtJV1FSSS1fRnBaZHliekg5VG5fSENjRDhfeVZ4YUE0UTBobUZNWmFmM2RzYmZjRi1pOUd0THdZdERtMV95TThjN1E5OE5lQ3JJdkNSTjR0YUhIeDU2VkhnSjItemtYdw?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo Sports",
+   "region": "PK",
+   "date": "2026-11-13T11:24:00+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Italy",
+    "place": "",
+    "flag": "🇮🇹 🇫🇷",
+    "also": [
+     "France"
+    ]
+   },
+   "topic": "Sports"
   },
   {
    "id": "e17900cacc",
@@ -545,6 +565,23 @@
    "topic": "Society"
   },
   {
+   "id": "258bff2e39",
+   "title": "Johnny Depp Opens Up About Moving 40 Times When He Was Younger and How He Found ‘Total Peace’ at His Bahamas Home",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXpaZ0JYMFBCbGlXN3F3X2cxOG03NzRHSDA3djVzbnpFUF8ycDdpeWFzZVNDbUhWSUkzUUFkbFhsVU9QZmtpMHdxYndvZFRYVUlFN2thZTBwU1lqWjJhY2REWkw2cVlSSjFIWk1jMjZDakVOUnJ5bWdWTXdoaFpiVmU3SXhERFhCVnhyczQxNGJSVVIySE91WkhsWFIyRXZ2SzN6ZzJRYzc0ZXlR?oc=5",
+   "summary": "",
+   "image": "",
+   "source": "Yahoo",
+   "region": "PK",
+   "date": "2026-11-12T22:16:17+00:00",
+   "coverage": 1,
+   "location": {
+    "country": "Pakistan",
+    "place": "",
+    "flag": "🇵🇰"
+   },
+   "topic": "Society"
+  },
+  {
    "id": "0c65e3d467",
    "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTEybk43ODZTYmdLWGp2cGN1dlp0M19tbTBqZXNucVI4WkdxdHVDalRneDNpRWVuZ0hYLUdrU1M0M2FuZi05N09iTEVGX2lZcFhPVGluTDRnQzN0eWh6bVI2Y2dfbWh4WDNCSS1MZGVRdS1Ram9KMnFwTmwyUnVJV3BR?oc=5",
@@ -558,27 +595,6 @@
     "country": "Pakistan",
     "place": "",
     "flag": "🇵🇰"
-   },
-   "topic": "Society"
-  },
-  {
-   "id": "9812790c61",
-   "title": "Italy end France's unbeaten run and go top; England reach knockouts",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3NXQTYyTk9jNkFmbVJwLTdQYW9RWWhGT0lPLXp1Sjc2eFRQRjNkdFNUR0F5emY2U1RkV1VCS2dMUnZLdjJBOXRiWW1mX2F2S3BtREo1ME94MElkZmJ6TVJjNm1XbkRzRmxQeF9pYUVXZjBJQkhnR3BPSmdGdTBnZ0t2ajVZUQ?oc=5",
-   "summary": "",
-   "image": "",
-   "source": "Yahoo Sports",
-   "region": "PK",
-   "date": "2026-11-12T21:40:00+00:00",
-   "coverage": 1,
-   "location": {
-    "country": "Italy",
-    "place": "",
-    "flag": "🇮🇹 🇫🇷 🇬🇧",
-    "also": [
-     "France",
-     "United Kingdom"
-    ]
    },
    "topic": "Society"
   },
